@@ -2,13 +2,14 @@
   "id": 286853707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.964959,41.370624,-73.964959,41.370624",
     "geom:latitude":41.370624,
     "geom:longitude":-73.964959,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"316 Main St",
     "sg:city":"Highland Falls",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85821803,
+        102191575,
+        404522899,
         85633793,
-        102083007,
-        85821803
+        85978223,
+        102083061,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"95ee106da8346cfb962fce9c509afa31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083007,
-            "locality_id":-1,
+            "county_id":102083061,
+            "localadmin_id":404522899,
+            "locality_id":85978223,
             "neighbourhood_id":85821803,
             "region_id":85688543,
             "venue_id":286853707
         }
     ],
     "wof:id":286853707,
-    "wof:lastmodified":1449016361,
+    "wof:lastmodified":1454125606,
     "wof:name":"Buttermilk Falls General Store",
     "wof:parent_id":85821803,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-73.964959,41.370624,-73.964959,41.370624],
-  "geometry": {"coordinates":[-73.964959,41.370624],"type":"Point"}
+  "bbox": [
+    -73.964959,
+    41.370624,
+    -73.964959,
+    41.370624
+],
+  "geometry": {"coordinates":[-73.96495899999999,41.370624],"type":"Point"}
 }

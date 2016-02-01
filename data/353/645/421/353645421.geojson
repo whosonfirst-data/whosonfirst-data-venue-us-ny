@@ -2,13 +2,14 @@
   "id": 353645421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.82804,40.677594,-73.82804,40.677594",
     "geom:latitude":40.677594,
     "geom:longitude":-73.82804,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11019 Rockaway Blvd",
     "sg:city":"South Ozone Park",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844441,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844441
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"d2269a7baba9a529f7d88dce99893052",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844441,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353645421,
-    "wof:lastmodified":1449018513,
+    "wof:lastmodified":1454126026,
     "wof:name":"Ozone Park Animal Clinic",
     "wof:parent_id":85844441,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "veterinarian"
     ]
 },
-  "bbox": [-73.82804,40.677594,-73.82804,40.677594],
+  "bbox": [
+    -73.82804,
+    40.677594,
+    -73.82804,
+    40.677594
+],
   "geometry": {"coordinates":[-73.82804,40.677594],"type":"Point"}
 }

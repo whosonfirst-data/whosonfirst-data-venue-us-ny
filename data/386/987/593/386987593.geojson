@@ -2,13 +2,14 @@
   "id": 386987593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.6901,43.16472,-77.6901,43.16472",
     "geom:latitude":43.16472,
     "geom:longitude":-77.6901,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2394 Lyell Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://www.littlecaesars.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837647,
+        102191575,
+        404522629,
         85633793,
         85979031,
         102081815,
-        85837647
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"5480a6b3204d1c02d584f5674b978b82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404522629,
             "locality_id":85979031,
             "neighbourhood_id":85837647,
             "region_id":85688543,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":386987593,
-    "wof:lastmodified":1449028796,
+    "wof:lastmodified":1454127234,
     "wof:name":"Little Caesars Pizza",
     "wof:parent_id":85837647,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "pizza"
     ]
 },
-  "bbox": [-77.6901,43.16472,-77.6901,43.16472],
+  "bbox": [
+    -77.6901,
+    43.16472,
+    -77.6901,
+    43.16472
+],
   "geometry": {"coordinates":[-77.6901,43.16472],"type":"Point"}
 }

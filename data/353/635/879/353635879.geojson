@@ -2,13 +2,14 @@
   "id": 353635879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.820602,40.691399,-73.820602,40.691399",
     "geom:latitude":40.691399,
     "geom:longitude":-73.820602,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12506 101st Ave",
     "sg:city":"S Richmond Hl",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844441,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844441
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"707995a8efe15ec008e1c5ae7c269cf1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844441,
             "region_id":85688543,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":353635879,
-    "wof:lastmodified":1449019356,
+    "wof:lastmodified":1454126267,
     "wof:name":"Health Insurance Plan of Greater Ny",
     "wof:parent_id":85844441,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "medical"
     ]
 },
-  "bbox": [-73.820602,40.691399,-73.820602,40.691399],
-  "geometry": {"coordinates":[-73.820602,40.691399],"type":"Point"}
+  "bbox": [
+    -73.820602,
+    40.691399,
+    -73.820602,
+    40.691399
+],
+  "geometry": {"coordinates":[-73.82060199999999,40.691399],"type":"Point"}
 }

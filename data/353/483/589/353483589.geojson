@@ -2,13 +2,14 @@
   "id": 353483589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.897689,40.746185,-73.897689,40.746185",
     "geom:latitude":40.746185,
     "geom:longitude":-73.897689,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6709 Roosevelt Ave",
     "sg:city":"Woodside",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85859007,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85859007
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"78c64a3ace4462139bd5e3a67e42295a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85859007,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":353483589,
-    "wof:lastmodified":1449020274,
+    "wof:lastmodified":1454126533,
     "wof:name":"Roosevelt Medical Services",
     "wof:parent_id":85859007,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.897689,40.746185,-73.897689,40.746185],
+  "bbox": [
+    -73.897689,
+    40.746185,
+    -73.897689,
+    40.746185
+],
   "geometry": {"coordinates":[-73.897689,40.746185],"type":"Point"}
 }

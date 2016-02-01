@@ -2,13 +2,14 @@
   "id": 287150243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.041952,41.539297,-74.041952,41.539297",
     "geom:latitude":41.539297,
     "geom:longitude":-74.041952,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"193 N Plank Rd",
     "sg:city":"Newburgh",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85821091,
+        102191575,
+        404522913,
         85633793,
+        85979519,
+        102083061,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"bc179201122c2ab2004820cbf1bab677",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083061,
+            "localadmin_id":404522913,
+            "locality_id":85979519,
+            "neighbourhood_id":85821091,
             "region_id":85688543,
             "venue_id":287150243
         }
     ],
     "wof:id":287150243,
-    "wof:lastmodified":1449000677,
+    "wof:lastmodified":1454123755,
     "wof:name":"Kalici N S",
-    "wof:parent_id":-1,
+    "wof:parent_id":85821091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-74.041952,41.539297,-74.041952,41.539297],
-  "geometry": {"coordinates":[-74.041952,41.539297],"type":"Point"}
+  "bbox": [
+    -74.041952,
+    41.539297,
+    -74.041952,
+    41.539297
+],
+  "geometry": {"coordinates":[-74.04195199999999,41.539297],"type":"Point"}
 }

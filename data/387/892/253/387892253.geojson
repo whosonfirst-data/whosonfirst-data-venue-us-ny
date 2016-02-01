@@ -2,13 +2,14 @@
   "id": 387892253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.620808,40.859416,-73.620808,40.859416",
     "geom:latitude":40.859416,
     "geom:longitude":-73.620808,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 Glen St",
     "sg:city":"Glen Cove",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85977671,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"5903c975cb993be468e5f343eda5eaa8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977671,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":387892253
         }
     ],
     "wof:id":387892253,
-    "wof:lastmodified":1449056667,
+    "wof:lastmodified":1454129628,
     "wof:name":"Vice Consolato Of Italy",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "affairs"
     ]
 },
-  "bbox": [-73.620808,40.859416,-73.620808,40.859416],
+  "bbox": [
+    -73.620808,
+    40.859416,
+    -73.620808,
+    40.859416
+],
   "geometry": {"coordinates":[-73.620808,40.859416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287116809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.186544,41.178064,-74.186544,41.178064",
     "geom:latitude":41.178064,
     "geom:longitude":-74.186544,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 State Hwy 17",
     "sg:city":"Sloatsburg",
     "sg:classifiers":[
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85851023,
+        102191575,
+        404523097,
         85633793,
+        85978561,
+        102082385,
         85688543
     ],
     "wof:breaches":[],
@@ -44,18 +50,20 @@
     "wof:geomhash":"b6c01466487477b457105a291457e051",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082385,
+            "localadmin_id":404523097,
+            "locality_id":85978561,
+            "neighbourhood_id":85851023,
             "region_id":85688543,
             "venue_id":287116809
         }
     ],
     "wof:id":287116809,
-    "wof:lastmodified":1449000788,
+    "wof:lastmodified":1454123781,
     "wof:name":"Carboro Contractors",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851023,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.186544,41.178064,-74.186544,41.178064],
+  "bbox": [
+    -74.186544,
+    41.178064,
+    -74.186544,
+    41.178064
+],
   "geometry": {"coordinates":[-74.186544,41.178064],"type":"Point"}
 }

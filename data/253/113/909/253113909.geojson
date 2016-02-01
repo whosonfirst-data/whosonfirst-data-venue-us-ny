@@ -2,13 +2,14 @@
   "id": 253113909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.982853,41.157315,-73.982853,41.157315",
     "geom:latitude":41.157315,
     "geom:longitude":-73.982853,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 Squadron Blvd",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.wachoviasec.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85808111,
+        102191575,
+        404523091,
         85633793,
         85979971,
         102082385,
-        85808111
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"32fb4eded5e5eda418bde0fd9f4dd80c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523091,
             "locality_id":85979971,
             "neighbourhood_id":85808111,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":253113909,
-    "wof:lastmodified":1449065544,
+    "wof:lastmodified":1454130702,
     "wof:name":"Wachovia Securities",
     "wof:parent_id":85808111,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "financial"
     ]
 },
-  "bbox": [-73.982853,41.157315,-73.982853,41.157315],
-  "geometry": {"coordinates":[-73.982853,41.157315],"type":"Point"}
+  "bbox": [
+    -73.982853,
+    41.157315,
+    -73.982853,
+    41.157315
+],
+  "geometry": {"coordinates":[-73.98285300000001,41.157315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370656839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.84315,40.953364,-73.84315,40.953364",
     "geom:latitude":40.953364,
     "geom:longitude":-73.84315,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1567 Central Park Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530419,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"6f5aa7219dbbf9a4872b6138da728acc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530419,
             "region_id":85688543,
             "venue_id":370656839
         }
     ],
     "wof:id":370656839,
-    "wof:lastmodified":1449031280,
+    "wof:lastmodified":1454127960,
     "wof:name":"Grassy Sprain Pharmacy",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530419,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.84315,40.953364,-73.84315,40.953364],
-  "geometry": {"coordinates":[-73.84315,40.953364],"type":"Point"}
+  "bbox": [
+    -73.84315,
+    40.953364,
+    -73.84315,
+    40.953364
+],
+  "geometry": {"coordinates":[-73.84314999999999,40.953364],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320439477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.465046,40.701313,-73.465046,40.701313",
     "geom:latitude":40.701313,
     "geom:longitude":-73.465046,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"937 N Bay Ave",
     "sg:city":"Massapequa",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85806127,
+        102191575,
+        404521475,
         85633793,
-        85979049,
-        102082371
+        85979069,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"554cbb079c8a1d8e04dfa0c8f40f49d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979049,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85979069,
+            "neighbourhood_id":85806127,
             "region_id":85688543,
             "venue_id":320439477
         }
     ],
     "wof:id":320439477,
-    "wof:lastmodified":1449012286,
+    "wof:lastmodified":1454124928,
     "wof:name":"Expressions Unisex Hair Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":85806127,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.465046,40.701313,-73.465046,40.701313],
+  "bbox": [
+    -73.465046,
+    40.701313,
+    -73.465046,
+    40.701313
+],
   "geometry": {"coordinates":[-73.465046,40.701313],"type":"Point"}
 }

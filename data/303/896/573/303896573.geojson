@@ -2,13 +2,14 @@
   "id": 303896573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.991073,41.135428,-73.991073,41.135428",
     "geom:latitude":41.135428,
     "geom:longitude":-73.991073,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"365 S Main St",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"075334963c3fb6fba2abe4eb21e57a5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":303896573
         }
     ],
     "wof:id":303896573,
-    "wof:lastmodified":1448999012,
+    "wof:lastmodified":1454123296,
     "wof:name":"Michael A Kalvert MD",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.991073,41.135428,-73.991073,41.135428],
+  "bbox": [
+    -73.991073,
+    41.135428,
+    -73.991073,
+    41.135428
+],
   "geometry": {"coordinates":[-73.991073,41.135428],"type":"Point"}
 }

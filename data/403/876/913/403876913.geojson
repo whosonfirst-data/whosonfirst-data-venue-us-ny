@@ -2,13 +2,14 @@
   "id": 403876913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.959284,41.723143,-73.959284,41.723143",
     "geom:latitude":41.723143,
     "geom:longitude":-73.959284,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"36 Grand St",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825183,
+        102191575,
+        404523253,
         85633793,
         85978939,
         102081775,
-        85825183
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"9cff4eeb7c15c161dd9d5720ab180256",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
+            "localadmin_id":404523253,
             "locality_id":85978939,
             "neighbourhood_id":85825183,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":403876913,
-    "wof:lastmodified":1449054905,
+    "wof:lastmodified":1454129361,
     "wof:name":"Pete Custom Woodworking",
     "wof:parent_id":85825183,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.959284,41.723143,-73.959284,41.723143],
+  "bbox": [
+    -73.959284,
+    41.723143,
+    -73.959284,
+    41.723143
+],
   "geometry": {"coordinates":[-73.959284,41.723143],"type":"Point"}
 }

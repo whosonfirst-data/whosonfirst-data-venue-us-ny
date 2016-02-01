@@ -2,13 +2,14 @@
   "id": 303669851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.17836,43.035813,-76.17836,43.035813",
     "geom:latitude":43.035813,
     "geom:longitude":-76.17836,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"412 Rowland Ave",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881269,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881269
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"023e47a7b1501c62cfc2f5a2d49bbb70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881269,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303669851,
-    "wof:lastmodified":1448998400,
+    "wof:lastmodified":1454123083,
     "wof:name":"Global Taxi",
     "wof:parent_id":85881269,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "taxicab"
     ]
 },
-  "bbox": [-76.17836,43.035813,-76.17836,43.035813],
+  "bbox": [
+    -76.17836,
+    43.035813,
+    -76.17836,
+    43.035813
+],
   "geometry": {"coordinates":[-76.17836,43.035813],"type":"Point"}
 }

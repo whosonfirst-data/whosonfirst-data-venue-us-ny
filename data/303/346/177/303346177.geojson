@@ -2,13 +2,14 @@
   "id": 303346177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.088039,40.733003,-73.088039,40.733003",
     "geom:latitude":40.733003,
     "geom:longitude":-73.088039,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"272 W Main St",
     "sg:city":"Sayville",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"95e500a8754c60758ba25291896e0942",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":303346177
         }
     ],
     "wof:id":303346177,
-    "wof:lastmodified":1448998104,
+    "wof:lastmodified":1454122981,
     "wof:name":"Clothesline",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.088039,40.733003,-73.088039,40.733003],
-  "geometry": {"coordinates":[-73.088039,40.733003],"type":"Point"}
+  "bbox": [
+    -73.088039,
+    40.733003,
+    -73.088039,
+    40.733003
+],
+  "geometry": {"coordinates":[-73.08803899999999,40.733003],"type":"Point"}
 }

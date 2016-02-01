@@ -2,13 +2,14 @@
   "id": 303545629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.729827,40.789026,-73.729827,40.789026",
     "geom:latitude":40.789026,
     "geom:longitude":-73.729827,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"92 Middle Neck Rd",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.americantrailswest.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865341,
+        102191575,
+        404522729,
         85633793,
         85977683,
         102082371,
-        85865341
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"85e60f8f58dccb722c9cf83aaf73ff86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85977683,
             "neighbourhood_id":85865341,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":303545629,
-    "wof:lastmodified":1448998701,
+    "wof:lastmodified":1454123191,
     "wof:name":"American Trails West",
     "wof:parent_id":85865341,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "agency"
     ]
 },
-  "bbox": [-73.729827,40.789026,-73.729827,40.789026],
+  "bbox": [
+    -73.729827,
+    40.789026,
+    -73.729827,
+    40.789026
+],
   "geometry": {"coordinates":[-73.729827,40.789026],"type":"Point"}
 }

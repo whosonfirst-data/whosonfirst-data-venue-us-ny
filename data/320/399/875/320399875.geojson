@@ -2,13 +2,14 @@
   "id": 320399875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.747706,40.935209,-73.747706,40.935209",
     "geom:latitude":40.935209,
     "geom:longitude":-73.747706,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1340 Boston Post Rd",
     "sg:city":"Larchmont",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     "sg:website":"www.gap.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85978729,
+        102082373,
+        85839769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +43,18 @@
     "wof:geomhash":"17e47aed5aee4379319e7fcdd0392bae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082373,
+            "locality_id":85978729,
+            "neighbourhood_id":85839769,
             "region_id":85688543,
             "venue_id":320399875
         }
     ],
     "wof:id":320399875,
-    "wof:lastmodified":1449011919,
+    "wof:lastmodified":1454124869,
     "wof:name":"Gap",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839769,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -58,6 +62,11 @@
         "family"
     ]
 },
-  "bbox": [-73.747706,40.935209,-73.747706,40.935209],
-  "geometry": {"coordinates":[-73.747706,40.935209],"type":"Point"}
+  "bbox": [
+    -73.747706,
+    40.935209,
+    -73.747706,
+    40.935209
+],
+  "geometry": {"coordinates":[-73.74770599999999,40.935209],"type":"Point"}
 }

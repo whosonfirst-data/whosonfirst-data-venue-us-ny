@@ -2,13 +2,14 @@
   "id": 252950163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.630668,40.8358,-73.630668,40.8358",
     "geom:latitude":40.8358,
     "geom:longitude":-73.630668,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"33 Roosevelt St",
     "sg:city":"Glen Head",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85979159,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"edc280c2d2d9379f46c2aa0b3354e11b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979159,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":252950163
         }
     ],
     "wof:id":252950163,
-    "wof:lastmodified":1449005841,
+    "wof:lastmodified":1454124042,
     "wof:name":"Hertlein & Associates LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "commercial"
     ]
 },
-  "bbox": [-73.630668,40.8358,-73.630668,40.8358],
+  "bbox": [
+    -73.630668,
+    40.8358,
+    -73.630668,
+    40.8358
+],
   "geometry": {"coordinates":[-73.630668,40.8358],"type":"Point"}
 }

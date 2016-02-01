@@ -2,13 +2,14 @@
   "id": 303084113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.184908,42.604426,-76.184908,42.604426",
     "geom:latitude":42.604426,
     "geom:longitude":-76.184908,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"52 Madison St",
     "sg:city":"Cortland",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528395,
+        102191575,
+        404522255,
         85633793,
-        85978513,
-        102083011
+        85978519,
+        102083011,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"a897a27e079d4c6dbf990a5f473a8c7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083011,
-            "locality_id":85978513,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522255,
+            "locality_id":85978519,
+            "neighbourhood_id":420528395,
             "region_id":85688543,
             "venue_id":303084113
         }
     ],
     "wof:id":303084113,
-    "wof:lastmodified":1448998386,
+    "wof:lastmodified":1454123079,
     "wof:name":"Steve Scott Builders",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528395,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-76.184908,42.604426,-76.184908,42.604426],
-  "geometry": {"coordinates":[-76.184908,42.604426],"type":"Point"}
+  "bbox": [
+    -76.184908,
+    42.604426,
+    -76.184908,
+    42.604426
+],
+  "geometry": {"coordinates":[-76.18490799999999,42.604426],"type":"Point"}
 }

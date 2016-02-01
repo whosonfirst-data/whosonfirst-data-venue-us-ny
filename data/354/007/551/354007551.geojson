@@ -2,13 +2,14 @@
   "id": 354007551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.550184,40.746629,-73.550184,40.746629",
     "geom:latitude":40.746629,
     "geom:longitude":-73.550184,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"826 Highview Ave",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85856711,
+        102191575,
+        404521475,
         85633793,
-        85979063,
+        85979093,
         102082371,
-        85856711
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +53,18 @@
     "wof:geomhash":"f2b2adc40a2389a61ce62deced689b9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979063,
+            "localadmin_id":404521475,
+            "locality_id":85979093,
             "neighbourhood_id":85856711,
             "region_id":85688543,
             "venue_id":354007551
         }
     ],
     "wof:id":354007551,
-    "wof:lastmodified":1449067355,
+    "wof:lastmodified":1454131209,
     "wof:name":"Steven Kreiner Metals",
     "wof:parent_id":85856711,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.550184,40.746629,-73.550184,40.746629],
+  "bbox": [
+    -73.550184,
+    40.746629,
+    -73.550184,
+    40.746629
+],
   "geometry": {"coordinates":[-73.550184,40.746629],"type":"Point"}
 }

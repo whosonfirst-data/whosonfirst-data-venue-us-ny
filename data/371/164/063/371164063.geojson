@@ -2,13 +2,14 @@
   "id": 371164063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.774317,43.015601,-78.774317,43.015601",
     "geom:latitude":43.015601,
     "geom:longitude":-78.774317,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"159 Little Robin Rd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837253,
+        102191575,
+        404522321,
         85633793,
+        85979411,
         102082387,
-        85837253
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"6b60ad43ba73e1796045031d16b2199d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979411,
             "neighbourhood_id":85837253,
             "region_id":85688543,
             "venue_id":371164063
         }
     ],
     "wof:id":371164063,
-    "wof:lastmodified":1449049145,
+    "wof:lastmodified":1454129063,
     "wof:name":"Dynamic Web Enterprises",
     "wof:parent_id":85837253,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "internet"
     ]
 },
-  "bbox": [-78.774317,43.015601,-78.774317,43.015601],
+  "bbox": [
+    -78.774317,
+    43.015601,
+    -78.774317,
+    43.015601
+],
   "geometry": {"coordinates":[-78.774317,43.015601],"type":"Point"}
 }

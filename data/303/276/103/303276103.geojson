@@ -2,13 +2,14 @@
   "id": 303276103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.786215,40.799979,-72.786215,40.799979",
     "geom:latitude":40.799979,
     "geom:longitude":-72.786215,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"195 Main St",
     "sg:city":"Center Moriches",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"41094d721f47f826f2822ffcdf412afd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":303276103
         }
     ],
     "wof:id":303276103,
-    "wof:lastmodified":1448998207,
+    "wof:lastmodified":1454123015,
     "wof:name":"Club Limo",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "passenger"
     ]
 },
-  "bbox": [-72.786215,40.799979,-72.786215,40.799979],
+  "bbox": [
+    -72.786215,
+    40.799979,
+    -72.786215,
+    40.799979
+],
   "geometry": {"coordinates":[-72.786215,40.799979],"type":"Point"}
 }

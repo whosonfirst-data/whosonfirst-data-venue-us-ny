@@ -2,13 +2,14 @@
   "id": 371111051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.863309,42.947483,-78.863309,42.947483",
     "geom:latitude":42.947483,
     "geom:longitude":-78.863309,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1209 Hertel Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"chateaubuffalo.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872923,
+        102191575,
+        404522329,
         85633793,
         85978023,
         102082387,
-        85872923
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"878ccc440076a68d77f5561f3a8ef6ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
             "neighbourhood_id":85872923,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":371111051,
-    "wof:lastmodified":1449050170,
+    "wof:lastmodified":1454129303,
     "wof:name":"Chateau Buffalo",
     "wof:parent_id":85872923,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "spirit"
     ]
 },
-  "bbox": [-78.863309,42.947483,-78.863309,42.947483],
+  "bbox": [
+    -78.863309,
+    42.947483,
+    -78.863309,
+    42.947483
+],
   "geometry": {"coordinates":[-78.863309,42.947483],"type":"Point"}
 }

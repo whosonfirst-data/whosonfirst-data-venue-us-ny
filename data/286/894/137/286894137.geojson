@@ -2,13 +2,14 @@
   "id": 286894137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.843054,40.905077,-73.843054,40.905077",
     "geom:latitude":40.905077,
     "geom:longitude":-73.843054,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"214 W 3rd St",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"33b4cba0ee4d1e24cb6d045d63e18bde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":286894137
         }
     ],
     "wof:id":286894137,
-    "wof:lastmodified":1449016391,
+    "wof:lastmodified":1454125611,
     "wof:name":"Nu Look",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "painting"
     ]
 },
-  "bbox": [-73.843054,40.905077,-73.843054,40.905077],
+  "bbox": [
+    -73.843054,
+    40.905077,
+    -73.843054,
+    40.905077
+],
   "geometry": {"coordinates":[-73.843054,40.905077],"type":"Point"}
 }

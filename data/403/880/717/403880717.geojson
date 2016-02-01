@@ -2,13 +2,14 @@
   "id": 403880717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.006174,43.859541,-76.006174,43.859541",
     "geom:latitude":43.859541,
     "geom:longitude":-76.006174,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12946 US Hwy 11",
     "sg:city":"Adams Center",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528855,
+        102191575,
+        404521907,
         85633793,
         85979487,
-        102082357
+        102082357,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"c2eae43936d0de58a515d3b567b49d7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082357,
+            "localadmin_id":404521907,
             "locality_id":85979487,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528855,
             "region_id":85688543,
             "venue_id":403880717
         }
     ],
     "wof:id":403880717,
-    "wof:lastmodified":1449055974,
+    "wof:lastmodified":1454129513,
     "wof:name":"B&D Marble",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528855,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-76.006174,43.859541,-76.006174,43.859541],
+  "bbox": [
+    -76.006174,
+    43.859541,
+    -76.006174,
+    43.859541
+],
   "geometry": {"coordinates":[-76.006174,43.859541],"type":"Point"}
 }

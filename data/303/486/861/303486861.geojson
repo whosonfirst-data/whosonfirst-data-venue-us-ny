@@ -2,13 +2,14 @@
   "id": 303486861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.367894,41.439862,-74.367894,41.439862",
     "geom:latitude":41.439862,
     "geom:longitude":-74.367894,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"711 E Main St",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85833615,
+        102191575,
+        404522921,
         85633793,
         85979517,
         102083061,
-        85833615
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"cca0068fc4dd06217c3bb4f4e89db091",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
+            "localadmin_id":404522921,
             "locality_id":85979517,
             "neighbourhood_id":85833615,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":303486861,
-    "wof:lastmodified":1448999485,
+    "wof:lastmodified":1454123427,
     "wof:name":"7 Eleven Antiques",
     "wof:parent_id":85833615,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.367894,41.439862,-74.367894,41.439862],
-  "geometry": {"coordinates":[-74.367894,41.439862],"type":"Point"}
+  "bbox": [
+    -74.367894,
+    41.439862,
+    -74.367894,
+    41.439862
+],
+  "geometry": {"coordinates":[-74.36789400000001,41.439862],"type":"Point"}
 }

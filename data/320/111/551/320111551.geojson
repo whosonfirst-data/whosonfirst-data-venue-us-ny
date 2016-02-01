@@ -2,13 +2,14 @@
   "id": 320111551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.173771,40.844806,-73.173771,40.844806",
     "geom:latitude":40.844806,
     "geom:longitude":-73.173771,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"599 Smithtown Byp",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530053,
+        102191575,
+        404522517,
         85633793,
-        85979919,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"a48d0d967f3c33ab1e3903983c4604f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530053,
             "region_id":85688543,
             "venue_id":320111551
         }
     ],
     "wof:id":320111551,
-    "wof:lastmodified":1449015081,
+    "wof:lastmodified":1454125382,
     "wof:name":"F & M Printing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "printer"
     ]
 },
-  "bbox": [-73.173771,40.844806,-73.173771,40.844806],
+  "bbox": [
+    -73.173771,
+    40.844806,
+    -73.173771,
+    40.844806
+],
   "geometry": {"coordinates":[-73.173771,40.844806],"type":"Point"}
 }

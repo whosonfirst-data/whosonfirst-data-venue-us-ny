@@ -2,13 +2,14 @@
   "id": 354114785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.394634,40.881548,-73.394634,40.881548",
     "geom:latitude":40.881548,
     "geom:longitude":-73.394634,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"239 E Main St",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826545,
+        102191575,
+        404522515,
         85633793,
-        85979823,
+        85978425,
         102082395,
-        85826545
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"d9c56e91ed5a6feef964a1043d4c17cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979823,
+            "localadmin_id":404522515,
+            "locality_id":85978425,
             "neighbourhood_id":85826545,
             "region_id":85688543,
             "venue_id":354114785
         }
     ],
     "wof:id":354114785,
-    "wof:lastmodified":1449066632,
+    "wof:lastmodified":1454130986,
     "wof:name":"Huntington Township Concert",
     "wof:parent_id":85826545,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "village"
     ]
 },
-  "bbox": [-73.394634,40.881548,-73.394634,40.881548],
+  "bbox": [
+    -73.394634,
+    40.881548,
+    -73.394634,
+    40.881548
+],
   "geometry": {"coordinates":[-73.394634,40.881548],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354345043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.432003,40.669361,-73.432003,40.669361",
     "geom:latitude":40.669361,
     "geom:longitude":-73.432003,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5590 Merrick Rd",
     "sg:city":"Massapequa",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836353,
+        102191575,
+        404521475,
         85633793,
         85979153,
         102082371,
-        85836353
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"03bc51640525bddda1f15a7a728aa962",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979153,
             "neighbourhood_id":85836353,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":354345043,
-    "wof:lastmodified":1449067536,
+    "wof:lastmodified":1454131266,
     "wof:name":"Mccann's Pub & Grill",
     "wof:parent_id":85836353,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "brew"
     ]
 },
-  "bbox": [-73.432003,40.669361,-73.432003,40.669361],
-  "geometry": {"coordinates":[-73.432003,40.669361],"type":"Point"}
+  "bbox": [
+    -73.432003,
+    40.669361,
+    -73.432003,
+    40.669361
+],
+  "geometry": {"coordinates":[-73.43200299999999,40.669361],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370656139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.941327,41.646821,-73.941327,41.646821",
     "geom:latitude":41.646821,
     "geom:longitude":-73.941327,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"88 Sand Dock Rd",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865333,
+        102191575,
+        404522309,
         85633793,
+        85979275,
         102082363,
-        85865333
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +53,18 @@
     "wof:geomhash":"e377c22001e412df02c32ec59faf9566",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
-            "locality_id":-1,
+            "localadmin_id":404522309,
+            "locality_id":85979275,
             "neighbourhood_id":85865333,
             "region_id":85688543,
             "venue_id":370656139
         }
     ],
     "wof:id":370656139,
-    "wof:lastmodified":1449031276,
+    "wof:lastmodified":1454127960,
     "wof:name":"Veolia Es Industrial Services, Inc",
     "wof:parent_id":85865333,
     "wof:placetype":"venue",
@@ -73,6 +78,11 @@
         "power"
     ]
 },
-  "bbox": [-73.941327,41.646821,-73.941327,41.646821],
+  "bbox": [
+    -73.941327,
+    41.646821,
+    -73.941327,
+    41.646821
+],
   "geometry": {"coordinates":[-73.941327,41.646821],"type":"Point"}
 }

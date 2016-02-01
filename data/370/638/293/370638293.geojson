@@ -2,13 +2,14 @@
   "id": 370638293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.614899,43.156475,-77.614899,43.156475",
     "geom:latitude":43.156475,
     "geom:longitude":-77.614899,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Fitzhugh St N",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867093,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85867093
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"1decd26d5f80b811b10a2b8a140b0f9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85867093,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":370638293,
-    "wof:lastmodified":1449029260,
+    "wof:lastmodified":1454127369,
     "wof:name":"Public Defender",
     "wof:parent_id":85867093,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "county"
     ]
 },
-  "bbox": [-77.614899,43.156475,-77.614899,43.156475],
-  "geometry": {"coordinates":[-77.614899,43.156475],"type":"Point"}
+  "bbox": [
+    -77.614899,
+    43.156475,
+    -77.614899,
+    43.156475
+],
+  "geometry": {"coordinates":[-77.61489899999999,43.156475],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252846437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.592379,40.746098,-73.592379,40.746098",
     "geom:latitude":40.746098,
     "geom:longitude":-73.592379,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1595 Taylor Ave",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893069,
+        102191575,
+        404522729,
         85633793,
-        85977735,
+        85979163,
         102082371,
-        85893069
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"fe171a9c8bd22b66f2f0d0ea2314f4d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977735,
+            "localadmin_id":404522729,
+            "locality_id":85979163,
             "neighbourhood_id":85893069,
             "region_id":85688543,
             "venue_id":252846437
         }
     ],
     "wof:id":252846437,
-    "wof:lastmodified":1449006270,
+    "wof:lastmodified":1454124103,
     "wof:name":"Salon Gino",
     "wof:parent_id":85893069,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.592379,40.746098,-73.592379,40.746098],
-  "geometry": {"coordinates":[-73.592379,40.746098],"type":"Point"}
+  "bbox": [
+    -73.592379,
+    40.746098,
+    -73.592379,
+    40.746098
+],
+  "geometry": {"coordinates":[-73.59237899999999,40.746098],"type":"Point"}
 }

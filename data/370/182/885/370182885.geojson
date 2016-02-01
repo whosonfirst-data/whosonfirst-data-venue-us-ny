@@ -2,13 +2,14 @@
   "id": 370182885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.172551,40.857341,-73.172551,40.857341",
     "geom:latitude":40.857341,
     "geom:longitude":-73.172551,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Franklin Dr",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853877,
+        102191575,
+        404522669,
         85633793,
-        85979919,
+        85978443,
         102082395,
-        85853877
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"380d5ef35d9c0aac30b69d4f0a2ef454",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
+            "localadmin_id":404522669,
+            "locality_id":85978443,
             "neighbourhood_id":85853877,
             "region_id":85688543,
             "venue_id":370182885
         }
     ],
     "wof:id":370182885,
-    "wof:lastmodified":1449031214,
+    "wof:lastmodified":1454127941,
     "wof:name":"Bob Burke Real Estate",
     "wof:parent_id":85853877,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "broker"
     ]
 },
-  "bbox": [-73.172551,40.857341,-73.172551,40.857341],
+  "bbox": [
+    -73.172551,
+    40.857341,
+    -73.172551,
+    40.857341
+],
   "geometry": {"coordinates":[-73.172551,40.857341],"type":"Point"}
 }

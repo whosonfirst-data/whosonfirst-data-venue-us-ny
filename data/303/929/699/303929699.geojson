@@ -2,13 +2,14 @@
   "id": 303929699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.023784,40.847798,-73.023784,40.847798",
     "geom:latitude":40.847798,
     "geom:longitude":-73.023784,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"170 Horizon View Dr",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"65dbedc1a805b1d23c3a31f1d45eade2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":303929699
         }
     ],
     "wof:id":303929699,
-    "wof:lastmodified":1448999053,
+    "wof:lastmodified":1454123307,
     "wof:name":"Selden Greens",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-73.023784,40.847798,-73.023784,40.847798],
-  "geometry": {"coordinates":[-73.023784,40.847798],"type":"Point"}
+  "bbox": [
+    -73.023784,
+    40.847798,
+    -73.023784,
+    40.847798
+],
+  "geometry": {"coordinates":[-73.02378400000001,40.847798],"type":"Point"}
 }

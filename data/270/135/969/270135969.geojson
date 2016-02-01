@@ -2,13 +2,14 @@
   "id": 270135969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.069512,43.084261,-76.069512,43.084261",
     "geom:latitude":43.084261,
     "geom:longitude":-76.069512,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"201 Deerfield Rd",
     "sg:city":"East Syracuse",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85817149,
+        102082351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"5638325e4bf93e69163f5264c52ac3af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "neighbourhood_id":85817149,
             "region_id":85688543,
             "venue_id":270135969
         }
     ],
     "wof:id":270135969,
-    "wof:lastmodified":1449009576,
+    "wof:lastmodified":1454124505,
     "wof:name":"Franklin Park Garden Apartment",
-    "wof:parent_id":-1,
+    "wof:parent_id":85817149,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "apartment"
     ]
 },
-  "bbox": [-76.069512,43.084261,-76.069512,43.084261],
+  "bbox": [
+    -76.069512,
+    43.084261,
+    -76.069512,
+    43.084261
+],
   "geometry": {"coordinates":[-76.069512,43.084261],"type":"Point"}
 }

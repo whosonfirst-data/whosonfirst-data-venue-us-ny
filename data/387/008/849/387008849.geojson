@@ -2,13 +2,14 @@
   "id": 387008849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.568838,43.130244,-77.568838,43.130244",
     "geom:latitude":43.130244,
     "geom:longitude":-77.568838,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1689 Monroe Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -49,11 +50,13 @@
     "sg:website":"http://www.tuthilllighting.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868033,
+        102191575,
+        404522623,
         85633793,
         85979039,
         102081815,
-        85868033
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,9 +66,10 @@
     "wof:geomhash":"11e3387b87e3ac11ad6993476b334bc0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404522623,
             "locality_id":85979039,
             "neighbourhood_id":85868033,
             "region_id":85688543,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":387008849,
-    "wof:lastmodified":1449057291,
+    "wof:lastmodified":1454129740,
     "wof:name":"Tuthill Lighting",
     "wof:parent_id":85868033,
     "wof:placetype":"venue",
@@ -89,6 +93,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-77.568838,43.130244,-77.568838,43.130244],
+  "bbox": [
+    -77.568838,
+    43.130244,
+    -77.568838,
+    43.130244
+],
   "geometry": {"coordinates":[-77.568838,43.130244],"type":"Point"}
 }

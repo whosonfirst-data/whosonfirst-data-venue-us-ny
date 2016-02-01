@@ -2,13 +2,14 @@
   "id": 270139287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.920557,40.833547,-73.920557,40.833547",
     "geom:latitude":40.833547,
     "geom:longitude":-73.920557,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"80 Mc Clellan St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865669,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865669
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"d5c39960b031ec1a6e484b9b20823e89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865669,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":270139287,
-    "wof:lastmodified":1449008871,
+    "wof:lastmodified":1454124401,
     "wof:name":"Davicojoinery",
     "wof:parent_id":85865669,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "carpentry"
     ]
 },
-  "bbox": [-73.920557,40.833547,-73.920557,40.833547],
+  "bbox": [
+    -73.920557,
+    40.833547,
+    -73.920557,
+    40.833547
+],
   "geometry": {"coordinates":[-73.920557,40.833547],"type":"Point"}
 }

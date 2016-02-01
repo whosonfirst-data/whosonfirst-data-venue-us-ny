@@ -2,13 +2,14 @@
   "id": 303260557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.718311,40.698235,-73.718311,40.698235",
     "geom:latitude":40.698235,
     "geom:longitude":-73.718311,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2057 Renfrew Ave",
     "sg:city":"Elmont",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529145,
+        102191575,
+        404521473,
         85633793,
         85979137,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"359f490386ed193635e8b1647d048b24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979137,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529145,
             "region_id":85688543,
             "venue_id":303260557
         }
     ],
     "wof:id":303260557,
-    "wof:lastmodified":1448998526,
+    "wof:lastmodified":1454123129,
     "wof:name":"Sunsplash Productions",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529145,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "motion"
     ]
 },
-  "bbox": [-73.718311,40.698235,-73.718311,40.698235],
+  "bbox": [
+    -73.718311,
+    40.698235,
+    -73.718311,
+    40.698235
+],
   "geometry": {"coordinates":[-73.718311,40.698235],"type":"Point"}
 }

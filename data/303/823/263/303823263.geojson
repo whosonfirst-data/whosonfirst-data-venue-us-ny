@@ -2,13 +2,14 @@
   "id": 303823263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.891891,40.828547,-73.891891,40.828547",
     "geom:latitude":40.828547,
     "geom:longitude":-73.891891,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1120 Southern Blvd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869443,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"bc2b15201cab8388a3adb2df4c5781e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85869443,
             "region_id":85688543,
             "venue_id":303823263
         }
     ],
     "wof:id":303823263,
-    "wof:lastmodified":1449000546,
+    "wof:lastmodified":1454123718,
     "wof:name":"H & Hatm INC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869443,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "automated"
     ]
 },
-  "bbox": [-73.891891,40.828547,-73.891891,40.828547],
+  "bbox": [
+    -73.891891,
+    40.828547,
+    -73.891891,
+    40.828547
+],
   "geometry": {"coordinates":[-73.891891,40.828547],"type":"Point"}
 }

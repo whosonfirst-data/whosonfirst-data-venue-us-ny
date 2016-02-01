@@ -2,13 +2,14 @@
   "id": 370498417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.196978,43.048407,-76.196978,43.048407",
     "geom:latitude":43.048407,
     "geom:longitude":-76.196978,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2002 W Genesee St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881245,
+        102191575,
+        404522831,
         85633793,
         85977787,
         102082351,
-        85881245
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"a70c881f9dc10cd55e52bc610a9a32c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522831,
             "locality_id":85977787,
             "neighbourhood_id":85881245,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":370498417,
-    "wof:lastmodified":1449031665,
+    "wof:lastmodified":1454128072,
     "wof:name":"Fred Mautino Developers Inc",
     "wof:parent_id":85881245,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-76.196978,43.048407,-76.196978,43.048407],
+  "bbox": [
+    -76.196978,
+    43.048407,
+    -76.196978,
+    43.048407
+],
   "geometry": {"coordinates":[-76.196978,43.048407],"type":"Point"}
 }

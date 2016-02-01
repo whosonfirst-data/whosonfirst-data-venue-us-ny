@@ -2,13 +2,14 @@
   "id": 354043317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.811299,40.587424,-73.811299,40.587424",
     "geom:latitude":40.587424,
     "geom:longitude":-73.811299,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8609 Rockaway Beach Blvd",
     "sg:city":"Rockaway Beach",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.familydentalcenter.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865515,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865515
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"d7837d71d352ddc24d78611895777845",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865515,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":354043317,
-    "wof:lastmodified":1449067228,
+    "wof:lastmodified":1454131170,
     "wof:name":"Rockaway Family Dental Center",
     "wof:parent_id":85865515,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.811299,40.587424,-73.811299,40.587424],
-  "geometry": {"coordinates":[-73.811299,40.587424],"type":"Point"}
+  "bbox": [
+    -73.811299,
+    40.587424,
+    -73.811299,
+    40.587424
+],
+  "geometry": {"coordinates":[-73.81129900000001,40.587424],"type":"Point"}
 }

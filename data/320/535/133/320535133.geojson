@@ -2,13 +2,14 @@
   "id": 320535133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.771422,40.980961,-73.771422,40.980961",
     "geom:latitude":40.980961,
     "geom:longitude":-73.771422,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 Lebanon Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530429,
+        102191575,
+        404523391,
         85633793,
         85978767,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"3cea9a0372c444254da086a97372017a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523391,
             "locality_id":85978767,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530429,
             "region_id":85688543,
             "venue_id":320535133
         }
     ],
     "wof:id":320535133,
-    "wof:lastmodified":1449011934,
+    "wof:lastmodified":1454124872,
     "wof:name":"Lewellyn Awards",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530429,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-73.771422,40.980961,-73.771422,40.980961],
+  "bbox": [
+    -73.771422,
+    40.980961,
+    -73.771422,
+    40.980961
+],
   "geometry": {"coordinates":[-73.771422,40.980961],"type":"Point"}
 }

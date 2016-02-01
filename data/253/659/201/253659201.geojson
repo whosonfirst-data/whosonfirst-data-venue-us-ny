@@ -2,13 +2,14 @@
   "id": 253659201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.823086,42.978365,-78.823086,42.978365",
     "geom:latitude":42.978365,
     "geom:longitude":-78.823086,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"860 Niagara Falls Blvd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823285,
+        102191575,
+        404522321,
         85633793,
+        85979407,
         102082387,
-        85823285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"6504de1dc3291544ae457df5553c9f0b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979407,
             "neighbourhood_id":85823285,
             "region_id":85688543,
             "venue_id":253659201
         }
     ],
     "wof:id":253659201,
-    "wof:lastmodified":1449063132,
+    "wof:lastmodified":1454130295,
     "wof:name":"Kenilworth Electronics Co",
     "wof:parent_id":85823285,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "communication"
     ]
 },
-  "bbox": [-78.823086,42.978365,-78.823086,42.978365],
+  "bbox": [
+    -78.823086,
+    42.978365,
+    -78.823086,
+    42.978365
+],
   "geometry": {"coordinates":[-78.823086,42.978365],"type":"Point"}
 }

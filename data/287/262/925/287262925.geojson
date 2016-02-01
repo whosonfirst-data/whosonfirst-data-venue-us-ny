@@ -2,13 +2,14 @@
   "id": 287262925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.522528,40.664361,-73.522528,40.664361",
     "geom:latitude":40.664361,
     "geom:longitude":-73.522528,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2457 Bellmore Ave",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892757,
+        102191575,
+        404521473,
         85633793,
-        85979167,
-        102082371
+        85979125,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"87f74dce092a0b9df4e455105ba838c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979167,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979125,
+            "neighbourhood_id":85892757,
             "region_id":85688543,
             "venue_id":287262925
         }
     ],
     "wof:id":287262925,
-    "wof:lastmodified":1449001209,
+    "wof:lastmodified":1454123882,
     "wof:name":"Quality Bread Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892757,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.522528,40.664361,-73.522528,40.664361],
-  "geometry": {"coordinates":[-73.522528,40.664361],"type":"Point"}
+  "bbox": [
+    -73.522528,
+    40.664361,
+    -73.522528,
+    40.664361
+],
+  "geometry": {"coordinates":[-73.52252799999999,40.664361],"type":"Point"}
 }

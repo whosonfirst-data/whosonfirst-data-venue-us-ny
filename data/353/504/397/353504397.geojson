@@ -2,13 +2,14 @@
   "id": 353504397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.901393,40.715945,-73.901393,40.715945",
     "geom:latitude":40.715945,
     "geom:longitude":-73.901393,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6041 Fresh Pond Road",
     "sg:city":"Maspeth",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832845,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85832845
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"9e657f5521645f8c0b3acc05ded3b48e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85832845,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":353504397,
-    "wof:lastmodified":1449018690,
+    "wof:lastmodified":1454126075,
     "wof:name":"Cross County Federal Savings Bank",
     "wof:parent_id":85832845,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "saving"
     ]
 },
-  "bbox": [-73.901393,40.715945,-73.901393,40.715945],
+  "bbox": [
+    -73.901393,
+    40.715945,
+    -73.901393,
+    40.715945
+],
   "geometry": {"coordinates":[-73.901393,40.715945],"type":"Point"}
 }

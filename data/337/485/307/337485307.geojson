@@ -2,13 +2,14 @@
   "id": 337485307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.87199,40.774535,-73.87199,40.774535",
     "geom:latitude":40.774535,
     "geom:longitude":-73.87199,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"La Guardia Airport",
     "sg:city":"East Elmhurst",
     "sg:classifiers":[
@@ -24,7 +25,10 @@
     "sg:website":"twitter.com/worldbean",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102526001,
         85688543,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361
@@ -37,24 +41,30 @@
     "wof:geomhash":"0c333c40a23f998218fafddd8b04fc23",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102526001,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
             "region_id":85688543,
             "venue_id":337485307
         }
     ],
     "wof:id":337485307,
-    "wof:lastmodified":1449027443,
+    "wof:lastmodified":1454127067,
     "wof:name":"World Bean",
-    "wof:parent_id":-1,
+    "wof:parent_id":102526001,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.87199,40.774535,-73.87199,40.774535],
+  "bbox": [
+    -73.87199,
+    40.774535,
+    -73.87199,
+    40.774535
+],
   "geometry": {"coordinates":[-73.87199,40.774535],"type":"Point"}
 }

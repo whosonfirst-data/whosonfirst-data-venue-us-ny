@@ -2,13 +2,14 @@
   "id": 253490881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993361,41.138003,-73.993361,41.138003",
     "geom:latitude":41.138003,
     "geom:longitude":-73.993361,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Esquire Rd",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"9472f980c43423d5a0dc62c1114632dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":253490881
         }
     ],
     "wof:id":253490881,
-    "wof:lastmodified":1449065481,
+    "wof:lastmodified":1454130691,
     "wof:name":"Robert V Magrino",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "attorney"
     ]
 },
-  "bbox": [-73.993361,41.138003,-73.993361,41.138003],
-  "geometry": {"coordinates":[-73.993361,41.138003],"type":"Point"}
+  "bbox": [
+    -73.993361,
+    41.138003,
+    -73.993361,
+    41.138003
+],
+  "geometry": {"coordinates":[-73.99336099999999,41.138003],"type":"Point"}
 }

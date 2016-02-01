@@ -2,13 +2,14 @@
   "id": 387368851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.928606,40.615052,-73.928606,40.615052",
     "geom:latitude":40.615052,
     "geom:longitude":-73.928606,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2220 Flatbush Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558701,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"5f2b819ab24d68c35e571f144ab5a8ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558701,
             "region_id":85688543,
             "venue_id":387368851
         }
     ],
     "wof:id":387368851,
-    "wof:lastmodified":1449056979,
+    "wof:lastmodified":1454129685,
     "wof:name":"Center For Rehabilitation",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-73.928606,40.615052,-73.928606,40.615052],
+  "bbox": [
+    -73.928606,
+    40.615052,
+    -73.928606,
+    40.615052
+],
   "geometry": {"coordinates":[-73.928606,40.615052],"type":"Point"}
 }

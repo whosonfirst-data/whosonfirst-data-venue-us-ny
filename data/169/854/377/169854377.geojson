@@ -2,13 +2,14 @@
   "id": 169854377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.960136,40.71558,-73.960136,40.71558",
     "geom:latitude":40.71558,
     "geom:longitude":-73.960136,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"247 Bedford Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -43,11 +44,13 @@
     "sg:website":"http://www.thebagelstoreonline.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892951,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85892951
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,9 +60,10 @@
     "wof:geomhash":"8cba4beaf0530e3a2d2254626a6698d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892951,
             "region_id":85688543,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":169854377,
-    "wof:lastmodified":1449035842,
+    "wof:lastmodified":1454128441,
     "wof:name":"The Bagel Store",
     "wof:parent_id":85892951,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "bakers-wholesale"
     ]
 },
-  "bbox": [-73.960136,40.71558,-73.960136,40.71558],
-  "geometry": {"coordinates":[-73.960136,40.71558],"type":"Point"}
+  "bbox": [
+    -73.960136,
+    40.71558,
+    -73.960136,
+    40.71558
+],
+  "geometry": {"coordinates":[-73.96013600000001,40.71558],"type":"Point"}
 }

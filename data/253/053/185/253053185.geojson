@@ -2,13 +2,14 @@
   "id": 253053185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.985464,40.751267,-73.985464,40.751267",
     "geom:latitude":40.751267,
     "geom:longitude":-73.985464,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"37 W 37th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869487,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85869487
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"2d836c0f6352709d5c83b5986ad5e80f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869487,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":253053185,
-    "wof:lastmodified":1449063367,
+    "wof:lastmodified":1454130335,
     "wof:name":"Elliot Greene & Co Inc",
     "wof:parent_id":85869487,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "sequin"
     ]
 },
-  "bbox": [-73.985464,40.751267,-73.985464,40.751267],
-  "geometry": {"coordinates":[-73.985464,40.751267],"type":"Point"}
+  "bbox": [
+    -73.985464,
+    40.751267,
+    -73.985464,
+    40.751267
+],
+  "geometry": {"coordinates":[-73.98546399999999,40.751267],"type":"Point"}
 }

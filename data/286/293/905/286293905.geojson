@@ -2,13 +2,14 @@
   "id": 286293905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.739713,43.105934,-73.739713,43.105934",
     "geom:latitude":43.105934,
     "geom:longitude":-73.739713,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3075 State Hwy 50",
     "sg:city":"Saratoga Springs",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.friendlys.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85859279,
+        102191575,
+        404522373,
         85633793,
         85977919,
         102082413,
-        85859279
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"72aa5f9a319d51db9094595fd99cf57e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082413,
+            "localadmin_id":404522373,
             "locality_id":85977919,
             "neighbourhood_id":85859279,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":286293905,
-    "wof:lastmodified":1449015743,
+    "wof:lastmodified":1454125498,
     "wof:name":"Friendly's Ice Cream Shop",
     "wof:parent_id":85859279,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "cream"
     ]
 },
-  "bbox": [-73.739713,43.105934,-73.739713,43.105934],
-  "geometry": {"coordinates":[-73.739713,43.105934],"type":"Point"}
+  "bbox": [
+    -73.739713,
+    43.105934,
+    -73.739713,
+    43.105934
+],
+  "geometry": {"coordinates":[-73.73971299999999,43.105934],"type":"Point"}
 }

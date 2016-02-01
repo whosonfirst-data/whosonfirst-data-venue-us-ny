@@ -2,13 +2,14 @@
   "id": 387157037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.604124,40.853519,-73.604124,40.853519",
     "geom:latitude":40.853519,
     "geom:longitude":-73.604124,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"115 Frost Pond Rd",
     "sg:city":"Glen Cove",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857339,
+        102191575,
+        404521475,
         85633793,
-        85979159,
-        102082371
+        85977655,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"c0d94f5a543c07275aae9e5ed977a82a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979159,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977655,
+            "neighbourhood_id":85857339,
             "region_id":85688543,
             "venue_id":387157037
         }
     ],
     "wof:id":387157037,
-    "wof:lastmodified":1449059389,
+    "wof:lastmodified":1454130114,
     "wof:name":"Island Wide Contracting Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85857339,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.604124,40.853519,-73.604124,40.853519],
+  "bbox": [
+    -73.604124,
+    40.853519,
+    -73.604124,
+    40.853519
+],
   "geometry": {"coordinates":[-73.604124,40.853519],"type":"Point"}
 }

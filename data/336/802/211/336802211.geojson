@@ -2,13 +2,14 @@
   "id": 336802211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.393937,40.868606,-73.393937,40.868606",
     "geom:latitude":40.868606,
     "geom:longitude":-73.393937,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 Dunlop Rd",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820109,
+        102191575,
+        404522515,
         85633793,
-        85979675,
+        85979787,
         102082395,
-        85820109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"baa8fb44c7528b37538a96e1d99db1b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979675,
+            "localadmin_id":404522515,
+            "locality_id":85979787,
             "neighbourhood_id":85820109,
             "region_id":85688543,
             "venue_id":336802211
         }
     ],
     "wof:id":336802211,
-    "wof:lastmodified":1448997828,
+    "wof:lastmodified":1454122895,
     "wof:name":"John R Schleef",
     "wof:parent_id":85820109,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.393937,40.868606,-73.393937,40.868606],
-  "geometry": {"coordinates":[-73.393937,40.868606],"type":"Point"}
+  "bbox": [
+    -73.393937,
+    40.868606,
+    -73.393937,
+    40.868606
+],
+  "geometry": {"coordinates":[-73.39393699999999,40.868606],"type":"Point"}
 }

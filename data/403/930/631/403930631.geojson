@@ -2,13 +2,14 @@
   "id": 403930631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.645925,40.700283,-73.645925,40.700283",
     "geom:latitude":40.700283,
     "geom:longitude":-73.645925,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"233 Woodlawn Rd",
     "sg:city":"West Hempstead",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829437,
+        102191575,
+        404521473,
         85633793,
-        85979129,
+        85979057,
         102082371,
-        85829437
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"94f96758de08b5e65deae9265edad9a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979129,
+            "localadmin_id":404521473,
+            "locality_id":85979057,
             "neighbourhood_id":85829437,
             "region_id":85688543,
             "venue_id":403930631
         }
     ],
     "wof:id":403930631,
-    "wof:lastmodified":1449055056,
+    "wof:lastmodified":1454129383,
     "wof:name":"American Legion",
     "wof:parent_id":85829437,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "military"
     ]
 },
-  "bbox": [-73.645925,40.700283,-73.645925,40.700283],
-  "geometry": {"coordinates":[-73.645925,40.700283],"type":"Point"}
+  "bbox": [
+    -73.645925,
+    40.700283,
+    -73.645925,
+    40.700283
+],
+  "geometry": {"coordinates":[-73.64592500000001,40.700283],"type":"Point"}
 }

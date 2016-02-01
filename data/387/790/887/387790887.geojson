@@ -2,13 +2,14 @@
   "id": 387790887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.685701,40.936144,-72.685701,40.936144",
     "geom:latitude":40.936144,
     "geom:longitude":-72.685701,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"690 Middle Rd",
     "sg:city":"Riverhead",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810195,
+        102191575,
+        404522663,
         85633793,
-        85979859,
+        85979913,
         102082395,
-        85810195
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"0b5cbe865a330f43986944757c55f10d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979859,
+            "localadmin_id":404522663,
+            "locality_id":85979913,
             "neighbourhood_id":85810195,
             "region_id":85688543,
             "venue_id":387790887
         }
     ],
     "wof:id":387790887,
-    "wof:lastmodified":1449059024,
+    "wof:lastmodified":1454130049,
     "wof:name":"East West Plumbing & Heating",
     "wof:parent_id":85810195,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-72.685701,40.936144,-72.685701,40.936144],
-  "geometry": {"coordinates":[-72.685701,40.936144],"type":"Point"}
+  "bbox": [
+    -72.685701,
+    40.936144,
+    -72.685701,
+    40.936144
+],
+  "geometry": {"coordinates":[-72.68570099999999,40.936144],"type":"Point"}
 }

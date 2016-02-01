@@ -2,13 +2,14 @@
   "id": 387063443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.737189,42.910548,-77.737189,42.910548",
     "geom:latitude":42.910548,
     "geom:longitude":-77.737189,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"255 E Main St",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528931,
+        102191575,
+        404521977,
         85633793,
         85978303,
-        102082381
+        102082381,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"ec1ddebd635a87c06136aa721aecd988",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082381,
+            "localadmin_id":404521977,
             "locality_id":85978303,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528931,
             "region_id":85688543,
             "venue_id":387063443
         }
     ],
     "wof:id":387063443,
-    "wof:lastmodified":1449056441,
+    "wof:lastmodified":1454129589,
     "wof:name":"All Liquor Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528931,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "alcoholic"
     ]
 },
-  "bbox": [-77.737189,42.910548,-77.737189,42.910548],
+  "bbox": [
+    -77.737189,
+    42.910548,
+    -77.737189,
+    42.910548
+],
   "geometry": {"coordinates":[-77.737189,42.910548],"type":"Point"}
 }

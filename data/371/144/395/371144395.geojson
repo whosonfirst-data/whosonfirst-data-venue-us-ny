@@ -2,13 +2,14 @@
   "id": 371144395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.776392,42.830978,-78.776392,42.830978",
     "geom:latitude":42.830978,
     "geom:longitude":-78.776392,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"650 Orchard Park Rd",
     "sg:city":"West Seneca",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"www.fedex.com/us/office/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872913,
+        102191575,
+        404522269,
         85633793,
-        85978009,
+        85979415,
         102082387,
-        85872913
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"983d9e825f6ea66e02377ac65b11a17f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":85978009,
+            "localadmin_id":404522269,
+            "locality_id":85979415,
             "neighbourhood_id":85872913,
             "region_id":85688543,
             "venue_id":371144395
         }
     ],
     "wof:id":371144395,
-    "wof:lastmodified":1449049821,
+    "wof:lastmodified":1454129219,
     "wof:name":"FedEx Office Print & Ship Center",
     "wof:parent_id":85872913,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-78.776392,42.830978,-78.776392,42.830978],
+  "bbox": [
+    -78.776392,
+    42.830978,
+    -78.776392,
+    42.830978
+],
   "geometry": {"coordinates":[-78.776392,42.830978],"type":"Point"}
 }

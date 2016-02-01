@@ -2,13 +2,14 @@
   "id": 320509605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.837104,42.852204,-73.837104,42.852204",
     "geom:latitude":42.852204,
     "geom:longitude":-73.837104,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"434 Miller Rd",
     "sg:city":"Rexford",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85819551,
+        102082413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"795824f15d3b02a61a7e1cf22c88ccfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082413,
+            "neighbourhood_id":85819551,
             "region_id":85688543,
             "venue_id":320509605
         }
     ],
     "wof:id":320509605,
-    "wof:lastmodified":1449011415,
+    "wof:lastmodified":1454124786,
     "wof:name":"Hunter Baye Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":85819551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "contract"
     ]
 },
-  "bbox": [-73.837104,42.852204,-73.837104,42.852204],
+  "bbox": [
+    -73.837104,
+    42.852204,
+    -73.837104,
+    42.852204
+],
   "geometry": {"coordinates":[-73.837104,42.852204],"type":"Point"}
 }

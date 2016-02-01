@@ -2,13 +2,14 @@
   "id": 287047551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.886127,40.836226,-73.886127,40.836226",
     "geom:latitude":40.836226,
     "geom:longitude":-73.886127,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1690 Vyse Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869201,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869201
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"4cd724b159e0a86560182aee9565b98f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869201,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":287047551,
-    "wof:lastmodified":1449001255,
+    "wof:lastmodified":1454123891,
     "wof:name":"MBD",
     "wof:parent_id":85869201,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.886127,40.836226,-73.886127,40.836226],
+  "bbox": [
+    -73.886127,
+    40.836226,
+    -73.886127,
+    40.836226
+],
   "geometry": {"coordinates":[-73.886127,40.836226],"type":"Point"}
 }

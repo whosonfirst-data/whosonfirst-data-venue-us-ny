@@ -2,13 +2,14 @@
   "id": 354273895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.674236,43.104461,-78.674236,43.104461",
     "geom:latitude":43.104461,
     "geom:longitude":-78.674236,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6475 Bartz Rd",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     "sg:website":"www.niagraequestrain.ypgs.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529193,
+        102191575,
+        404522737,
         85633793,
+        85979541,
+        102081767,
         85688543
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"b81dd9b4a21a13f0e06bddf1a49126ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081767,
+            "localadmin_id":404522737,
+            "locality_id":85979541,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":354273895
         }
     ],
     "wof:id":354273895,
-    "wof:lastmodified":1449066813,
+    "wof:lastmodified":1454131038,
     "wof:name":"Niagra Equestrain Stables",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +68,11 @@
         "academy"
     ]
 },
-  "bbox": [-78.674236,43.104461,-78.674236,43.104461],
-  "geometry": {"coordinates":[-78.674236,43.104461],"type":"Point"}
+  "bbox": [
+    -78.674236,
+    43.104461,
+    -78.674236,
+    43.104461
+],
+  "geometry": {"coordinates":[-78.67423599999999,43.104461],"type":"Point"}
 }

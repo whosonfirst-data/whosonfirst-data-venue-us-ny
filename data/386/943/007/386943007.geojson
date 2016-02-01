@@ -2,13 +2,14 @@
   "id": 386943007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.983268,40.747357,-73.983268,40.747357",
     "geom:latitude":40.747357,
     "geom:longitude":-73.983268,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"180 Madison Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869391,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85869391
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"fc6faba0b99af4e927c794a1a05e4ab9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869391,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":386943007,
-    "wof:lastmodified":1449028699,
+    "wof:lastmodified":1454127210,
     "wof:name":"of The Moment",
     "wof:parent_id":85869391,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "intimate"
     ]
 },
-  "bbox": [-73.983268,40.747357,-73.983268,40.747357],
+  "bbox": [
+    -73.983268,
+    40.747357,
+    -73.983268,
+    40.747357
+],
   "geometry": {"coordinates":[-73.983268,40.747357],"type":"Point"}
 }

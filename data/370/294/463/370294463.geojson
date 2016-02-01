@@ -2,13 +2,14 @@
   "id": 370294463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.663196,40.916772,-72.663196,40.916772",
     "geom:latitude":40.916772,
     "geom:longitude":-72.663196,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"55 W Main St",
     "sg:city":"Riverhead",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841881,
+        102191575,
+        404522671,
         85633793,
-        85979841,
+        85979909,
         102082395,
-        85841881
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +54,18 @@
     "wof:geomhash":"69454ebfe0cc3c876bdfdc2a6562b353",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979841,
+            "localadmin_id":404522671,
+            "locality_id":85979909,
             "neighbourhood_id":85841881,
             "region_id":85688543,
             "venue_id":370294463
         }
     ],
     "wof:id":370294463,
-    "wof:lastmodified":1449031503,
+    "wof:lastmodified":1454128030,
     "wof:name":"Riverhead Deli Corp",
     "wof:parent_id":85841881,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-72.663196,40.916772,-72.663196,40.916772],
+  "bbox": [
+    -72.663196,
+    40.916772,
+    -72.663196,
+    40.916772
+],
   "geometry": {"coordinates":[-72.663196,40.916772],"type":"Point"}
 }

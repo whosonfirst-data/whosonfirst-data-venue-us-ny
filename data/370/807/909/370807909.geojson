@@ -2,13 +2,14 @@
   "id": 370807909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.076373,43.054581,-76.076373,43.054581",
     "geom:latitude":43.054581,
     "geom:longitude":-76.076373,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3150 Erie Blvd E",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -43,11 +44,13 @@
     "sg:website":"http://www.martinandwinklerdds.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881263,
+        102191575,
+        404521501,
         85633793,
         85977799,
         102082351,
-        85881263
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,9 +60,10 @@
     "wof:geomhash":"8f2dc46b624353c7a256e675b2bf30cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404521501,
             "locality_id":85977799,
             "neighbourhood_id":85881263,
             "region_id":85688543,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":370807909,
-    "wof:lastmodified":1449029966,
+    "wof:lastmodified":1454127571,
     "wof:name":"Martin & Winkler DDS PC",
     "wof:parent_id":85881263,
     "wof:placetype":"venue",
@@ -87,6 +91,11 @@
         "dentists-implantology"
     ]
 },
-  "bbox": [-76.076373,43.054581,-76.076373,43.054581],
+  "bbox": [
+    -76.076373,
+    43.054581,
+    -76.076373,
+    43.054581
+],
   "geometry": {"coordinates":[-76.076373,43.054581],"type":"Point"}
 }

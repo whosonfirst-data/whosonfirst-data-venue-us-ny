@@ -2,13 +2,14 @@
   "id": 286639291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.522407,40.64728,-73.522407,40.64728",
     "geom:latitude":40.64728,
     "geom:longitude":-73.522407,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3036 Ira Rd",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529141,
+        102191575,
+        404521473,
         85633793,
         85979167,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"db51543946a9f715e720de8f1a1a98ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979167,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529141,
             "region_id":85688543,
             "venue_id":286639291
         }
     ],
     "wof:id":286639291,
-    "wof:lastmodified":1449018069,
+    "wof:lastmodified":1454125908,
     "wof:name":"Interiors By Nancy Wintner",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529141,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "design"
     ]
 },
-  "bbox": [-73.522407,40.64728,-73.522407,40.64728],
+  "bbox": [
+    -73.522407,
+    40.64728,
+    -73.522407,
+    40.64728
+],
   "geometry": {"coordinates":[-73.522407,40.64728],"type":"Point"}
 }

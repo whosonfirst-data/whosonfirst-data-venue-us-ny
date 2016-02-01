@@ -2,13 +2,14 @@
   "id": 270044671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.890878,40.82863,-73.890878,40.82863",
     "geom:latitude":40.82863,
     "geom:longitude":-73.890878,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1223 Hoe Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869443,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"a685e24360226fbdd3ec3797ef1528f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85869443,
             "region_id":85688543,
             "venue_id":270044671
         }
     ],
     "wof:id":270044671,
-    "wof:lastmodified":1449009913,
+    "wof:lastmodified":1454124553,
     "wof:name":"Cleaners Montero",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869443,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-73.890878,40.82863,-73.890878,40.82863],
+  "bbox": [
+    -73.890878,
+    40.82863,
+    -73.890878,
+    40.82863
+],
   "geometry": {"coordinates":[-73.890878,40.82863],"type":"Point"}
 }

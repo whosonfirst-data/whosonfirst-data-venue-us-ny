@@ -2,13 +2,14 @@
   "id": 370247593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.522301,40.695202,-73.522301,40.695202",
     "geom:latitude":40.695202,
     "geom:longitude":-73.522301,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3099 Morgan Dr",
     "sg:city":"Wantagh",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.townofhempstead.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +42,18 @@
     "wof:geomhash":"9f69077944965c4c5f95facb2dcd9209",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":370247593
         }
     ],
     "wof:id":370247593,
-    "wof:lastmodified":1449031060,
+    "wof:lastmodified":1454127895,
     "wof:name":"Hempstead Town of",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.522301,40.695202,-73.522301,40.695202],
+  "bbox": [
+    -73.522301,
+    40.695202,
+    -73.522301,
+    40.695202
+],
   "geometry": {"coordinates":[-73.522301,40.695202],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353510923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.547097,40.754784,-73.547097,40.754784",
     "geom:latitude":40.754784,
     "geom:longitude":-73.547097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"50 Alpine Ln",
     "sg:city":"Hicksville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85856711,
+        102191575,
+        404521475,
         85633793,
-        85979063,
+        85979093,
         102082371,
-        85856711
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"9fedf266905022e73154e0ed22aa6406",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979063,
+            "localadmin_id":404521475,
+            "locality_id":85979093,
             "neighbourhood_id":85856711,
             "region_id":85688543,
             "venue_id":353510923
         }
     ],
     "wof:id":353510923,
-    "wof:lastmodified":1449019821,
+    "wof:lastmodified":1454126404,
     "wof:name":"Hunter Marketing Inc",
     "wof:parent_id":85856711,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "marketing"
     ]
 },
-  "bbox": [-73.547097,40.754784,-73.547097,40.754784],
-  "geometry": {"coordinates":[-73.547097,40.754784],"type":"Point"}
+  "bbox": [
+    -73.547097,
+    40.754784,
+    -73.547097,
+    40.754784
+],
+  "geometry": {"coordinates":[-73.54709699999999,40.754784],"type":"Point"}
 }

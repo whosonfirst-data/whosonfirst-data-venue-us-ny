@@ -2,13 +2,14 @@
   "id": 320147443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.472697,40.782582,-73.472697,40.782582",
     "geom:latitude":40.782582,
     "geom:longitude":-73.472697,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"142 Manetto Hill Rd",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"5bd8564286a7c48181aba077e19f2ea1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":320147443
         }
     ],
     "wof:id":320147443,
-    "wof:lastmodified":1449014559,
+    "wof:lastmodified":1454125295,
     "wof:name":"Plainview Family Pharmacy Inc",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.472697,40.782582,-73.472697,40.782582],
+  "bbox": [
+    -73.472697,
+    40.782582,
+    -73.472697,
+    40.782582
+],
   "geometry": {"coordinates":[-73.472697,40.782582],"type":"Point"}
 }

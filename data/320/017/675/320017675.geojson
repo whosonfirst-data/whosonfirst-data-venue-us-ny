@@ -2,13 +2,14 @@
   "id": 320017675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.014709,43.976717,-76.014709,43.976717",
     "geom:latitude":43.976717,
     "geom:longitude":-76.014709,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17574 Evans Rd",
     "sg:city":"Dexter",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85816453,
+        102082357
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,17 @@
     "wof:geomhash":"8f4eb1fe6e617b30cf0d80b0917a17de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082357,
+            "neighbourhood_id":85816453,
             "region_id":85688543,
             "venue_id":320017675
         }
     ],
     "wof:id":320017675,
-    "wof:lastmodified":1449013248,
+    "wof:lastmodified":1454125085,
     "wof:name":"Dumas Autobody",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816453,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-76.014709,43.976717,-76.014709,43.976717],
+  "bbox": [
+    -76.014709,
+    43.976717,
+    -76.014709,
+    43.976717
+],
   "geometry": {"coordinates":[-76.014709,43.976717],"type":"Point"}
 }

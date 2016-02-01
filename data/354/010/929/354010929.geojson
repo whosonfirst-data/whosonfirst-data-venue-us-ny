@@ -2,13 +2,14 @@
   "id": 354010929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.825156,40.975499,-73.825156,40.975499",
     "geom:latitude":40.975499,
     "geom:longitude":-73.825156,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"78 Boxwood Rd",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812935,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"148efa28abab04a7d092ba02d0cc693f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85812935,
             "region_id":85688543,
             "venue_id":354010929
         }
     ],
     "wof:id":354010929,
-    "wof:lastmodified":1449067009,
+    "wof:lastmodified":1454131099,
     "wof:name":"MFB Air Conditioning",
-    "wof:parent_id":-1,
+    "wof:parent_id":85812935,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "refrigerating"
     ]
 },
-  "bbox": [-73.825156,40.975499,-73.825156,40.975499],
-  "geometry": {"coordinates":[-73.825156,40.975499],"type":"Point"}
+  "bbox": [
+    -73.825156,
+    40.975499,
+    -73.825156,
+    40.975499
+],
+  "geometry": {"coordinates":[-73.82515600000001,40.975499],"type":"Point"}
 }

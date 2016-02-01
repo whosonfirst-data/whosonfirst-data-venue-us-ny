@@ -2,13 +2,14 @@
   "id": 303472169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.861423,41.587129,-73.861423,41.587129",
     "geom:latitude":41.587129,
     "geom:longitude":-73.861423,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12 Tor Rd",
     "sg:city":"Wappingers Falls",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836147,
+        102191575,
+        404522317,
         85633793,
         85979271,
-        102082363
+        102082363,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"8ac7f7ad3d9281d064ed380f0f93ce37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
+            "localadmin_id":404522317,
             "locality_id":85979271,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85836147,
             "region_id":85688543,
             "venue_id":303472169
         }
     ],
     "wof:id":303472169,
-    "wof:lastmodified":1448998311,
+    "wof:lastmodified":1454123051,
     "wof:name":"Play & Learn",
-    "wof:parent_id":-1,
+    "wof:parent_id":85836147,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-73.861423,41.587129,-73.861423,41.587129],
+  "bbox": [
+    -73.861423,
+    41.587129,
+    -73.861423,
+    41.587129
+],
   "geometry": {"coordinates":[-73.861423,41.587129],"type":"Point"}
 }

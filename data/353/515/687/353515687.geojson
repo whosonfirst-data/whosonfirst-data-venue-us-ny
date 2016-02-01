@@ -2,13 +2,14 @@
   "id": 353515687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.044855,40.815473,-73.044855,40.815473",
     "geom:latitude":40.815473,
     "geom:longitude":-73.044855,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1067 Waverly Ave",
     "sg:city":"Holtsville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"27fbbe21316454dcef78eaf1b2ab01cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":353515687
         }
     ],
     "wof:id":353515687,
-    "wof:lastmodified":1449018843,
+    "wof:lastmodified":1454126119,
     "wof:name":"Transitional Services of NY",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-73.044855,40.815473,-73.044855,40.815473],
+  "bbox": [
+    -73.044855,
+    40.815473,
+    -73.044855,
+    40.815473
+],
   "geometry": {"coordinates":[-73.044855,40.815473],"type":"Point"}
 }

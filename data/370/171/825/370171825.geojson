@@ -2,13 +2,14 @@
   "id": 370171825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.998534,40.713446,-73.998534,40.713446",
     "geom:latitude":40.713446,
     "geom:longitude":-73.998534,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8 Chatham Sq",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865569,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810885
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +44,20 @@
     "wof:geomhash":"5b07e3e9b8465c816d0ab9c759b29e98",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85810885,
+            "neighbourhood_id":85865569,
             "region_id":85688543,
             "venue_id":370171825
         }
     ],
     "wof:id":370171825,
-    "wof:lastmodified":1449032482,
+    "wof:lastmodified":1454128315,
     "wof:name":"Mandalay Dental Care PC",
-    "wof:parent_id":85810885,
+    "wof:parent_id":85865569,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.998534,40.713446,-73.998534,40.713446],
-  "geometry": {"coordinates":[-73.998534,40.713446],"type":"Point"}
+  "bbox": [
+    -73.998534,
+    40.713446,
+    -73.998534,
+    40.713446
+],
+  "geometry": {"coordinates":[-73.99853400000001,40.713446],"type":"Point"}
 }

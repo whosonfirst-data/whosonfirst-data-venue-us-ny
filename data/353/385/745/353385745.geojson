@@ -2,13 +2,14 @@
   "id": 353385745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.981955,40.778956,-73.981955,40.778956",
     "geom:latitude":40.778956,
     "geom:longitude":-73.981955,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2095 Broadway",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853285,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85853285
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"789b20bcc48ce66a33a53bc20c3bbb18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853285,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":353385745,
-    "wof:lastmodified":1449019783,
+    "wof:lastmodified":1454126391,
     "wof:name":"Simon Goodman Picture Co Inc",
     "wof:parent_id":85853285,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "television"
     ]
 },
-  "bbox": [-73.981955,40.778956,-73.981955,40.778956],
+  "bbox": [
+    -73.981955,
+    40.778956,
+    -73.981955,
+    40.778956
+],
   "geometry": {"coordinates":[-73.981955,40.778956],"type":"Point"}
 }

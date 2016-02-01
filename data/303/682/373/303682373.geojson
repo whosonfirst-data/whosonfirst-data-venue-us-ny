@@ -2,13 +2,14 @@
   "id": 303682373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.007415,40.81636,-73.007415,40.81636",
     "geom:latitude":40.81636,
     "geom:longitude":-73.007415,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"219 Peekskill Ave",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"1279e9f4ad3b7ea744f1af676c79d891",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":303682373
         }
     ],
     "wof:id":303682373,
-    "wof:lastmodified":1448998544,
+    "wof:lastmodified":1454123135,
     "wof:name":"Above All Maintenance",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.007415,40.81636,-73.007415,40.81636],
-  "geometry": {"coordinates":[-73.007415,40.81636],"type":"Point"}
+  "bbox": [
+    -73.007415,
+    40.81636,
+    -73.007415,
+    40.81636
+],
+  "geometry": {"coordinates":[-73.00741499999999,40.81636],"type":"Point"}
 }

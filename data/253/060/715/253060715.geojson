@@ -2,13 +2,14 @@
   "id": 253060715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.876507,41.013374,-73.876507,41.013374",
     "geom:latitude":41.013374,
     "geom:longitude":-73.876507,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"66 Main St",
     "sg:city":"Dobbs Ferry",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85849177,
+        102191575,
+        404523359,
         85633793,
-        102082385,
-        85849177
+        85978743,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"f283e07188382952903b8998f12a1c48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082385,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523359,
+            "locality_id":85978743,
             "neighbourhood_id":85849177,
             "region_id":85688543,
             "venue_id":253060715
         }
     ],
     "wof:id":253060715,
-    "wof:lastmodified":1449065515,
+    "wof:lastmodified":1454130697,
     "wof:name":"Audreys",
     "wof:parent_id":85849177,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "food"
     ]
 },
-  "bbox": [-73.876507,41.013374,-73.876507,41.013374],
+  "bbox": [
+    -73.876507,
+    41.013374,
+    -73.876507,
+    41.013374
+],
   "geometry": {"coordinates":[-73.876507,41.013374],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386995229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.550285,43.149399,-77.550285,43.149399",
     "geom:latitude":43.149399,
     "geom:longitude":-77.550285,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"791 Blossom Rd Ste 1",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880405,
+        102191575,
+        404521467,
         85633793,
-        85979035,
+        85977591,
         102081815,
-        85880405
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"06379e80558a9ece2ab571e38ed66bdd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85979035,
+            "localadmin_id":404521467,
+            "locality_id":85977591,
             "neighbourhood_id":85880405,
             "region_id":85688543,
             "venue_id":386995229
         }
     ],
     "wof:id":386995229,
-    "wof:lastmodified":1449028938,
+    "wof:lastmodified":1454127275,
     "wof:name":"Rochester Cosmetic Dentistry",
     "wof:parent_id":85880405,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "maxillofacial"
     ]
 },
-  "bbox": [-77.550285,43.149399,-77.550285,43.149399],
+  "bbox": [
+    -77.550285,
+    43.149399,
+    -77.550285,
+    43.149399
+],
   "geometry": {"coordinates":[-77.550285,43.149399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253500863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.545218,41.016273,-72.545218,41.016273",
     "geom:latitude":41.016273,
     "geom:longitude":-72.545218,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2650 Reeve Rd",
     "sg:city":"Mattituck",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85854737,
+        102191575,
+        404523179,
         85633793,
         85979743,
         102082395,
-        85854737
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"cf80af65b20ea12a4091529650cca6e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404523179,
             "locality_id":85979743,
             "neighbourhood_id":85854737,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":253500863,
-    "wof:lastmodified":1449063556,
+    "wof:lastmodified":1454130368,
     "wof:name":"Randall Eilers",
     "wof:parent_id":85854737,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.545218,41.016273,-72.545218,41.016273],
-  "geometry": {"coordinates":[-72.545218,41.016273],"type":"Point"}
+  "bbox": [
+    -72.545218,
+    41.016273,
+    -72.545218,
+    41.016273
+],
+  "geometry": {"coordinates":[-72.54521800000001,41.016273],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371026005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.817597,40.949973,-73.817597,40.949973",
     "geom:latitude":40.949973,
     "geom:longitude":-73.817597,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"324 White Plains Rd",
     "sg:city":"Eastchester",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530381,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"2b9b2cd48dbac2fae070195ab7eeddce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530381,
             "region_id":85688543,
             "venue_id":371026005
         }
     ],
     "wof:id":371026005,
-    "wof:lastmodified":1449049661,
+    "wof:lastmodified":1454129183,
     "wof:name":"Beverage Mart Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530381,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "alcoholic"
     ]
 },
-  "bbox": [-73.817597,40.949973,-73.817597,40.949973],
-  "geometry": {"coordinates":[-73.817597,40.949973],"type":"Point"}
+  "bbox": [
+    -73.817597,
+    40.949973,
+    -73.817597,
+    40.949973
+],
+  "geometry": {"coordinates":[-73.81759700000001,40.949973],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320245039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.187735,42.637508,-76.187735,42.637508",
     "geom:latitude":42.637508,
     "geom:longitude":-76.187735,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"29 Grove St",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528395,
+        102191575,
+        404522255,
         85633793,
         85978519,
-        102083011
+        102083011,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"b7b508db15ee1d82ad98cf5eb1a49a4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083011,
+            "localadmin_id":404522255,
             "locality_id":85978519,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528395,
             "region_id":85688543,
             "venue_id":320245039
         }
     ],
     "wof:id":320245039,
-    "wof:lastmodified":1449014841,
+    "wof:lastmodified":1454125343,
     "wof:name":"Brett J Reider",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528395,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "clergy"
     ]
 },
-  "bbox": [-76.187735,42.637508,-76.187735,42.637508],
+  "bbox": [
+    -76.187735,
+    42.637508,
+    -76.187735,
+    42.637508
+],
   "geometry": {"coordinates":[-76.187735,42.637508],"type":"Point"}
 }

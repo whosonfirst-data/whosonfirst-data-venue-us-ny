@@ -2,13 +2,14 @@
   "id": 269793713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.469453,40.794455,-73.469453,40.794455",
     "geom:latitude":40.794455,
     "geom:longitude":-73.469453,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"175 Sunnyside Blvd",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"34b0291056289679c49d58b8dd2fbcac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":269793713
         }
     ],
     "wof:id":269793713,
-    "wof:lastmodified":1449037455,
+    "wof:lastmodified":1454128659,
     "wof:name":"Lewis Champion Energy",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "system"
     ]
 },
-  "bbox": [-73.469453,40.794455,-73.469453,40.794455],
+  "bbox": [
+    -73.469453,
+    40.794455,
+    -73.469453,
+    40.794455
+],
   "geometry": {"coordinates":[-73.469453,40.794455],"type":"Point"}
 }

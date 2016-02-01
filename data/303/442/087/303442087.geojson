@@ -2,13 +2,14 @@
   "id": 303442087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.001589,40.630938,-74.001589,40.630938",
     "geom:latitude":40.630938,
     "geom:longitude":-74.001589,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1153 60th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"b216eae1d9fa09ad7dba9e843e80c03f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":303442087
         }
     ],
     "wof:id":303442087,
-    "wof:lastmodified":1448999192,
+    "wof:lastmodified":1454123347,
     "wof:name":"Ms",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-74.001589,40.630938,-74.001589,40.630938],
+  "bbox": [
+    -74.001589,
+    40.630938,
+    -74.001589,
+    40.630938
+],
   "geometry": {"coordinates":[-74.001589,40.630938],"type":"Point"}
 }

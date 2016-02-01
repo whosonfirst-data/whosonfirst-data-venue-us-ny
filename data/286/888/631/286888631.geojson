@@ -2,13 +2,14 @@
   "id": 286888631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.157637,40.883604,-73.157637,40.883604",
     "geom:latitude":40.883604,
     "geom:longitude":-73.157637,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"523 Lake Ave",
     "sg:city":"St James",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893017,
+        102191575,
+        404522669,
         85633793,
-        85979773,
+        85979839,
         102082395,
-        85893017
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"14e40ad90ae06ad4a1bf1677cc627555",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522669,
+            "locality_id":85979839,
             "neighbourhood_id":85893017,
             "region_id":85688543,
             "venue_id":286888631
         }
     ],
     "wof:id":286888631,
-    "wof:lastmodified":1449017036,
+    "wof:lastmodified":1454125725,
     "wof:name":"St James Vacuum",
     "wof:parent_id":85893017,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-73.157637,40.883604,-73.157637,40.883604],
-  "geometry": {"coordinates":[-73.157637,40.883604],"type":"Point"}
+  "bbox": [
+    -73.157637,
+    40.883604,
+    -73.157637,
+    40.883604
+],
+  "geometry": {"coordinates":[-73.15763699999999,40.883604],"type":"Point"}
 }

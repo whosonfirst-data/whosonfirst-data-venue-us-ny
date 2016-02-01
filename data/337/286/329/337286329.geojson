@@ -2,13 +2,14 @@
   "id": 337286329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.999048,40.676059,-73.999048,40.676059",
     "geom:latitude":40.676059,
     "geom:longitude":-73.999048,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"522A Court St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"www.awayerealty.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865587,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865587
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"3250c15e08ab1f59985841acfc11471a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865587,
             "region_id":85688543,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":337286329,
-    "wof:lastmodified":1449027146,
+    "wof:lastmodified":1454126950,
     "wof:name":"Awaye Realty",
     "wof:parent_id":85865587,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "apartment"
     ]
 },
-  "bbox": [-73.999048,40.676059,-73.999048,40.676059],
+  "bbox": [
+    -73.999048,
+    40.676059,
+    -73.999048,
+    40.676059
+],
   "geometry": {"coordinates":[-73.999048,40.676059],"type":"Point"}
 }

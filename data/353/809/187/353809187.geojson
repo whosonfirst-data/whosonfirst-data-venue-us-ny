@@ -2,13 +2,14 @@
   "id": 353809187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.009861,40.72135,-74.009861,40.72135",
     "geom:latitude":40.72135,
     "geom:longitude":-74.009861,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"401 Greenwich St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865713,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865713
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"b9f53b80eea8ca0e532f9c2c7c13fc26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865713,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":353809187,
-    "wof:lastmodified":1449020365,
+    "wof:lastmodified":1454126559,
     "wof:name":"401 Greenwich Corp",
     "wof:parent_id":85865713,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "operates"
     ]
 },
-  "bbox": [-74.009861,40.72135,-74.009861,40.72135],
+  "bbox": [
+    -74.009861,
+    40.72135,
+    -74.009861,
+    40.72135
+],
   "geometry": {"coordinates":[-74.009861,40.72135],"type":"Point"}
 }

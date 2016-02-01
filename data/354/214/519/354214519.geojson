@@ -2,13 +2,14 @@
   "id": 354214519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.095625,40.782369,-73.095625,40.782369",
     "geom:latitude":40.782369,
     "geom:longitude":-73.095625,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4250 Veterans Memorial Hwy",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://www.novacoast.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"19c5158c4b282bddfc03d485983582c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":354214519
         }
     ],
     "wof:id":354214519,
-    "wof:lastmodified":1449067628,
+    "wof:lastmodified":1454131296,
     "wof:name":"Razorshark",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "network"
     ]
 },
-  "bbox": [-73.095625,40.782369,-73.095625,40.782369],
+  "bbox": [
+    -73.095625,
+    40.782369,
+    -73.095625,
+    40.782369
+],
   "geometry": {"coordinates":[-73.095625,40.782369],"type":"Point"}
 }

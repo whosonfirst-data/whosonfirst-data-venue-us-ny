@@ -2,13 +2,14 @@
   "id": 253242933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.24685,40.734079,-73.24685,40.734079",
     "geom:latitude":40.734079,
     "geom:longitude":-73.24685,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"80 Brook Ave",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530027,
+        102191575,
+        404522517,
         85633793,
         85979719,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"161fa35e15976e0a4020597ff1f265b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530027,
             "region_id":85688543,
             "venue_id":253242933
         }
     ],
     "wof:id":253242933,
-    "wof:lastmodified":1449065422,
+    "wof:lastmodified":1454130680,
     "wof:name":"Morgan AC Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530027,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.24685,40.734079,-73.24685,40.734079],
-  "geometry": {"coordinates":[-73.24685,40.734079],"type":"Point"}
+  "bbox": [
+    -73.24685,
+    40.734079,
+    -73.24685,
+    40.734079
+],
+  "geometry": {"coordinates":[-73.24684999999999,40.734079],"type":"Point"}
 }

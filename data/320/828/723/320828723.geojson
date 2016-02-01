@@ -2,13 +2,14 @@
   "id": 320828723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.121943,43.079307,-76.121943,43.079307",
     "geom:latitude":43.079307,
     "geom:longitude":-76.121943,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"112 Lorenzo Dr",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881259,
+        102191575,
+        404522845,
         85633793,
-        85977785,
+        85979211,
         102082351,
-        85881259
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"bfefe0a98db43b563529f0e17901dce7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
-            "locality_id":85977785,
+            "localadmin_id":404522845,
+            "locality_id":85979211,
             "neighbourhood_id":85881259,
             "region_id":85688543,
             "venue_id":320828723
         }
     ],
     "wof:id":320828723,
-    "wof:lastmodified":1449013147,
+    "wof:lastmodified":1454125069,
     "wof:name":"Wayne's Electric",
     "wof:parent_id":85881259,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.121943,43.079307,-76.121943,43.079307],
+  "bbox": [
+    -76.121943,
+    43.079307,
+    -76.121943,
+    43.079307
+],
   "geometry": {"coordinates":[-76.121943,43.079307],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303874955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.991548,40.727089,-73.991548,40.727089",
     "geom:latitude":40.727089,
     "geom:longitude":-73.991548,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 E 4 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.helpern.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816887,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"187d38ad17fa33e718a3d6be9e7050b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85816887,
             "region_id":85688543,
             "venue_id":303874955
         }
     ],
     "wof:id":303874955,
-    "wof:lastmodified":1449000408,
+    "wof:lastmodified":1454123680,
     "wof:name":"Helpern Architects",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816887,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.991548,40.727089,-73.991548,40.727089],
-  "geometry": {"coordinates":[-73.991548,40.727089],"type":"Point"}
+  "bbox": [
+    -73.991548,
+    40.727089,
+    -73.991548,
+    40.727089
+],
+  "geometry": {"coordinates":[-73.99154799999999,40.727089],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353486031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.907547,40.741739,-73.907547,40.741739",
     "geom:latitude":40.741739,
     "geom:longitude":-73.907547,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4306 58th St",
     "sg:city":"Woodside",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://www.rivernetwork.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851491,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85851491
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"5d4f8a08142abb24c96b6826a73dce1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85851491,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":353486031,
-    "wof:lastmodified":1449019679,
+    "wof:lastmodified":1454126360,
     "wof:name":"Telux Usa",
     "wof:parent_id":85851491,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "watchmaker"
     ]
 },
-  "bbox": [-73.907547,40.741739,-73.907547,40.741739],
-  "geometry": {"coordinates":[-73.907547,40.741739],"type":"Point"}
+  "bbox": [
+    -73.907547,
+    40.741739,
+    -73.907547,
+    40.741739
+],
+  "geometry": {"coordinates":[-73.90754699999999,40.741739],"type":"Point"}
 }

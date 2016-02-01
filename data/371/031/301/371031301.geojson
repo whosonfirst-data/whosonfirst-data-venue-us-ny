@@ -2,13 +2,14 @@
   "id": 371031301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.876297,42.892101,-78.876297,42.892101",
     "geom:latitude":42.892101,
     "geom:longitude":-78.876297,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"282 Delaware Ave Ste 1",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.reprocraft.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872885,
+        102191575,
+        404522329,
         85633793,
         85978023,
         102082387,
-        85872885
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"f3448c481ee41d5e08d317d14b217f3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
             "neighbourhood_id":85872885,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":371031301,
-    "wof:lastmodified":1449049410,
+    "wof:lastmodified":1454129124,
     "wof:name":"Reprocraft",
     "wof:parent_id":85872885,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.876297,42.892101,-78.876297,42.892101],
-  "geometry": {"coordinates":[-78.876297,42.892101],"type":"Point"}
+  "bbox": [
+    -78.876297,
+    42.892101,
+    -78.876297,
+    42.892101
+],
+  "geometry": {"coordinates":[-78.87629699999999,42.892101],"type":"Point"}
 }

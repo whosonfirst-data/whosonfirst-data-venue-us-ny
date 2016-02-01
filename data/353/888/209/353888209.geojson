@@ -2,13 +2,14 @@
   "id": 353888209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.137622,41.005165,-72.137622,41.005165",
     "geom:latitude":41.005165,
     "geom:longitude":-72.137622,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"125 Neck Path",
     "sg:city":"East Hampton",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85828459,
+        102191575,
+        404521445,
         85633793,
-        85979915,
+        85979941,
         102082395,
-        85850765
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +45,20 @@
     "wof:geomhash":"2440a96176f8b3a3558137a6a73a5927",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979915,
-            "neighbourhood_id":85850765,
+            "localadmin_id":404521445,
+            "locality_id":85979941,
+            "neighbourhood_id":85828459,
             "region_id":85688543,
             "venue_id":353888209
         }
     ],
     "wof:id":353888209,
-    "wof:lastmodified":1449019863,
+    "wof:lastmodified":1454126415,
     "wof:name":"Carlos Vargas Custom Carpentry",
-    "wof:parent_id":85850765,
+    "wof:parent_id":85828459,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-72.137622,41.005165,-72.137622,41.005165],
-  "geometry": {"coordinates":[-72.137622,41.005165],"type":"Point"}
+  "bbox": [
+    -72.137622,
+    41.005165,
+    -72.137622,
+    41.005165
+],
+  "geometry": {"coordinates":[-72.13762199999999,41.005165],"type":"Point"}
 }

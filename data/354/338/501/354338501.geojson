@@ -2,13 +2,14 @@
   "id": 354338501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.026214,40.621491,-74.026214,40.621491",
     "geom:latitude":40.621491,
     "geom:longitude":-74.026214,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8501 5th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820107,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"13c6560cd9d99ee648329200cfbd26b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85820107,
             "region_id":85688543,
             "venue_id":354338501
         }
     ],
     "wof:id":354338501,
-    "wof:lastmodified":1449066505,
+    "wof:lastmodified":1454130946,
     "wof:name":"Pretty Girl",
-    "wof:parent_id":-1,
+    "wof:parent_id":85820107,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.026214,40.621491,-74.026214,40.621491],
+  "bbox": [
+    -74.026214,
+    40.621491,
+    -74.026214,
+    40.621491
+],
   "geometry": {"coordinates":[-74.026214,40.621491],"type":"Point"}
 }

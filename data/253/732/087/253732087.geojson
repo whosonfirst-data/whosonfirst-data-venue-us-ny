@@ -2,13 +2,14 @@
   "id": 253732087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.693509,40.659959,-73.693509,40.659959",
     "geom:latitude":40.659959,
     "geom:longitude":-73.693509,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"181 E Jamaica Ave",
     "sg:city":"Valley Stream",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893055,
+        102191575,
+        404521473,
         85633793,
         85977737,
         102082371,
-        85893055
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"f613752f59fba8d651021073bd448fbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977737,
             "neighbourhood_id":85893055,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":253732087,
-    "wof:lastmodified":1449065889,
+    "wof:lastmodified":1454130759,
     "wof:name":"Airlock Door Controls",
     "wof:parent_id":85893055,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "devices"
     ]
 },
-  "bbox": [-73.693509,40.659959,-73.693509,40.659959],
-  "geometry": {"coordinates":[-73.693509,40.659959],"type":"Point"}
+  "bbox": [
+    -73.693509,
+    40.659959,
+    -73.693509,
+    40.659959
+],
+  "geometry": {"coordinates":[-73.69350900000001,40.659959],"type":"Point"}
 }

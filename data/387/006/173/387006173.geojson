@@ -2,13 +2,14 @@
   "id": 387006173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.638875,43.156316,-77.638875,43.156316",
     "geom:latitude":43.156316,
     "geom:longitude":-77.638875,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 Wilder St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868839,
+        102191575,
+        404521467,
         85633793,
         85977591,
-        102081815
+        102081815,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"85111f5cc1a02210854fe582eac89c15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85868839,
             "region_id":85688543,
             "venue_id":387006173
         }
     ],
     "wof:id":387006173,
-    "wof:lastmodified":1449059177,
+    "wof:lastmodified":1454130075,
     "wof:name":"Gregory L Dolan",
-    "wof:parent_id":-1,
+    "wof:parent_id":85868839,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.638875,43.156316,-77.638875,43.156316],
+  "bbox": [
+    -77.638875,
+    43.156316,
+    -77.638875,
+    43.156316
+],
   "geometry": {"coordinates":[-77.638875,43.156316],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387053153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.80146,40.976645,-73.80146,40.976645",
     "geom:latitude":40.976645,
     "geom:longitude":-73.80146,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"112 Gaylor Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530449,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"71bcbeff610205048f0306ef5599696f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530449,
             "region_id":85688543,
             "venue_id":387053153
         }
     ],
     "wof:id":387053153,
-    "wof:lastmodified":1449056818,
+    "wof:lastmodified":1454129657,
     "wof:name":"Datafast Service Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530449,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "datum"
     ]
 },
-  "bbox": [-73.80146,40.976645,-73.80146,40.976645],
-  "geometry": {"coordinates":[-73.80146,40.976645],"type":"Point"}
+  "bbox": [
+    -73.80146,
+    40.976645,
+    -73.80146,
+    40.976645
+],
+  "geometry": {"coordinates":[-73.80146000000001,40.976645],"type":"Point"}
 }

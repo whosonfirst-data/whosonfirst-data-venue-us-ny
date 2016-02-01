@@ -2,13 +2,14 @@
   "id": 403785229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.891778,40.821631,-73.891778,40.821631",
     "geom:latitude":40.821631,
     "geom:longitude":-73.891778,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"943 Southern Blvd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869443,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869443
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"22170c81367074634b55a248d44a9d7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869443,
             "region_id":85688543,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":403785229,
-    "wof:lastmodified":1449055748,
+    "wof:lastmodified":1454129482,
     "wof:name":"Lot Less Closeouts",
     "wof:parent_id":85869443,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "clothing"
     ]
 },
-  "bbox": [-73.891778,40.821631,-73.891778,40.821631],
+  "bbox": [
+    -73.891778,
+    40.821631,
+    -73.891778,
+    40.821631
+],
   "geometry": {"coordinates":[-73.891778,40.821631],"type":"Point"}
 }

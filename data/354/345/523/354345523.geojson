@@ -2,13 +2,14 @@
   "id": 354345523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.998856,40.862204,-72.998856,40.862204",
     "geom:latitude":40.862204,
     "geom:longitude":-72.998856,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3712 Rte 112",
     "sg:city":"Coram",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"7eecee1a5e651bb0143bcd4a8f2e0157",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354345523
         }
     ],
     "wof:id":354345523,
-    "wof:lastmodified":1449067535,
+    "wof:lastmodified":1454131265,
     "wof:name":"Bell TV & Stereo Svc",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "radio"
     ]
 },
-  "bbox": [-72.998856,40.862204,-72.998856,40.862204],
+  "bbox": [
+    -72.998856,
+    40.862204,
+    -72.998856,
+    40.862204
+],
   "geometry": {"coordinates":[-72.998856,40.862204],"type":"Point"}
 }

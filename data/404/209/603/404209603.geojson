@@ -2,13 +2,14 @@
   "id": 404209603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.264904,40.857536,-73.264904,40.857536",
     "geom:latitude":40.857536,
     "geom:longitude":-73.264904,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"19 Washington Blvd",
     "sg:city":"Commack",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530033,
+        102191575,
+        404522669,
         85633793,
         85979805,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"e9085ee566a8af8c3e38ece1d31053ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979805,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530033,
             "region_id":85688543,
             "venue_id":404209603
         }
     ],
     "wof:id":404209603,
-    "wof:lastmodified":1449040197,
+    "wof:lastmodified":1454128952,
     "wof:name":"Gardens Ornamental",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530033,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.264904,40.857536,-73.264904,40.857536],
+  "bbox": [
+    -73.264904,
+    40.857536,
+    -73.264904,
+    40.857536
+],
   "geometry": {"coordinates":[-73.264904,40.857536],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370242195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.817917,40.944509,-72.817917,40.944509",
     "geom:latitude":40.944509,
     "geom:longitude":-72.817917,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5720 Route 25A",
     "sg:city":"Wading River",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979901,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"1f25ec8540fa5167e306275c2d32356e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979901,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":370242195
         }
     ],
     "wof:id":370242195,
-    "wof:lastmodified":1449032079,
+    "wof:lastmodified":1454128193,
     "wof:name":"Eastwind Caterers",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "caterer"
     ]
 },
-  "bbox": [-72.817917,40.944509,-72.817917,40.944509],
-  "geometry": {"coordinates":[-72.817917,40.944509],"type":"Point"}
+  "bbox": [
+    -72.817917,
+    40.944509,
+    -72.817917,
+    40.944509
+],
+  "geometry": {"coordinates":[-72.81791699999999,40.944509],"type":"Point"}
 }

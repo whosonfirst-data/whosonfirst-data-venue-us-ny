@@ -2,13 +2,14 @@
   "id": 403923625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.516709,40.686616,-73.516709,40.686616",
     "geom:latitude":40.686616,
     "geom:longitude":-73.516709,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3177 Birch Dr",
     "sg:city":"Wantagh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893061,
+        102191575,
+        404521473,
         85633793,
-        85979065,
+        85979059,
         102082371,
-        85893061
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"44281bce2a84b866d177336f4bb7fba3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979065,
+            "localadmin_id":404521473,
+            "locality_id":85979059,
             "neighbourhood_id":85893061,
             "region_id":85688543,
             "venue_id":403923625
         }
     ],
     "wof:id":403923625,
-    "wof:lastmodified":1449055910,
+    "wof:lastmodified":1454129503,
     "wof:name":"Dynamic Marketing Assoc Inc",
     "wof:parent_id":85893061,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "m"
     ]
 },
-  "bbox": [-73.516709,40.686616,-73.516709,40.686616],
-  "geometry": {"coordinates":[-73.516709,40.686616],"type":"Point"}
+  "bbox": [
+    -73.516709,
+    40.686616,
+    -73.516709,
+    40.686616
+],
+  "geometry": {"coordinates":[-73.51670900000001,40.686616],"type":"Point"}
 }

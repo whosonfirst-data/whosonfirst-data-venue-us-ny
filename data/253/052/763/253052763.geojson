@@ -2,13 +2,14 @@
   "id": 253052763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.630755,40.740513,-73.630755,40.740513",
     "geom:latitude":40.740513,
     "geom:longitude":-73.630755,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 E Old Country Rd",
     "sg:city":"Mineola",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85847583,
+        102191575,
+        404522729,
         85633793,
+        85977733,
+        102082371,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"548e65ca7e6de8346e7b48ae7718e697",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082371,
+            "localadmin_id":404522729,
+            "locality_id":85977733,
+            "neighbourhood_id":85847583,
             "region_id":85688543,
             "venue_id":253052763
         }
     ],
     "wof:id":253052763,
-    "wof:lastmodified":1449064162,
+    "wof:lastmodified":1454130469,
     "wof:name":"Charles E Holster III",
-    "wof:parent_id":-1,
+    "wof:parent_id":85847583,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "attorney"
     ]
 },
-  "bbox": [-73.630755,40.740513,-73.630755,40.740513],
-  "geometry": {"coordinates":[-73.630755,40.740513],"type":"Point"}
+  "bbox": [
+    -73.630755,
+    40.740513,
+    -73.630755,
+    40.740513
+],
+  "geometry": {"coordinates":[-73.63075499999999,40.740513],"type":"Point"}
 }

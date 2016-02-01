@@ -2,13 +2,14 @@
   "id": 337344085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.830433,40.760159,-73.830433,40.760159",
     "geom:latitude":40.760159,
     "geom:longitude":-73.830433,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3910 Main St",
     "sg:city":"Flushing",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.us.hsbc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819703,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819703
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"4e0a4e0ea1b3d781445183c7e7e1dcb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819703,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":337344085,
-    "wof:lastmodified":1449026981,
+    "wof:lastmodified":1454126883,
     "wof:name":"HSBC Bank",
     "wof:parent_id":85819703,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.830433,40.760159,-73.830433,40.760159],
+  "bbox": [
+    -73.830433,
+    40.760159,
+    -73.830433,
+    40.760159
+],
   "geometry": {"coordinates":[-73.830433,40.760159],"type":"Point"}
 }

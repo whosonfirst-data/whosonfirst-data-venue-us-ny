@@ -2,13 +2,14 @@
   "id": 270484791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.180256,42.598225,-76.180256,42.598225",
     "geom:latitude":42.598225,
     "geom:longitude":-76.180256,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 Main St",
     "sg:city":"Cortland",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528395,
+        102191575,
+        404522255,
         85633793,
-        85978513,
-        102083011
+        85978519,
+        102083011,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"433b31e6c64c952a8aa45dacbb419af5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083011,
-            "locality_id":85978513,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522255,
+            "locality_id":85978519,
+            "neighbourhood_id":420528395,
             "region_id":85688543,
             "venue_id":270484791
         }
     ],
     "wof:id":270484791,
-    "wof:lastmodified":1449010975,
+    "wof:lastmodified":1454124716,
     "wof:name":"Best Wings Of Cortland",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528395,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.180256,42.598225,-76.180256,42.598225],
+  "bbox": [
+    -76.180256,
+    42.598225,
+    -76.180256,
+    42.598225
+],
   "geometry": {"coordinates":[-76.180256,42.598225],"type":"Point"}
 }

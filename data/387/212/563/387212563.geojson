@@ -2,13 +2,14 @@
   "id": 387212563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.712358,40.967037,-73.712358,40.967037",
     "geom:latitude":40.967037,
     "geom:longitude":-73.712358,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"197 Harrison Ave",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"www.pmrecovery.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892899,
+        102191575,
+        404523361,
         85633793,
-        85978729,
+        85978735,
         102082373,
-        85892899
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,18 @@
     "wof:geomhash":"ef2552158e7063510eb54049ac288656",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978729,
+            "localadmin_id":404523361,
+            "locality_id":85978735,
             "neighbourhood_id":85892899,
             "region_id":85688543,
             "venue_id":387212563
         }
     ],
     "wof:id":387212563,
-    "wof:lastmodified":1449058572,
+    "wof:lastmodified":1454129973,
     "wof:name":"P M Recovery",
     "wof:parent_id":85892899,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "metal"
     ]
 },
-  "bbox": [-73.712358,40.967037,-73.712358,40.967037],
-  "geometry": {"coordinates":[-73.712358,40.967037],"type":"Point"}
+  "bbox": [
+    -73.712358,
+    40.967037,
+    -73.712358,
+    40.967037
+],
+  "geometry": {"coordinates":[-73.71235799999999,40.967037],"type":"Point"}
 }

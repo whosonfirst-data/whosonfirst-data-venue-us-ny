@@ -2,13 +2,14 @@
   "id": 354090515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.519536,40.658297,-73.519536,40.658297",
     "geom:latitude":40.658297,
     "geom:longitude":-73.519536,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"136 Clubhouse Rd",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -37,10 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529141,
+        102191575,
+        404521473,
         85633793,
         85979167,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +54,20 @@
     "wof:geomhash":"f29938e8899091317848e720917933a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979167,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529141,
             "region_id":85688543,
             "venue_id":354090515
         }
     ],
     "wof:id":354090515,
-    "wof:lastmodified":1449067286,
+    "wof:lastmodified":1454131189,
     "wof:name":"Club House Road Marina",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529141,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +75,11 @@
         "yard"
     ]
 },
-  "bbox": [-73.519536,40.658297,-73.519536,40.658297],
+  "bbox": [
+    -73.519536,
+    40.658297,
+    -73.519536,
+    40.658297
+],
   "geometry": {"coordinates":[-73.519536,40.658297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303393385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.933951,40.803051,-73.933951,40.803051",
     "geom:latitude":40.803051,
     "geom:longitude":-73.933951,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"225 E 125th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865689,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865689
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"1ed4a6c03f21f89a8250fd3b025e1390",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865689,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":303393385,
-    "wof:lastmodified":1448998884,
+    "wof:lastmodified":1454123257,
     "wof:name":"Real Estate Building",
     "wof:parent_id":85865689,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.933951,40.803051,-73.933951,40.803051],
-  "geometry": {"coordinates":[-73.933951,40.803051],"type":"Point"}
+  "bbox": [
+    -73.933951,
+    40.803051,
+    -73.933951,
+    40.803051
+],
+  "geometry": {"coordinates":[-73.93395099999999,40.803051],"type":"Point"}
 }

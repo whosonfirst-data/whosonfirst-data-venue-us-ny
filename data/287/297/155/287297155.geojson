@@ -2,13 +2,14 @@
   "id": 287297155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.572831,40.81239,-73.572831,40.81239",
     "geom:latitude":40.81239,
     "geom:longitude":-73.572831,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Farmstead Ln",
     "sg:city":"Glen Head",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857339,
+        102191575,
+        404521475,
         85633793,
-        85977647,
+        85977655,
         102082371,
-        85857339
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"eb97a19d1f0f8b05af560f4c7b0ed79f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977647,
+            "localadmin_id":404521475,
+            "locality_id":85977655,
             "neighbourhood_id":85857339,
             "region_id":85688543,
             "venue_id":287297155
         }
     ],
     "wof:id":287297155,
-    "wof:lastmodified":1449001250,
+    "wof:lastmodified":1454123890,
     "wof:name":"Farmstead Consultants",
     "wof:parent_id":85857339,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "financing"
     ]
 },
-  "bbox": [-73.572831,40.81239,-73.572831,40.81239],
-  "geometry": {"coordinates":[-73.572831,40.81239],"type":"Point"}
+  "bbox": [
+    -73.572831,
+    40.81239,
+    -73.572831,
+    40.81239
+],
+  "geometry": {"coordinates":[-73.57283099999999,40.81239],"type":"Point"}
 }

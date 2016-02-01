@@ -2,13 +2,14 @@
   "id": 386990251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.594918,43.147259,-77.594918,43.147259",
     "geom:latitude":43.147259,
     "geom:longitude":-77.594918,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"439 Monroe Ave Ste 1",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://www.meditions.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867105,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85867105
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"033d3b3dcf88a8e5477cace69685a66f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85867105,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":386990251,
-    "wof:lastmodified":1449028824,
+    "wof:lastmodified":1454127244,
     "wof:name":"Lens Triptar Co Inc",
     "wof:parent_id":85867105,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-77.594918,43.147259,-77.594918,43.147259],
-  "geometry": {"coordinates":[-77.594918,43.147259],"type":"Point"}
+  "bbox": [
+    -77.594918,
+    43.147259,
+    -77.594918,
+    43.147259
+],
+  "geometry": {"coordinates":[-77.59491800000001,43.147259],"type":"Point"}
 }

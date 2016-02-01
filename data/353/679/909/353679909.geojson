@@ -2,13 +2,14 @@
   "id": 353679909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.661623,40.993075,-73.661623,40.993075",
     "geom:latitude":40.993075,
     "geom:longitude":-73.661623,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"74 Fox Island Rd",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530421,
+        102191575,
+        404523389,
         85633793,
         85978705,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"05e590a5f8d7a791da3a6e7a85c75334",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523389,
             "locality_id":85978705,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530421,
             "region_id":85688543,
             "venue_id":353679909
         }
     ],
     "wof:id":353679909,
-    "wof:lastmodified":1449019891,
+    "wof:lastmodified":1454126423,
     "wof:name":"International Harvest Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530421,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.661623,40.993075,-73.661623,40.993075],
-  "geometry": {"coordinates":[-73.661623,40.993075],"type":"Point"}
+  "bbox": [
+    -73.661623,
+    40.993075,
+    -73.661623,
+    40.993075
+],
+  "geometry": {"coordinates":[-73.66162300000001,40.993075],"type":"Point"}
 }

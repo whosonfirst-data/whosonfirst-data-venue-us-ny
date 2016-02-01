@@ -2,13 +2,14 @@
   "id": 320684217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.536487,40.699907,-73.536487,40.699907",
     "geom:latitude":40.699907,
     "geom:longitude":-73.536487,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2665 Columbus Ave",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"3ed1f4fd3568beaa5001c0b6e8341113",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":320684217
         }
     ],
     "wof:id":320684217,
-    "wof:lastmodified":1449012190,
+    "wof:lastmodified":1454124914,
     "wof:name":"Ajax Sewer Cleaning Corp",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.536487,40.699907,-73.536487,40.699907],
-  "geometry": {"coordinates":[-73.536487,40.699907],"type":"Point"}
+  "bbox": [
+    -73.536487,
+    40.699907,
+    -73.536487,
+    40.699907
+],
+  "geometry": {"coordinates":[-73.53648699999999,40.699907],"type":"Point"}
 }

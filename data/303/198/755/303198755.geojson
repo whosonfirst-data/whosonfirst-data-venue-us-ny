@@ -2,13 +2,14 @@
   "id": 303198755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.666913,40.994587,-73.666913,40.994587",
     "geom:latitude":40.994587,
     "geom:longitude":-73.666913,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"22 Sand St",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530431,
+        102191575,
+        404523389,
         85633793,
         85978705,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"60377c484e4b9e6a073c02e5c3179ae4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523389,
             "locality_id":85978705,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530431,
             "region_id":85688543,
             "venue_id":303198755
         }
     ],
     "wof:id":303198755,
-    "wof:lastmodified":1448999007,
+    "wof:lastmodified":1454123294,
     "wof:name":"Design Build Engineers Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530431,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.666913,40.994587,-73.666913,40.994587],
-  "geometry": {"coordinates":[-73.666913,40.994587],"type":"Point"}
+  "bbox": [
+    -73.666913,
+    40.994587,
+    -73.666913,
+    40.994587
+],
+  "geometry": {"coordinates":[-73.66691299999999,40.994587],"type":"Point"}
 }

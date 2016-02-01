@@ -2,13 +2,14 @@
   "id": 303224583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.999942,40.716341,-73.999942,40.716341",
     "geom:latitude":40.716341,
     "geom:longitude":-73.999942,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"75 Baxter St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810885,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810885
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"f9a4a170f068cb0de2e9af6aa1ae8c5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810885,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303224583,
-    "wof:lastmodified":1448999905,
+    "wof:lastmodified":1454123541,
     "wof:name":"Lau Tsang PO Lin",
     "wof:parent_id":85810885,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "operates"
     ]
 },
-  "bbox": [-73.999942,40.716341,-73.999942,40.716341],
+  "bbox": [
+    -73.999942,
+    40.716341,
+    -73.999942,
+    40.716341
+],
   "geometry": {"coordinates":[-73.999942,40.716341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404026975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.139943,40.611488,-74.139943,40.611488",
     "geom:latitude":40.611488,
     "geom:longitude":-74.139943,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2286 Victory Blvd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892919,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85892919
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"156b99dfb283ddd24c415733751e6c8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892919,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":404026975,
-    "wof:lastmodified":1449039828,
+    "wof:lastmodified":1454128906,
     "wof:name":"Petrino Unisex Hair Styles",
     "wof:parent_id":85892919,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.139943,40.611488,-74.139943,40.611488],
+  "bbox": [
+    -74.139943,
+    40.611488,
+    -74.139943,
+    40.611488
+],
   "geometry": {"coordinates":[-74.139943,40.611488],"type":"Point"}
 }

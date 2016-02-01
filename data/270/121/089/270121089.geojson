@@ -2,13 +2,14 @@
   "id": 270121089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.76481,40.928184,-73.76481,40.928184",
     "geom:latitude":40.928184,
     "geom:longitude":-73.76481,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2051 Palmer Ave",
     "sg:city":"Larchmont",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85851407,
+        102191575,
+        404523375,
         85633793,
+        85978749,
+        102082373,
         85688543
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"96e0d339eaf60678bfc3c1f7224ba2d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523375,
+            "locality_id":85978749,
+            "neighbourhood_id":85851407,
             "region_id":85688543,
             "venue_id":270121089
         }
     ],
     "wof:id":270121089,
-    "wof:lastmodified":1449010514,
+    "wof:lastmodified":1454124648,
     "wof:name":"Techcom Systems Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851407,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [-73.76481,40.928184,-73.76481,40.928184],
+  "bbox": [
+    -73.76481,
+    40.928184,
+    -73.76481,
+    40.928184
+],
   "geometry": {"coordinates":[-73.76481,40.928184],"type":"Point"}
 }

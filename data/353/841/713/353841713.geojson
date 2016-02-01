@@ -2,13 +2,14 @@
   "id": 353841713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.721338,40.721943,-73.721338,40.721943",
     "geom:latitude":40.721943,
     "geom:longitude":-73.721338,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9327 246th St",
     "sg:city":"Floral Park",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805483,
+        102191575,
+        404521473,
         85633793,
-        85977709,
+        85977689,
         102082371,
-        85805483
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"3c620fe0e3b537a21af5fa834bab0bd6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977709,
+            "localadmin_id":404521473,
+            "locality_id":85977689,
             "neighbourhood_id":85805483,
             "region_id":85688543,
             "venue_id":353841713
         }
     ],
     "wof:id":353841713,
-    "wof:lastmodified":1449018796,
+    "wof:lastmodified":1454126107,
     "wof:name":"Fernandez Heating & Mechanical",
     "wof:parent_id":85805483,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.721338,40.721943,-73.721338,40.721943],
+  "bbox": [
+    -73.721338,
+    40.721943,
+    -73.721338,
+    40.721943
+],
   "geometry": {"coordinates":[-73.721338,40.721943],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404023433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.174156,40.853007,-73.174156,40.853007",
     "geom:latitude":40.853007,
     "geom:longitude":-73.174156,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"60 Terry Rd",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853877,
+        102191575,
+        404522669,
         85633793,
-        85979919,
+        85978443,
         102082395,
-        85853877
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"49aff81382a8e754febbc7a14329b4f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
+            "localadmin_id":404522669,
+            "locality_id":85978443,
             "neighbourhood_id":85853877,
             "region_id":85688543,
             "venue_id":404023433
         }
     ],
     "wof:id":404023433,
-    "wof:lastmodified":1449040217,
+    "wof:lastmodified":1454128954,
     "wof:name":"Barbagallos",
     "wof:parent_id":85853877,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.174156,40.853007,-73.174156,40.853007],
+  "bbox": [
+    -73.174156,
+    40.853007,
+    -73.174156,
+    40.853007
+],
   "geometry": {"coordinates":[-73.174156,40.853007],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354349175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.017097,40.817299,-73.017097,40.817299",
     "geom:latitude":40.817299,
     "geom:longitude":-73.017097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Robinson Ave",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.kentstruction.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"c8e187b3b7bdf8bc21a17552c9ba8483",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354349175
         }
     ],
     "wof:id":354349175,
-    "wof:lastmodified":1449066561,
+    "wof:lastmodified":1454130963,
     "wof:name":"Kent-Struction",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.017097,40.817299,-73.017097,40.817299],
-  "geometry": {"coordinates":[-73.017097,40.817299],"type":"Point"}
+  "bbox": [
+    -73.017097,
+    40.817299,
+    -73.017097,
+    40.817299
+],
+  "geometry": {"coordinates":[-73.01709700000001,40.817299],"type":"Point"}
 }

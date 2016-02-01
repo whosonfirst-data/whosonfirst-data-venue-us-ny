@@ -2,13 +2,14 @@
   "id": 354113011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.246351,40.773258,-73.246351,40.773258",
     "geom:latitude":40.773258,
     "geom:longitude":-73.246351,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1734 Brentwood Rd",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841665,
+        102191575,
+        404522517,
         85633793,
-        85979883,
+        85979867,
         102082395,
-        85841665
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +54,18 @@
     "wof:geomhash":"4980a6879e7354bb573531c1611d6106",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979883,
+            "localadmin_id":404522517,
+            "locality_id":85979867,
             "neighbourhood_id":85841665,
             "region_id":85688543,
             "venue_id":354113011
         }
     ],
     "wof:id":354113011,
-    "wof:lastmodified":1449067523,
+    "wof:lastmodified":1454131262,
     "wof:name":"Washington Temple COGIC Of Long Island",
     "wof:parent_id":85841665,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "church"
     ]
 },
-  "bbox": [-73.246351,40.773258,-73.246351,40.773258],
+  "bbox": [
+    -73.246351,
+    40.773258,
+    -73.246351,
+    40.773258
+],
   "geometry": {"coordinates":[-73.246351,40.773258],"type":"Point"}
 }

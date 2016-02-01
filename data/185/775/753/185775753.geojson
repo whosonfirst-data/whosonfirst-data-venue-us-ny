@@ -2,13 +2,14 @@
   "id": 185775753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.998008,40.628519,-73.998008,40.628519",
     "geom:latitude":40.628519,
     "geom:longitude":-73.998008,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1327 60th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"05775b639b33872653dc555ee853bf1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":185775753
         }
     ],
     "wof:id":185775753,
-    "wof:lastmodified":1449007786,
+    "wof:lastmodified":1454124297,
     "wof:name":"P.E. Electrical Contracting Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "equipment-repair"
     ]
 },
-  "bbox": [-73.998008,40.628519,-73.998008,40.628519],
+  "bbox": [
+    -73.998008,
+    40.628519,
+    -73.998008,
+    40.628519
+],
   "geometry": {"coordinates":[-73.998008,40.628519],"type":"Point"}
 }

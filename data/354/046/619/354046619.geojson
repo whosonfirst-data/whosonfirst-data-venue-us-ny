@@ -2,13 +2,14 @@
   "id": 354046619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.824184,40.585526,-73.824184,40.585526",
     "geom:latitude":40.585526,
     "geom:longitude":-73.824184,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"113-25 Beach Channel Dr",
     "sg:city":"Rockaway Park",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.usps.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558349,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"6ce63ea28aaa3cb2107d8b5fbd2f2183",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558349,
             "region_id":85688543,
             "venue_id":354046619
         }
     ],
     "wof:id":354046619,
-    "wof:lastmodified":1449066884,
+    "wof:lastmodified":1454131062,
     "wof:name":"United States Post Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558349,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.824184,40.585526,-73.824184,40.585526],
+  "bbox": [
+    -73.824184,
+    40.585526,
+    -73.824184,
+    40.585526
+],
   "geometry": {"coordinates":[-73.824184,40.585526],"type":"Point"}
 }

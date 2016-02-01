@@ -2,13 +2,14 @@
   "id": 387093665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.861643,40.896492,-72.861643,40.896492",
     "geom:latitude":40.896492,
     "geom:longitude":-72.861643,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"44 Crescent Bow",
     "sg:city":"Ridge",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979861,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"a1980f35846efc6bfd5c083d7d25a982",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979861,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":387093665
         }
     ],
     "wof:id":387093665,
-    "wof:lastmodified":1449056117,
+    "wof:lastmodified":1454129534,
     "wof:name":"Aiki Jiu Jitsu",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "instruction"
     ]
 },
-  "bbox": [-72.861643,40.896492,-72.861643,40.896492],
+  "bbox": [
+    -72.861643,
+    40.896492,
+    -72.861643,
+    40.896492
+],
   "geometry": {"coordinates":[-72.861643,40.896492],"type":"Point"}
 }

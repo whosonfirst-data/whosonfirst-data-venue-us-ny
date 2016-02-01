@@ -2,13 +2,14 @@
   "id": 320621743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.401851,40.87987,-73.401851,40.87987",
     "geom:latitude":40.87987,
     "geom:longitude":-73.401851,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"152 E Main St",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826545,
+        102191575,
+        404522515,
         85633793,
-        85979823,
+        85978425,
         102082395,
-        85826545
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"6d82d6e07e78ee56d375891c95b19b22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979823,
+            "localadmin_id":404522515,
+            "locality_id":85978425,
             "neighbourhood_id":85826545,
             "region_id":85688543,
             "venue_id":320621743
         }
     ],
     "wof:id":320621743,
-    "wof:lastmodified":1449014519,
+    "wof:lastmodified":1454125289,
     "wof:name":"Alison Mishkit MD PC",
     "wof:parent_id":85826545,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.401851,40.87987,-73.401851,40.87987],
-  "geometry": {"coordinates":[-73.401851,40.87987],"type":"Point"}
+  "bbox": [
+    -73.401851,
+    40.87987,
+    -73.401851,
+    40.87987
+],
+  "geometry": {"coordinates":[-73.40185099999999,40.87987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354043347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.814978,40.58666,-73.814978,40.58666",
     "geom:latitude":40.58666,
     "geom:longitude":-73.814978,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9108 Rockaway Beach Blvd",
     "sg:city":"Rockaway Beach",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865515,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865515
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"4c2cb18817006ee15b3845b8d8c73471",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865515,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":354043347,
-    "wof:lastmodified":1449067227,
+    "wof:lastmodified":1454131170,
     "wof:name":"Condor Pest Control",
     "wof:parent_id":85865515,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.814978,40.58666,-73.814978,40.58666],
+  "bbox": [
+    -73.814978,
+    40.58666,
+    -73.814978,
+    40.58666
+],
   "geometry": {"coordinates":[-73.814978,40.58666],"type":"Point"}
 }

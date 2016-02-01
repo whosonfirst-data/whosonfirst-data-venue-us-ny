@@ -2,13 +2,14 @@
   "id": 404219443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.506742,41.558248,-74.506742,41.558248",
     "geom:latitude":41.558248,
     "geom:longitude":-74.506742,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2948 US Hwy 209",
     "sg:city":"Wurtsboro",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85824249,
+        102082407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"3c8c6cdaf01e3d01172dee03f62c3f22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082407,
+            "neighbourhood_id":85824249,
             "region_id":85688543,
             "venue_id":404219443
         }
     ],
     "wof:id":404219443,
-    "wof:lastmodified":1449040277,
+    "wof:lastmodified":1454128964,
     "wof:name":"Sullivan County Public Health",
-    "wof:parent_id":-1,
+    "wof:parent_id":85824249,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "home"
     ]
 },
-  "bbox": [-74.506742,41.558248,-74.506742,41.558248],
+  "bbox": [
+    -74.506742,
+    41.558248,
+    -74.506742,
+    41.558248
+],
   "geometry": {"coordinates":[-74.506742,41.558248],"type":"Point"}
 }

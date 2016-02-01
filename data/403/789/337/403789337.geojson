@@ -2,13 +2,14 @@
   "id": 403789337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.982385,41.146957,-73.982385,41.146957",
     "geom:latitude":41.146957,
     "geom:longitude":-73.982385,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"76 Congers Rd",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"a2b7fc77f14281a0ad89b759b71270b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":403789337
         }
     ],
     "wof:id":403789337,
-    "wof:lastmodified":1449055234,
+    "wof:lastmodified":1454129409,
     "wof:name":"New City United Methodist Chr",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-73.982385,41.146957,-73.982385,41.146957],
-  "geometry": {"coordinates":[-73.982385,41.146957],"type":"Point"}
+  "bbox": [
+    -73.982385,
+    41.146957,
+    -73.982385,
+    41.146957
+],
+  "geometry": {"coordinates":[-73.98238499999999,41.146957],"type":"Point"}
 }

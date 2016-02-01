@@ -2,13 +2,14 @@
   "id": 354124635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.089879,40.858285,-73.089879,40.858285",
     "geom:latitude":40.858285,
     "geom:longitude":-73.089879,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2215 Middle Country Rd",
     "sg:city":"Centereach",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.walgreens.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892999,
+        102191575,
+        404521441,
         85633793,
         85979825,
         102082395,
-        85892999
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"d7f464565708a7e49d666c3f71d0220f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979825,
             "neighbourhood_id":85892999,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":354124635,
-    "wof:lastmodified":1449067542,
+    "wof:lastmodified":1454131268,
     "wof:name":"Walgreens",
     "wof:parent_id":85892999,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "store"
     ]
 },
-  "bbox": [-73.089879,40.858285,-73.089879,40.858285],
+  "bbox": [
+    -73.089879,
+    40.858285,
+    -73.089879,
+    40.858285
+],
   "geometry": {"coordinates":[-73.089879,40.858285],"type":"Point"}
 }

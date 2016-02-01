@@ -2,13 +2,14 @@
   "id": 387294263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.245247,40.723187,-73.245247,40.723187",
     "geom:latitude":40.723187,
     "geom:longitude":-73.245247,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"108 E Main St",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530027,
+        102191575,
+        404522517,
         85633793,
         85979719,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"a04a1ef3bcff79ea9f4987fb81e0723f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530027,
             "region_id":85688543,
             "venue_id":387294263
         }
     ],
     "wof:id":387294263,
-    "wof:lastmodified":1449058820,
+    "wof:lastmodified":1454130012,
     "wof:name":"H & W Auto Supplies Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530027,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.245247,40.723187,-73.245247,40.723187],
-  "geometry": {"coordinates":[-73.245247,40.723187],"type":"Point"}
+  "bbox": [
+    -73.245247,
+    40.723187,
+    -73.245247,
+    40.723187
+],
+  "geometry": {"coordinates":[-73.24524700000001,40.723187],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370349745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.862602,40.801998,-72.862602,40.801998",
     "geom:latitude":40.801998,
     "geom:longitude":-72.862602,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"999 Montauk Hwy Unit 7",
     "sg:city":"Shirley",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.gamestop.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892903,
+        102191575,
+        404521441,
         85633793,
+        85978437,
         102082395,
-        85892903
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"4b8190b8618a19b433eeffdebb6b5523",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85978437,
             "neighbourhood_id":85892903,
             "region_id":85688543,
             "venue_id":370349745
         }
     ],
     "wof:id":370349745,
-    "wof:lastmodified":1449030367,
+    "wof:lastmodified":1454127692,
     "wof:name":"Game Stop",
     "wof:parent_id":85892903,
     "wof:placetype":"venue",
@@ -63,6 +68,11 @@
         "video"
     ]
 },
-  "bbox": [-72.862602,40.801998,-72.862602,40.801998],
+  "bbox": [
+    -72.862602,
+    40.801998,
+    -72.862602,
+    40.801998
+],
   "geometry": {"coordinates":[-72.862602,40.801998],"type":"Point"}
 }

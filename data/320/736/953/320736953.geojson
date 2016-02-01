@@ -2,13 +2,14 @@
   "id": 320736953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.982638,41.17868,-73.982638,41.17868",
     "geom:latitude":41.17868,
     "geom:longitude":-73.982638,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8 Turnberry Ct",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529785,
+        102191575,
+        404523091,
         85633793,
         85979971,
-        102082385
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"648fc1f7414e6f65544b4d14471ec61d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523091,
             "locality_id":85979971,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529785,
             "region_id":85688543,
             "venue_id":320736953
         }
     ],
     "wof:id":320736953,
-    "wof:lastmodified":1449014926,
+    "wof:lastmodified":1454125359,
     "wof:name":"Le Croy Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529785,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.982638,41.17868,-73.982638,41.17868],
-  "geometry": {"coordinates":[-73.982638,41.17868],"type":"Point"}
+  "bbox": [
+    -73.982638,
+    41.17868,
+    -73.982638,
+    41.17868
+],
+  "geometry": {"coordinates":[-73.98263799999999,41.17868],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303311415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.940054,42.81394,-73.940054,42.81394",
     "geom:latitude":42.81394,
     "geom:longitude":-73.940054,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 Jay St",
     "sg:city":"Schenectady",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85835631,
+        102191575,
+        404522521,
         85633793,
         85977841,
         102081765,
-        85835631
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"e59bda0f121efab5f536beaf0c7dc2b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081765,
+            "localadmin_id":404522521,
             "locality_id":85977841,
             "neighbourhood_id":85835631,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303311415,
-    "wof:lastmodified":1448998685,
+    "wof:lastmodified":1454123185,
     "wof:name":"Schenectady Planning Comm",
     "wof:parent_id":85835631,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "village"
     ]
 },
-  "bbox": [-73.940054,42.81394,-73.940054,42.81394],
+  "bbox": [
+    -73.940054,
+    42.81394,
+    -73.940054,
+    42.81394
+],
   "geometry": {"coordinates":[-73.940054,42.81394],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370962307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.635499,40.849749,-73.635499,40.849749",
     "geom:latitude":40.849749,
     "geom:longitude":-73.635499,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"185 Glen Cove Ave",
     "sg:city":"Sea Cliff",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
         85977597,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"add9670fb5d3a80979764bf05e5d6700",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85977597,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":370962307
         }
     ],
     "wof:id":370962307,
-    "wof:lastmodified":1449031065,
+    "wof:lastmodified":1454127897,
     "wof:name":"Ballroom Legacy",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "dancing"
     ]
 },
-  "bbox": [-73.635499,40.849749,-73.635499,40.849749],
+  "bbox": [
+    -73.635499,
+    40.849749,
+    -73.635499,
+    40.849749
+],
   "geometry": {"coordinates":[-73.635499,40.849749],"type":"Point"}
 }

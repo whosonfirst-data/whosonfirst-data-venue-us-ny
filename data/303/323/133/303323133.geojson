@@ -2,13 +2,14 @@
   "id": 303323133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.696007,40.999145,-73.696007,40.999145",
     "geom:latitude":40.999145,
     "geom:longitude":-73.696007,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"99 Biltmore Ave",
     "sg:city":"Rye",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846517,
+        102191575,
+        404523389,
         85633793,
         85978769,
         102082373,
-        85846517
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"ce39dacc3eeeb6337c4e1fcd7c6acec4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523389,
             "locality_id":85978769,
             "neighbourhood_id":85846517,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303323133,
-    "wof:lastmodified":1448998330,
+    "wof:lastmodified":1454123059,
     "wof:name":"CLI Fleet Inc",
     "wof:parent_id":85846517,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "finance"
     ]
 },
-  "bbox": [-73.696007,40.999145,-73.696007,40.999145],
-  "geometry": {"coordinates":[-73.696007,40.999145],"type":"Point"}
+  "bbox": [
+    -73.696007,
+    40.999145,
+    -73.696007,
+    40.999145
+],
+  "geometry": {"coordinates":[-73.69600699999999,40.999145],"type":"Point"}
 }

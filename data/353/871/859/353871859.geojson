@@ -2,13 +2,14 @@
   "id": 353871859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.737999,40.630798,-73.737999,40.630798",
     "geom:latitude":40.630798,
     "geom:longitude":-73.737999,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"530 Rockaway Tpke",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -24,11 +25,15 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85845957
+        102082361,
+        85688543,
+        85865647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +43,42 @@
     "wof:geomhash":"a5fd88840842a6b69482707e5b4b9dea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85845957,
+            "neighbourhood_id":85823673,
+            "region_id":85688543,
+            "venue_id":353871859
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":85865647,
             "region_id":85688543,
             "venue_id":353871859
         }
     ],
     "wof:id":353871859,
-    "wof:lastmodified":1449019092,
+    "wof:lastmodified":1454126194,
     "wof:name":"Five Towns Car Wash",
-    "wof:parent_id":85845957,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.737999,40.630798,-73.737999,40.630798],
+  "bbox": [
+    -73.737999,
+    40.630798,
+    -73.737999,
+    40.630798
+],
   "geometry": {"coordinates":[-73.737999,40.630798],"type":"Point"}
 }

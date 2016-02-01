@@ -2,13 +2,14 @@
   "id": 370204133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.268118,40.810106,-73.268118,40.810106",
     "geom:latitude":40.810106,
     "geom:longitude":-73.268118,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"50 Commerce Dr",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -41,11 +42,13 @@
     "sg:website":"http://www.edgarfabrics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892809,
+        102191575,
+        404522517,
         85633793,
         85979867,
         102082395,
-        85892809
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,9 +58,10 @@
     "wof:geomhash":"ff02405a981511dbb79449e7ededd9e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979867,
             "neighbourhood_id":85892809,
             "region_id":85688543,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":370204133,
-    "wof:lastmodified":1449032580,
+    "wof:lastmodified":1454128345,
     "wof:name":"Edgar Fabrics, Inc.",
     "wof:parent_id":85892809,
     "wof:placetype":"venue",
@@ -78,6 +82,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.268118,40.810106,-73.268118,40.810106],
+  "bbox": [
+    -73.268118,
+    40.810106,
+    -73.268118,
+    40.810106
+],
   "geometry": {"coordinates":[-73.268118,40.810106],"type":"Point"}
 }

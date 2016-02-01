@@ -2,13 +2,14 @@
   "id": 371100941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.555764,40.681248,-73.555764,40.681248",
     "geom:latitude":40.681248,
     "geom:longitude":-73.555764,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2106 Decker Ave",
     "sg:city":"Merrick",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529153,
+        102191575,
+        404521473,
         85633793,
         85979047,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"efbe8b9f061fe9a6a8ae9266a9f6036c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979047,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529153,
             "region_id":85688543,
             "venue_id":371100941
         }
     ],
     "wof:id":371100941,
-    "wof:lastmodified":1449049823,
+    "wof:lastmodified":1454129219,
     "wof:name":"As Handyman Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529153,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-73.555764,40.681248,-73.555764,40.681248],
+  "bbox": [
+    -73.555764,
+    40.681248,
+    -73.555764,
+    40.681248
+],
   "geometry": {"coordinates":[-73.555764,40.681248],"type":"Point"}
 }

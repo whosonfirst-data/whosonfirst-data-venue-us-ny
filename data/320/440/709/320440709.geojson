@@ -2,13 +2,14 @@
   "id": 320440709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.009256,41.442561,-74.009256,41.442561",
     "geom:latitude":41.442561,
     "geom:longitude":-74.009256,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"19 Lafayette St",
     "sg:city":"Cornwall On Hudson",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812353,
+        102191575,
+        404522801,
         85633793,
+        85978241,
         102083061,
-        85812353
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"80d1b87c1a03ca006172d913859dd6e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":-1,
+            "localadmin_id":404522801,
+            "locality_id":85978241,
             "neighbourhood_id":85812353,
             "region_id":85688543,
             "venue_id":320440709
         }
     ],
     "wof:id":320440709,
-    "wof:lastmodified":1449012595,
+    "wof:lastmodified":1454124979,
     "wof:name":"Scrapbook Nook",
     "wof:parent_id":85812353,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.009256,41.442561,-74.009256,41.442561],
-  "geometry": {"coordinates":[-74.009256,41.442561],"type":"Point"}
+  "bbox": [
+    -74.009256,
+    41.442561,
+    -74.009256,
+    41.442561
+],
+  "geometry": {"coordinates":[-74.00925599999999,41.442561],"type":"Point"}
 }

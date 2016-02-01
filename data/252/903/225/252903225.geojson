@@ -2,13 +2,14 @@
   "id": 252903225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.886738,40.917415,-73.886738,40.917415",
     "geom:latitude":40.917415,
     "geom:longitude":-73.886738,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"38 Birch Rd",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840545,
+        102191575,
+        404523397,
         85633793,
         85978759,
         102082373,
-        85840545
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"d0e2d56c4810ee4842d576a4cb60ffca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
             "neighbourhood_id":85840545,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":252903225,
-    "wof:lastmodified":1449005471,
+    "wof:lastmodified":1454123991,
     "wof:name":"Global Access Technologies",
     "wof:parent_id":85840545,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.886738,40.917415,-73.886738,40.917415],
-  "geometry": {"coordinates":[-73.886738,40.917415],"type":"Point"}
+  "bbox": [
+    -73.886738,
+    40.917415,
+    -73.886738,
+    40.917415
+],
+  "geometry": {"coordinates":[-73.88673799999999,40.917415],"type":"Point"}
 }

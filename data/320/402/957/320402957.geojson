@@ -2,13 +2,14 @@
   "id": 320402957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.923678,40.830444,-73.923678,40.830444",
     "geom:latitude":40.830444,
     "geom:longitude":-73.923678,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 E 164th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865669,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865669
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"e682760059f1d5b043c554a5fea6f355",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865669,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":320402957,
-    "wof:lastmodified":1449012467,
+    "wof:lastmodified":1454124958,
     "wof:name":"Mullaly Skate Park",
     "wof:parent_id":85865669,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-73.923678,40.830444,-73.923678,40.830444],
+  "bbox": [
+    -73.923678,
+    40.830444,
+    -73.923678,
+    40.830444
+],
   "geometry": {"coordinates":[-73.923678,40.830444],"type":"Point"}
 }

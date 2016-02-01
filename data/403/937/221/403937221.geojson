@@ -2,13 +2,14 @@
   "id": 403937221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.823171,42.976396,-78.823171,42.976396",
     "geom:latitude":42.976396,
     "geom:longitude":-78.823171,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"934 Niagara Falls Blvd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823285,
+        102191575,
+        404522321,
         85633793,
+        85979407,
         102082387,
-        85823285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"6771da5990a88cf782e1d9d7affaed6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979407,
             "neighbourhood_id":85823285,
             "region_id":85688543,
             "venue_id":403937221
         }
     ],
     "wof:id":403937221,
-    "wof:lastmodified":1449054894,
+    "wof:lastmodified":1454129360,
     "wof:name":"Speedy Auto Service",
     "wof:parent_id":85823285,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-78.823171,42.976396,-78.823171,42.976396],
+  "bbox": [
+    -78.823171,
+    42.976396,
+    -78.823171,
+    42.976396
+],
   "geometry": {"coordinates":[-78.823171,42.976396],"type":"Point"}
 }

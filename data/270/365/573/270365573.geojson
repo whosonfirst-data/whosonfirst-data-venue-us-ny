@@ -2,13 +2,14 @@
   "id": 270365573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.920286,40.753255,-73.920286,40.753255",
     "geom:latitude":40.753255,
     "geom:longitude":-73.920286,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"42 Northern Blvd",
     "sg:city":"Long Island City",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865631,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865631
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"7c7945a3f2dc045a9a56df2d0e46091c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865631,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":270365573,
-    "wof:lastmodified":1449009026,
+    "wof:lastmodified":1454124422,
     "wof:name":"Harley-Davidson",
     "wof:parent_id":85865631,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "accessory"
     ]
 },
-  "bbox": [-73.920286,40.753255,-73.920286,40.753255],
+  "bbox": [
+    -73.920286,
+    40.753255,
+    -73.920286,
+    40.753255
+],
   "geometry": {"coordinates":[-73.920286,40.753255],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353709697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.817902,40.709202,-73.817902,40.709202",
     "geom:latitude":40.709202,
     "geom:longitude":-73.817902,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13852 84th Dr",
     "sg:city":"Jamaica",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865653,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865653
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"d424d6d239f80a5c826e76e485f55e32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865653,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":353709697,
-    "wof:lastmodified":1449018762,
+    "wof:lastmodified":1454126098,
     "wof:name":"Briarwood French Cleaners",
     "wof:parent_id":85865653,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "commercial"
     ]
 },
-  "bbox": [-73.817902,40.709202,-73.817902,40.709202],
+  "bbox": [
+    -73.817902,
+    40.709202,
+    -73.817902,
+    40.709202
+],
   "geometry": {"coordinates":[-73.817902,40.709202],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337432309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.811459,40.719255,-73.811459,40.719255",
     "geom:latitude":40.719255,
     "geom:longitude":-73.811459,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6759 152nd St",
     "sg:city":"Flushing",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869381,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869381
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"28af51e7a58ee0150d9b52c1b7de9b2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869381,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":337432309,
-    "wof:lastmodified":1449026913,
+    "wof:lastmodified":1454126855,
     "wof:name":"Wisdom Tree",
     "wof:parent_id":85869381,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "vocational"
     ]
 },
-  "bbox": [-73.811459,40.719255,-73.811459,40.719255],
+  "bbox": [
+    -73.811459,
+    40.719255,
+    -73.811459,
+    40.719255
+],
   "geometry": {"coordinates":[-73.811459,40.719255],"type":"Point"}
 }

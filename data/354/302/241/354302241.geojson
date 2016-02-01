@@ -2,13 +2,14 @@
   "id": 354302241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.921616,40.840542,-73.921616,40.840542",
     "geom:latitude":40.840542,
     "geom:longitude":-73.921616,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1362 Edward L Grant Hwy",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865561,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865561
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"1a59ad2192a9a64ccb74dfdb1d5e7897",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865561,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":354302241,
-    "wof:lastmodified":1449066485,
+    "wof:lastmodified":1454130940,
     "wof:name":"Carbro Auto Parts",
     "wof:parent_id":85865561,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.921616,40.840542,-73.921616,40.840542],
+  "bbox": [
+    -73.921616,
+    40.840542,
+    -73.921616,
+    40.840542
+],
   "geometry": {"coordinates":[-73.921616,40.840542],"type":"Point"}
 }

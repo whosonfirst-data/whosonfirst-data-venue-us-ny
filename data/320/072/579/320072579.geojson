@@ -2,13 +2,14 @@
   "id": 320072579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.889697,40.825718,-73.889697,40.825718",
     "geom:latitude":40.825718,
     "geom:longitude":-73.889697,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1104 Westchester Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869443,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869443
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f24ead2125463ff2a7a89c1c7fe175d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869443,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":320072579,
-    "wof:lastmodified":1449013227,
+    "wof:lastmodified":1454125083,
     "wof:name":"New Light Beauty Salon",
     "wof:parent_id":85869443,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-73.889697,40.825718,-73.889697,40.825718],
+  "bbox": [
+    -73.889697,
+    40.825718,
+    -73.889697,
+    40.825718
+],
   "geometry": {"coordinates":[-73.889697,40.825718],"type":"Point"}
 }

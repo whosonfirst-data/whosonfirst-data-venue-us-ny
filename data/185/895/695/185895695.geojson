@@ -2,13 +2,14 @@
   "id": 185895695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.914484,40.656309,-73.914484,40.656309",
     "geom:latitude":40.656309,
     "geom:longitude":-73.914484,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9718 CHURCH AVE",
     "sg:city":"BROOKLYN",
     "sg:classifiers":[
@@ -48,11 +49,13 @@
     "sg:website":"http://www.rentacenter.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85808127,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85808127
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,9 +65,10 @@
     "wof:geomhash":"b0665d765ba7f78bce320d34a4b6cefe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85808127,
             "region_id":85688543,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":185895695,
-    "wof:lastmodified":1449007288,
+    "wof:lastmodified":1454124231,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":85808127,
     "wof:placetype":"venue",
@@ -87,6 +91,11 @@
         "rental"
     ]
 },
-  "bbox": [-73.914484,40.656309,-73.914484,40.656309],
+  "bbox": [
+    -73.914484,
+    40.656309,
+    -73.914484,
+    40.656309
+],
   "geometry": {"coordinates":[-73.914484,40.656309],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370350683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.397011,40.893598,-72.397011,40.893598",
     "geom:latitude":40.893598,
     "geom:longitude":-72.397011,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"235A N Sea Rd",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://www.clamman.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"642bc3ef1874eead934269f3f5b1253e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":370350683
         }
     ],
     "wof:id":370350683,
-    "wof:lastmodified":1449030809,
+    "wof:lastmodified":1454127820,
     "wof:name":"Clamman Seafood Market Inc",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "market"
     ]
 },
-  "bbox": [-72.397011,40.893598,-72.397011,40.893598],
-  "geometry": {"coordinates":[-72.397011,40.893598],"type":"Point"}
+  "bbox": [
+    -72.397011,
+    40.893598,
+    -72.397011,
+    40.893598
+],
+  "geometry": {"coordinates":[-72.39701100000001,40.893598],"type":"Point"}
 }

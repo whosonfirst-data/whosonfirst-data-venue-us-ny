@@ -2,13 +2,14 @@
   "id": 303070737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.720171,40.963955,-73.720171,40.963955",
     "geom:latitude":40.963955,
     "geom:longitude":-73.720171,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"126 Halstead Ave",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892899,
+        102191575,
+        404523361,
         85633793,
-        85978729,
+        85978735,
         102082373,
-        85892899
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"4284958c64eb5cb50d27c1c4a81e1987",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978729,
+            "localadmin_id":404523361,
+            "locality_id":85978735,
             "neighbourhood_id":85892899,
             "region_id":85688543,
             "venue_id":303070737
         }
     ],
     "wof:id":303070737,
-    "wof:lastmodified":1448999312,
+    "wof:lastmodified":1454123381,
     "wof:name":"Guss Franklin Park Restaurant",
     "wof:parent_id":85892899,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "bar"
     ]
 },
-  "bbox": [-73.720171,40.963955,-73.720171,40.963955],
-  "geometry": {"coordinates":[-73.720171,40.963955],"type":"Point"}
+  "bbox": [
+    -73.720171,
+    40.963955,
+    -73.720171,
+    40.963955
+],
+  "geometry": {"coordinates":[-73.72017099999999,40.963955],"type":"Point"}
 }

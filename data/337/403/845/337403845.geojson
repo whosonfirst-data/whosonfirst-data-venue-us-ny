@@ -2,13 +2,14 @@
   "id": 337403845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.845344,40.790987,-73.845344,40.790987",
     "geom:latitude":40.790987,
     "geom:longitude":-73.845344,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"623 College Point Boulevard",
     "sg:city":"College Point",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85811813,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85811813
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"149ca93ffb17b79c71e41a200a83d47a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85811813,
             "region_id":85688543,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":337403845,
-    "wof:lastmodified":1449027631,
+    "wof:lastmodified":1454127140,
     "wof:name":"College Point Deli",
     "wof:parent_id":85811813,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-73.845344,40.790987,-73.845344,40.790987],
+  "bbox": [
+    -73.845344,
+    40.790987,
+    -73.845344,
+    40.790987
+],
   "geometry": {"coordinates":[-73.845344,40.790987],"type":"Point"}
 }

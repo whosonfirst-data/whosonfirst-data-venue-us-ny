@@ -2,13 +2,14 @@
   "id": 303096559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.956423,40.648679,-73.956423,40.648679",
     "geom:latitude":40.648679,
     "geom:longitude":-73.956423,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"35 Snyder Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869833,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85869833
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"8d02856d773d7cfefdf8221c497f55d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869833,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303096559,
-    "wof:lastmodified":1448998908,
+    "wof:lastmodified":1454123265,
     "wof:name":"School District 17",
     "wof:parent_id":85869833,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-73.956423,40.648679,-73.956423,40.648679],
+  "bbox": [
+    -73.956423,
+    40.648679,
+    -73.956423,
+    40.648679
+],
   "geometry": {"coordinates":[-73.956423,40.648679],"type":"Point"}
 }

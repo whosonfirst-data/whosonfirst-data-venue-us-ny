@@ -2,13 +2,14 @@
   "id": 185834791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.006646,40.638279,-74.006646,40.638279",
     "geom:latitude":40.638279,
     "geom:longitude":-74.006646,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5505 8th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -49,10 +50,13 @@
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000308049899",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,19 +66,20 @@
     "wof:geomhash":"2ee820fdbf4dbc8d1cda4c891f3f7164",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":185834791
         }
     ],
     "wof:id":185834791,
-    "wof:lastmodified":1449006765,
+    "wof:lastmodified":1454124164,
     "wof:name":"T-Mobile",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -88,6 +93,11 @@
         "cellular"
     ]
 },
-  "bbox": [-74.006646,40.638279,-74.006646,40.638279],
+  "bbox": [
+    -74.006646,
+    40.638279,
+    -74.006646,
+    40.638279
+],
   "geometry": {"coordinates":[-74.006646,40.638279],"type":"Point"}
 }

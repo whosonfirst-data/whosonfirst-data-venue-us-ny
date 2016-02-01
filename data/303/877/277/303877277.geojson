@@ -2,13 +2,14 @@
   "id": 303877277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.995275,40.67024,-73.995275,40.67024",
     "geom:latitude":40.67024,
     "geom:longitude":-73.995275,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"151 2nd Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865587,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865587
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"4f9f2ee5c9303f6cf582a1ae0c26c2e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865587,
             "region_id":85688543,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":303877277,
-    "wof:lastmodified":1448999835,
+    "wof:lastmodified":1454123524,
     "wof:name":"Casa Di Murano Inc",
     "wof:parent_id":85865587,
     "wof:placetype":"venue",
@@ -80,6 +84,11 @@
         "decorator"
     ]
 },
-  "bbox": [-73.995275,40.67024,-73.995275,40.67024],
-  "geometry": {"coordinates":[-73.995275,40.67024],"type":"Point"}
+  "bbox": [
+    -73.995275,
+    40.67024,
+    -73.995275,
+    40.67024
+],
+  "geometry": {"coordinates":[-73.99527500000001,40.67024],"type":"Point"}
 }

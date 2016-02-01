@@ -2,13 +2,14 @@
   "id": 370987807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.691676,43.167416,-78.691676,43.167416",
     "geom:latitude":43.167416,
     "geom:longitude":-78.691676,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"111 Pine St",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -39,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529193,
+        102191575,
+        404522737,
         85633793,
-        85978249,
-        102081767
+        85979541,
+        102081767,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,19 +56,20 @@
     "wof:geomhash":"7c70b94ef956909110283057d5ad6ba7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
-            "locality_id":85978249,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522737,
+            "locality_id":85979541,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":370987807
         }
     ],
     "wof:id":370987807,
-    "wof:lastmodified":1449030962,
+    "wof:lastmodified":1454127865,
     "wof:name":"Murphy, Mf Agency",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -74,6 +79,11 @@
         "resume"
     ]
 },
-  "bbox": [-78.691676,43.167416,-78.691676,43.167416],
+  "bbox": [
+    -78.691676,
+    43.167416,
+    -78.691676,
+    43.167416
+],
   "geometry": {"coordinates":[-78.691676,43.167416],"type":"Point"}
 }

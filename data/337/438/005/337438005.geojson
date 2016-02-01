@@ -2,13 +2,14 @@
   "id": 337438005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.855818,40.743433,-73.855818,40.743433",
     "geom:latitude":40.743433,
     "geom:longitude":-73.855818,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10724 Corona Ave",
     "sg:city":"Corona",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.7-eleven.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812357,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85812357
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"c5bfe5f03e8e1dad28ecb7932e20d72e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85812357,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":337438005,
-    "wof:lastmodified":1449027218,
+    "wof:lastmodified":1454126978,
     "wof:name":"7-Eleven",
     "wof:parent_id":85812357,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.855818,40.743433,-73.855818,40.743433],
+  "bbox": [
+    -73.855818,
+    40.743433,
+    -73.855818,
+    40.743433
+],
   "geometry": {"coordinates":[-73.855818,40.743433],"type":"Point"}
 }

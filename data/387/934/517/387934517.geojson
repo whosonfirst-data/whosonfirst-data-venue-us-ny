@@ -2,13 +2,14 @@
   "id": 387934517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.653466,40.921637,-72.653466,40.921637",
     "geom:latitude":40.921637,
     "geom:longitude":-72.653466,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Howell Ave",
     "sg:city":"Riverhead",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841881,
+        102191575,
+        404522671,
         85633793,
-        85979841,
+        85979909,
         102082395,
-        85841881
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"7f2ab5a140112cba46c70da69fcae5e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979841,
+            "localadmin_id":404522671,
+            "locality_id":85979909,
             "neighbourhood_id":85841881,
             "region_id":85688543,
             "venue_id":387934517
         }
     ],
     "wof:id":387934517,
-    "wof:lastmodified":1449056303,
+    "wof:lastmodified":1454129564,
     "wof:name":"Riverhead Town Attorney",
     "wof:parent_id":85841881,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "counsel"
     ]
 },
-  "bbox": [-72.653466,40.921637,-72.653466,40.921637],
-  "geometry": {"coordinates":[-72.653466,40.921637],"type":"Point"}
+  "bbox": [
+    -72.653466,
+    40.921637,
+    -72.653466,
+    40.921637
+],
+  "geometry": {"coordinates":[-72.65346599999999,40.921637],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270440929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.822084,42.904109,-78.822084,42.904109",
     "geom:latitude":42.904109,
     "geom:longitude":-78.822084,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"347 Goodyear Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528547,
+        102191575,
+        404522329,
         85633793,
         85978023,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"2a4ffe9e09c56fbb922bc22b9ffeced1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528547,
             "region_id":85688543,
             "venue_id":270440929
         }
     ],
     "wof:id":270440929,
-    "wof:lastmodified":1449009513,
+    "wof:lastmodified":1454124495,
     "wof:name":"Player's Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528547,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "club"
     ]
 },
-  "bbox": [-78.822084,42.904109,-78.822084,42.904109],
+  "bbox": [
+    -78.822084,
+    42.904109,
+    -78.822084,
+    42.904109
+],
   "geometry": {"coordinates":[-78.822084,42.904109],"type":"Point"}
 }

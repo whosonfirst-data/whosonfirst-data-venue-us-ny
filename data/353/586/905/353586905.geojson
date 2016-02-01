@@ -2,13 +2,14 @@
   "id": 353586905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.828278,40.70896,-73.828278,40.70896",
     "geom:latitude":40.70896,
     "geom:longitude":-73.828278,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8352 Talbot St",
     "sg:city":"Kew Gardens",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529695,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"0ac4e41a862b2ca1f6902941c46f443a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529695,
             "region_id":85688543,
             "venue_id":353586905
         }
     ],
     "wof:id":353586905,
-    "wof:lastmodified":1449020510,
+    "wof:lastmodified":1454126602,
     "wof:name":"Talbot Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529695,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-73.828278,40.70896,-73.828278,40.70896],
+  "bbox": [
+    -73.828278,
+    40.70896,
+    -73.828278,
+    40.70896
+],
   "geometry": {"coordinates":[-73.828278,40.70896],"type":"Point"}
 }

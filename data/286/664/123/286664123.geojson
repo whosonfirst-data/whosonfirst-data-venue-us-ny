@@ -2,13 +2,14 @@
   "id": 286664123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.975179,40.75015,-73.975179,40.75015",
     "geom:latitude":40.75015,
     "geom:longitude":-73.975179,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"140 E 41st St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836095,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85836095
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"183301d796fb42bfdbc78622506e9c78",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85836095,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":286664123,
-    "wof:lastmodified":1449016267,
+    "wof:lastmodified":1454125589,
     "wof:name":"Kbc Financial Products",
     "wof:parent_id":85836095,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-73.975179,40.75015,-73.975179,40.75015],
+  "bbox": [
+    -73.975179,
+    40.75015,
+    -73.975179,
+    40.75015
+],
   "geometry": {"coordinates":[-73.975179,40.75015],"type":"Point"}
 }

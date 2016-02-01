@@ -2,13 +2,14 @@
   "id": 337314443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.986724,40.726799,-73.986724,40.726799",
     "geom:latitude":40.726799,
     "geom:longitude":-73.986724,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"333 E 6 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816887,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85816887
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"b6e22b7d8d96bb9c4e973aacf2c4fb8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85816887,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":337314443,
-    "wof:lastmodified":1449027718,
+    "wof:lastmodified":1454127175,
     "wof:name":"Paul B Dalnoky Esq",
     "wof:parent_id":85816887,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.986724,40.726799,-73.986724,40.726799],
+  "bbox": [
+    -73.986724,
+    40.726799,
+    -73.986724,
+    40.726799
+],
   "geometry": {"coordinates":[-73.986724,40.726799],"type":"Point"}
 }

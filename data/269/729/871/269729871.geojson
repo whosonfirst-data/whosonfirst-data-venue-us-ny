@@ -2,13 +2,14 @@
   "id": 269729871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.909949,40.852003,-73.909949,40.852003",
     "geom:latitude":40.852003,
     "geom:longitude":-73.909949,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 W Tremont Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85835319,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85835319
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"da2122ae481bd816dbc68df0cc48c85f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85835319,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":269729871,
-    "wof:lastmodified":1449037351,
+    "wof:lastmodified":1454128644,
     "wof:name":"Lucer Food Corp",
     "wof:parent_id":85835319,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "product"
     ]
 },
-  "bbox": [-73.909949,40.852003,-73.909949,40.852003],
+  "bbox": [
+    -73.909949,
+    40.852003,
+    -73.909949,
+    40.852003
+],
   "geometry": {"coordinates":[-73.909949,40.852003],"type":"Point"}
 }

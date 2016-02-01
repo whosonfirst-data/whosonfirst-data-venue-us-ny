@@ -2,13 +2,14 @@
   "id": 269635123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.035781,43.172422,-79.035781,43.172422",
     "geom:latitude":43.172422,
     "geom:longitude":-79.035781,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"620 Center St",
     "sg:city":"Lewiston",
     "sg:classifiers":[
@@ -27,10 +28,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
-        85633793,
-        85978255,
-        102081767
+        85633041,
+        85845057,
+        85682057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +40,17 @@
     "wof:geomhash":"ca26fd0aa61ca0e63b1cf46aef34a7d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081767,
-            "locality_id":85978255,
-            "neighbourhood_id":-1,
-            "region_id":85688543,
+            "country_id":85633041,
+            "locality_id":-1,
+            "neighbourhood_id":85845057,
+            "region_id":85682057,
             "venue_id":269635123
         }
     ],
     "wof:id":269635123,
-    "wof:lastmodified":1449037179,
+    "wof:lastmodified":1454128615,
     "wof:name":"St Peter's Roman Catholic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85845057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +58,11 @@
         "church"
     ]
 },
-  "bbox": [-79.035781,43.172422,-79.035781,43.172422],
+  "bbox": [
+    -79.035781,
+    43.172422,
+    -79.035781,
+    43.172422
+],
   "geometry": {"coordinates":[-79.035781,43.172422],"type":"Point"}
 }

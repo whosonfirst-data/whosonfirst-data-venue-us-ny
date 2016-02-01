@@ -2,13 +2,14 @@
   "id": 370859887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.933512,40.849113,-73.933512,40.849113",
     "geom:latitude":40.849113,
     "geom:longitude":-73.933512,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"548 W 181st St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85854625,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85854625
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"b69e7ce67d506e51272a423f07f79dca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85854625,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370859887,
-    "wof:lastmodified":1449031512,
+    "wof:lastmodified":1454128032,
     "wof:name":"Exotic Fashion Boutique",
     "wof:parent_id":85854625,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "evening"
     ]
 },
-  "bbox": [-73.933512,40.849113,-73.933512,40.849113],
-  "geometry": {"coordinates":[-73.933512,40.849113],"type":"Point"}
+  "bbox": [
+    -73.933512,
+    40.849113,
+    -73.933512,
+    40.849113
+],
+  "geometry": {"coordinates":[-73.93351199999999,40.849113],"type":"Point"}
 }

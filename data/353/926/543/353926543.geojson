@@ -2,13 +2,14 @@
   "id": 353926543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.646301,40.654099,-73.646301,40.654099",
     "geom:latitude":40.654099,
     "geom:longitude":-73.646301,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 N Park Ave",
     "sg:city":"Rockville Centre",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892745,
+        102191575,
+        404521473,
         85633793,
         85979131,
         102082371,
-        85892745
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"e8f0e3214937ed8e53491c8547e2f23f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979131,
             "neighbourhood_id":85892745,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":353926543,
-    "wof:lastmodified":1449019142,
+    "wof:lastmodified":1454126207,
     "wof:name":"Li Ranger",
     "wof:parent_id":85892745,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.646301,40.654099,-73.646301,40.654099],
-  "geometry": {"coordinates":[-73.646301,40.654099],"type":"Point"}
+  "bbox": [
+    -73.646301,
+    40.654099,
+    -73.646301,
+    40.654099
+],
+  "geometry": {"coordinates":[-73.64630099999999,40.654099],"type":"Point"}
 }

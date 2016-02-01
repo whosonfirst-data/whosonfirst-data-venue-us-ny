@@ -2,13 +2,14 @@
   "id": 403803415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.70258,40.799079,-73.70258,40.799079",
     "geom:latitude":40.799079,
     "geom:longitude":-73.70258,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Bayview Ter",
     "sg:city":"Manhasset",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865341,
+        102191575,
+        404522729,
         85633793,
         85977683,
         102082371,
-        85865341
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"3e8e06be9739d896805fe8f3a0a7ba3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85977683,
             "neighbourhood_id":85865341,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403803415,
-    "wof:lastmodified":1449055981,
+    "wof:lastmodified":1454129514,
     "wof:name":"Miss Emilies Daycare",
     "wof:parent_id":85865341,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-73.70258,40.799079,-73.70258,40.799079],
+  "bbox": [
+    -73.70258,
+    40.799079,
+    -73.70258,
+    40.799079
+],
   "geometry": {"coordinates":[-73.70258,40.799079],"type":"Point"}
 }

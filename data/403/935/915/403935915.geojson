@@ -2,13 +2,14 @@
   "id": 403935915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.002726,40.747903,-74.002726,40.747903",
     "geom:latitude":40.747903,
     "geom:longitude":-74.002726,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"443 W 24th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810589,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810589
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"26f99872222c36326603c0ff2f29637b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810589,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":403935915,
-    "wof:lastmodified":1449055735,
+    "wof:lastmodified":1454129480,
     "wof:name":"Hass International Inc",
     "wof:parent_id":85810589,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "executive"
     ]
 },
-  "bbox": [-74.002726,40.747903,-74.002726,40.747903],
+  "bbox": [
+    -74.002726,
+    40.747903,
+    -74.002726,
+    40.747903
+],
   "geometry": {"coordinates":[-74.002726,40.747903],"type":"Point"}
 }

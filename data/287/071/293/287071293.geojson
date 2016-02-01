@@ -2,13 +2,14 @@
   "id": 287071293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.961057,40.779449,-73.961057,40.779449",
     "geom:latitude":40.779449,
     "geom:longitude":-73.961057,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 E 83rd St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865691,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865691
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"4a0cc96af198abace7bf51aab660e3e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865691,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":287071293,
-    "wof:lastmodified":1449001232,
+    "wof:lastmodified":1454123886,
     "wof:name":"Samuel Abrams MD",
     "wof:parent_id":85865691,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.961057,40.779449,-73.961057,40.779449],
+  "bbox": [
+    -73.961057,
+    40.779449,
+    -73.961057,
+    40.779449
+],
   "geometry": {"coordinates":[-73.961057,40.779449],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370909117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.780402,43.078433,-73.780402,43.078433",
     "geom:latitude":43.078433,
     "geom:longitude":-73.780402,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"142 Regent St",
     "sg:city":"Saratoga Springs",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85859279,
+        102191575,
+        404522373,
         85633793,
         85977919,
         102082413,
-        85859279
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"ee85dc874b3b1491f1e4eca3de645565",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082413,
+            "localadmin_id":404522373,
             "locality_id":85977919,
             "neighbourhood_id":85859279,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370909117,
-    "wof:lastmodified":1449031645,
+    "wof:lastmodified":1454128067,
     "wof:name":"Catholic Charites of Saratoga",
     "wof:parent_id":85859279,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "management"
     ]
 },
-  "bbox": [-73.780402,43.078433,-73.780402,43.078433],
+  "bbox": [
+    -73.780402,
+    43.078433,
+    -73.780402,
+    43.078433
+],
   "geometry": {"coordinates":[-73.780402,43.078433],"type":"Point"}
 }

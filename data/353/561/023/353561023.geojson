@@ -2,13 +2,14 @@
   "id": 353561023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.145941,43.104215,-76.145941,43.104215",
     "geom:latitude":43.104215,
     "geom:longitude":-76.145941,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2703 Brewerton Rd",
     "sg:city":"Mattydale",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.mattydaleah.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825763,
+        102191575,
+        404522845,
         85633793,
         85979209,
         102082351,
-        85825763
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"32606d622bf6a2604c9598425b9cca3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522845,
             "locality_id":85979209,
             "neighbourhood_id":85825763,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":353561023,
-    "wof:lastmodified":1449020059,
+    "wof:lastmodified":1454126471,
     "wof:name":"Mattydale Animal Hospital",
     "wof:parent_id":85825763,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "animal"
     ]
 },
-  "bbox": [-76.145941,43.104215,-76.145941,43.104215],
-  "geometry": {"coordinates":[-76.145941,43.104215],"type":"Point"}
+  "bbox": [
+    -76.145941,
+    43.104215,
+    -76.145941,
+    43.104215
+],
+  "geometry": {"coordinates":[-76.14594099999999,43.104215],"type":"Point"}
 }

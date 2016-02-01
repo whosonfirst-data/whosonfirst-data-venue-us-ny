@@ -2,13 +2,14 @@
   "id": 403835275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.082507,40.813888,-73.082507,40.813888",
     "geom:latitude":40.813888,
     "geom:longitude":-73.082507,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"480 Patchogue-Holbrook Rd",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"605b122d8b5085622b073341fc91c09c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":403835275
         }
     ],
     "wof:id":403835275,
-    "wof:lastmodified":1449054819,
+    "wof:lastmodified":1454129351,
     "wof:name":"Holbrook Wine & Liquor",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.082507,40.813888,-73.082507,40.813888],
-  "geometry": {"coordinates":[-73.082507,40.813888],"type":"Point"}
+  "bbox": [
+    -73.082507,
+    40.813888,
+    -73.082507,
+    40.813888
+],
+  "geometry": {"coordinates":[-73.08250700000001,40.813888],"type":"Point"}
 }

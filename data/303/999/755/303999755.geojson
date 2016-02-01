@@ -2,13 +2,14 @@
   "id": 303999755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.628199,43.257984,-77.628199,43.257984",
     "geom:latitude":43.257984,
     "geom:longitude":-77.628199,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"500 Greenleaf Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "sg:website":"www.greenleafmeadows.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85839627,
+        102081815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"625beb56f854a1ff65384558adf40e9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "neighbourhood_id":85839627,
             "region_id":85688543,
             "venue_id":303999755
         }
     ],
     "wof:id":303999755,
-    "wof:lastmodified":1449000264,
+    "wof:lastmodified":1454123642,
     "wof:name":"Greenleaf Meadows",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839627,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -58,6 +60,11 @@
         "apartment"
     ]
 },
-  "bbox": [-77.628199,43.257984,-77.628199,43.257984],
+  "bbox": [
+    -77.628199,
+    43.257984,
+    -77.628199,
+    43.257984
+],
   "geometry": {"coordinates":[-77.628199,43.257984],"type":"Point"}
 }

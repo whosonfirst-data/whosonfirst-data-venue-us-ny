@@ -2,13 +2,14 @@
   "id": 354197207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.818934,43.036288,-74.818934,43.036288",
     "geom:latitude":43.036288,
     "geom:longitude":-74.818934,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"155 River Rd",
     "sg:city":"Little Falls",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528839,
+        102191575,
+        404521885,
         85633793,
+        85977757,
+        102081877,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"85ab5cadd16aab9154d6c60d5e26ead0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081877,
+            "localadmin_id":404521885,
+            "locality_id":85977757,
+            "neighbourhood_id":420528839,
             "region_id":85688543,
             "venue_id":354197207
         }
     ],
     "wof:id":354197207,
-    "wof:lastmodified":1449067448,
+    "wof:lastmodified":1454131237,
     "wof:name":"Hunting Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528839,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-74.818934,43.036288,-74.818934,43.036288],
+  "bbox": [
+    -74.818934,
+    43.036288,
+    -74.818934,
+    43.036288
+],
   "geometry": {"coordinates":[-74.818934,43.036288],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270187843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.768054,40.840161,-72.768054,40.840161",
     "geom:latitude":40.840161,
     "geom:longitude":-72.768054,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"143 Hampton Vista Dr",
     "sg:city":"Manorville",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530021,
+        102191575,
+        404521441,
         85633793,
         85979761,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"0ffdfc20b5d33905a8e01c95c915f4b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530021,
             "region_id":85688543,
             "venue_id":270187843
         }
     ],
     "wof:id":270187843,
-    "wof:lastmodified":1449009001,
+    "wof:lastmodified":1454124417,
     "wof:name":"Wayne Ranelle Interiors",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530021,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "decorator"
     ]
 },
-  "bbox": [-72.768054,40.840161,-72.768054,40.840161],
-  "geometry": {"coordinates":[-72.768054,40.840161],"type":"Point"}
+  "bbox": [
+    -72.768054,
+    40.840161,
+    -72.768054,
+    40.840161
+],
+  "geometry": {"coordinates":[-72.76805400000001,40.840161],"type":"Point"}
 }

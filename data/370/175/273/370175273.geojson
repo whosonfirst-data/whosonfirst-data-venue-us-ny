@@ -2,13 +2,14 @@
   "id": 370175273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.371786,40.835494,-73.371786,40.835494",
     "geom:latitude":40.835494,
     "geom:longitude":-73.371786,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"960 Jericho Tpke",
     "sg:city":"Huntington Sta",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892873,
+        102191575,
+        404522515,
         85633793,
         85979751,
         102082395,
-        85892873
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"1332b08ec6a24ec937d7d45d18e4b194",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85979751,
             "neighbourhood_id":85892873,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370175273,
-    "wof:lastmodified":1449031426,
+    "wof:lastmodified":1454128004,
     "wof:name":"Diesel Injection Svc",
     "wof:parent_id":85892873,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "injection"
     ]
 },
-  "bbox": [-73.371786,40.835494,-73.371786,40.835494],
+  "bbox": [
+    -73.371786,
+    40.835494,
+    -73.371786,
+    40.835494
+],
   "geometry": {"coordinates":[-73.371786,40.835494],"type":"Point"}
 }

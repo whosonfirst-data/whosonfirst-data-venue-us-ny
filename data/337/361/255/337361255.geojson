@@ -2,13 +2,14 @@
   "id": 337361255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.831468,40.762253,-73.831468,40.762253",
     "geom:latitude":40.762253,
     "geom:longitude":-73.831468,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3640 Main Street",
     "sg:city":"Flushing",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819703,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819703
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"a2bfd8b4c3d0f94b28ad306575015450",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819703,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":337361255,
-    "wof:lastmodified":1449027543,
+    "wof:lastmodified":1454127105,
     "wof:name":"Maung Maung",
     "wof:parent_id":85819703,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.831468,40.762253,-73.831468,40.762253],
+  "bbox": [
+    -73.831468,
+    40.762253,
+    -73.831468,
+    40.762253
+],
   "geometry": {"coordinates":[-73.831468,40.762253],"type":"Point"}
 }

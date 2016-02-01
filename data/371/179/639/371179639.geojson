@@ -2,13 +2,14 @@
   "id": 371179639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.242122,42.874498,-77.242122,42.874498",
     "geom:latitude":42.874498,
     "geom:longitude":-77.242122,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4221 Recreation Dr",
     "sg:city":"Canandaigua",
     "sg:classifiers":[
@@ -51,11 +52,13 @@
     "sg:website":"http://www.panerabread.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85803665,
+        102191575,
+        404522859,
         85633793,
         85977863,
         102082359,
-        85803665
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,9 +68,10 @@
     "wof:geomhash":"5be2c94752fe7706d47064197dda6a66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082359,
+            "localadmin_id":404522859,
             "locality_id":85977863,
             "neighbourhood_id":85803665,
             "region_id":85688543,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":371179639,
-    "wof:lastmodified":1449050027,
+    "wof:lastmodified":1454129268,
     "wof:name":"Panera Bread",
     "wof:parent_id":85803665,
     "wof:placetype":"venue",
@@ -88,6 +92,11 @@
         "take"
     ]
 },
-  "bbox": [-77.242122,42.874498,-77.242122,42.874498],
-  "geometry": {"coordinates":[-77.242122,42.874498],"type":"Point"}
+  "bbox": [
+    -77.242122,
+    42.874498,
+    -77.242122,
+    42.874498
+],
+  "geometry": {"coordinates":[-77.24212199999999,42.874498],"type":"Point"}
 }

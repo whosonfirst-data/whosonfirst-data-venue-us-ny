@@ -2,13 +2,14 @@
   "id": 370305021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.708608,40.790279,-73.708608,40.790279",
     "geom:latitude":40.790279,
     "geom:longitude":-73.708608,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"265 E Shore Rd",
     "sg:city":"Manhasset",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865341,
+        102191575,
+        404522729,
         85633793,
         85977683,
         102082371,
-        85865341
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"e7d28337b041f2f1f7365fcd7728a5d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85977683,
             "neighbourhood_id":85865341,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":370305021,
-    "wof:lastmodified":1449029603,
+    "wof:lastmodified":1454127465,
     "wof:name":"Manhassett Auto Sales",
     "wof:parent_id":85865341,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "general"
     ]
 },
-  "bbox": [-73.708608,40.790279,-73.708608,40.790279],
+  "bbox": [
+    -73.708608,
+    40.790279,
+    -73.708608,
+    40.790279
+],
   "geometry": {"coordinates":[-73.708608,40.790279],"type":"Point"}
 }

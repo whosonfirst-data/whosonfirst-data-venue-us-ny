@@ -2,13 +2,14 @@
   "id": 370313545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.873846,41.016732,-73.873846,41.016732",
     "geom:latitude":41.016732,
     "geom:longitude":-73.873846,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 Draper Ln",
     "sg:city":"Dobbs Ferry",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85849177,
+        102191575,
+        404523359,
         85633793,
-        102082385,
-        85849177
+        85978743,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"dd9d31dd5a6ccce1d0e9bbe21f5cc3c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082385,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523359,
+            "locality_id":85978743,
             "neighbourhood_id":85849177,
             "region_id":85688543,
             "venue_id":370313545
         }
     ],
     "wof:id":370313545,
-    "wof:lastmodified":1449029164,
+    "wof:lastmodified":1454127339,
     "wof:name":"110-150 Drapers Corp",
     "wof:parent_id":85849177,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.873846,41.016732,-73.873846,41.016732],
+  "bbox": [
+    -73.873846,
+    41.016732,
+    -73.873846,
+    41.016732
+],
   "geometry": {"coordinates":[-73.873846,41.016732],"type":"Point"}
 }

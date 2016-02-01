@@ -2,13 +2,14 @@
   "id": 370719249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.921451,40.833505,-73.921451,40.833505",
     "geom:latitude":40.833505,
     "geom:longitude":-73.921451,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1065 Gerard Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865669,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865669
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"fa539bd206c0b7b940ad2077b7638197",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865669,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370719249,
-    "wof:lastmodified":1449029529,
+    "wof:lastmodified":1454127445,
     "wof:name":"Related Management Corp",
     "wof:parent_id":85865669,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-73.921451,40.833505,-73.921451,40.833505],
+  "bbox": [
+    -73.921451,
+    40.833505,
+    -73.921451,
+    40.833505
+],
   "geometry": {"coordinates":[-73.921451,40.833505],"type":"Point"}
 }

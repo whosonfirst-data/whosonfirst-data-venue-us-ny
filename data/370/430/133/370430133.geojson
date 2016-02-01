@@ -2,13 +2,14 @@
   "id": 370430133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.81655,40.952393,-73.81655,40.952393",
     "geom:latitude":40.952393,
     "geom:longitude":-73.81655,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"282 Main St",
     "sg:city":"Eastchester",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.claudegallery.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530381,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"399531c9f3b13398baf74580f2b9aa58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530381,
             "region_id":85688543,
             "venue_id":370430133
         }
     ],
     "wof:id":370430133,
-    "wof:lastmodified":1449031232,
+    "wof:lastmodified":1454127947,
     "wof:name":"Claude Gallery Frames",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530381,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.81655,40.952393,-73.81655,40.952393],
-  "geometry": {"coordinates":[-73.81655,40.952393],"type":"Point"}
+  "bbox": [
+    -73.81655,
+    40.952393,
+    -73.81655,
+    40.952393
+],
+  "geometry": {"coordinates":[-73.81655000000001,40.952393],"type":"Point"}
 }

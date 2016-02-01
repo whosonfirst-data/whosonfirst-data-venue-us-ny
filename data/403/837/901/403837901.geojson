@@ -2,13 +2,14 @@
   "id": 403837901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.888921,40.846283,-73.888921,40.846283",
     "geom:latitude":40.846283,
     "geom:longitude":-73.888921,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"700 E 179th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528057,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"34a56fbe5ca6774387ca7a1f02493246",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528057,
             "region_id":85688543,
             "venue_id":403837901
         }
     ],
     "wof:id":403837901,
-    "wof:lastmodified":1449054836,
+    "wof:lastmodified":1454129353,
     "wof:name":"Bronx Elementary School 92",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.888921,40.846283,-73.888921,40.846283],
+  "bbox": [
+    -73.888921,
+    40.846283,
+    -73.888921,
+    40.846283
+],
   "geometry": {"coordinates":[-73.888921,40.846283],"type":"Point"}
 }

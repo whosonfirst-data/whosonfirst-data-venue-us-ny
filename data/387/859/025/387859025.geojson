@@ -2,13 +2,14 @@
   "id": 387859025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.901637,40.698883,-73.901637,40.698883",
     "geom:latitude":40.698883,
     "geom:longitude":-73.901637,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1720 George St",
     "sg:city":"Flushing",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844581,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844581
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"37983698ebb40643acd316c57dd54308",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844581,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387859025,
-    "wof:lastmodified":1449058830,
+    "wof:lastmodified":1454130016,
     "wof:name":"Big Apple Hardwood Floors Inc",
     "wof:parent_id":85844581,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "floor"
     ]
 },
-  "bbox": [-73.901637,40.698883,-73.901637,40.698883],
-  "geometry": {"coordinates":[-73.901637,40.698883],"type":"Point"}
+  "bbox": [
+    -73.901637,
+    40.698883,
+    -73.901637,
+    40.698883
+],
+  "geometry": {"coordinates":[-73.90163699999999,40.698883],"type":"Point"}
 }

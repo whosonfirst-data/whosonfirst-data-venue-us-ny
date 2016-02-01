@@ -2,13 +2,14 @@
   "id": 253285045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.89496,40.656438,-73.89496,40.656438",
     "geom:latitude":40.656438,
     "geom:longitude":-73.89496,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 Dewitt Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.rotaxmetals.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869421,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869421
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a57352eae6826d1e14ef17969c20ccfc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869421,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":253285045,
-    "wof:lastmodified":1449062908,
+    "wof:lastmodified":1454130256,
     "wof:name":"Rotax Metals Inc",
     "wof:parent_id":85869421,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "nonferrous"
     ]
 },
-  "bbox": [-73.89496,40.656438,-73.89496,40.656438],
+  "bbox": [
+    -73.89496,
+    40.656438,
+    -73.89496,
+    40.656438
+],
   "geometry": {"coordinates":[-73.89496,40.656438],"type":"Point"}
 }

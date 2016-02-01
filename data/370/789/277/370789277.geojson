@@ -2,13 +2,14 @@
   "id": 370789277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.164191,43.053501,-76.164191,43.053501",
     "geom:latitude":43.053501,
     "geom:longitude":-76.164191,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"736 W Genesee St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"http://www.infinitiofsyracuse.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881283,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881283
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"c57789d8ad1a0508d5f5a4a89d45732c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881283,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":370789277,
-    "wof:lastmodified":1449030622,
+    "wof:lastmodified":1454127764,
     "wof:name":"Infiniti Of Syracuse",
     "wof:parent_id":85881283,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "car"
     ]
 },
-  "bbox": [-76.164191,43.053501,-76.164191,43.053501],
+  "bbox": [
+    -76.164191,
+    43.053501,
+    -76.164191,
+    43.053501
+],
   "geometry": {"coordinates":[-76.164191,43.053501],"type":"Point"}
 }

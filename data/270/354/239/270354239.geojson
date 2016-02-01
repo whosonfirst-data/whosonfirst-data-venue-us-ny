@@ -2,13 +2,14 @@
   "id": 270354239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.848261,40.819478,-73.848261,40.819478",
     "geom:latitude":40.819478,
     "geom:longitude":-73.848261,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"645 Castle Hill Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528055,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"a44f93aa31ddf7b896fb3a00f2dae0e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528055,
             "region_id":85688543,
             "venue_id":270354239
         }
     ],
     "wof:id":270354239,
-    "wof:lastmodified":1449010816,
+    "wof:lastmodified":1454124692,
     "wof:name":"Castle Hill Housing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528055,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "income"
     ]
 },
-  "bbox": [-73.848261,40.819478,-73.848261,40.819478],
-  "geometry": {"coordinates":[-73.848261,40.819478],"type":"Point"}
+  "bbox": [
+    -73.848261,
+    40.819478,
+    -73.848261,
+    40.819478
+],
+  "geometry": {"coordinates":[-73.84826099999999,40.819478],"type":"Point"}
 }

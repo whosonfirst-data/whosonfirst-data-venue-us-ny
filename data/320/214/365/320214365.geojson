@@ -2,13 +2,14 @@
   "id": 320214365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.701723,40.725168,-73.701723,40.725168",
     "geom:latitude":40.725168,
     "geom:longitude":-73.701723,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"122 Plainfield Ave",
     "sg:city":"Floral Park",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892843,
+        102191575,
+        404521473,
         85633793,
-        85977667,
+        85977689,
         102082371,
-        85892843
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"ac23e672a3a21d7afe3b73bb23cac2e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977667,
+            "localadmin_id":404521473,
+            "locality_id":85977689,
             "neighbourhood_id":85892843,
             "region_id":85688543,
             "venue_id":320214365
         }
     ],
     "wof:id":320214365,
-    "wof:lastmodified":1449014841,
+    "wof:lastmodified":1454125344,
     "wof:name":"Dynamic Construction Corp",
     "wof:parent_id":85892843,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.701723,40.725168,-73.701723,40.725168],
+  "bbox": [
+    -73.701723,
+    40.725168,
+    -73.701723,
+    40.725168
+],
   "geometry": {"coordinates":[-73.701723,40.725168],"type":"Point"}
 }

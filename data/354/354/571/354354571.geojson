@@ -2,13 +2,14 @@
   "id": 354354571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.000099,40.816799,-73.000099,40.816799",
     "geom:latitude":40.816799,
     "geom:longitude":-73.000099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2577 Route 112",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"082f102accd72c8d9db70284802dd98d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354354571
         }
     ],
     "wof:id":354354571,
-    "wof:lastmodified":1449067482,
+    "wof:lastmodified":1454131248,
     "wof:name":"Baron Auto Mall Inc",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-73.000099,40.816799,-73.000099,40.816799],
-  "geometry": {"coordinates":[-73.000099,40.816799],"type":"Point"}
+  "bbox": [
+    -73.000099,
+    40.816799,
+    -73.000099,
+    40.816799
+],
+  "geometry": {"coordinates":[-73.00009900000001,40.816799],"type":"Point"}
 }

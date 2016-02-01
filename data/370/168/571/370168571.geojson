@@ -2,13 +2,14 @@
   "id": 370168571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.166777,40.856964,-73.166777,40.856964",
     "geom:latitude":40.856964,
     "geom:longitude":-73.166777,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"410 E Main St",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893017,
+        102191575,
+        404522669,
         85633793,
-        85979773,
+        85979839,
         102082395,
-        85893017
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"458e658fe3e0827004d4d9e9155cfe48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522669,
+            "locality_id":85979839,
             "neighbourhood_id":85893017,
             "region_id":85688543,
             "venue_id":370168571
         }
     ],
     "wof:id":370168571,
-    "wof:lastmodified":1449030846,
+    "wof:lastmodified":1454127831,
     "wof:name":"Town of Smithtown",
     "wof:parent_id":85893017,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "store"
     ]
 },
-  "bbox": [-73.166777,40.856964,-73.166777,40.856964],
+  "bbox": [
+    -73.166777,
+    40.856964,
+    -73.166777,
+    40.856964
+],
   "geometry": {"coordinates":[-73.166777,40.856964],"type":"Point"}
 }

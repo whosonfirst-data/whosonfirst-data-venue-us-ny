@@ -2,13 +2,14 @@
   "id": 353917855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.556057,40.678283,-73.556057,40.678283",
     "geom:latitude":40.678283,
     "geom:longitude":-73.556057,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Lake Ave",
     "sg:city":"Merrick",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529153,
+        102191575,
+        404521473,
         85633793,
         85979047,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"bff6f37ab5d2d4d1887f93e8a9e2256a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979047,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529153,
             "region_id":85688543,
             "venue_id":353917855
         }
     ],
     "wof:id":353917855,
-    "wof:lastmodified":1449020471,
+    "wof:lastmodified":1454126591,
     "wof:name":"Mus Cutz Barber Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529153,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "hair"
     ]
 },
-  "bbox": [-73.556057,40.678283,-73.556057,40.678283],
+  "bbox": [
+    -73.556057,
+    40.678283,
+    -73.556057,
+    40.678283
+],
   "geometry": {"coordinates":[-73.556057,40.678283],"type":"Point"}
 }

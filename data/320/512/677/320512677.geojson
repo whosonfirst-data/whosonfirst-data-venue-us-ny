@@ -2,13 +2,14 @@
   "id": 320512677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.848667,40.821955,-73.848667,40.821955",
     "geom:latitude":40.821955,
     "geom:longitude":-73.848667,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"760 Castle Hill Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528055,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"a8d3a0dc94cb9abf737b45e4ed64144e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528055,
             "region_id":85688543,
             "venue_id":320512677
         }
     ],
     "wof:id":320512677,
-    "wof:lastmodified":1449013972,
+    "wof:lastmodified":1454125204,
     "wof:name":"Tiger Car Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528055,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "automobile"
     ]
 },
-  "bbox": [-73.848667,40.821955,-73.848667,40.821955],
-  "geometry": {"coordinates":[-73.848667,40.821955],"type":"Point"}
+  "bbox": [
+    -73.848667,
+    40.821955,
+    -73.848667,
+    40.821955
+],
+  "geometry": {"coordinates":[-73.84866700000001,40.821955],"type":"Point"}
 }

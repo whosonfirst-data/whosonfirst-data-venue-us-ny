@@ -2,13 +2,14 @@
   "id": 269568357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.882573,40.821835,-73.882573,40.821835",
     "geom:latitude":40.821835,
     "geom:longitude":-73.882573,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"955 Bronx River Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528053,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"542bf18a6e56c828ea0e5d80b8d2af3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528053,
             "region_id":85688543,
             "venue_id":269568357
         }
     ],
     "wof:id":269568357,
-    "wof:lastmodified":1449036087,
+    "wof:lastmodified":1454128453,
     "wof:name":"Storage Deluxe",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "mover"
     ]
 },
-  "bbox": [-73.882573,40.821835,-73.882573,40.821835],
-  "geometry": {"coordinates":[-73.882573,40.821835],"type":"Point"}
+  "bbox": [
+    -73.882573,
+    40.821835,
+    -73.882573,
+    40.821835
+],
+  "geometry": {"coordinates":[-73.88257299999999,40.821835],"type":"Point"}
 }

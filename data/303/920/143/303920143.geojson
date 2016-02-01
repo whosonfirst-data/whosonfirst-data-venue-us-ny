@@ -2,13 +2,14 @@
   "id": 303920143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.091445,40.774637,-73.091445,40.774637",
     "geom:latitude":40.774637,
     "geom:longitude":-73.091445,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"75 Carlough Rd",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"b9b76307a45e64823cf7779d0ca9363a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":303920143
         }
     ],
     "wof:id":303920143,
-    "wof:lastmodified":1449000009,
+    "wof:lastmodified":1454123570,
     "wof:name":"Extreme Coachbuilder",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.091445,40.774637,-73.091445,40.774637],
-  "geometry": {"coordinates":[-73.091445,40.774637],"type":"Point"}
+  "bbox": [
+    -73.091445,
+    40.774637,
+    -73.091445,
+    40.774637
+],
+  "geometry": {"coordinates":[-73.09144499999999,40.774637],"type":"Point"}
 }

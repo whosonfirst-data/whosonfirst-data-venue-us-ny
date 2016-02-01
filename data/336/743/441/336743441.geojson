@@ -2,13 +2,14 @@
   "id": 336743441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.831558,40.889288,-73.831558,40.889288",
     "geom:latitude":40.889288,
     "geom:longitude":-73.831558,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1531 E 233rd St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865657,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865657
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"9b31fa2a23eecb9dd1a11169367cd306",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865657,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":336743441,
-    "wof:lastmodified":1448998001,
+    "wof:lastmodified":1454122948,
     "wof:name":"Nativity Of Our Blessed Lady",
     "wof:parent_id":85865657,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.831558,40.889288,-73.831558,40.889288],
+  "bbox": [
+    -73.831558,
+    40.889288,
+    -73.831558,
+    40.889288
+],
   "geometry": {"coordinates":[-73.831558,40.889288],"type":"Point"}
 }

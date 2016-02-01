@@ -2,13 +2,14 @@
   "id": 252851673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.843038,41.040095,-73.843038,41.040095",
     "geom:latitude":41.040095,
     "geom:longitude":-73.843038,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"231 Mountain Rd",
     "sg:city":"Irvington",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85859125,
+        102191575,
+        404523359,
         85633793,
+        85978733,
         102082373,
-        85859125
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"b0c38ef65b69edcac68e309137d43d8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":-1,
+            "localadmin_id":404523359,
+            "locality_id":85978733,
             "neighbourhood_id":85859125,
             "region_id":85688543,
             "venue_id":252851673
         }
     ],
     "wof:id":252851673,
-    "wof:lastmodified":1449006117,
+    "wof:lastmodified":1454124079,
     "wof:name":"Robert Fay",
     "wof:parent_id":85859125,
     "wof:placetype":"venue",
@@ -70,6 +75,11 @@
         "cotton"
     ]
 },
-  "bbox": [-73.843038,41.040095,-73.843038,41.040095],
-  "geometry": {"coordinates":[-73.843038,41.040095],"type":"Point"}
+  "bbox": [
+    -73.843038,
+    41.040095,
+    -73.843038,
+    41.040095
+],
+  "geometry": {"coordinates":[-73.84303800000001,41.040095],"type":"Point"}
 }

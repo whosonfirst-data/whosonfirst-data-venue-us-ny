@@ -2,13 +2,14 @@
   "id": 354017951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.675543,40.83547,-73.675543,40.83547",
     "geom:latitude":40.83547,
     "geom:longitude":-73.675543,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"103 Summit Rd",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85979185,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"0226fd87e7fcbd81f18e7114435f9c4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979185,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":354017951
         }
     ],
     "wof:id":354017951,
-    "wof:lastmodified":1449066842,
+    "wof:lastmodified":1454131050,
     "wof:name":"Neil W Magazine",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "periodical"
     ]
 },
-  "bbox": [-73.675543,40.83547,-73.675543,40.83547],
+  "bbox": [
+    -73.675543,
+    40.83547,
+    -73.675543,
+    40.83547
+],
   "geometry": {"coordinates":[-73.675543,40.83547],"type":"Point"}
 }

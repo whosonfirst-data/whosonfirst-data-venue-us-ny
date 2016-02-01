@@ -2,13 +2,14 @@
   "id": 370656483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.691114,40.691303,-73.691114,40.691303",
     "geom:latitude":40.691303,
     "geom:longitude":-73.691114,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"775 Meacham Ave",
     "sg:city":"Elmont",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"www.libertyfence.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85838141,
+        102191575,
+        404521473,
         85633793,
-        85979041,
+        85979137,
         102082371,
-        85838141
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"9ec9b81f5c2e65fcf76c84d0d1f56e29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979041,
+            "localadmin_id":404521473,
+            "locality_id":85979137,
             "neighbourhood_id":85838141,
             "region_id":85688543,
             "venue_id":370656483
         }
     ],
     "wof:id":370656483,
-    "wof:lastmodified":1449031281,
+    "wof:lastmodified":1454127961,
     "wof:name":"Liberty Fence Co",
     "wof:parent_id":85838141,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "dealer"
     ]
 },
-  "bbox": [-73.691114,40.691303,-73.691114,40.691303],
+  "bbox": [
+    -73.691114,
+    40.691303,
+    -73.691114,
+    40.691303
+],
   "geometry": {"coordinates":[-73.691114,40.691303],"type":"Point"}
 }

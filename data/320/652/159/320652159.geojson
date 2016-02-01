@@ -2,13 +2,14 @@
   "id": 320652159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.866996,40.844955,-73.866996,40.844955",
     "geom:latitude":40.844955,
     "geom:longitude":-73.866996,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"656 Morris Park Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853499,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85853499
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"e4783ccf90426b8ba8ab40f01da741f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853499,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":320652159,
-    "wof:lastmodified":1449013668,
+    "wof:lastmodified":1454125152,
     "wof:name":"Heritage Carting Corp",
     "wof:parent_id":85853499,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "collection"
     ]
 },
-  "bbox": [-73.866996,40.844955,-73.866996,40.844955],
+  "bbox": [
+    -73.866996,
+    40.844955,
+    -73.866996,
+    40.844955
+],
   "geometry": {"coordinates":[-73.866996,40.844955],"type":"Point"}
 }

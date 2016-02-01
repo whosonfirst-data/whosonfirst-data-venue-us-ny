@@ -2,13 +2,14 @@
   "id": 320514675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.183335,43.274094,-77.183335,43.274094",
     "geom:latitude":43.274094,
     "geom:longitude":-77.183335,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7643 Jay St",
     "sg:city":"Williamson",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530365,
+        102191575,
+        404521681,
         85633793,
         85979741,
-        102082409
+        102082409,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"e3f1f799e8d1351015b7f13dfe92b90a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082409,
+            "localadmin_id":404521681,
             "locality_id":85979741,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530365,
             "region_id":85688543,
             "venue_id":320514675
         }
     ],
     "wof:id":320514675,
-    "wof:lastmodified":1449013136,
+    "wof:lastmodified":1454125067,
     "wof:name":"Good Old Days Country Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-77.183335,43.274094,-77.183335,43.274094],
+  "bbox": [
+    -77.183335,
+    43.274094,
+    -77.183335,
+    43.274094
+],
   "geometry": {"coordinates":[-77.183335,43.274094],"type":"Point"}
 }

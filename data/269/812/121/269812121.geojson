@@ -2,13 +2,14 @@
   "id": 269812121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.818127,44.183083,-75.818127,44.183083",
     "geom:latitude":44.183083,
     "geom:longitude":-75.818127,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"35559 Co Rd 136",
     "sg:city":"Theresa",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528859,
+        102191575,
+        404521837,
         85633793,
+        85978075,
+        102082357,
         85688543
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"80c927f41304bba932f504bbd5b5b831",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082357,
+            "localadmin_id":404521837,
+            "locality_id":85978075,
+            "neighbourhood_id":420528859,
             "region_id":85688543,
             "venue_id":269812121
         }
     ],
     "wof:id":269812121,
-    "wof:lastmodified":1449036207,
+    "wof:lastmodified":1454128472,
     "wof:name":"D & M Collision",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528859,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +69,11 @@
         "painting"
     ]
 },
-  "bbox": [-75.818127,44.183083,-75.818127,44.183083],
+  "bbox": [
+    -75.818127,
+    44.183083,
+    -75.818127,
+    44.183083
+],
   "geometry": {"coordinates":[-75.818127,44.183083],"type":"Point"}
 }

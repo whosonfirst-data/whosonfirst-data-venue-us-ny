@@ -2,13 +2,14 @@
   "id": 319897185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.801746,40.819106,-72.801746,40.819106",
     "geom:latitude":40.819106,
     "geom:longitude":-72.801746,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Old School House Rd",
     "sg:city":"Manorville",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"53b73dbca403a0ba0b7c9a187900d82c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":319897185
         }
     ],
     "wof:id":319897185,
-    "wof:lastmodified":1449024761,
+    "wof:lastmodified":1454126828,
     "wof:name":"Naturescapes Habitats Inc",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-72.801746,40.819106,-72.801746,40.819106],
-  "geometry": {"coordinates":[-72.801746,40.819106],"type":"Point"}
+  "bbox": [
+    -72.801746,
+    40.819106,
+    -72.801746,
+    40.819106
+],
+  "geometry": {"coordinates":[-72.80174599999999,40.819106],"type":"Point"}
 }

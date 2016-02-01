@@ -2,13 +2,14 @@
   "id": 354190727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.972217,41.355741,-73.972217,41.355741",
     "geom:latitude":41.355741,
     "geom:longitude":-73.972217,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 Main St",
     "sg:city":"Highland Falls",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85821803,
+        102191575,
+        404522899,
         85633793,
-        102083007,
-        85821803
+        85978223,
+        102083061,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"3304ed4928b779b6519c030b1468a4bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083007,
-            "locality_id":-1,
+            "county_id":102083061,
+            "localadmin_id":404522899,
+            "locality_id":85978223,
             "neighbourhood_id":85821803,
             "region_id":85688543,
             "venue_id":354190727
         }
     ],
     "wof:id":354190727,
-    "wof:lastmodified":1449067567,
+    "wof:lastmodified":1454131275,
     "wof:name":"Palisade Motel",
     "wof:parent_id":85821803,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.972217,41.355741,-73.972217,41.355741],
+  "bbox": [
+    -73.972217,
+    41.355741,
+    -73.972217,
+    41.355741
+],
   "geometry": {"coordinates":[-73.972217,41.355741],"type":"Point"}
 }

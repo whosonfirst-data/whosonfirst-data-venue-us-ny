@@ -2,13 +2,14 @@
   "id": 354112531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.013524,41.441859,-74.013524,41.441859",
     "geom:latitude":41.441859,
     "geom:longitude":-74.013524,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"22 Vinebrook Ave",
     "sg:city":"Cornwall On Hudson",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812353,
+        102191575,
+        404522801,
         85633793,
+        85978241,
         102083061,
-        85812353
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"e6447c562745bb5d1daadffa62c2da5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":-1,
+            "localadmin_id":404522801,
+            "locality_id":85978241,
             "neighbourhood_id":85812353,
             "region_id":85688543,
             "venue_id":354112531
         }
     ],
     "wof:id":354112531,
-    "wof:lastmodified":1449066696,
+    "wof:lastmodified":1454131007,
     "wof:name":"Canterbury Home Inspections",
     "wof:parent_id":85812353,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.013524,41.441859,-74.013524,41.441859],
+  "bbox": [
+    -74.013524,
+    41.441859,
+    -74.013524,
+    41.441859
+],
   "geometry": {"coordinates":[-74.013524,41.441859],"type":"Point"}
 }

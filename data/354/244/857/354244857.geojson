@@ -2,13 +2,14 @@
   "id": 354244857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.428705,40.895779,-73.428705,40.895779",
     "geom:latitude":40.895779,
     "geom:longitude":-73.428705,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"293 W Shore Rd",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.ziginy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85830187,
+        102191575,
+        404522515,
         85633793,
         85978475,
         102082395,
-        85830187
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"b172c9aaf52b16d8ab5a88a91d8b52a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85978475,
             "neighbourhood_id":85830187,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":354244857,
-    "wof:lastmodified":1449066591,
+    "wof:lastmodified":1454130974,
     "wof:name":"Zigi New York",
     "wof:parent_id":85830187,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-73.428705,40.895779,-73.428705,40.895779],
-  "geometry": {"coordinates":[-73.428705,40.895779],"type":"Point"}
+  "bbox": [
+    -73.428705,
+    40.895779,
+    -73.428705,
+    40.895779
+],
+  "geometry": {"coordinates":[-73.42870499999999,40.895779],"type":"Point"}
 }

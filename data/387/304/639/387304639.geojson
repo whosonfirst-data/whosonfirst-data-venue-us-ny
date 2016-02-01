@@ -2,13 +2,14 @@
   "id": 387304639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.816281,40.715552,-73.816281,40.715552",
     "geom:latitude":40.715552,
     "geom:longitude":-73.816281,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Main St",
     "sg:city":"Jamaica",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865653,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865653
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"23bde32be8e691cd973c754408b4a250",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865653,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387304639,
-    "wof:lastmodified":1449058941,
+    "wof:lastmodified":1454130032,
     "wof:name":"Victory Apartments Inc",
     "wof:parent_id":85865653,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "apartment"
     ]
 },
-  "bbox": [-73.816281,40.715552,-73.816281,40.715552],
+  "bbox": [
+    -73.816281,
+    40.715552,
+    -73.816281,
+    40.715552
+],
   "geometry": {"coordinates":[-73.816281,40.715552],"type":"Point"}
 }

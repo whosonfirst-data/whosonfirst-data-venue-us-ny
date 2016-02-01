@@ -2,13 +2,14 @@
   "id": 354000445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.591303,40.74135,-73.591303,40.74135",
     "geom:latitude":40.74135,
     "geom:longitude":-73.591303,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1230 Corporate Dr",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     "sg:website":"http://www.sprint.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893069,
+        102191575,
+        404522729,
         85633793,
-        85977735,
+        85979163,
         102082371,
-        85893069
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +55,18 @@
     "wof:geomhash":"9a9c9cf17b9b27cc8e4bf0e871847422",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977735,
+            "localadmin_id":404522729,
+            "locality_id":85979163,
             "neighbourhood_id":85893069,
             "region_id":85688543,
             "venue_id":354000445
         }
     ],
     "wof:id":354000445,
-    "wof:lastmodified":1449066200,
+    "wof:lastmodified":1454130853,
     "wof:name":"Sprint Store",
     "wof:parent_id":85893069,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "cellular"
     ]
 },
-  "bbox": [-73.591303,40.74135,-73.591303,40.74135],
+  "bbox": [
+    -73.591303,
+    40.74135,
+    -73.591303,
+    40.74135
+],
   "geometry": {"coordinates":[-73.591303,40.74135],"type":"Point"}
 }

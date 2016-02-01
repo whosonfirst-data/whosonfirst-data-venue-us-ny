@@ -2,13 +2,14 @@
   "id": 303493521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.999598,40.729835,-73.999598,40.729835",
     "geom:latitude":40.729835,
     "geom:longitude":-73.999598,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"210 Sullivan St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529189,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"ad8dd8d9377e9004557d2d221b4cdc41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529189,
             "region_id":85688543,
             "venue_id":303493521
         }
     ],
     "wof:id":303493521,
-    "wof:lastmodified":1448998892,
+    "wof:lastmodified":1454123260,
     "wof:name":"Sullivan Evger St Realty Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529189,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "apartment"
     ]
 },
-  "bbox": [-73.999598,40.729835,-73.999598,40.729835],
-  "geometry": {"coordinates":[-73.999598,40.729835],"type":"Point"}
+  "bbox": [
+    -73.999598,
+    40.729835,
+    -73.999598,
+    40.729835
+],
+  "geometry": {"coordinates":[-73.99959800000001,40.729835],"type":"Point"}
 }

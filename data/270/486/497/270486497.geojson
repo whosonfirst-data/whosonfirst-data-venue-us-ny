@@ -2,13 +2,14 @@
   "id": 270486497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.840834,40.908062,-73.840834,40.908062",
     "geom:latitude":40.908062,
     "geom:longitude":-73.840834,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 W 2nd St",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"1a6b392fba483e592951432da74bd80e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":270486497
         }
     ],
     "wof:id":270486497,
-    "wof:lastmodified":1449010015,
+    "wof:lastmodified":1454124569,
     "wof:name":"Bible Church Of Christ",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-73.840834,40.908062,-73.840834,40.908062],
+  "bbox": [
+    -73.840834,
+    40.908062,
+    -73.840834,
+    40.908062
+],
   "geometry": {"coordinates":[-73.840834,40.908062],"type":"Point"}
 }

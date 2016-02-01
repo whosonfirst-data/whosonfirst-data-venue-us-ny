@@ -2,13 +2,14 @@
   "id": 270067919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.150956,40.886322,-73.150956,40.886322",
     "geom:latitude":40.886322,
     "geom:longitude":-73.150956,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Floral Ln",
     "sg:city":"St James",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893017,
+        102191575,
+        404522669,
         85633793,
-        85979773,
+        85979839,
         102082395,
-        85893017
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"59a3a77dba862b20e7bbc2223c818b03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522669,
+            "locality_id":85979839,
             "neighbourhood_id":85893017,
             "region_id":85688543,
             "venue_id":270067919
         }
     ],
     "wof:id":270067919,
-    "wof:lastmodified":1449008815,
+    "wof:lastmodified":1454124391,
     "wof:name":"DML & S Air Conditioning",
     "wof:parent_id":85893017,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.150956,40.886322,-73.150956,40.886322],
-  "geometry": {"coordinates":[-73.150956,40.886322],"type":"Point"}
+  "bbox": [
+    -73.150956,
+    40.886322,
+    -73.150956,
+    40.886322
+],
+  "geometry": {"coordinates":[-73.15095599999999,40.886322],"type":"Point"}
 }

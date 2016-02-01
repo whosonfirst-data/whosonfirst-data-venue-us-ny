@@ -2,13 +2,14 @@
   "id": 169815179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.960723,40.715049,-73.960723,40.715049",
     "geom:latitude":40.715049,
     "geom:longitude":-73.960723,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"261 Bedford Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.nycgovparks.org/sub_things_t...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892951,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85892951
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"da07002eafc5024024a331b3167de03f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892951,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":169815179,
-    "wof:lastmodified":1449034283,
+    "wof:lastmodified":1454128404,
     "wof:name":"Metropolitan Pool and Recreation Center",
     "wof:parent_id":85892951,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.960723,40.715049,-73.960723,40.715049],
+  "bbox": [
+    -73.960723,
+    40.715049,
+    -73.960723,
+    40.715049
+],
   "geometry": {"coordinates":[-73.960723,40.715049],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354333491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.382874,40.685101,-73.382874,40.685101",
     "geom:latitude":40.685101,
     "geom:longitude":-73.382874,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 New York Ave",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
         85978477,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"d483d5c9543caf42af90b2b5aa687c2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522513,
             "locality_id":85978477,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":354333491
         }
     ],
     "wof:id":354333491,
-    "wof:lastmodified":1449067558,
+    "wof:lastmodified":1454131273,
     "wof:name":"Green Light Services, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "consultant"
     ]
 },
-  "bbox": [-73.382874,40.685101,-73.382874,40.685101],
+  "bbox": [
+    -73.382874,
+    40.685101,
+    -73.382874,
+    40.685101
+],
   "geometry": {"coordinates":[-73.382874,40.685101],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370168735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.172203,40.855499,-73.172203,40.855499",
     "geom:latitude":40.855499,
     "geom:longitude":-73.172203,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"360 E Main St",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853877,
+        102191575,
+        404522669,
         85633793,
-        85979919,
+        85978443,
         102082395,
-        85853877
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"ab387b14e1a2f05e0308fe4f36b0617b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
+            "localadmin_id":404522669,
+            "locality_id":85978443,
             "neighbourhood_id":85853877,
             "region_id":85688543,
             "venue_id":370168735
         }
     ],
     "wof:id":370168735,
-    "wof:lastmodified":1449030847,
+    "wof:lastmodified":1454127831,
     "wof:name":"Smithtown Toyota Corp",
     "wof:parent_id":85853877,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "car"
     ]
 },
-  "bbox": [-73.172203,40.855499,-73.172203,40.855499],
+  "bbox": [
+    -73.172203,
+    40.855499,
+    -73.172203,
+    40.855499
+],
   "geometry": {"coordinates":[-73.172203,40.855499],"type":"Point"}
 }

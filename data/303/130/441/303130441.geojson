@@ -2,13 +2,14 @@
   "id": 303130441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.140321,40.554829,-74.140321,40.554829",
     "geom:latitude":40.554829,
     "geom:longitude":-74.140321,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3501 Amboy Rd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529763,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"f62ed839658c2122d6fac3e37ad61f81",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529763,
             "region_id":85688543,
             "venue_id":303130441
         }
     ],
     "wof:id":303130441,
-    "wof:lastmodified":1448998956,
+    "wof:lastmodified":1454123282,
     "wof:name":"Pathmark Of Amboy Rd",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529763,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "grocer"
     ]
 },
-  "bbox": [-74.140321,40.554829,-74.140321,40.554829],
+  "bbox": [
+    -74.140321,
+    40.554829,
+    -74.140321,
+    40.554829
+],
   "geometry": {"coordinates":[-74.140321,40.554829],"type":"Point"}
 }

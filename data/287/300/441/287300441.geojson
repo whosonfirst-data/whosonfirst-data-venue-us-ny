@@ -2,13 +2,14 @@
   "id": 287300441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.150147,41.680391,-74.150147,41.680391",
     "geom:latitude":41.680391,
     "geom:longitude":-74.150147,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 Dusinberre Rd",
     "sg:city":"Gardiner",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530209,
+        102191575,
+        404523241,
         85633793,
         85978931,
-        102081775
+        102081775,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"b6a6ad079dfc629e027d8ceeca8329ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
+            "localadmin_id":404523241,
             "locality_id":85978931,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530209,
             "region_id":85688543,
             "venue_id":287300441
         }
     ],
     "wof:id":287300441,
-    "wof:lastmodified":1449001170,
+    "wof:lastmodified":1454123874,
     "wof:name":"Handle With Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530209,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-74.150147,41.680391,-74.150147,41.680391],
+  "bbox": [
+    -74.150147,
+    41.680391,
+    -74.150147,
+    41.680391
+],
   "geometry": {"coordinates":[-74.150147,41.680391],"type":"Point"}
 }

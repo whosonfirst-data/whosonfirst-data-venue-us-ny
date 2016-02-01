@@ -2,13 +2,14 @@
   "id": 404135553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.895646,40.912189,-73.895646,40.912189",
     "geom:latitude":40.912189,
     "geom:longitude":-73.895646,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"102 Bruce Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831599,
+        102191575,
+        404523397,
         85633793,
         85978759,
         102082373,
-        85831599
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"5e2fa86bef77c86c1e5be3f60e073b14",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
             "neighbourhood_id":85831599,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":404135553,
-    "wof:lastmodified":1449039493,
+    "wof:lastmodified":1454128878,
     "wof:name":"James Desmond Inc",
     "wof:parent_id":85831599,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "co"
     ]
 },
-  "bbox": [-73.895646,40.912189,-73.895646,40.912189],
+  "bbox": [
+    -73.895646,
+    40.912189,
+    -73.895646,
+    40.912189
+],
   "geometry": {"coordinates":[-73.895646,40.912189],"type":"Point"}
 }

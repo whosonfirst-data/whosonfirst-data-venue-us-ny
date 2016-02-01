@@ -2,13 +2,14 @@
   "id": 270420933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.83523,40.909691,-73.83523,40.909691",
     "geom:latitude":40.909691,
     "geom:longitude":-73.83523,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 S 3rd Ave",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"ef0e60f9d86677a1672cd8e204cc0087",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":270420933
         }
     ],
     "wof:id":270420933,
-    "wof:lastmodified":1449009805,
+    "wof:lastmodified":1454124538,
     "wof:name":"Schimolers Locksmiths",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "safe"
     ]
 },
-  "bbox": [-73.83523,40.909691,-73.83523,40.909691],
+  "bbox": [
+    -73.83523,
+    40.909691,
+    -73.83523,
+    40.909691
+],
   "geometry": {"coordinates":[-73.83523,40.909691],"type":"Point"}
 }

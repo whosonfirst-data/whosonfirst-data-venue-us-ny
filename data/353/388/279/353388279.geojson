@@ -2,13 +2,14 @@
   "id": 353388279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.220231,40.727903,-73.220231,40.727903",
     "geom:latitude":40.727903,
     "geom:longitude":-73.220231,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"265 Main St",
     "sg:city":"Islip",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892813,
+        102191575,
+        404522517,
         85633793,
         85979775,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"86385adcee87e53f64bd7c741fd27f26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979775,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892813,
             "region_id":85688543,
             "venue_id":353388279
         }
     ],
     "wof:id":353388279,
-    "wof:lastmodified":1449018337,
+    "wof:lastmodified":1454125972,
     "wof:name":"Fleet",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892813,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "commercial"
     ]
 },
-  "bbox": [-73.220231,40.727903,-73.220231,40.727903],
+  "bbox": [
+    -73.220231,
+    40.727903,
+    -73.220231,
+    40.727903
+],
   "geometry": {"coordinates":[-73.220231,40.727903],"type":"Point"}
 }

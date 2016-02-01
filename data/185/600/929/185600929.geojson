@@ -2,13 +2,14 @@
   "id": 185600929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.921235,40.663274,-73.921235,40.663274",
     "geom:latitude":40.663274,
     "geom:longitude":-73.921235,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"144 E 98th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.radioshack.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85808127,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85808127
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"2f8c06c11cce96f0a90e7f850d6e5021",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85808127,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":185600929,
-    "wof:lastmodified":1449006759,
+    "wof:lastmodified":1454124164,
     "wof:name":"RadioShack",
     "wof:parent_id":85808127,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.921235,40.663274,-73.921235,40.663274],
+  "bbox": [
+    -73.921235,
+    40.663274,
+    -73.921235,
+    40.663274
+],
   "geometry": {"coordinates":[-73.921235,40.663274],"type":"Point"}
 }

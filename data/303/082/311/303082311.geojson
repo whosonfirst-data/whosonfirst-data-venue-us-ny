@@ -2,13 +2,14 @@
   "id": 303082311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.245062,40.723522,-73.245062,40.723522",
     "geom:latitude":40.723522,
     "geom:longitude":-73.245062,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"85 E Main St",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530027,
+        102191575,
+        404522517,
         85633793,
         85979719,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"71c0e8d9fdf1bf4d02b3f36109bbd6b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530027,
             "region_id":85688543,
             "venue_id":303082311
         }
     ],
     "wof:id":303082311,
-    "wof:lastmodified":1448998178,
+    "wof:lastmodified":1454123007,
     "wof:name":"Shiel Medical Labs Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530027,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-73.245062,40.723522,-73.245062,40.723522],
+  "bbox": [
+    -73.245062,
+    40.723522,
+    -73.245062,
+    40.723522
+],
   "geometry": {"coordinates":[-73.245062,40.723522],"type":"Point"}
 }

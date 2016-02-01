@@ -2,13 +2,14 @@
   "id": 370211833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.210899,40.823601,-73.210899,40.823601",
     "geom:latitude":40.823601,
     "geom:longitude":-73.210899,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"610 Veterans Hwy",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"cc71c0ec8065a9a0b6c6d6c8357c31a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":370211833
         }
     ],
     "wof:id":370211833,
-    "wof:lastmodified":1449029928,
+    "wof:lastmodified":1454127561,
     "wof:name":"Pandolfi Philip C Archt",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.210899,40.823601,-73.210899,40.823601],
+  "bbox": [
+    -73.210899,
+    40.823601,
+    -73.210899,
+    40.823601
+],
   "geometry": {"coordinates":[-73.210899,40.823601],"type":"Point"}
 }

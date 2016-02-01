@@ -2,13 +2,14 @@
   "id": 286330759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.591533,40.979439,-72.591533,40.979439",
     "geom:latitude":40.979439,
     "geom:longitude":-72.591533,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"733 Herricks Ln",
     "sg:city":"Riverhead",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85838351,
+        102191575,
+        404522663,
         85633793,
-        85979879,
+        85979671,
         102082395,
-        85838351
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"21ef17d37094de9f0166b962b5dd6afa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979879,
+            "localadmin_id":404522663,
+            "locality_id":85979671,
             "neighbourhood_id":85838351,
             "region_id":85688543,
             "venue_id":286330759
         }
     ],
     "wof:id":286330759,
-    "wof:lastmodified":1449016652,
+    "wof:lastmodified":1454125656,
     "wof:name":"Red Barn Bed & Breakfast",
     "wof:parent_id":85838351,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "bed"
     ]
 },
-  "bbox": [-72.591533,40.979439,-72.591533,40.979439],
+  "bbox": [
+    -72.591533,
+    40.979439,
+    -72.591533,
+    40.979439
+],
   "geometry": {"coordinates":[-72.591533,40.979439],"type":"Point"}
 }

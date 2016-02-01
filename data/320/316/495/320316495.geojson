@@ -2,13 +2,14 @@
   "id": 320316495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.784037,40.913588,-73.784037,40.913588",
     "geom:latitude":40.913588,
     "geom:longitude":-73.784037,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"26 Burling Ln",
     "sg:city":"New Rochelle",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845319,
+        102191575,
+        404523375,
         85633793,
         85978749,
         102082373,
-        85845319
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"06cbbc2d9454eea825c45a9d1c9a42dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523375,
             "locality_id":85978749,
             "neighbourhood_id":85845319,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":320316495,
-    "wof:lastmodified":1449013806,
+    "wof:lastmodified":1454125175,
     "wof:name":"New Rochelle Radiology",
     "wof:parent_id":85845319,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.784037,40.913588,-73.784037,40.913588],
+  "bbox": [
+    -73.784037,
+    40.913588,
+    -73.784037,
+    40.913588
+],
   "geometry": {"coordinates":[-73.784037,40.913588],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287065049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.861989,40.845986,-73.861989,40.845986",
     "geom:latitude":40.845986,
     "geom:longitude":-73.861989,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"810 Morris Park Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853499,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85853499
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"0042233396c0c5c78cddb4a1e68dfa76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853499,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":287065049,
-    "wof:lastmodified":1449001587,
+    "wof:lastmodified":1454123969,
     "wof:name":"Mundo 1 Telecom",
     "wof:parent_id":85853499,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [-73.861989,40.845986,-73.861989,40.845986],
-  "geometry": {"coordinates":[-73.861989,40.845986],"type":"Point"}
+  "bbox": [
+    -73.861989,
+    40.845986,
+    -73.861989,
+    40.845986
+],
+  "geometry": {"coordinates":[-73.86198899999999,40.845986],"type":"Point"}
 }

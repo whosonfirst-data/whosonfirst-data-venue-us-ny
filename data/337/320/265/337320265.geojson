@@ -2,13 +2,14 @@
   "id": 337320265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.895213,40.638763,-73.895213,40.638763",
     "geom:latitude":40.638763,
     "geom:longitude":-73.895213,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9701 Ave L",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.vipveterinaryhospitalpc",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85809201,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85809201
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"19a075d419ec765859e5a3ebd5ea237f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85809201,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":337320265,
-    "wof:lastmodified":1449027128,
+    "wof:lastmodified":1454126943,
     "wof:name":"New Vet Hospital",
     "wof:parent_id":85809201,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "veterinarian"
     ]
 },
-  "bbox": [-73.895213,40.638763,-73.895213,40.638763],
+  "bbox": [
+    -73.895213,
+    40.638763,
+    -73.895213,
+    40.638763
+],
   "geometry": {"coordinates":[-73.895213,40.638763],"type":"Point"}
 }

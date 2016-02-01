@@ -2,13 +2,14 @@
   "id": 270138901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.939256,44.601839,-74.939256,44.601839",
     "geom:latitude":44.601839,
     "geom:longitude":-74.939256,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8 W Parishville Rd",
     "sg:city":"Potsdam",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85824915,
+        102082379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"596d9b05d340abeb418be5e0deca8234",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082379,
+            "neighbourhood_id":85824915,
             "region_id":85688543,
             "venue_id":270138901
         }
     ],
     "wof:id":270138901,
-    "wof:lastmodified":1449009308,
+    "wof:lastmodified":1454124467,
     "wof:name":"Not Just Rv's",
-    "wof:parent_id":-1,
+    "wof:parent_id":85824915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "trailer"
     ]
 },
-  "bbox": [-74.939256,44.601839,-74.939256,44.601839],
+  "bbox": [
+    -74.939256,
+    44.601839,
+    -74.939256,
+    44.601839
+],
   "geometry": {"coordinates":[-74.939256,44.601839],"type":"Point"}
 }

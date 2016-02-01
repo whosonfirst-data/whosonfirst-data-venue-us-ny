@@ -2,13 +2,14 @@
   "id": 404131819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.819499,43.136804,-77.819499,43.136804",
     "geom:latitude":43.136804,
     "geom:longitude":-77.819499,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"510 Stony Point Rd",
     "sg:city":"Spencerport",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85855291,
+        102081815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"8dd80550a5d7b224142465943cead646",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "neighbourhood_id":85855291,
             "region_id":85688543,
             "venue_id":404131819
         }
     ],
     "wof:id":404131819,
-    "wof:lastmodified":1449039379,
+    "wof:lastmodified":1454128867,
     "wof:name":"Mas Place",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855291,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-77.819499,43.136804,-77.819499,43.136804],
-  "geometry": {"coordinates":[-77.819499,43.136804],"type":"Point"}
+  "bbox": [
+    -77.819499,
+    43.136804,
+    -77.819499,
+    43.136804
+],
+  "geometry": {"coordinates":[-77.81949899999999,43.136804],"type":"Point"}
 }

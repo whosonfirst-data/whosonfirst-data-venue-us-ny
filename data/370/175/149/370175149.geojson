@@ -2,13 +2,14 @@
   "id": 370175149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.193604,40.8545,-73.193604,40.8545",
     "geom:latitude":40.8545,
     "geom:longitude":-73.193604,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"22 Lawrence Ave Ste 105",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853877,
+        102191575,
+        404522669,
         85633793,
-        85979919,
+        85978443,
         102082395,
-        85853877
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"1d515e68c9c7ca8e1ac8467312c65235",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
+            "localadmin_id":404522669,
+            "locality_id":85978443,
             "neighbourhood_id":85853877,
             "region_id":85688543,
             "venue_id":370175149
         }
     ],
     "wof:id":370175149,
-    "wof:lastmodified":1449031425,
+    "wof:lastmodified":1454128004,
     "wof:name":"Sommer Robert A DDS",
     "wof:parent_id":85853877,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "oral"
     ]
 },
-  "bbox": [-73.193604,40.8545,-73.193604,40.8545],
-  "geometry": {"coordinates":[-73.193604,40.8545],"type":"Point"}
+  "bbox": [
+    -73.193604,
+    40.8545,
+    -73.193604,
+    40.8545
+],
+  "geometry": {"coordinates":[-73.19360399999999,40.8545],"type":"Point"}
 }

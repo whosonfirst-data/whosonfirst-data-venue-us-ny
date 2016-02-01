@@ -2,13 +2,14 @@
   "id": 353704679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.80806,40.700529,-73.80806,40.700529",
     "geom:latitude":40.700529,
     "geom:longitude":-73.80806,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14901 Archer Ave",
     "sg:city":"Jamaica",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85827297,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85827297
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"e9ae2ab1afc306e05ce5f89f156f64c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85827297,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":353704679,
-    "wof:lastmodified":1449018928,
+    "wof:lastmodified":1454126145,
     "wof:name":"Ebe Used Cars",
     "wof:parent_id":85827297,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-73.80806,40.700529,-73.80806,40.700529],
+  "bbox": [
+    -73.80806,
+    40.700529,
+    -73.80806,
+    40.700529
+],
   "geometry": {"coordinates":[-73.80806,40.700529],"type":"Point"}
 }

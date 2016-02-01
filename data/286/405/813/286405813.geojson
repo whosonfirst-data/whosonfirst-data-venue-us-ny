@@ -2,13 +2,14 @@
   "id": 286405813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.159722,41.99303,-74.159722,41.99303",
     "geom:latitude":41.99303,
     "geom:longitude":-74.159722,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2456 State Hwy 28",
     "sg:city":"Glenford",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420530267,
+        102191575,
+        404523247,
         85633793,
+        85978913,
+        102081775,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"b991ed6780cdf15e56f40cc3ce7f7c19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081775,
+            "localadmin_id":404523247,
+            "locality_id":85978913,
+            "neighbourhood_id":420530267,
             "region_id":85688543,
             "venue_id":286405813
         }
     ],
     "wof:id":286405813,
-    "wof:lastmodified":1449017855,
+    "wof:lastmodified":1454125871,
     "wof:name":"Abbie Rose Flwr Mkt Whlesalers",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530267,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "flower"
     ]
 },
-  "bbox": [-74.159722,41.99303,-74.159722,41.99303],
+  "bbox": [
+    -74.159722,
+    41.99303,
+    -74.159722,
+    41.99303
+],
   "geometry": {"coordinates":[-74.159722,41.99303],"type":"Point"}
 }

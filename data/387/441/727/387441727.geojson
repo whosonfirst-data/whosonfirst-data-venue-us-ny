@@ -2,13 +2,14 @@
   "id": 387441727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.164627,40.54553,-74.164627,40.54553",
     "geom:latitude":40.54553,
     "geom:longitude":-74.164627,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12 Eltingville Blvd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817977,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85817977
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"60ef5ccb59907538af328c6eb886e3ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85817977,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387441727,
-    "wof:lastmodified":1449056400,
+    "wof:lastmodified":1454129582,
     "wof:name":"Volunteer Heart Resuscitation",
     "wof:parent_id":85817977,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "ambulance"
     ]
 },
-  "bbox": [-74.164627,40.54553,-74.164627,40.54553],
+  "bbox": [
+    -74.164627,
+    40.54553,
+    -74.164627,
+    40.54553
+],
   "geometry": {"coordinates":[-74.164627,40.54553],"type":"Point"}
 }

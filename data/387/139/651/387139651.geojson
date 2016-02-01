@@ -2,13 +2,14 @@
   "id": 387139651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.990126,41.143203,-73.990126,41.143203",
     "geom:latitude":41.143203,
     "geom:longitude":-73.990126,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"176 S Main St",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.roccos.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +42,18 @@
     "wof:geomhash":"fc42456e2771643a9c75e942751cd513",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":387139651
         }
     ],
     "wof:id":387139651,
-    "wof:lastmodified":1449056467,
+    "wof:lastmodified":1454129593,
     "wof:name":"Rocco's Family Restaurant",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.990126,41.143203,-73.990126,41.143203],
+  "bbox": [
+    -73.990126,
+    41.143203,
+    -73.990126,
+    41.143203
+],
   "geometry": {"coordinates":[-73.990126,41.143203],"type":"Point"}
 }

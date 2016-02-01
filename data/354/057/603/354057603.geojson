@@ -2,13 +2,14 @@
   "id": 354057603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.802094,42.848923,-78.802094,42.848923",
     "geom:latitude":42.848923,
     "geom:longitude":-78.802094,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2394 Seneca St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528553,
+        102191575,
+        404522269,
         85633793,
-        85978023,
-        102082387
+        85979415,
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"950a55810a6030b8dc84cf4607d1df1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522269,
+            "locality_id":85979415,
+            "neighbourhood_id":420528553,
             "region_id":85688543,
             "venue_id":354057603
         }
     ],
     "wof:id":354057603,
-    "wof:lastmodified":1449066765,
+    "wof:lastmodified":1454131024,
     "wof:name":"Kelly Photographers",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528553,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.802094,42.848923,-78.802094,42.848923],
+  "bbox": [
+    -78.802094,
+    42.848923,
+    -78.802094,
+    42.848923
+],
   "geometry": {"coordinates":[-78.802094,42.848923],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353395381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.003227,41.154992,-74.003227,41.154992",
     "geom:latitude":41.154992,
     "geom:longitude":-74.003227,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 Joan Dr",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"863bec83e5f398f468f3a5419aa190fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":353395381
         }
     ],
     "wof:id":353395381,
-    "wof:lastmodified":1449020443,
+    "wof:lastmodified":1454126581,
     "wof:name":"Egenes Contracting",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.003227,41.154992,-74.003227,41.154992],
+  "bbox": [
+    -74.003227,
+    41.154992,
+    -74.003227,
+    41.154992
+],
   "geometry": {"coordinates":[-74.003227,41.154992],"type":"Point"}
 }

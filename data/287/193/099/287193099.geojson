@@ -2,13 +2,14 @@
   "id": 287193099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.848871,41.993041,-73.848871,41.993041",
     "geom:latitude":41.993041,
     "geom:longitude":-73.848871,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"364 Yantz Rd",
     "sg:city":"Red Hook",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85845347,
+        102082363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"44085efcd16e871f00130885952df34e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "neighbourhood_id":85845347,
             "region_id":85688543,
             "venue_id":287193099
         }
     ],
     "wof:id":287193099,
-    "wof:lastmodified":1449000805,
+    "wof:lastmodified":1454123785,
     "wof:name":"Moonbeams",
-    "wof:parent_id":-1,
+    "wof:parent_id":85845347,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.848871,41.993041,-73.848871,41.993041],
+  "bbox": [
+    -73.848871,
+    41.993041,
+    -73.848871,
+    41.993041
+],
   "geometry": {"coordinates":[-73.848871,41.993041],"type":"Point"}
 }

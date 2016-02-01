@@ -2,13 +2,14 @@
   "id": 370678741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.971441,40.579797,-73.971441,40.579797",
     "geom:latitude":40.579797,
     "geom:longitude":-73.971441,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"440 Neptune Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865873,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865873
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"7da59324b5f8658390567021d2b991fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865873,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370678741,
-    "wof:lastmodified":1449030723,
+    "wof:lastmodified":1454127795,
     "wof:name":"Brooklyn Custom Automotive",
     "wof:parent_id":85865873,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "upholstery"
     ]
 },
-  "bbox": [-73.971441,40.579797,-73.971441,40.579797],
+  "bbox": [
+    -73.971441,
+    40.579797,
+    -73.971441,
+    40.579797
+],
   "geometry": {"coordinates":[-73.971441,40.579797],"type":"Point"}
 }

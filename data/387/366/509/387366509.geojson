@@ -2,13 +2,14 @@
   "id": 387366509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.482487,42.479105,-76.482487,42.479105",
     "geom:latitude":42.479105,
     "geom:longitude":-76.482487,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2309 N Triphammer Rd",
     "sg:city":"Ithaca",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85833289,
+        102191575,
+        404523235,
         85633793,
         85978777,
         102082355,
-        85833289
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"f1256b1ef8488cbd83e06ae68e4a5b08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082355,
+            "localadmin_id":404523235,
             "locality_id":85978777,
             "neighbourhood_id":85833289,
             "region_id":85688543,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":387366509,
-    "wof:lastmodified":1449058884,
+    "wof:lastmodified":1454130024,
     "wof:name":"Builders Best Design Center",
     "wof:parent_id":85833289,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-76.482487,42.479105,-76.482487,42.479105],
-  "geometry": {"coordinates":[-76.482487,42.479105],"type":"Point"}
+  "bbox": [
+    -76.482487,
+    42.479105,
+    -76.482487,
+    42.479105
+],
+  "geometry": {"coordinates":[-76.48248700000001,42.479105],"type":"Point"}
 }

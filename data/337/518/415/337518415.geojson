@@ -2,13 +2,14 @@
   "id": 337518415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.888503,40.734194,-73.888503,40.734194",
     "geom:latitude":40.734194,
     "geom:longitude":-73.888503,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"37-66 74th St Ste D1",
     "sg:city":"Jackson Heights",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832845,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85832845
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"722f449fe1c604260c70205237b96b4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85832845,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":337518415,
-    "wof:lastmodified":1449027415,
+    "wof:lastmodified":1454127054,
     "wof:name":"Karma Tara",
     "wof:parent_id":85832845,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.888503,40.734194,-73.888503,40.734194],
+  "bbox": [
+    -73.888503,
+    40.734194,
+    -73.888503,
+    40.734194
+],
   "geometry": {"coordinates":[-73.888503,40.734194],"type":"Point"}
 }

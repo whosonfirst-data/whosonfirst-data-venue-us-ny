@@ -2,13 +2,14 @@
   "id": 354400431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.09059,40.830792,-73.09059,40.830792",
     "geom:latitude":40.830792,
     "geom:longitude":-73.09059,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"425 Portion Rd",
     "sg:city":"Ronkonkoma",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     "sg:website":"http://www.stopandshop.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893001,
+        102191575,
+        404521441,
         85633793,
         85979667,
         102082395,
-        85893001
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"37669a7030b9305638f112e324314687",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979667,
             "neighbourhood_id":85893001,
             "region_id":85688543,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":354400431,
-    "wof:lastmodified":1449066093,
+    "wof:lastmodified":1454130819,
     "wof:name":"Stop & Shop",
     "wof:parent_id":85893001,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "super"
     ]
 },
-  "bbox": [-73.09059,40.830792,-73.09059,40.830792],
-  "geometry": {"coordinates":[-73.09059,40.830792],"type":"Point"}
+  "bbox": [
+    -73.09059,
+    40.830792,
+    -73.09059,
+    40.830792
+],
+  "geometry": {"coordinates":[-73.09059000000001,40.830792],"type":"Point"}
 }

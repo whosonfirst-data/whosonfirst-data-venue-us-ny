@@ -2,13 +2,14 @@
   "id": 387104507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.465413,40.804615,-73.465413,40.804615",
     "geom:latitude":40.804615,
     "geom:longitude":-73.465413,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"51 Juneau Blvd",
     "sg:city":"Woodbury",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
         85979055,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"f7683136da5036f0b5fa47fe42284ad6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979055,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":387104507
         }
     ],
     "wof:id":387104507,
-    "wof:lastmodified":1449057670,
+    "wof:lastmodified":1454129806,
     "wof:name":"JP Communications Worldwide",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "relations"
     ]
 },
-  "bbox": [-73.465413,40.804615,-73.465413,40.804615],
+  "bbox": [
+    -73.465413,
+    40.804615,
+    -73.465413,
+    40.804615
+],
   "geometry": {"coordinates":[-73.465413,40.804615],"type":"Point"}
 }

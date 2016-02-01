@@ -2,13 +2,14 @@
   "id": 370990013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.684099,43.131988,-78.684099,43.131988",
     "geom:latitude":43.131988,
     "geom:longitude":-78.684099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6362 Robinson Rd",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     "sg:website":"http://www.goodyeartires.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529193,
+        102191575,
+        404522737,
         85633793,
         85979541,
-        102081767
+        102081767,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"205873de0d5085ae723f182e612aaeaa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
+            "localadmin_id":404522737,
             "locality_id":85979541,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":370990013
         }
     ],
     "wof:id":370990013,
-    "wof:lastmodified":1449031348,
+    "wof:lastmodified":1454127980,
     "wof:name":"Hillman Automotive Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +75,11 @@
         "tire"
     ]
 },
-  "bbox": [-78.684099,43.131988,-78.684099,43.131988],
+  "bbox": [
+    -78.684099,
+    43.131988,
+    -78.684099,
+    43.131988
+],
   "geometry": {"coordinates":[-78.684099,43.131988],"type":"Point"}
 }

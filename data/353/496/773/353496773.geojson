@@ -2,13 +2,14 @@
   "id": 353496773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.923667,40.730599,-73.923667,40.730599",
     "geom:latitude":40.730599,
     "geom:longitude":-73.923667,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4421 54th Dr",
     "sg:city":"Maspeth",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832845,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85832845
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"ac694ee6db0f4b3619e553db624b276f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85832845,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":353496773,
-    "wof:lastmodified":1449020434,
+    "wof:lastmodified":1454126578,
     "wof:name":"American Electrical Testing Inc",
     "wof:parent_id":85832845,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-73.923667,40.730599,-73.923667,40.730599],
-  "geometry": {"coordinates":[-73.923667,40.730599],"type":"Point"}
+  "bbox": [
+    -73.923667,
+    40.730599,
+    -73.923667,
+    40.730599
+],
+  "geometry": {"coordinates":[-73.92366699999999,40.730599],"type":"Point"}
 }

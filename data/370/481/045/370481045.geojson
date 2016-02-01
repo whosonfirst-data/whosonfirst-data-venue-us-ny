@@ -2,13 +2,14 @@
   "id": 370481045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.945828,42.78458,-73.945828,42.78458",
     "geom:latitude":42.78458,
     "geom:longitude":-73.945828,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1409 Altamont Ave",
     "sg:city":"Schenectady",
     "sg:classifiers":[
@@ -64,11 +65,13 @@
     "sg:website":"http://www.riteaid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85811681,
+        102191575,
+        404522519,
         85633793,
         85979289,
         102081765,
-        85811681
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,9 +81,10 @@
     "wof:geomhash":"59880437c5f2e80c6cd6d5c3eccc7416",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081765,
+            "localadmin_id":404522519,
             "locality_id":85979289,
             "neighbourhood_id":85811681,
             "region_id":85688543,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":370481045,
-    "wof:lastmodified":1449032040,
+    "wof:lastmodified":1454128185,
     "wof:name":"Rite Aid",
     "wof:parent_id":85811681,
     "wof:placetype":"venue",
@@ -109,6 +113,11 @@
         "greeting"
     ]
 },
-  "bbox": [-73.945828,42.78458,-73.945828,42.78458],
-  "geometry": {"coordinates":[-73.945828,42.78458],"type":"Point"}
+  "bbox": [
+    -73.945828,
+    42.78458,
+    -73.945828,
+    42.78458
+],
+  "geometry": {"coordinates":[-73.94582800000001,42.78458],"type":"Point"}
 }

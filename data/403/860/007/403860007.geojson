@@ -2,13 +2,14 @@
   "id": 403860007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.60732,43.136325,-77.60732,43.136325",
     "geom:latitude":43.136325,
     "geom:longitude":-77.60732,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1000 South Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880409,
+        102191575,
+        404521467,
         85633793,
-        85979039,
+        85977591,
         102081815,
-        85880409
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"c5abf6bb3151cea6ecb4f8cf6b30e1b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85979039,
+            "localadmin_id":404521467,
+            "locality_id":85977591,
             "neighbourhood_id":85880409,
             "region_id":85688543,
             "venue_id":403860007
         }
     ],
     "wof:id":403860007,
-    "wof:lastmodified":1449055227,
+    "wof:lastmodified":1454129408,
     "wof:name":"Highland's Center For Women",
     "wof:parent_id":85880409,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.60732,43.136325,-77.60732,43.136325],
+  "bbox": [
+    -77.60732,
+    43.136325,
+    -77.60732,
+    43.136325
+],
   "geometry": {"coordinates":[-77.60732,43.136325],"type":"Point"}
 }

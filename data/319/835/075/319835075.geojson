@@ -2,13 +2,14 @@
   "id": 319835075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.879588,40.875276,-73.879588,40.875276",
     "geom:latitude":40.875276,
     "geom:longitude":-73.879588,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3159 Bainbridge Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.nfb.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869557,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869557
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c429f5f0abf97e7f9e6f73ed76f05107",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869557,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":319835075,
-    "wof:lastmodified":1449024209,
+    "wof:lastmodified":1454126734,
     "wof:name":"North Fork Bank",
     "wof:parent_id":85869557,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "commercial"
     ]
 },
-  "bbox": [-73.879588,40.875276,-73.879588,40.875276],
+  "bbox": [
+    -73.879588,
+    40.875276,
+    -73.879588,
+    40.875276
+],
   "geometry": {"coordinates":[-73.879588,40.875276],"type":"Point"}
 }

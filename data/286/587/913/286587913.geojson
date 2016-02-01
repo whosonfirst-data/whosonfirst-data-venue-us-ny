@@ -2,13 +2,14 @@
   "id": 286587913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.920693,40.83773,-73.920693,40.83773",
     "geom:latitude":40.83773,
     "geom:longitude":-73.920693,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 W 169th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865561,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865561
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"e9766e8e3ba2846d523210fd2914f75e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865561,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":286587913,
-    "wof:lastmodified":1449016193,
+    "wof:lastmodified":1454125577,
     "wof:name":"Mega Diagnostic Center",
     "wof:parent_id":85865561,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "automotive"
     ]
 },
-  "bbox": [-73.920693,40.83773,-73.920693,40.83773],
+  "bbox": [
+    -73.920693,
+    40.83773,
+    -73.920693,
+    40.83773
+],
   "geometry": {"coordinates":[-73.920693,40.83773],"type":"Point"}
 }

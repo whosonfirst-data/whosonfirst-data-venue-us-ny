@@ -2,13 +2,14 @@
   "id": 269883325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.956911,40.954692,-72.956911,40.954692",
     "geom:latitude":40.954692,
     "geom:longitude":-72.956911,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"79 Brookhaven Dr",
     "sg:city":"Rocky Point",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979947,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"9e2199715befd5420155d0a3f9f0c396",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979947,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":269883325
         }
     ],
     "wof:id":269883325,
-    "wof:lastmodified":1449038248,
+    "wof:lastmodified":1454128736,
     "wof:name":"Bender Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-72.956911,40.954692,-72.956911,40.954692],
-  "geometry": {"coordinates":[-72.956911,40.954692],"type":"Point"}
+  "bbox": [
+    -72.956911,
+    40.954692,
+    -72.956911,
+    40.954692
+],
+  "geometry": {"coordinates":[-72.95691100000001,40.954692],"type":"Point"}
 }

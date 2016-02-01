@@ -2,13 +2,14 @@
   "id": 354290811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.245552,40.722949,-73.245552,40.722949",
     "geom:latitude":40.722949,
     "geom:longitude":-73.245552,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"138 E Main St",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530027,
+        102191575,
+        404522517,
         85633793,
         85979719,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"51fd1eef64b8da4e185237561fe801f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530027,
             "region_id":85688543,
             "venue_id":354290811
         }
     ],
     "wof:id":354290811,
-    "wof:lastmodified":1449066656,
+    "wof:lastmodified":1454130992,
     "wof:name":"US Army Recruiting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530027,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "recruiting"
     ]
 },
-  "bbox": [-73.245552,40.722949,-73.245552,40.722949],
+  "bbox": [
+    -73.245552,
+    40.722949,
+    -73.245552,
+    40.722949
+],
   "geometry": {"coordinates":[-73.245552,40.722949],"type":"Point"}
 }

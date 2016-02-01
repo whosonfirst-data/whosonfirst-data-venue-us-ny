@@ -2,13 +2,14 @@
   "id": 370382901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.999214,40.733924,-73.999214,40.733924",
     "geom:latitude":40.733924,
     "geom:longitude":-73.999214,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"406 Ave of the Americas",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529189,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"11fc0a8e68f397a25f0d854f05548aba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529189,
             "region_id":85688543,
             "venue_id":370382901
         }
     ],
     "wof:id":370382901,
-    "wof:lastmodified":1449030002,
+    "wof:lastmodified":1454127581,
     "wof:name":"406 Bakers Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529189,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.999214,40.733924,-73.999214,40.733924],
-  "geometry": {"coordinates":[-73.999214,40.733924],"type":"Point"}
+  "bbox": [
+    -73.999214,
+    40.733924,
+    -73.999214,
+    40.733924
+],
+  "geometry": {"coordinates":[-73.99921399999999,40.733924],"type":"Point"}
 }

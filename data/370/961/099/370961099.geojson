@@ -2,13 +2,14 @@
   "id": 370961099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.961998,40.688503,-73.961998,40.688503",
     "geom:latitude":40.688503,
     "geom:longitude":-73.961998,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"376 Lafayette Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865613,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865613
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"0d8513bff07d809fc1cd18ccf698db44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865613,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":370961099,
-    "wof:lastmodified":1449032401,
+    "wof:lastmodified":1454128293,
     "wof:name":"Lafayette Deli",
     "wof:parent_id":85865613,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.961998,40.688503,-73.961998,40.688503],
-  "geometry": {"coordinates":[-73.961998,40.688503],"type":"Point"}
+  "bbox": [
+    -73.961998,
+    40.688503,
+    -73.961998,
+    40.688503
+],
+  "geometry": {"coordinates":[-73.96199799999999,40.688503],"type":"Point"}
 }

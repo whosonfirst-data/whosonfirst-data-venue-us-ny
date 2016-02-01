@@ -2,13 +2,14 @@
   "id": 353540777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.907209,40.703253,-73.907209,40.703253",
     "geom:latitude":40.703253,
     "geom:longitude":-73.907209,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1824 Palmetto St",
     "sg:city":"Ridgewood",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844581,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844581
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"9802e1c42ab20ae4b1073ce41325725d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844581,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353540777,
-    "wof:lastmodified":1449019273,
+    "wof:lastmodified":1454126242,
     "wof:name":"Accurate Contracting Corp",
     "wof:parent_id":85844581,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.907209,40.703253,-73.907209,40.703253],
-  "geometry": {"coordinates":[-73.907209,40.703253],"type":"Point"}
+  "bbox": [
+    -73.907209,
+    40.703253,
+    -73.907209,
+    40.703253
+],
+  "geometry": {"coordinates":[-73.90720899999999,40.703253],"type":"Point"}
 }

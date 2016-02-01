@@ -2,13 +2,14 @@
   "id": 404135085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.20287,41.322455,-74.20287,41.322455",
     "geom:latitude":41.322455,
     "geom:longitude":-74.20287,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"61 Edward Pl",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832781,
+        102191575,
+        404522907,
         85633793,
+        85979523,
         102083061,
-        85832781
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"031f39e078f64c3be83ea294f3d08c85",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":-1,
+            "localadmin_id":404522907,
+            "locality_id":85979523,
             "neighbourhood_id":85832781,
             "region_id":85688543,
             "venue_id":404135085
         }
     ],
     "wof:id":404135085,
-    "wof:lastmodified":1449039492,
+    "wof:lastmodified":1454128878,
     "wof:name":"ENF Designs",
     "wof:parent_id":85832781,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.20287,41.322455,-74.20287,41.322455],
+  "bbox": [
+    -74.20287,
+    41.322455,
+    -74.20287,
+    41.322455
+],
   "geometry": {"coordinates":[-74.20287,41.322455],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353758831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.746257,40.992939,-73.746257,40.992939",
     "geom:latitude":40.992939,
     "geom:longitude":-73.746257,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1214 Mamaroneck Ave",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420560041,
+        102191575,
+        404523395,
         85633793,
         85978761,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"635ada305726850d287b8bba4f5ab41b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523395,
             "locality_id":85978761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420560041,
             "region_id":85688543,
             "venue_id":353758831
         }
     ],
     "wof:id":353758831,
-    "wof:lastmodified":1449019031,
+    "wof:lastmodified":1454126177,
     "wof:name":"Hammond Home Improvement",
-    "wof:parent_id":-1,
+    "wof:parent_id":420560041,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "improvement"
     ]
 },
-  "bbox": [-73.746257,40.992939,-73.746257,40.992939],
+  "bbox": [
+    -73.746257,
+    40.992939,
+    -73.746257,
+    40.992939
+],
   "geometry": {"coordinates":[-73.746257,40.992939],"type":"Point"}
 }

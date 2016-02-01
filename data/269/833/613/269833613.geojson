@@ -2,13 +2,14 @@
   "id": 269833613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.083844,40.779147,-73.083844,40.779147",
     "geom:latitude":40.779147,
     "geom:longitude":-73.083844,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1121 Lincoln Ave",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"a2e851758d3435d30f800096e8d469b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":269833613
         }
     ],
     "wof:id":269833613,
-    "wof:lastmodified":1449036443,
+    "wof:lastmodified":1454128508,
     "wof:name":"Sandor Carpentry",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "carpenter"
     ]
 },
-  "bbox": [-73.083844,40.779147,-73.083844,40.779147],
+  "bbox": [
+    -73.083844,
+    40.779147,
+    -73.083844,
+    40.779147
+],
   "geometry": {"coordinates":[-73.083844,40.779147],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336964483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.641787,40.792682,-73.641787,40.792682",
     "geom:latitude":40.792682,
     "geom:longitude":-73.641787,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"34 Roslyn Rd",
     "sg:city":"Roslyn Heights",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847583,
+        102191575,
+        404522729,
         85633793,
-        85979177,
+        85977733,
         102082371,
-        85847583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"2c0bc9bedd4b6df2cdd1fa7b6f57d1a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979177,
+            "localadmin_id":404522729,
+            "locality_id":85977733,
             "neighbourhood_id":85847583,
             "region_id":85688543,
             "venue_id":336964483
         }
     ],
     "wof:id":336964483,
-    "wof:lastmodified":1448997756,
+    "wof:lastmodified":1454122872,
     "wof:name":"Infinity Architectural Metals",
     "wof:parent_id":85847583,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.641787,40.792682,-73.641787,40.792682],
-  "geometry": {"coordinates":[-73.641787,40.792682],"type":"Point"}
+  "bbox": [
+    -73.641787,
+    40.792682,
+    -73.641787,
+    40.792682
+],
+  "geometry": {"coordinates":[-73.64178699999999,40.792682],"type":"Point"}
 }

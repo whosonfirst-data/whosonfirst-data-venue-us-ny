@@ -2,13 +2,14 @@
   "id": 320849525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.836368,40.907477,-73.836368,40.907477",
     "geom:latitude":40.907477,
     "geom:longitude":-73.836368,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"137 S 5th Ave",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"e91cff28e63a7466d284f4eb25bf429d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":320849525
         }
     ],
     "wof:id":320849525,
-    "wof:lastmodified":1449011946,
+    "wof:lastmodified":1454124874,
     "wof:name":"Fabulous Flowers",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.836368,40.907477,-73.836368,40.907477],
-  "geometry": {"coordinates":[-73.836368,40.907477],"type":"Point"}
+  "bbox": [
+    -73.836368,
+    40.907477,
+    -73.836368,
+    40.907477
+],
+  "geometry": {"coordinates":[-73.83636799999999,40.907477],"type":"Point"}
 }

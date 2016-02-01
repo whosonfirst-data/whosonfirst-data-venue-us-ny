@@ -2,13 +2,14 @@
   "id": 354091585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.04139,41.191597,-74.04139,41.191597",
     "geom:latitude":41.191597,
     "geom:longitude":-74.04139,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"126 Quaker Rd",
     "sg:city":"Pomona",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85809045,
+        102191575,
+        404523093,
         85633793,
-        85979993,
+        85978537,
         102082385,
-        85809045
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"7d935fc912e133dc1155edaf9132af6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979993,
+            "localadmin_id":404523093,
+            "locality_id":85978537,
             "neighbourhood_id":85809045,
             "region_id":85688543,
             "venue_id":354091585
         }
     ],
     "wof:id":354091585,
-    "wof:lastmodified":1449066099,
+    "wof:lastmodified":1454130823,
     "wof:name":"Bill Munch Refrigeration",
     "wof:parent_id":85809045,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-74.04139,41.191597,-74.04139,41.191597],
-  "geometry": {"coordinates":[-74.04139,41.191597],"type":"Point"}
+  "bbox": [
+    -74.04139,
+    41.191597,
+    -74.04139,
+    41.191597
+],
+  "geometry": {"coordinates":[-74.04139000000001,41.191597],"type":"Point"}
 }

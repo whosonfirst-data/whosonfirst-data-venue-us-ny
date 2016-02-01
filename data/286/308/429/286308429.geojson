@@ -2,13 +2,14 @@
   "id": 286308429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993758,40.725646,-73.993758,40.725646",
     "geom:latitude":40.725646,
     "geom:longitude":-73.993758,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Bleecker St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"www.nplc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816887,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85816887
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"826fb82d0b7d84eea3484a2fb58dfe98",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85816887,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":286308429,
-    "wof:lastmodified":1449018175,
+    "wof:lastmodified":1454125929,
     "wof:name":"National Pastoral Life Center",
     "wof:parent_id":85816887,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "enlighten"
     ]
 },
-  "bbox": [-73.993758,40.725646,-73.993758,40.725646],
+  "bbox": [
+    -73.993758,
+    40.725646,
+    -73.993758,
+    40.725646
+],
   "geometry": {"coordinates":[-73.993758,40.725646],"type":"Point"}
 }

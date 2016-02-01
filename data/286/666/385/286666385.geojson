@@ -2,13 +2,14 @@
   "id": 286666385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.831371,40.889023,-73.831371,40.889023",
     "geom:latitude":40.889023,
     "geom:longitude":-73.831371,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3813 Dyre Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865657,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865657
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"d0261bfb938759c8d77c0e1dcad83730",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865657,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":286666385,
-    "wof:lastmodified":1449016259,
+    "wof:lastmodified":1454125588,
     "wof:name":"Cash Zone Check Cashing",
     "wof:parent_id":85865657,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "check"
     ]
 },
-  "bbox": [-73.831371,40.889023,-73.831371,40.889023],
+  "bbox": [
+    -73.831371,
+    40.889023,
+    -73.831371,
+    40.889023
+],
   "geometry": {"coordinates":[-73.831371,40.889023],"type":"Point"}
 }

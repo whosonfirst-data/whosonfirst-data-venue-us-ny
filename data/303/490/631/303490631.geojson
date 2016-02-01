@@ -2,13 +2,14 @@
   "id": 303490631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.878222,41.741325,-73.878222,41.741325",
     "geom:latitude":41.741325,
     "geom:longitude":-73.878222,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"541 Salt Point Tpke",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865327,
+        102191575,
+        404522295,
         85633793,
         85979267,
         102082363,
-        85865327
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c1f4c188ed5b14df719e8e6c95969998",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
+            "localadmin_id":404522295,
             "locality_id":85979267,
             "neighbourhood_id":85865327,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303490631,
-    "wof:lastmodified":1449000319,
+    "wof:lastmodified":1454123656,
     "wof:name":"Perotta Trucking",
     "wof:parent_id":85865327,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-73.878222,41.741325,-73.878222,41.741325],
-  "geometry": {"coordinates":[-73.878222,41.741325],"type":"Point"}
+  "bbox": [
+    -73.878222,
+    41.741325,
+    -73.878222,
+    41.741325
+],
+  "geometry": {"coordinates":[-73.87822199999999,41.741325],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370957111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.695145,42.912214,-78.695145,42.912214",
     "geom:latitude":42.912214,
     "geom:longitude":-78.695145,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3293 Walden Ave",
     "sg:city":"Depew",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824085,
+        102191575,
+        404522335,
         85633793,
         85979435,
         102082387,
-        85824085
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"ccf1217acc6609e3c5e4f87f6666f6d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522335,
             "locality_id":85979435,
             "neighbourhood_id":85824085,
             "region_id":85688543,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":370957111,
-    "wof:lastmodified":1449031965,
+    "wof:lastmodified":1454128162,
     "wof:name":"Tile Shoppe",
     "wof:parent_id":85824085,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "tile-contractors"
     ]
 },
-  "bbox": [-78.695145,42.912214,-78.695145,42.912214],
+  "bbox": [
+    -78.695145,
+    42.912214,
+    -78.695145,
+    42.912214
+],
   "geometry": {"coordinates":[-78.695145,42.912214],"type":"Point"}
 }

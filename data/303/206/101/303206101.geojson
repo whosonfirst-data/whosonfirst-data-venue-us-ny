@@ -2,13 +2,14 @@
   "id": 303206101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.01019,41.485699,-74.01019,41.485699",
     "geom:latitude":41.485699,
     "geom:longitude":-74.01019,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1126 River Rd",
     "sg:city":"New Windsor",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     "sg:website":"www.usaillumination.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812353,
+        102191575,
+        404522801,
         85633793,
+        85978241,
         102083061,
-        85812353
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +52,18 @@
     "wof:geomhash":"fc4fd9888987081c3281bb33352aec99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":-1,
+            "localadmin_id":404522801,
+            "locality_id":85978241,
             "neighbourhood_id":85812353,
             "region_id":85688543,
             "venue_id":303206101
         }
     ],
     "wof:id":303206101,
-    "wof:lastmodified":1448999779,
+    "wof:lastmodified":1454123507,
     "wof:name":"U S A Illumination Inc",
     "wof:parent_id":85812353,
     "wof:placetype":"venue",
@@ -70,6 +75,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-74.01019,41.485699,-74.01019,41.485699],
-  "geometry": {"coordinates":[-74.01019,41.485699],"type":"Point"}
+  "bbox": [
+    -74.01019,
+    41.485699,
+    -74.01019,
+    41.485699
+],
+  "geometry": {"coordinates":[-74.01018999999999,41.485699],"type":"Point"}
 }

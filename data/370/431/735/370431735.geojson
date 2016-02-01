@@ -2,13 +2,14 @@
   "id": 370431735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.995394,40.809006,-72.995394,40.809006",
     "geom:latitude":40.809006,
     "geom:longitude":-72.995394,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"97 Greenport Ave",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"addf1cb4fe5c298061af30ba9baa9023",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":370431735
         }
     ],
     "wof:id":370431735,
-    "wof:lastmodified":1449029556,
+    "wof:lastmodified":1454127452,
     "wof:name":"Dees Dust Buster",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "janitor"
     ]
 },
-  "bbox": [-72.995394,40.809006,-72.995394,40.809006],
+  "bbox": [
+    -72.995394,
+    40.809006,
+    -72.995394,
+    40.809006
+],
   "geometry": {"coordinates":[-72.995394,40.809006],"type":"Point"}
 }

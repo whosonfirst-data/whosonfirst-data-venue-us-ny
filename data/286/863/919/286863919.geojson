@@ -2,13 +2,14 @@
   "id": 286863919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.825618,42.724961,-78.825618,42.724961",
     "geom:latitude":42.724961,
     "geom:longitude":-78.825618,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4255 Clark St",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847477,
+        102191575,
+        404522347,
         85633793,
+        85978013,
         102082387,
-        85847477
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"7a2c1838f9ac1d67878f5fef481a6e8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522347,
+            "locality_id":85978013,
             "neighbourhood_id":85847477,
             "region_id":85688543,
             "venue_id":286863919
         }
     ],
     "wof:id":286863919,
-    "wof:lastmodified":1449017217,
+    "wof:lastmodified":1454125755,
     "wof:name":"West Competition & Collision",
     "wof:parent_id":85847477,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "painting"
     ]
 },
-  "bbox": [-78.825618,42.724961,-78.825618,42.724961],
-  "geometry": {"coordinates":[-78.825618,42.724961],"type":"Point"}
+  "bbox": [
+    -78.825618,
+    42.724961,
+    -78.825618,
+    42.724961
+],
+  "geometry": {"coordinates":[-78.82561800000001,42.724961],"type":"Point"}
 }

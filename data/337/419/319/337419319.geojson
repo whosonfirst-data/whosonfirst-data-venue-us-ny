@@ -2,13 +2,14 @@
   "id": 337419319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.191962,40.737387,-73.191962,40.737387",
     "geom:latitude":40.737387,
     "geom:longitude":-73.191962,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"141 Carleton Ave",
     "sg:city":"East Islip",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892813,
+        102191575,
+        404522517,
         85633793,
-        85979827,
-        102082395
+        85979775,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"15607f6c8881d3f8ef5abd0d44bc4cd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979827,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979775,
+            "neighbourhood_id":85892813,
             "region_id":85688543,
             "venue_id":337419319
         }
     ],
     "wof:id":337419319,
-    "wof:lastmodified":1449027726,
+    "wof:lastmodified":1454127177,
     "wof:name":"Amvets",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892813,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "military"
     ]
 },
-  "bbox": [-73.191962,40.737387,-73.191962,40.737387],
+  "bbox": [
+    -73.191962,
+    40.737387,
+    -73.191962,
+    40.737387
+],
   "geometry": {"coordinates":[-73.191962,40.737387],"type":"Point"}
 }

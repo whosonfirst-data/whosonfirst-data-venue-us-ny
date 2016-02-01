@@ -2,13 +2,14 @@
   "id": 337363093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.824884,40.762014,-73.824884,40.762014",
     "geom:latitude":40.762014,
     "geom:longitude":-73.824884,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3820 Bowne St",
     "sg:city":"Flushing",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819703,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819703
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"503f02938d5313ba63bc8ecd037e96ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819703,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":337363093,
-    "wof:lastmodified":1449027640,
+    "wof:lastmodified":1454127143,
     "wof:name":"Premier Home Health Care Services",
     "wof:parent_id":85819703,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "assistant"
     ]
 },
-  "bbox": [-73.824884,40.762014,-73.824884,40.762014],
+  "bbox": [
+    -73.824884,
+    40.762014,
+    -73.824884,
+    40.762014
+],
   "geometry": {"coordinates":[-73.824884,40.762014],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270046403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.870004,43.116125,-78.870004,43.116125",
     "geom:latitude":43.116125,
     "geom:longitude":-78.870004,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6261 Nash Rd",
     "sg:city":"Sanborn",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85846681,
+        102081767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"baaf2058358a1f8003a247917a7d6c03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081767,
+            "neighbourhood_id":85846681,
             "region_id":85688543,
             "venue_id":270046403
         }
     ],
     "wof:id":270046403,
-    "wof:lastmodified":1449010001,
+    "wof:lastmodified":1454124566,
     "wof:name":"Clas Manufacturing Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846681,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-78.870004,43.116125,-78.870004,43.116125],
-  "geometry": {"coordinates":[-78.870004,43.116125],"type":"Point"}
+  "bbox": [
+    -78.870004,
+    43.116125,
+    -78.870004,
+    43.116125
+],
+  "geometry": {"coordinates":[-78.87000399999999,43.116125],"type":"Point"}
 }

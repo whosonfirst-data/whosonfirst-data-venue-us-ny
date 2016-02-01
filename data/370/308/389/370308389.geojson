@@ -2,13 +2,14 @@
   "id": 370308389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.792649,40.906247,-72.792649,40.906247",
     "geom:latitude":40.906247,
     "geom:longitude":-72.792649,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4062 Grumman Blvd",
     "sg:city":"Calverton",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530021,
+        102191575,
+        404521441,
         85633793,
-        85979845,
-        102082395
+        85979761,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"2495bdaa4b9d08a9ee2879dcb6683fd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979845,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979761,
+            "neighbourhood_id":420530021,
             "region_id":85688543,
             "venue_id":370308389
         }
     ],
     "wof:id":370308389,
-    "wof:lastmodified":1449032574,
+    "wof:lastmodified":1454128343,
     "wof:name":"Resun Leasing Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530021,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-72.792649,40.906247,-72.792649,40.906247],
+  "bbox": [
+    -72.792649,
+    40.906247,
+    -72.792649,
+    40.906247
+],
   "geometry": {"coordinates":[-72.792649,40.906247],"type":"Point"}
 }

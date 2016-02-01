@@ -2,13 +2,14 @@
   "id": 387129765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.976601,40.759378,-73.976601,40.759378",
     "geom:latitude":40.759378,
     "geom:longitude":-73.976601,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"650 5th Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869487,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85869487
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"be52ac35d0ce4f2a18cfb972f3aa3038",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869487,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387129765,
-    "wof:lastmodified":1449059183,
+    "wof:lastmodified":1454130077,
     "wof:name":"IBM",
     "wof:parent_id":85869487,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-73.976601,40.759378,-73.976601,40.759378],
+  "bbox": [
+    -73.976601,
+    40.759378,
+    -73.976601,
+    40.759378
+],
   "geometry": {"coordinates":[-73.976601,40.759378],"type":"Point"}
 }

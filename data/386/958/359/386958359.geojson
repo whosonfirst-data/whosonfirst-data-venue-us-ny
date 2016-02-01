@@ -2,13 +2,14 @@
   "id": 386958359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.628479,40.863865,-73.628479,40.863865",
     "geom:latitude":40.863865,
     "geom:longitude":-73.628479,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"57 Glen St",
     "sg:city":"Glen Cove",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85977671,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"79d2c160e7d5fd32923ea8ed6778ceeb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977671,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":386958359
         }
     ],
     "wof:id":386958359,
-    "wof:lastmodified":1449028877,
+    "wof:lastmodified":1454127257,
     "wof:name":"Wildfire Sales Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "relations"
     ]
 },
-  "bbox": [-73.628479,40.863865,-73.628479,40.863865],
+  "bbox": [
+    -73.628479,
+    40.863865,
+    -73.628479,
+    40.863865
+],
   "geometry": {"coordinates":[-73.628479,40.863865],"type":"Point"}
 }

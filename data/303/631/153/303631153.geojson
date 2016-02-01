@@ -2,13 +2,14 @@
   "id": 303631153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.918086,42.591504,-73.918086,42.591504",
     "geom:latitude":42.591504,
     "geom:longitude":-73.918086,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"113 Spore Rd",
     "sg:city":"Delmar",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85836733,
+        102082353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"13eb0469a35992b5a722508bee558d4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082353,
+            "neighbourhood_id":85836733,
             "region_id":85688543,
             "venue_id":303631153
         }
     ],
     "wof:id":303631153,
-    "wof:lastmodified":1448998873,
+    "wof:lastmodified":1454123254,
     "wof:name":"Empire Tree Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":85836733,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "good"
     ]
 },
-  "bbox": [-73.918086,42.591504,-73.918086,42.591504],
+  "bbox": [
+    -73.918086,
+    42.591504,
+    -73.918086,
+    42.591504
+],
   "geometry": {"coordinates":[-73.918086,42.591504],"type":"Point"}
 }

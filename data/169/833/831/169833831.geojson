@@ -2,13 +2,14 @@
   "id": 169833831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.960768,40.711335,-73.960768,40.711335",
     "geom:latitude":40.711335,
     "geom:longitude":-73.960768,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"177 S 4th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"drambar.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865603,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865603
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"edc24ad07a06ea2a44a174a7fd33a0c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865603,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":169833831,
-    "wof:lastmodified":1449033106,
+    "wof:lastmodified":1454128364,
     "wof:name":"Dram",
     "wof:parent_id":85865603,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.960768,40.711335,-73.960768,40.711335],
+  "bbox": [
+    -73.960768,
+    40.711335,
+    -73.960768,
+    40.711335
+],
   "geometry": {"coordinates":[-73.960768,40.711335],"type":"Point"}
 }

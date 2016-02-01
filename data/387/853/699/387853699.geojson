@@ -2,13 +2,14 @@
   "id": 387853699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.503472,42.480276,-76.503472,42.480276",
     "geom:latitude":42.480276,
     "geom:longitude":-76.503472,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Cedar Ln",
     "sg:city":"Ithaca",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85833289,
+        102191575,
+        404523235,
         85633793,
         85978777,
         102082355,
-        85833289
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"fadc1dfad257eceaa55010537202c339",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082355,
+            "localadmin_id":404523235,
             "locality_id":85978777,
             "neighbourhood_id":85833289,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387853699,
-    "wof:lastmodified":1449057641,
+    "wof:lastmodified":1454129801,
     "wof:name":"Campus Store",
     "wof:parent_id":85833289,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-76.503472,42.480276,-76.503472,42.480276],
+  "bbox": [
+    -76.503472,
+    42.480276,
+    -76.503472,
+    42.480276
+],
   "geometry": {"coordinates":[-76.503472,42.480276],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269517239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.292666,43.04333,-74.292666,43.04333",
     "geom:latitude":43.04333,
     "geom:longitude":-74.292666,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"395 Progress Rd",
     "sg:city":"Gloversville",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85805859,
+        102081813
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"ee162d42dc207e05345589fd931f27fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081813,
+            "neighbourhood_id":85805859,
             "region_id":85688543,
             "venue_id":269517239
         }
     ],
     "wof:id":269517239,
-    "wof:lastmodified":1449037499,
+    "wof:lastmodified":1454128664,
     "wof:name":"Joe Adamkoski Contracting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85805859,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.292666,43.04333,-74.292666,43.04333],
+  "bbox": [
+    -74.292666,
+    43.04333,
+    -74.292666,
+    43.04333
+],
   "geometry": {"coordinates":[-74.292666,43.04333],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320513311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.950974,40.663905,-73.950974,40.663905",
     "geom:latitude":40.663905,
     "geom:longitude":-73.950974,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"387 Empire Blvd",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892955,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"e46a03c1c26894291227ceea824c8c3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892955,
             "region_id":85688543,
             "venue_id":320513311
         }
     ],
     "wof:id":320513311,
-    "wof:lastmodified":1449013742,
+    "wof:lastmodified":1454125165,
     "wof:name":"AB Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892955,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "car"
     ]
 },
-  "bbox": [-73.950974,40.663905,-73.950974,40.663905],
+  "bbox": [
+    -73.950974,
+    40.663905,
+    -73.950974,
+    40.663905
+],
   "geometry": {"coordinates":[-73.950974,40.663905],"type":"Point"}
 }

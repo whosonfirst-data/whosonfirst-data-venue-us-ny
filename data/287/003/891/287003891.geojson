@@ -2,13 +2,14 @@
   "id": 287003891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.526958,40.691432,-73.526958,40.691432",
     "geom:latitude":40.691432,
     "geom:longitude":-73.526958,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1297 Peapond Rd",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893061,
+        102191575,
+        404521473,
         85633793,
-        85979065,
+        85979059,
         102082371,
-        85893061
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"f62ac0c5eaa3dbae2e9e588fa78abca4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979065,
+            "localadmin_id":404521473,
+            "locality_id":85979059,
             "neighbourhood_id":85893061,
             "region_id":85688543,
             "venue_id":287003891
         }
     ],
     "wof:id":287003891,
-    "wof:lastmodified":1449001514,
+    "wof:lastmodified":1454123953,
     "wof:name":"Fucci Construction",
     "wof:parent_id":85893061,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-73.526958,40.691432,-73.526958,40.691432],
-  "geometry": {"coordinates":[-73.526958,40.691432],"type":"Point"}
+  "bbox": [
+    -73.526958,
+    40.691432,
+    -73.526958,
+    40.691432
+],
+  "geometry": {"coordinates":[-73.52695799999999,40.691432],"type":"Point"}
 }

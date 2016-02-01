@@ -2,13 +2,14 @@
   "id": 353949505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.651796,40.627381,-73.651796,40.627381",
     "geom:latitude":40.627381,
     "geom:longitude":-73.651796,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3401 Lawson Blvd",
     "sg:city":"Oceanside",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.shinecorp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865343,
+        102191575,
+        404521473,
         85633793,
         85979143,
         102082371,
-        85865343
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"32bc80df2e1e59f77d594eb68d1192fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979143,
             "neighbourhood_id":85865343,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":353949505,
-    "wof:lastmodified":1449019854,
+    "wof:lastmodified":1454126413,
     "wof:name":"Shine Corp",
     "wof:parent_id":85865343,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.651796,40.627381,-73.651796,40.627381],
+  "bbox": [
+    -73.651796,
+    40.627381,
+    -73.651796,
+    40.627381
+],
   "geometry": {"coordinates":[-73.651796,40.627381],"type":"Point"}
 }

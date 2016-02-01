@@ -2,13 +2,14 @@
   "id": 320640859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.809863,40.988273,-73.809863,40.988273",
     "geom:latitude":40.988273,
     "geom:longitude":-73.809863,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Garth Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.7-eleven.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893013,
+        102191575,
+        404523391,
         85633793,
         85978767,
         102082373,
-        85893013
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"007a36c3a66e9e6eae0669756d19f0c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523391,
             "locality_id":85978767,
             "neighbourhood_id":85893013,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":320640859,
-    "wof:lastmodified":1449012874,
+    "wof:lastmodified":1454125025,
     "wof:name":"7-Eleven",
     "wof:parent_id":85893013,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.809863,40.988273,-73.809863,40.988273],
-  "geometry": {"coordinates":[-73.809863,40.988273],"type":"Point"}
+  "bbox": [
+    -73.809863,
+    40.988273,
+    -73.809863,
+    40.988273
+],
+  "geometry": {"coordinates":[-73.80986300000001,40.988273],"type":"Point"}
 }

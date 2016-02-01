@@ -2,13 +2,14 @@
   "id": 370663043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.908574,41.695352,-73.908574,41.695352",
     "geom:latitude":41.695352,
     "geom:longitude":-73.908574,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"408 Baker St",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892989,
+        102191575,
+        404522305,
         85633793,
+        85977835,
         102082363,
-        85892989
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"3212e6b512a37b825d642ef8c18d06be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
-            "locality_id":-1,
+            "localadmin_id":404522305,
+            "locality_id":85977835,
             "neighbourhood_id":85892989,
             "region_id":85688543,
             "venue_id":370663043
         }
     ],
     "wof:id":370663043,
-    "wof:lastmodified":1449031587,
+    "wof:lastmodified":1454128049,
     "wof:name":"Dale Jamaican Rum Cake",
     "wof:parent_id":85892989,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "wedding"
     ]
 },
-  "bbox": [-73.908574,41.695352,-73.908574,41.695352],
+  "bbox": [
+    -73.908574,
+    41.695352,
+    -73.908574,
+    41.695352
+],
   "geometry": {"coordinates":[-73.908574,41.695352],"type":"Point"}
 }

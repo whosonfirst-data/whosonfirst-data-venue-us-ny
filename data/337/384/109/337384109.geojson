@@ -2,13 +2,14 @@
   "id": 337384109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.821999,40.757301,-73.821999,40.757301",
     "geom:latitude":40.757301,
     "geom:longitude":-73.821999,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4189 Bowne St",
     "sg:city":"Flushing",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819703,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819703
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"d854175c8a81b8a7aed8cec0a4b094eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819703,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":337384109,
-    "wof:lastmodified":1449027036,
+    "wof:lastmodified":1454126905,
     "wof:name":"Bowne Wine & Liquor Store Inc",
     "wof:parent_id":85819703,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "wine"
     ]
 },
-  "bbox": [-73.821999,40.757301,-73.821999,40.757301],
-  "geometry": {"coordinates":[-73.821999,40.757301],"type":"Point"}
+  "bbox": [
+    -73.821999,
+    40.757301,
+    -73.821999,
+    40.757301
+],
+  "geometry": {"coordinates":[-73.82199900000001,40.757301],"type":"Point"}
 }

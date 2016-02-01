@@ -2,13 +2,14 @@
   "id": 354242131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.900435,42.095481,-76.900435,42.095481",
     "geom:latitude":42.095481,
     "geom:longitude":-76.900435,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2330 State Hwy 352",
     "sg:city":"Elmira",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85824087,
+        102081819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"9441ab57fb36ea22b61b1c12ae16087d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081819,
+            "neighbourhood_id":85824087,
             "region_id":85688543,
             "venue_id":354242131
         }
     ],
     "wof:id":354242131,
-    "wof:lastmodified":1449067469,
+    "wof:lastmodified":1454131244,
     "wof:name":"Atlantic Testing Laboratories",
-    "wof:parent_id":-1,
+    "wof:parent_id":85824087,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-76.900435,42.095481,-76.900435,42.095481],
+  "bbox": [
+    -76.900435,
+    42.095481,
+    -76.900435,
+    42.095481
+],
   "geometry": {"coordinates":[-76.900435,42.095481],"type":"Point"}
 }

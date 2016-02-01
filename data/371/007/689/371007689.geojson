@@ -2,13 +2,14 @@
   "id": 371007689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.196968,40.834788,-73.196968,40.834788",
     "geom:latitude":40.834788,
     "geom:longitude":-73.196968,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 Wood Ln",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530053,
+        102191575,
+        404522517,
         85633793,
-        85979919,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"67ce4a8f73a838f2ae6e1795a4f4786e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530053,
             "region_id":85688543,
             "venue_id":371007689
         }
     ],
     "wof:id":371007689,
-    "wof:lastmodified":1449049933,
+    "wof:lastmodified":1454129247,
     "wof:name":"Recovery Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "family"
     ]
 },
-  "bbox": [-73.196968,40.834788,-73.196968,40.834788],
+  "bbox": [
+    -73.196968,
+    40.834788,
+    -73.196968,
+    40.834788
+],
   "geometry": {"coordinates":[-73.196968,40.834788],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286262917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.633305,40.682666,-73.633305,40.682666",
     "geom:latitude":40.682666,
     "geom:longitude":-73.633305,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Wright Rd",
     "sg:city":"Rockville Centre",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892743,
+        102191575,
+        404521473,
         85633793,
-        85979175,
+        85977663,
         102082371,
-        85892743
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"da07756d8b11a2f0f3b0b1cdbcea48ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979175,
+            "localadmin_id":404521473,
+            "locality_id":85977663,
             "neighbourhood_id":85892743,
             "region_id":85688543,
             "venue_id":286262917
         }
     ],
     "wof:id":286262917,
-    "wof:lastmodified":1449017023,
+    "wof:lastmodified":1454125723,
     "wof:name":"Kalkin Enterprises Inc",
     "wof:parent_id":85892743,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.633305,40.682666,-73.633305,40.682666],
-  "geometry": {"coordinates":[-73.633305,40.682666],"type":"Point"}
+  "bbox": [
+    -73.633305,
+    40.682666,
+    -73.633305,
+    40.682666
+],
+  "geometry": {"coordinates":[-73.63330499999999,40.682666],"type":"Point"}
 }

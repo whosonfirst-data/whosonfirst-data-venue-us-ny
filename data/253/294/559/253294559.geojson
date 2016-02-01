@@ -2,13 +2,14 @@
   "id": 253294559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.460463,40.790522,-73.460463,40.790522",
     "geom:latitude":40.790522,
     "geom:longitude":-73.460463,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"130 Express St",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"19926d270451af90efb382845d20cb66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":253294559
         }
     ],
     "wof:id":253294559,
-    "wof:lastmodified":1449064941,
+    "wof:lastmodified":1454130602,
     "wof:name":"Die-Matic Products Inc",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "fabricating"
     ]
 },
-  "bbox": [-73.460463,40.790522,-73.460463,40.790522],
+  "bbox": [
+    -73.460463,
+    40.790522,
+    -73.460463,
+    40.790522
+],
   "geometry": {"coordinates":[-73.460463,40.790522],"type":"Point"}
 }

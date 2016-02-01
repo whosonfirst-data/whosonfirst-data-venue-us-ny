@@ -2,13 +2,14 @@
   "id": 320772311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.98977,41.145026,-73.98977,41.145026",
     "geom:latitude":41.145026,
     "geom:longitude":-73.98977,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 S Main St",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.powerscourttennis.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"b2d4d34304d1323839215ba953d1b03e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":320772311
         }
     ],
     "wof:id":320772311,
-    "wof:lastmodified":1449012928,
+    "wof:lastmodified":1454125032,
     "wof:name":"Powers Court",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.98977,41.145026,-73.98977,41.145026],
-  "geometry": {"coordinates":[-73.98977,41.145026],"type":"Point"}
+  "bbox": [
+    -73.98977,
+    41.145026,
+    -73.98977,
+    41.145026
+],
+  "geometry": {"coordinates":[-73.98976999999999,41.145026],"type":"Point"}
 }

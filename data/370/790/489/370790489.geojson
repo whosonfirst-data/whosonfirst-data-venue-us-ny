@@ -2,13 +2,14 @@
   "id": 370790489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.148549,43.021107,-76.148549,43.021107",
     "geom:latitude":43.021107,
     "geom:longitude":-76.148549,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"143 Forest Ave",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     "sg:website":"http://www.aplacecalledhome.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881239,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881239
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"3d349f6d38b128321ebee821b7fad03d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881239,
             "region_id":85688543,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":370790489,
-    "wof:lastmodified":1449031694,
+    "wof:lastmodified":1454128079,
     "wof:name":"A Place Called Home",
     "wof:parent_id":85881239,
     "wof:placetype":"venue",
@@ -79,6 +83,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-76.148549,43.021107,-76.148549,43.021107],
+  "bbox": [
+    -76.148549,
+    43.021107,
+    -76.148549,
+    43.021107
+],
   "geometry": {"coordinates":[-76.148549,43.021107],"type":"Point"}
 }

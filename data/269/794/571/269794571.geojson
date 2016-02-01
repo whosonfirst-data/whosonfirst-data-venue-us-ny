@@ -2,13 +2,14 @@
   "id": 269794571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.609006,43.249255,-77.609006,43.249255",
     "geom:latitude":43.249255,
     "geom:longitude":-77.609006,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Joy Ln N",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851377,
+        102191575,
+        404522639,
         85633793,
+        85979035,
         102081815,
-        85851377
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"0e995f180f3215e13ee6917cb0fd5fb3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":-1,
+            "localadmin_id":404522639,
+            "locality_id":85979035,
             "neighbourhood_id":85851377,
             "region_id":85688543,
             "venue_id":269794571
         }
     ],
     "wof:id":269794571,
-    "wof:lastmodified":1449037295,
+    "wof:lastmodified":1454128634,
     "wof:name":"Navy Point Marine",
     "wof:parent_id":85851377,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "sales"
     ]
 },
-  "bbox": [-77.609006,43.249255,-77.609006,43.249255],
-  "geometry": {"coordinates":[-77.609006,43.249255],"type":"Point"}
+  "bbox": [
+    -77.609006,
+    43.249255,
+    -77.609006,
+    43.249255
+],
+  "geometry": {"coordinates":[-77.60900599999999,43.249255],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269706571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.738092,40.808845,-72.738092,40.808845",
     "geom:latitude":40.808845,
     "geom:longitude":-72.738092,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12 Beverly Ln",
     "sg:city":"East Moriches",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"4d7de9a691256ff43961a2badf7020ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":269706571
         }
     ],
     "wof:id":269706571,
-    "wof:lastmodified":1449036320,
+    "wof:lastmodified":1454128487,
     "wof:name":"Walkers Seamless Gutters",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-72.738092,40.808845,-72.738092,40.808845],
-  "geometry": {"coordinates":[-72.738092,40.808845],"type":"Point"}
+  "bbox": [
+    -72.738092,
+    40.808845,
+    -72.738092,
+    40.808845
+],
+  "geometry": {"coordinates":[-72.73809199999999,40.808845],"type":"Point"}
 }

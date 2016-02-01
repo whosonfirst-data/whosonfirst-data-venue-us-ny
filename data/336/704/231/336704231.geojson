@@ -2,13 +2,14 @@
   "id": 336704231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.813208,40.957585,-73.813208,40.957585",
     "geom:latitude":40.957585,
     "geom:longitude":-73.813208,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9 Sunnyside Ter",
     "sg:city":"Eastchester",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530381,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"5209c0203f97c705cb0319eba16479aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530381,
             "region_id":85688543,
             "venue_id":336704231
         }
     ],
     "wof:id":336704231,
-    "wof:lastmodified":1448997228,
+    "wof:lastmodified":1454122487,
     "wof:name":"Hamilton Cleaners",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530381,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-73.813208,40.957585,-73.813208,40.957585],
+  "bbox": [
+    -73.813208,
+    40.957585,
+    -73.813208,
+    40.957585
+],
   "geometry": {"coordinates":[-73.813208,40.957585],"type":"Point"}
 }

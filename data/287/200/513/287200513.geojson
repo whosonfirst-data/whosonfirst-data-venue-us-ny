@@ -2,13 +2,14 @@
   "id": 287200513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.609255,40.669067,-73.609255,40.669067",
     "geom:latitude":40.669067,
     "geom:longitude":-73.609255,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1771 Grand Ave",
     "sg:city":"North Baldwin",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.radioshack.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529133,
+        102191575,
+        404521473,
         85633793,
         85979173,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"a1ea6eb9262e6c5c5689ae3c4119870c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979173,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529133,
             "region_id":85688543,
             "venue_id":287200513
         }
     ],
     "wof:id":287200513,
-    "wof:lastmodified":1449001025,
+    "wof:lastmodified":1454123835,
     "wof:name":"Radio Shack",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529133,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.609255,40.669067,-73.609255,40.669067],
+  "bbox": [
+    -73.609255,
+    40.669067,
+    -73.609255,
+    40.669067
+],
   "geometry": {"coordinates":[-73.609255,40.669067],"type":"Point"}
 }

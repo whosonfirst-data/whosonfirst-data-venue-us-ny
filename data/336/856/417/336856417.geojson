@@ -2,13 +2,14 @@
   "id": 336856417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.115771,43.125187,-76.115771,43.125187",
     "geom:latitude":43.125187,
     "geom:longitude":-76.115771,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5909 E Taft Rd",
     "sg:city":"North Syracuse",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85842079,
+        102082351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"501eb3031462ca57ce063ef889a528ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "neighbourhood_id":85842079,
             "region_id":85688543,
             "venue_id":336856417
         }
     ],
     "wof:id":336856417,
-    "wof:lastmodified":1448997257,
+    "wof:lastmodified":1454122517,
     "wof:name":"Innovation Music Instruction",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842079,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "music"
     ]
 },
-  "bbox": [-76.115771,43.125187,-76.115771,43.125187],
+  "bbox": [
+    -76.115771,
+    43.125187,
+    -76.115771,
+    43.125187
+],
   "geometry": {"coordinates":[-76.115771,43.125187],"type":"Point"}
 }

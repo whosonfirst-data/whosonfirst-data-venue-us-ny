@@ -2,13 +2,14 @@
   "id": 286907061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.24517,40.723437,-73.24517,40.723437",
     "geom:latitude":40.723437,
     "geom:longitude":-73.24517,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"93 E Main St",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530027,
+        102191575,
+        404522517,
         85633793,
         85979719,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"b0f6b503f06d1308422d58dbca1243e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530027,
             "region_id":85688543,
             "venue_id":286907061
         }
     ],
     "wof:id":286907061,
-    "wof:lastmodified":1449017867,
+    "wof:lastmodified":1454125875,
     "wof:name":"Rainmaker Solutons Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530027,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "design"
     ]
 },
-  "bbox": [-73.24517,40.723437,-73.24517,40.723437],
+  "bbox": [
+    -73.24517,
+    40.723437,
+    -73.24517,
+    40.723437
+],
   "geometry": {"coordinates":[-73.24517,40.723437],"type":"Point"}
 }

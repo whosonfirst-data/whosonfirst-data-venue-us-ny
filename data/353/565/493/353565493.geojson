@@ -2,13 +2,14 @@
   "id": 353565493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.7662,40.657784,-73.7662,40.657784",
     "geom:latitude":40.657784,
     "geom:longitude":-73.7662,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14922 182nd Street",
     "sg:city":"Springfield Gardens",
     "sg:classifiers":[
@@ -27,10 +28,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
+        102082361,
+        85688543,
         85865647
     ],
     "wof:breaches":[],
@@ -41,9 +46,22 @@
     "wof:geomhash":"0da4d3ebb4e7780d73fe50df03b98808",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":85823673,
+            "region_id":85688543,
+            "venue_id":353565493
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865647,
             "region_id":85688543,
@@ -51,9 +69,9 @@
         }
     ],
     "wof:id":353565493,
-    "wof:lastmodified":1449020579,
+    "wof:lastmodified":1454126619,
     "wof:name":"Dobbs Airline Catering",
-    "wof:parent_id":85865647,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +79,11 @@
         "caterer"
     ]
 },
-  "bbox": [-73.7662,40.657784,-73.7662,40.657784],
+  "bbox": [
+    -73.7662,
+    40.657784,
+    -73.7662,
+    40.657784
+],
   "geometry": {"coordinates":[-73.7662,40.657784],"type":"Point"}
 }

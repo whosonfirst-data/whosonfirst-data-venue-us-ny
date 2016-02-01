@@ -2,13 +2,14 @@
   "id": 337484159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.874333,40.758419,-73.874333,40.758419",
     "geom:latitude":40.758419,
     "geom:longitude":-73.874333,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3211 Junction Boulevard",
     "sg:city":"East Elmhurst",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.waltersmirror.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869091,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869091
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"bc0c415662e44c2b7264533c590e9f81",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869091,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":337484159,
-    "wof:lastmodified":1449027691,
+    "wof:lastmodified":1454127164,
     "wof:name":"Walter's Mirror",
     "wof:parent_id":85869091,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.874333,40.758419,-73.874333,40.758419],
-  "geometry": {"coordinates":[-73.874333,40.758419],"type":"Point"}
+  "bbox": [
+    -73.874333,
+    40.758419,
+    -73.874333,
+    40.758419
+],
+  "geometry": {"coordinates":[-73.87433299999999,40.758419],"type":"Point"}
 }

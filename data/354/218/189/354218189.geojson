@@ -2,13 +2,14 @@
   "id": 354218189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.058701,40.8148,-73.058701,40.8148",
     "geom:latitude":40.8148,
     "geom:longitude":-73.058701,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"178 Morris Ave",
     "sg:city":"Holtsville",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"38f9d0ff836d33da5877741721b97e18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":354218189
         }
     ],
     "wof:id":354218189,
-    "wof:lastmodified":1449067048,
+    "wof:lastmodified":1454131113,
     "wof:name":"Kallmeyer & Son Truck Tire Svce",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "tire"
     ]
 },
-  "bbox": [-73.058701,40.8148,-73.058701,40.8148],
+  "bbox": [
+    -73.058701,
+    40.8148,
+    -73.058701,
+    40.8148
+],
   "geometry": {"coordinates":[-73.058701,40.8148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253110273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.915535,40.881784,-72.915535,40.881784",
     "geom:latitude":40.881784,
     "geom:longitude":-72.915535,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"28 Rolling Hills Dr",
     "sg:city":"Ridge",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979861,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"91be4f69772dcc508614bda743116bbd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979861,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":253110273
         }
     ],
     "wof:id":253110273,
-    "wof:lastmodified":1449063797,
+    "wof:lastmodified":1454130408,
     "wof:name":"Tar Trek Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-72.915535,40.881784,-72.915535,40.881784],
-  "geometry": {"coordinates":[-72.915535,40.881784],"type":"Point"}
+  "bbox": [
+    -72.915535,
+    40.881784,
+    -72.915535,
+    40.881784
+],
+  "geometry": {"coordinates":[-72.91553500000001,40.881784],"type":"Point"}
 }

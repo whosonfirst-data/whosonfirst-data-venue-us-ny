@@ -2,13 +2,14 @@
   "id": 370247317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.507595,40.695035,-73.507595,40.695035",
     "geom:latitude":40.695035,
     "geom:longitude":-73.507595,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1138 Wantagh Ave",
     "sg:city":"Wantagh",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529135,
+        102191575,
+        404521473,
         85633793,
         85979195,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"a5c03c65971386381e579b2ac5c9130a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979195,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529135,
             "region_id":85688543,
             "venue_id":370247317
         }
     ],
     "wof:id":370247317,
-    "wof:lastmodified":1449031060,
+    "wof:lastmodified":1454127895,
     "wof:name":"Coach's Corner Pro",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529135,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.507595,40.695035,-73.507595,40.695035],
-  "geometry": {"coordinates":[-73.507595,40.695035],"type":"Point"}
+  "bbox": [
+    -73.507595,
+    40.695035,
+    -73.507595,
+    40.695035
+],
+  "geometry": {"coordinates":[-73.50759499999999,40.695035],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269519777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.84929,40.579808,-73.84929,40.579808",
     "geom:latitude":40.579808,
     "geom:longitude":-73.84929,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"409 Beach 128th St",
     "sg:city":"Far Rockaway",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805441,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85805441
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a3ae2a3f5da3ded3c4b2ffe0213f3cea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85805441,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":269519777,
-    "wof:lastmodified":1449038812,
+    "wof:lastmodified":1454128790,
     "wof:name":"United Respiratory Care",
     "wof:parent_id":85805441,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "appliance"
     ]
 },
-  "bbox": [-73.84929,40.579808,-73.84929,40.579808],
+  "bbox": [
+    -73.84929,
+    40.579808,
+    -73.84929,
+    40.579808
+],
   "geometry": {"coordinates":[-73.84929,40.579808],"type":"Point"}
 }

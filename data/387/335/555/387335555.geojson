@@ -2,13 +2,14 @@
   "id": 387335555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.990607,40.71442,-73.990607,40.71442",
     "geom:latitude":40.71442,
     "geom:longitude":-73.990607,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"28 Canal St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810885,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810885
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"1fefd8bb0ec477ea6c1bb0a4e2e3bc1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810885,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387335555,
-    "wof:lastmodified":1449058621,
+    "wof:lastmodified":1454129983,
     "wof:name":"Prism Electronics Inc",
     "wof:parent_id":85810885,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "appliance"
     ]
 },
-  "bbox": [-73.990607,40.71442,-73.990607,40.71442],
+  "bbox": [
+    -73.990607,
+    40.71442,
+    -73.990607,
+    40.71442
+],
   "geometry": {"coordinates":[-73.990607,40.71442],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303194815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.87936,40.909401,-73.87936,40.909401",
     "geom:latitude":40.909401,
     "geom:longitude":-73.87936,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"640 McLean Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85830571,
+        102191575,
+        404523397,
         85633793,
-        85977539,
-        102083063,
-        85830571
+        85978759,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"1da19d4a67d8a15afe84f4c692efdaf9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
-            "locality_id":85977539,
+            "county_id":102082373,
+            "localadmin_id":404523397,
+            "locality_id":85978759,
             "neighbourhood_id":85830571,
             "region_id":85688543,
             "venue_id":303194815
         }
     ],
     "wof:id":303194815,
-    "wof:lastmodified":1449000207,
+    "wof:lastmodified":1454123625,
     "wof:name":"J J Mannion's",
     "wof:parent_id":85830571,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "bar"
     ]
 },
-  "bbox": [-73.87936,40.909401,-73.87936,40.909401],
-  "geometry": {"coordinates":[-73.87936,40.909401],"type":"Point"}
+  "bbox": [
+    -73.87936,
+    40.909401,
+    -73.87936,
+    40.909401
+],
+  "geometry": {"coordinates":[-73.87936000000001,40.909401],"type":"Point"}
 }

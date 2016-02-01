@@ -2,13 +2,14 @@
   "id": 320678681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.854814,40.803592,-72.854814,40.803592",
     "geom:latitude":40.803592,
     "geom:longitude":-72.854814,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1175 Montauk Hwy",
     "sg:city":"Mastic",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892903,
+        102191575,
+        404521441,
         85633793,
+        85978437,
         102082395,
-        85892903
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"9768ff64293ba3dcaa3152ebaeff0b40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85978437,
             "neighbourhood_id":85892903,
             "region_id":85688543,
             "venue_id":320678681
         }
     ],
     "wof:id":320678681,
-    "wof:lastmodified":1449013062,
+    "wof:lastmodified":1454125056,
     "wof:name":"U-Haul",
     "wof:parent_id":85892903,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "truck"
     ]
 },
-  "bbox": [-72.854814,40.803592,-72.854814,40.803592],
+  "bbox": [
+    -72.854814,
+    40.803592,
+    -72.854814,
+    40.803592
+],
   "geometry": {"coordinates":[-72.854814,40.803592],"type":"Point"}
 }

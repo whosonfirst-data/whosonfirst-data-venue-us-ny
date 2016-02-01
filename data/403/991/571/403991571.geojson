@@ -2,13 +2,14 @@
   "id": 403991571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.057811,42.094875,-76.057811,42.094875",
     "geom:latitude":42.094875,
     "geom:longitude":-76.057811,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"428 E Main St",
     "sg:city":"Endicott",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528073,
+        102191575,
+        404521829,
         85633793,
         85977985,
-        102081755
+        102081755,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"a2508afcb8c1f018ee00f0a28875c292",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
+            "localadmin_id":404521829,
             "locality_id":85977985,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528073,
             "region_id":85688543,
             "venue_id":403991571
         }
     ],
     "wof:id":403991571,
-    "wof:lastmodified":1449055050,
+    "wof:lastmodified":1454129383,
     "wof:name":"Maaco Auto Painting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528073,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "shop"
     ]
 },
-  "bbox": [-76.057811,42.094875,-76.057811,42.094875],
+  "bbox": [
+    -76.057811,
+    42.094875,
+    -76.057811,
+    42.094875
+],
   "geometry": {"coordinates":[-76.057811,42.094875],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252790573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.791762,40.81791,-72.791762,40.81791",
     "geom:latitude":40.81791,
     "geom:longitude":-72.791762,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"336 Railroad Ave",
     "sg:city":"Center Moriches",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"256c4cdc84ff9241cda39fa47363cd6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":252790573
         }
     ],
     "wof:id":252790573,
-    "wof:lastmodified":1449006255,
+    "wof:lastmodified":1454124100,
     "wof:name":"J M Masonry",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-72.791762,40.81791,-72.791762,40.81791],
-  "geometry": {"coordinates":[-72.791762,40.81791],"type":"Point"}
+  "bbox": [
+    -72.791762,
+    40.81791,
+    -72.791762,
+    40.81791
+],
+  "geometry": {"coordinates":[-72.79176200000001,40.81791],"type":"Point"}
 }

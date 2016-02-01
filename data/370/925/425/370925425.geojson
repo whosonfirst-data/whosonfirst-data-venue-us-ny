@@ -2,13 +2,14 @@
   "id": 370925425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.853641,40.824933,-73.853641,40.824933",
     "geom:latitude":40.824933,
     "geom:longitude":-73.853641,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2045 Story Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853099,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85853099
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a44844b2c79d2612e250e6eb0a2043cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853099,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370925425,
-    "wof:lastmodified":1449029088,
+    "wof:lastmodified":1454127315,
     "wof:name":"Ellington Fitzgerald Corp",
     "wof:parent_id":85853099,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-73.853641,40.824933,-73.853641,40.824933],
+  "bbox": [
+    -73.853641,
+    40.824933,
+    -73.853641,
+    40.824933
+],
   "geometry": {"coordinates":[-73.853641,40.824933],"type":"Point"}
 }

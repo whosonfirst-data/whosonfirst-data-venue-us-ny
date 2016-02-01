@@ -2,13 +2,14 @@
   "id": 303374815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.316608,41.038097,-72.316608,41.038097",
     "geom:latitude":41.038097,
     "geom:longitude":-72.316608,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 North Dr",
     "sg:city":"Sag Harbor",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85834933,
+        102191575,
+        404522665,
         85633793,
-        85978471,
-        102082395
+        85979923,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"37525a7277b9a53eb4b35804daac97aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978471,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522665,
+            "locality_id":85979923,
+            "neighbourhood_id":85834933,
             "region_id":85688543,
             "venue_id":303374815
         }
     ],
     "wof:id":303374815,
-    "wof:lastmodified":1448999183,
+    "wof:lastmodified":1454123345,
     "wof:name":"Eureka Construction Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85834933,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-72.316608,41.038097,-72.316608,41.038097],
+  "bbox": [
+    -72.316608,
+    41.038097,
+    -72.316608,
+    41.038097
+],
   "geometry": {"coordinates":[-72.316608,41.038097],"type":"Point"}
 }

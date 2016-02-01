@@ -2,13 +2,14 @@
   "id": 370268031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.787129,40.914078,-73.787129,40.914078",
     "geom:latitude":40.914078,
     "geom:longitude":-73.787129,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"31 Lockwood Ave",
     "sg:city":"New Rochelle",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.suttonpark.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845319,
+        102191575,
+        404523375,
         85633793,
         85978749,
         102082373,
-        85845319
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"4e1774b1788bb7e74a571804e770046c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523375,
             "locality_id":85978749,
             "neighbourhood_id":85845319,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370268031,
-    "wof:lastmodified":1449030997,
+    "wof:lastmodified":1454127876,
     "wof:name":"Sutton Park",
     "wof:parent_id":85845319,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-73.787129,40.914078,-73.787129,40.914078],
-  "geometry": {"coordinates":[-73.787129,40.914078],"type":"Point"}
+  "bbox": [
+    -73.787129,
+    40.914078,
+    -73.787129,
+    40.914078
+],
+  "geometry": {"coordinates":[-73.78712899999999,40.914078],"type":"Point"}
 }

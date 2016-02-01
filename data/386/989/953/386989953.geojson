@@ -2,13 +2,14 @@
   "id": 386989953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.097766,40.738828,-73.097766,40.738828",
     "geom:latitude":40.738828,
     "geom:longitude":-73.097766,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"165 Division Ave",
     "sg:city":"West Sayville",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"60c13cc8ae0b22fa8c2ee26bd2fd5c21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":386989953
         }
     ],
     "wof:id":386989953,
-    "wof:lastmodified":1449028865,
+    "wof:lastmodified":1454127254,
     "wof:name":"Bill Johnson Painting Inc",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.097766,40.738828,-73.097766,40.738828],
-  "geometry": {"coordinates":[-73.097766,40.738828],"type":"Point"}
+  "bbox": [
+    -73.097766,
+    40.738828,
+    -73.097766,
+    40.738828
+],
+  "geometry": {"coordinates":[-73.09776599999999,40.738828],"type":"Point"}
 }

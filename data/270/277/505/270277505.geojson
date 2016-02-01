@@ -2,13 +2,14 @@
   "id": 270277505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.074034,40.801882,-73.074034,40.801882",
     "geom:latitude":40.801882,
     "geom:longitude":-73.074034,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"406 Halbert Dr",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"53b8642d85b4a88d02672d0fcf1194d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":270277505
         }
     ],
     "wof:id":270277505,
-    "wof:lastmodified":1449008926,
+    "wof:lastmodified":1454124407,
     "wof:name":"St Mary's Children Family Svc",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "institution"
     ]
 },
-  "bbox": [-73.074034,40.801882,-73.074034,40.801882],
+  "bbox": [
+    -73.074034,
+    40.801882,
+    -73.074034,
+    40.801882
+],
   "geometry": {"coordinates":[-73.074034,40.801882],"type":"Point"}
 }

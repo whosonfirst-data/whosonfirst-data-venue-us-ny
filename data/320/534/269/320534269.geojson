@@ -2,13 +2,14 @@
   "id": 320534269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.470185,40.780615,-73.470185,40.780615",
     "geom:latitude":40.780615,
     "geom:longitude":-73.470185,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Manetto Hill Rd",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"bc78225b8c0b41e00eb3dfae7c98793b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":320534269
         }
     ],
     "wof:id":320534269,
-    "wof:lastmodified":1449012236,
+    "wof:lastmodified":1454124920,
     "wof:name":"George Lau MD",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.470185,40.780615,-73.470185,40.780615],
+  "bbox": [
+    -73.470185,
+    40.780615,
+    -73.470185,
+    40.780615
+],
   "geometry": {"coordinates":[-73.470185,40.780615],"type":"Point"}
 }

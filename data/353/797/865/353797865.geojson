@@ -2,13 +2,14 @@
   "id": 353797865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.169074,40.83564,-73.169074,40.83564",
     "geom:latitude":40.83564,
     "geom:longitude":-73.169074,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"293 Terry Rd",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816389,
+        102191575,
+        404522517,
         85633793,
-        85979773,
+        85979693,
         102082395,
-        85816389
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"c810dd466c0d0e8546f1aabe7d817123",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
             "neighbourhood_id":85816389,
             "region_id":85688543,
             "venue_id":353797865
         }
     ],
     "wof:id":353797865,
-    "wof:lastmodified":1449020556,
+    "wof:lastmodified":1454126613,
     "wof:name":"Paul F Hennri",
     "wof:parent_id":85816389,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "decorator"
     ]
 },
-  "bbox": [-73.169074,40.83564,-73.169074,40.83564],
-  "geometry": {"coordinates":[-73.169074,40.83564],"type":"Point"}
+  "bbox": [
+    -73.169074,
+    40.83564,
+    -73.169074,
+    40.83564
+],
+  "geometry": {"coordinates":[-73.16907399999999,40.83564],"type":"Point"}
 }

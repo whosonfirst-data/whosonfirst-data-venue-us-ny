@@ -2,13 +2,14 @@
   "id": 386970279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.575599,41.639518,-74.575599,41.639518",
     "geom:latitude":41.639518,
     "geom:longitude":-74.575599,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"64 Bowers Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420530071,
+        102191575,
+        404523203,
         85633793,
+        85978985,
+        102082407,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"5d41ad3c1f3588aacb4fdfbe5082f247",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082407,
+            "localadmin_id":404523203,
+            "locality_id":85978985,
+            "neighbourhood_id":420530071,
             "region_id":85688543,
             "venue_id":386970279
         }
     ],
     "wof:id":386970279,
-    "wof:lastmodified":1449028969,
+    "wof:lastmodified":1454127282,
     "wof:name":"Iroquois Springs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530071,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-74.575599,41.639518,-74.575599,41.639518],
+  "bbox": [
+    -74.575599,
+    41.639518,
+    -74.575599,
+    41.639518
+],
   "geometry": {"coordinates":[-74.575599,41.639518],"type":"Point"}
 }

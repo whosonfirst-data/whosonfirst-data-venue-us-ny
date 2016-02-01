@@ -2,13 +2,14 @@
   "id": 404146065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.794775,40.794495,-72.794775,40.794495",
     "geom:latitude":40.794495,
     "geom:longitude":-72.794775,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"60 Union Ave",
     "sg:city":"Center Moriches",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"f56f5c201c19b6f5efb69a1743931474",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":404146065
         }
     ],
     "wof:id":404146065,
-    "wof:lastmodified":1449039535,
+    "wof:lastmodified":1454128883,
     "wof:name":"Hortizulture Materials-Systems",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-72.794775,40.794495,-72.794775,40.794495],
+  "bbox": [
+    -72.794775,
+    40.794495,
+    -72.794775,
+    40.794495
+],
   "geometry": {"coordinates":[-72.794775,40.794495],"type":"Point"}
 }

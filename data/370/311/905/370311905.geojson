@@ -2,13 +2,14 @@
   "id": 370311905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.760379,40.805281,-72.760379,40.805281",
     "geom:latitude":40.805281,
     "geom:longitude":-72.760379,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"455 Montauk Hwy",
     "sg:city":"East Moriches",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     "sg:website":"eastenddipity.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +56,18 @@
     "wof:geomhash":"1642db9f5c339297cd132e09ea770fcc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":370311905
         }
     ],
     "wof:id":370311905,
-    "wof:lastmodified":1449029883,
+    "wof:lastmodified":1454127547,
     "wof:name":"East End Dipity",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-72.760379,40.805281,-72.760379,40.805281],
+  "bbox": [
+    -72.760379,
+    40.805281,
+    -72.760379,
+    40.805281
+],
   "geometry": {"coordinates":[-72.760379,40.805281],"type":"Point"}
 }

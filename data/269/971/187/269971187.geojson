@@ -2,13 +2,14 @@
   "id": 269971187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.757216,41.039062,-73.757216,41.039062",
     "geom:latitude":41.039062,
     "geom:longitude":-73.757216,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Lake St",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530467,
+        102191575,
+        404523395,
         85633793,
         85978761,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"848e66c3e1e9a0e9de7314bb6ba4c139",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523395,
             "locality_id":85978761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530467,
             "region_id":85688543,
             "venue_id":269971187
         }
     ],
     "wof:id":269971187,
-    "wof:lastmodified":1449037357,
+    "wof:lastmodified":1454128645,
     "wof:name":"Fourmen Construction Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530467,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.757216,41.039062,-73.757216,41.039062],
+  "bbox": [
+    -73.757216,
+    41.039062,
+    -73.757216,
+    41.039062
+],
   "geometry": {"coordinates":[-73.757216,41.039062],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270483459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.160313,40.553717,-74.160313,40.553717",
     "geom:latitude":40.553717,
     "geom:longitude":-74.160313,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"59 Genesee Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.jupitersecurity.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85822683,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85822683
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"a96fd0abb2041967021a0e3d802894f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85822683,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":270483459,
-    "wof:lastmodified":1449010541,
+    "wof:lastmodified":1454124652,
     "wof:name":"Jupiter Protective Services",
     "wof:parent_id":85822683,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "patrol"
     ]
 },
-  "bbox": [-74.160313,40.553717,-74.160313,40.553717],
+  "bbox": [
+    -74.160313,
+    40.553717,
+    -74.160313,
+    40.553717
+],
   "geometry": {"coordinates":[-74.160313,40.553717],"type":"Point"}
 }

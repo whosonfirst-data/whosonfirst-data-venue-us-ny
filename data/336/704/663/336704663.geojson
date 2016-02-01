@@ -2,13 +2,14 @@
   "id": 336704663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.960979,41.197131,-73.960979,41.197131",
     "geom:latitude":41.197131,
     "geom:longitude":-73.960979,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"22 Liberty St",
     "sg:city":"Haverstraw",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529787,
+        102191575,
+        404523093,
         85633793,
         85978549,
-        102082385
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"a2b0a3f13f9ae2154f19a654eeaf9371",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523093,
             "locality_id":85978549,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529787,
             "region_id":85688543,
             "venue_id":336704663
         }
     ],
     "wof:id":336704663,
-    "wof:lastmodified":1448997230,
+    "wof:lastmodified":1454122488,
     "wof:name":"Allstate Insurance Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529787,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "casualty"
     ]
 },
-  "bbox": [-73.960979,41.197131,-73.960979,41.197131],
-  "geometry": {"coordinates":[-73.960979,41.197131],"type":"Point"}
+  "bbox": [
+    -73.960979,
+    41.197131,
+    -73.960979,
+    41.197131
+],
+  "geometry": {"coordinates":[-73.96097899999999,41.197131],"type":"Point"}
 }

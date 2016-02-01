@@ -2,13 +2,14 @@
   "id": 386990245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.594103,43.154987,-77.594103,43.154987",
     "geom:latitude":43.154987,
     "geom:longitude":-77.594103,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"384 East Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"http://www.theeastavenueinn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880393,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85880393
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"d6b46f3549096f956f75c1925f2339b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85880393,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":386990245,
-    "wof:lastmodified":1449028831,
+    "wof:lastmodified":1454127245,
     "wof:name":"East Avenue Inn",
     "wof:parent_id":85880393,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.594103,43.154987,-77.594103,43.154987],
+  "bbox": [
+    -77.594103,
+    43.154987,
+    -77.594103,
+    43.154987
+],
   "geometry": {"coordinates":[-77.594103,43.154987],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270520493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.704548,40.712402,-73.704548,40.712402",
     "geom:latitude":40.712402,
     "geom:longitude":-73.704548,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1851 Chelsea St",
     "sg:city":"Elmont",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420559871,
+        102191575,
+        404521473,
         85633793,
         85979137,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"ea87a7ec909c0e2e4049645844f8f964",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979137,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420559871,
             "region_id":85688543,
             "venue_id":270520493
         }
     ],
     "wof:id":270520493,
-    "wof:lastmodified":1449009441,
+    "wof:lastmodified":1454124484,
     "wof:name":"J & C Limo Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":420559871,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "passenger"
     ]
 },
-  "bbox": [-73.704548,40.712402,-73.704548,40.712402],
+  "bbox": [
+    -73.704548,
+    40.712402,
+    -73.704548,
+    40.712402
+],
   "geometry": {"coordinates":[-73.704548,40.712402],"type":"Point"}
 }

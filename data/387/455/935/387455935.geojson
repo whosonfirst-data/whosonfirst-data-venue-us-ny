@@ -2,13 +2,14 @@
   "id": 387455935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.366631,41.277522,-74.366631,41.277522",
     "geom:latitude":41.277522,
     "geom:longitude":-74.366631,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"81 Sleepy Valley Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85817317,
+        102083061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"b9610b341f25ff60350a65e26956e513",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083061,
+            "neighbourhood_id":85817317,
             "region_id":85688543,
             "venue_id":387455935
         }
     ],
     "wof:id":387455935,
-    "wof:lastmodified":1449059319,
+    "wof:lastmodified":1454130103,
     "wof:name":"Aic Trading Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85817317,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "financing"
     ]
 },
-  "bbox": [-74.366631,41.277522,-74.366631,41.277522],
+  "bbox": [
+    -74.366631,
+    41.277522,
+    -74.366631,
+    41.277522
+],
   "geometry": {"coordinates":[-74.366631,41.277522],"type":"Point"}
 }

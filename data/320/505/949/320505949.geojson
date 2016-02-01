@@ -2,13 +2,14 @@
   "id": 320505949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.388853,43.32071,-78.388853,43.32071",
     "geom:latitude":43.32071,
     "geom:longitude":-78.388853,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 S Main St",
     "sg:city":"Lyndonville",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529557,
+        102191575,
+        404521529,
         85633793,
         85978609,
-        102082411
+        102082411,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"ccae44ca8d6bc94be543ad14626d100a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082411,
+            "localadmin_id":404521529,
             "locality_id":85978609,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529557,
             "region_id":85688543,
             "venue_id":320505949
         }
     ],
     "wof:id":320505949,
-    "wof:lastmodified":1449014367,
+    "wof:lastmodified":1454125264,
     "wof:name":"US Post Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529557,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "us"
     ]
 },
-  "bbox": [-78.388853,43.32071,-78.388853,43.32071],
+  "bbox": [
+    -78.388853,
+    43.32071,
+    -78.388853,
+    43.32071
+],
   "geometry": {"coordinates":[-78.388853,43.32071],"type":"Point"}
 }

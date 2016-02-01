@@ -2,13 +2,14 @@
   "id": 387937517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.402358,41.720884,-74.402358,41.720884",
     "geom:latitude":41.720884,
     "geom:longitude":-74.402358,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14 Canal St",
     "sg:city":"Ellenville",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816913,
+        102191575,
+        404523275,
         85633793,
-        85978959,
+        85977503,
         102081775,
-        85816913
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"28a6c9d2fb39f7e3a4c908a8c917571e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
-            "locality_id":85978959,
+            "localadmin_id":404523275,
+            "locality_id":85977503,
             "neighbourhood_id":85816913,
             "region_id":85688543,
             "venue_id":387937517
         }
     ],
     "wof:id":387937517,
-    "wof:lastmodified":1449056824,
+    "wof:lastmodified":1454129657,
     "wof:name":"Wilson's Market",
     "wof:parent_id":85816913,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "alcoholic"
     ]
 },
-  "bbox": [-74.402358,41.720884,-74.402358,41.720884],
-  "geometry": {"coordinates":[-74.402358,41.720884],"type":"Point"}
+  "bbox": [
+    -74.402358,
+    41.720884,
+    -74.402358,
+    41.720884
+],
+  "geometry": {"coordinates":[-74.40235800000001,41.720884],"type":"Point"}
 }

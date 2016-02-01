@@ -2,13 +2,14 @@
   "id": 354348897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.996633,40.841518,-72.996633,40.841518",
     "geom:latitude":40.841518,
     "geom:longitude":-72.996633,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3205 Route 112",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -59,11 +60,13 @@
     "sg:website":"http://www.danisienergy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,17 +76,18 @@
     "wof:geomhash":"999a5f529c4fb029921da032f3d72478",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354348897
         }
     ],
     "wof:id":354348897,
-    "wof:lastmodified":1449066021,
+    "wof:lastmodified":1454130798,
     "wof:name":"Danisi Energy",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -104,6 +108,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-72.996633,40.841518,-72.996633,40.841518],
+  "bbox": [
+    -72.996633,
+    40.841518,
+    -72.996633,
+    40.841518
+],
   "geometry": {"coordinates":[-72.996633,40.841518],"type":"Point"}
 }

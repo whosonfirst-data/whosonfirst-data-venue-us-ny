@@ -2,13 +2,14 @@
   "id": 253244589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.846481,41.005313,-73.846481,41.005313",
     "geom:latitude":41.005313,
     "geom:longitude":-73.846481,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Euclid Ave",
     "sg:city":"Ardsley",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85858773,
+        102191575,
+        404523359,
         85633793,
+        85978743,
+        102082373,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"e54515f7e7f37baa555228148bba6316",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523359,
+            "locality_id":85978743,
+            "neighbourhood_id":85858773,
             "region_id":85688543,
             "venue_id":253244589
         }
     ],
     "wof:id":253244589,
-    "wof:lastmodified":1449064005,
+    "wof:lastmodified":1454130442,
     "wof:name":"Badolato Home Improvement",
-    "wof:parent_id":-1,
+    "wof:parent_id":85858773,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-73.846481,41.005313,-73.846481,41.005313],
+  "bbox": [
+    -73.846481,
+    41.005313,
+    -73.846481,
+    41.005313
+],
   "geometry": {"coordinates":[-73.846481,41.005313],"type":"Point"}
 }

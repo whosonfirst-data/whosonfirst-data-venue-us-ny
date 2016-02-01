@@ -2,13 +2,14 @@
   "id": 303686351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.007318,40.635292,-74.007318,40.635292",
     "geom:latitude":40.635292,
     "geom:longitude":-74.007318,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"837 59th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"7bd1c5a8da96899d1624552ac540b9c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":303686351
         }
     ],
     "wof:id":303686351,
-    "wof:lastmodified":1448999970,
+    "wof:lastmodified":1454123560,
     "wof:name":"A T C",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "conditioning"
     ]
 },
-  "bbox": [-74.007318,40.635292,-74.007318,40.635292],
+  "bbox": [
+    -74.007318,
+    40.635292,
+    -74.007318,
+    40.635292
+],
   "geometry": {"coordinates":[-74.007318,40.635292],"type":"Point"}
 }

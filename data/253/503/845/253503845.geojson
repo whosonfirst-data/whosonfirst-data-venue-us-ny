@@ -2,13 +2,14 @@
   "id": 253503845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.825285,40.949318,-72.825285,40.949318",
     "geom:latitude":40.949318,
     "geom:longitude":-72.825285,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"66 Deer Run",
     "sg:city":"Wading River",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979901,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"43a14c9bc25da66817a80a49d1de57a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979901,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":253503845
         }
     ],
     "wof:id":253503845,
-    "wof:lastmodified":1449065815,
+    "wof:lastmodified":1454130745,
     "wof:name":"Mold Pro Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-72.825285,40.949318,-72.825285,40.949318],
-  "geometry": {"coordinates":[-72.825285,40.949318],"type":"Point"}
+  "bbox": [
+    -72.825285,
+    40.949318,
+    -72.825285,
+    40.949318
+],
+  "geometry": {"coordinates":[-72.82528499999999,40.949318],"type":"Point"}
 }

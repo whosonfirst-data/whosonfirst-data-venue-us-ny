@@ -2,13 +2,14 @@
   "id": 387620077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.050118,40.889416,-73.050118,40.889416",
     "geom:latitude":40.889416,
     "geom:longitude":-73.050118,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"46 Charter Rd",
     "sg:city":"Selden",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892999,
+        102191575,
+        404521441,
         85633793,
-        85979929,
-        102082395
+        85979825,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"6aff92843866819f763bd910392a4e3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979929,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979825,
+            "neighbourhood_id":85892999,
             "region_id":85688543,
             "venue_id":387620077
         }
     ],
     "wof:id":387620077,
-    "wof:lastmodified":1449059586,
+    "wof:lastmodified":1454130151,
     "wof:name":"Island Wide Process Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892999,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "server"
     ]
 },
-  "bbox": [-73.050118,40.889416,-73.050118,40.889416],
+  "bbox": [
+    -73.050118,
+    40.889416,
+    -73.050118,
+    40.889416
+],
   "geometry": {"coordinates":[-73.050118,40.889416],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287242683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.747619,40.626901,-73.747619,40.626901",
     "geom:latitude":40.626901,
     "geom:longitude":-73.747619,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Inip Dr",
     "sg:city":"Inwood",
     "sg:classifiers":[
@@ -25,11 +26,15 @@
     "sg:website":"www.famousbrandsny.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
-        85977631,
-        102082371,
-        85818909
+        85977539,
+        102082361,
+        85688543,
+        85865647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,24 +44,42 @@
     "wof:geomhash":"9c11f734519ef93beb46d0f1f8cd4ac8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082371,
-            "locality_id":85977631,
-            "neighbourhood_id":85818909,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":85823673,
+            "region_id":85688543,
+            "venue_id":287242683
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":85865647,
             "region_id":85688543,
             "venue_id":287242683
         }
     ],
     "wof:id":287242683,
-    "wof:lastmodified":1449001471,
+    "wof:lastmodified":1454123943,
     "wof:name":"FTO",
-    "wof:parent_id":85818909,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.747619,40.626901,-73.747619,40.626901],
+  "bbox": [
+    -73.747619,
+    40.626901,
+    -73.747619,
+    40.626901
+],
   "geometry": {"coordinates":[-73.747619,40.626901],"type":"Point"}
 }

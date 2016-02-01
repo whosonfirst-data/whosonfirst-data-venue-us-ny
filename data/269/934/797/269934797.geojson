@@ -2,13 +2,14 @@
   "id": 269934797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.605123,43.169306,-77.605123,43.169306",
     "geom:latitude":43.169306,
     "geom:longitude":-77.605123,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13 Vienna St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529057,
+        102191575,
+        404521467,
         85633793,
         85977591,
-        102081815
+        102081815,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"13e1b91b5eb195a077d0c7b4a03bbaab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529057,
             "region_id":85688543,
             "venue_id":269934797
         }
     ],
     "wof:id":269934797,
-    "wof:lastmodified":1449036252,
+    "wof:lastmodified":1454128479,
     "wof:name":"Jobs For Youth Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-77.605123,43.169306,-77.605123,43.169306],
-  "geometry": {"coordinates":[-77.605123,43.169306],"type":"Point"}
+  "bbox": [
+    -77.605123,
+    43.169306,
+    -77.605123,
+    43.169306
+],
+  "geometry": {"coordinates":[-77.60512300000001,43.169306],"type":"Point"}
 }

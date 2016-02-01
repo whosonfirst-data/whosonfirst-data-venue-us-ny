@@ -2,13 +2,14 @@
   "id": 320281933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.862152,41.067916,-73.862152,41.067916",
     "geom:latitude":41.067916,
     "geom:longitude":-73.862152,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 Prospect Ave",
     "sg:city":"Tarrytown",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893041,
+        102191575,
+        404523359,
         85633793,
         85978765,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"d641b24848e023645a43ff05b44cb1c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523359,
             "locality_id":85978765,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85893041,
             "region_id":85688543,
             "venue_id":320281933
         }
     ],
     "wof:id":320281933,
-    "wof:lastmodified":1449014405,
+    "wof:lastmodified":1454125270,
     "wof:name":"Transfiguration School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893041,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.862152,41.067916,-73.862152,41.067916],
-  "geometry": {"coordinates":[-73.862152,41.067916],"type":"Point"}
+  "bbox": [
+    -73.862152,
+    41.067916,
+    -73.862152,
+    41.067916
+],
+  "geometry": {"coordinates":[-73.86215199999999,41.067916],"type":"Point"}
 }

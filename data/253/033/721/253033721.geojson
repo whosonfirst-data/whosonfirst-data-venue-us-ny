@@ -2,13 +2,14 @@
   "id": 253033721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.658116,40.687067,-73.658116,40.687067",
     "geom:latitude":40.687067,
     "geom:longitude":-73.658116,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"848 Bradley St",
     "sg:city":"West Hempstead",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829437,
+        102191575,
+        404521473,
         85633793,
-        85979129,
+        85979057,
         102082371,
-        85829437
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"977f11bb413fd92156d5e6004a1befe4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979129,
+            "localadmin_id":404521473,
+            "locality_id":85979057,
             "neighbourhood_id":85829437,
             "region_id":85688543,
             "venue_id":253033721
         }
     ],
     "wof:id":253033721,
-    "wof:lastmodified":1449063422,
+    "wof:lastmodified":1454130345,
     "wof:name":"Lombardo's Towing Inc",
     "wof:parent_id":85829437,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "wrecker"
     ]
 },
-  "bbox": [-73.658116,40.687067,-73.658116,40.687067],
-  "geometry": {"coordinates":[-73.658116,40.687067],"type":"Point"}
+  "bbox": [
+    -73.658116,
+    40.687067,
+    -73.658116,
+    40.687067
+],
+  "geometry": {"coordinates":[-73.65811600000001,40.687067],"type":"Point"}
 }

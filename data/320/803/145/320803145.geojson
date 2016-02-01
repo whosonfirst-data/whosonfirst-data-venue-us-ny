@@ -2,13 +2,14 @@
   "id": 320803145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.834006,40.836846,-73.834006,40.836846",
     "geom:latitude":40.836846,
     "geom:longitude":-73.834006,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3156 E Tremont Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892785,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85892785
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"256e09750540d9af5575af870ab4ec39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892785,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":320803145,
-    "wof:lastmodified":1449015008,
+    "wof:lastmodified":1454125371,
     "wof:name":"J Giarnella & Son Inc",
     "wof:parent_id":85892785,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.834006,40.836846,-73.834006,40.836846],
+  "bbox": [
+    -73.834006,
+    40.836846,
+    -73.834006,
+    40.836846
+],
   "geometry": {"coordinates":[-73.834006,40.836846],"type":"Point"}
 }

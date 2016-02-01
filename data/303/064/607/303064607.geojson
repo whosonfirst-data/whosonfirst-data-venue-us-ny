@@ -2,13 +2,14 @@
   "id": 303064607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.006518,40.638326,-74.006518,40.638326",
     "geom:latitude":40.638326,
     "geom:longitude":-74.006518,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5411 8th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"9a75a895f5858df203f2039920df8090",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":303064607
         }
     ],
     "wof:id":303064607,
-    "wof:lastmodified":1448998979,
+    "wof:lastmodified":1454123288,
     "wof:name":"Chung Yuan International Trade",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "importer"
     ]
 },
-  "bbox": [-74.006518,40.638326,-74.006518,40.638326],
+  "bbox": [
+    -74.006518,
+    40.638326,
+    -74.006518,
+    40.638326
+],
   "geometry": {"coordinates":[-74.006518,40.638326],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253131565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.080275,40.612622,-74.080275,40.612622",
     "geom:latitude":40.612622,
     "geom:longitude":-74.080275,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"394 Skyline Dr",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529765,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"e83ed4bc5114318f8978f8597acd4b44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529765,
             "region_id":85688543,
             "venue_id":253131565
         }
     ],
     "wof:id":253131565,
-    "wof:lastmodified":1449063711,
+    "wof:lastmodified":1454130393,
     "wof:name":"Amariana Trucker",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529765,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-74.080275,40.612622,-74.080275,40.612622],
+  "bbox": [
+    -74.080275,
+    40.612622,
+    -74.080275,
+    40.612622
+],
   "geometry": {"coordinates":[-74.080275,40.612622],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354034171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.848225,40.807505,-72.848225,40.807505",
     "geom:latitude":40.807505,
     "geom:longitude":-72.848225,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Elm Pl",
     "sg:city":"Mastic",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892903,
+        102191575,
+        404521441,
         85633793,
+        85978437,
         102082395,
-        85892903
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"e22e607916d9f722f51e849de133f0ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85978437,
             "neighbourhood_id":85892903,
             "region_id":85688543,
             "venue_id":354034171
         }
     ],
     "wof:id":354034171,
-    "wof:lastmodified":1449066126,
+    "wof:lastmodified":1454130830,
     "wof:name":"Arrow Wrap Designs",
     "wof:parent_id":85892903,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-72.848225,40.807505,-72.848225,40.807505],
+  "bbox": [
+    -72.848225,
+    40.807505,
+    -72.848225,
+    40.807505
+],
   "geometry": {"coordinates":[-72.848225,40.807505],"type":"Point"}
 }

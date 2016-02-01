@@ -2,13 +2,14 @@
   "id": 287132663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.829127,40.830007,-72.829127,40.830007",
     "geom:latitude":40.830007,
     "geom:longitude":-72.829127,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"199 Dayton Ave",
     "sg:city":"Manorville",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530021,
+        102191575,
+        404521441,
         85633793,
         85979761,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"cb95a15d4f3e26e6784301da1b068f9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530021,
             "region_id":85688543,
             "venue_id":287132663
         }
     ],
     "wof:id":287132663,
-    "wof:lastmodified":1449001087,
+    "wof:lastmodified":1454123851,
     "wof:name":"Automated Facility Growth Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530021,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [-72.829127,40.830007,-72.829127,40.830007],
+  "bbox": [
+    -72.829127,
+    40.830007,
+    -72.829127,
+    40.830007
+],
   "geometry": {"coordinates":[-72.829127,40.830007],"type":"Point"}
 }

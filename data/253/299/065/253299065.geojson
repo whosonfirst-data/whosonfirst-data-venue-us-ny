@@ -2,13 +2,14 @@
   "id": 253299065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.845873,40.877242,-73.845873,40.877242",
     "geom:latitude":40.877242,
     "geom:longitude":-73.845873,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3511 Boston Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.strauss.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869805,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869805
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c7676ae7faf1de7eacbc8082337173f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869805,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":253299065,
-    "wof:lastmodified":1449063572,
+    "wof:lastmodified":1454130371,
     "wof:name":"Strauss Discount Auto",
     "wof:parent_id":85869805,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "automobile"
     ]
 },
-  "bbox": [-73.845873,40.877242,-73.845873,40.877242],
+  "bbox": [
+    -73.845873,
+    40.877242,
+    -73.845873,
+    40.877242
+],
   "geometry": {"coordinates":[-73.845873,40.877242],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370973825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993952,40.664491,-73.993952,40.664491",
     "geom:latitude":40.664491,
     "geom:longitude":-73.993952,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"610 4th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851575,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85851575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"385ebe61456d3f39e06cf6cb5339e938",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85851575,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370973825,
-    "wof:lastmodified":1449031105,
+    "wof:lastmodified":1454127909,
     "wof:name":"Greenwood Memorials",
     "wof:parent_id":85851575,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-73.993952,40.664491,-73.993952,40.664491],
-  "geometry": {"coordinates":[-73.993952,40.664491],"type":"Point"}
+  "bbox": [
+    -73.993952,
+    40.664491,
+    -73.993952,
+    40.664491
+],
+  "geometry": {"coordinates":[-73.99395199999999,40.664491],"type":"Point"}
 }

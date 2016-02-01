@@ -2,13 +2,14 @@
   "id": 252812679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.828043,40.833375,-73.828043,40.833375",
     "geom:latitude":40.833375,
     "geom:longitude":-73.828043,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2943 Bruckner Blvd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892785,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85892785
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"d02452a5589de123d4e6a112fc1ba45c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892785,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":252812679,
-    "wof:lastmodified":1449005433,
+    "wof:lastmodified":1454123986,
     "wof:name":"SH3 Management Inc",
     "wof:parent_id":85892785,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.828043,40.833375,-73.828043,40.833375],
-  "geometry": {"coordinates":[-73.828043,40.833375],"type":"Point"}
+  "bbox": [
+    -73.828043,
+    40.833375,
+    -73.828043,
+    40.833375
+],
+  "geometry": {"coordinates":[-73.82804299999999,40.833375],"type":"Point"}
 }

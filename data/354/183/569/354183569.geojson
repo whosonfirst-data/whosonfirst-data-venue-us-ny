@@ -2,13 +2,14 @@
   "id": 354183569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.831712,40.845971,-73.831712,40.845971",
     "geom:latitude":40.845971,
     "geom:longitude":-73.831712,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1762 Crosby Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865663,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865663
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ea86d6ecd7d19a0cba103f004bad0475",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865663,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":354183569,
-    "wof:lastmodified":1449066853,
+    "wof:lastmodified":1454131054,
     "wof:name":"Elena Little Kitchen",
     "wof:parent_id":85865663,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "bagel"
     ]
 },
-  "bbox": [-73.831712,40.845971,-73.831712,40.845971],
+  "bbox": [
+    -73.831712,
+    40.845971,
+    -73.831712,
+    40.845971
+],
   "geometry": {"coordinates":[-73.831712,40.845971],"type":"Point"}
 }

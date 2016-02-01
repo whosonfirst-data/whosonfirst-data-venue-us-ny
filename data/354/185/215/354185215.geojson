@@ -2,13 +2,14 @@
   "id": 354185215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.358933,40.933895,-73.358933,40.933895",
     "geom:latitude":40.933895,
     "geom:longitude":-73.358933,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"70 Comsewogue Rd",
     "sg:city":"East Setauket",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826545,
+        102191575,
+        404522515,
         85633793,
-        85979823,
+        85978425,
         102082395,
-        85826545
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"b38e5ad4af5584c1420e5ff6952f06b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979823,
+            "localadmin_id":404522515,
+            "locality_id":85978425,
             "neighbourhood_id":85826545,
             "region_id":85688543,
             "venue_id":354185215
         }
     ],
     "wof:id":354185215,
-    "wof:lastmodified":1449066216,
+    "wof:lastmodified":1454130859,
     "wof:name":"Port Taxi",
     "wof:parent_id":85826545,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "airport"
     ]
 },
-  "bbox": [-73.358933,40.933895,-73.358933,40.933895],
-  "geometry": {"coordinates":[-73.358933,40.933895],"type":"Point"}
+  "bbox": [
+    -73.358933,
+    40.933895,
+    -73.358933,
+    40.933895
+],
+  "geometry": {"coordinates":[-73.35893299999999,40.933895],"type":"Point"}
 }

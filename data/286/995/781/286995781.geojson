@@ -2,13 +2,14 @@
   "id": 286995781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.283632,40.997277,-72.283632,40.997277",
     "geom:latitude":40.997277,
     "geom:longitude":-72.283632,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"51 Hempstead St",
     "sg:city":"Sag Harbor",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844167,
+        102191575,
+        404521445,
         85633793,
+        85978453,
         102082395,
-        85844167
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"961658ee2e401dac7ccaf506b10361bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521445,
+            "locality_id":85978453,
             "neighbourhood_id":85844167,
             "region_id":85688543,
             "venue_id":286995781
         }
     ],
     "wof:id":286995781,
-    "wof:lastmodified":1449017773,
+    "wof:lastmodified":1454125856,
     "wof:name":"Friends Of Havens Beach",
     "wof:parent_id":85844167,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "ecological"
     ]
 },
-  "bbox": [-72.283632,40.997277,-72.283632,40.997277],
+  "bbox": [
+    -72.283632,
+    40.997277,
+    -72.283632,
+    40.997277
+],
   "geometry": {"coordinates":[-72.283632,40.997277],"type":"Point"}
 }

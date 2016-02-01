@@ -2,13 +2,14 @@
   "id": 252798333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.828905,40.852138,-73.828905,40.852138",
     "geom:latitude":40.852138,
     "geom:longitude":-73.828905,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3237 Westchester Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865663,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865663
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"e956408fd7934dd337f846744b301c0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865663,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":252798333,
-    "wof:lastmodified":1449005619,
+    "wof:lastmodified":1454124011,
     "wof:name":"Pelham Bay Liquor Store Inc",
     "wof:parent_id":85865663,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-73.828905,40.852138,-73.828905,40.852138],
-  "geometry": {"coordinates":[-73.828905,40.852138],"type":"Point"}
+  "bbox": [
+    -73.828905,
+    40.852138,
+    -73.828905,
+    40.852138
+],
+  "geometry": {"coordinates":[-73.82890500000001,40.852138],"type":"Point"}
 }

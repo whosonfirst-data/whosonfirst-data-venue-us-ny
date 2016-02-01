@@ -2,13 +2,14 @@
   "id": 253370179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.763168,43.482381,-73.763168,43.482381",
     "geom:latitude":43.482381,
     "geom:longitude":-73.763168,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2311 Harrington Hill Rd",
     "sg:city":"Lake George",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85868701,
+        102081791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,17 @@
     "wof:geomhash":"33f37e902e43939103d52d9f88889c00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081791,
+            "neighbourhood_id":85868701,
             "region_id":85688543,
             "venue_id":253370179
         }
     ],
     "wof:id":253370179,
-    "wof:lastmodified":1449064443,
+    "wof:lastmodified":1454130516,
     "wof:name":"Witz Roofing & Painting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85868701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.763168,43.482381,-73.763168,43.482381],
-  "geometry": {"coordinates":[-73.763168,43.482381],"type":"Point"}
+  "bbox": [
+    -73.763168,
+    43.482381,
+    -73.763168,
+    43.482381
+],
+  "geometry": {"coordinates":[-73.76316799999999,43.482381],"type":"Point"}
 }

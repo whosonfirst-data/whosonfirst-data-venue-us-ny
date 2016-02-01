@@ -2,13 +2,14 @@
   "id": 353511677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.880347,40.712593,-73.880347,40.712593",
     "geom:latitude":40.712593,
     "geom:longitude":-73.880347,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7252 Metropolitan Avenue",
     "sg:city":"Middle Village",
     "sg:classifiers":[
@@ -41,10 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529699,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,19 +58,20 @@
     "wof:geomhash":"56eeb537c85fd634c58e060f380b2c4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529699,
             "region_id":85688543,
             "venue_id":353511677
         }
     ],
     "wof:id":353511677,
-    "wof:lastmodified":1449019436,
+    "wof:lastmodified":1454126290,
     "wof:name":"Positive Beginnings Preschool",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529699,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -78,6 +83,11 @@
         "day"
     ]
 },
-  "bbox": [-73.880347,40.712593,-73.880347,40.712593],
+  "bbox": [
+    -73.880347,
+    40.712593,
+    -73.880347,
+    40.712593
+],
   "geometry": {"coordinates":[-73.880347,40.712593],"type":"Point"}
 }

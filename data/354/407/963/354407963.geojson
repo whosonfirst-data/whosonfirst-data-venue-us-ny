@@ -2,13 +2,14 @@
   "id": 354407963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.119703,40.794036,-73.119703,40.794036",
     "geom:latitude":40.794036,
     "geom:longitude":-73.119703,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1950 Lakeland Ave",
     "sg:city":"Ronkonkoma",
     "sg:classifiers":[
@@ -64,11 +65,13 @@
     "sg:website":"http://www.cassone.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829285,
+        102191575,
+        404522517,
         85633793,
         85979793,
         102082395,
-        85829285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,9 +81,10 @@
     "wof:geomhash":"b1b3d1fe9f91559b42959ec76a525b0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979793,
             "neighbourhood_id":85829285,
             "region_id":85688543,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":354407963,
-    "wof:lastmodified":1449066890,
+    "wof:lastmodified":1454131063,
     "wof:name":"Cassone",
     "wof:parent_id":85829285,
     "wof:placetype":"venue",
@@ -109,6 +113,11 @@
         "furniture"
     ]
 },
-  "bbox": [-73.119703,40.794036,-73.119703,40.794036],
+  "bbox": [
+    -73.119703,
+    40.794036,
+    -73.119703,
+    40.794036
+],
   "geometry": {"coordinates":[-73.119703,40.794036],"type":"Point"}
 }

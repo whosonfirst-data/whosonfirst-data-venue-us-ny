@@ -2,13 +2,14 @@
   "id": 336778705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.378924,42.507633,-73.378924,42.507633",
     "geom:latitude":42.507633,
     "geom:longitude":-73.378924,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"803 West St",
     "sg:city":"Stephentown",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85843441,
+        102082369
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"c9f1ee028703bb77b593daec90ea5e7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082369,
+            "neighbourhood_id":85843441,
             "region_id":85688543,
             "venue_id":336778705
         }
     ],
     "wof:id":336778705,
-    "wof:lastmodified":1448996939,
+    "wof:lastmodified":1454122339,
     "wof:name":"Sharp Builders",
-    "wof:parent_id":-1,
+    "wof:parent_id":85843441,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "house"
     ]
 },
-  "bbox": [-73.378924,42.507633,-73.378924,42.507633],
+  "bbox": [
+    -73.378924,
+    42.507633,
+    -73.378924,
+    42.507633
+],
   "geometry": {"coordinates":[-73.378924,42.507633],"type":"Point"}
 }

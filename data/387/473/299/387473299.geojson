@@ -2,13 +2,14 @@
   "id": 387473299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.865144,40.870985,-73.865144,40.870985",
     "geom:latitude":40.870985,
     "geom:longitude":-73.865144,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3048 Holland Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869805,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869805
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"78629367147c302be24419c8002464d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869805,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387473299,
-    "wof:lastmodified":1449056890,
+    "wof:lastmodified":1454129668,
     "wof:name":"Triumphant Life Church",
     "wof:parent_id":85869805,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-73.865144,40.870985,-73.865144,40.870985],
+  "bbox": [
+    -73.865144,
+    40.870985,
+    -73.865144,
+    40.870985
+],
   "geometry": {"coordinates":[-73.865144,40.870985],"type":"Point"}
 }

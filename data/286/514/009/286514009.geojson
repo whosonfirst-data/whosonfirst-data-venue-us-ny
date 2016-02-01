@@ -2,13 +2,14 @@
   "id": 286514009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.013614,40.825517,-73.013614,40.825517",
     "geom:latitude":40.825517,
     "geom:longitude":-73.013614,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"930 Old Medford Ave",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"1d02b31684ca5de94acff327d5918e94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":286514009
         }
     ],
     "wof:id":286514009,
-    "wof:lastmodified":1449016671,
+    "wof:lastmodified":1454125659,
     "wof:name":"River Rock",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.013614,40.825517,-73.013614,40.825517],
+  "bbox": [
+    -73.013614,
+    40.825517,
+    -73.013614,
+    40.825517
+],
   "geometry": {"coordinates":[-73.013614,40.825517],"type":"Point"}
 }

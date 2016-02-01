@@ -2,13 +2,14 @@
   "id": 370937667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.578067,42.894766,-78.578067,42.894766",
     "geom:latitude":42.894766,
     "geom:longitude":-78.578067,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1266 Town Line Rd",
     "sg:city":"Alden",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528575,
+        102191575,
+        404522319,
         85633793,
         85979417,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"9c532f50a9da3a8bbcc11adab2426122",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522319,
             "locality_id":85979417,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528575,
             "region_id":85688543,
             "venue_id":370937667
         }
     ],
     "wof:id":370937667,
-    "wof:lastmodified":1449029731,
+    "wof:lastmodified":1454127502,
     "wof:name":"Catco",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528575,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.578067,42.894766,-78.578067,42.894766],
+  "bbox": [
+    -78.578067,
+    42.894766,
+    -78.578067,
+    42.894766
+],
   "geometry": {"coordinates":[-78.578067,42.894766],"type":"Point"}
 }

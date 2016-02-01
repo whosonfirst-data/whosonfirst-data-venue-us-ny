@@ -2,13 +2,14 @@
   "id": 404091937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.816236,42.977708,-78.816236,42.977708",
     "geom:latitude":42.977708,
     "geom:longitude":-78.816236,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1958 Eggert Rd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823285,
+        102191575,
+        404522321,
         85633793,
+        85979407,
         102082387,
-        85823285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +47,18 @@
     "wof:geomhash":"5b0dc401dc3e0cf2839bbb70e5283c08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979407,
             "neighbourhood_id":85823285,
             "region_id":85688543,
             "venue_id":404091937
         }
     ],
     "wof:id":404091937,
-    "wof:lastmodified":1449039134,
+    "wof:lastmodified":1454128841,
     "wof:name":"Haircrafters",
     "wof:parent_id":85823285,
     "wof:placetype":"venue",
@@ -66,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.816236,42.977708,-78.816236,42.977708],
+  "bbox": [
+    -78.816236,
+    42.977708,
+    -78.816236,
+    42.977708
+],
   "geometry": {"coordinates":[-78.816236,42.977708],"type":"Point"}
 }

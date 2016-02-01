@@ -2,13 +2,14 @@
   "id": 270477533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.937463,40.804484,-73.937463,40.804484",
     "geom:latitude":40.804484,
     "geom:longitude":-73.937463,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"103 E 125th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865689,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865689
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"ffd5f99665e61300bb0f458e882adf67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865689,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":270477533,
-    "wof:lastmodified":1449009051,
+    "wof:lastmodified":1454124425,
     "wof:name":"Gmad",
     "wof:parent_id":85865689,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "prevention"
     ]
 },
-  "bbox": [-73.937463,40.804484,-73.937463,40.804484],
-  "geometry": {"coordinates":[-73.937463,40.804484],"type":"Point"}
+  "bbox": [
+    -73.937463,
+    40.804484,
+    -73.937463,
+    40.804484
+],
+  "geometry": {"coordinates":[-73.93746299999999,40.804484],"type":"Point"}
 }

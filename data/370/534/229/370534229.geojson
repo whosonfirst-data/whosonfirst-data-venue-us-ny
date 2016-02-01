@@ -2,13 +2,14 @@
   "id": 370534229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.875351,41.543646,-73.875351,41.543646",
     "geom:latitude":41.543646,
     "geom:longitude":-73.875351,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1538 Route 52",
     "sg:city":"Fishkill",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528475,
+        102191575,
+        404522225,
         85633793,
+        85979249,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"44d33c9de66cfde911c19b4b15ef296e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522225,
+            "locality_id":85979249,
+            "neighbourhood_id":420528475,
             "region_id":85688543,
             "venue_id":370534229
         }
     ],
     "wof:id":370534229,
-    "wof:lastmodified":1449029979,
+    "wof:lastmodified":1454127574,
     "wof:name":"Medical Pharmacy Professional",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528475,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "drugstore"
     ]
 },
-  "bbox": [-73.875351,41.543646,-73.875351,41.543646],
-  "geometry": {"coordinates":[-73.875351,41.543646],"type":"Point"}
+  "bbox": [
+    -73.875351,
+    41.543646,
+    -73.875351,
+    41.543646
+],
+  "geometry": {"coordinates":[-73.87535099999999,41.543646],"type":"Point"}
 }

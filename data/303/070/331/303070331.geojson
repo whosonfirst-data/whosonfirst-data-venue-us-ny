@@ -2,13 +2,14 @@
   "id": 303070331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.903561,40.84419,-73.903561,40.84419",
     "geom:latitude":40.84419,
     "geom:longitude":-73.903561,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1674 Carter Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892767,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85892767
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"973a9feae635b735600fb7f549c68ef8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892767,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":303070331,
-    "wof:lastmodified":1448999313,
+    "wof:lastmodified":1454123382,
     "wof:name":"L & B Machine Shop Inc",
     "wof:parent_id":85892767,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "automobile"
     ]
 },
-  "bbox": [-73.903561,40.84419,-73.903561,40.84419],
+  "bbox": [
+    -73.903561,
+    40.84419,
+    -73.903561,
+    40.84419
+],
   "geometry": {"coordinates":[-73.903561,40.84419],"type":"Point"}
 }

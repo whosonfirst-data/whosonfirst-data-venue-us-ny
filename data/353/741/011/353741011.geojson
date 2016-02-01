@@ -2,13 +2,14 @@
   "id": 353741011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.64817,40.773102,-73.64817,40.773102",
     "geom:latitude":40.773102,
     "geom:longitude":-73.64817,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14 Hillvale Rd",
     "sg:city":"Albertson",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847583,
+        102191575,
+        404522729,
         85633793,
-        85979177,
+        85977733,
         102082371,
-        85847583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +54,18 @@
     "wof:geomhash":"2155792f1a5089056088ff6fb85aeb4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979177,
+            "localadmin_id":404522729,
+            "locality_id":85977733,
             "neighbourhood_id":85847583,
             "region_id":85688543,
             "venue_id":353741011
         }
     ],
     "wof:id":353741011,
-    "wof:lastmodified":1449018384,
+    "wof:lastmodified":1454125987,
     "wof:name":"Prince Group International Inc",
     "wof:parent_id":85847583,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.64817,40.773102,-73.64817,40.773102],
-  "geometry": {"coordinates":[-73.64817,40.773102],"type":"Point"}
+  "bbox": [
+    -73.64817,
+    40.773102,
+    -73.64817,
+    40.773102
+],
+  "geometry": {"coordinates":[-73.64816999999999,40.773102],"type":"Point"}
 }

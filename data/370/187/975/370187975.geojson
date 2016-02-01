@@ -2,13 +2,14 @@
   "id": 370187975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.189426,40.837269,-73.189426,40.837269",
     "geom:latitude":40.837269,
     "geom:longitude":-73.189426,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"33 Plaisted Ave",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530053,
+        102191575,
+        404522517,
         85633793,
-        85979919,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"5e61e6e8c0186b14d32fcfd3b56c56eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530053,
             "region_id":85688543,
             "venue_id":370187975
         }
     ],
     "wof:id":370187975,
-    "wof:lastmodified":1449029594,
+    "wof:lastmodified":1454127462,
     "wof:name":"Smithtown Central School District",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "elementary"
     ]
 },
-  "bbox": [-73.189426,40.837269,-73.189426,40.837269],
+  "bbox": [
+    -73.189426,
+    40.837269,
+    -73.189426,
+    40.837269
+],
   "geometry": {"coordinates":[-73.189426,40.837269],"type":"Point"}
 }

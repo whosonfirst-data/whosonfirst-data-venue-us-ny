@@ -2,13 +2,14 @@
   "id": 370224875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.519715,40.817627,-73.519715,40.817627",
     "geom:latitude":40.817627,
     "geom:longitude":-73.519715,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2066 Ridge Rd",
     "sg:city":"Syosset",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
-        85977611,
-        102082371
+        85979055,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"26f7ea6139332b10027c8f4b5ddece6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977611,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85979055,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":370224875
         }
     ],
     "wof:id":370224875,
-    "wof:lastmodified":1449031567,
+    "wof:lastmodified":1454128045,
     "wof:name":"Ponies For Parties",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "rental"
     ]
 },
-  "bbox": [-73.519715,40.817627,-73.519715,40.817627],
-  "geometry": {"coordinates":[-73.519715,40.817627],"type":"Point"}
+  "bbox": [
+    -73.519715,
+    40.817627,
+    -73.519715,
+    40.817627
+],
+  "geometry": {"coordinates":[-73.51971500000001,40.817627],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370882571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.555016,41.002295,-72.555016,41.002295",
     "geom:latitude":41.002295,
     "geom:longitude":-72.555016,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5780 W Mill Rd",
     "sg:city":"Mattituck",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848547,
+        102191575,
+        404523179,
         85633793,
         85979743,
         102082395,
-        85848547
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"0f2db4eb36f1cd2e304a8f40f234aa93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404523179,
             "locality_id":85979743,
             "neighbourhood_id":85848547,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":370882571,
-    "wof:lastmodified":1449029698,
+    "wof:lastmodified":1454127493,
     "wof:name":"Mattituck Inlet Marina Shipyrd",
     "wof:parent_id":85848547,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "nautical"
     ]
 },
-  "bbox": [-72.555016,41.002295,-72.555016,41.002295],
-  "geometry": {"coordinates":[-72.555016,41.002295],"type":"Point"}
+  "bbox": [
+    -72.555016,
+    41.002295,
+    -72.555016,
+    41.002295
+],
+  "geometry": {"coordinates":[-72.55501599999999,41.002295],"type":"Point"}
 }

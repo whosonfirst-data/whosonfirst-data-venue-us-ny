@@ -2,13 +2,14 @@
   "id": 370519057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.573665,40.750657,-73.573665,40.750657",
     "geom:latitude":40.750657,
     "geom:longitude":-73.573665,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"669 Old Country Rd",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846785,
+        102191575,
+        404521473,
         85633793,
-        85979093,
+        85979181,
         102082371,
-        85846785
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"6507e2f56205eeb83f9fd66bd0358f29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979093,
+            "localadmin_id":404521473,
+            "locality_id":85979181,
             "neighbourhood_id":85846785,
             "region_id":85688543,
             "venue_id":370519057
         }
     ],
     "wof:id":370519057,
-    "wof:lastmodified":1449032237,
+    "wof:lastmodified":1454128243,
     "wof:name":"Long Island Paneling Ceilings",
     "wof:parent_id":85846785,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "improvement"
     ]
 },
-  "bbox": [-73.573665,40.750657,-73.573665,40.750657],
-  "geometry": {"coordinates":[-73.573665,40.750657],"type":"Point"}
+  "bbox": [
+    -73.573665,
+    40.750657,
+    -73.573665,
+    40.750657
+],
+  "geometry": {"coordinates":[-73.57366500000001,40.750657],"type":"Point"}
 }

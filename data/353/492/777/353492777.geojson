@@ -2,13 +2,14 @@
   "id": 353492777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.867043,40.822603,-73.867043,40.822603",
     "geom:latitude":40.822603,
     "geom:longitude":-73.867043,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"870 Rosedale Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528053,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"1640d5808626d200841de5dd7fe27ca3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528053,
             "region_id":85688543,
             "venue_id":353492777
         }
     ],
     "wof:id":353492777,
-    "wof:lastmodified":1449018260,
+    "wof:lastmodified":1454125951,
     "wof:name":"R & R Painting Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "hanging"
     ]
 },
-  "bbox": [-73.867043,40.822603,-73.867043,40.822603],
+  "bbox": [
+    -73.867043,
+    40.822603,
+    -73.867043,
+    40.822603
+],
   "geometry": {"coordinates":[-73.867043,40.822603],"type":"Point"}
 }

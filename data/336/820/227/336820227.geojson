@@ -2,13 +2,14 @@
   "id": 336820227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.439495,40.71977,-73.439495,40.71977",
     "geom:latitude":40.71977,
     "geom:longitude":-73.439495,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 Main St",
     "sg:city":"Farmingdale",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85833107,
+        102191575,
+        404521475,
         85633793,
-        85979843,
-        102082395,
-        85833107
+        85979161,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"5ceea1abea678f9fa66691f9acfbed5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979843,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979161,
             "neighbourhood_id":85833107,
             "region_id":85688543,
             "venue_id":336820227
         }
     ],
     "wof:id":336820227,
-    "wof:lastmodified":1448997514,
+    "wof:lastmodified":1454122798,
     "wof:name":"Pete's Deli",
     "wof:parent_id":85833107,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-73.439495,40.71977,-73.439495,40.71977],
-  "geometry": {"coordinates":[-73.439495,40.71977],"type":"Point"}
+  "bbox": [
+    -73.439495,
+    40.71977,
+    -73.439495,
+    40.71977
+],
+  "geometry": {"coordinates":[-73.43949499999999,40.71977],"type":"Point"}
 }

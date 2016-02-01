@@ -2,13 +2,14 @@
   "id": 404052009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.685924,41.447187,-73.685924,41.447187",
     "geom:latitude":41.447187,
     "geom:longitude":-73.685924,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"600 Horsepound Rd",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85809543,
+        102191575,
+        404523047,
         85633793,
-        85979557,
-        102083007
+        85979559,
+        102083007,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"80fb0b6b9e231b09ee8f25dada876a21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083007,
-            "locality_id":85979557,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523047,
+            "locality_id":85979559,
+            "neighbourhood_id":85809543,
             "region_id":85688543,
             "venue_id":404052009
         }
     ],
     "wof:id":404052009,
-    "wof:lastmodified":1449039557,
+    "wof:lastmodified":1454128885,
     "wof:name":"Brown Ink",
-    "wof:parent_id":-1,
+    "wof:parent_id":85809543,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "commercial"
     ]
 },
-  "bbox": [-73.685924,41.447187,-73.685924,41.447187],
+  "bbox": [
+    -73.685924,
+    41.447187,
+    -73.685924,
+    41.447187
+],
   "geometry": {"coordinates":[-73.685924,41.447187],"type":"Point"}
 }

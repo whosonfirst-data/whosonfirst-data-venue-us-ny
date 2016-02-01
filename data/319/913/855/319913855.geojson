@@ -2,13 +2,14 @@
   "id": 319913855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.59364,43.15505,-77.59364,43.15505",
     "geom:latitude":43.15505,
     "geom:longitude":-77.59364,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"440 East Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867103,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85880393
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +44,20 @@
     "wof:geomhash":"9b73eafeae563062c7ae6c9c6ad6fab9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
-            "neighbourhood_id":85880393,
+            "neighbourhood_id":85867103,
             "region_id":85688543,
             "venue_id":319913855
         }
     ],
     "wof:id":319913855,
-    "wof:lastmodified":1449024385,
+    "wof:lastmodified":1454126766,
     "wof:name":"Christian Science Churches",
-    "wof:parent_id":85880393,
+    "wof:parent_id":85867103,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-77.59364,43.15505,-77.59364,43.15505],
-  "geometry": {"coordinates":[-77.59364,43.15505],"type":"Point"}
+  "bbox": [
+    -77.59364,
+    43.15505,
+    -77.59364,
+    43.15505
+],
+  "geometry": {"coordinates":[-77.59363999999999,43.15505],"type":"Point"}
 }

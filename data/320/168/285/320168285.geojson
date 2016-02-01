@@ -2,13 +2,14 @@
   "id": 320168285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.962415,40.620109,-73.962415,40.620109",
     "geom:latitude":40.620109,
     "geom:longitude":-73.962415,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1212 Ave L",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865583,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"aca662edc25e4d5440702cb0872d1276",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865583,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":320168285,
-    "wof:lastmodified":1449013207,
+    "wof:lastmodified":1454125080,
     "wof:name":"Mitnick Yitzchok",
     "wof:parent_id":85865583,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "insurance"
     ]
 },
-  "bbox": [-73.962415,40.620109,-73.962415,40.620109],
-  "geometry": {"coordinates":[-73.962415,40.620109],"type":"Point"}
+  "bbox": [
+    -73.962415,
+    40.620109,
+    -73.962415,
+    40.620109
+],
+  "geometry": {"coordinates":[-73.96241499999999,40.620109],"type":"Point"}
 }

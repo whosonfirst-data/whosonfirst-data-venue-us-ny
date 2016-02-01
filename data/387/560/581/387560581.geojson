@@ -2,13 +2,14 @@
   "id": 387560581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.055743,41.193145,-74.055743,41.193145",
     "geom:latitude":41.193145,
     "geom:longitude":-74.055743,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 Linden Ct",
     "sg:city":"Pomona",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85809045,
+        102191575,
+        404523093,
         85633793,
-        85979993,
+        85978537,
         102082385,
-        85809045
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,18 @@
     "wof:geomhash":"f6601a75d0c153d1139c397a6d293ddd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979993,
+            "localadmin_id":404523093,
+            "locality_id":85978537,
             "neighbourhood_id":85809045,
             "region_id":85688543,
             "venue_id":387560581
         }
     ],
     "wof:id":387560581,
-    "wof:lastmodified":1449059009,
+    "wof:lastmodified":1454130047,
     "wof:name":"Lauber House",
     "wof:parent_id":85809045,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "facility"
     ]
 },
-  "bbox": [-74.055743,41.193145,-74.055743,41.193145],
-  "geometry": {"coordinates":[-74.055743,41.193145],"type":"Point"}
+  "bbox": [
+    -74.055743,
+    41.193145,
+    -74.055743,
+    41.193145
+],
+  "geometry": {"coordinates":[-74.05574300000001,41.193145],"type":"Point"}
 }

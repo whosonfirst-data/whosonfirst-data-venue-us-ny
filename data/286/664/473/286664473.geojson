@@ -2,13 +2,14 @@
   "id": 286664473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.832805,40.907257,-73.832805,40.907257",
     "geom:latitude":40.907257,
     "geom:longitude":-73.832805,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"48 E 3rd St",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"82575a015e957b08f643950bb6a72a8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":286664473
         }
     ],
     "wof:id":286664473,
-    "wof:lastmodified":1449016266,
+    "wof:lastmodified":1454125589,
     "wof:name":"Star Lite Beauty Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.832805,40.907257,-73.832805,40.907257],
-  "geometry": {"coordinates":[-73.832805,40.907257],"type":"Point"}
+  "bbox": [
+    -73.832805,
+    40.907257,
+    -73.832805,
+    40.907257
+],
+  "geometry": {"coordinates":[-73.83280499999999,40.907257],"type":"Point"}
 }

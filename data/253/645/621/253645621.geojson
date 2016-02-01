@@ -2,13 +2,14 @@
   "id": 253645621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.557414,40.755095,-73.557414,40.755095",
     "geom:latitude":40.755095,
     "geom:longitude":-73.557414,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"67 Bond St",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.enerac.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85856711,
+        102191575,
+        404521475,
         85633793,
-        85979063,
+        85979093,
         102082371,
-        85856711
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"a7dabce9fbbba96741b6b8a1558fcd7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979063,
+            "localadmin_id":404521475,
+            "locality_id":85979093,
             "neighbourhood_id":85856711,
             "region_id":85688543,
             "venue_id":253645621
         }
     ],
     "wof:id":253645621,
-    "wof:lastmodified":1449063107,
+    "wof:lastmodified":1454130291,
     "wof:name":"Enerac",
     "wof:parent_id":85856711,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "instr"
     ]
 },
-  "bbox": [-73.557414,40.755095,-73.557414,40.755095],
-  "geometry": {"coordinates":[-73.557414,40.755095],"type":"Point"}
+  "bbox": [
+    -73.557414,
+    40.755095,
+    -73.557414,
+    40.755095
+],
+  "geometry": {"coordinates":[-73.55741399999999,40.755095],"type":"Point"}
 }

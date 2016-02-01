@@ -2,13 +2,14 @@
   "id": 387944949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.826447,40.67732,-73.826447,40.67732",
     "geom:latitude":40.67732,
     "geom:longitude":-73.826447,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"0 Rockaway Blvd",
     "sg:city":"Jamaica",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.unitedtote.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865467,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"ab4a32b4e2310e59ec8f6b65c7b2f5a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85865467,
             "region_id":85688543,
             "venue_id":387944949
         }
     ],
     "wof:id":387944949,
-    "wof:lastmodified":1449058013,
+    "wof:lastmodified":1454129869,
     "wof:name":"United Tote Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865467,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.826447,40.67732,-73.826447,40.67732],
+  "bbox": [
+    -73.826447,
+    40.67732,
+    -73.826447,
+    40.67732
+],
   "geometry": {"coordinates":[-73.826447,40.67732],"type":"Point"}
 }

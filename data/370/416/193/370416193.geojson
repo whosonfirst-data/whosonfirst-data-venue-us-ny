@@ -2,13 +2,14 @@
   "id": 370416193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.809502,42.74209,-73.809502,42.74209",
     "geom:latitude":42.74209,
     "geom:longitude":-73.809502,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"862 Albany Shaker Rd",
     "sg:city":"Latham",
     "sg:classifiers":[
@@ -28,6 +29,7 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102529295,
         85688543,
         85633793,
         102082353,
@@ -41,19 +43,18 @@
     "wof:geomhash":"14b8b3fc0259079739627cbccc4764f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102529295,
             "country_id":85633793,
             "county_id":102082353,
-            "locality_id":-1,
             "neighbourhood_id":85847957,
             "region_id":85688543,
             "venue_id":370416193
         }
     ],
     "wof:id":370416193,
-    "wof:lastmodified":1449030617,
+    "wof:lastmodified":1454127763,
     "wof:name":"Assoc World Logistics Network",
-    "wof:parent_id":85847957,
+    "wof:parent_id":102529295,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +63,11 @@
         "broker"
     ]
 },
-  "bbox": [-73.809502,42.74209,-73.809502,42.74209],
-  "geometry": {"coordinates":[-73.809502,42.74209],"type":"Point"}
+  "bbox": [
+    -73.809502,
+    42.74209,
+    -73.809502,
+    42.74209
+],
+  "geometry": {"coordinates":[-73.80950199999999,42.74209],"type":"Point"}
 }

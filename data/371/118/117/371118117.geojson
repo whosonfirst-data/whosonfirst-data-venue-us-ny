@@ -2,13 +2,14 @@
   "id": 371118117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.846049,42.836772,-78.846049,42.836772",
     "geom:latitude":42.836772,
     "geom:longitude":-78.846049,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"231 Ship Canal Pkwy",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"http://www.certainteed.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872909,
+        102191575,
+        404522349,
         85633793,
         85978009,
         102082387,
-        85872909
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"e673564c86546ce942edb6e3bf020f7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522349,
             "locality_id":85978009,
             "neighbourhood_id":85872909,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":371118117,
-    "wof:lastmodified":1449049899,
+    "wof:lastmodified":1454129240,
     "wof:name":"Pipe And Plastic Div",
     "wof:parent_id":85872909,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "forming-manufacturers"
     ]
 },
-  "bbox": [-78.846049,42.836772,-78.846049,42.836772],
-  "geometry": {"coordinates":[-78.846049,42.836772],"type":"Point"}
+  "bbox": [
+    -78.846049,
+    42.836772,
+    -78.846049,
+    42.836772
+],
+  "geometry": {"coordinates":[-78.84604899999999,42.836772],"type":"Point"}
 }

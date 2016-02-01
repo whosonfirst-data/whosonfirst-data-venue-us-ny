@@ -2,13 +2,14 @@
   "id": 354122767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.092587,40.858135,-73.092587,40.858135",
     "geom:latitude":40.858135,
     "geom:longitude":-73.092587,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2686 Middle Country Rd",
     "sg:city":"Centereach",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"https://www.fleet.ford.com/rentacar",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892999,
+        102191575,
+        404521441,
         85633793,
         85979825,
         102082395,
-        85892999
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"2179ef16058777e48a795aa6cfdb6752",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979825,
             "neighbourhood_id":85892999,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":354122767,
-    "wof:lastmodified":1449066913,
+    "wof:lastmodified":1454131069,
     "wof:name":"Ford Rent A Car System",
     "wof:parent_id":85892999,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "car"
     ]
 },
-  "bbox": [-73.092587,40.858135,-73.092587,40.858135],
-  "geometry": {"coordinates":[-73.092587,40.858135],"type":"Point"}
+  "bbox": [
+    -73.092587,
+    40.858135,
+    -73.092587,
+    40.858135
+],
+  "geometry": {"coordinates":[-73.09258699999999,40.858135],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253434505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.116309,40.754008,-73.116309,40.754008",
     "geom:latitude":40.754008,
     "geom:longitude":-73.116309,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4580 Sunrise Hwy",
     "sg:city":"Oakdale",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837663,
+        102191575,
+        404522517,
         85633793,
-        85979697,
+        85979705,
         102082395,
-        85837663
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"1b8336eb68e8b1b77264634d15b3424d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979697,
+            "localadmin_id":404522517,
+            "locality_id":85979705,
             "neighbourhood_id":85837663,
             "region_id":85688543,
             "venue_id":253434505
         }
     ],
     "wof:id":253434505,
-    "wof:lastmodified":1449063445,
+    "wof:lastmodified":1454130349,
     "wof:name":"Gary Fortcher",
     "wof:parent_id":85837663,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "financial"
     ]
 },
-  "bbox": [-73.116309,40.754008,-73.116309,40.754008],
+  "bbox": [
+    -73.116309,
+    40.754008,
+    -73.116309,
+    40.754008
+],
   "geometry": {"coordinates":[-73.116309,40.754008],"type":"Point"}
 }

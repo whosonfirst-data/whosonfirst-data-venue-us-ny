@@ -2,13 +2,14 @@
   "id": 253361501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.557864,43.154757,-77.557864,43.154757",
     "geom:latitude":43.154757,
     "geom:longitude":-77.557864,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"104 Brookfield Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880405,
+        102191575,
+        404521467,
         85633793,
-        85979035,
+        85977591,
         102081815,
-        85880405
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"d572dd92802640b945da223f49fc7288",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85979035,
+            "localadmin_id":404521467,
+            "locality_id":85977591,
             "neighbourhood_id":85880405,
             "region_id":85688543,
             "venue_id":253361501
         }
     ],
     "wof:id":253361501,
-    "wof:lastmodified":1449064985,
+    "wof:lastmodified":1454130610,
     "wof:name":"Media Tribe",
     "wof:parent_id":85880405,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "custom"
     ]
 },
-  "bbox": [-77.557864,43.154757,-77.557864,43.154757],
+  "bbox": [
+    -77.557864,
+    43.154757,
+    -77.557864,
+    43.154757
+],
   "geometry": {"coordinates":[-77.557864,43.154757],"type":"Point"}
 }

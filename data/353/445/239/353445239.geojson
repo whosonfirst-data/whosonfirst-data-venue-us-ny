@@ -2,13 +2,14 @@
   "id": 353445239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.846546,40.720823,-73.846546,40.720823",
     "geom:latitude":40.720823,
     "geom:longitude":-73.846546,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7013 Austin St",
     "sg:city":"Forest Hills",
     "sg:classifiers":[
@@ -41,11 +42,13 @@
     "sg:website":"www.ripejuicebar.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819875,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819875
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,9 +58,10 @@
     "wof:geomhash":"4130936b026db2c22a481cda0200e61f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819875,
             "region_id":85688543,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":353445239,
-    "wof:lastmodified":1449018596,
+    "wof:lastmodified":1454126046,
     "wof:name":"Ripe Juice Bar & Grill",
     "wof:parent_id":85819875,
     "wof:placetype":"venue",
@@ -78,6 +82,11 @@
         "brunch"
     ]
 },
-  "bbox": [-73.846546,40.720823,-73.846546,40.720823],
+  "bbox": [
+    -73.846546,
+    40.720823,
+    -73.846546,
+    40.720823
+],
   "geometry": {"coordinates":[-73.846546,40.720823],"type":"Point"}
 }

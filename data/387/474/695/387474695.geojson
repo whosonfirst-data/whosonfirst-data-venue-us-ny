@@ -2,13 +2,14 @@
   "id": 387474695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.82258,41.047002,-73.82258,41.047002",
     "geom:latitude":41.047002,
     "geom:longitude":-73.82258,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2269 Saw Mill River Rd",
     "sg:city":"Elmsford",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85893045,
+        102082373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"0e96bfa9bd74e3e43e10ded25deba8b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082373,
+            "neighbourhood_id":85893045,
             "region_id":85688543,
             "venue_id":387474695
         }
     ],
     "wof:id":387474695,
-    "wof:lastmodified":1449056275,
+    "wof:lastmodified":1454129561,
     "wof:name":"Oriental Builders & Developers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893045,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.82258,41.047002,-73.82258,41.047002],
+  "bbox": [
+    -73.82258,
+    41.047002,
+    -73.82258,
+    41.047002
+],
   "geometry": {"coordinates":[-73.82258,41.047002],"type":"Point"}
 }

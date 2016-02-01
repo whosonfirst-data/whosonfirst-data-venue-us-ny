@@ -2,13 +2,14 @@
   "id": 253097013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.873146,40.824092,-73.873146,40.824092",
     "geom:latitude":40.824092,
     "geom:longitude":-73.873146,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1636 Bruckner Blvd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528053,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"010d36b9f4ed6ea7262ee1e85e8b3e7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528053,
             "region_id":85688543,
             "venue_id":253097013
         }
     ],
     "wof:id":253097013,
-    "wof:lastmodified":1449063991,
+    "wof:lastmodified":1454130441,
     "wof:name":"Toys r US",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.873146,40.824092,-73.873146,40.824092],
-  "geometry": {"coordinates":[-73.873146,40.824092],"type":"Point"}
+  "bbox": [
+    -73.873146,
+    40.824092,
+    -73.873146,
+    40.824092
+],
+  "geometry": {"coordinates":[-73.87314600000001,40.824092],"type":"Point"}
 }

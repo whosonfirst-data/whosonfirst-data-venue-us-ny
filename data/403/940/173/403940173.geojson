@@ -2,13 +2,14 @@
   "id": 403940173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.067102,40.777615,-73.067102,40.777615",
     "geom:latitude":40.777615,
     "geom:longitude":-73.067102,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"780 Broadway Ave",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     "sg:website":"www.astrotile.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"b8b5fa2f80ba63046bd482402254bd3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":403940173
         }
     ],
     "wof:id":403940173,
-    "wof:lastmodified":1449054976,
+    "wof:lastmodified":1454129373,
     "wof:name":"Astro Tile Company Inc",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.067102,40.777615,-73.067102,40.777615],
-  "geometry": {"coordinates":[-73.067102,40.777615],"type":"Point"}
+  "bbox": [
+    -73.067102,
+    40.777615,
+    -73.067102,
+    40.777615
+],
+  "geometry": {"coordinates":[-73.06710200000001,40.777615],"type":"Point"}
 }

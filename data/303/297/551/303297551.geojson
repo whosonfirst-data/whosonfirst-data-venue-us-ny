@@ -2,13 +2,14 @@
   "id": 303297551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.116525,40.939463,-73.116525,40.939463",
     "geom:latitude":40.939463,
     "geom:longitude":-73.116525,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"51 Main St",
     "sg:city":"Setauket",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824457,
+        102191575,
+        404521441,
         85633793,
-        85978487,
+        85979927,
         102082395,
-        85824457
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"783b3b4468a9ef9385fb13e982860410",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978487,
+            "localadmin_id":404521441,
+            "locality_id":85979927,
             "neighbourhood_id":85824457,
             "region_id":85688543,
             "venue_id":303297551
         }
     ],
     "wof:id":303297551,
-    "wof:lastmodified":1448999672,
+    "wof:lastmodified":1454123476,
     "wof:name":"W Electric Co",
     "wof:parent_id":85824457,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "radio"
     ]
 },
-  "bbox": [-73.116525,40.939463,-73.116525,40.939463],
+  "bbox": [
+    -73.116525,
+    40.939463,
+    -73.116525,
+    40.939463
+],
   "geometry": {"coordinates":[-73.116525,40.939463],"type":"Point"}
 }

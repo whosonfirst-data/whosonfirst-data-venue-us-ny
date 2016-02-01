@@ -2,13 +2,14 @@
   "id": 354323603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.511553,40.726009,-73.511553,40.726009",
     "geom:latitude":40.726009,
     "geom:longitude":-73.511553,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3361 Hempstead Tpke",
     "sg:city":"Levittown",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"03c801a472cbebb9f31a0e77dbe07b4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":354323603
         }
     ],
     "wof:id":354323603,
-    "wof:lastmodified":1449066074,
+    "wof:lastmodified":1454130813,
     "wof:name":"The Children's Place",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "clothing"
     ]
 },
-  "bbox": [-73.511553,40.726009,-73.511553,40.726009],
-  "geometry": {"coordinates":[-73.511553,40.726009],"type":"Point"}
+  "bbox": [
+    -73.511553,
+    40.726009,
+    -73.511553,
+    40.726009
+],
+  "geometry": {"coordinates":[-73.51155300000001,40.726009],"type":"Point"}
 }

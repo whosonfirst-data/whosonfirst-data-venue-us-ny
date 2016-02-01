@@ -2,13 +2,14 @@
   "id": 303881239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.033864,40.866636,-73.033864,40.866636",
     "geom:latitude":40.866636,
     "geom:longitude":-73.033864,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"626 Middle Country Rd",
     "sg:city":"Selden",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"74753173de19c33c23dcea3a755b7d23",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":303881239
         }
     ],
     "wof:id":303881239,
-    "wof:lastmodified":1448999539,
+    "wof:lastmodified":1454123440,
     "wof:name":"Pudgies Famous Chicken",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.033864,40.866636,-73.033864,40.866636],
-  "geometry": {"coordinates":[-73.033864,40.866636],"type":"Point"}
+  "bbox": [
+    -73.033864,
+    40.866636,
+    -73.033864,
+    40.866636
+],
+  "geometry": {"coordinates":[-73.03386399999999,40.866636],"type":"Point"}
 }

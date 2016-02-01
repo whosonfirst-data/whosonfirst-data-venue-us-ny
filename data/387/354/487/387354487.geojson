@@ -2,13 +2,14 @@
   "id": 387354487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.040664,41.130101,-74.040664,41.130101",
     "geom:latitude":41.130101,
     "geom:longitude":-74.040664,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"269 N Main St",
     "sg:city":"Spring Valley",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"386181d6a50e2900c1b76ad073ca674a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":387354487
         }
     ],
     "wof:id":387354487,
-    "wof:lastmodified":1449059487,
+    "wof:lastmodified":1454130131,
     "wof:name":"Crest Hill Cleaners",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "tailor"
     ]
 },
-  "bbox": [-74.040664,41.130101,-74.040664,41.130101],
-  "geometry": {"coordinates":[-74.040664,41.130101],"type":"Point"}
+  "bbox": [
+    -74.040664,
+    41.130101,
+    -74.040664,
+    41.130101
+],
+  "geometry": {"coordinates":[-74.04066400000001,41.130101],"type":"Point"}
 }

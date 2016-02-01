@@ -2,13 +2,14 @@
   "id": 353642991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.820462,40.67616,-73.820462,40.67616",
     "geom:latitude":40.67616,
     "geom:longitude":-73.820462,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11720 Rockaway Boulevard",
     "sg:city":"South Ozone Park",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865467,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865467
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"adde09ac55879687c64e988798176bdf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865467,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":353642991,
-    "wof:lastmodified":1449018401,
+    "wof:lastmodified":1454125992,
     "wof:name":"Wing Wah Restrnt",
     "wof:parent_id":85865467,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.820462,40.67616,-73.820462,40.67616],
-  "geometry": {"coordinates":[-73.820462,40.67616],"type":"Point"}
+  "bbox": [
+    -73.820462,
+    40.67616,
+    -73.820462,
+    40.67616
+],
+  "geometry": {"coordinates":[-73.82046200000001,40.67616],"type":"Point"}
 }

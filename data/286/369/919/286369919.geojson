@@ -2,13 +2,14 @@
   "id": 286369919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.834327,40.841139,-72.834327,40.841139",
     "geom:latitude":40.841139,
     "geom:longitude":-72.834327,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"276 Woodland Ave",
     "sg:city":"Manorville",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530021,
+        102191575,
+        404521441,
         85633793,
         85979761,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"48192e546ed39acaf93c4f493f524404",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530021,
             "region_id":85688543,
             "venue_id":286369919
         }
     ],
     "wof:id":286369919,
-    "wof:lastmodified":1449017939,
+    "wof:lastmodified":1454125886,
     "wof:name":"Radio Amateur K2m C",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530021,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-72.834327,40.841139,-72.834327,40.841139],
+  "bbox": [
+    -72.834327,
+    40.841139,
+    -72.834327,
+    40.841139
+],
   "geometry": {"coordinates":[-72.834327,40.841139],"type":"Point"}
 }

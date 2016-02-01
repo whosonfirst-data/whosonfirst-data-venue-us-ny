@@ -2,13 +2,14 @@
   "id": 354088525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.236198,40.726299,-73.236198,40.726299",
     "geom:latitude":40.726299,
     "geom:longitude":-73.236198,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"375 E Main St",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530029,
+        102191575,
+        404522517,
         85633793,
-        85979719,
-        102082395
+        85979775,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"65a84d5610bc4580af039b29af26885e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979775,
+            "neighbourhood_id":420530029,
             "region_id":85688543,
             "venue_id":354088525
         }
     ],
     "wof:id":354088525,
-    "wof:lastmodified":1449067259,
+    "wof:lastmodified":1454131181,
     "wof:name":"O'brien John D MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530029,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.236198,40.726299,-73.236198,40.726299],
+  "bbox": [
+    -73.236198,
+    40.726299,
+    -73.236198,
+    40.726299
+],
   "geometry": {"coordinates":[-73.236198,40.726299],"type":"Point"}
 }

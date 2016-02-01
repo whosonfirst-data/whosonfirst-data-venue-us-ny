@@ -2,13 +2,14 @@
   "id": 253449557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.173465,40.845473,-73.173465,40.845473",
     "geom:latitude":40.845473,
     "geom:longitude":-73.173465,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"540 Smithtown Byp",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530053,
+        102191575,
+        404522517,
         85633793,
-        85979919,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"fc0a72f0b684f0722d46fd3a41ea1243",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530053,
             "region_id":85688543,
             "venue_id":253449557
         }
     ],
     "wof:id":253449557,
-    "wof:lastmodified":1449065575,
+    "wof:lastmodified":1454130705,
     "wof:name":"Smithtown Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.173465,40.845473,-73.173465,40.845473],
-  "geometry": {"coordinates":[-73.173465,40.845473],"type":"Point"}
+  "bbox": [
+    -73.173465,
+    40.845473,
+    -73.173465,
+    40.845473
+],
+  "geometry": {"coordinates":[-73.17346499999999,40.845473],"type":"Point"}
 }

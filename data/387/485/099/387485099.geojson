@@ -2,13 +2,14 @@
   "id": 387485099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.118128,40.557786,-74.118128,40.557786",
     "geom:latitude":40.557786,
     "geom:longitude":-74.118128,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"529 Lynn St",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85839103,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85839103
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"d6295cfc09d30721c0c8cbac1940e08d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85839103,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387485099,
-    "wof:lastmodified":1449058423,
+    "wof:lastmodified":1454129943,
     "wof:name":"Oei",
     "wof:parent_id":85839103,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "internet"
     ]
 },
-  "bbox": [-74.118128,40.557786,-74.118128,40.557786],
+  "bbox": [
+    -74.118128,
+    40.557786,
+    -74.118128,
+    40.557786
+],
   "geometry": {"coordinates":[-74.118128,40.557786],"type":"Point"}
 }

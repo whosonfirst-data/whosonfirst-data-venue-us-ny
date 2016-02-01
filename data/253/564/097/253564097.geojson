@@ -2,13 +2,14 @@
   "id": 253564097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.903224,40.890908,-72.903224,40.890908",
     "geom:latitude":40.890908,
     "geom:longitude":-72.903224,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1880 Middle Country Rd",
     "sg:city":"Ridge",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979861,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"767749d12d197969a452e716d3950380",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979861,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":253564097
         }
     ],
     "wof:id":253564097,
-    "wof:lastmodified":1449065619,
+    "wof:lastmodified":1454130713,
     "wof:name":"Astoria Federal Sav & Ln Assn",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "savings"
     ]
 },
-  "bbox": [-72.903224,40.890908,-72.903224,40.890908],
-  "geometry": {"coordinates":[-72.903224,40.890908],"type":"Point"}
+  "bbox": [
+    -72.903224,
+    40.890908,
+    -72.903224,
+    40.890908
+],
+  "geometry": {"coordinates":[-72.90322399999999,40.890908],"type":"Point"}
 }

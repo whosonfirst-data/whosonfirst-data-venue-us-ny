@@ -2,13 +2,14 @@
   "id": 303866707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.262706,40.818734,-73.262706,40.818734",
     "geom:latitude":40.818734,
     "geom:longitude":-73.262706,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 Davids Dr",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892807,
+        102191575,
+        404522669,
         85633793,
         85979805,
         102082395,
-        85892807
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"51cdcbfd1fb7df4b304c2ce98bd06ce3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979805,
             "neighbourhood_id":85892807,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":303866707,
-    "wof:lastmodified":1448999283,
+    "wof:lastmodified":1454123372,
     "wof:name":"United Biomedical Lab",
     "wof:parent_id":85892807,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "research"
     ]
 },
-  "bbox": [-73.262706,40.818734,-73.262706,40.818734],
-  "geometry": {"coordinates":[-73.262706,40.818734],"type":"Point"}
+  "bbox": [
+    -73.262706,
+    40.818734,
+    -73.262706,
+    40.818734
+],
+  "geometry": {"coordinates":[-73.26270599999999,40.818734],"type":"Point"}
 }

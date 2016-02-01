@@ -2,13 +2,14 @@
   "id": 337614631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.474153,42.6813,-74.474153,42.6813",
     "geom:latitude":42.6813,
     "geom:longitude":-74.474153,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"125 Granite Dr",
     "sg:city":"Cobleskill",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529925,
+        102191575,
+        404522527,
         85633793,
         85978335,
-        102083101
+        102083101,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"7b429d872a94929a86a798c1757826a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083101,
+            "localadmin_id":404522527,
             "locality_id":85978335,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529925,
             "region_id":85688543,
             "venue_id":337614631
         }
     ],
     "wof:id":337614631,
-    "wof:lastmodified":1449027759,
+    "wof:lastmodified":1454127189,
     "wof:name":"Carpets & Then Some",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529925,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "rug"
     ]
 },
-  "bbox": [-74.474153,42.6813,-74.474153,42.6813],
+  "bbox": [
+    -74.474153,
+    42.6813,
+    -74.474153,
+    42.6813
+],
   "geometry": {"coordinates":[-74.474153,42.6813],"type":"Point"}
 }

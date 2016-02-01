@@ -2,13 +2,14 @@
   "id": 353638609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.824799,40.690201,-73.824799,40.690201",
     "geom:latitude":40.690201,
     "geom:longitude":-73.824799,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10105 120th St",
     "sg:city":"South Richmond Hill",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844441,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844441
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"98eb46a0bd4607832bc4121933f869c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844441,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":353638609,
-    "wof:lastmodified":1449018385,
+    "wof:lastmodified":1454125988,
     "wof:name":"Empire Capital Mortgage Corp",
     "wof:parent_id":85844441,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-73.824799,40.690201,-73.824799,40.690201],
+  "bbox": [
+    -73.824799,
+    40.690201,
+    -73.824799,
+    40.690201
+],
   "geometry": {"coordinates":[-73.824799,40.690201],"type":"Point"}
 }

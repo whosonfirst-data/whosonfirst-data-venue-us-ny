@@ -2,13 +2,14 @@
   "id": 286551933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.360439,42.021753,-76.360439,42.021753",
     "geom:latitude":42.021753,
     "geom:longitude":-76.360439,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"511 Sunnyside Rd",
     "sg:city":"Nichols",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85978501,
+        102082391,
+        85822251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +43,18 @@
     "wof:geomhash":"f323f6cde9708b4eaa4ddf2f8cc9792c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082391,
+            "locality_id":85978501,
+            "neighbourhood_id":85822251,
             "region_id":85688543,
             "venue_id":286551933
         }
     ],
     "wof:id":286551933,
-    "wof:lastmodified":1449015754,
+    "wof:lastmodified":1454125500,
     "wof:name":"Lone Ranger",
-    "wof:parent_id":-1,
+    "wof:parent_id":85822251,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +63,11 @@
         "metal"
     ]
 },
-  "bbox": [-76.360439,42.021753,-76.360439,42.021753],
+  "bbox": [
+    -76.360439,
+    42.021753,
+    -76.360439,
+    42.021753
+],
   "geometry": {"coordinates":[-76.360439,42.021753],"type":"Point"}
 }

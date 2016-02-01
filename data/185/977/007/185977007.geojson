@@ -2,13 +2,14 @@
   "id": 185977007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.941176,40.596324,-73.941176,40.596324",
     "geom:latitude":40.596324,
     "geom:longitude":-73.941176,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3594 Nostrand Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.carvel.com/home.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848121,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85848121
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"ec48d50f5b88f47167639a6796fabd60",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85848121,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":185977007,
-    "wof:lastmodified":1449008261,
+    "wof:lastmodified":1454124360,
     "wof:name":"Carvel",
     "wof:parent_id":85848121,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-73.941176,40.596324,-73.941176,40.596324],
+  "bbox": [
+    -73.941176,
+    40.596324,
+    -73.941176,
+    40.596324
+],
   "geometry": {"coordinates":[-73.941176,40.596324],"type":"Point"}
 }

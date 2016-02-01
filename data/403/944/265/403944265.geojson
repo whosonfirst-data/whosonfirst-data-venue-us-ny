@@ -2,13 +2,14 @@
   "id": 403944265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.188802,41.334309,-74.188802,41.334309",
     "geom:latitude":41.334309,
     "geom:longitude":-74.188802,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"41 Oak St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832781,
+        102191575,
+        404522907,
         85633793,
+        85979523,
         102083061,
-        85832781
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"b7809f0060f97632af558de14a9b8103",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":-1,
+            "localadmin_id":404522907,
+            "locality_id":85979523,
             "neighbourhood_id":85832781,
             "region_id":85688543,
             "venue_id":403944265
         }
     ],
     "wof:id":403944265,
-    "wof:lastmodified":1449055305,
+    "wof:lastmodified":1454129418,
     "wof:name":"C & J Repairs",
     "wof:parent_id":85832781,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "automobile"
     ]
 },
-  "bbox": [-74.188802,41.334309,-74.188802,41.334309],
+  "bbox": [
+    -74.188802,
+    41.334309,
+    -74.188802,
+    41.334309
+],
   "geometry": {"coordinates":[-74.188802,41.334309],"type":"Point"}
 }

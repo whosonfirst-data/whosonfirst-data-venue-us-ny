@@ -2,13 +2,14 @@
   "id": 253703635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.855629,40.823212,-73.855629,40.823212",
     "geom:latitude":40.823212,
     "geom:longitude":-73.855629,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1931 Turnbull Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853099,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85853099
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a3cd1fbef5c40e25c8577ddc86d20b9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853099,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":253703635,
-    "wof:lastmodified":1449063713,
+    "wof:lastmodified":1454130393,
     "wof:name":"Dime Sav Bnk of Williamsburgh",
     "wof:parent_id":85853099,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "federally"
     ]
 },
-  "bbox": [-73.855629,40.823212,-73.855629,40.823212],
-  "geometry": {"coordinates":[-73.855629,40.823212],"type":"Point"}
+  "bbox": [
+    -73.855629,
+    40.823212,
+    -73.855629,
+    40.823212
+],
+  "geometry": {"coordinates":[-73.85562899999999,40.823212],"type":"Point"}
 }

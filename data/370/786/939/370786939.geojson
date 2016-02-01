@@ -2,13 +2,14 @@
   "id": 370786939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.131914,43.052153,-76.131914,43.052153",
     "geom:latitude":43.052153,
     "geom:longitude":-76.131914,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"703 Burnet Ave",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     "sg:website":"http://www.primomotors.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881253,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881253
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"b0e30a7f8c8177f600c77944f42fccd6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881253,
             "region_id":85688543,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":370786939,
-    "wof:lastmodified":1449029536,
+    "wof:lastmodified":1454127447,
     "wof:name":"Primo Motors",
     "wof:parent_id":85881253,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "new"
     ]
 },
-  "bbox": [-76.131914,43.052153,-76.131914,43.052153],
-  "geometry": {"coordinates":[-76.131914,43.052153],"type":"Point"}
+  "bbox": [
+    -76.131914,
+    43.052153,
+    -76.131914,
+    43.052153
+],
+  "geometry": {"coordinates":[-76.13191399999999,43.052153],"type":"Point"}
 }

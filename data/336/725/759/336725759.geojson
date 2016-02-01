@@ -2,13 +2,14 @@
   "id": 336725759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.066256,40.73851,-73.066256,40.73851",
     "geom:latitude":40.73851,
     "geom:longitude":-73.066256,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"87 McConnell Ave",
     "sg:city":"Bayport",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"fe257af08bb67647708a6ff22d99975a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":336725759
         }
     ],
     "wof:id":336725759,
-    "wof:lastmodified":1448997212,
+    "wof:lastmodified":1454122475,
     "wof:name":"Cecere Tile",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.066256,40.73851,-73.066256,40.73851],
+  "bbox": [
+    -73.066256,
+    40.73851,
+    -73.066256,
+    40.73851
+],
   "geometry": {"coordinates":[-73.066256,40.73851],"type":"Point"}
 }

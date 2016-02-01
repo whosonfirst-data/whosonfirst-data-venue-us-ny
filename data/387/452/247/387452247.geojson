@@ -2,13 +2,14 @@
   "id": 387452247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.98822,41.907833,-73.98822,41.907833",
     "geom:latitude":41.907833,
     "geom:longitude":-73.98822,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"52 Connelly Rd",
     "sg:city":"Port Ewen",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845827,
+        102191575,
+        404523249,
         85633793,
-        85978967,
-        102081775
+        85977505,
+        102081775,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"2c9255fc84ad18a6b318f5e944de0553",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
-            "locality_id":85978967,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523249,
+            "locality_id":85977505,
+            "neighbourhood_id":85845827,
             "region_id":85688543,
             "venue_id":387452247
         }
     ],
     "wof:id":387452247,
-    "wof:lastmodified":1449057002,
+    "wof:lastmodified":1454129690,
     "wof:name":"Wells Fargo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85845827,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "funding"
     ]
 },
-  "bbox": [-73.98822,41.907833,-73.98822,41.907833],
+  "bbox": [
+    -73.98822,
+    41.907833,
+    -73.98822,
+    41.907833
+],
   "geometry": {"coordinates":[-73.98822,41.907833],"type":"Point"}
 }

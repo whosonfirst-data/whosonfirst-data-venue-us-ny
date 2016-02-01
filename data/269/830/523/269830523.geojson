@@ -2,13 +2,14 @@
   "id": 269830523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.759625,41.035994,-73.759625,41.035994",
     "geom:latitude":41.035994,
     "geom:longitude":-73.759625,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"350 Main St",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530467,
+        102191575,
+        404523395,
         85633793,
         85978761,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"389d64b2c72a49af2152e26b251e4a24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523395,
             "locality_id":85978761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530467,
             "region_id":85688543,
             "venue_id":269830523
         }
     ],
     "wof:id":269830523,
-    "wof:lastmodified":1449036662,
+    "wof:lastmodified":1454128540,
     "wof:name":"Tel Tech Wildfire Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530467,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "answering"
     ]
 },
-  "bbox": [-73.759625,41.035994,-73.759625,41.035994],
+  "bbox": [
+    -73.759625,
+    41.035994,
+    -73.759625,
+    41.035994
+],
   "geometry": {"coordinates":[-73.759625,41.035994],"type":"Point"}
 }

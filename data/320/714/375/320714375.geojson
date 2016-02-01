@@ -2,13 +2,14 @@
   "id": 320714375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.731505,40.951418,-73.731505,40.951418",
     "geom:latitude":40.951418,
     "geom:longitude":-73.731505,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"308 Tompkins Ave",
     "sg:city":"Mamaroneck",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"www.axidev.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848551,
+        102191575,
+        404523365,
         85633793,
         85978729,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"0f0d0efe4e5eea3e32a958e0bb3df21d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523365,
             "locality_id":85978729,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85848551,
             "region_id":85688543,
             "venue_id":320714375
         }
     ],
     "wof:id":320714375,
-    "wof:lastmodified":1449013103,
+    "wof:lastmodified":1454125063,
     "wof:name":"Axi Dev Software",
-    "wof:parent_id":-1,
+    "wof:parent_id":85848551,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "software"
     ]
 },
-  "bbox": [-73.731505,40.951418,-73.731505,40.951418],
+  "bbox": [
+    -73.731505,
+    40.951418,
+    -73.731505,
+    40.951418
+],
   "geometry": {"coordinates":[-73.731505,40.951418],"type":"Point"}
 }

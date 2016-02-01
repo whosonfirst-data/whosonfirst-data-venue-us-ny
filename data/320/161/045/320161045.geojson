@@ -2,13 +2,14 @@
   "id": 320161045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.851356,40.871082,-73.851356,40.871082",
     "geom:latitude":40.871082,
     "geom:longitude":-73.851356,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1246 Burke Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528059,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"ee8b5d9fb491fc559aa60c5eaa58d99a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528059,
             "region_id":85688543,
             "venue_id":320161045
         }
     ],
     "wof:id":320161045,
-    "wof:lastmodified":1449012746,
+    "wof:lastmodified":1454125002,
     "wof:name":"Community Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528059,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "village"
     ]
 },
-  "bbox": [-73.851356,40.871082,-73.851356,40.871082],
+  "bbox": [
+    -73.851356,
+    40.871082,
+    -73.851356,
+    40.871082
+],
   "geometry": {"coordinates":[-73.851356,40.871082],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370546087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.108963,40.784398,-73.108963,40.784398",
     "geom:latitude":40.784398,
     "geom:longitude":-73.108963,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3880 Veterans Memorial Hwy",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -37,11 +38,14 @@
     "sg:website":"www.eagletelephonics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102528955,
+        85829285,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979793,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +55,21 @@
     "wof:geomhash":"7015f4469f3396b07505eceec40a854d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102528955,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
-            "neighbourhood_id":85892861,
+            "localadmin_id":404522517,
+            "locality_id":85979793,
+            "neighbourhood_id":85829285,
             "region_id":85688543,
             "venue_id":370546087
         }
     ],
     "wof:id":370546087,
-    "wof:lastmodified":1449029058,
+    "wof:lastmodified":1454127307,
     "wof:name":"Eagle Telephonics Inc",
-    "wof:parent_id":85892861,
+    "wof:parent_id":102528955,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -75,6 +81,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.108963,40.784398,-73.108963,40.784398],
+  "bbox": [
+    -73.108963,
+    40.784398,
+    -73.108963,
+    40.784398
+],
   "geometry": {"coordinates":[-73.108963,40.784398],"type":"Point"}
 }

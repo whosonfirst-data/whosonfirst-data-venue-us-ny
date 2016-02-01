@@ -2,13 +2,14 @@
   "id": 303095339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.62178,40.854358,-73.62178,40.854358",
     "geom:latitude":40.854358,
     "geom:longitude":-73.62178,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Carney St",
     "sg:city":"Glen Cove",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85977671,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"818d5af85d0215c43e1fe3e83e1d1f01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977671,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":303095339
         }
     ],
     "wof:id":303095339,
-    "wof:lastmodified":1448999361,
+    "wof:lastmodified":1454123395,
     "wof:name":"Elite Tent & Party Rental Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.62178,40.854358,-73.62178,40.854358],
+  "bbox": [
+    -73.62178,
+    40.854358,
+    -73.62178,
+    40.854358
+],
   "geometry": {"coordinates":[-73.62178,40.854358],"type":"Point"}
 }

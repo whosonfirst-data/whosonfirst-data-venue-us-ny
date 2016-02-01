@@ -2,13 +2,14 @@
   "id": 269664493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.828465,40.833681,-73.828465,40.833681",
     "geom:latitude":40.833681,
     "geom:longitude":-73.828465,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3397 E Tremont Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892785,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85892785
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"549da2d689215bd75884417c5107d6cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892785,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":269664493,
-    "wof:lastmodified":1449037028,
+    "wof:lastmodified":1454128592,
     "wof:name":"Ensign Engineering P C",
     "wof:parent_id":85892785,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "engineer"
     ]
 },
-  "bbox": [-73.828465,40.833681,-73.828465,40.833681],
-  "geometry": {"coordinates":[-73.828465,40.833681],"type":"Point"}
+  "bbox": [
+    -73.828465,
+    40.833681,
+    -73.828465,
+    40.833681
+],
+  "geometry": {"coordinates":[-73.82846499999999,40.833681],"type":"Point"}
 }

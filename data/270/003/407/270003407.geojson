@@ -2,13 +2,14 @@
   "id": 270003407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.725069,40.775631,-73.725069,40.775631",
     "geom:latitude":40.775631,
     "geom:longitude":-73.725069,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Hereford Rd",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85815033,
+        102191575,
+        404522729,
         85633793,
-        85977539,
-        102082377,
-        85815033
+        85977649,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"1ce1c94b7e3bafd482fc05c16438a2a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404522729,
+            "locality_id":85977649,
             "neighbourhood_id":85815033,
             "region_id":85688543,
             "venue_id":270003407
         }
     ],
     "wof:id":270003407,
-    "wof:lastmodified":1449010910,
+    "wof:lastmodified":1454124706,
     "wof:name":"Harry Demell",
     "wof:parent_id":85815033,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "attorney"
     ]
 },
-  "bbox": [-73.725069,40.775631,-73.725069,40.775631],
+  "bbox": [
+    -73.725069,
+    40.775631,
+    -73.725069,
+    40.775631
+],
   "geometry": {"coordinates":[-73.725069,40.775631],"type":"Point"}
 }

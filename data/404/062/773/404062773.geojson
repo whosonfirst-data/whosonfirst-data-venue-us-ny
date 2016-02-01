@@ -2,13 +2,14 @@
   "id": 404062773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.186343,43.086746,-76.186343,43.086746",
     "geom:latitude":43.086746,
     "geom:longitude":-76.186343,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 Old Liverpool Rd",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.kirnan.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881247,
+        102191575,
+        404522851,
         85633793,
+        85977785,
         102082351,
-        85881247
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +42,18 @@
     "wof:geomhash":"53f53caf767487fab8be9adff04f0c13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
-            "locality_id":-1,
+            "localadmin_id":404522851,
+            "locality_id":85977785,
             "neighbourhood_id":85881247,
             "region_id":85688543,
             "venue_id":404062773
         }
     ],
     "wof:id":404062773,
-    "wof:lastmodified":1449040255,
+    "wof:lastmodified":1454128960,
     "wof:name":"Kirnan Real Estate Inc",
     "wof:parent_id":85881247,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.186343,43.086746,-76.186343,43.086746],
-  "geometry": {"coordinates":[-76.186343,43.086746],"type":"Point"}
+  "bbox": [
+    -76.186343,
+    43.086746,
+    -76.186343,
+    43.086746
+],
+  "geometry": {"coordinates":[-76.18634299999999,43.086746],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303304405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.356151,41.47246,-74.356151,41.47246",
     "geom:latitude":41.47246,
     "geom:longitude":-74.356151,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"28 Badami Dr",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529475,
+        102191575,
+        404522921,
         85633793,
         85979527,
-        102083061
+        102083061,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"a0b48c65a29a645e5062b4570ae09137",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
+            "localadmin_id":404522921,
             "locality_id":85979527,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529475,
             "region_id":85688543,
             "venue_id":303304405
         }
     ],
     "wof:id":303304405,
-    "wof:lastmodified":1448999941,
+    "wof:lastmodified":1454123550,
     "wof:name":"Suburban Appraisal Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529475,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "appraisal"
     ]
 },
-  "bbox": [-74.356151,41.47246,-74.356151,41.47246],
+  "bbox": [
+    -74.356151,
+    41.47246,
+    -74.356151,
+    41.47246
+],
   "geometry": {"coordinates":[-74.356151,41.47246],"type":"Point"}
 }

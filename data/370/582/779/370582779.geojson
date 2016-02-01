@@ -2,13 +2,14 @@
   "id": 370582779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.705,40.728401,-73.705,40.728401",
     "geom:latitude":40.728401,
     "geom:longitude":-73.705,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"184 Jericho Tpke",
     "sg:city":"Floral Park",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892843,
+        102191575,
+        404521473,
         85633793,
         85977689,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"1484cba69efa071f09c07d65fb15b6e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977689,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892843,
             "region_id":85688543,
             "venue_id":370582779
         }
     ],
     "wof:id":370582779,
-    "wof:lastmodified":1449030898,
+    "wof:lastmodified":1454127846,
     "wof:name":"184-186 Jericho LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892843,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.705,40.728401,-73.705,40.728401],
+  "bbox": [
+    -73.705,
+    40.728401,
+    -73.705,
+    40.728401
+],
   "geometry": {"coordinates":[-73.705,40.728401],"type":"Point"}
 }

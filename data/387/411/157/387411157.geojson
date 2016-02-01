@@ -2,13 +2,14 @@
   "id": 387411157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.967835,41.177703,-73.967835,41.177703",
     "geom:latitude":41.177703,
     "geom:longitude":-73.967835,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"691 S Mountain Rd",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529787,
+        102191575,
+        404523093,
         85633793,
-        85979971,
-        102082385
+        85978549,
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"2caf14dd40d78c7aba7a87c27a30a8cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979971,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523093,
+            "locality_id":85978549,
+            "neighbourhood_id":420529787,
             "region_id":85688543,
             "venue_id":387411157
         }
     ],
     "wof:id":387411157,
-    "wof:lastmodified":1449056295,
+    "wof:lastmodified":1454129563,
     "wof:name":"Black Diamond Sealcoating",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529787,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "crack"
     ]
 },
-  "bbox": [-73.967835,41.177703,-73.967835,41.177703],
-  "geometry": {"coordinates":[-73.967835,41.177703],"type":"Point"}
+  "bbox": [
+    -73.967835,
+    41.177703,
+    -73.967835,
+    41.177703
+],
+  "geometry": {"coordinates":[-73.96783499999999,41.177703],"type":"Point"}
 }

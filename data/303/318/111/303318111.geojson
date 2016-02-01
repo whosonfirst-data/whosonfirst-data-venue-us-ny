@@ -2,13 +2,14 @@
   "id": 303318111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.665504,40.643333,-73.665504,40.643333",
     "geom:latitude":40.643333,
     "geom:longitude":-73.665504,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Maxwell St",
     "sg:city":"East Rockaway",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865343,
+        102191575,
+        404521473,
         85633793,
         85979143,
         102082371,
-        85865343
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c32bde9476d1e17c136983c256694da6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979143,
             "neighbourhood_id":85865343,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303318111,
-    "wof:lastmodified":1448998657,
+    "wof:lastmodified":1454123174,
     "wof:name":"Just In Time Sales Corp",
     "wof:parent_id":85865343,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.665504,40.643333,-73.665504,40.643333],
+  "bbox": [
+    -73.665504,
+    40.643333,
+    -73.665504,
+    40.643333
+],
   "geometry": {"coordinates":[-73.665504,40.643333],"type":"Point"}
 }

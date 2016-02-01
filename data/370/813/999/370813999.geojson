@@ -2,13 +2,14 @@
   "id": 370813999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.170525,43.066921,-76.170525,43.066921",
     "geom:latitude":43.066921,
     "geom:longitude":-76.170525,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Carousel Ctr",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881247,
+        102191575,
+        404522851,
         85633793,
+        85977785,
         102082351,
-        85881247
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"ee684d66e81e99f37f2021b8038a4304",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
-            "locality_id":-1,
+            "localadmin_id":404522851,
+            "locality_id":85977785,
             "neighbourhood_id":85881247,
             "region_id":85688543,
             "venue_id":370813999
         }
     ],
     "wof:id":370813999,
-    "wof:lastmodified":1449029970,
+    "wof:lastmodified":1454127572,
     "wof:name":"Street Game",
     "wof:parent_id":85881247,
     "wof:placetype":"venue",
@@ -69,6 +74,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.170525,43.066921,-76.170525,43.066921],
+  "bbox": [
+    -76.170525,
+    43.066921,
+    -76.170525,
+    43.066921
+],
   "geometry": {"coordinates":[-76.170525,43.066921],"type":"Point"}
 }

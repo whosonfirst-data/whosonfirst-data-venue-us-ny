@@ -2,13 +2,14 @@
   "id": 286733687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.9864,40.727434,-73.9864,40.727434",
     "geom:latitude":40.727434,
     "geom:longitude":-73.9864,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"63 E 7 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816887,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85816887
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"4e626b9d414857b00d743b1baef74af2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85816887,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":286733687,
-    "wof:lastmodified":1449015579,
+    "wof:lastmodified":1454125470,
     "wof:name":"Zenon Anc",
     "wof:parent_id":85816887,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "apartment"
     ]
 },
-  "bbox": [-73.9864,40.727434,-73.9864,40.727434],
+  "bbox": [
+    -73.9864,
+    40.727434,
+    -73.9864,
+    40.727434
+],
   "geometry": {"coordinates":[-73.9864,40.727434],"type":"Point"}
 }

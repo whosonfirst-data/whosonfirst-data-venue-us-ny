@@ -2,13 +2,14 @@
   "id": 337301899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.920622,40.610933,-73.920622,40.610933",
     "geom:latitude":40.610933,
     "geom:longitude":-73.920622,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5383 Kings Plz",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -50,11 +51,13 @@
     "sg:website":"http://www.att.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865541,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865541
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,9 +67,10 @@
     "wof:geomhash":"8f0b45f883dd22751b584fd0db64a7e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865541,
             "region_id":85688543,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":337301899,
-    "wof:lastmodified":1449027138,
+    "wof:lastmodified":1454126947,
     "wof:name":"AT&T",
     "wof:parent_id":85865541,
     "wof:placetype":"venue",
@@ -91,6 +95,11 @@
         "provider"
     ]
 },
-  "bbox": [-73.920622,40.610933,-73.920622,40.610933],
-  "geometry": {"coordinates":[-73.920622,40.610933],"type":"Point"}
+  "bbox": [
+    -73.920622,
+    40.610933,
+    -73.920622,
+    40.610933
+],
+  "geometry": {"coordinates":[-73.92062199999999,40.610933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354219497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.053075,40.824723,-73.053075,40.824723",
     "geom:latitude":40.824723,
     "geom:longitude":-73.053075,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Atlantic St",
     "sg:city":"Holtsville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"73c3e20341e9a20ab0313f8d3a403742",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":354219497
         }
     ],
     "wof:id":354219497,
-    "wof:lastmodified":1449067612,
+    "wof:lastmodified":1454131291,
     "wof:name":"Stumpaway Stump Grinding",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "tree"
     ]
 },
-  "bbox": [-73.053075,40.824723,-73.053075,40.824723],
-  "geometry": {"coordinates":[-73.053075,40.824723],"type":"Point"}
+  "bbox": [
+    -73.053075,
+    40.824723,
+    -73.053075,
+    40.824723
+],
+  "geometry": {"coordinates":[-73.05307500000001,40.824723],"type":"Point"}
 }

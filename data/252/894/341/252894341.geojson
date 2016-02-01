@@ -2,13 +2,14 @@
   "id": 252894341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.914229,40.844095,-73.914229,40.844095",
     "geom:latitude":40.844095,
     "geom:longitude":-73.914229,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Mount Eden Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865561,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865561
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"7d1b59b6fe348f4336b7ef6f3c42ba00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865561,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":252894341,
-    "wof:lastmodified":1449005853,
+    "wof:lastmodified":1454124044,
     "wof:name":"Primer Lugar Beauty Salon",
     "wof:parent_id":85865561,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.914229,40.844095,-73.914229,40.844095],
-  "geometry": {"coordinates":[-73.914229,40.844095],"type":"Point"}
+  "bbox": [
+    -73.914229,
+    40.844095,
+    -73.914229,
+    40.844095
+],
+  "geometry": {"coordinates":[-73.91422900000001,40.844095],"type":"Point"}
 }

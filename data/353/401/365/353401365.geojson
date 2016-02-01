@@ -2,13 +2,14 @@
   "id": 353401365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.834239,40.715881,-73.834239,40.715881",
     "geom:latitude":40.715881,
     "geom:longitude":-73.834239,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"111-55 77th Ave Ste 4E",
     "sg:city":"Forest Hills",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.thepotheaddiaries.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819875,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819875
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"ee546f85030eb1c12f36bb1fe92e9941",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819875,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":353401365,
-    "wof:lastmodified":1449020439,
+    "wof:lastmodified":1454126581,
     "wof:name":"The Pothead Diaries",
     "wof:parent_id":85819875,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "adult"
     ]
 },
-  "bbox": [-73.834239,40.715881,-73.834239,40.715881],
+  "bbox": [
+    -73.834239,
+    40.715881,
+    -73.834239,
+    40.715881
+],
   "geometry": {"coordinates":[-73.834239,40.715881],"type":"Point"}
 }

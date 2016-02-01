@@ -2,13 +2,14 @@
   "id": 387235515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.8684,40.925797,-73.8684,40.925797",
     "geom:latitude":40.925797,
     "geom:longitude":-73.8684,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"656 Yonkers Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.sea.siemens.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881899,
+        102191575,
+        404523397,
         85633793,
         85978759,
         102082373,
-        85881899
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"314c2434008db0ab22f3ccfee9b0a385",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
             "neighbourhood_id":85881899,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387235515,
-    "wof:lastmodified":1449056755,
+    "wof:lastmodified":1454129642,
     "wof:name":"Siemens Energy & Automation",
     "wof:parent_id":85881899,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "electric"
     ]
 },
-  "bbox": [-73.8684,40.925797,-73.8684,40.925797],
-  "geometry": {"coordinates":[-73.8684,40.925797],"type":"Point"}
+  "bbox": [
+    -73.8684,
+    40.925797,
+    -73.8684,
+    40.925797
+],
+  "geometry": {"coordinates":[-73.86839999999999,40.925797],"type":"Point"}
 }

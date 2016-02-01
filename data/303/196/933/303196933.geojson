@@ -2,13 +2,14 @@
   "id": 303196933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.765793,43.168175,-78.765793,43.168175",
     "geom:latitude":43.168175,
     "geom:longitude":-78.765793,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4822 Upper Mountain Rd",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -24,8 +25,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85831131,
+        102081767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +38,27 @@
     "wof:geomhash":"886665c4934dafc3834b1610c60bc280",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081767,
+            "neighbourhood_id":85831131,
             "region_id":85688543,
             "venue_id":303196933
         }
     ],
     "wof:id":303196933,
-    "wof:lastmodified":1448998667,
+    "wof:lastmodified":1454123178,
     "wof:name":"Tetrad Design Architecture",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831131,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.765793,43.168175,-78.765793,43.168175],
+  "bbox": [
+    -78.765793,
+    43.168175,
+    -78.765793,
+    43.168175
+],
   "geometry": {"coordinates":[-78.765793,43.168175],"type":"Point"}
 }

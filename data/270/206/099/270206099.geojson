@@ -2,13 +2,14 @@
   "id": 270206099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.401187,40.902818,-72.401187,40.902818",
     "geom:latitude":40.902818,
     "geom:longitude":-72.401187,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"35 Valorie Rd",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"9ae8f7efb69e224ffe4592a1c46305a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":270206099
         }
     ],
     "wof:id":270206099,
-    "wof:lastmodified":1449010339,
+    "wof:lastmodified":1454124620,
     "wof:name":"Daniel Raynor Const",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-72.401187,40.902818,-72.401187,40.902818],
-  "geometry": {"coordinates":[-72.401187,40.902818],"type":"Point"}
+  "bbox": [
+    -72.401187,
+    40.902818,
+    -72.401187,
+    40.902818
+],
+  "geometry": {"coordinates":[-72.40118699999999,40.902818],"type":"Point"}
 }

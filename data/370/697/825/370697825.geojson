@@ -2,13 +2,14 @@
   "id": 370697825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.960484,40.610272,-73.960484,40.610272",
     "geom:latitude":40.610272,
     "geom:longitude":-73.960484,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1205 Ave P",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865583,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"4b9d7e592bd29fc9563acb3bd8d4e3af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865583,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":370697825,
-    "wof:lastmodified":1449031207,
+    "wof:lastmodified":1454127939,
     "wof:name":"Advent Lutheran",
     "wof:parent_id":85865583,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-73.960484,40.610272,-73.960484,40.610272],
-  "geometry": {"coordinates":[-73.960484,40.610272],"type":"Point"}
+  "bbox": [
+    -73.960484,
+    40.610272,
+    -73.960484,
+    40.610272
+],
+  "geometry": {"coordinates":[-73.96048399999999,40.610272],"type":"Point"}
 }

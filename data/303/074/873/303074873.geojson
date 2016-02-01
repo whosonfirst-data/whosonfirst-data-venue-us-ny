@@ -2,13 +2,14 @@
   "id": 303074873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.193558,40.79445,-73.193558,40.79445",
     "geom:latitude":40.79445,
     "geom:longitude":-73.193558,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7 Lurcott Ln",
     "sg:city":"Central Islip",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
-        85979813,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"aacb9e01eeb2da174e5b54588a6f72e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979813,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":303074873
         }
     ],
     "wof:id":303074873,
-    "wof:lastmodified":1448999440,
+    "wof:lastmodified":1454123417,
     "wof:name":"C To C Travel Consultant",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "agency"
     ]
 },
-  "bbox": [-73.193558,40.79445,-73.193558,40.79445],
+  "bbox": [
+    -73.193558,
+    40.79445,
+    -73.193558,
+    40.79445
+],
   "geometry": {"coordinates":[-73.193558,40.79445],"type":"Point"}
 }

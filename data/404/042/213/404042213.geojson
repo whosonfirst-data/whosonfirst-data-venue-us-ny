@@ -2,13 +2,14 @@
   "id": 404042213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993667,40.724005,-73.993667,40.724005",
     "geom:latitude":40.724005,
     "geom:longitude":-73.993667,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"243 Elizabeth St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.16sur20.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869533,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85869533
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"6248d3243e4800657ab3bd5a2b8231aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869533,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":404042213,
-    "wof:lastmodified":1449040011,
+    "wof:lastmodified":1454128927,
     "wof:name":"Jurney Jam Inc",
     "wof:parent_id":85869533,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.993667,40.724005,-73.993667,40.724005],
+  "bbox": [
+    -73.993667,
+    40.724005,
+    -73.993667,
+    40.724005
+],
   "geometry": {"coordinates":[-73.993667,40.724005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354416407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.151901,40.861099,-73.151901,40.861099",
     "geom:latitude":40.861099,
     "geom:longitude":-73.151901,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"700 Middle Country Rd",
     "sg:city":"Saint James",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893017,
+        102191575,
+        404522669,
         85633793,
-        85979773,
+        85979839,
         102082395,
-        85893017
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +56,18 @@
     "wof:geomhash":"5c3a5b34e25ac2209264bfa2b9a2a9b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522669,
+            "locality_id":85979839,
             "neighbourhood_id":85893017,
             "region_id":85688543,
             "venue_id":354416407
         }
     ],
     "wof:id":354416407,
-    "wof:lastmodified":1449066678,
+    "wof:lastmodified":1454130999,
     "wof:name":"Lexus of Smithtown",
     "wof:parent_id":85893017,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "car"
     ]
 },
-  "bbox": [-73.151901,40.861099,-73.151901,40.861099],
+  "bbox": [
+    -73.151901,
+    40.861099,
+    -73.151901,
+    40.861099
+],
   "geometry": {"coordinates":[-73.151901,40.861099],"type":"Point"}
 }

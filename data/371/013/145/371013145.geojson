@@ -2,13 +2,14 @@
   "id": 371013145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.045832,43.235911,-79.045832,43.235911",
     "geom:latitude":43.235911,
     "geom:longitude":-79.045832,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"393 Dansworth Rd",
     "sg:city":"Youngstown",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820171,
+        102191575,
+        404522749,
         85633793,
+        85978265,
         102081767,
-        85820171
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"b2aa5ebdd11f70ed472be59b98fb59aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
-            "locality_id":-1,
+            "localadmin_id":404522749,
+            "locality_id":85978265,
             "neighbourhood_id":85820171,
             "region_id":85688543,
             "venue_id":371013145
         }
     ],
     "wof:id":371013145,
-    "wof:lastmodified":1449049765,
+    "wof:lastmodified":1454129208,
     "wof:name":"Kate Emerson",
     "wof:parent_id":85820171,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-79.045832,43.235911,-79.045832,43.235911],
+  "bbox": [
+    -79.045832,
+    43.235911,
+    -79.045832,
+    43.235911
+],
   "geometry": {"coordinates":[-79.045832,43.235911],"type":"Point"}
 }

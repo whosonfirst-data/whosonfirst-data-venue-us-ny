@@ -2,13 +2,14 @@
   "id": 353912007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.566195,40.670816,-73.566195,40.670816",
     "geom:latitude":40.670816,
     "geom:longitude":-73.566195,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1698 Willis Avenue",
     "sg:city":"Merrick",
     "sg:classifiers":[
@@ -52,11 +53,13 @@
     "sg:website":"http://www.streamlinecctv.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892853,
+        102191575,
+        404521473,
         85633793,
         85977679,
         102082371,
-        85892853
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,9 +69,10 @@
     "wof:geomhash":"ff46d1cee760beca99bb663874fd96ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977679,
             "neighbourhood_id":85892853,
             "region_id":85688543,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":353912007,
-    "wof:lastmodified":1449019528,
+    "wof:lastmodified":1454126316,
     "wof:name":"Streamline Security Solutions",
     "wof:parent_id":85892853,
     "wof:placetype":"venue",
@@ -95,6 +99,11 @@
         "equipment-installation"
     ]
 },
-  "bbox": [-73.566195,40.670816,-73.566195,40.670816],
-  "geometry": {"coordinates":[-73.566195,40.670816],"type":"Point"}
+  "bbox": [
+    -73.566195,
+    40.670816,
+    -73.566195,
+    40.670816
+],
+  "geometry": {"coordinates":[-73.56619499999999,40.670816],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387134211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.694184,43.178516,-78.694184,43.178516",
     "geom:latitude":43.178516,
     "geom:longitude":-78.694184,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"169 Allen St",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     "sg:website":"www.lasrline.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529193,
+        102191575,
+        404522737,
         85633793,
-        85978249,
-        102081767
+        85979541,
+        102081767,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"bdb05b53b7bf0a847c4e38b1223f26d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
-            "locality_id":85978249,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522737,
+            "locality_id":85979541,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":387134211
         }
     ],
     "wof:id":387134211,
-    "wof:lastmodified":1449059705,
+    "wof:lastmodified":1454130171,
     "wof:name":"Laser Line Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "tool"
     ]
 },
-  "bbox": [-78.694184,43.178516,-78.694184,43.178516],
-  "geometry": {"coordinates":[-78.694184,43.178516],"type":"Point"}
+  "bbox": [
+    -78.694184,
+    43.178516,
+    -78.694184,
+    43.178516
+],
+  "geometry": {"coordinates":[-78.69418400000001,43.178516],"type":"Point"}
 }

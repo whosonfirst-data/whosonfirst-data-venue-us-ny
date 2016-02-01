@@ -2,13 +2,14 @@
   "id": 336701921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.866925,40.906427,-73.866925,40.906427",
     "geom:latitude":40.906427,
     "geom:longitude":-73.866925,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"92 Kimball Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85858791,
+        102191575,
+        404523397,
         85633793,
-        85977539,
-        102083063,
-        85858791
+        85978759,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"2b41631f1683627ca573d838a3c6051a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
-            "locality_id":85977539,
+            "county_id":102082373,
+            "localadmin_id":404523397,
+            "locality_id":85978759,
             "neighbourhood_id":85858791,
             "region_id":85688543,
             "venue_id":336701921
         }
     ],
     "wof:id":336701921,
-    "wof:lastmodified":1448997807,
+    "wof:lastmodified":1454122885,
     "wof:name":"John P Lambert Inc",
     "wof:parent_id":85858791,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-73.866925,40.906427,-73.866925,40.906427],
-  "geometry": {"coordinates":[-73.866925,40.906427],"type":"Point"}
+  "bbox": [
+    -73.866925,
+    40.906427,
+    -73.866925,
+    40.906427
+],
+  "geometry": {"coordinates":[-73.86692499999999,40.906427],"type":"Point"}
 }

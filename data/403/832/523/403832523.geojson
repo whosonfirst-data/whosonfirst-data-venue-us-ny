@@ -2,13 +2,14 @@
   "id": 403832523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.999067,41.149206,-73.999067,41.149206",
     "geom:latitude":41.149206,
     "geom:longitude":-73.999067,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 N Little Tor Rd",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"87506033b40071c15bc13bbc5a3e7c87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":403832523
         }
     ],
     "wof:id":403832523,
-    "wof:lastmodified":1449054632,
+    "wof:lastmodified":1454129322,
     "wof:name":"Paul Mercurio MD",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-73.999067,41.149206,-73.999067,41.149206],
+  "bbox": [
+    -73.999067,
+    41.149206,
+    -73.999067,
+    41.149206
+],
   "geometry": {"coordinates":[-73.999067,41.149206],"type":"Point"}
 }

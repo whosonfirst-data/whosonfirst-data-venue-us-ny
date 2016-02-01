@@ -2,13 +2,14 @@
   "id": 353510417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.595422,43.175449,-77.595422,43.175449",
     "geom:latitude":43.175449,
     "geom:longitude":-77.595422,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"954 Clifford Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     "sg:website":"www.iberodevelopment.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529057,
+        102191575,
+        404521467,
         85633793,
         85977591,
-        102081815
+        102081815,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"15ffac134b3c334e41eb7a4eca216e9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529057,
             "region_id":85688543,
             "venue_id":353510417
         }
     ],
     "wof:id":353510417,
-    "wof:lastmodified":1449019816,
+    "wof:lastmodified":1454126401,
     "wof:name":"Ibero-American Development",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "property"
     ]
 },
-  "bbox": [-77.595422,43.175449,-77.595422,43.175449],
+  "bbox": [
+    -77.595422,
+    43.175449,
+    -77.595422,
+    43.175449
+],
   "geometry": {"coordinates":[-77.595422,43.175449],"type":"Point"}
 }

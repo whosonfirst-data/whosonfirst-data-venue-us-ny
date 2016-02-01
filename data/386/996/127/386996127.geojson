@@ -2,13 +2,14 @@
   "id": 386996127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.557732,43.153831,-77.557732,43.153831",
     "geom:latitude":43.153831,
     "geom:longitude":-77.557732,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"116 Humboldt St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868033,
+        102191575,
+        404522623,
         85633793,
         85979039,
         102081815,
-        85868033
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"fcfb5a70f5223c7a05dc4e4aea091bd7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404522623,
             "locality_id":85979039,
             "neighbourhood_id":85868033,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":386996127,
-    "wof:lastmodified":1449028702,
+    "wof:lastmodified":1454127211,
     "wof:name":"Acme Recording",
     "wof:parent_id":85868033,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "service-sound"
     ]
 },
-  "bbox": [-77.557732,43.153831,-77.557732,43.153831],
+  "bbox": [
+    -77.557732,
+    43.153831,
+    -77.557732,
+    43.153831
+],
   "geometry": {"coordinates":[-77.557732,43.153831],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303939893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.995344,40.961185,-72.995344,40.961185",
     "geom:latitude":40.961185,
     "geom:longitude":-72.995344,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Miller Ct",
     "sg:city":"Miller Place",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85813109,
+        102191575,
+        404521441,
         85633793,
         85978457,
         102082395,
-        85813109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"b2e11e191e0dbb5ba6a384b544109a38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85978457,
             "neighbourhood_id":85813109,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":303939893,
-    "wof:lastmodified":1448998833,
+    "wof:lastmodified":1454123238,
     "wof:name":"Nicholas Giannuzzi DDS",
     "wof:parent_id":85813109,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-72.995344,40.961185,-72.995344,40.961185],
+  "bbox": [
+    -72.995344,
+    40.961185,
+    -72.995344,
+    40.961185
+],
   "geometry": {"coordinates":[-72.995344,40.961185],"type":"Point"}
 }

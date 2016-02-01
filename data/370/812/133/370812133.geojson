@@ -2,13 +2,14 @@
   "id": 370812133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.246529,43.045078,-76.246529,43.045078",
     "geom:latitude":43.045078,
     "geom:longitude":-76.246529,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4500 W Genesee St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -78,11 +79,13 @@
     "sg:website":"http://syracuse.citysearch.com/profile/external/7675930/syracuse_ny/sherwin_williams.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85818613,
+        102191575,
+        404522819,
         85633793,
         85979217,
         102082351,
-        85818613
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,9 +95,10 @@
     "wof:geomhash":"931d4b86e36fe4740ce334d3c8757018",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522819,
             "locality_id":85979217,
             "neighbourhood_id":85818613,
             "region_id":85688543,
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":370812133,
-    "wof:lastmodified":1449029158,
+    "wof:lastmodified":1454127337,
     "wof:name":"Sherwin-Williams",
     "wof:parent_id":85818613,
     "wof:placetype":"venue",
@@ -127,6 +131,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.246529,43.045078,-76.246529,43.045078],
+  "bbox": [
+    -76.246529,
+    43.045078,
+    -76.246529,
+    43.045078
+],
   "geometry": {"coordinates":[-76.246529,43.045078],"type":"Point"}
 }

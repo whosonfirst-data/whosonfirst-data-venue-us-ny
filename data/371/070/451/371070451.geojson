@@ -2,13 +2,14 @@
   "id": 371070451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.471602,40.793656,-73.471602,40.793656",
     "geom:latitude":40.793656,
     "geom:longitude":-73.471602,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"54 Sunnyside Blvd",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"7f8286715bbb3ff1efa5f2f29019f9ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":371070451
         }
     ],
     "wof:id":371070451,
-    "wof:lastmodified":1449049514,
+    "wof:lastmodified":1454129148,
     "wof:name":"Pension Department Inc",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "plan"
     ]
 },
-  "bbox": [-73.471602,40.793656,-73.471602,40.793656],
+  "bbox": [
+    -73.471602,
+    40.793656,
+    -73.471602,
+    40.793656
+],
   "geometry": {"coordinates":[-73.471602,40.793656],"type":"Point"}
 }

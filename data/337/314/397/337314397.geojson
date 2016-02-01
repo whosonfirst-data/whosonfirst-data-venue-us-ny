@@ -2,13 +2,14 @@
   "id": 337314397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.907845,40.652556,-73.907845,40.652556",
     "geom:latitude":40.652556,
     "geom:longitude":-73.907845,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9829 Ditmas Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -54,11 +55,13 @@
     "sg:website":"http://www.royalbluedesigns.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85808127,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85808127
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,9 +71,10 @@
     "wof:geomhash":"a20087148424c2ce490a9534c07902c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85808127,
             "region_id":85688543,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":337314397,
-    "wof:lastmodified":1449027716,
+    "wof:lastmodified":1454127174,
     "wof:name":"Royal Development Inc",
     "wof:parent_id":85808127,
     "wof:placetype":"venue",
@@ -94,6 +98,11 @@
         "market"
     ]
 },
-  "bbox": [-73.907845,40.652556,-73.907845,40.652556],
-  "geometry": {"coordinates":[-73.907845,40.652556],"type":"Point"}
+  "bbox": [
+    -73.907845,
+    40.652556,
+    -73.907845,
+    40.652556
+],
+  "geometry": {"coordinates":[-73.90784499999999,40.652556],"type":"Point"}
 }

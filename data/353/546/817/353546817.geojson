@@ -2,13 +2,14 @@
   "id": 353546817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.829636,40.844177,-73.829636,40.844177",
     "geom:latitude":40.844177,
     "geom:longitude":-73.829636,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3011 Middletown Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865663,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865663
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"d232a49adb6d7aeef9b385c04be3ede4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865663,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":353546817,
-    "wof:lastmodified":1449018253,
+    "wof:lastmodified":1454125951,
     "wof:name":"National Speakers Assoc NY",
     "wof:parent_id":85865663,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "seminar"
     ]
 },
-  "bbox": [-73.829636,40.844177,-73.829636,40.844177],
-  "geometry": {"coordinates":[-73.829636,40.844177],"type":"Point"}
+  "bbox": [
+    -73.829636,
+    40.844177,
+    -73.829636,
+    40.844177
+],
+  "geometry": {"coordinates":[-73.82963599999999,40.844177],"type":"Point"}
 }

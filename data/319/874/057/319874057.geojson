@@ -2,13 +2,14 @@
   "id": 319874057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.169736,40.56025,-74.169736,40.56025",
     "geom:latitude":40.56025,
     "geom:longitude":-74.169736,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3285 Richmond Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869085,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"edb09ea1735c0aa61436673edf4f2bcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85869085,
             "region_id":85688543,
             "venue_id":319874057
         }
     ],
     "wof:id":319874057,
-    "wof:lastmodified":1449024839,
+    "wof:lastmodified":1454126842,
     "wof:name":"Perfume & Pocket Book By Nancy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869085,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "perfume"
     ]
 },
-  "bbox": [-74.169736,40.56025,-74.169736,40.56025],
+  "bbox": [
+    -74.169736,
+    40.56025,
+    -74.169736,
+    40.56025
+],
   "geometry": {"coordinates":[-74.169736,40.56025],"type":"Point"}
 }

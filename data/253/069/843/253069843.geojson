@@ -2,13 +2,14 @@
   "id": 253069843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.140013,43.046954,-76.140013,43.046954",
     "geom:latitude":43.046954,
     "geom:longitude":-76.140013,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"713 E Genesee St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881275,
+        102191575,
+        404522851,
         85633793,
         85977785,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"f86e959718a03c1c0eb220948e1efa08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881275,
             "region_id":85688543,
             "venue_id":253069843
         }
     ],
     "wof:id":253069843,
-    "wof:lastmodified":1449064691,
+    "wof:lastmodified":1454130558,
     "wof:name":"Executive Quarters",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881275,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.140013,43.046954,-76.140013,43.046954],
+  "bbox": [
+    -76.140013,
+    43.046954,
+    -76.140013,
+    43.046954
+],
   "geometry": {"coordinates":[-76.140013,43.046954],"type":"Point"}
 }

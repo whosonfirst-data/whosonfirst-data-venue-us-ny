@@ -2,13 +2,14 @@
   "id": 370329431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.906448,40.853474,-73.906448,40.853474",
     "geom:latitude":40.853474,
     "geom:longitude":-73.906448,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 E Burnside Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865671,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"c90a8b56af0e7d599c44ace2df2ec3a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85865671,
             "region_id":85688543,
             "venue_id":370329431
         }
     ],
     "wof:id":370329431,
-    "wof:lastmodified":1449030046,
+    "wof:lastmodified":1454127594,
     "wof:name":"First Aden Grocery Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865671,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.906448,40.853474,-73.906448,40.853474],
+  "bbox": [
+    -73.906448,
+    40.853474,
+    -73.906448,
+    40.853474
+],
   "geometry": {"coordinates":[-73.906448,40.853474],"type":"Point"}
 }

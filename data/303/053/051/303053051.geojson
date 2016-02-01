@@ -2,13 +2,14 @@
   "id": 303053051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.012981,41.444117,-74.012981,41.444117",
     "geom:latitude":41.444117,
     "geom:longitude":-74.012981,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"222 Hudson St",
     "sg:city":"Cornwall On Hudson",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.cornwallpresby.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812353,
+        102191575,
+        404522801,
         85633793,
+        85978241,
         102083061,
-        85812353
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"5951a5e180207e289dfec1acfd04bc66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":-1,
+            "localadmin_id":404522801,
+            "locality_id":85978241,
             "neighbourhood_id":85812353,
             "region_id":85688543,
             "venue_id":303053051
         }
     ],
     "wof:id":303053051,
-    "wof:lastmodified":1448998575,
+    "wof:lastmodified":1454123145,
     "wof:name":"Cornwall Presbyterian Church",
     "wof:parent_id":85812353,
     "wof:placetype":"venue",
@@ -63,6 +68,11 @@
         "church"
     ]
 },
-  "bbox": [-74.012981,41.444117,-74.012981,41.444117],
+  "bbox": [
+    -74.012981,
+    41.444117,
+    -74.012981,
+    41.444117
+],
   "geometry": {"coordinates":[-74.012981,41.444117],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269615307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.139135,43.052194,-76.139135,43.052194",
     "geom:latitude":43.052194,
     "geom:longitude":-76.139135,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 Burnet Ave",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881255,
+        102191575,
+        404522851,
         85633793,
         85977785,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"32fae13c1328fad5e3d56fe663b72922",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881255,
             "region_id":85688543,
             "venue_id":269615307
         }
     ],
     "wof:id":269615307,
-    "wof:lastmodified":1449036902,
+    "wof:lastmodified":1454128575,
     "wof:name":"D F C",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881255,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.139135,43.052194,-76.139135,43.052194],
+  "bbox": [
+    -76.139135,
+    43.052194,
+    -76.139135,
+    43.052194
+],
   "geometry": {"coordinates":[-76.139135,43.052194],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185735791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.969002,40.6395,-73.969002,40.6395",
     "geom:latitude":40.6395,
     "geom:longitude":-73.969002,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"730 Coney Island Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869607,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85869607
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"41134c104b27aa0d76bce0c3eb3390d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869607,
             "region_id":85688543,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":185735791,
-    "wof:lastmodified":1449008152,
+    "wof:lastmodified":1454124345,
     "wof:name":"Cortelyou Auto Glass",
     "wof:parent_id":85869607,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "glass-auto"
     ]
 },
-  "bbox": [-73.969002,40.6395,-73.969002,40.6395],
+  "bbox": [
+    -73.969002,
+    40.6395,
+    -73.969002,
+    40.6395
+],
   "geometry": {"coordinates":[-73.969002,40.6395],"type":"Point"}
 }

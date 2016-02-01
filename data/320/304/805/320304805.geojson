@@ -2,13 +2,14 @@
   "id": 320304805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.979597,40.775226,-73.979597,40.775226",
     "geom:latitude":40.775226,
     "geom:longitude":-73.979597,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"27 W 69 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853285,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85853285
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"063bc809127ae240f878f1ff0b9b6e69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853285,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":320304805,
-    "wof:lastmodified":1449014031,
+    "wof:lastmodified":1454125213,
     "wof:name":"Ivan E Stux",
     "wof:parent_id":85853285,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "apartment"
     ]
 },
-  "bbox": [-73.979597,40.775226,-73.979597,40.775226],
+  "bbox": [
+    -73.979597,
+    40.775226,
+    -73.979597,
+    40.775226
+],
   "geometry": {"coordinates":[-73.979597,40.775226],"type":"Point"}
 }

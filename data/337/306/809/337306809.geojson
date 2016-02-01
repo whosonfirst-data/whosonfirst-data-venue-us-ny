@@ -2,13 +2,14 @@
   "id": 337306809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.966851,40.582403,-73.966851,40.582403",
     "geom:latitude":40.582403,
     "geom:longitude":-73.966851,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2797 Ocean Pkwy 1st Floor",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://www.atgastro.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807547,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85807547
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"326322cda95c913af88b24b93accd535",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85807547,
             "region_id":85688543,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":337306809,
-    "wof:lastmodified":1449027708,
+    "wof:lastmodified":1454127171,
     "wof:name":"Atlantic Gastroenterology",
     "wof:parent_id":85807547,
     "wof:placetype":"venue",
@@ -81,6 +85,11 @@
         "intestines"
     ]
 },
-  "bbox": [-73.966851,40.582403,-73.966851,40.582403],
-  "geometry": {"coordinates":[-73.966851,40.582403],"type":"Point"}
+  "bbox": [
+    -73.966851,
+    40.582403,
+    -73.966851,
+    40.582403
+],
+  "geometry": {"coordinates":[-73.96685100000001,40.582403],"type":"Point"}
 }

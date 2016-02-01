@@ -2,13 +2,14 @@
   "id": 320390659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.990379,41.141309,-73.990379,41.141309",
     "geom:latitude":41.141309,
     "geom:longitude":-73.990379,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"208 S Main St",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"11c71807117fd4be57d79babb675d132",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":320390659
         }
     ],
     "wof:id":320390659,
-    "wof:lastmodified":1449015004,
+    "wof:lastmodified":1454125370,
     "wof:name":"Mr Oz News Center Book Store",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "facsimile"
     ]
 },
-  "bbox": [-73.990379,41.141309,-73.990379,41.141309],
+  "bbox": [
+    -73.990379,
+    41.141309,
+    -73.990379,
+    41.141309
+],
   "geometry": {"coordinates":[-73.990379,41.141309],"type":"Point"}
 }

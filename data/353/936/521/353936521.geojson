@@ -2,13 +2,14 @@
   "id": 353936521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.990906,40.755093,-73.990906,40.755093",
     "geom:latitude":40.755093,
     "geom:longitude":-73.990906,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"214 W 39 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867073,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85867073
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"fd42b48e93ad5e29e51d0077cbb50d52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85867073,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353936521,
-    "wof:lastmodified":1449019111,
+    "wof:lastmodified":1454126199,
     "wof:name":"Dragoneer",
     "wof:parent_id":85867073,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "housewares"
     ]
 },
-  "bbox": [-73.990906,40.755093,-73.990906,40.755093],
+  "bbox": [
+    -73.990906,
+    40.755093,
+    -73.990906,
+    40.755093
+],
   "geometry": {"coordinates":[-73.990906,40.755093],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336958295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.852372,41.155096,-73.852372,41.155096",
     "geom:latitude":41.155096,
     "geom:longitude":-73.852372,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"34 Magnolia Rd",
     "sg:city":"Briarcliff Manor",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420559405,
+        102191575,
+        404523379,
         85633793,
-        85978753,
-        102082373
+        85978717,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"6a709a067052f5f5f5c53429cf401cad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978753,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523379,
+            "locality_id":85978717,
+            "neighbourhood_id":420559405,
             "region_id":85688543,
             "venue_id":336958295
         }
     ],
     "wof:id":336958295,
-    "wof:lastmodified":1448997798,
+    "wof:lastmodified":1454122884,
     "wof:name":"Roger J Carilli Plumbing & Htg",
-    "wof:parent_id":-1,
+    "wof:parent_id":420559405,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.852372,41.155096,-73.852372,41.155096],
+  "bbox": [
+    -73.852372,
+    41.155096,
+    -73.852372,
+    41.155096
+],
   "geometry": {"coordinates":[-73.852372,41.155096],"type":"Point"}
 }

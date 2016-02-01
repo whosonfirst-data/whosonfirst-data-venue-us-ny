@@ -2,13 +2,14 @@
   "id": 387679595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.966909,41.133933,-73.966909,41.133933",
     "geom:latitude":41.133933,
     "geom:longitude":-73.966909,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"353 Strawtown Rd",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"0d48a18123ffb5eb320cf4b5996108d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":387679595
         }
     ],
     "wof:id":387679595,
-    "wof:lastmodified":1449058560,
+    "wof:lastmodified":1454129971,
     "wof:name":"Martin Cook Associates Ltd",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "publishing"
     ]
 },
-  "bbox": [-73.966909,41.133933,-73.966909,41.133933],
+  "bbox": [
+    -73.966909,
+    41.133933,
+    -73.966909,
+    41.133933
+],
   "geometry": {"coordinates":[-73.966909,41.133933],"type":"Point"}
 }

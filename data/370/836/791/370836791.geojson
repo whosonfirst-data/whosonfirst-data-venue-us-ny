@@ -2,13 +2,14 @@
   "id": 370836791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.458315,43.211135,-75.458315,43.211135",
     "geom:latitude":43.211135,
     "geom:longitude":-75.458315,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 W Dominick St",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://www.romesavings.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831745,
+        102191575,
+        404522697,
         85633793,
         85978369,
         102083149,
-        85831745
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"e2808374f1023c9fc7f5d75e9f9043c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083149,
+            "localadmin_id":404522697,
             "locality_id":85978369,
             "neighbourhood_id":85831745,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":370836791,
-    "wof:lastmodified":1449031315,
+    "wof:lastmodified":1454127971,
     "wof:name":"Rome Savings Bank",
     "wof:parent_id":85831745,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-75.458315,43.211135,-75.458315,43.211135],
+  "bbox": [
+    -75.458315,
+    43.211135,
+    -75.458315,
+    43.211135
+],
   "geometry": {"coordinates":[-75.458315,43.211135],"type":"Point"}
 }

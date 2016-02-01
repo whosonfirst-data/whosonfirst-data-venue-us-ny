@@ -2,13 +2,14 @@
   "id": 286335785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.841675,40.854577,-73.841675,40.854577",
     "geom:latitude":40.854577,
     "geom:longitude":-73.841675,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1568 Stillwell Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.freshntasty.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892795,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85892795
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"4aea9bf8bc1cead5372a30d0eca3622d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892795,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":286335785,
-    "wof:lastmodified":1449017128,
+    "wof:lastmodified":1454125741,
     "wof:name":"Fresh & Tasty Baked Products",
     "wof:parent_id":85892795,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "baker"
     ]
 },
-  "bbox": [-73.841675,40.854577,-73.841675,40.854577],
+  "bbox": [
+    -73.841675,
+    40.854577,
+    -73.841675,
+    40.854577
+],
   "geometry": {"coordinates":[-73.841675,40.854577],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320111063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.725452,40.777735,-73.725452,40.777735",
     "geom:latitude":40.777735,
     "geom:longitude":-73.725452,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"338 Northern Blvd",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85815033,
+        102191575,
+        404522729,
         85633793,
-        85977539,
-        102082377,
-        85815033
+        85977649,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"c00503356f5f3efd0f5a65befd7ddec6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404522729,
+            "locality_id":85977649,
             "neighbourhood_id":85815033,
             "region_id":85688543,
             "venue_id":320111063
         }
     ],
     "wof:id":320111063,
-    "wof:lastmodified":1449015081,
+    "wof:lastmodified":1454125382,
     "wof:name":"Solid State Applications",
     "wof:parent_id":85815033,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "software"
     ]
 },
-  "bbox": [-73.725452,40.777735,-73.725452,40.777735],
+  "bbox": [
+    -73.725452,
+    40.777735,
+    -73.725452,
+    40.777735
+],
   "geometry": {"coordinates":[-73.725452,40.777735],"type":"Point"}
 }

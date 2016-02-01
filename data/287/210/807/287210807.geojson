@@ -2,13 +2,14 @@
   "id": 287210807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.944608,40.897883,-72.944608,40.897883",
     "geom:latitude":40.897883,
     "geom:longitude":-72.944608,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 Heather Ct",
     "sg:city":"Middle Island",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979955,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"7774732ff909b809b395da3df02784db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979955,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":287210807
         }
     ],
     "wof:id":287210807,
-    "wof:lastmodified":1449000957,
+    "wof:lastmodified":1454123820,
     "wof:name":"Charles Mauro",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.944608,40.897883,-72.944608,40.897883],
+  "bbox": [
+    -72.944608,
+    40.897883,
+    -72.944608,
+    40.897883
+],
   "geometry": {"coordinates":[-72.944608,40.897883],"type":"Point"}
 }

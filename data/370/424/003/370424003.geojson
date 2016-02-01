@@ -2,13 +2,14 @@
   "id": 370424003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.182713,43.215915,-74.182713,43.215915",
     "geom:latitude":43.215915,
     "geom:longitude":-74.182713,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"108 Riverside Blvd",
     "sg:city":"Northville",
     "sg:classifiers":[
@@ -50,7 +51,12 @@
     "sg:website":"http://www.sportislandrestaurant.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528689,
+        102191575,
+        404522443,
         85633793,
+        85978037,
+        102081813,
         85688543
     ],
     "wof:breaches":[],
@@ -61,18 +67,20 @@
     "wof:geomhash":"6bcdf34385b677e13a66285c804ee831",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081813,
+            "localadmin_id":404522443,
+            "locality_id":85978037,
+            "neighbourhood_id":420528689,
             "region_id":85688543,
             "venue_id":370424003
         }
     ],
     "wof:id":370424003,
-    "wof:lastmodified":1449032257,
+    "wof:lastmodified":1454128250,
     "wof:name":"Sport Island Pub & Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528689,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -87,6 +95,11 @@
         "banquet"
     ]
 },
-  "bbox": [-74.182713,43.215915,-74.182713,43.215915],
-  "geometry": {"coordinates":[-74.182713,43.215915],"type":"Point"}
+  "bbox": [
+    -74.182713,
+    43.215915,
+    -74.182713,
+    43.215915
+],
+  "geometry": {"coordinates":[-74.18271300000001,43.215915],"type":"Point"}
 }

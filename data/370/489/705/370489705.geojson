@@ -2,13 +2,14 @@
   "id": 370489705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.969474,42.79616,-73.969474,42.79616",
     "geom:latitude":42.79616,
     "geom:longitude":-73.969474,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2302 Broadway",
     "sg:city":"Schenectady",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85850057,
+        102191575,
+        404522519,
         85633793,
         85979289,
         102081765,
-        85850057
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c16003d62792e4e49f082dde3ab58ded",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081765,
+            "localadmin_id":404522519,
             "locality_id":85979289,
             "neighbourhood_id":85850057,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370489705,
-    "wof:lastmodified":1449030920,
+    "wof:lastmodified":1454127854,
     "wof:name":"Usa",
     "wof:parent_id":85850057,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.969474,42.79616,-73.969474,42.79616],
-  "geometry": {"coordinates":[-73.969474,42.79616],"type":"Point"}
+  "bbox": [
+    -73.969474,
+    42.79616,
+    -73.969474,
+    42.79616
+],
+  "geometry": {"coordinates":[-73.96947400000001,42.79616],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320111335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.62014,42.958298,-77.62014,42.958298",
     "geom:latitude":42.958298,
     "geom:longitude":-77.62014,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7288 Rush Lima Rd",
     "sg:city":"Honeoye Falls",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837385,
+        102191575,
+        404521463,
         85633793,
+        85977581,
         102081815,
-        85848643
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"3eb5a3c2bb962ef682c0dcf2648ddeb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":-1,
-            "neighbourhood_id":85848643,
+            "localadmin_id":404521463,
+            "locality_id":85977581,
+            "neighbourhood_id":85837385,
             "region_id":85688543,
             "venue_id":320111335
         }
     ],
     "wof:id":320111335,
-    "wof:lastmodified":1449015083,
+    "wof:lastmodified":1454125383,
     "wof:name":"Dave's Mower",
-    "wof:parent_id":85848643,
+    "wof:parent_id":85837385,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "mower"
     ]
 },
-  "bbox": [-77.62014,42.958298,-77.62014,42.958298],
-  "geometry": {"coordinates":[-77.62014,42.958298],"type":"Point"}
+  "bbox": [
+    -77.62014,
+    42.958298,
+    -77.62014,
+    42.958298
+],
+  "geometry": {"coordinates":[-77.62014000000001,42.958298],"type":"Point"}
 }

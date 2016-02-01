@@ -2,13 +2,14 @@
   "id": 403933241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993046,40.683083,-73.993046,40.683083",
     "geom:latitude":40.683083,
     "geom:longitude":-73.993046,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"246 Smith St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,10 +28,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892915,
+        102191575,
+        102147495,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +45,21 @@
     "wof:geomhash":"b59d54c9277f03433836b0f6dbda3fe1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "macrohood_id":102147495,
+            "neighbourhood_id":85892915,
             "region_id":85688543,
             "venue_id":403933241
         }
     ],
     "wof:id":403933241,
-    "wof:lastmodified":1449054910,
+    "wof:lastmodified":1454129363,
     "wof:name":"Smith & Vine LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +67,11 @@
         "alcoholic"
     ]
 },
-  "bbox": [-73.993046,40.683083,-73.993046,40.683083],
-  "geometry": {"coordinates":[-73.993046,40.683083],"type":"Point"}
+  "bbox": [
+    -73.993046,
+    40.683083,
+    -73.993046,
+    40.683083
+],
+  "geometry": {"coordinates":[-73.99304600000001,40.683083],"type":"Point"}
 }

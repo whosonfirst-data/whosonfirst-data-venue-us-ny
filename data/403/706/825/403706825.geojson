@@ -2,13 +2,14 @@
   "id": 403706825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.891164,40.948259,-73.891164,40.948259",
     "geom:latitude":40.948259,
     "geom:longitude":-73.891164,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"437 Palisade Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881895,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"9ed76435d54411e266db5298f4c866ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881895,
             "region_id":85688543,
             "venue_id":403706825
         }
     ],
     "wof:id":403706825,
-    "wof:lastmodified":1449054727,
+    "wof:lastmodified":1454129336,
     "wof:name":"437 Palisade Condo Corp Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881895,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.891164,40.948259,-73.891164,40.948259],
+  "bbox": [
+    -73.891164,
+    40.948259,
+    -73.891164,
+    40.948259
+],
   "geometry": {"coordinates":[-73.891164,40.948259],"type":"Point"}
 }

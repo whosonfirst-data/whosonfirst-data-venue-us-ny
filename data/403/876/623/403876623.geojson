@@ -2,13 +2,14 @@
   "id": 403876623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.005415,41.927251,-74.005415,41.927251",
     "geom:latitude":41.927251,
     "geom:longitude":-74.005415,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"77 Greenkill Ave",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857693,
+        102191575,
+        404523249,
         85633793,
+        85977505,
         102081775,
-        85857693
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"b353890e1d726dc0af55ce33a4404580",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
-            "locality_id":-1,
+            "localadmin_id":404523249,
+            "locality_id":85977505,
             "neighbourhood_id":85857693,
             "region_id":85688543,
             "venue_id":403876623
         }
     ],
     "wof:id":403876623,
-    "wof:lastmodified":1449054904,
+    "wof:lastmodified":1454129362,
     "wof:name":"Rahm Construction Corp",
     "wof:parent_id":85857693,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.005415,41.927251,-74.005415,41.927251],
+  "bbox": [
+    -74.005415,
+    41.927251,
+    -74.005415,
+    41.927251
+],
   "geometry": {"coordinates":[-74.005415,41.927251],"type":"Point"}
 }

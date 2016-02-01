@@ -2,13 +2,14 @@
   "id": 337290107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.013686,40.652585,-74.013686,40.652585",
     "geom:latitude":40.652585,
     "geom:longitude":-74.013686,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"156 44th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -45,11 +46,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851575,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85851575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,9 +62,10 @@
     "wof:geomhash":"2a885d96d121b5bc553efd377edc94ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85851575,
             "region_id":85688543,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":337290107,
-    "wof:lastmodified":1449027285,
+    "wof:lastmodified":1454127003,
     "wof:name":"Office N Things",
     "wof:parent_id":85851575,
     "wof:placetype":"venue",
@@ -87,6 +91,11 @@
         "furniture"
     ]
 },
-  "bbox": [-74.013686,40.652585,-74.013686,40.652585],
-  "geometry": {"coordinates":[-74.013686,40.652585],"type":"Point"}
+  "bbox": [
+    -74.013686,
+    40.652585,
+    -74.013686,
+    40.652585
+],
+  "geometry": {"coordinates":[-74.01368600000001,40.652585],"type":"Point"}
 }

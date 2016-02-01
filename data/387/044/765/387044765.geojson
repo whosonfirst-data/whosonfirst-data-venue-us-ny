@@ -2,13 +2,14 @@
   "id": 387044765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.828735,40.922945,-73.828735,40.922945",
     "geom:latitude":40.922945,
     "geom:longitude":-73.828735,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"33 Vernon Pl",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530461,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"5a3b3aa165ceda2c6c8e42bfde259a25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530461,
             "region_id":85688543,
             "venue_id":387044765
         }
     ],
     "wof:id":387044765,
-    "wof:lastmodified":1449058087,
+    "wof:lastmodified":1454129884,
     "wof:name":"R Tegan Mechanical Contractors",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530461,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.828735,40.922945,-73.828735,40.922945],
-  "geometry": {"coordinates":[-73.828735,40.922945],"type":"Point"}
+  "bbox": [
+    -73.828735,
+    40.922945,
+    -73.828735,
+    40.922945
+],
+  "geometry": {"coordinates":[-73.82873499999999,40.922945],"type":"Point"}
 }

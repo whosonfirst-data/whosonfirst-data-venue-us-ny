@@ -2,13 +2,14 @@
   "id": 252818125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.050848,43.248589,-79.050848,43.248589",
     "geom:latitude":43.248589,
     "geom:longitude":-79.050848,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"491 Water St",
     "sg:city":"Youngstown",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820171,
+        102191575,
+        404522749,
         85633793,
+        85978265,
         102081767,
-        85820171
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"65f788dc0e9378f51662cbcc54fc9bb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
-            "locality_id":-1,
+            "localadmin_id":404522749,
+            "locality_id":85978265,
             "neighbourhood_id":85820171,
             "region_id":85688543,
             "venue_id":252818125
         }
     ],
     "wof:id":252818125,
-    "wof:lastmodified":1449005946,
+    "wof:lastmodified":1454124055,
     "wof:name":"Youngstown Yacht Club",
     "wof:parent_id":85820171,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "club"
     ]
 },
-  "bbox": [-79.050848,43.248589,-79.050848,43.248589],
+  "bbox": [
+    -79.050848,
+    43.248589,
+    -79.050848,
+    43.248589
+],
   "geometry": {"coordinates":[-79.050848,43.248589],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269533745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.235776,42.916556,-77.235776,42.916556",
     "geom:latitude":42.916556,
     "geom:longitude":-77.235776,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4237 Chapin Rd",
     "sg:city":"Canandaigua",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831055,
+        102191575,
+        404522783,
         85633793,
-        85977853,
+        85977851,
         102082359,
-        85831055
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"7737fe6dbd8166f82ab41c883c972b13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082359,
-            "locality_id":85977853,
+            "localadmin_id":404522783,
+            "locality_id":85977851,
             "neighbourhood_id":85831055,
             "region_id":85688543,
             "venue_id":269533745
         }
     ],
     "wof:id":269533745,
-    "wof:lastmodified":1449036120,
+    "wof:lastmodified":1454128457,
     "wof:name":"Proctor Construction",
     "wof:parent_id":85831055,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "improvement"
     ]
 },
-  "bbox": [-77.235776,42.916556,-77.235776,42.916556],
+  "bbox": [
+    -77.235776,
+    42.916556,
+    -77.235776,
+    42.916556
+],
   "geometry": {"coordinates":[-77.235776,42.916556],"type":"Point"}
 }

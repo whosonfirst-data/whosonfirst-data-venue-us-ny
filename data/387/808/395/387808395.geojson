@@ -2,13 +2,14 @@
   "id": 387808395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.740731,40.635537,-73.740731,40.635537",
     "geom:latitude":40.635537,
     "geom:longitude":-73.740731,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 2nd St",
     "sg:city":"Rosedale",
     "sg:classifiers":[
@@ -30,10 +31,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
+        102082361,
+        85688543,
         85865647
     ],
     "wof:breaches":[],
@@ -44,9 +49,22 @@
     "wof:geomhash":"6968c93fb98ef71995a18b3bfd8ec79d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":85823673,
+            "region_id":85688543,
+            "venue_id":387808395
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865647,
             "region_id":85688543,
@@ -54,9 +72,9 @@
         }
     ],
     "wof:id":387808395,
-    "wof:lastmodified":1449056300,
+    "wof:lastmodified":1454129564,
     "wof:name":"Aero Industrial Sales Company",
-    "wof:parent_id":85865647,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +85,11 @@
         "for"
     ]
 },
-  "bbox": [-73.740731,40.635537,-73.740731,40.635537],
+  "bbox": [
+    -73.740731,
+    40.635537,
+    -73.740731,
+    40.635537
+],
   "geometry": {"coordinates":[-73.740731,40.635537],"type":"Point"}
 }

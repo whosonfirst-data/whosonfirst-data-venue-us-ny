@@ -2,13 +2,14 @@
   "id": 387714499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.676304,43.131655,-78.676304,43.131655",
     "geom:latitude":43.131655,
     "geom:longitude":-78.676304,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6560 Dysinger Rd",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     "sg:website":"www.elockport.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529193,
+        102191575,
+        404522737,
         85633793,
+        85979541,
+        102081767,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"5035e126f868b291852429a1f12342fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081767,
+            "localadmin_id":404522737,
+            "locality_id":85979541,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":387714499
         }
     ],
     "wof:id":387714499,
-    "wof:lastmodified":1449057977,
+    "wof:lastmodified":1454129863,
     "wof:name":"Lockport Supervisor",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -58,6 +66,11 @@
         "village"
     ]
 },
-  "bbox": [-78.676304,43.131655,-78.676304,43.131655],
+  "bbox": [
+    -78.676304,
+    43.131655,
+    -78.676304,
+    43.131655
+],
   "geometry": {"coordinates":[-78.676304,43.131655],"type":"Point"}
 }

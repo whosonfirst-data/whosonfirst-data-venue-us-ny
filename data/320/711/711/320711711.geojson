@@ -2,13 +2,14 @@
   "id": 320711711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.872968,42.890087,-78.872968,42.890087",
     "geom:latitude":42.890087,
     "geom:longitude":-78.872968,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"665 Main St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867085,
+        102191575,
+        404522329,
         85633793,
         85978023,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"e82e0d3b2e4327f348326048aba8d0a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85867085,
             "region_id":85688543,
             "venue_id":320711711
         }
     ],
     "wof:id":320711711,
-    "wof:lastmodified":1449014282,
+    "wof:lastmodified":1454125252,
     "wof:name":"Susan E Van Gelder Attorney",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867085,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "attorney"
     ]
 },
-  "bbox": [-78.872968,42.890087,-78.872968,42.890087],
+  "bbox": [
+    -78.872968,
+    42.890087,
+    -78.872968,
+    42.890087
+],
   "geometry": {"coordinates":[-78.872968,42.890087],"type":"Point"}
 }

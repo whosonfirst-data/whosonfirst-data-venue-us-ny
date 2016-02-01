@@ -2,13 +2,14 @@
   "id": 370274335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.862947,40.851099,-73.862947,40.851099",
     "geom:latitude":40.851099,
     "geom:longitude":-73.862947,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2040 Matthews Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807771,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85807771
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c50057d22f8213048adb2b25616f4f4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85807771,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370274335,
-    "wof:lastmodified":1449029507,
+    "wof:lastmodified":1454127437,
     "wof:name":"Benetatos Inc",
     "wof:parent_id":85807771,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "sales"
     ]
 },
-  "bbox": [-73.862947,40.851099,-73.862947,40.851099],
-  "geometry": {"coordinates":[-73.862947,40.851099],"type":"Point"}
+  "bbox": [
+    -73.862947,
+    40.851099,
+    -73.862947,
+    40.851099
+],
+  "geometry": {"coordinates":[-73.86294700000001,40.851099],"type":"Point"}
 }

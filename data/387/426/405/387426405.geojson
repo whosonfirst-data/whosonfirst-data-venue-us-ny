@@ -2,13 +2,14 @@
   "id": 387426405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.928688,41.289159,-73.928688,41.289159",
     "geom:latitude":41.289159,
     "geom:longitude":-73.928688,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"634 Main St",
     "sg:city":"Peekskill",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.henrysonthehudson.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892981,
+        102191575,
+        404523381,
         85633793,
         85978715,
         102082373,
-        85892975
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,24 +42,30 @@
     "wof:geomhash":"bbff08ff2357c4a34729a8fe67ab3857",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523381,
             "locality_id":85978715,
-            "neighbourhood_id":85892975,
+            "neighbourhood_id":85892981,
             "region_id":85688543,
             "venue_id":387426405
         }
     ],
     "wof:id":387426405,
-    "wof:lastmodified":1449056913,
+    "wof:lastmodified":1454129671,
     "wof:name":"Henry's On The Hudson",
-    "wof:parent_id":85892975,
+    "wof:parent_id":85892981,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.928688,41.289159,-73.928688,41.289159],
-  "geometry": {"coordinates":[-73.928688,41.289159],"type":"Point"}
+  "bbox": [
+    -73.928688,
+    41.289159,
+    -73.928688,
+    41.289159
+],
+  "geometry": {"coordinates":[-73.92868799999999,41.289159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403977185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.655129,40.91958,-72.655129,40.91958",
     "geom:latitude":40.91958,
     "geom:longitude":-72.655129,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"540 E Main St",
     "sg:city":"Riverhead",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.plannedparenthood.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841881,
+        102191575,
+        404522671,
         85633793,
-        85979841,
+        85979909,
         102082395,
-        85841881
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"b41ffd72c5afd6eecc43b65d0ad08a0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979841,
+            "localadmin_id":404522671,
+            "locality_id":85979909,
             "neighbourhood_id":85841881,
             "region_id":85688543,
             "venue_id":403977185
         }
     ],
     "wof:id":403977185,
-    "wof:lastmodified":1449056006,
+    "wof:lastmodified":1454129518,
     "wof:name":"Planned Parenthood",
     "wof:parent_id":85841881,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-72.655129,40.91958,-72.655129,40.91958],
+  "bbox": [
+    -72.655129,
+    40.91958,
+    -72.655129,
+    40.91958
+],
   "geometry": {"coordinates":[-72.655129,40.91958],"type":"Point"}
 }

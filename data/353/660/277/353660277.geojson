@@ -2,13 +2,14 @@
   "id": 353660277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.003705,40.751373,-74.003705,40.751373",
     "geom:latitude":40.751373,
     "geom:longitude":-74.003705,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"548 W 28 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810589,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810589
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"ce78d6fec2fd02224fd5b33b3f43d5e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810589,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":353660277,
-    "wof:lastmodified":1449020538,
+    "wof:lastmodified":1454126608,
     "wof:name":"Focus Audio Visual Svcs Inc",
     "wof:parent_id":85810589,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "leasing"
     ]
 },
-  "bbox": [-74.003705,40.751373,-74.003705,40.751373],
+  "bbox": [
+    -74.003705,
+    40.751373,
+    -74.003705,
+    40.751373
+],
   "geometry": {"coordinates":[-74.003705,40.751373],"type":"Point"}
 }

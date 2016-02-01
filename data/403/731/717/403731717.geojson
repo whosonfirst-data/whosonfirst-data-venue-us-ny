@@ -2,13 +2,14 @@
   "id": 403731717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.964333,40.761569,-73.964333,40.761569",
     "geom:latitude":40.761569,
     "geom:longitude":-73.964333,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"229 E 60 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865691,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865691
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"f4c64eb9bd5034cc801543d27392fb5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865691,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":403731717,
-    "wof:lastmodified":1449055815,
+    "wof:lastmodified":1454129491,
     "wof:name":"Beverly Sacks Fine Art",
     "wof:parent_id":85865691,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "dealer"
     ]
 },
-  "bbox": [-73.964333,40.761569,-73.964333,40.761569],
+  "bbox": [
+    -73.964333,
+    40.761569,
+    -73.964333,
+    40.761569
+],
   "geometry": {"coordinates":[-73.964333,40.761569],"type":"Point"}
 }

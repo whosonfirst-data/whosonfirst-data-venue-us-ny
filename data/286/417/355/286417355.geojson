@@ -2,13 +2,14 @@
   "id": 286417355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.075926,40.59638,-74.075926,40.59638",
     "geom:latitude":40.59638,
     "geom:longitude":-74.075926,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"85 Jerome Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85803627,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85803627
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"b25cceb8e90dcef1561d301cd4a1bd06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85803627,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":286417355,
-    "wof:lastmodified":1449016381,
+    "wof:lastmodified":1454125609,
     "wof:name":"Staten Island Community Svc",
     "wof:parent_id":85803627,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "citizen"
     ]
 },
-  "bbox": [-74.075926,40.59638,-74.075926,40.59638],
+  "bbox": [
+    -74.075926,
+    40.59638,
+    -74.075926,
+    40.59638
+],
   "geometry": {"coordinates":[-74.075926,40.59638],"type":"Point"}
 }

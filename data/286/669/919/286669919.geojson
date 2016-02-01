@@ -2,13 +2,14 @@
   "id": 286669919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.97528,40.752264,-73.97528,40.752264",
     "geom:latitude":40.752264,
     "geom:longitude":-73.97528,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"425 Lexington Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852839,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85852839
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"b6a61027957f56d5bd98c2d8ed0e5f63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85852839,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":286669919,
-    "wof:lastmodified":1449015514,
+    "wof:lastmodified":1454125459,
     "wof:name":"Cingular Wireless",
     "wof:parent_id":85852839,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "cellular"
     ]
 },
-  "bbox": [-73.97528,40.752264,-73.97528,40.752264],
+  "bbox": [
+    -73.97528,
+    40.752264,
+    -73.97528,
+    40.752264
+],
   "geometry": {"coordinates":[-73.97528,40.752264],"type":"Point"}
 }

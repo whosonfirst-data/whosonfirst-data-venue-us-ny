@@ -2,13 +2,14 @@
   "id": 303841235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.970174,40.876998,-72.970174,40.876998",
     "geom:latitude":40.876998,
     "geom:longitude":-72.970174,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"180 Middle Country Rd",
     "sg:city":"Middle Island",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"ce5fcdfbba4ff1feb1bbc0819a86e95b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":303841235
         }
     ],
     "wof:id":303841235,
-    "wof:lastmodified":1448998629,
+    "wof:lastmodified":1454123165,
     "wof:name":"Barnwood Deli & Dairy Inc",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "eating"
     ]
 },
-  "bbox": [-72.970174,40.876998,-72.970174,40.876998],
+  "bbox": [
+    -72.970174,
+    40.876998,
+    -72.970174,
+    40.876998
+],
   "geometry": {"coordinates":[-72.970174,40.876998],"type":"Point"}
 }

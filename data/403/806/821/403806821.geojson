@@ -2,13 +2,14 @@
   "id": 403806821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.961959,40.617714,-73.961959,40.617714",
     "geom:latitude":40.617714,
     "geom:longitude":-73.961959,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1212 Ave M",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865583,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"2369180aabe7eb257ad9cce75d9c7d4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865583,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":403806821,
-    "wof:lastmodified":1449054626,
+    "wof:lastmodified":1454129321,
     "wof:name":"Silver Oasis",
     "wof:parent_id":85865583,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "gold"
     ]
 },
-  "bbox": [-73.961959,40.617714,-73.961959,40.617714],
-  "geometry": {"coordinates":[-73.961959,40.617714],"type":"Point"}
+  "bbox": [
+    -73.961959,
+    40.617714,
+    -73.961959,
+    40.617714
+],
+  "geometry": {"coordinates":[-73.96195899999999,40.617714],"type":"Point"}
 }

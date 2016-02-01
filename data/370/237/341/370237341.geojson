@@ -2,13 +2,14 @@
   "id": 370237341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.500252,40.805191,-73.500252,40.805191",
     "geom:latitude":40.805191,
     "geom:longitude":-73.500252,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"43 Underhill Ave",
     "sg:city":"Syosset",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529175,
+        102191575,
+        404521475,
         85633793,
         85979075,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"6c4935066192742ed897c4d4afb772e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979075,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529175,
             "region_id":85688543,
             "venue_id":370237341
         }
     ],
     "wof:id":370237341,
-    "wof:lastmodified":1449029151,
+    "wof:lastmodified":1454127333,
     "wof:name":"Big Screen Pictures Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529175,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "companies-film"
     ]
 },
-  "bbox": [-73.500252,40.805191,-73.500252,40.805191],
+  "bbox": [
+    -73.500252,
+    40.805191,
+    -73.500252,
+    40.805191
+],
   "geometry": {"coordinates":[-73.500252,40.805191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336681739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.843921,40.913703,-73.843921,40.913703",
     "geom:latitude":40.913703,
     "geom:longitude":-73.843921,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"197 W Lincoln Ave",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"fd04ee6c51b56a35724cacec70913eff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":336681739
         }
     ],
     "wof:id":336681739,
-    "wof:lastmodified":1448997598,
+    "wof:lastmodified":1454122825,
     "wof:name":"Sundown Bar & Restrnt",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.843921,40.913703,-73.843921,40.913703],
-  "geometry": {"coordinates":[-73.843921,40.913703],"type":"Point"}
+  "bbox": [
+    -73.843921,
+    40.913703,
+    -73.843921,
+    40.913703
+],
+  "geometry": {"coordinates":[-73.84392099999999,40.913703],"type":"Point"}
 }

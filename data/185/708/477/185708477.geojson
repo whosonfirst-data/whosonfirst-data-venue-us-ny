@@ -2,13 +2,14 @@
   "id": 185708477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.975167,40.680838,-73.975167,40.680838",
     "geom:latitude":40.680838,
     "geom:longitude":-73.975167,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"470 Bergen St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"http://www.bergenstreetcomics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840609,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85840609
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"1d1c30888ae258b7d25ccf42bda40cb8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85840609,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":185708477,
-    "wof:lastmodified":1449006870,
+    "wof:lastmodified":1454124176,
     "wof:name":"Bergen Street Comics",
     "wof:parent_id":85840609,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "store"
     ]
 },
-  "bbox": [-73.975167,40.680838,-73.975167,40.680838],
+  "bbox": [
+    -73.975167,
+    40.680838,
+    -73.975167,
+    40.680838
+],
   "geometry": {"coordinates":[-73.975167,40.680838],"type":"Point"}
 }

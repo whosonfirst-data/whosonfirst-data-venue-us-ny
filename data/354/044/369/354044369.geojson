@@ -2,13 +2,14 @@
   "id": 354044369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.812257,40.587578,-73.812257,40.587578",
     "geom:latitude":40.587578,
     "geom:longitude":-73.812257,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8710 Rockaway Beach Blvd",
     "sg:city":"Rockaway Beach",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.hrblock.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865515,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865515
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"fd3251a5dc75614fa25ba356c0742f61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865515,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":354044369,
-    "wof:lastmodified":1449066821,
+    "wof:lastmodified":1454131043,
     "wof:name":"H&R Block",
     "wof:parent_id":85865515,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.812257,40.587578,-73.812257,40.587578],
+  "bbox": [
+    -73.812257,
+    40.587578,
+    -73.812257,
+    40.587578
+],
   "geometry": {"coordinates":[-73.812257,40.587578],"type":"Point"}
 }

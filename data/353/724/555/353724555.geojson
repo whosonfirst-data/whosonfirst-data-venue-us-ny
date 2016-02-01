@@ -2,13 +2,14 @@
   "id": 353724555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.775141,40.965695,-73.775141,40.965695",
     "geom:latitude":40.965695,
     "geom:longitude":-73.775141,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Hillary Cir",
     "sg:city":"New Rochelle",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530385,
+        102191575,
+        404523391,
         85633793,
-        85978749,
-        102082373
+        85978767,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"7060898d10ac29458e5da0f33199a56f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978749,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523391,
+            "locality_id":85978767,
+            "neighbourhood_id":420530385,
             "region_id":85688543,
             "venue_id":353724555
         }
     ],
     "wof:id":353724555,
-    "wof:lastmodified":1449020721,
+    "wof:lastmodified":1454126663,
     "wof:name":"Joseph G Minarovich Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530385,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.775141,40.965695,-73.775141,40.965695],
+  "bbox": [
+    -73.775141,
+    40.965695,
+    -73.775141,
+    40.965695
+],
   "geometry": {"coordinates":[-73.775141,40.965695],"type":"Point"}
 }

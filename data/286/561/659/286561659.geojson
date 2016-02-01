@@ -2,13 +2,14 @@
   "id": 286561659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.90549,40.85592,-73.90549,40.85592",
     "geom:latitude":40.85592,
     "geom:longitude":-73.90549,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2165 Jerome Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853135,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85853135
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"d2eb8b2441f23b0bc22766b9b346cc24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853135,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":286561659,
-    "wof:lastmodified":1449017267,
+    "wof:lastmodified":1454125763,
     "wof:name":"Emergency Locksmith",
     "wof:parent_id":85853135,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-73.90549,40.85592,-73.90549,40.85592],
+  "bbox": [
+    -73.90549,
+    40.85592,
+    -73.90549,
+    40.85592
+],
   "geometry": {"coordinates":[-73.90549,40.85592],"type":"Point"}
 }

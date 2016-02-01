@@ -2,13 +2,14 @@
   "id": 353728453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.745506,42.911365,-77.745506,42.911365",
     "geom:latitude":42.911365,
     "geom:longitude":-77.745506,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"49 Park Pl",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528931,
+        102191575,
+        404521977,
         85633793,
         85978303,
-        102082381
+        102082381,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"314e7a809555774d945b6c508f982dce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082381,
+            "localadmin_id":404521977,
             "locality_id":85978303,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528931,
             "region_id":85688543,
             "venue_id":353728453
         }
     ],
     "wof:id":353728453,
-    "wof:lastmodified":1449018849,
+    "wof:lastmodified":1454126121,
     "wof:name":"Burke Associates Realtors",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528931,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.745506,42.911365,-77.745506,42.911365],
-  "geometry": {"coordinates":[-77.745506,42.911365],"type":"Point"}
+  "bbox": [
+    -77.745506,
+    42.911365,
+    -77.745506,
+    42.911365
+],
+  "geometry": {"coordinates":[-77.74550600000001,42.911365],"type":"Point"}
 }

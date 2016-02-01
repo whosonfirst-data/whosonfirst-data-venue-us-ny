@@ -2,13 +2,14 @@
   "id": 303069551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.11867,40.573743,-74.11867,40.573743",
     "geom:latitude":40.573743,
     "geom:longitude":-74.11867,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"98 Rose Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529771,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"a4a88ff14a327903e8a6e34d443c3fcb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529771,
             "region_id":85688543,
             "venue_id":303069551
         }
     ],
     "wof:id":303069551,
-    "wof:lastmodified":1448999661,
+    "wof:lastmodified":1454123473,
     "wof:name":"Giorgio Engineering PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529771,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "engineer"
     ]
 },
-  "bbox": [-74.11867,40.573743,-74.11867,40.573743],
-  "geometry": {"coordinates":[-74.11867,40.573743],"type":"Point"}
+  "bbox": [
+    -74.11867,
+    40.573743,
+    -74.11867,
+    40.573743
+],
+  "geometry": {"coordinates":[-74.11866999999999,40.573743],"type":"Point"}
 }

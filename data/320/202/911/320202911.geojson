@@ -2,13 +2,14 @@
   "id": 320202911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.810487,41.006613,-73.810487,41.006613",
     "geom:latitude":41.006613,
     "geom:longitude":-73.810487,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"416 Central Park Ave",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820435,
+        102191575,
+        404523391,
         85633793,
-        85980063,
+        85978767,
         102082373,
-        85820435
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"d9d93a6788eb6872edda05debe1db3e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85980063,
+            "localadmin_id":404523391,
+            "locality_id":85978767,
             "neighbourhood_id":85820435,
             "region_id":85688543,
             "venue_id":320202911
         }
     ],
     "wof:id":320202911,
-    "wof:lastmodified":1449014480,
+    "wof:lastmodified":1454125283,
     "wof:name":"Getty",
     "wof:parent_id":85820435,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-73.810487,41.006613,-73.810487,41.006613],
-  "geometry": {"coordinates":[-73.810487,41.006613],"type":"Point"}
+  "bbox": [
+    -73.810487,
+    41.006613,
+    -73.810487,
+    41.006613
+],
+  "geometry": {"coordinates":[-73.81048699999999,41.006613],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286524037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.988931,40.772614,-73.988931,40.772614",
     "geom:latitude":40.772614,
     "geom:longitude":-73.988931,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"227 W 61 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.beaconschool.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853285,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85853285
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"a0989dcc252277cebb7941dd6103e553",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853285,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":286524037,
-    "wof:lastmodified":1449015140,
+    "wof:lastmodified":1454125394,
     "wof:name":"Beacon High School",
     "wof:parent_id":85853285,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "senior"
     ]
 },
-  "bbox": [-73.988931,40.772614,-73.988931,40.772614],
-  "geometry": {"coordinates":[-73.988931,40.772614],"type":"Point"}
+  "bbox": [
+    -73.988931,
+    40.772614,
+    -73.988931,
+    40.772614
+],
+  "geometry": {"coordinates":[-73.98893099999999,40.772614],"type":"Point"}
 }

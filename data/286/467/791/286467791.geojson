@@ -2,13 +2,14 @@
   "id": 286467791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.868355,40.84708,-73.868355,40.84708",
     "geom:latitude":40.84708,
     "geom:longitude":-73.868355,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1901 Amethyst St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853499,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"dab2c4475a43afff52001629b629e8cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85853499,
             "region_id":85688543,
             "venue_id":286467791
         }
     ],
     "wof:id":286467791,
-    "wof:lastmodified":1449017495,
+    "wof:lastmodified":1454125808,
     "wof:name":"Fgi Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853499,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "public"
     ]
 },
-  "bbox": [-73.868355,40.84708,-73.868355,40.84708],
-  "geometry": {"coordinates":[-73.868355,40.84708],"type":"Point"}
+  "bbox": [
+    -73.868355,
+    40.84708,
+    -73.868355,
+    40.84708
+],
+  "geometry": {"coordinates":[-73.86835499999999,40.84708],"type":"Point"}
 }

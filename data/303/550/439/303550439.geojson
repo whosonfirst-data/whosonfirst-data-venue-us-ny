@@ -2,13 +2,14 @@
   "id": 303550439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.199755,40.828683,-73.199755,40.828683",
     "geom:latitude":40.828683,
     "geom:longitude":-73.199755,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"530 Rte 111",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.subway.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"5ea40a36f0a098589dde595e2614c7c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":303550439
         }
     ],
     "wof:id":303550439,
-    "wof:lastmodified":1448999442,
+    "wof:lastmodified":1454123417,
     "wof:name":"Subway Sandwiches & Salads",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.199755,40.828683,-73.199755,40.828683],
+  "bbox": [
+    -73.199755,
+    40.828683,
+    -73.199755,
+    40.828683
+],
   "geometry": {"coordinates":[-73.199755,40.828683],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269999461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.26802,43.10913,-74.26802,43.10913",
     "geom:latitude":43.10913,
     "geom:longitude":-74.26802,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 N School St",
     "sg:city":"Mayfield",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528705,
+        102191575,
+        404521375,
         85633793,
         85978039,
-        102081813
+        102081813,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"cc55b8b7944b5d2c099fd529c5abc8d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081813,
+            "localadmin_id":404521375,
             "locality_id":85978039,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528705,
             "region_id":85688543,
             "venue_id":269999461
         }
     ],
     "wof:id":269999461,
-    "wof:lastmodified":1449038610,
+    "wof:lastmodified":1454128773,
     "wof:name":"Waste Water Treatment Plant",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528705,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-74.26802,43.10913,-74.26802,43.10913],
-  "geometry": {"coordinates":[-74.26802,43.10913],"type":"Point"}
+  "bbox": [
+    -74.26802,
+    43.10913,
+    -74.26802,
+    43.10913
+],
+  "geometry": {"coordinates":[-74.26802000000001,43.10913],"type":"Point"}
 }

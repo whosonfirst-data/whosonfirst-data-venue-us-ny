@@ -2,13 +2,14 @@
   "id": 387650279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.572167,40.761826,-73.572167,40.761826",
     "geom:latitude":40.761826,
     "geom:longitude":-73.572167,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"719 Prospect Ave",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529181,
+        102191575,
+        404522729,
         85633793,
         85979063,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"8f42710785deb7aa6d6c77a5e7aa4a0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979063,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529181,
             "region_id":85688543,
             "venue_id":387650279
         }
     ],
     "wof:id":387650279,
-    "wof:lastmodified":1449058425,
+    "wof:lastmodified":1454129943,
     "wof:name":"Shirleys Beauty Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529181,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.572167,40.761826,-73.572167,40.761826],
-  "geometry": {"coordinates":[-73.572167,40.761826],"type":"Point"}
+  "bbox": [
+    -73.572167,
+    40.761826,
+    -73.572167,
+    40.761826
+],
+  "geometry": {"coordinates":[-73.57216699999999,40.761826],"type":"Point"}
 }

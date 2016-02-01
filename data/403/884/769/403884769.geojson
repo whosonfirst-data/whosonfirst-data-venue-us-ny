@@ -2,13 +2,14 @@
   "id": 403884769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.81779,41.720868,-73.81779,41.720868",
     "geom:latitude":41.720868,
     "geom:longitude":-73.81779,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"280 Freedom Rd",
     "sg:city":"Pleasant Valley",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528481,
+        102191575,
+        404522303,
         85633793,
+        85979257,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"02f0741b5ebe7c1be970c0c950aef89c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522303,
+            "locality_id":85979257,
+            "neighbourhood_id":420528481,
             "region_id":85688543,
             "venue_id":403884769
         }
     ],
     "wof:id":403884769,
-    "wof:lastmodified":1449055706,
+    "wof:lastmodified":1454129477,
     "wof:name":"Solar Insatallations",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528481,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.81779,41.720868,-73.81779,41.720868],
+  "bbox": [
+    -73.81779,
+    41.720868,
+    -73.81779,
+    41.720868
+],
   "geometry": {"coordinates":[-73.81779,41.720868],"type":"Point"}
 }

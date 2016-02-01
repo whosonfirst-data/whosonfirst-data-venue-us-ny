@@ -2,13 +2,14 @@
   "id": 387755655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.118116,40.573448,-74.118116,40.573448",
     "geom:latitude":40.573448,
     "geom:longitude":-74.118116,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"130 Rose Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529771,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"1df7bac7141f21a08ba7b2ab6efa67e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529771,
             "region_id":85688543,
             "venue_id":387755655
         }
     ],
     "wof:id":387755655,
-    "wof:lastmodified":1449057172,
+    "wof:lastmodified":1454129720,
     "wof:name":"Plaza Boutique",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529771,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "boutique"
     ]
 },
-  "bbox": [-74.118116,40.573448,-74.118116,40.573448],
+  "bbox": [
+    -74.118116,
+    40.573448,
+    -74.118116,
+    40.573448
+],
   "geometry": {"coordinates":[-74.118116,40.573448],"type":"Point"}
 }

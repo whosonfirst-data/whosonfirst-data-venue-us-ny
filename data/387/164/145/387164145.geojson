@@ -2,13 +2,14 @@
   "id": 387164145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.962943,41.379852,-73.962943,41.379852",
     "geom:latitude":41.379852,
     "geom:longitude":-73.962943,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"626 Swift Rd",
     "sg:city":"West Point",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85821803,
+        102191575,
+        404522899,
         85633793,
-        102083007,
-        85821803
+        85978223,
+        102083061,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"9579eb5cb60bf38c454fc3bb9131daeb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083007,
-            "locality_id":-1,
+            "county_id":102083061,
+            "localadmin_id":404522899,
+            "locality_id":85978223,
             "neighbourhood_id":85821803,
             "region_id":85688543,
             "venue_id":387164145
         }
     ],
     "wof:id":387164145,
-    "wof:lastmodified":1449056561,
+    "wof:lastmodified":1454129609,
     "wof:name":"NAF Personnel Unit",
     "wof:parent_id":85821803,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "opportunity"
     ]
 },
-  "bbox": [-73.962943,41.379852,-73.962943,41.379852],
+  "bbox": [
+    -73.962943,
+    41.379852,
+    -73.962943,
+    41.379852
+],
   "geometry": {"coordinates":[-73.962943,41.379852],"type":"Point"}
 }

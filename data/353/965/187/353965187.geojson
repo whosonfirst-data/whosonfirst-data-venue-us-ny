@@ -2,13 +2,14 @@
   "id": 353965187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.635998,40.818928,-73.635998,40.818928",
     "geom:latitude":40.818928,
     "geom:longitude":-73.635998,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23 Club Ct",
     "sg:city":"Roslyn",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85977615,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"beafbeedf7223b4c0d117f5dfaec7285",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977615,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":353965187
         }
     ],
     "wof:id":353965187,
-    "wof:lastmodified":1449020025,
+    "wof:lastmodified":1454126461,
     "wof:name":"Lucky Lake Realty",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-73.635998,40.818928,-73.635998,40.818928],
+  "bbox": [
+    -73.635998,
+    40.818928,
+    -73.635998,
+    40.818928
+],
   "geometry": {"coordinates":[-73.635998,40.818928],"type":"Point"}
 }

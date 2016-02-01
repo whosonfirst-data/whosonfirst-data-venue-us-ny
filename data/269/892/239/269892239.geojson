@@ -2,13 +2,14 @@
   "id": 269892239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.992258,40.753238,-73.992258,40.753238",
     "geom:latitude":40.753238,
     "geom:longitude":-73.992258,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"214 W 36 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867073,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85867073
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"e442826fc1f244535e548a90b600ef76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85867073,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":269892239,
-    "wof:lastmodified":1449036491,
+    "wof:lastmodified":1454128514,
     "wof:name":"Aris Adamides Furs Telemgmt",
     "wof:parent_id":85867073,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.992258,40.753238,-73.992258,40.753238],
-  "geometry": {"coordinates":[-73.992258,40.753238],"type":"Point"}
+  "bbox": [
+    -73.992258,
+    40.753238,
+    -73.992258,
+    40.753238
+],
+  "geometry": {"coordinates":[-73.99225800000001,40.753238],"type":"Point"}
 }

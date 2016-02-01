@@ -2,13 +2,14 @@
   "id": 403828217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.878064,40.823834,-73.878064,40.823834",
     "geom:latitude":40.823834,
     "geom:longitude":-73.878064,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1501 Bruckner Blvd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528053,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"a229e66b74a1e2f37a8dd13ec826d386",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528053,
             "region_id":85688543,
             "venue_id":403828217
         }
     ],
     "wof:id":403828217,
-    "wof:lastmodified":1449055328,
+    "wof:lastmodified":1454129421,
     "wof:name":"Noni's Car Sales",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-73.878064,40.823834,-73.878064,40.823834],
-  "geometry": {"coordinates":[-73.878064,40.823834],"type":"Point"}
+  "bbox": [
+    -73.878064,
+    40.823834,
+    -73.878064,
+    40.823834
+],
+  "geometry": {"coordinates":[-73.87806399999999,40.823834],"type":"Point"}
 }

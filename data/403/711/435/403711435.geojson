@@ -2,13 +2,14 @@
   "id": 403711435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.938822,40.843109,-73.938822,40.843109",
     "geom:latitude":40.843109,
     "geom:longitude":-73.938822,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"611 W 171st St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85854625,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85854625
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"55bc3be35db21d0d98ce1c543195b72a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85854625,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":403711435,
-    "wof:lastmodified":1449055724,
+    "wof:lastmodified":1454129479,
     "wof:name":"Maritza New Face & Style",
     "wof:parent_id":85854625,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.938822,40.843109,-73.938822,40.843109],
+  "bbox": [
+    -73.938822,
+    40.843109,
+    -73.938822,
+    40.843109
+],
   "geometry": {"coordinates":[-73.938822,40.843109],"type":"Point"}
 }

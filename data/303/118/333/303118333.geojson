@@ -2,13 +2,14 @@
   "id": 303118333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.905504,41.292179,-73.905504,41.292179",
     "geom:latitude":41.292179,
     "geom:longitude":-73.905504,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1756 Lincoln Ter",
     "sg:city":"Peekskill",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892977,
+        102191575,
+        404523381,
         85633793,
         85978715,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"7025eac07dde9b1e6e034d2475ac4e88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523381,
             "locality_id":85978715,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892977,
             "region_id":85688543,
             "venue_id":303118333
         }
     ],
     "wof:id":303118333,
-    "wof:lastmodified":1449000099,
+    "wof:lastmodified":1454123596,
     "wof:name":"Russo Plumbing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892977,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.905504,41.292179,-73.905504,41.292179],
-  "geometry": {"coordinates":[-73.905504,41.292179],"type":"Point"}
+  "bbox": [
+    -73.905504,
+    41.292179,
+    -73.905504,
+    41.292179
+],
+  "geometry": {"coordinates":[-73.90550399999999,41.292179],"type":"Point"}
 }

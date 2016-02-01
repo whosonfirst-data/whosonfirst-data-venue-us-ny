@@ -2,13 +2,14 @@
   "id": 353936645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.89637,41.562943,-73.89637,41.562943",
     "geom:latitude":41.562943,
     "geom:longitude":-73.89637,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 Schlichter Rd",
     "sg:city":"Fishkill",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528475,
+        102191575,
+        404522225,
         85633793,
+        85979249,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"94346a57772dc91ac977178b9bc25a65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522225,
+            "locality_id":85979249,
+            "neighbourhood_id":420528475,
             "region_id":85688543,
             "venue_id":353936645
         }
     ],
     "wof:id":353936645,
-    "wof:lastmodified":1449019107,
+    "wof:lastmodified":1454126198,
     "wof:name":"Small Business Office Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528475,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "typing"
     ]
 },
-  "bbox": [-73.89637,41.562943,-73.89637,41.562943],
+  "bbox": [
+    -73.89637,
+    41.562943,
+    -73.89637,
+    41.562943
+],
   "geometry": {"coordinates":[-73.89637,41.562943],"type":"Point"}
 }

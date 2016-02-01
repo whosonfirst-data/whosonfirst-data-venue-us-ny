@@ -2,13 +2,14 @@
   "id": 320404153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.876686,40.870958,-73.876686,40.870958",
     "geom:latitude":40.870958,
     "geom:longitude":-73.876686,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"414 E 204th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869557,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869557
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"510c1a49e0388d65ab438ee004aadbef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869557,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":320404153,
-    "wof:lastmodified":1449013753,
+    "wof:lastmodified":1454125167,
     "wof:name":"Bahoo Waterproofing Corp",
     "wof:parent_id":85869557,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.876686,40.870958,-73.876686,40.870958],
-  "geometry": {"coordinates":[-73.876686,40.870958],"type":"Point"}
+  "bbox": [
+    -73.876686,
+    40.870958,
+    -73.876686,
+    40.870958
+],
+  "geometry": {"coordinates":[-73.87668600000001,40.870958],"type":"Point"}
 }

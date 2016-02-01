@@ -2,13 +2,14 @@
   "id": 370488901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.962202,42.781125,-73.962202,42.781125",
     "geom:latitude":42.781125,
     "geom:longitude":-73.962202,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2142 Robinwood Ave",
     "sg:city":"Schenectady",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85850057,
+        102191575,
+        404522519,
         85633793,
         85979289,
         102081765,
-        85850057
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"2da0d50037cebe68439d73931bb6cdec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081765,
+            "localadmin_id":404522519,
             "locality_id":85979289,
             "neighbourhood_id":85850057,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":370488901,
-    "wof:lastmodified":1449032379,
+    "wof:lastmodified":1454128288,
     "wof:name":"Tooley's Towing",
     "wof:parent_id":85850057,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "wrecking"
     ]
 },
-  "bbox": [-73.962202,42.781125,-73.962202,42.781125],
+  "bbox": [
+    -73.962202,
+    42.781125,
+    -73.962202,
+    42.781125
+],
   "geometry": {"coordinates":[-73.962202,42.781125],"type":"Point"}
 }

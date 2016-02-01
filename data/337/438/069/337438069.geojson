@@ -2,13 +2,14 @@
   "id": 337438069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.865501,40.754501,-73.865501,40.754501",
     "geom:latitude":40.754501,
     "geom:longitude":-73.865501,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10216 35th Ave",
     "sg:city":"Corona",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812357,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85812357
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"0800555e8f02556be505d66598430bc7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85812357,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":337438069,
-    "wof:lastmodified":1449027218,
+    "wof:lastmodified":1454126978,
     "wof:name":"Absolute Towing",
     "wof:parent_id":85812357,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "towing"
     ]
 },
-  "bbox": [-73.865501,40.754501,-73.865501,40.754501],
-  "geometry": {"coordinates":[-73.865501,40.754501],"type":"Point"}
+  "bbox": [
+    -73.865501,
+    40.754501,
+    -73.865501,
+    40.754501
+],
+  "geometry": {"coordinates":[-73.86550099999999,40.754501],"type":"Point"}
 }

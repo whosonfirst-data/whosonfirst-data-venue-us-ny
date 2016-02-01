@@ -2,13 +2,14 @@
   "id": 269529725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.467168,40.777187,-73.467168,40.777187",
     "geom:latitude":40.777187,
     "geom:longitude":-73.467168,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 Manetto Hill Rd",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"492644e8143672f6e0c7f2d76e169a2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":269529725
         }
     ],
     "wof:id":269529725,
-    "wof:lastmodified":1449037188,
+    "wof:lastmodified":1454128616,
     "wof:name":"Dynamic Communications",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-73.467168,40.777187,-73.467168,40.777187],
+  "bbox": [
+    -73.467168,
+    40.777187,
+    -73.467168,
+    40.777187
+],
   "geometry": {"coordinates":[-73.467168,40.777187],"type":"Point"}
 }

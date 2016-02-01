@@ -2,13 +2,14 @@
   "id": 303452745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.989612,40.687992,-73.989612,40.687992",
     "geom:latitude":40.687992,
     "geom:longitude":-73.989612,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"131 Smith St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,7 +29,8 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85869125,
-        102147495,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
@@ -42,18 +44,18 @@
     "wof:geomhash":"b431c77bea9b4a43acc492bd92d1eb65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "macrohood_id":102147495,
             "neighbourhood_id":85869125,
             "region_id":85688543,
             "venue_id":303452745
         }
     ],
     "wof:id":303452745,
-    "wof:lastmodified":1448998688,
+    "wof:lastmodified":1454123186,
     "wof:name":"Downtown Cleaners",
     "wof:parent_id":85869125,
     "wof:placetype":"venue",
@@ -63,6 +65,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-73.989612,40.687992,-73.989612,40.687992],
-  "geometry": {"coordinates":[-73.989612,40.687992],"type":"Point"}
+  "bbox": [
+    -73.989612,
+    40.687992,
+    -73.989612,
+    40.687992
+],
+  "geometry": {"coordinates":[-73.98961199999999,40.687992],"type":"Point"}
 }

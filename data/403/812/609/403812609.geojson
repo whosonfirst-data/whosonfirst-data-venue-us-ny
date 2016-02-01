@@ -2,13 +2,14 @@
   "id": 403812609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.194964,41.154688,-74.194964,41.154688",
     "geom:latitude":41.154688,
     "geom:longitude":-74.194964,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8 Eagle Valley Rd",
     "sg:city":"Sloatsburg",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851023,
+        102191575,
+        404523097,
         85633793,
+        85978561,
         102082385,
-        85851023
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"c1880be089a2dabc233eff6c76cb913a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":-1,
+            "localadmin_id":404523097,
+            "locality_id":85978561,
             "neighbourhood_id":85851023,
             "region_id":85688543,
             "venue_id":403812609
         }
     ],
     "wof:id":403812609,
-    "wof:lastmodified":1449054658,
+    "wof:lastmodified":1454129326,
     "wof:name":"Star Paving",
     "wof:parent_id":85851023,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.194964,41.154688,-74.194964,41.154688],
+  "bbox": [
+    -74.194964,
+    41.154688,
+    -74.194964,
+    41.154688
+],
   "geometry": {"coordinates":[-74.194964,41.154688],"type":"Point"}
 }

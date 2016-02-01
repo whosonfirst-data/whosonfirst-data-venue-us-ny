@@ -2,13 +2,14 @@
   "id": 403851869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.083709,40.777719,-73.083709,40.777719",
     "geom:latitude":40.777719,
     "geom:longitude":-73.083709,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9 Lincoln Ave",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"3d20b6f2078af21a4bd5bac5e7ce3f7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":403851869
         }
     ],
     "wof:id":403851869,
-    "wof:lastmodified":1449055493,
+    "wof:lastmodified":1454129446,
     "wof:name":"Caltronics LLC",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "electronic"
     ]
 },
-  "bbox": [-73.083709,40.777719,-73.083709,40.777719],
+  "bbox": [
+    -73.083709,
+    40.777719,
+    -73.083709,
+    40.777719
+],
   "geometry": {"coordinates":[-73.083709,40.777719],"type":"Point"}
 }

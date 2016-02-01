@@ -2,13 +2,14 @@
   "id": 336623431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.989384,41.147448,-73.989384,41.147448",
     "geom:latitude":41.147448,
     "geom:longitude":-73.989384,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"37 S Main St",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
         85979971,
-        102082385
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"aca601d2c0d5428549d1189aa05aa59c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523091,
             "locality_id":85979971,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":336623431
         }
     ],
     "wof:id":336623431,
-    "wof:lastmodified":1448997689,
+    "wof:lastmodified":1454122851,
     "wof:name":"Yuna Beauty Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":85825421,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.989384,41.147448,-73.989384,41.147448],
+  "bbox": [
+    -73.989384,
+    41.147448,
+    -73.989384,
+    41.147448
+],
   "geometry": {"coordinates":[-73.989384,41.147448],"type":"Point"}
 }

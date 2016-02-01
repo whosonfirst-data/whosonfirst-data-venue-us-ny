@@ -2,13 +2,14 @@
   "id": 354240979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.54015,40.682109,-73.54015,40.682109",
     "geom:latitude":40.682109,
     "geom:longitude":-73.54015,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1666 Newbridge Rd",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893061,
+        102191575,
+        404521473,
         85633793,
-        85979065,
+        85979059,
         102082371,
-        85893061
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"157bab81f47b7178c2631eb3cb0a1eda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979065,
+            "localadmin_id":404521473,
+            "locality_id":85979059,
             "neighbourhood_id":85893061,
             "region_id":85688543,
             "venue_id":354240979
         }
     ],
     "wof:id":354240979,
-    "wof:lastmodified":1449066108,
+    "wof:lastmodified":1454130826,
     "wof:name":"Parkway Foods",
     "wof:parent_id":85893061,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.54015,40.682109,-73.54015,40.682109],
+  "bbox": [
+    -73.54015,
+    40.682109,
+    -73.54015,
+    40.682109
+],
   "geometry": {"coordinates":[-73.54015,40.682109],"type":"Point"}
 }

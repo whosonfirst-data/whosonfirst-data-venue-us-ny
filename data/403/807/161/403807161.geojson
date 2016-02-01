@@ -2,13 +2,14 @@
   "id": 403807161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.700966,43.062627,-75.700966,43.062627",
     "geom:latitude":43.062627,
     "geom:longitude":-75.700966,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1292 Upper Lenox Ave",
     "sg:city":"Oneida",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528991,
+        102191575,
+        404522679,
         85633793,
         85978049,
-        102080989
+        102080989,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"d3ad6199e654cb62c48ae975793a3c01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080989,
+            "localadmin_id":404522679,
             "locality_id":85978049,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528991,
             "region_id":85688543,
             "venue_id":403807161
         }
     ],
     "wof:id":403807161,
-    "wof:lastmodified":1449054982,
+    "wof:lastmodified":1454129374,
     "wof:name":"Sears Hardware",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528991,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.700966,43.062627,-75.700966,43.062627],
-  "geometry": {"coordinates":[-75.700966,43.062627],"type":"Point"}
+  "bbox": [
+    -75.700966,
+    43.062627,
+    -75.700966,
+    43.062627
+],
+  "geometry": {"coordinates":[-75.70096599999999,43.062627],"type":"Point"}
 }

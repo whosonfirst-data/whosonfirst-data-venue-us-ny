@@ -2,13 +2,14 @@
   "id": 387050883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.311382,42.481297,-79.311382,42.481297",
     "geom:latitude":42.481297,
     "geom:longitude":-79.311382,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Liberty St",
     "sg:city":"Dunkirk",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.ssa.gov",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812293,
+        102191575,
+        404522089,
         85633793,
         85978829,
         102081811,
-        85812293
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"3d98eafa065047d22eab65430ec10876",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081811,
+            "localadmin_id":404522089,
             "locality_id":85978829,
             "neighbourhood_id":85812293,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387050883,
-    "wof:lastmodified":1449058208,
+    "wof:lastmodified":1454129905,
     "wof:name":"US Social Security Adm",
     "wof:parent_id":85812293,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "human"
     ]
 },
-  "bbox": [-79.311382,42.481297,-79.311382,42.481297],
-  "geometry": {"coordinates":[-79.311382,42.481297],"type":"Point"}
+  "bbox": [
+    -79.311382,
+    42.481297,
+    -79.311382,
+    42.481297
+],
+  "geometry": {"coordinates":[-79.31138199999999,42.481297],"type":"Point"}
 }

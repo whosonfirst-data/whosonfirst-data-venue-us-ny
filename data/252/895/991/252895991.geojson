@@ -2,13 +2,14 @@
   "id": 252895991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.61429,40.67827,-73.61429,40.67827",
     "geom:latitude":40.67827,
     "geom:longitude":-73.61429,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1315 Grand Ave",
     "sg:city":"North Baldwin",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529133,
+        102191575,
+        404521473,
         85633793,
         85979173,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"d0ded15102319af7b5c988d990bf220a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979173,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529133,
             "region_id":85688543,
             "venue_id":252895991
         }
     ],
     "wof:id":252895991,
-    "wof:lastmodified":1449005871,
+    "wof:lastmodified":1454124046,
     "wof:name":"Sunrise Check Cashing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529133,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "check"
     ]
 },
-  "bbox": [-73.61429,40.67827,-73.61429,40.67827],
+  "bbox": [
+    -73.61429,
+    40.67827,
+    -73.61429,
+    40.67827
+],
   "geometry": {"coordinates":[-73.61429,40.67827],"type":"Point"}
 }

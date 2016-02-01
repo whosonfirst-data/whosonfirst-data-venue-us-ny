@@ -2,13 +2,14 @@
   "id": 303162175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.466771,40.790934,-73.466771,40.790934",
     "geom:latitude":40.790934,
     "geom:longitude":-73.466771,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"55 E Ames Ct",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"557318de08ae82d17d51d1a8a309ea36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":303162175
         }
     ],
     "wof:id":303162175,
-    "wof:lastmodified":1449000206,
+    "wof:lastmodified":1454123625,
     "wof:name":"Cardworks LP",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "holding"
     ]
 },
-  "bbox": [-73.466771,40.790934,-73.466771,40.790934],
-  "geometry": {"coordinates":[-73.466771,40.790934],"type":"Point"}
+  "bbox": [
+    -73.466771,
+    40.790934,
+    -73.466771,
+    40.790934
+],
+  "geometry": {"coordinates":[-73.46677099999999,40.790934],"type":"Point"}
 }

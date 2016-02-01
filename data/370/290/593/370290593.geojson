@@ -2,13 +2,14 @@
   "id": 370290593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.664952,40.924547,-72.664952,40.924547",
     "geom:latitude":40.924547,
     "geom:longitude":-72.664952,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"725 E Avenue Ext Unit 1",
     "sg:city":"Riverhead",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841881,
+        102191575,
+        404522671,
         85633793,
-        85979841,
+        85979909,
         102082395,
-        85841881
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"aac909daeb9ebba8e1d4fc84a6758a69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979841,
+            "localadmin_id":404522671,
+            "locality_id":85979909,
             "neighbourhood_id":85841881,
             "region_id":85688543,
             "venue_id":370290593
         }
     ],
     "wof:id":370290593,
-    "wof:lastmodified":1449030541,
+    "wof:lastmodified":1454127740,
     "wof:name":"Hampton Asphalt",
     "wof:parent_id":85841881,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "paving"
     ]
 },
-  "bbox": [-72.664952,40.924547,-72.664952,40.924547],
+  "bbox": [
+    -72.664952,
+    40.924547,
+    -72.664952,
+    40.924547
+],
   "geometry": {"coordinates":[-72.664952,40.924547],"type":"Point"}
 }

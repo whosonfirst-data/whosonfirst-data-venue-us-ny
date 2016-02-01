@@ -2,13 +2,14 @@
   "id": 370313183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.742699,40.811501,-72.742699,40.811501",
     "geom:latitude":40.811501,
     "geom:longitude":-72.742699,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 Diane Ln",
     "sg:city":"East Moriches",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"fe337b19836bef2107e6ecaeb6285573",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":370313183
         }
     ],
     "wof:id":370313183,
-    "wof:lastmodified":1449029165,
+    "wof:lastmodified":1454127339,
     "wof:name":"Scott Johnson Electrical Contractors",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "electrician"
     ]
 },
-  "bbox": [-72.742699,40.811501,-72.742699,40.811501],
+  "bbox": [
+    -72.742699,
+    40.811501,
+    -72.742699,
+    40.811501
+],
   "geometry": {"coordinates":[-72.742699,40.811501],"type":"Point"}
 }

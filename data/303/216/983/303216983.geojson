@@ -2,13 +2,14 @@
   "id": 303216983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.005342,41.910456,-74.005342,41.910456",
     "geom:latitude":41.910456,
     "geom:longitude":-74.005342,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"517 Wilbur Ave",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857693,
+        102191575,
+        404523249,
         85633793,
+        85977505,
         102081775,
-        85857693
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"69bc8e1230314b940f957c873f98f3b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
-            "locality_id":-1,
+            "localadmin_id":404523249,
+            "locality_id":85977505,
             "neighbourhood_id":85857693,
             "region_id":85688543,
             "venue_id":303216983
         }
     ],
     "wof:id":303216983,
-    "wof:lastmodified":1449000289,
+    "wof:lastmodified":1454123648,
     "wof:name":"Sauers Automotive",
     "wof:parent_id":85857693,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-74.005342,41.910456,-74.005342,41.910456],
+  "bbox": [
+    -74.005342,
+    41.910456,
+    -74.005342,
+    41.910456
+],
   "geometry": {"coordinates":[-74.005342,41.910456],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403968563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.134282,40.636735,-74.134282,40.636735",
     "geom:latitude":40.636735,
     "geom:longitude":-74.134282,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Harrison Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85842829,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85842829
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"7f3ac1b7cc9dd95757f529e21af98c96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85842829,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403968563,
-    "wof:lastmodified":1449054715,
+    "wof:lastmodified":1454129334,
     "wof:name":"Independent Cooling & Rfrgtn",
     "wof:parent_id":85842829,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "refrigerating"
     ]
 },
-  "bbox": [-74.134282,40.636735,-74.134282,40.636735],
+  "bbox": [
+    -74.134282,
+    40.636735,
+    -74.134282,
+    40.636735
+],
   "geometry": {"coordinates":[-74.134282,40.636735],"type":"Point"}
 }

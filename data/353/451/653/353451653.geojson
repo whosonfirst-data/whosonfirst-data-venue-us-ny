@@ -2,13 +2,14 @@
   "id": 353451653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.900595,40.745992,-73.900595,40.745992",
     "geom:latitude":40.745992,
     "geom:longitude":-73.900595,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6317 Roosevelt Avenue",
     "sg:city":"Woodside",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85859007,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85859007
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"7d11bfe86213842f7091a81d5012fe29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85859007,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":353451653,
-    "wof:lastmodified":1449019371,
+    "wof:lastmodified":1454126271,
     "wof:name":"Interboro Medical Care & Diagnostic PC",
     "wof:parent_id":85859007,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.900595,40.745992,-73.900595,40.745992],
+  "bbox": [
+    -73.900595,
+    40.745992,
+    -73.900595,
+    40.745992
+],
   "geometry": {"coordinates":[-73.900595,40.745992],"type":"Point"}
 }

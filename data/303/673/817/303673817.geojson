@@ -2,13 +2,14 @@
   "id": 303673817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.941613,40.811937,-73.941613,40.811937",
     "geom:latitude":40.811937,
     "geom:longitude":-73.941613,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 W 132nd St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867075,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85867075
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"8fcad58e05eed80bb07a2fb04ea571de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85867075,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303673817,
-    "wof:lastmodified":1448999066,
+    "wof:lastmodified":1454123312,
     "wof:name":"Child Inc Head Start Program",
     "wof:parent_id":85867075,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "school"
     ]
 },
-  "bbox": [-73.941613,40.811937,-73.941613,40.811937],
+  "bbox": [
+    -73.941613,
+    40.811937,
+    -73.941613,
+    40.811937
+],
   "geometry": {"coordinates":[-73.941613,40.811937],"type":"Point"}
 }

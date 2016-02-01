@@ -2,13 +2,14 @@
   "id": 252745859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.383959,40.682423,-73.383959,40.682423",
     "geom:latitude":40.682423,
     "geom:longitude":-73.383959,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"117 S 13th St",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
         85978477,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"ee5435c16d16586289e2f8e4588c481c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522513,
             "locality_id":85978477,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":252745859
         }
     ],
     "wof:id":252745859,
-    "wof:lastmodified":1449006453,
+    "wof:lastmodified":1454124126,
     "wof:name":"Lindenhurst Fabricators Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "structural"
     ]
 },
-  "bbox": [-73.383959,40.682423,-73.383959,40.682423],
+  "bbox": [
+    -73.383959,
+    40.682423,
+    -73.383959,
+    40.682423
+],
   "geometry": {"coordinates":[-73.383959,40.682423],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287069455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.638692,40.700639,-73.638692,40.700639",
     "geom:latitude":40.700639,
     "geom:longitude":-73.638692,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 Woodview Rd",
     "sg:city":"West Hempstead",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892743,
+        102191575,
+        404521473,
         85633793,
-        85979175,
+        85977663,
         102082371,
-        85892743
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"d56722d7747d8fa43225b24653afb585",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979175,
+            "localadmin_id":404521473,
+            "locality_id":85977663,
             "neighbourhood_id":85892743,
             "region_id":85688543,
             "venue_id":287069455
         }
     ],
     "wof:id":287069455,
-    "wof:lastmodified":1449001240,
+    "wof:lastmodified":1454123888,
     "wof:name":"Westview Internal Medicine",
     "wof:parent_id":85892743,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "rest"
     ]
 },
-  "bbox": [-73.638692,40.700639,-73.638692,40.700639],
-  "geometry": {"coordinates":[-73.638692,40.700639],"type":"Point"}
+  "bbox": [
+    -73.638692,
+    40.700639,
+    -73.638692,
+    40.700639
+],
+  "geometry": {"coordinates":[-73.63869200000001,40.700639],"type":"Point"}
 }

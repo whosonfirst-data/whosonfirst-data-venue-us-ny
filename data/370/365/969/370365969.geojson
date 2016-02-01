@@ -2,13 +2,14 @@
   "id": 370365969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.205044,42.949326,-74.205044,42.949326",
     "geom:latitude":42.949326,
     "geom:longitude":-74.205044,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"305 Caroline St",
     "sg:city":"Amsterdam",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85849399,
+        102191575,
+        404522661,
         85633793,
         85978245,
         102082985,
-        85849399
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"d03a9957ceb666783ff4fd508eb16174",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082985,
+            "localadmin_id":404522661,
             "locality_id":85978245,
             "neighbourhood_id":85849399,
             "region_id":85688543,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":370365969,
-    "wof:lastmodified":1449029627,
+    "wof:lastmodified":1454127472,
     "wof:name":"Aldi's Roofing Co",
     "wof:parent_id":85849399,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "siding"
     ]
 },
-  "bbox": [-74.205044,42.949326,-74.205044,42.949326],
+  "bbox": [
+    -74.205044,
+    42.949326,
+    -74.205044,
+    42.949326
+],
   "geometry": {"coordinates":[-74.205044,42.949326],"type":"Point"}
 }

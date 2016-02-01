@@ -2,13 +2,14 @@
   "id": 370650137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.730688,40.949931,-73.730688,40.949931",
     "geom:latitude":40.949931,
     "geom:longitude":-73.730688,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"311 E Boston Post Rd",
     "sg:city":"Mamaroneck",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.derecktor.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848551,
+        102191575,
+        404523365,
         85633793,
         85978729,
         102082373,
-        85848551
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"59786226a969cc548fbabf37074f0f3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523365,
             "locality_id":85978729,
             "neighbourhood_id":85848551,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370650137,
-    "wof:lastmodified":1449031152,
+    "wof:lastmodified":1454127922,
     "wof:name":"Derecktor Shipyards",
     "wof:parent_id":85848551,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "op"
     ]
 },
-  "bbox": [-73.730688,40.949931,-73.730688,40.949931],
+  "bbox": [
+    -73.730688,
+    40.949931,
+    -73.730688,
+    40.949931
+],
   "geometry": {"coordinates":[-73.730688,40.949931],"type":"Point"}
 }

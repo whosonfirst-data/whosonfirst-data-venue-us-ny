@@ -2,13 +2,14 @@
   "id": 354180757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.846408,40.870554,-73.846408,40.870554",
     "geom:latitude":40.870554,
     "geom:longitude":-73.846408,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1343 E Gun Hill Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85804885,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85804885
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"5b51d401861bdd43bfb573fed105c5fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85804885,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":354180757,
-    "wof:lastmodified":1449066017,
+    "wof:lastmodified":1454130796,
     "wof:name":"Stuart Groden DDS",
     "wof:parent_id":85804885,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.846408,40.870554,-73.846408,40.870554],
+  "bbox": [
+    -73.846408,
+    40.870554,
+    -73.846408,
+    40.870554
+],
   "geometry": {"coordinates":[-73.846408,40.870554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370168769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.864896,42.898438,-78.864896,42.898438",
     "geom:latitude":42.898438,
     "geom:longitude":-78.864896,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"125 Carlton St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872885,
+        102191575,
+        404522329,
         85633793,
         85978023,
         102082387,
-        85872885
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"54a452c8eb168deef7adacfdb4d960ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
             "neighbourhood_id":85872885,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":370168769,
-    "wof:lastmodified":1449030845,
+    "wof:lastmodified":1454127831,
     "wof:name":"Standard Parking",
     "wof:parent_id":85872885,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-78.864896,42.898438,-78.864896,42.898438],
+  "bbox": [
+    -78.864896,
+    42.898438,
+    -78.864896,
+    42.898438
+],
   "geometry": {"coordinates":[-78.864896,42.898438],"type":"Point"}
 }

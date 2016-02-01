@@ -2,13 +2,14 @@
   "id": 371155489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.807746,42.969904,-78.807746,42.969904",
     "geom:latitude":42.969904,
     "geom:longitude":-78.807746,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"590 Grover Cleveland Hwy",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823285,
+        102191575,
+        404522321,
         85633793,
+        85979407,
         102082387,
-        85823285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"1d27b215261f6e1b4569de44a94fdec2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979407,
             "neighbourhood_id":85823285,
             "region_id":85688543,
             "venue_id":371155489
         }
     ],
     "wof:id":371155489,
-    "wof:lastmodified":1449049921,
+    "wof:lastmodified":1454129244,
     "wof:name":"Wb Electric",
     "wof:parent_id":85823285,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "electrician"
     ]
 },
-  "bbox": [-78.807746,42.969904,-78.807746,42.969904],
-  "geometry": {"coordinates":[-78.807746,42.969904],"type":"Point"}
+  "bbox": [
+    -78.807746,
+    42.969904,
+    -78.807746,
+    42.969904
+],
+  "geometry": {"coordinates":[-78.80774599999999,42.969904],"type":"Point"}
 }

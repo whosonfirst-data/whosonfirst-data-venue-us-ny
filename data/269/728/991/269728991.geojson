@@ -2,13 +2,14 @@
   "id": 269728991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.628199,43.257984,-77.628199,43.257984",
     "geom:latitude":43.257984,
     "geom:longitude":-77.628199,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"500 Greenleaf Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85839627,
+        102081815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"625beb56f854a1ff65384558adf40e9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "neighbourhood_id":85839627,
             "region_id":85688543,
             "venue_id":269728991
         }
     ],
     "wof:id":269728991,
-    "wof:lastmodified":1449036699,
+    "wof:lastmodified":1454128545,
     "wof:name":"Greece Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839627,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "day"
     ]
 },
-  "bbox": [-77.628199,43.257984,-77.628199,43.257984],
+  "bbox": [
+    -77.628199,
+    43.257984,
+    -77.628199,
+    43.257984
+],
   "geometry": {"coordinates":[-77.628199,43.257984],"type":"Point"}
 }

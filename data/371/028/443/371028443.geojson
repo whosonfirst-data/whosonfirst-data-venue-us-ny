@@ -2,13 +2,14 @@
   "id": 371028443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.694988,42.55955,-77.694988,42.55955",
     "geom:latitude":42.55955,
     "geom:longitude":-77.694988,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14 Clara Barton St",
     "sg:city":"Dansville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85813231,
+        102191575,
+        404521993,
         85633793,
-        85979605,
+        85978299,
         102082381,
-        85813231
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"b62ef72497b99516e8098e6692ed6274",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082381,
-            "locality_id":85979605,
+            "localadmin_id":404521993,
+            "locality_id":85978299,
             "neighbourhood_id":85813231,
             "region_id":85688543,
             "venue_id":371028443
         }
     ],
     "wof:id":371028443,
-    "wof:lastmodified":1449049621,
+    "wof:lastmodified":1454129175,
     "wof:name":"Dansville Village Clerk",
     "wof:parent_id":85813231,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "village"
     ]
 },
-  "bbox": [-77.694988,42.55955,-77.694988,42.55955],
+  "bbox": [
+    -77.694988,
+    42.55955,
+    -77.694988,
+    42.55955
+],
   "geometry": {"coordinates":[-77.694988,42.55955],"type":"Point"}
 }

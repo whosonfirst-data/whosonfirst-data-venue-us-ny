@@ -2,13 +2,14 @@
   "id": 287225501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993321,40.733304,-73.993321,40.733304",
     "geom:latitude":40.733304,
     "geom:longitude":-73.993321,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"99 University Pl",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529189,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"d1214e790648d22cc5ffb4a315e7f75c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529189,
             "region_id":85688543,
             "venue_id":287225501
         }
     ],
     "wof:id":287225501,
-    "wof:lastmodified":1449000930,
+    "wof:lastmodified":1454123814,
     "wof:name":"Arlene Gellman",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529189,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "psychotherapist"
     ]
 },
-  "bbox": [-73.993321,40.733304,-73.993321,40.733304],
-  "geometry": {"coordinates":[-73.993321,40.733304],"type":"Point"}
+  "bbox": [
+    -73.993321,
+    40.733304,
+    -73.993321,
+    40.733304
+],
+  "geometry": {"coordinates":[-73.99332099999999,40.733304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371166303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.456252,40.769127,-73.456252,40.769127",
     "geom:latitude":40.769127,
     "geom:longitude":-73.456252,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Mahan Rd",
     "sg:city":"Old Bethpage",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"85a1a17431f89795b190165cc0e3dca7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":371166303
         }
     ],
     "wof:id":371166303,
-    "wof:lastmodified":1449049640,
+    "wof:lastmodified":1454129179,
     "wof:name":"Prestige Interiors",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "designer"
     ]
 },
-  "bbox": [-73.456252,40.769127,-73.456252,40.769127],
-  "geometry": {"coordinates":[-73.456252,40.769127],"type":"Point"}
+  "bbox": [
+    -73.456252,
+    40.769127,
+    -73.456252,
+    40.769127
+],
+  "geometry": {"coordinates":[-73.45625200000001,40.769127],"type":"Point"}
 }

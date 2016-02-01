@@ -2,13 +2,14 @@
   "id": 269589259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.847045,40.913309,-73.847045,40.913309",
     "geom:latitude":40.913309,
     "geom:longitude":-73.847045,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"44 N Terrace Ave",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"11173a2f3f0393f73f4b41fe20037409",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":269589259
         }
     ],
     "wof:id":269589259,
-    "wof:lastmodified":1449037415,
+    "wof:lastmodified":1454128653,
     "wof:name":"U B S Medical Plans",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.847045,40.913309,-73.847045,40.913309],
-  "geometry": {"coordinates":[-73.847045,40.913309],"type":"Point"}
+  "bbox": [
+    -73.847045,
+    40.913309,
+    -73.847045,
+    40.913309
+],
+  "geometry": {"coordinates":[-73.84704499999999,40.913309],"type":"Point"}
 }

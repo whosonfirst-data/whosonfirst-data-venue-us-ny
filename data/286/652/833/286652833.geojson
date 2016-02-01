@@ -2,13 +2,14 @@
   "id": 286652833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.622975,40.653493,-73.622975,40.653493",
     "geom:latitude":40.653493,
     "geom:longitude":-73.622975,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"437 Merrick Rd",
     "sg:city":"Oceanside",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892745,
+        102191575,
+        404521473,
         85633793,
         85979131,
         102082371,
-        85892745
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"8df12cc43412d526345abeeb63f16216",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979131,
             "neighbourhood_id":85892745,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":286652833,
-    "wof:lastmodified":1449017088,
+    "wof:lastmodified":1454125735,
     "wof:name":"Bar Bee",
     "wof:parent_id":85892745,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.622975,40.653493,-73.622975,40.653493],
+  "bbox": [
+    -73.622975,
+    40.653493,
+    -73.622975,
+    40.653493
+],
   "geometry": {"coordinates":[-73.622975,40.653493],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370429143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.734415,42.638299,-73.734415,42.638299",
     "geom:latitude":42.638299,
     "geom:longitude":-73.734415,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7 Elm Ct",
     "sg:city":"Rensselaer",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85843203,
+        102191575,
+        404523079,
         85633793,
+        85978343,
         102081773,
-        85843203
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"ec51e4f36ec6974193d4bee65263e93a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081773,
-            "locality_id":-1,
+            "localadmin_id":404523079,
+            "locality_id":85978343,
             "neighbourhood_id":85843203,
             "region_id":85688543,
             "venue_id":370429143
         }
     ],
     "wof:id":370429143,
-    "wof:lastmodified":1449032286,
+    "wof:lastmodified":1454128258,
     "wof:name":"Capitol View",
     "wof:parent_id":85843203,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-73.734415,42.638299,-73.734415,42.638299],
+  "bbox": [
+    -73.734415,
+    42.638299,
+    -73.734415,
+    42.638299
+],
   "geometry": {"coordinates":[-73.734415,42.638299],"type":"Point"}
 }

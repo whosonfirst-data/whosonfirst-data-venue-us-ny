@@ -2,13 +2,14 @@
   "id": 253220495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.194777,40.805798,-73.194777,40.805798",
     "geom:latitude":40.805798,
     "geom:longitude":-73.194777,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1324 Motor Pkwy",
     "sg:city":"Central Islip",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"78203c6eb400479d1b05cd44c2581f2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":253220495
         }
     ],
     "wof:id":253220495,
-    "wof:lastmodified":1449065692,
+    "wof:lastmodified":1454130727,
     "wof:name":"Opus Core Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "software"
     ]
 },
-  "bbox": [-73.194777,40.805798,-73.194777,40.805798],
+  "bbox": [
+    -73.194777,
+    40.805798,
+    -73.194777,
+    40.805798
+],
   "geometry": {"coordinates":[-73.194777,40.805798],"type":"Point"}
 }

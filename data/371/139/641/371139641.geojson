@@ -2,13 +2,14 @@
   "id": 371139641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.889556,40.660698,-73.889556,40.660698",
     "geom:latitude":40.660698,
     "geom:longitude":-73.889556,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"602 Hegeman Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869421,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869421
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"0742b7e3f4c84883937236b1a627d3b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869421,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":371139641,
-    "wof:lastmodified":1449049128,
+    "wof:lastmodified":1454129057,
     "wof:name":"George's Mechanical Corp",
     "wof:parent_id":85869421,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "heating"
     ]
 },
-  "bbox": [-73.889556,40.660698,-73.889556,40.660698],
+  "bbox": [
+    -73.889556,
+    40.660698,
+    -73.889556,
+    40.660698
+],
   "geometry": {"coordinates":[-73.889556,40.660698],"type":"Point"}
 }

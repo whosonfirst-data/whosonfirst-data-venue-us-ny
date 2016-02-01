@@ -2,13 +2,14 @@
   "id": 286376597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.246738,40.728804,-73.246738,40.728804",
     "geom:latitude":40.728804,
     "geom:longitude":-73.246738,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"58 Brook St",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530027,
+        102191575,
+        404522517,
         85633793,
         85979719,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"5dfebf4f3ff8759ea1a3e2ab860b183f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530027,
             "region_id":85688543,
             "venue_id":286376597
         }
     ],
     "wof:id":286376597,
-    "wof:lastmodified":1449016194,
+    "wof:lastmodified":1454125577,
     "wof:name":"South Shore Refrigeration Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530027,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.246738,40.728804,-73.246738,40.728804],
-  "geometry": {"coordinates":[-73.246738,40.728804],"type":"Point"}
+  "bbox": [
+    -73.246738,
+    40.728804,
+    -73.246738,
+    40.728804
+],
+  "geometry": {"coordinates":[-73.24673799999999,40.728804],"type":"Point"}
 }

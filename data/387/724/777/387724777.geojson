@@ -2,13 +2,14 @@
   "id": 387724777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.892971,40.855443,-73.892971,40.855443",
     "geom:latitude":40.855443,
     "geom:longitude":-73.892971,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2317 Washington Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865533,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865533
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"4379de0b1040e3e3f22c90c6c9da28e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865533,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387724777,
-    "wof:lastmodified":1449059838,
+    "wof:lastmodified":1454130196,
     "wof:name":"Our Saviour's Church",
     "wof:parent_id":85865533,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-73.892971,40.855443,-73.892971,40.855443],
+  "bbox": [
+    -73.892971,
+    40.855443,
+    -73.892971,
+    40.855443
+],
   "geometry": {"coordinates":[-73.892971,40.855443],"type":"Point"}
 }

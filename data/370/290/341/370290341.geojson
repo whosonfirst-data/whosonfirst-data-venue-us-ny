@@ -2,13 +2,14 @@
   "id": 370290341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.021953,42.110638,-76.021953,42.110638",
     "geom:latitude":42.110638,
     "geom:longitude":-76.021953,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3120 Watson Blvd",
     "sg:city":"Endicott",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528071,
+        102191575,
+        404521829,
         85633793,
         85979375,
-        102081755
+        102081755,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"fb801033f68d1dd28532c97f32ae3c81",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
+            "localadmin_id":404521829,
             "locality_id":85979375,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528071,
             "region_id":85688543,
             "venue_id":370290341
         }
     ],
     "wof:id":370290341,
-    "wof:lastmodified":1449030543,
+    "wof:lastmodified":1454127741,
     "wof:name":"Shell",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528071,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-76.021953,42.110638,-76.021953,42.110638],
+  "bbox": [
+    -76.021953,
+    42.110638,
+    -76.021953,
+    42.110638
+],
   "geometry": {"coordinates":[-76.021953,42.110638],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370503433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.012887,42.317025,-74.012887,42.317025",
     "geom:latitude":42.317025,
     "geom:longitude":-74.012887,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8037 Route 32",
     "sg:city":"Cairo",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528781,
+        102191575,
+        404522479,
         85633793,
         85979321,
-        102082393
+        102082393,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"d828795206422868e85f37b0a9a4fa1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082393,
+            "localadmin_id":404522479,
             "locality_id":85979321,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528781,
             "region_id":85688543,
             "venue_id":370503433
         }
     ],
     "wof:id":370503433,
-    "wof:lastmodified":1449032478,
+    "wof:lastmodified":1454128314,
     "wof:name":"J.R.'S Fuels, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528781,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-74.012887,42.317025,-74.012887,42.317025],
-  "geometry": {"coordinates":[-74.012887,42.317025],"type":"Point"}
+  "bbox": [
+    -74.012887,
+    42.317025,
+    -74.012887,
+    42.317025
+],
+  "geometry": {"coordinates":[-74.01288700000001,42.317025],"type":"Point"}
 }

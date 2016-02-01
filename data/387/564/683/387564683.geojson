@@ -2,13 +2,14 @@
   "id": 387564683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.684717,40.828678,-73.684717,40.828678",
     "geom:latitude":40.828678,
     "geom:longitude":-73.684717,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23 Vanderventer Ave",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529161,
+        102191575,
+        404522729,
         85633793,
         85979185,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"00755322306b889d936527b172bfb1ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979185,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529161,
             "region_id":85688543,
             "venue_id":387564683
         }
     ],
     "wof:id":387564683,
-    "wof:lastmodified":1449059694,
+    "wof:lastmodified":1454130169,
     "wof:name":"Antonio Ciminera",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529161,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.684717,40.828678,-73.684717,40.828678],
-  "geometry": {"coordinates":[-73.684717,40.828678],"type":"Point"}
+  "bbox": [
+    -73.684717,
+    40.828678,
+    -73.684717,
+    40.828678
+],
+  "geometry": {"coordinates":[-73.68471700000001,40.828678],"type":"Point"}
 }

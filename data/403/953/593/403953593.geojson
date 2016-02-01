@@ -2,13 +2,14 @@
   "id": 403953593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.956564,40.814867,-73.956564,40.814867",
     "geom:latitude":40.814867,
     "geom:longitude":-73.956564,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"520 W 126th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.nyc.gov",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867075,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85867075
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"1c27940b4a645b67c8cf5494a57fe979",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85867075,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":403953593,
-    "wof:lastmodified":1449055523,
+    "wof:lastmodified":1454129449,
     "wof:name":"New York City Pol Dept Pcnt 26",
     "wof:parent_id":85867075,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "department"
     ]
 },
-  "bbox": [-73.956564,40.814867,-73.956564,40.814867],
+  "bbox": [
+    -73.956564,
+    40.814867,
+    -73.956564,
+    40.814867
+],
   "geometry": {"coordinates":[-73.956564,40.814867],"type":"Point"}
 }

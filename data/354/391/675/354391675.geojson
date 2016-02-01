@@ -2,13 +2,14 @@
   "id": 354391675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.167496,40.588537,-74.167496,40.588537",
     "geom:latitude":40.588537,
     "geom:longitude":-74.167496,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2385 Richmond Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836751,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85836751
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"27f459b55dd73a4c42b296dd68c02499",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85836751,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":354391675,
-    "wof:lastmodified":1449067057,
+    "wof:lastmodified":1454131115,
     "wof:name":"Ford Super Store",
     "wof:parent_id":85836751,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-74.167496,40.588537,-74.167496,40.588537],
+  "bbox": [
+    -74.167496,
+    40.588537,
+    -74.167496,
+    40.588537
+],
   "geometry": {"coordinates":[-74.167496,40.588537],"type":"Point"}
 }

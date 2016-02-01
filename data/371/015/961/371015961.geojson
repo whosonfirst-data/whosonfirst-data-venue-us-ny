@@ -2,13 +2,14 @@
   "id": 371015961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.52962,42.460532,-76.52962,42.460532",
     "geom:latitude":42.460532,
     "geom:longitude":-76.52962,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1212 Trumansburg Rd",
     "sg:city":"Ithaca",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.bridgesbyclassen.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85878381,
+        102191575,
+        404523233,
         85633793,
         85980137,
         102082355,
-        85878381
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"16b9148102abc26458005f5331e869dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082355,
+            "localadmin_id":404523233,
             "locality_id":85980137,
             "neighbourhood_id":85878381,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":371015961,
-    "wof:lastmodified":1449049284,
+    "wof:lastmodified":1454129092,
     "wof:name":"Classen Home Health Assoc Inc",
     "wof:parent_id":85878381,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "care"
     ]
 },
-  "bbox": [-76.52962,42.460532,-76.52962,42.460532],
-  "geometry": {"coordinates":[-76.52962,42.460532],"type":"Point"}
+  "bbox": [
+    -76.52962,
+    42.460532,
+    -76.52962,
+    42.460532
+],
+  "geometry": {"coordinates":[-76.52961999999999,42.460532],"type":"Point"}
 }

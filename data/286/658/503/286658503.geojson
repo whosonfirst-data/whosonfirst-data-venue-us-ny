@@ -2,13 +2,14 @@
   "id": 286658503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.921428,40.862795,-73.921428,40.862795",
     "geom:latitude":40.862795,
     "geom:longitude":-73.921428,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"240 Nagle Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826989,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85826989
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"9943542156ec836ef29844cf8285d1ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85826989,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":286658503,
-    "wof:lastmodified":1449015095,
+    "wof:lastmodified":1454125385,
     "wof:name":"Arthur R Crowell",
     "wof:parent_id":85826989,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "clergy"
     ]
 },
-  "bbox": [-73.921428,40.862795,-73.921428,40.862795],
-  "geometry": {"coordinates":[-73.921428,40.862795],"type":"Point"}
+  "bbox": [
+    -73.921428,
+    40.862795,
+    -73.921428,
+    40.862795
+],
+  "geometry": {"coordinates":[-73.92142800000001,40.862795],"type":"Point"}
 }

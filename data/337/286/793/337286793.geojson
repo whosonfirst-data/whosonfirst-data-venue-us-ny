@@ -2,13 +2,14 @@
   "id": 337286793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.9944,40.681198,-73.9944,40.681198",
     "geom:latitude":40.681198,
     "geom:longitude":-73.9944,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"320 Smith Street President Street",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -25,10 +26,14 @@
     "sg:website":"www.2eckerd.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892915,
+        102191575,
+        102147495,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +43,31 @@
     "wof:geomhash":"8446cd4eec3c1406d3d4499780d0d31b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "macrohood_id":102147495,
+            "neighbourhood_id":85892915,
             "region_id":85688543,
             "venue_id":337286793
         }
     ],
     "wof:id":337286793,
-    "wof:lastmodified":1449027147,
+    "wof:lastmodified":1454126950,
     "wof:name":"Eckerd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.9944,40.681198,-73.9944,40.681198],
+  "bbox": [
+    -73.9944,
+    40.681198,
+    -73.9944,
+    40.681198
+],
   "geometry": {"coordinates":[-73.9944,40.681198],"type":"Point"}
 }

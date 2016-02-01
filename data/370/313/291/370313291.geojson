@@ -2,13 +2,14 @@
   "id": 370313291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.755096,40.816601,-72.755096,40.816601",
     "geom:latitude":40.816601,
     "geom:longitude":-72.755096,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"234 Montauk Hwy",
     "sg:city":"East Moriches",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.hollysgardencenter.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"e9fdc7cf125c039c411ba14ca3508a04",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":370313291
         }
     ],
     "wof:id":370313291,
-    "wof:lastmodified":1449029164,
+    "wof:lastmodified":1454127339,
     "wof:name":"Holly's Garden Center",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "gardening"
     ]
 },
-  "bbox": [-72.755096,40.816601,-72.755096,40.816601],
-  "geometry": {"coordinates":[-72.755096,40.816601],"type":"Point"}
+  "bbox": [
+    -72.755096,
+    40.816601,
+    -72.755096,
+    40.816601
+],
+  "geometry": {"coordinates":[-72.75509599999999,40.816601],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387606881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.707595,40.985276,-73.707595,40.985276",
     "geom:latitude":40.985276,
     "geom:longitude":-73.707595,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Hamilton Rd",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892899,
+        102191575,
+        404523361,
         85633793,
         85978735,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"9c8b21ad3d822fb79b7aad98dccafbf9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523361,
             "locality_id":85978735,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892899,
             "region_id":85688543,
             "venue_id":387606881
         }
     ],
     "wof:id":387606881,
-    "wof:lastmodified":1449056692,
+    "wof:lastmodified":1454129631,
     "wof:name":"Arthur Rotfeld",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892899,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "music"
     ]
 },
-  "bbox": [-73.707595,40.985276,-73.707595,40.985276],
+  "bbox": [
+    -73.707595,
+    40.985276,
+    -73.707595,
+    40.985276
+],
   "geometry": {"coordinates":[-73.707595,40.985276],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370207559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.935599,40.801027,-73.935599,40.801027",
     "geom:latitude":40.801027,
     "geom:longitude":-73.935599,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"212 E 122nd St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865689,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865689
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"9b3d8d3ec4db8f8fc947c205ad42f404",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865689,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":370207559,
-    "wof:lastmodified":1449031453,
+    "wof:lastmodified":1454128012,
     "wof:name":"Sanchez Deli & Grocery",
     "wof:parent_id":85865689,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.935599,40.801027,-73.935599,40.801027],
+  "bbox": [
+    -73.935599,
+    40.801027,
+    -73.935599,
+    40.801027
+],
   "geometry": {"coordinates":[-73.935599,40.801027],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387008835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.819626,40.950513,-73.819626,40.950513",
     "geom:latitude":40.950513,
     "geom:longitude":-73.819626,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"46 Jackson Ave",
     "sg:city":"Eastchester",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893047,
+        102191575,
+        404523357,
         85633793,
-        85980071,
-        102082373
+        85978763,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"516cceea265c20ed186e8122f32a365a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523357,
+            "locality_id":85978763,
+            "neighbourhood_id":85893047,
             "region_id":85688543,
             "venue_id":387008835
         }
     ],
     "wof:id":387008835,
-    "wof:lastmodified":1449057293,
+    "wof:lastmodified":1454129740,
     "wof:name":"Sleepy Hollow Realty Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893047,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.819626,40.950513,-73.819626,40.950513],
+  "bbox": [
+    -73.819626,
+    40.950513,
+    -73.819626,
+    40.950513
+],
   "geometry": {"coordinates":[-73.819626,40.950513],"type":"Point"}
 }

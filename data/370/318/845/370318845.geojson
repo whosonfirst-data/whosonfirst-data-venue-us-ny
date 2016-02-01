@@ -2,13 +2,14 @@
   "id": 370318845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.36759,40.891097,-73.36759,40.891097",
     "geom:latitude":40.891097,
     "geom:longitude":-73.36759,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Mill Pond Ln",
     "sg:city":"Centerport",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826545,
+        102191575,
+        404522515,
         85633793,
-        85979823,
+        85978425,
         102082395,
-        85826545
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"6c381670903cc882b662d9dec90636f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979823,
+            "localadmin_id":404522515,
+            "locality_id":85978425,
             "neighbourhood_id":85826545,
             "region_id":85688543,
             "venue_id":370318845
         }
     ],
     "wof:id":370318845,
-    "wof:lastmodified":1449029845,
+    "wof:lastmodified":1454127536,
     "wof:name":"Sikorski-Tuerpe Assoc",
     "wof:parent_id":85826545,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [-73.36759,40.891097,-73.36759,40.891097],
-  "geometry": {"coordinates":[-73.36759,40.891097],"type":"Point"}
+  "bbox": [
+    -73.36759,
+    40.891097,
+    -73.36759,
+    40.891097
+],
+  "geometry": {"coordinates":[-73.36759000000001,40.891097],"type":"Point"}
 }

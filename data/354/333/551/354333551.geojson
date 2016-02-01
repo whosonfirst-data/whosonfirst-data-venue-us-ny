@@ -2,13 +2,14 @@
   "id": 354333551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.365498,40.677822,-73.365498,40.677822",
     "geom:latitude":40.677822,
     "geom:longitude":-73.365498,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"66 W Montauk Hwy",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -42,10 +43,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
         85978477,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,19 +59,20 @@
     "wof:geomhash":"0ce40597ef407e11da169d25df4e21ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522513,
             "locality_id":85978477,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":354333551
         }
     ],
     "wof:id":354333551,
-    "wof:lastmodified":1449067560,
+    "wof:lastmodified":1454131274,
     "wof:name":"Ceragem Health Center With Thermal Massage Beds",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -80,6 +85,11 @@
         "physical"
     ]
 },
-  "bbox": [-73.365498,40.677822,-73.365498,40.677822],
+  "bbox": [
+    -73.365498,
+    40.677822,
+    -73.365498,
+    40.677822
+],
   "geometry": {"coordinates":[-73.365498,40.677822],"type":"Point"}
 }

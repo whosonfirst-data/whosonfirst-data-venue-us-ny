@@ -2,13 +2,14 @@
   "id": 286996279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.09592,40.631723,-74.09592,40.631723",
     "geom:latitude":40.631723,
     "geom:longitude":-74.09592,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Forest Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865883,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85852335
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"f0fa347a2f1a92f595f0629d604ff14f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85852335,
+            "neighbourhood_id":85865883,
             "region_id":85688543,
             "venue_id":286996279
         }
     ],
     "wof:id":286996279,
-    "wof:lastmodified":1449015969,
+    "wof:lastmodified":1454125536,
     "wof:name":"Island Marketing",
-    "wof:parent_id":85852335,
+    "wof:parent_id":85865883,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +69,11 @@
         "business"
     ]
 },
-  "bbox": [-74.09592,40.631723,-74.09592,40.631723],
-  "geometry": {"coordinates":[-74.09592,40.631723],"type":"Point"}
+  "bbox": [
+    -74.09592,
+    40.631723,
+    -74.09592,
+    40.631723
+],
+  "geometry": {"coordinates":[-74.09592000000001,40.631723],"type":"Point"}
 }

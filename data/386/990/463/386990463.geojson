@@ -2,13 +2,14 @@
   "id": 386990463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.585304,43.158802,-77.585304,43.158802",
     "geom:latitude":43.158802,
     "geom:longitude":-77.585304,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"274 Goodman St N Ste B273",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868845,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85868845
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"6ceb197bd0c9aa4e259653e234324631",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85868845,
             "region_id":85688543,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":386990463,
-    "wof:lastmodified":1449028830,
+    "wof:lastmodified":1454127244,
     "wof:name":"Textwise",
     "wof:parent_id":85868845,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "support"
     ]
 },
-  "bbox": [-77.585304,43.158802,-77.585304,43.158802],
-  "geometry": {"coordinates":[-77.585304,43.158802],"type":"Point"}
+  "bbox": [
+    -77.585304,
+    43.158802,
+    -77.585304,
+    43.158802
+],
+  "geometry": {"coordinates":[-77.58530399999999,43.158802],"type":"Point"}
 }

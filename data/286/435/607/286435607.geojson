@@ -2,13 +2,14 @@
   "id": 286435607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.562007,40.754386,-73.562007,40.754386",
     "geom:latitude":40.754386,
     "geom:longitude":-73.562007,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"65 Kinkel St",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85856711,
+        102191575,
+        404521475,
         85633793,
-        85979063,
+        85979093,
         102082371,
-        85856711
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"d344b6f6fdb0a4b34bf51a01542c67b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979063,
+            "localadmin_id":404521475,
+            "locality_id":85979093,
             "neighbourhood_id":85856711,
             "region_id":85688543,
             "venue_id":286435607
         }
     ],
     "wof:id":286435607,
-    "wof:lastmodified":1449017821,
+    "wof:lastmodified":1454125865,
     "wof:name":"Parfuse Corp",
     "wof:parent_id":85856711,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "welding"
     ]
 },
-  "bbox": [-73.562007,40.754386,-73.562007,40.754386],
-  "geometry": {"coordinates":[-73.562007,40.754386],"type":"Point"}
+  "bbox": [
+    -73.562007,
+    40.754386,
+    -73.562007,
+    40.754386
+],
+  "geometry": {"coordinates":[-73.56200699999999,40.754386],"type":"Point"}
 }

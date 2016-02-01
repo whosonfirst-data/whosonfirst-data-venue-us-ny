@@ -2,13 +2,14 @@
   "id": 253291069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.943558,40.795782,-73.943558,40.795782",
     "geom:latitude":40.795782,
     "geom:longitude":-73.943558,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1795 Lexington Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865689,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865689
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f8e0a78b048f5539c1598405799f04af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865689,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":253291069,
-    "wof:lastmodified":1449063729,
+    "wof:lastmodified":1454130397,
     "wof:name":"Lambs Church El Barrio",
     "wof:parent_id":85865689,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-73.943558,40.795782,-73.943558,40.795782],
+  "bbox": [
+    -73.943558,
+    40.795782,
+    -73.943558,
+    40.795782
+],
   "geometry": {"coordinates":[-73.943558,40.795782],"type":"Point"}
 }

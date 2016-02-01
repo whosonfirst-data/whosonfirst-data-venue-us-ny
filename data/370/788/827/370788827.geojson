@@ -2,13 +2,14 @@
   "id": 370788827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.169873,43.046092,-76.169873,43.046092",
     "geom:latitude":43.046092,
     "geom:longitude":-76.169873,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1001 W Fayette St Ste 1B",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.stressdesign.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881283,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881283
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"a7f51b8633caa2ddcc8b1f0267fb9ba4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881283,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370788827,
-    "wof:lastmodified":1449030825,
+    "wof:lastmodified":1454127825,
     "wof:name":"Stressdesign",
     "wof:parent_id":85881283,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "engineer"
     ]
 },
-  "bbox": [-76.169873,43.046092,-76.169873,43.046092],
+  "bbox": [
+    -76.169873,
+    43.046092,
+    -76.169873,
+    43.046092
+],
   "geometry": {"coordinates":[-76.169873,43.046092],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303586079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.556057,43.176337,-77.556057,43.176337",
     "geom:latitude":43.176337,
     "geom:longitude":-77.556057,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 Empire Blvd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.stambroserochester.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868843,
+        102191575,
+        404522639,
         85633793,
-        85977591,
+        85979035,
         102081815,
-        85868843
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"8a7f0756293b3790f9f2bb016fbbade7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85977591,
+            "localadmin_id":404522639,
+            "locality_id":85979035,
             "neighbourhood_id":85868843,
             "region_id":85688543,
             "venue_id":303586079
         }
     ],
     "wof:id":303586079,
-    "wof:lastmodified":1449000287,
+    "wof:lastmodified":1454123648,
     "wof:name":"St Ambrose Church",
     "wof:parent_id":85868843,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "church"
     ]
 },
-  "bbox": [-77.556057,43.176337,-77.556057,43.176337],
+  "bbox": [
+    -77.556057,
+    43.176337,
+    -77.556057,
+    43.176337
+],
   "geometry": {"coordinates":[-77.556057,43.176337],"type":"Point"}
 }

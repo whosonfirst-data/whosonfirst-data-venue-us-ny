@@ -2,13 +2,14 @@
   "id": 286677473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.862226,40.817169,-73.862226,40.817169",
     "geom:latitude":40.817169,
     "geom:longitude":-73.862226,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1807 Randall Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865667,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865667
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"f8be34179729ac79d264acade1267263",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865667,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":286677473,
-    "wof:lastmodified":1449016241,
+    "wof:lastmodified":1454125584,
     "wof:name":"Indu Garg",
     "wof:parent_id":85865667,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "physical"
     ]
 },
-  "bbox": [-73.862226,40.817169,-73.862226,40.817169],
-  "geometry": {"coordinates":[-73.862226,40.817169],"type":"Point"}
+  "bbox": [
+    -73.862226,
+    40.817169,
+    -73.862226,
+    40.817169
+],
+  "geometry": {"coordinates":[-73.86222600000001,40.817169],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320251971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.109671,40.775717,-73.109671,40.775717",
     "geom:latitude":40.775717,
     "geom:longitude":-73.109671,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1339 Smithtown Ave",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"6c6a001b20f1d90a1557b17bb2cb177f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":320251971
         }
     ],
     "wof:id":320251971,
-    "wof:lastmodified":1449011325,
+    "wof:lastmodified":1454124772,
     "wof:name":"Barino Concrete",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.109671,40.775717,-73.109671,40.775717],
-  "geometry": {"coordinates":[-73.109671,40.775717],"type":"Point"}
+  "bbox": [
+    -73.109671,
+    40.775717,
+    -73.109671,
+    40.775717
+],
+  "geometry": {"coordinates":[-73.10967100000001,40.775717],"type":"Point"}
 }

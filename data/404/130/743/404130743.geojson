@@ -2,13 +2,14 @@
   "id": 404130743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.230784,40.867404,-73.230784,40.867404",
     "geom:latitude":40.867404,
     "geom:longitude":-73.230784,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"63 Hilltop Dr",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.sotninc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530055,
+        102191575,
+        404522669,
         85633793,
         85979919,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"e4fe2e2e74fe241fb432031a312fb5dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530055,
             "region_id":85688543,
             "venue_id":404130743
         }
     ],
     "wof:id":404130743,
-    "wof:lastmodified":1449039427,
+    "wof:lastmodified":1454128872,
     "wof:name":"Shop On The Net Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530055,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "consultant"
     ]
 },
-  "bbox": [-73.230784,40.867404,-73.230784,40.867404],
+  "bbox": [
+    -73.230784,
+    40.867404,
+    -73.230784,
+    40.867404
+],
   "geometry": {"coordinates":[-73.230784,40.867404],"type":"Point"}
 }

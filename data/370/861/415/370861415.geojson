@@ -2,13 +2,14 @@
   "id": 370861415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.612332,43.984056,-75.612332,43.984056",
     "geom:latitude":43.984056,
     "geom:longitude":-75.612332,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"712 Alexandria St.",
     "sg:city":"Carthage",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826571,
+        102191575,
+        404521927,
         85633793,
-        85978073,
+        85979489,
         102082357,
-        85826571
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +53,18 @@
     "wof:geomhash":"3de480f9d0eccb832911efbf97b0525d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082357,
-            "locality_id":85978073,
+            "localadmin_id":404521927,
+            "locality_id":85979489,
             "neighbourhood_id":85826571,
             "region_id":85688543,
             "venue_id":370861415
         }
     ],
     "wof:id":370861415,
-    "wof:lastmodified":1449032442,
+    "wof:lastmodified":1454128304,
     "wof:name":"TIFF'S TOTS",
     "wof:parent_id":85826571,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "day"
     ]
 },
-  "bbox": [-75.612332,43.984056,-75.612332,43.984056],
-  "geometry": {"coordinates":[-75.612332,43.984056],"type":"Point"}
+  "bbox": [
+    -75.612332,
+    43.984056,
+    -75.612332,
+    43.984056
+],
+  "geometry": {"coordinates":[-75.61233199999999,43.984056],"type":"Point"}
 }

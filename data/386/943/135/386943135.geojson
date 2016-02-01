@@ -2,13 +2,14 @@
   "id": 386943135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.838794,40.898163,-73.838794,40.898163",
     "geom:latitude":40.898163,
     "geom:longitude":-73.838794,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"139 W Sandford Blvd",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"c1b47c86661d1a2004324e0ee7d1a0b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":386943135
         }
     ],
     "wof:id":386943135,
-    "wof:lastmodified":1449028694,
+    "wof:lastmodified":1454127210,
     "wof:name":"Douglas's Supermarket",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "alcoholic"
     ]
 },
-  "bbox": [-73.838794,40.898163,-73.838794,40.898163],
-  "geometry": {"coordinates":[-73.838794,40.898163],"type":"Point"}
+  "bbox": [
+    -73.838794,
+    40.898163,
+    -73.838794,
+    40.898163
+],
+  "geometry": {"coordinates":[-73.83879399999999,40.898163],"type":"Point"}
 }

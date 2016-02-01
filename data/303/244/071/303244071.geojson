@@ -2,13 +2,14 @@
   "id": 303244071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.802714,40.976252,-73.802714,40.976252",
     "geom:latitude":40.976252,
     "geom:longitude":-73.802714,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"837 Post Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530449,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"f2c7915f1f90deb9bc6b793f8f858b13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530449,
             "region_id":85688543,
             "venue_id":303244071
         }
     ],
     "wof:id":303244071,
-    "wof:lastmodified":1448999093,
+    "wof:lastmodified":1454123318,
     "wof:name":"Tucek & Son Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530449,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "sheet"
     ]
 },
-  "bbox": [-73.802714,40.976252,-73.802714,40.976252],
-  "geometry": {"coordinates":[-73.802714,40.976252],"type":"Point"}
+  "bbox": [
+    -73.802714,
+    40.976252,
+    -73.802714,
+    40.976252
+],
+  "geometry": {"coordinates":[-73.80271399999999,40.976252],"type":"Point"}
 }

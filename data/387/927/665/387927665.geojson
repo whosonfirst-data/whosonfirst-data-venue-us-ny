@@ -2,13 +2,14 @@
   "id": 387927665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.68582,42.551263,-77.68582,42.551263",
     "geom:latitude":42.551263,
     "geom:longitude":-77.68582,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8 Main St",
     "sg:city":"Dansville",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85813231,
+        102191575,
+        404521993,
         85633793,
-        85979605,
+        85978299,
         102082381,
-        85813231
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"3d2d347bb6e1cca44c75f0c5b7678c9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082381,
-            "locality_id":85979605,
+            "localadmin_id":404521993,
+            "locality_id":85978299,
             "neighbourhood_id":85813231,
             "region_id":85688543,
             "venue_id":387927665
         }
     ],
     "wof:id":387927665,
-    "wof:lastmodified":1449059518,
+    "wof:lastmodified":1454130136,
     "wof:name":"Middleton's Frozen Custard",
     "wof:parent_id":85813231,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "cream"
     ]
 },
-  "bbox": [-77.68582,42.551263,-77.68582,42.551263],
-  "geometry": {"coordinates":[-77.68582,42.551263],"type":"Point"}
+  "bbox": [
+    -77.68582,
+    42.551263,
+    -77.68582,
+    42.551263
+],
+  "geometry": {"coordinates":[-77.68582000000001,42.551263],"type":"Point"}
 }

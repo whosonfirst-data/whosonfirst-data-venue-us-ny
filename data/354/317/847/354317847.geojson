@@ -2,13 +2,14 @@
   "id": 354317847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.800838,44.216617,-75.800838,44.216617",
     "geom:latitude":44.216617,
     "geom:longitude":-75.800838,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"318 Main St",
     "sg:city":"Theresa",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528859,
+        102191575,
+        404521837,
         85633793,
         85978075,
-        102082357
+        102082357,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"1bec58b5c6431daab77a1311474145d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082357,
+            "localadmin_id":404521837,
             "locality_id":85978075,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528859,
             "region_id":85688543,
             "venue_id":354317847
         }
     ],
     "wof:id":354317847,
-    "wof:lastmodified":1449066690,
+    "wof:lastmodified":1454131003,
     "wof:name":"St Theresa Of Avila Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528859,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-75.800838,44.216617,-75.800838,44.216617],
+  "bbox": [
+    -75.800838,
+    44.216617,
+    -75.800838,
+    44.216617
+],
   "geometry": {"coordinates":[-75.800838,44.216617],"type":"Point"}
 }

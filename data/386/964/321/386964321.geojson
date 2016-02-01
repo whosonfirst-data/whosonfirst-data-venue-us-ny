@@ -2,13 +2,14 @@
   "id": 386964321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.189202,42.990539,-77.189202,42.990539",
     "geom:latitude":42.990539,
     "geom:longitude":-77.189202,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1014 Faas Rd",
     "sg:city":"Shortsville",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831055,
+        102191575,
+        404522783,
         85633793,
-        85977853,
+        85977851,
         102082359,
-        85831055
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +53,18 @@
     "wof:geomhash":"734beab6a7d5da5363b69523a000b43a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082359,
-            "locality_id":85977853,
+            "localadmin_id":404522783,
+            "locality_id":85977851,
             "neighbourhood_id":85831055,
             "region_id":85688543,
             "venue_id":386964321
         }
     ],
     "wof:id":386964321,
-    "wof:lastmodified":1449028873,
+    "wof:lastmodified":1454127255,
     "wof:name":"Carpentry Plus",
     "wof:parent_id":85831055,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-77.189202,42.990539,-77.189202,42.990539],
-  "geometry": {"coordinates":[-77.189202,42.990539],"type":"Point"}
+  "bbox": [
+    -77.189202,
+    42.990539,
+    -77.189202,
+    42.990539
+],
+  "geometry": {"coordinates":[-77.18920199999999,42.990539],"type":"Point"}
 }

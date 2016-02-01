@@ -2,13 +2,14 @@
   "id": 269697885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.738542,40.631927,-73.738542,40.631927",
     "geom:latitude":40.631927,
     "geom:longitude":-73.738542,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Reyem Dr",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -29,12 +30,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865647,
-        85845957
+        102082361,
+        85688543,
+        85865647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +48,32 @@
     "wof:geomhash":"fbdfd617f19447db9b44a1a1162b2aab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85865647,
+            "neighbourhood_id":85823673,
             "region_id":85688543,
             "venue_id":269697885
         },
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85845957,
+            "neighbourhood_id":85865647,
             "region_id":85688543,
             "venue_id":269697885
         }
     ],
     "wof:id":269697885,
-    "wof:lastmodified":1449037649,
+    "wof:lastmodified":1454128689,
     "wof:name":"Bible Teacher",
-    "wof:parent_id":-1,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -75,6 +83,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.738542,40.631927,-73.738542,40.631927],
+  "bbox": [
+    -73.738542,
+    40.631927,
+    -73.738542,
+    40.631927
+],
   "geometry": {"coordinates":[-73.738542,40.631927],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353449641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.908694,40.75254,-73.908694,40.75254",
     "geom:latitude":40.75254,
     "geom:longitude":-73.908694,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"51-30 Northern Blvd",
     "sg:city":"Woodside",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.sportsauthority.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85859007,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85859007
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"4975f0d2772cdcdaaf74b031ace0c265",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85859007,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":353449641,
-    "wof:lastmodified":1449020621,
+    "wof:lastmodified":1454126632,
     "wof:name":"Sports Authority",
     "wof:parent_id":85859007,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.908694,40.75254,-73.908694,40.75254],
+  "bbox": [
+    -73.908694,
+    40.75254,
+    -73.908694,
+    40.75254
+],
   "geometry": {"coordinates":[-73.908694,40.75254],"type":"Point"}
 }

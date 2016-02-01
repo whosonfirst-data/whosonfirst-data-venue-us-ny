@@ -2,13 +2,14 @@
   "id": 371113777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.797565,42.805302,-78.797565,42.805302",
     "geom:latitude":42.805302,
     "geom:longitude":-78.797565,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2199 Abbott Rd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     "sg:website":"http://www.people-inc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872913,
+        102191575,
+        404522269,
         85633793,
-        85978009,
+        85979415,
         102082387,
-        85872913
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +54,18 @@
     "wof:geomhash":"560b6ecb6169c81addc4b9e9b1ce8d09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":85978009,
+            "localadmin_id":404522269,
+            "locality_id":85979415,
             "neighbourhood_id":85872913,
             "region_id":85688543,
             "venue_id":371113777
         }
     ],
     "wof:id":371113777,
-    "wof:lastmodified":1449050046,
+    "wof:lastmodified":1454129274,
     "wof:name":"People Inc.",
     "wof:parent_id":85872913,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "elder"
     ]
 },
-  "bbox": [-78.797565,42.805302,-78.797565,42.805302],
-  "geometry": {"coordinates":[-78.797565,42.805302],"type":"Point"}
+  "bbox": [
+    -78.797565,
+    42.805302,
+    -78.797565,
+    42.805302
+],
+  "geometry": {"coordinates":[-78.79756500000001,42.805302],"type":"Point"}
 }

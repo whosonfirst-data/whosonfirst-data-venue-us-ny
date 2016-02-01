@@ -2,13 +2,14 @@
   "id": 269530511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.941021,40.805245,-73.941021,40.805245",
     "geom:latitude":40.805245,
     "geom:longitude":-73.941021,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1944 Madison Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865689,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865689
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"c7ff5629554472be6525d67d1148980c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865689,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":269530511,
-    "wof:lastmodified":1449037413,
+    "wof:lastmodified":1454128653,
     "wof:name":"Mount Morris Baths Inc",
     "wof:parent_id":85865689,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "spa"
     ]
 },
-  "bbox": [-73.941021,40.805245,-73.941021,40.805245],
-  "geometry": {"coordinates":[-73.941021,40.805245],"type":"Point"}
+  "bbox": [
+    -73.941021,
+    40.805245,
+    -73.941021,
+    40.805245
+],
+  "geometry": {"coordinates":[-73.94102100000001,40.805245],"type":"Point"}
 }

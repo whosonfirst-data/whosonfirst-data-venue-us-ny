@@ -2,13 +2,14 @@
   "id": 270410883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.189793,42.994096,-77.189793,42.994096",
     "geom:latitude":42.994096,
     "geom:longitude":-77.189793,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"861 Faas Rd",
     "sg:city":"Shortsville",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85831055,
+        102191575,
+        404522783,
         85633793,
+        85977851,
+        102082359,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"a7c639eaf5471f05b79bbb74c6f8a923",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082359,
+            "localadmin_id":404522783,
+            "locality_id":85977851,
+            "neighbourhood_id":85831055,
             "region_id":85688543,
             "venue_id":270410883
         }
     ],
     "wof:id":270410883,
-    "wof:lastmodified":1449008699,
+    "wof:lastmodified":1454124376,
     "wof:name":"Mark & Don Builders",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831055,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-77.189793,42.994096,-77.189793,42.994096],
-  "geometry": {"coordinates":[-77.189793,42.994096],"type":"Point"}
+  "bbox": [
+    -77.189793,
+    42.994096,
+    -77.189793,
+    42.994096
+],
+  "geometry": {"coordinates":[-77.18979299999999,42.994096],"type":"Point"}
 }

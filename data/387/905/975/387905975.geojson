@@ -2,13 +2,14 @@
   "id": 387905975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.663435,40.66173,-73.663435,40.66173",
     "geom:latitude":40.66173,
     "geom:longitude":-73.663435,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Edmund St",
     "sg:city":"Lynbrook",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829437,
+        102191575,
+        404521473,
         85633793,
-        85979129,
+        85979057,
         102082371,
-        85829437
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"5b1011c68c96470555b727152e1e5a63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979129,
+            "localadmin_id":404521473,
+            "locality_id":85979057,
             "neighbourhood_id":85829437,
             "region_id":85688543,
             "venue_id":387905975
         }
     ],
     "wof:id":387905975,
-    "wof:lastmodified":1449057594,
+    "wof:lastmodified":1454129793,
     "wof:name":"Sapienza Electric",
     "wof:parent_id":85829437,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.663435,40.66173,-73.663435,40.66173],
-  "geometry": {"coordinates":[-73.663435,40.66173],"type":"Point"}
+  "bbox": [
+    -73.663435,
+    40.66173,
+    -73.663435,
+    40.66173
+],
+  "geometry": {"coordinates":[-73.66343500000001,40.66173],"type":"Point"}
 }

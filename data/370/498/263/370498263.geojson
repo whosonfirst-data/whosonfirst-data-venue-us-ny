@@ -2,13 +2,14 @@
   "id": 370498263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.019783,41.936371,-74.019783,41.936371",
     "geom:latitude":41.936371,
     "geom:longitude":-74.019783,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Kingston Plz",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -49,11 +50,13 @@
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000308049899",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865367,
+        102191575,
+        404523249,
         85633793,
         85977505,
         102081775,
-        85865367
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,9 +66,10 @@
     "wof:geomhash":"e8a4e02d9d36b9708a1754868df804e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
+            "localadmin_id":404523249,
             "locality_id":85977505,
             "neighbourhood_id":85865367,
             "region_id":85688543,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":370498263,
-    "wof:lastmodified":1449031667,
+    "wof:lastmodified":1454128073,
     "wof:name":"T-Mobile",
     "wof:parent_id":85865367,
     "wof:placetype":"venue",
@@ -89,6 +93,11 @@
         "cellular"
     ]
 },
-  "bbox": [-74.019783,41.936371,-74.019783,41.936371],
+  "bbox": [
+    -74.019783,
+    41.936371,
+    -74.019783,
+    41.936371
+],
   "geometry": {"coordinates":[-74.019783,41.936371],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270439537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.084109,43.062281,-76.084109,43.062281",
     "geom:latitude":43.062281,
     "geom:longitude":-76.084109,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3550 Burnet Ave",
     "sg:city":"East Syracuse",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.eaglemetalcraft.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881263,
+        102191575,
+        404521501,
         85633793,
         85977799,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"69c83e44d1da34469534e5128cbcac28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404521501,
             "locality_id":85977799,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881263,
             "region_id":85688543,
             "venue_id":270439537
         }
     ],
     "wof:id":270439537,
-    "wof:lastmodified":1449009287,
+    "wof:lastmodified":1454124463,
     "wof:name":"Eagle Metalcraft Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881263,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "sheet"
     ]
 },
-  "bbox": [-76.084109,43.062281,-76.084109,43.062281],
+  "bbox": [
+    -76.084109,
+    43.062281,
+    -76.084109,
+    43.062281
+],
   "geometry": {"coordinates":[-76.084109,43.062281],"type":"Point"}
 }

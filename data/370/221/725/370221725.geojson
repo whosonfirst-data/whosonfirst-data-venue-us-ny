@@ -2,13 +2,14 @@
   "id": 370221725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.10118,41.500008,-74.10118,41.500008",
     "geom:latitude":41.500008,
     "geom:longitude":-74.10118,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1035 1st St",
     "sg:city":"New Windsor",
     "sg:classifiers":[
@@ -27,6 +28,7 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102533135,
         85688543,
         85633793,
         102083061,
@@ -40,19 +42,18 @@
     "wof:geomhash":"c8607fb25230618055f8c0eb586e24ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102533135,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":-1,
             "neighbourhood_id":85816145,
             "region_id":85688543,
             "venue_id":370221725
         }
     ],
     "wof:id":370221725,
-    "wof:lastmodified":1449030581,
+    "wof:lastmodified":1454127754,
     "wof:name":"Republic Parking System",
-    "wof:parent_id":85816145,
+    "wof:parent_id":102533135,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +61,11 @@
         "garage"
     ]
 },
-  "bbox": [-74.10118,41.500008,-74.10118,41.500008],
+  "bbox": [
+    -74.10118,
+    41.500008,
+    -74.10118,
+    41.500008
+],
   "geometry": {"coordinates":[-74.10118,41.500008],"type":"Point"}
 }

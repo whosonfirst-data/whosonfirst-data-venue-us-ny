@@ -2,13 +2,14 @@
   "id": 303168279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.709332,40.676857,-73.709332,40.676857",
     "geom:latitude":40.676857,
     "geom:longitude":-73.709332,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"421 Hendrickson Ave",
     "sg:city":"Valley Stream",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529147,
+        102191575,
+        404521473,
         85633793,
-        85977737,
-        102082371
+        85979041,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"c8b98b00d8f697c585dfb1fd52f5aa77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977737,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979041,
+            "neighbourhood_id":420529147,
             "region_id":85688543,
             "venue_id":303168279
         }
     ],
     "wof:id":303168279,
-    "wof:lastmodified":1448999397,
+    "wof:lastmodified":1454123404,
     "wof:name":"Aris Barber Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529147,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.709332,40.676857,-73.709332,40.676857],
+  "bbox": [
+    -73.709332,
+    40.676857,
+    -73.709332,
+    40.676857
+],
   "geometry": {"coordinates":[-73.709332,40.676857],"type":"Point"}
 }

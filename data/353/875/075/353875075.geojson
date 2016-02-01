@@ -2,13 +2,14 @@
   "id": 353875075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.735909,40.625271,-73.735909,40.625271",
     "geom:latitude":40.625271,
     "geom:longitude":-73.735909,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"309 Rockaway Tpke",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -77,11 +78,13 @@
     "sg:website":"http://www.sherwin-williams.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85818909,
+        102191575,
+        404521473,
         85633793,
         85977631,
         102082371,
-        85818909
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,9 +94,10 @@
     "wof:geomhash":"a8bab376d09d310971df0957fbd56b83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977631,
             "neighbourhood_id":85818909,
             "region_id":85688543,
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":353875075,
-    "wof:lastmodified":1449020146,
+    "wof:lastmodified":1454126494,
     "wof:name":"Sherwin-Williams",
     "wof:parent_id":85818909,
     "wof:placetype":"venue",
@@ -125,6 +129,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.735909,40.625271,-73.735909,40.625271],
-  "geometry": {"coordinates":[-73.735909,40.625271],"type":"Point"}
+  "bbox": [
+    -73.735909,
+    40.625271,
+    -73.735909,
+    40.625271
+],
+  "geometry": {"coordinates":[-73.73590900000001,40.625271],"type":"Point"}
 }

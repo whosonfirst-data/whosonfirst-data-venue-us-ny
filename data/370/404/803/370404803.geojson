@@ -2,13 +2,14 @@
   "id": 370404803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.783819,42.978324,-78.783819,42.978324",
     "geom:latitude":42.978324,
     "geom:longitude":-78.783819,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4949 Harlem Rd",
     "sg:city":"Amherst",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823285,
+        102191575,
+        404522321,
         85633793,
+        85979407,
         102082387,
-        85823285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"484c397eb2dde278e3767977eabb6a78",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979407,
             "neighbourhood_id":85823285,
             "region_id":85688543,
             "venue_id":370404803
         }
     ],
     "wof:id":370404803,
-    "wof:lastmodified":1449031329,
+    "wof:lastmodified":1454127975,
     "wof:name":"Star Program",
     "wof:parent_id":85823285,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "treatment"
     ]
 },
-  "bbox": [-78.783819,42.978324,-78.783819,42.978324],
-  "geometry": {"coordinates":[-78.783819,42.978324],"type":"Point"}
+  "bbox": [
+    -78.783819,
+    42.978324,
+    -78.783819,
+    42.978324
+],
+  "geometry": {"coordinates":[-78.78381899999999,42.978324],"type":"Point"}
 }

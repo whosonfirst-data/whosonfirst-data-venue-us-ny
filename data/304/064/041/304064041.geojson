@@ -2,13 +2,14 @@
   "id": 304064041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.069726,40.603725,-74.069726,40.603725",
     "geom:latitude":40.603725,
     "geom:longitude":-74.069726,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"32 Narrows Rd S",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812029,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85812029
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"1f12aff44780dfc8e027a0ffeca51513",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85812029,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":304064041,
-    "wof:lastmodified":1449043760,
+    "wof:lastmodified":1454128995,
     "wof:name":"Dr-Steam OF Si",
     "wof:parent_id":85812029,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "carpet"
     ]
 },
-  "bbox": [-74.069726,40.603725,-74.069726,40.603725],
+  "bbox": [
+    -74.069726,
+    40.603725,
+    -74.069726,
+    40.603725
+],
   "geometry": {"coordinates":[-74.069726,40.603725],"type":"Point"}
 }

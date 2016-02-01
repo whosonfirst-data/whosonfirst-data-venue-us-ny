@@ -2,13 +2,14 @@
   "id": 304007223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.837537,40.916117,-73.837537,40.916117",
     "geom:latitude":40.916117,
     "geom:longitude":-73.837537,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Gramatan Ave",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"dbe34531aff7614f4aa9995093185997",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":304007223
         }
     ],
     "wof:id":304007223,
-    "wof:lastmodified":1449044059,
+    "wof:lastmodified":1454129026,
     "wof:name":"Circle Rx",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.837537,40.916117,-73.837537,40.916117],
+  "bbox": [
+    -73.837537,
+    40.916117,
+    -73.837537,
+    40.916117
+],
   "geometry": {"coordinates":[-73.837537,40.916117],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370799371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.213203,43.062561,-76.213203,43.062561",
     "geom:latitude":43.062561,
     "geom:longitude":-76.213203,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2001 Milton Ave",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313870378&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881245,
+        102191575,
+        404522831,
         85633793,
         85977787,
         102082351,
-        85881245
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"6839e43a55520c2ea3ab4ae0a8ba972f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522831,
             "locality_id":85977787,
             "neighbourhood_id":85881245,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":370799371,
-    "wof:lastmodified":1449032489,
+    "wof:lastmodified":1454128317,
     "wof:name":"Garcia's Automotive Service",
     "wof:parent_id":85881245,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "truck"
     ]
 },
-  "bbox": [-76.213203,43.062561,-76.213203,43.062561],
-  "geometry": {"coordinates":[-76.213203,43.062561],"type":"Point"}
+  "bbox": [
+    -76.213203,
+    43.062561,
+    -76.213203,
+    43.062561
+],
+  "geometry": {"coordinates":[-76.21320299999999,43.062561],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303366281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.314206,40.814986,-73.314206,40.814986",
     "geom:latitude":40.814986,
     "geom:longitude":-73.314206,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"43 Colby Dr",
     "sg:city":"Dix Hills",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530047,
+        102191575,
+        404522515,
         85633793,
         85979779,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"1b73ca05ad93100532e196e36666dc33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85979779,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530047,
             "region_id":85688543,
             "venue_id":303366281
         }
     ],
     "wof:id":303366281,
-    "wof:lastmodified":1448999904,
+    "wof:lastmodified":1454123540,
     "wof:name":"Custom Billing Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530047,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "billing"
     ]
 },
-  "bbox": [-73.314206,40.814986,-73.314206,40.814986],
+  "bbox": [
+    -73.314206,
+    40.814986,
+    -73.314206,
+    40.814986
+],
   "geometry": {"coordinates":[-73.314206,40.814986],"type":"Point"}
 }

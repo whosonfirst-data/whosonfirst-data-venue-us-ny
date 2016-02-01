@@ -2,13 +2,14 @@
   "id": 320250863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.605961,43.15445,-77.605961,43.15445",
     "geom:latitude":43.15445,
     "geom:longitude":-77.605961,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 Bausch and Lomb Pl",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"www.tiaa-cref.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867111,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85867111
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"ad0867b8c6c28f77cafd854f0970710c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85867111,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":320250863,
-    "wof:lastmodified":1449013388,
+    "wof:lastmodified":1454125108,
     "wof:name":"Tiaa-Cref",
     "wof:parent_id":85867111,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "plan"
     ]
 },
-  "bbox": [-77.605961,43.15445,-77.605961,43.15445],
-  "geometry": {"coordinates":[-77.605961,43.15445],"type":"Point"}
+  "bbox": [
+    -77.605961,
+    43.15445,
+    -77.605961,
+    43.15445
+],
+  "geometry": {"coordinates":[-77.60596099999999,43.15445],"type":"Point"}
 }

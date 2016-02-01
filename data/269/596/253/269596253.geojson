@@ -2,13 +2,14 @@
   "id": 269596253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.820613,40.941003,-73.820613,40.941003",
     "geom:latitude":40.941003,
     "geom:longitude":-73.820613,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"155 White Plains Rd",
     "sg:city":"Bronxville",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892801,
+        102191575,
+        404523357,
         85633793,
         85978751,
         102082373,
-        85892801
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"f6a16601a90cbb56dda701b80b494609",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85978751,
             "neighbourhood_id":85892801,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":269596253,
-    "wof:lastmodified":1449037370,
+    "wof:lastmodified":1454128647,
     "wof:name":"Advance Pain Management Spec",
     "wof:parent_id":85892801,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.820613,40.941003,-73.820613,40.941003],
-  "geometry": {"coordinates":[-73.820613,40.941003],"type":"Point"}
+  "bbox": [
+    -73.820613,
+    40.941003,
+    -73.820613,
+    40.941003
+],
+  "geometry": {"coordinates":[-73.82061299999999,40.941003],"type":"Point"}
 }

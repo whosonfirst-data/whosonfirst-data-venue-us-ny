@@ -2,13 +2,14 @@
   "id": 370158121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.066038,41.130256,-74.066038,41.130256",
     "geom:latitude":41.130256,
     "geom:longitude":-74.066038,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13 Crestview Ter",
     "sg:city":"Monsey",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853951,
+        102191575,
+        404523097,
         85633793,
         85979973,
         102082385,
-        85853951
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"d8ca778b5a4fec3e812e19c053337ca2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523097,
             "locality_id":85979973,
             "neighbourhood_id":85853951,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370158121,
-    "wof:lastmodified":1449031336,
+    "wof:lastmodified":1454127977,
     "wof:name":"AME Systems Inc",
     "wof:parent_id":85853951,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "integration"
     ]
 },
-  "bbox": [-74.066038,41.130256,-74.066038,41.130256],
-  "geometry": {"coordinates":[-74.066038,41.130256],"type":"Point"}
+  "bbox": [
+    -74.066038,
+    41.130256,
+    -74.066038,
+    41.130256
+],
+  "geometry": {"coordinates":[-74.06603800000001,41.130256],"type":"Point"}
 }

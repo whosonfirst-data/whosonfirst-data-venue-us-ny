@@ -2,13 +2,14 @@
   "id": 253576425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.996956,40.725283,-73.996956,40.725283",
     "geom:latitude":40.725283,
     "geom:longitude":-73.996956,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"575 Broadway",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865687,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865687
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"1e82252065e1ee4a21132d02e644d2da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865687,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":253576425,
-    "wof:lastmodified":1449065073,
+    "wof:lastmodified":1454130623,
     "wof:name":"IPIUSA Prada",
     "wof:parent_id":85865687,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.996956,40.725283,-73.996956,40.725283],
+  "bbox": [
+    -73.996956,
+    40.725283,
+    -73.996956,
+    40.725283
+],
   "geometry": {"coordinates":[-73.996956,40.725283],"type":"Point"}
 }

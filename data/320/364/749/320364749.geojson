@@ -2,13 +2,14 @@
   "id": 320364749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.270564,40.739641,-73.270564,40.739641",
     "geom:latitude":40.739641,
     "geom:longitude":-73.270564,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1398 Pine Acres Blvd",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807571,
+        102191575,
+        404522517,
         85633793,
-        85979719,
-        102082395
+        85978409,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"0eecb911e4f036f6a982ea8efc8a7f26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85978409,
+            "neighbourhood_id":85807571,
             "region_id":85688543,
             "venue_id":320364749
         }
     ],
     "wof:id":320364749,
-    "wof:lastmodified":1449013356,
+    "wof:lastmodified":1454125104,
     "wof:name":"Knight N' Day",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807571,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.270564,40.739641,-73.270564,40.739641],
-  "geometry": {"coordinates":[-73.270564,40.739641],"type":"Point"}
+  "bbox": [
+    -73.270564,
+    40.739641,
+    -73.270564,
+    40.739641
+],
+  "geometry": {"coordinates":[-73.27056399999999,40.739641],"type":"Point"}
 }

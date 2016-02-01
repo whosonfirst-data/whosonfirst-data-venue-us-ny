@@ -2,13 +2,14 @@
   "id": 253154833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.84584,41.119185,-73.84584,41.119185",
     "geom:latitude":41.119185,
     "geom:longitude":-73.84584,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"835 Sleepy Hollow Rd",
     "sg:city":"Briarcliff Manor",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85803383,
+        102082373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"5c534575473704fab0db7ae0f0309b3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082373,
+            "neighbourhood_id":85803383,
             "region_id":85688543,
             "venue_id":253154833
         }
     ],
     "wof:id":253154833,
-    "wof:lastmodified":1449065841,
+    "wof:lastmodified":1454130749,
     "wof:name":"Fieldwood Farms",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803383,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "private"
     ]
 },
-  "bbox": [-73.84584,41.119185,-73.84584,41.119185],
+  "bbox": [
+    -73.84584,
+    41.119185,
+    -73.84584,
+    41.119185
+],
   "geometry": {"coordinates":[-73.84584,41.119185],"type":"Point"}
 }

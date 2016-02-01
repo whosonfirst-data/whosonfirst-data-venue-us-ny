@@ -2,13 +2,14 @@
   "id": 404048167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.834534,40.891657,-73.834534,40.891657",
     "geom:latitude":40.891657,
     "geom:longitude":-73.834534,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3958 Bell Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865657,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865657
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"29ce8b46e4409035f239cc71f5cd22e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865657,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":404048167,
-    "wof:lastmodified":1449039435,
+    "wof:lastmodified":1454128872,
     "wof:name":"Future World Day Care",
     "wof:parent_id":85865657,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "school"
     ]
 },
-  "bbox": [-73.834534,40.891657,-73.834534,40.891657],
+  "bbox": [
+    -73.834534,
+    40.891657,
+    -73.834534,
+    40.891657
+],
   "geometry": {"coordinates":[-73.834534,40.891657],"type":"Point"}
 }

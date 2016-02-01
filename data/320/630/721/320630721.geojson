@@ -2,13 +2,14 @@
   "id": 320630721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.123938,41.775166,-74.123938,41.775166",
     "geom:latitude":41.775166,
     "geom:longitude":-74.123938,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"299 Mountain Rest Rd",
     "sg:city":"New Paltz",
     "sg:classifiers":[
@@ -24,8 +25,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85808667,
+        102081775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +38,27 @@
     "wof:geomhash":"088c91efc912aa2f8ff6cf4ed9011e47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081775,
+            "neighbourhood_id":85808667,
             "region_id":85688543,
             "venue_id":320630721
         }
     ],
     "wof:id":320630721,
-    "wof:lastmodified":1449012612,
+    "wof:lastmodified":1454124982,
     "wof:name":"Student Conservation Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85808667,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.123938,41.775166,-74.123938,41.775166],
+  "bbox": [
+    -74.123938,
+    41.775166,
+    -74.123938,
+    41.775166
+],
   "geometry": {"coordinates":[-74.123938,41.775166],"type":"Point"}
 }

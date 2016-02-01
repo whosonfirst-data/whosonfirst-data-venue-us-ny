@@ -2,13 +2,14 @@
   "id": 370955285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.499689,40.757155,-73.499689,40.757155",
     "geom:latitude":40.757155,
     "geom:longitude":-73.499689,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 S Oyster Bay Rd",
     "sg:city":"Hicksville",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.condorcap.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892759,
+        102191575,
+        404521475,
         85633793,
         85979165,
         102082371,
-        85892759
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"332609653ee140141a0b720a8cfeb7cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979165,
             "neighbourhood_id":85892759,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370955285,
-    "wof:lastmodified":1449031428,
+    "wof:lastmodified":1454128005,
     "wof:name":"Condor Capital",
     "wof:parent_id":85892759,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "leasing"
     ]
 },
-  "bbox": [-73.499689,40.757155,-73.499689,40.757155],
+  "bbox": [
+    -73.499689,
+    40.757155,
+    -73.499689,
+    40.757155
+],
   "geometry": {"coordinates":[-73.499689,40.757155],"type":"Point"}
 }

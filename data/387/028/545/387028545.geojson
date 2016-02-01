@@ -2,13 +2,14 @@
   "id": 387028545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.519055,43.123351,-77.519055,43.123351",
     "geom:latitude":43.123351,
     "geom:longitude":-77.519055,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"160 Linden Oaks",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://www.executivesuitesofrochester.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868033,
+        102191575,
+        404522623,
         85633793,
         85979039,
         102081815,
-        85868033
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"ec461af4f4bd89d3f3b053d2f55af414",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404522623,
             "locality_id":85979039,
             "neighbourhood_id":85868033,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":387028545,
-    "wof:lastmodified":1449058165,
+    "wof:lastmodified":1454129897,
     "wof:name":"Executive Suites Of Rochester",
     "wof:parent_id":85868033,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "broker"
     ]
 },
-  "bbox": [-77.519055,43.123351,-77.519055,43.123351],
-  "geometry": {"coordinates":[-77.519055,43.123351],"type":"Point"}
+  "bbox": [
+    -77.519055,
+    43.123351,
+    -77.519055,
+    43.123351
+],
+  "geometry": {"coordinates":[-77.51905499999999,43.123351],"type":"Point"}
 }

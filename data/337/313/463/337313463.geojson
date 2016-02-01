@@ -2,13 +2,14 @@
   "id": 337313463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.934875,40.578484,-73.934875,40.578484",
     "geom:latitude":40.578484,
     "geom:longitude":-73.934875,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2001 Oriental Blvd",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.hostos.cuny.edu",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832097,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85832097
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"b166709e88694ef18d1a3f0e669770a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85832097,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":337313463,
-    "wof:lastmodified":1449026960,
+    "wof:lastmodified":1454126874,
     "wof:name":"Universal Aplicat Process Ctr",
     "wof:parent_id":85832097,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "college"
     ]
 },
-  "bbox": [-73.934875,40.578484,-73.934875,40.578484],
-  "geometry": {"coordinates":[-73.934875,40.578484],"type":"Point"}
+  "bbox": [
+    -73.934875,
+    40.578484,
+    -73.934875,
+    40.578484
+],
+  "geometry": {"coordinates":[-73.93487500000001,40.578484],"type":"Point"}
 }

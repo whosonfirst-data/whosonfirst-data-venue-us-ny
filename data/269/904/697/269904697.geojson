@@ -2,13 +2,14 @@
   "id": 269904697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.57638,41.609904,-74.57638,41.609904",
     "geom:latitude":41.609904,
     "geom:longitude":-74.57638,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"37 Timber Point Rd",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530071,
+        102191575,
+        404523203,
         85633793,
         85978985,
-        102082407
+        102082407,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"0efd4eb973f5346ba23a9ae9a1d6ea43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082407,
+            "localadmin_id":404523203,
             "locality_id":85978985,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530071,
             "region_id":85688543,
             "venue_id":269904697
         }
     ],
     "wof:id":269904697,
-    "wof:lastmodified":1449039042,
+    "wof:lastmodified":1454128827,
     "wof:name":"Mason Properties",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530071,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.57638,41.609904,-74.57638,41.609904],
+  "bbox": [
+    -74.57638,
+    41.609904,
+    -74.57638,
+    41.609904
+],
   "geometry": {"coordinates":[-74.57638,41.609904],"type":"Point"}
 }

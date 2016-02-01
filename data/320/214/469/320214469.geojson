@@ -2,13 +2,14 @@
   "id": 320214469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.823729,41.754534,-73.823729,41.754534",
     "geom:latitude":41.754534,
     "geom:longitude":-73.823729,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 North Ave",
     "sg:city":"Pleasant Valley",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528481,
+        102191575,
+        404522303,
         85633793,
         85979257,
-        102082363
+        102082363,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"810ab3520d193f5f0f9ac8a2ae39e9c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
+            "localadmin_id":404522303,
             "locality_id":85979257,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528481,
             "region_id":85688543,
             "venue_id":320214469
         }
     ],
     "wof:id":320214469,
-    "wof:lastmodified":1449014844,
+    "wof:lastmodified":1454125344,
     "wof:name":"Lilliputian Balloon Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528481,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "artist"
     ]
 },
-  "bbox": [-73.823729,41.754534,-73.823729,41.754534],
+  "bbox": [
+    -73.823729,
+    41.754534,
+    -73.823729,
+    41.754534
+],
   "geometry": {"coordinates":[-73.823729,41.754534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185886943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.962103,40.608573,-73.962103,40.608573",
     "geom:latitude":40.608573,
     "geom:longitude":-73.962103,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1994 Coney Island Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://brooklyn.citysearch.com/profile/601864681/brooklyn_ny/esteem_salon.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848121,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85848121
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +61,10 @@
     "wof:geomhash":"3ee31e46a36b29705b141c8e2eb3f6bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85848121,
             "region_id":85688543,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":185886943,
-    "wof:lastmodified":1449007500,
+    "wof:lastmodified":1454124260,
     "wof:name":"Esteem Salon",
     "wof:parent_id":85848121,
     "wof:placetype":"venue",
@@ -79,6 +83,11 @@
         "replacement"
     ]
 },
-  "bbox": [-73.962103,40.608573,-73.962103,40.608573],
+  "bbox": [
+    -73.962103,
+    40.608573,
+    -73.962103,
+    40.608573
+],
   "geometry": {"coordinates":[-73.962103,40.608573],"type":"Point"}
 }

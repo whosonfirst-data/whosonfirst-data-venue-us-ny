@@ -2,13 +2,14 @@
   "id": 336705439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.360292,40.67762,-73.360292,40.67762",
     "geom:latitude":40.67762,
     "geom:longitude":-73.360292,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"694 Roosevelt Ave",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
         85978477,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"07f851bfa89094b0cae98d9e3e82b56c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522513,
             "locality_id":85978477,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":336705439
         }
     ],
     "wof:id":336705439,
-    "wof:lastmodified":1448998018,
+    "wof:lastmodified":1454122953,
     "wof:name":"Superboats Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "boat"
     ]
 },
-  "bbox": [-73.360292,40.67762,-73.360292,40.67762],
+  "bbox": [
+    -73.360292,
+    40.67762,
+    -73.360292,
+    40.67762
+],
   "geometry": {"coordinates":[-73.360292,40.67762],"type":"Point"}
 }

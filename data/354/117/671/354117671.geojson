@@ -2,13 +2,14 @@
   "id": 354117671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.232514,40.758935,-73.232514,40.758935",
     "geom:latitude":40.758935,
     "geom:longitude":-73.232514,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"753 Commack Rd",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"www.salumed.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530029,
+        102191575,
+        404522517,
         85633793,
-        85979867,
-        102082395
+        85979775,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"7447b6f09ad30709d70cedc5b1c153ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979867,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979775,
+            "neighbourhood_id":420530029,
             "region_id":85688543,
             "venue_id":354117671
         }
     ],
     "wof:id":354117671,
-    "wof:lastmodified":1449067133,
+    "wof:lastmodified":1454131137,
     "wof:name":"SALU-MED",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530029,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "drugstore"
     ]
 },
-  "bbox": [-73.232514,40.758935,-73.232514,40.758935],
-  "geometry": {"coordinates":[-73.232514,40.758935],"type":"Point"}
+  "bbox": [
+    -73.232514,
+    40.758935,
+    -73.232514,
+    40.758935
+],
+  "geometry": {"coordinates":[-73.23251399999999,40.758935],"type":"Point"}
 }

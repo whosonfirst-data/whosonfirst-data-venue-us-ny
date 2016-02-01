@@ -2,13 +2,14 @@
   "id": 353879863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.123458,43.079642,-76.123458,43.079642",
     "geom:latitude":43.079642,
     "geom:longitude":-76.123458,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2000 Teall Ave",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"www.checksandbalance.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881259,
+        102191575,
+        404522845,
         85633793,
         85979211,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"d2626f6be1dd7dbea8c7b06f8d895df3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522845,
             "locality_id":85979211,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881259,
             "region_id":85688543,
             "venue_id":353879863
         }
     ],
     "wof:id":353879863,
-    "wof:lastmodified":1449018290,
+    "wof:lastmodified":1454125959,
     "wof:name":"Checks & Balance Financial Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881259,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "accountant"
     ]
 },
-  "bbox": [-76.123458,43.079642,-76.123458,43.079642],
+  "bbox": [
+    -76.123458,
+    43.079642,
+    -76.123458,
+    43.079642
+],
   "geometry": {"coordinates":[-76.123458,43.079642],"type":"Point"}
 }

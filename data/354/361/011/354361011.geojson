@@ -2,13 +2,14 @@
   "id": 354361011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.13406,40.837013,-73.13406,40.837013",
     "geom:latitude":40.837013,
     "geom:longitude":-73.13406,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"95 Steuben Blvd",
     "sg:city":"Nesconset",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816389,
+        102191575,
+        404522517,
         85633793,
-        85979773,
+        85979693,
         102082395,
-        85816389
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"58a719c3ba4bc3584f6894b6f5c1b7eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
             "neighbourhood_id":85816389,
             "region_id":85688543,
             "venue_id":354361011
         }
     ],
     "wof:id":354361011,
-    "wof:lastmodified":1449067199,
+    "wof:lastmodified":1454131161,
     "wof:name":"Gina's Enchanted Flower Shop",
     "wof:parent_id":85816389,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "basket"
     ]
 },
-  "bbox": [-73.13406,40.837013,-73.13406,40.837013],
-  "geometry": {"coordinates":[-73.13406,40.837013],"type":"Point"}
+  "bbox": [
+    -73.13406,
+    40.837013,
+    -73.13406,
+    40.837013
+],
+  "geometry": {"coordinates":[-73.13406000000001,40.837013],"type":"Point"}
 }

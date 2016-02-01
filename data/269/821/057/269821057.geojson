@@ -2,13 +2,14 @@
   "id": 269821057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.918529,40.864992,-73.918529,40.864992",
     "geom:latitude":40.864992,
     "geom:longitude":-73.918529,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"147 Post Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826989,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85826989
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"3a23aaeea6012c23208844e390b48f55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85826989,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":269821057,
-    "wof:lastmodified":1449037442,
+    "wof:lastmodified":1454128657,
     "wof:name":"Discovery Transportation Corp",
     "wof:parent_id":85826989,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "limousine"
     ]
 },
-  "bbox": [-73.918529,40.864992,-73.918529,40.864992],
-  "geometry": {"coordinates":[-73.918529,40.864992],"type":"Point"}
+  "bbox": [
+    -73.918529,
+    40.864992,
+    -73.918529,
+    40.864992
+],
+  "geometry": {"coordinates":[-73.91852900000001,40.864992],"type":"Point"}
 }

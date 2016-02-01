@@ -2,13 +2,14 @@
   "id": 370802929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.630806,40.707034,-73.630806,40.707034",
     "geom:latitude":40.707034,
     "geom:longitude":-73.630806,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"131 Fulton Ave",
     "sg:city":"Hempstead",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892743,
+        102191575,
+        404521473,
         85633793,
         85977663,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"ea2a9f8cba7cc43396380d1b7f403e98",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977663,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892743,
             "region_id":85688543,
             "venue_id":370802929
         }
     ],
     "wof:id":370802929,
-    "wof:lastmodified":1449031839,
+    "wof:lastmodified":1454128123,
     "wof:name":"Dolgen Communication Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892743,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.630806,40.707034,-73.630806,40.707034],
-  "geometry": {"coordinates":[-73.630806,40.707034],"type":"Point"}
+  "bbox": [
+    -73.630806,
+    40.707034,
+    -73.630806,
+    40.707034
+],
+  "geometry": {"coordinates":[-73.63080600000001,40.707034],"type":"Point"}
 }

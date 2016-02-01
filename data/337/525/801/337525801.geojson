@@ -2,13 +2,14 @@
   "id": 337525801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.878103,40.750285,-73.878103,40.750285",
     "geom:latitude":40.750285,
     "geom:longitude":-73.878103,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8818 37th Avenue",
     "sg:city":"Jackson Heights",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85827247,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85827247
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"ea0c8b8f463b5f8191c0a46a07ee8883",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85827247,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":337525801,
-    "wof:lastmodified":1449027584,
+    "wof:lastmodified":1454127122,
     "wof:name":"Ramirez Physician PC Alvaio",
     "wof:parent_id":85827247,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.878103,40.750285,-73.878103,40.750285],
+  "bbox": [
+    -73.878103,
+    40.750285,
+    -73.878103,
+    40.750285
+],
   "geometry": {"coordinates":[-73.878103,40.750285],"type":"Point"}
 }

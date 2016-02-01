@@ -2,13 +2,14 @@
   "id": 353961595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.656799,40.796799,-73.656799,40.796799",
     "geom:latitude":40.796799,
     "geom:longitude":-73.656799,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"37 Mineola Ave",
     "sg:city":"Roslyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819663,
+        102191575,
+        404522729,
         85633793,
-        85977681,
+        85977685,
         102082371,
-        85819663
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"51472fa70ca22f36ee66d68a22c65349",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977681,
+            "localadmin_id":404522729,
+            "locality_id":85977685,
             "neighbourhood_id":85819663,
             "region_id":85688543,
             "venue_id":353961595
         }
     ],
     "wof:id":353961595,
-    "wof:lastmodified":1449020724,
+    "wof:lastmodified":1454126665,
     "wof:name":"Pierce Country Day Schl Camp",
     "wof:parent_id":85819663,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-73.656799,40.796799,-73.656799,40.796799],
-  "geometry": {"coordinates":[-73.656799,40.796799],"type":"Point"}
+  "bbox": [
+    -73.656799,
+    40.796799,
+    -73.656799,
+    40.796799
+],
+  "geometry": {"coordinates":[-73.65679900000001,40.796799],"type":"Point"}
 }

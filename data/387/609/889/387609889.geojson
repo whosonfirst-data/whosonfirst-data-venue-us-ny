@@ -2,13 +2,14 @@
   "id": 387609889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.874089,40.966463,-73.874089,40.966463",
     "geom:latitude":40.966463,
     "geom:longitude":-73.874089,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"500 Odell Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881895,
+        102191575,
+        404523397,
         85633793,
         85978759,
         102082373,
-        85881895
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a65f5e3cb0193e0e6bacaa646bc41000",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
             "neighbourhood_id":85881895,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387609889,
-    "wof:lastmodified":1449057521,
+    "wof:lastmodified":1454129782,
     "wof:name":"Wachovia Bank National Assn",
     "wof:parent_id":85881895,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "commercial"
     ]
 },
-  "bbox": [-73.874089,40.966463,-73.874089,40.966463],
+  "bbox": [
+    -73.874089,
+    40.966463,
+    -73.874089,
+    40.966463
+],
   "geometry": {"coordinates":[-73.874089,40.966463],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303323619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.728191,42.236968,-73.728191,42.236968",
     "geom:latitude":42.236968,
     "geom:longitude":-73.728191,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 McIntosh Dr",
     "sg:city":"Hudson",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528341,
+        102191575,
+        404522069,
         85633793,
+        85979239,
+        102082369,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"c704538aec84db49a7293710d19189a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082369,
+            "localadmin_id":404522069,
+            "locality_id":85979239,
+            "neighbourhood_id":420528341,
             "region_id":85688543,
             "venue_id":303323619
         }
     ],
     "wof:id":303323619,
-    "wof:lastmodified":1448998329,
+    "wof:lastmodified":1454123059,
     "wof:name":"Church Of Christ",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528341,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-73.728191,42.236968,-73.728191,42.236968],
+  "bbox": [
+    -73.728191,
+    42.236968,
+    -73.728191,
+    42.236968
+],
   "geometry": {"coordinates":[-73.728191,42.236968],"type":"Point"}
 }

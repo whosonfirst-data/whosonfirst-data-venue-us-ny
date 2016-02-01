@@ -2,13 +2,14 @@
   "id": 320800357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.139922,40.565859,-74.139922,40.565859",
     "geom:latitude":40.565859,
     "geom:longitude":-74.139922,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"108 Cotter Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869625,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85869625
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"7032fd6f47523af27ee830f4ece2dec1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869625,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":320800357,
-    "wof:lastmodified":1449011544,
+    "wof:lastmodified":1454124808,
     "wof:name":"Digital Imagery Video Prod",
     "wof:parent_id":85869625,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "photography"
     ]
 },
-  "bbox": [-74.139922,40.565859,-74.139922,40.565859],
+  "bbox": [
+    -74.139922,
+    40.565859,
+    -74.139922,
+    40.565859
+],
   "geometry": {"coordinates":[-74.139922,40.565859],"type":"Point"}
 }

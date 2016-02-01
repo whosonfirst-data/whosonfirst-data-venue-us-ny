@@ -2,13 +2,14 @@
   "id": 354201173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.037947,40.833051,-73.037947,40.833051",
     "geom:latitude":40.833051,
     "geom:longitude":-73.037947,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"640 Horseblock Rd",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -47,11 +48,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,17 +64,18 @@
     "wof:geomhash":"5165d6824ff2abb3f2801aee58916ff7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354201173
         }
     ],
     "wof:id":354201173,
-    "wof:lastmodified":1449067436,
+    "wof:lastmodified":1454131234,
     "wof:name":"Allstate Insurance Company - Agency Manjarrez-Newell",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -86,6 +90,11 @@
         "renter"
     ]
 },
-  "bbox": [-73.037947,40.833051,-73.037947,40.833051],
+  "bbox": [
+    -73.037947,
+    40.833051,
+    -73.037947,
+    40.833051
+],
   "geometry": {"coordinates":[-73.037947,40.833051],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370305269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.319285,40.931277,-72.319285,40.931277",
     "geom:latitude":40.931277,
     "geom:longitude":-72.319285,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1970 Montauk Hwy",
     "sg:city":"Bridgehampton",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.almondrestaurant.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824365,
+        102191575,
+        404522671,
         85633793,
         85979849,
         102082395,
-        85824365
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"17b829ee5067105b5abbb6c7209f5394",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522671,
             "locality_id":85979849,
             "neighbourhood_id":85824365,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370305269,
-    "wof:lastmodified":1449029605,
+    "wof:lastmodified":1454127465,
     "wof:name":"Almond",
     "wof:parent_id":85824365,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "french"
     ]
 },
-  "bbox": [-72.319285,40.931277,-72.319285,40.931277],
-  "geometry": {"coordinates":[-72.319285,40.931277],"type":"Point"}
+  "bbox": [
+    -72.319285,
+    40.931277,
+    -72.319285,
+    40.931277
+],
+  "geometry": {"coordinates":[-72.31928499999999,40.931277],"type":"Point"}
 }

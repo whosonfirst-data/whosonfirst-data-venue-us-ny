@@ -2,13 +2,14 @@
   "id": 386986731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.61577,43.168009,-77.61577,43.168009",
     "geom:latitude":43.168009,
     "geom:longitude":-77.61577,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"123 Upper Falls Blvd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     "sg:website":"http://www.cokecce.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880413,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85880413
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"f9f301e3b4711aa0494742e417fde053",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85880413,
             "region_id":85688543,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":386986731,
-    "wof:lastmodified":1449028894,
+    "wof:lastmodified":1454127260,
     "wof:name":"Coca-Cola Bottling Corporation",
     "wof:parent_id":85880413,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "supply"
     ]
 },
-  "bbox": [-77.61577,43.168009,-77.61577,43.168009],
+  "bbox": [
+    -77.61577,
+    43.168009,
+    -77.61577,
+    43.168009
+],
   "geometry": {"coordinates":[-77.61577,43.168009],"type":"Point"}
 }

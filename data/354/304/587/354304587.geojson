@@ -2,13 +2,14 @@
   "id": 354304587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.547398,40.788786,-73.547398,40.788786",
     "geom:latitude":40.788786,
     "geom:longitude":-73.547398,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"50 E View Ct",
     "sg:city":"Jericho",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529157,
+        102191575,
+        404521475,
         85633793,
         85979085,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"819e76dbb6e52f25704af146348dab4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979085,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529157,
             "region_id":85688543,
             "venue_id":354304587
         }
     ],
     "wof:id":354304587,
-    "wof:lastmodified":1449067223,
+    "wof:lastmodified":1454131169,
     "wof:name":"Nanell Foundation Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529157,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-73.547398,40.788786,-73.547398,40.788786],
+  "bbox": [
+    -73.547398,
+    40.788786,
+    -73.547398,
+    40.788786
+],
   "geometry": {"coordinates":[-73.547398,40.788786],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270405573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.711379,40.841918,-73.711379,40.841918",
     "geom:latitude":40.841918,
     "geom:longitude":-73.711379,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"67 Manorhaven Blvd",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832155,
+        102191575,
+        404522729,
         85633793,
+        85977599,
         102082371,
-        85832155
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"1be3bf4d1f01ba167c56615504ddb309",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":-1,
+            "localadmin_id":404522729,
+            "locality_id":85977599,
             "neighbourhood_id":85832155,
             "region_id":85688543,
             "venue_id":270405573
         }
     ],
     "wof:id":270405573,
-    "wof:lastmodified":1449010888,
+    "wof:lastmodified":1454124703,
     "wof:name":"Richard A Odin",
     "wof:parent_id":85832155,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.711379,40.841918,-73.711379,40.841918],
-  "geometry": {"coordinates":[-73.711379,40.841918],"type":"Point"}
+  "bbox": [
+    -73.711379,
+    40.841918,
+    -73.711379,
+    40.841918
+],
+  "geometry": {"coordinates":[-73.71137899999999,40.841918],"type":"Point"}
 }

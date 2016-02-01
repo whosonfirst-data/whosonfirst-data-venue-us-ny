@@ -2,13 +2,14 @@
   "id": 269811715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.242188,40.729563,-73.242188,40.729563",
     "geom:latitude":40.729563,
     "geom:longitude":-73.242188,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 Oneill Ave",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530027,
+        102191575,
+        404522517,
         85633793,
         85979719,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"c069044d05039d3e9d406048d5a172c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530027,
             "region_id":85688543,
             "venue_id":269811715
         }
     ],
     "wof:id":269811715,
-    "wof:lastmodified":1449037297,
+    "wof:lastmodified":1454128634,
     "wof:name":"Bianculli & Sons Sanitation",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530027,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "collection"
     ]
 },
-  "bbox": [-73.242188,40.729563,-73.242188,40.729563],
+  "bbox": [
+    -73.242188,
+    40.729563,
+    -73.242188,
+    40.729563
+],
   "geometry": {"coordinates":[-73.242188,40.729563],"type":"Point"}
 }

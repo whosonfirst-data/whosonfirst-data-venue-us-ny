@@ -2,13 +2,14 @@
   "id": 287238907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.923462,40.88485,-72.923462,40.88485",
     "geom:latitude":40.88485,
     "geom:longitude":-72.923462,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"31 Nottingham Dr",
     "sg:city":"Middle Island",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979955,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"be7393f501c24b0592a82c4be2dfa57b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979955,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":287238907
         }
     ],
     "wof:id":287238907,
-    "wof:lastmodified":1449001003,
+    "wof:lastmodified":1454123830,
     "wof:name":"Courteous Canine",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "training"
     ]
 },
-  "bbox": [-72.923462,40.88485,-72.923462,40.88485],
+  "bbox": [
+    -72.923462,
+    40.88485,
+    -72.923462,
+    40.88485
+],
   "geometry": {"coordinates":[-72.923462,40.88485],"type":"Point"}
 }

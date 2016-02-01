@@ -2,13 +2,14 @@
   "id": 169828539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.947112,40.714409,-73.947112,40.714409",
     "geom:latitude":40.714409,
     "geom:longitude":-73.947112,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"653 Metropolitan Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     "sg:website":"www.roseredandlavender.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857853,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85857853
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"847447e9164db0c1f268a36e9f6d4e6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85857853,
             "region_id":85688543,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":169828539,
-    "wof:lastmodified":1449034354,
+    "wof:lastmodified":1454128407,
     "wof:name":"Rose Red & Lavender",
     "wof:parent_id":85857853,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "gardening"
     ]
 },
-  "bbox": [-73.947112,40.714409,-73.947112,40.714409],
+  "bbox": [
+    -73.947112,
+    40.714409,
+    -73.947112,
+    40.714409
+],
   "geometry": {"coordinates":[-73.947112,40.714409],"type":"Point"}
 }

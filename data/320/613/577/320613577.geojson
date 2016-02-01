@@ -2,13 +2,14 @@
   "id": 320613577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.193317,42.941524,-74.193317,42.941524",
     "geom:latitude":42.941524,
     "geom:longitude":-74.193317,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"50 Wall St",
     "sg:city":"Amsterdam",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85849399,
+        102191575,
+        404522661,
         85633793,
         85978245,
-        102082985
+        102082985,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"bdb42da72dfd7825cf6ee4511b64266e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082985,
+            "localadmin_id":404522661,
             "locality_id":85978245,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85849399,
             "region_id":85688543,
             "venue_id":320613577
         }
     ],
     "wof:id":320613577,
-    "wof:lastmodified":1449012998,
+    "wof:lastmodified":1454125043,
     "wof:name":"Christmas Night Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85849399,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-74.193317,42.941524,-74.193317,42.941524],
-  "geometry": {"coordinates":[-74.193317,42.941524],"type":"Point"}
+  "bbox": [
+    -74.193317,
+    42.941524,
+    -74.193317,
+    42.941524
+],
+  "geometry": {"coordinates":[-74.19331699999999,42.941524],"type":"Point"}
 }

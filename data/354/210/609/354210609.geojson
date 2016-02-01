@@ -2,13 +2,14 @@
   "id": 354210609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.051624,40.775807,-73.051624,40.775807",
     "geom:latitude":40.775807,
     "geom:longitude":-73.051624,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"125 Beacon Dr",
     "sg:city":"Holbrook",
     "sg:classifiers":[],
@@ -19,11 +20,13 @@
     "sg:website":"http://www.costco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840885,
+        102191575,
+        404521441,
         85633793,
         85978461,
         102082395,
-        85840885
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,9 +36,10 @@
     "wof:geomhash":"30cb0f8bd06b26b5bb9a65a88e64f264",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85978461,
             "neighbourhood_id":85840885,
             "region_id":85688543,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":354210609,
-    "wof:lastmodified":1449066487,
+    "wof:lastmodified":1454130940,
     "wof:name":"Costco",
     "wof:parent_id":85840885,
     "wof:placetype":"venue",
@@ -51,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.051624,40.775807,-73.051624,40.775807],
+  "bbox": [
+    -73.051624,
+    40.775807,
+    -73.051624,
+    40.775807
+],
   "geometry": {"coordinates":[-73.051624,40.775807],"type":"Point"}
 }

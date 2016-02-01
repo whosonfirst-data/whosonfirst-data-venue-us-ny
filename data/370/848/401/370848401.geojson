@@ -2,13 +2,14 @@
   "id": 370848401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.97984,40.746558,-73.97984,40.746558",
     "geom:latitude":40.746558,
     "geom:longitude":-73.97984,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 E 34 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836095,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85836095
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"b227105f7e2ee2ab4133f26cb129b5f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85836095,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":370848401,
-    "wof:lastmodified":1449029570,
+    "wof:lastmodified":1454127457,
     "wof:name":"Eee's Cafe",
     "wof:parent_id":85836095,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "baker"
     ]
 },
-  "bbox": [-73.97984,40.746558,-73.97984,40.746558],
+  "bbox": [
+    -73.97984,
+    40.746558,
+    -73.97984,
+    40.746558
+],
   "geometry": {"coordinates":[-73.97984,40.746558],"type":"Point"}
 }

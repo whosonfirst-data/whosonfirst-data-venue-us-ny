@@ -2,13 +2,14 @@
   "id": 303744395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.508471,42.441097,-76.508471,42.441097",
     "geom:latitude":42.441097,
     "geom:longitude":-76.508471,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"602 W Buffalo St",
     "sg:city":"Ithaca",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85878371,
+        102191575,
+        404523231,
         85633793,
         85978779,
         102082355,
-        85878371
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"aab4a67d9d12ac8f5d47598fb2cbba12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082355,
+            "localadmin_id":404523231,
             "locality_id":85978779,
             "neighbourhood_id":85878371,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":303744395,
-    "wof:lastmodified":1448999001,
+    "wof:lastmodified":1454123293,
     "wof:name":"C&C Properties",
     "wof:parent_id":85878371,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-76.508471,42.441097,-76.508471,42.441097],
+  "bbox": [
+    -76.508471,
+    42.441097,
+    -76.508471,
+    42.441097
+],
   "geometry": {"coordinates":[-76.508471,42.441097],"type":"Point"}
 }

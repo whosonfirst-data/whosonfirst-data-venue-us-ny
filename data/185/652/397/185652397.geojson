@@ -2,13 +2,14 @@
   "id": 185652397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.986623,40.665229,-73.986623,40.665229",
     "geom:latitude":40.665229,
     "geom:longitude":-73.986623,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"522 6th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.balakaIndian.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892961,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85892961
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"3e1a4cb4ff9c1cef9c5453d01cbf02c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892961,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":185652397,
-    "wof:lastmodified":1449007638,
+    "wof:lastmodified":1454124277,
     "wof:name":"Balaka Indian Restaurant",
     "wof:parent_id":85892961,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "indian"
     ]
 },
-  "bbox": [-73.986623,40.665229,-73.986623,40.665229],
-  "geometry": {"coordinates":[-73.986623,40.665229],"type":"Point"}
+  "bbox": [
+    -73.986623,
+    40.665229,
+    -73.986623,
+    40.665229
+],
+  "geometry": {"coordinates":[-73.98662299999999,40.665229],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303280665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.234091,40.812955,-73.234091,40.812955",
     "geom:latitude":40.812955,
     "geom:longitude":-73.234091,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"55 Engineers Rd",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.deutschrelays.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"cb60d9206d4fc640a675029a91c27076",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":303280665
         }
     ],
     "wof:id":303280665,
-    "wof:lastmodified":1448999318,
+    "wof:lastmodified":1454123383,
     "wof:name":"Deutsch Relays Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "relay"
     ]
 },
-  "bbox": [-73.234091,40.812955,-73.234091,40.812955],
-  "geometry": {"coordinates":[-73.234091,40.812955],"type":"Point"}
+  "bbox": [
+    -73.234091,
+    40.812955,
+    -73.234091,
+    40.812955
+],
+  "geometry": {"coordinates":[-73.23409100000001,40.812955],"type":"Point"}
 }

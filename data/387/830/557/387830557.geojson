@@ -2,13 +2,14 @@
   "id": 387830557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.904554,40.833113,-73.904554,40.833113",
     "geom:latitude":40.833113,
     "geom:longitude":-73.904554,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3674 3rd Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.sco.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892767,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85892767
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"223f4d6bed4cad3dfa94d0a29c5470e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892767,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387830557,
-    "wof:lastmodified":1449056910,
+    "wof:lastmodified":1454129670,
     "wof:name":"St Christopher-Ottilie",
     "wof:parent_id":85892767,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "homeless"
     ]
 },
-  "bbox": [-73.904554,40.833113,-73.904554,40.833113],
+  "bbox": [
+    -73.904554,
+    40.833113,
+    -73.904554,
+    40.833113
+],
   "geometry": {"coordinates":[-73.904554,40.833113],"type":"Point"}
 }

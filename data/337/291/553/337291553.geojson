@@ -2,13 +2,14 @@
   "id": 337291553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.020234,40.6485,-74.020234,40.6485",
     "geom:latitude":40.6485,
     "geom:longitude":-74.020234,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 53rd Street",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851575,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85851575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"1597dfae0d4c561860dace6216d20ce4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85851575,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":337291553,
-    "wof:lastmodified":1449027191,
+    "wof:lastmodified":1454126966,
     "wof:name":"Safeway Wheel Mfg Ltd",
     "wof:parent_id":85851575,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "bike"
     ]
 },
-  "bbox": [-74.020234,40.6485,-74.020234,40.6485],
+  "bbox": [
+    -74.020234,
+    40.6485,
+    -74.020234,
+    40.6485
+],
   "geometry": {"coordinates":[-74.020234,40.6485],"type":"Point"}
 }

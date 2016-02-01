@@ -2,13 +2,14 @@
   "id": 387436371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.173508,43.22088,-74.173508,43.22088",
     "geom:latitude":43.22088,
     "geom:longitude":-74.173508,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"322 S 3rd St",
     "sg:city":"Northville",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528689,
+        102191575,
+        404522443,
         85633793,
         85978037,
-        102081813
+        102081813,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"154ebf5545dfd97a008aa47936324e11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081813,
+            "localadmin_id":404522443,
             "locality_id":85978037,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528689,
             "region_id":85688543,
             "venue_id":387436371
         }
     ],
     "wof:id":387436371,
-    "wof:lastmodified":1449059554,
+    "wof:lastmodified":1454130143,
     "wof:name":"Norwell Gloves Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528689,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "piece"
     ]
 },
-  "bbox": [-74.173508,43.22088,-74.173508,43.22088],
+  "bbox": [
+    -74.173508,
+    43.22088,
+    -74.173508,
+    43.22088
+],
   "geometry": {"coordinates":[-74.173508,43.22088],"type":"Point"}
 }

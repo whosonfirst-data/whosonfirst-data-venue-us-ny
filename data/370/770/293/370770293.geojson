@@ -2,13 +2,14 @@
   "id": 370770293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.830839,40.945134,-72.830839,40.945134",
     "geom:latitude":40.945134,
     "geom:longitude":-72.830839,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6279 Rte 25A",
     "sg:city":"Wading River",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979901,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"d6a3eb048342f77ec869d88fa3c5edd5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979901,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":370770293
         }
     ],
     "wof:id":370770293,
-    "wof:lastmodified":1449032542,
+    "wof:lastmodified":1454128334,
     "wof:name":"Party Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-72.830839,40.945134,-72.830839,40.945134],
+  "bbox": [
+    -72.830839,
+    40.945134,
+    -72.830839,
+    40.945134
+],
   "geometry": {"coordinates":[-72.830839,40.945134],"type":"Point"}
 }

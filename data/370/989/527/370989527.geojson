@@ -2,13 +2,14 @@
   "id": 370989527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.551864,43.226059,-77.551864,43.226059",
     "geom:latitude":43.226059,
     "geom:longitude":-77.551864,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Birchwood Dr",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868841,
+        102191575,
+        404522639,
         85633793,
-        85977591,
+        85979035,
         102081815,
-        85868841
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"5047b565ac3a8cedeb479d6aa58fe2a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85977591,
+            "localadmin_id":404522639,
+            "locality_id":85979035,
             "neighbourhood_id":85868841,
             "region_id":85688543,
             "venue_id":370989527
         }
     ],
     "wof:id":370989527,
-    "wof:lastmodified":1449031577,
+    "wof:lastmodified":1454128047,
     "wof:name":"Borrelli Home Improvements",
     "wof:parent_id":85868841,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "carpenter"
     ]
 },
-  "bbox": [-77.551864,43.226059,-77.551864,43.226059],
-  "geometry": {"coordinates":[-77.551864,43.226059],"type":"Point"}
+  "bbox": [
+    -77.551864,
+    43.226059,
+    -77.551864,
+    43.226059
+],
+  "geometry": {"coordinates":[-77.55186399999999,43.226059],"type":"Point"}
 }

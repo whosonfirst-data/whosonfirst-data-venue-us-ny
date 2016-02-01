@@ -2,13 +2,14 @@
   "id": 404202477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.724563,40.669398,-73.724563,40.669398",
     "geom:latitude":40.669398,
     "geom:longitude":-73.724563,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"145 Cedar St",
     "sg:city":"Valley Stream",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893053,
+        102191575,
+        404521473,
         85633793,
         85977737,
         102082371,
-        85893053
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"cd514127794bfa6699d585b71760c239",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977737,
             "neighbourhood_id":85893053,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":404202477,
-    "wof:lastmodified":1449040164,
+    "wof:lastmodified":1454128949,
     "wof:name":"Enhanced Epidemiolgy Inc",
     "wof:parent_id":85893053,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-73.724563,40.669398,-73.724563,40.669398],
+  "bbox": [
+    -73.724563,
+    40.669398,
+    -73.724563,
+    40.669398
+],
   "geometry": {"coordinates":[-73.724563,40.669398],"type":"Point"}
 }

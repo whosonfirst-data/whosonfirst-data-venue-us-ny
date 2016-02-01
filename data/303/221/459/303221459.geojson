@@ -2,13 +2,14 @@
   "id": 303221459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.962359,40.694352,-73.962359,40.694352",
     "geom:latitude":40.694352,
     "geom:longitude":-73.962359,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"72 Emerson Pl",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.publicstorage.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865613,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865613
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c66e520812cea212a642b4d71e7ebf67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865613,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303221459,
-    "wof:lastmodified":1448999193,
+    "wof:lastmodified":1454123348,
     "wof:name":"Public Storage",
     "wof:parent_id":85865613,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "storage"
     ]
 },
-  "bbox": [-73.962359,40.694352,-73.962359,40.694352],
-  "geometry": {"coordinates":[-73.962359,40.694352],"type":"Point"}
+  "bbox": [
+    -73.962359,
+    40.694352,
+    -73.962359,
+    40.694352
+],
+  "geometry": {"coordinates":[-73.96235900000001,40.694352],"type":"Point"}
 }

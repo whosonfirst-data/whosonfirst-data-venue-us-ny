@@ -2,13 +2,14 @@
   "id": 353540039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.875622,41.015762,-73.875622,41.015762",
     "geom:latitude":41.015762,
     "geom:longitude":-73.875622,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"139 Palisade St",
     "sg:city":"Dobbs Ferry",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85849177,
+        102191575,
+        404523359,
         85633793,
-        102082385,
-        85849177
+        85978743,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"0c37b3bb35d8512571ba2ed71efa29de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082385,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523359,
+            "locality_id":85978743,
             "neighbourhood_id":85849177,
             "region_id":85688543,
             "venue_id":353540039
         }
     ],
     "wof:id":353540039,
-    "wof:lastmodified":1449019276,
+    "wof:lastmodified":1454126243,
     "wof:name":"Wiz Constructing",
     "wof:parent_id":85849177,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-73.875622,41.015762,-73.875622,41.015762],
-  "geometry": {"coordinates":[-73.875622,41.015762],"type":"Point"}
+  "bbox": [
+    -73.875622,
+    41.015762,
+    -73.875622,
+    41.015762
+],
+  "geometry": {"coordinates":[-73.87562200000001,41.015762],"type":"Point"}
 }

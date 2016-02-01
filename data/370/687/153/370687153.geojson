@@ -2,13 +2,14 @@
   "id": 370687153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.501097,40.857148,-73.501097,40.857148",
     "geom:latitude":40.857148,
     "geom:longitude":-73.501097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"44 Woodland Dr",
     "sg:city":"Oyster Bay",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529173,
+        102191575,
+        404521475,
         85633793,
         85977645,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"93c29d33a67758f164d5b2068b1205a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85977645,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529173,
             "region_id":85688543,
             "venue_id":370687153
         }
     ],
     "wof:id":370687153,
-    "wof:lastmodified":1449030057,
+    "wof:lastmodified":1454127597,
     "wof:name":"Investor Capital Management",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529173,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "fuel"
     ]
 },
-  "bbox": [-73.501097,40.857148,-73.501097,40.857148],
+  "bbox": [
+    -73.501097,
+    40.857148,
+    -73.501097,
+    40.857148
+],
   "geometry": {"coordinates":[-73.501097,40.857148],"type":"Point"}
 }

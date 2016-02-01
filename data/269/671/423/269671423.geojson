@@ -2,13 +2,14 @@
   "id": 269671423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.164808,40.625533,-74.164808,40.625533",
     "geom:latitude":40.625533,
     "geom:longitude":-74.164808,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 Yale St",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85822545,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85822545
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"dd8ca62e999740199b7789a31867049c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85822545,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":269671423,
-    "wof:lastmodified":1449036689,
+    "wof:lastmodified":1454128544,
     "wof:name":"USA Roofing",
     "wof:parent_id":85822545,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.164808,40.625533,-74.164808,40.625533],
-  "geometry": {"coordinates":[-74.164808,40.625533],"type":"Point"}
+  "bbox": [
+    -74.164808,
+    40.625533,
+    -74.164808,
+    40.625533
+],
+  "geometry": {"coordinates":[-74.16480799999999,40.625533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286830993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.245893,41.790083,-74.245893,41.790083",
     "geom:latitude":41.790083,
     "geom:longitude":-74.245893,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5100 US Hwy 209",
     "sg:city":"Accord",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530271,
+        102191575,
+        404523265,
         85633793,
         85978923,
-        102081775
+        102081775,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"b10e22b28ffcb7d0023dacc48c081d36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
+            "localadmin_id":404523265,
             "locality_id":85978923,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530271,
             "region_id":85688543,
             "venue_id":286830993
         }
     ],
     "wof:id":286830993,
-    "wof:lastmodified":1449015792,
+    "wof:lastmodified":1454125506,
     "wof:name":"Saunderskill Farm Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530271,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "produce"
     ]
 },
-  "bbox": [-74.245893,41.790083,-74.245893,41.790083],
+  "bbox": [
+    -74.245893,
+    41.790083,
+    -74.245893,
+    41.790083
+],
   "geometry": {"coordinates":[-74.245893,41.790083],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286415911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.382068,40.671308,-73.382068,40.671308",
     "geom:latitude":40.671308,
     "geom:longitude":-73.382068,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"711 W Montauk Hwy",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
-        85979803,
-        102082395
+        85978477,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"38a20c88df5be481804da589894af207",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979803,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522513,
+            "locality_id":85978477,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":286415911
         }
     ],
     "wof:id":286415911,
-    "wof:lastmodified":1449017307,
+    "wof:lastmodified":1454125772,
     "wof:name":"RPM Marine Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.382068,40.671308,-73.382068,40.671308],
+  "bbox": [
+    -73.382068,
+    40.671308,
+    -73.382068,
+    40.671308
+],
   "geometry": {"coordinates":[-73.382068,40.671308],"type":"Point"}
 }

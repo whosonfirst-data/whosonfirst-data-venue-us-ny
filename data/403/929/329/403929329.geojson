@@ -2,13 +2,14 @@
   "id": 403929329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.01793,40.637781,-74.01793,40.637781",
     "geom:latitude":40.637781,
     "geom:longitude":-74.01793,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6201 5th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851575,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85851575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"6881d37dc7234112252bc7dd10e3c3e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85851575,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403929329,
-    "wof:lastmodified":1449055136,
+    "wof:lastmodified":1454129394,
     "wof:name":"Furlong Bar & Restaurant",
     "wof:parent_id":85851575,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "drinking"
     ]
 },
-  "bbox": [-74.01793,40.637781,-74.01793,40.637781],
-  "geometry": {"coordinates":[-74.01793,40.637781],"type":"Point"}
+  "bbox": [
+    -74.01793,
+    40.637781,
+    -74.01793,
+    40.637781
+],
+  "geometry": {"coordinates":[-74.01793000000001,40.637781],"type":"Point"}
 }

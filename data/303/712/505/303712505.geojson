@@ -2,13 +2,14 @@
   "id": 303712505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.901233,41.550845,-73.901233,41.550845",
     "geom:latitude":41.550845,
     "geom:longitude":-73.901233,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"544 Old Rte 9",
     "sg:city":"Fishkill",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528475,
+        102191575,
+        404522225,
         85633793,
+        85979249,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"19c118ca8eba32b78c8bdd554e17dc40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522225,
+            "locality_id":85979249,
+            "neighbourhood_id":420528475,
             "region_id":85688543,
             "venue_id":303712505
         }
     ],
     "wof:id":303712505,
-    "wof:lastmodified":1448999168,
+    "wof:lastmodified":1454123338,
     "wof:name":"Hampton Inn",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528475,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "operation"
     ]
 },
-  "bbox": [-73.901233,41.550845,-73.901233,41.550845],
+  "bbox": [
+    -73.901233,
+    41.550845,
+    -73.901233,
+    41.550845
+],
   "geometry": {"coordinates":[-73.901233,41.550845],"type":"Point"}
 }

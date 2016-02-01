@@ -2,13 +2,14 @@
   "id": 303047509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.67555,40.993303,-73.67555,40.993303",
     "geom:latitude":40.993303,
     "geom:longitude":-73.67555,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"527 Boston Post Rd",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.ninewest.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530421,
+        102191575,
+        404523389,
         85633793,
         85978705,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"34cd3abceef8f8e8606c15f1d67ed193",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523389,
             "locality_id":85978705,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530421,
             "region_id":85688543,
             "venue_id":303047509
         }
     ],
     "wof:id":303047509,
-    "wof:lastmodified":1448999694,
+    "wof:lastmodified":1454123484,
     "wof:name":"Nine West Outlet",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530421,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.67555,40.993303,-73.67555,40.993303],
+  "bbox": [
+    -73.67555,
+    40.993303,
+    -73.67555,
+    40.993303
+],
   "geometry": {"coordinates":[-73.67555,40.993303],"type":"Point"}
 }

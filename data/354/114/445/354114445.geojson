@@ -2,13 +2,14 @@
   "id": 354114445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.210841,40.767323,-73.210841,40.767323",
     "geom:latitude":40.767323,
     "geom:longitude":-73.210841,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1052 Islip Ave",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530029,
+        102191575,
+        404522517,
         85633793,
-        85979813,
-        102082395
+        85979775,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"c1410da4b2918f4f941ccc74cebaf6de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979813,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979775,
+            "neighbourhood_id":420530029,
             "region_id":85688543,
             "venue_id":354114445
         }
     ],
     "wof:id":354114445,
-    "wof:lastmodified":1449066631,
+    "wof:lastmodified":1454130986,
     "wof:name":"Wuw Laundromat Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530029,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "coin"
     ]
 },
-  "bbox": [-73.210841,40.767323,-73.210841,40.767323],
+  "bbox": [
+    -73.210841,
+    40.767323,
+    -73.210841,
+    40.767323
+],
   "geometry": {"coordinates":[-73.210841,40.767323],"type":"Point"}
 }

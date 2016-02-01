@@ -2,13 +2,14 @@
   "id": 353651923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.857279,40.692734,-73.857279,40.692734",
     "geom:latitude":40.692734,
     "geom:longitude":-73.857279,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8715 Jamaica Avenue",
     "sg:city":"Woodhaven",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85858649,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85858649
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"3bdaa8f33608cddbb22497dd5e0a2c40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85858649,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":353651923,
-    "wof:lastmodified":1449018757,
+    "wof:lastmodified":1454126097,
     "wof:name":"Trama's Auto School",
     "wof:parent_id":85858649,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "driving"
     ]
 },
-  "bbox": [-73.857279,40.692734,-73.857279,40.692734],
-  "geometry": {"coordinates":[-73.857279,40.692734],"type":"Point"}
+  "bbox": [
+    -73.857279,
+    40.692734,
+    -73.857279,
+    40.692734
+],
+  "geometry": {"coordinates":[-73.85727900000001,40.692734],"type":"Point"}
 }

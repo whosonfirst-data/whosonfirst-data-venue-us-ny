@@ -2,13 +2,14 @@
   "id": 303735421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.594737,43.138022,-77.594737,43.138022",
     "geom:latitude":43.138022,
     "geom:longitude":-77.594737,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1045 Clinton Ave S",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.rochester-seac.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867109,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85867109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"8cc2a1f536bc4e24ba9d647d366db94e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85867109,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":303735421,
-    "wof:lastmodified":1449000511,
+    "wof:lastmodified":1454123710,
     "wof:name":"SEAC",
     "wof:parent_id":85867109,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.594737,43.138022,-77.594737,43.138022],
-  "geometry": {"coordinates":[-77.594737,43.138022],"type":"Point"}
+  "bbox": [
+    -77.594737,
+    43.138022,
+    -77.594737,
+    43.138022
+],
+  "geometry": {"coordinates":[-77.59473699999999,43.138022],"type":"Point"}
 }

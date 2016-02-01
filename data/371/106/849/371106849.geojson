@@ -2,13 +2,14 @@
   "id": 371106849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.527487,40.767233,-73.527487,40.767233",
     "geom:latitude":40.767233,
     "geom:longitude":-73.527487,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 Newbridge Rd",
     "sg:city":"Hicksville",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892883,
+        102191575,
+        404521475,
         85633793,
         85979093,
         102082371,
-        85892883
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"986db4633790455b26cb51808189ab3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979093,
             "neighbourhood_id":85892883,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":371106849,
-    "wof:lastmodified":1449049051,
+    "wof:lastmodified":1454129039,
     "wof:name":"Washington Mutual Bank",
     "wof:parent_id":85892883,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "institution"
     ]
 },
-  "bbox": [-73.527487,40.767233,-73.527487,40.767233],
-  "geometry": {"coordinates":[-73.527487,40.767233],"type":"Point"}
+  "bbox": [
+    -73.527487,
+    40.767233,
+    -73.527487,
+    40.767233
+],
+  "geometry": {"coordinates":[-73.52748699999999,40.767233],"type":"Point"}
 }

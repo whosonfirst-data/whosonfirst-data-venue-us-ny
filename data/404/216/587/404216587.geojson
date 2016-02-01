@@ -2,13 +2,14 @@
   "id": 404216587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.507399,40.695085,-73.507399,40.695085",
     "geom:latitude":40.695085,
     "geom:longitude":-73.507399,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1157 Wantagh Ave",
     "sg:city":"Wantagh",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529177,
+        102191575,
+        404521473,
         85633793,
-        85979195,
-        102082371
+        85979065,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"573b89dad0c1b0997c00cbbabab4c593",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979195,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979065,
+            "neighbourhood_id":420529177,
             "region_id":85688543,
             "venue_id":404216587
         }
     ],
     "wof:id":404216587,
-    "wof:lastmodified":1449040184,
+    "wof:lastmodified":1454128951,
     "wof:name":"Cingular Wireless",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529177,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "cellular"
     ]
 },
-  "bbox": [-73.507399,40.695085,-73.507399,40.695085],
-  "geometry": {"coordinates":[-73.507399,40.695085],"type":"Point"}
+  "bbox": [
+    -73.507399,
+    40.695085,
+    -73.507399,
+    40.695085
+],
+  "geometry": {"coordinates":[-73.50739900000001,40.695085],"type":"Point"}
 }

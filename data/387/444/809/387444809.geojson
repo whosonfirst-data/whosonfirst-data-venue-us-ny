@@ -2,13 +2,14 @@
   "id": 387444809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.997651,40.628418,-73.997651,40.628418",
     "geom:latitude":40.628418,
     "geom:longitude":-73.997651,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1368 60th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"eab3e1633da6970d259af1eacd376dc7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":387444809
         }
     ],
     "wof:id":387444809,
-    "wof:lastmodified":1449059403,
+    "wof:lastmodified":1454130118,
     "wof:name":"Horizon Video Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "cassette"
     ]
 },
-  "bbox": [-73.997651,40.628418,-73.997651,40.628418],
+  "bbox": [
+    -73.997651,
+    40.628418,
+    -73.997651,
+    40.628418
+],
   "geometry": {"coordinates":[-73.997651,40.628418],"type":"Point"}
 }

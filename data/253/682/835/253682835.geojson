@@ -2,13 +2,14 @@
   "id": 253682835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.771903,41.028981,-73.771903,41.028981",
     "geom:latitude":41.028981,
     "geom:longitude":-73.771903,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"76 S Lexington Ave",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530469,
+        102191575,
+        404523395,
         85633793,
         85978761,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"427472d8c051b447a799061456073bec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523395,
             "locality_id":85978761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530469,
             "region_id":85688543,
             "venue_id":253682835
         }
     ],
     "wof:id":253682835,
-    "wof:lastmodified":1449063333,
+    "wof:lastmodified":1454130330,
     "wof:name":"Station Plaza Community Mgmt",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530469,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "citizen"
     ]
 },
-  "bbox": [-73.771903,41.028981,-73.771903,41.028981],
-  "geometry": {"coordinates":[-73.771903,41.028981],"type":"Point"}
+  "bbox": [
+    -73.771903,
+    41.028981,
+    -73.771903,
+    41.028981
+],
+  "geometry": {"coordinates":[-73.77190299999999,41.028981],"type":"Point"}
 }

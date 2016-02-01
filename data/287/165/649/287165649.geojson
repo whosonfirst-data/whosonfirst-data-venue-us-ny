@@ -2,13 +2,14 @@
   "id": 287165649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.701272,43.276932,-78.701272,43.276932",
     "geom:latitude":43.276932,
     "geom:longitude":-78.701272,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2845 S Main St",
     "sg:city":"Newfane",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529205,
+        102191575,
+        404522741,
         85633793,
         85979549,
-        102081767
+        102081767,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"3baef0f0860cd2d9d6483b80e8e14af5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
+            "localadmin_id":404522741,
             "locality_id":85979549,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529205,
             "region_id":85688543,
             "venue_id":287165649
         }
     ],
     "wof:id":287165649,
-    "wof:lastmodified":1449001593,
+    "wof:lastmodified":1454123970,
     "wof:name":"Pace Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529205,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.701272,43.276932,-78.701272,43.276932],
+  "bbox": [
+    -78.701272,
+    43.276932,
+    -78.701272,
+    43.276932
+],
   "geometry": {"coordinates":[-78.701272,43.276932],"type":"Point"}
 }

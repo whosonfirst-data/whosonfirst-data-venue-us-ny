@@ -2,13 +2,14 @@
   "id": 386940743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.87288,40.76351,-72.87288,40.76351",
     "geom:latitude":40.76351,
     "geom:longitude":-72.87288,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"19 Hurstwood Rd",
     "sg:city":"Shirley",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85850841,
+        102191575,
+        404521441,
         85633793,
         85979847,
         102082395,
-        85850841
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"293bc707e5b9faa4f4aee43f1d13981b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979847,
             "neighbourhood_id":85850841,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":386940743,
-    "wof:lastmodified":1449028692,
+    "wof:lastmodified":1454127209,
     "wof:name":"Runway Asphalt Maintenance",
     "wof:parent_id":85850841,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "asphalt"
     ]
 },
-  "bbox": [-72.87288,40.76351,-72.87288,40.76351],
-  "geometry": {"coordinates":[-72.87288,40.76351],"type":"Point"}
+  "bbox": [
+    -72.87288,
+    40.76351,
+    -72.87288,
+    40.76351
+],
+  "geometry": {"coordinates":[-72.87287999999999,40.76351],"type":"Point"}
 }

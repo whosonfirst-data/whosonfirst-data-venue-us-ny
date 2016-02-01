@@ -2,13 +2,14 @@
   "id": 253125781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.618248,42.200319,-78.618248,42.200319",
     "geom:latitude":42.200319,
     "geom:longitude":-78.618248,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5504 Humphrey Rd",
     "sg:city":"Great Valley",
     "sg:classifiers":[
@@ -27,8 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85977565,
+        102081853,
+        85812901
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +42,18 @@
     "wof:geomhash":"a07e26c77b17a42f2d9d122209a80eaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081853,
+            "locality_id":85977565,
+            "neighbourhood_id":85812901,
             "region_id":85688543,
             "venue_id":253125781
         }
     ],
     "wof:id":253125781,
-    "wof:lastmodified":1449065695,
+    "wof:lastmodified":1454130727,
     "wof:name":"Eberle Painting Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85812901,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +61,11 @@
         "painter"
     ]
 },
-  "bbox": [-78.618248,42.200319,-78.618248,42.200319],
-  "geometry": {"coordinates":[-78.618248,42.200319],"type":"Point"}
+  "bbox": [
+    -78.618248,
+    42.200319,
+    -78.618248,
+    42.200319
+],
+  "geometry": {"coordinates":[-78.61824799999999,42.200319],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286460849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.967723,40.877557,-72.967723,40.877557",
     "geom:latitude":40.877557,
     "geom:longitude":-72.967723,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Middle Country Rd",
     "sg:city":"Middle Island",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"b0ea32b9ce8b9b7f398d72c5c0c47bb3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":286460849
         }
     ],
     "wof:id":286460849,
-    "wof:lastmodified":1449017923,
+    "wof:lastmodified":1454125884,
     "wof:name":"Hough & Guidice Realty Assoc",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-72.967723,40.877557,-72.967723,40.877557],
-  "geometry": {"coordinates":[-72.967723,40.877557],"type":"Point"}
+  "bbox": [
+    -72.967723,
+    40.877557,
+    -72.967723,
+    40.877557
+],
+  "geometry": {"coordinates":[-72.96772300000001,40.877557],"type":"Point"}
 }

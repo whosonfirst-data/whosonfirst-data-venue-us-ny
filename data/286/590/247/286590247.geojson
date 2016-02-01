@@ -2,13 +2,14 @@
   "id": 286590247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.902219,40.930486,-73.902219,40.930486",
     "geom:latitude":40.930486,
     "geom:longitude":-73.902219,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"70 Hawthorne Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881887,
+        102191575,
+        404523397,
         85633793,
         85978759,
         102082373,
-        85881887
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ad7f4a4a58840cb604755ce77b0afd64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
             "neighbourhood_id":85881887,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":286590247,
-    "wof:lastmodified":1449016947,
+    "wof:lastmodified":1454125711,
     "wof:name":"Ortizl PO",
     "wof:parent_id":85881887,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.902219,40.930486,-73.902219,40.930486],
+  "bbox": [
+    -73.902219,
+    40.930486,
+    -73.902219,
+    40.930486
+],
   "geometry": {"coordinates":[-73.902219,40.930486],"type":"Point"}
 }

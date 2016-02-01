@@ -2,13 +2,14 @@
   "id": 253363853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.939332,40.805137,-73.939332,40.805137",
     "geom:latitude":40.805137,
     "geom:longitude":-73.939332,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"54 E 125th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865689,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865689
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"19ff3ac4c34d41b3507d28d17e54ff89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865689,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":253363853,
-    "wof:lastmodified":1449065417,
+    "wof:lastmodified":1454130679,
     "wof:name":"Ms Sporting Corp",
     "wof:parent_id":85865689,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "sportswear"
     ]
 },
-  "bbox": [-73.939332,40.805137,-73.939332,40.805137],
-  "geometry": {"coordinates":[-73.939332,40.805137],"type":"Point"}
+  "bbox": [
+    -73.939332,
+    40.805137,
+    -73.939332,
+    40.805137
+],
+  "geometry": {"coordinates":[-73.93933199999999,40.805137],"type":"Point"}
 }

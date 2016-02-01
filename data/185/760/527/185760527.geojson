@@ -2,13 +2,14 @@
   "id": 185760527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.976079,40.657606,-73.976079,40.657606",
     "geom:latitude":40.657606,
     "geom:longitude":-73.976079,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"255 Windsor Place",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869821,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85869821
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"c2dc867f6502069954cf2bd0b6f22fe0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869821,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":185760527,
-    "wof:lastmodified":1449008130,
+    "wof:lastmodified":1454124343,
     "wof:name":"Windsor Place Physical Therapy",
     "wof:parent_id":85869821,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "physical"
     ]
 },
-  "bbox": [-73.976079,40.657606,-73.976079,40.657606],
+  "bbox": [
+    -73.976079,
+    40.657606,
+    -73.976079,
+    40.657606
+],
   "geometry": {"coordinates":[-73.976079,40.657606],"type":"Point"}
 }

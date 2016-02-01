@@ -2,13 +2,14 @@
   "id": 320276305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.096593,41.159234,-74.096593,41.159234",
     "geom:latitude":41.159234,
     "geom:longitude":-74.096593,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Spook Rock Rd",
     "sg:city":"Suffern",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853951,
+        102191575,
+        404523097,
         85633793,
-        85978527,
-        102082385
+        85979973,
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"7a46aedf7afef244bbb62aad42086543",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85978527,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523097,
+            "locality_id":85979973,
+            "neighbourhood_id":85853951,
             "region_id":85688543,
             "venue_id":320276305
         }
     ],
     "wof:id":320276305,
-    "wof:lastmodified":1449011395,
+    "wof:lastmodified":1454124783,
     "wof:name":"Northeast Duct Sweeps",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853951,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-74.096593,41.159234,-74.096593,41.159234],
+  "bbox": [
+    -74.096593,
+    41.159234,
+    -74.096593,
+    41.159234
+],
   "geometry": {"coordinates":[-74.096593,41.159234],"type":"Point"}
 }

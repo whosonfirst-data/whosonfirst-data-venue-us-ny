@@ -2,13 +2,14 @@
   "id": 252978677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.419018,40.824565,-73.419018,40.824565",
     "geom:latitude":40.824565,
     "geom:longitude":-73.419018,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Peartree Ln",
     "sg:city":"Huntington Station",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     "sg:website":"www.plantparenthood.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85830997,
+        102191575,
+        404522515,
         85633793,
         85979695,
         102082395,
-        85830997
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"0fda15a325f47b84acbd94a6da32cfb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85979695,
             "neighbourhood_id":85830997,
             "region_id":85688543,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":252978677,
-    "wof:lastmodified":1449006037,
+    "wof:lastmodified":1454124067,
     "wof:name":"Plannned Parenthood Inc",
     "wof:parent_id":85830997,
     "wof:placetype":"venue",
@@ -79,6 +83,11 @@
         "landscape"
     ]
 },
-  "bbox": [-73.419018,40.824565,-73.419018,40.824565],
-  "geometry": {"coordinates":[-73.419018,40.824565],"type":"Point"}
+  "bbox": [
+    -73.419018,
+    40.824565,
+    -73.419018,
+    40.824565
+],
+  "geometry": {"coordinates":[-73.41901799999999,40.824565],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303348365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.601571,43.156824,-77.601571,43.156824",
     "geom:latitude":43.156824,
     "geom:longitude":-77.601571,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"111 East Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867091,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85867091
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"857a4dbca17a5e9241d189c18f6424a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85867091,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":303348365,
-    "wof:lastmodified":1448998222,
+    "wof:lastmodified":1454123022,
     "wof:name":"East Avenue Commons",
     "wof:parent_id":85867091,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "commercial"
     ]
 },
-  "bbox": [-77.601571,43.156824,-77.601571,43.156824],
-  "geometry": {"coordinates":[-77.601571,43.156824],"type":"Point"}
+  "bbox": [
+    -77.601571,
+    43.156824,
+    -77.601571,
+    43.156824
+],
+  "geometry": {"coordinates":[-77.60157100000001,43.156824],"type":"Point"}
 }

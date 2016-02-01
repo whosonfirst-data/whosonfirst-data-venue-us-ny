@@ -2,13 +2,14 @@
   "id": 253108157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.460614,43.255503,-75.460614,43.255503",
     "geom:latitude":43.255503,
     "geom:longitude":-75.460614,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8170 Turin Rd",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529303,
+        102191575,
+        404522697,
         85633793,
         85978369,
-        102083149
+        102083149,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"39e5909a1fde2e01a963e92457ecf221",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083149,
+            "localadmin_id":404522697,
             "locality_id":85978369,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529303,
             "region_id":85688543,
             "venue_id":253108157
         }
     ],
     "wof:id":253108157,
-    "wof:lastmodified":1449062872,
+    "wof:lastmodified":1454130251,
     "wof:name":"Marcellus Overhead Door Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529303,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-75.460614,43.255503,-75.460614,43.255503],
-  "geometry": {"coordinates":[-75.460614,43.255503],"type":"Point"}
+  "bbox": [
+    -75.460614,
+    43.255503,
+    -75.460614,
+    43.255503
+],
+  "geometry": {"coordinates":[-75.46061400000001,43.255503],"type":"Point"}
 }

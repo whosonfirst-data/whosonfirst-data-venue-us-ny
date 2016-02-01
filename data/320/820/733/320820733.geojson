@@ -2,13 +2,14 @@
   "id": 320820733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.986708,40.672767,-73.986708,40.672767",
     "geom:latitude":40.672767,
     "geom:longitude":-73.986708,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"330 5th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840609,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85840609
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"76f5c5d1d9175406ecb1d94d18b81759",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85840609,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":320820733,
-    "wof:lastmodified":1449013187,
+    "wof:lastmodified":1454125077,
     "wof:name":"Atm World",
     "wof:parent_id":85840609,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "automated"
     ]
 },
-  "bbox": [-73.986708,40.672767,-73.986708,40.672767],
-  "geometry": {"coordinates":[-73.986708,40.672767],"type":"Point"}
+  "bbox": [
+    -73.986708,
+    40.672767,
+    -73.986708,
+    40.672767
+],
+  "geometry": {"coordinates":[-73.98670799999999,40.672767],"type":"Point"}
 }

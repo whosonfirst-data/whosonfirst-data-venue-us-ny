@@ -2,13 +2,14 @@
   "id": 370623471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.426601,43.846754,-73.426601,43.846754",
     "geom:latitude":43.846754,
     "geom:longitude":-73.426601,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"22 Father Joques Pl",
     "sg:city":"Ticonderoga",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820233,
+        102191575,
+        404522389,
         85633793,
+        85978885,
         102082405,
-        85820233
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"b6f9cd07836caa4d1e645819c7d38833",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082405,
-            "locality_id":-1,
+            "localadmin_id":404522389,
+            "locality_id":85978885,
             "neighbourhood_id":85820233,
             "region_id":85688543,
             "venue_id":370623471
         }
     ],
     "wof:id":370623471,
-    "wof:lastmodified":1449031462,
+    "wof:lastmodified":1454128013,
     "wof:name":"St Mary's Church",
     "wof:parent_id":85820233,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "church"
     ]
 },
-  "bbox": [-73.426601,43.846754,-73.426601,43.846754],
-  "geometry": {"coordinates":[-73.426601,43.846754],"type":"Point"}
+  "bbox": [
+    -73.426601,
+    43.846754,
+    -73.426601,
+    43.846754
+],
+  "geometry": {"coordinates":[-73.42660100000001,43.846754],"type":"Point"}
 }

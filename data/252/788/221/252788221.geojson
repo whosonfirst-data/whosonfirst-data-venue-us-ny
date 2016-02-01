@@ -2,13 +2,14 @@
   "id": 252788221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.728729,40.648705,-73.728729,40.648705",
     "geom:latitude":40.648705,
     "geom:longitude":-73.728729,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"721 Gilbert Pl",
     "sg:city":"Valley Stream",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845957,
+        102191575,
+        404521473,
         85633793,
-        85977539,
-        102082377,
-        85845957
+        85979053,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"a69e0a52f4583e792fd76e24740a92c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404521473,
+            "locality_id":85979053,
             "neighbourhood_id":85845957,
             "region_id":85688543,
             "venue_id":252788221
         }
     ],
     "wof:id":252788221,
-    "wof:lastmodified":1449005981,
+    "wof:lastmodified":1454124059,
     "wof:name":"Martin Jackson & Assoc Inc",
     "wof:parent_id":85845957,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.728729,40.648705,-73.728729,40.648705],
+  "bbox": [
+    -73.728729,
+    40.648705,
+    -73.728729,
+    40.648705
+],
   "geometry": {"coordinates":[-73.728729,40.648705],"type":"Point"}
 }

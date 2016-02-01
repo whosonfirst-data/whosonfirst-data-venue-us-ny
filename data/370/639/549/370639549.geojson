@@ -2,13 +2,14 @@
   "id": 370639549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.908699,41.569698,-73.908699,41.569698",
     "geom:latitude":41.569698,
     "geom:longitude":-73.908699,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"Imperial Plz",
     "sg:city":"Wappingers Falls",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528475,
+        102191575,
+        404522225,
         85633793,
+        85979249,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"509e7cf78be543eb1efa592f67080815",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522225,
+            "locality_id":85979249,
+            "neighbourhood_id":420528475,
             "region_id":85688543,
             "venue_id":370639549
         }
     ],
     "wof:id":370639549,
-    "wof:lastmodified":1449032449,
+    "wof:lastmodified":1454128306,
     "wof:name":"Longobardi Italian Restaurant & Pizzeria",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528475,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "pizza"
     ]
 },
-  "bbox": [-73.908699,41.569698,-73.908699,41.569698],
+  "bbox": [
+    -73.908699,
+    41.569698,
+    -73.908699,
+    41.569698
+],
   "geometry": {"coordinates":[-73.908699,41.569698],"type":"Point"}
 }

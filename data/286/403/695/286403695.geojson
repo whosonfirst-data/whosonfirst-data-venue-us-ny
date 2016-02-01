@@ -2,13 +2,14 @@
   "id": 286403695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.451371,40.782608,-73.451371,40.782608",
     "geom:latitude":40.782608,
     "geom:longitude":-73.451371,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"41 Werman Ct",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"2f2428733a079dbe3ef240bfdd18a8b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":286403695
         }
     ],
     "wof:id":286403695,
-    "wof:lastmodified":1449017690,
+    "wof:lastmodified":1454125843,
     "wof:name":"Marla Peck Assoc",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "cable"
     ]
 },
-  "bbox": [-73.451371,40.782608,-73.451371,40.782608],
-  "geometry": {"coordinates":[-73.451371,40.782608],"type":"Point"}
+  "bbox": [
+    -73.451371,
+    40.782608,
+    -73.451371,
+    40.782608
+],
+  "geometry": {"coordinates":[-73.45137099999999,40.782608],"type":"Point"}
 }

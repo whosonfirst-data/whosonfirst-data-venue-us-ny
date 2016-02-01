@@ -2,13 +2,14 @@
   "id": 370644871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.898015,41.573118,-73.898015,41.573118",
     "geom:latitude":41.573118,
     "geom:longitude":-73.898015,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Scarborough Ln Ste C",
     "sg:city":"Wappingers Falls",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528475,
+        102191575,
+        404522225,
         85633793,
+        85979249,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"9dc2a1b78f5eff8a6bdb0ae0ebfb0fcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522225,
+            "locality_id":85979249,
+            "neighbourhood_id":420528475,
             "region_id":85688543,
             "venue_id":370644871
         }
     ],
     "wof:id":370644871,
-    "wof:lastmodified":1449031008,
+    "wof:lastmodified":1454127880,
     "wof:name":"Euro-Tech General Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528475,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.898015,41.573118,-73.898015,41.573118],
+  "bbox": [
+    -73.898015,
+    41.573118,
+    -73.898015,
+    41.573118
+],
   "geometry": {"coordinates":[-73.898015,41.573118],"type":"Point"}
 }

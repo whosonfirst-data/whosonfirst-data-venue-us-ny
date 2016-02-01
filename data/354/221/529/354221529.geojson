@@ -2,13 +2,14 @@
   "id": 354221529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.570617,40.751192,-73.570617,40.751192",
     "geom:latitude":40.751192,
     "geom:longitude":-73.570617,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"730 Old Country Rd",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846785,
+        102191575,
+        404521473,
         85633793,
-        85979093,
+        85979181,
         102082371,
-        85846785
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"bb38070cf12e4488e49381e444fa0fba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979093,
+            "localadmin_id":404521473,
+            "locality_id":85979181,
             "neighbourhood_id":85846785,
             "region_id":85688543,
             "venue_id":354221529
         }
     ],
     "wof:id":354221529,
-    "wof:lastmodified":1449066662,
+    "wof:lastmodified":1454130995,
     "wof:name":"Westbury Tire & Auto Svc",
     "wof:parent_id":85846785,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "tire"
     ]
 },
-  "bbox": [-73.570617,40.751192,-73.570617,40.751192],
+  "bbox": [
+    -73.570617,
+    40.751192,
+    -73.570617,
+    40.751192
+],
   "geometry": {"coordinates":[-73.570617,40.751192],"type":"Point"}
 }

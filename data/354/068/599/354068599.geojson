@@ -2,13 +2,14 @@
   "id": 354068599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.249677,40.725257,-73.249677,40.725257",
     "geom:latitude":40.725257,
     "geom:longitude":-73.249677,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1745 Union Blvd Ste 1",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.familymedicalny.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530027,
+        102191575,
+        404522517,
         85633793,
         85979719,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"cce6e0a2b28d4d112a529c4dfe45b9a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530027,
             "region_id":85688543,
             "venue_id":354068599
         }
     ],
     "wof:id":354068599,
-    "wof:lastmodified":1449066803,
+    "wof:lastmodified":1454131036,
     "wof:name":"Family Medical Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530027,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "family"
     ]
 },
-  "bbox": [-73.249677,40.725257,-73.249677,40.725257],
-  "geometry": {"coordinates":[-73.249677,40.725257],"type":"Point"}
+  "bbox": [
+    -73.249677,
+    40.725257,
+    -73.249677,
+    40.725257
+],
+  "geometry": {"coordinates":[-73.24967700000001,40.725257],"type":"Point"}
 }

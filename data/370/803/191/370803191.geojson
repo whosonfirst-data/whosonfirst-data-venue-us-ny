@@ -2,13 +2,14 @@
   "id": 370803191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.254021,40.886084,-73.254021,40.886084",
     "geom:latitude":40.886084,
     "geom:longitude":-73.254021,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Church St",
     "sg:city":"Kings Park",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.kpcsd.k12.ny.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820223,
+        102191575,
+        404522515,
         85633793,
-        85979669,
-        102082395
+        85979713,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"a0d8c2ccf67a64bc745590035678e575",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979669,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522515,
+            "locality_id":85979713,
+            "neighbourhood_id":85820223,
             "region_id":85688543,
             "venue_id":370803191
         }
     ],
     "wof:id":370803191,
-    "wof:lastmodified":1449032514,
+    "wof:lastmodified":1454128327,
     "wof:name":"Kings Park Central School Dist",
-    "wof:parent_id":-1,
+    "wof:parent_id":85820223,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.254021,40.886084,-73.254021,40.886084],
-  "geometry": {"coordinates":[-73.254021,40.886084],"type":"Point"}
+  "bbox": [
+    -73.254021,
+    40.886084,
+    -73.254021,
+    40.886084
+],
+  "geometry": {"coordinates":[-73.25402099999999,40.886084],"type":"Point"}
 }

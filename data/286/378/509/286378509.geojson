@@ -2,13 +2,14 @@
   "id": 286378509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.453436,41.270025,-74.453436,41.270025",
     "geom:latitude":41.270025,
     "geom:longitude":-74.453436,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"111 Newport Bridge Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85803035,
+        102083061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"a5773d1ad307860ab3a5db5dddda2ef3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083061,
+            "neighbourhood_id":85803035,
             "region_id":85688543,
             "venue_id":286378509
         }
     ],
     "wof:id":286378509,
-    "wof:lastmodified":1449017170,
+    "wof:lastmodified":1454125748,
     "wof:name":"Weale's Custom Upholstery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803035,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "upholsterer"
     ]
 },
-  "bbox": [-74.453436,41.270025,-74.453436,41.270025],
+  "bbox": [
+    -74.453436,
+    41.270025,
+    -74.453436,
+    41.270025
+],
   "geometry": {"coordinates":[-74.453436,41.270025],"type":"Point"}
 }

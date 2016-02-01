@@ -2,13 +2,14 @@
   "id": 319896179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.718117,41.406941,-73.718117,41.406941",
     "geom:latitude":41.406941,
     "geom:longitude":-73.718117,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"76 Anton Dr",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529685,
+        102191575,
+        404523047,
         85633793,
+        85979559,
+        102083007,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"adf71d5fcc646896c2db003623e9e1ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083007,
+            "localadmin_id":404523047,
+            "locality_id":85979559,
+            "neighbourhood_id":420529685,
             "region_id":85688543,
             "venue_id":319896179
         }
     ],
     "wof:id":319896179,
-    "wof:lastmodified":1449024361,
+    "wof:lastmodified":1454126763,
     "wof:name":"Lagsten Publishing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529685,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "publishing"
     ]
 },
-  "bbox": [-73.718117,41.406941,-73.718117,41.406941],
-  "geometry": {"coordinates":[-73.718117,41.406941],"type":"Point"}
+  "bbox": [
+    -73.718117,
+    41.406941,
+    -73.718117,
+    41.406941
+],
+  "geometry": {"coordinates":[-73.71811700000001,41.406941],"type":"Point"}
 }

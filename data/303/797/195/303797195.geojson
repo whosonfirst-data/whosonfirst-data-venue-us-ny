@@ -2,13 +2,14 @@
   "id": 303797195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.853483,40.830896,-73.853483,40.830896",
     "geom:latitude":40.830896,
     "geom:longitude":-73.853483,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2072 Cross Bronx Expy",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853099,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85853099
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"687234b04b0ad22dc43aad2aa3b22dd7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853099,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":303797195,
-    "wof:lastmodified":1449000325,
+    "wof:lastmodified":1454123657,
     "wof:name":"Kwb Bakery",
     "wof:parent_id":85853099,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.853483,40.830896,-73.853483,40.830896],
+  "bbox": [
+    -73.853483,
+    40.830896,
+    -73.853483,
+    40.830896
+],
   "geometry": {"coordinates":[-73.853483,40.830896],"type":"Point"}
 }

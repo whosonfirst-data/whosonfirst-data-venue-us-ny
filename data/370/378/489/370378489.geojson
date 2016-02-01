@@ -2,13 +2,14 @@
   "id": 370378489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.040468,41.130889,-74.040468,41.130889",
     "geom:latitude":41.130889,
     "geom:longitude":-74.040468,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"312 N Main St",
     "sg:city":"Spring Valley",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"fbbc2d863026e5a2cc229b1645f1005f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":370378489
         }
     ],
     "wof:id":370378489,
-    "wof:lastmodified":1449031366,
+    "wof:lastmodified":1454127986,
     "wof:name":"Pepes Pizza",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-74.040468,41.130889,-74.040468,41.130889],
+  "bbox": [
+    -74.040468,
+    41.130889,
+    -74.040468,
+    41.130889
+],
   "geometry": {"coordinates":[-74.040468,41.130889],"type":"Point"}
 }

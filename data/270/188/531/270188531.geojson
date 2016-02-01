@@ -2,13 +2,14 @@
   "id": 270188531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.9172,41.66609,-73.9172,41.66609",
     "geom:latitude":41.66609,
     "geom:longitude":-73.9172,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Scott Ter",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85846345,
+        102082363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"7020f8e8a8f51825edc7beb2c5878995",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "neighbourhood_id":85846345,
             "region_id":85688543,
             "venue_id":270188531
         }
     ],
     "wof:id":270188531,
-    "wof:lastmodified":1449009852,
+    "wof:lastmodified":1454124544,
     "wof:name":"Portrait Imaging Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846345,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "photo"
     ]
 },
-  "bbox": [-73.9172,41.66609,-73.9172,41.66609],
-  "geometry": {"coordinates":[-73.9172,41.66609],"type":"Point"}
+  "bbox": [
+    -73.9172,
+    41.66609,
+    -73.9172,
+    41.66609
+],
+  "geometry": {"coordinates":[-73.91719999999999,41.66609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370298591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.665607,40.655623,-73.665607,40.655623",
     "geom:latitude":40.655623,
     "geom:longitude":-73.665607,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"135 Denton Ave",
     "sg:city":"Island Park",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829437,
+        102191575,
+        404521473,
         85633793,
-        85979129,
+        85979057,
         102082371,
-        85829437
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"a1122023db523be0c69af6916bf3ea64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979129,
+            "localadmin_id":404521473,
+            "locality_id":85979057,
             "neighbourhood_id":85829437,
             "region_id":85688543,
             "venue_id":370298591
         }
     ],
     "wof:id":370298591,
-    "wof:lastmodified":1449030021,
+    "wof:lastmodified":1454127586,
     "wof:name":"Telcom Telephone Inc",
     "wof:parent_id":85829437,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.665607,40.655623,-73.665607,40.655623],
-  "geometry": {"coordinates":[-73.665607,40.655623],"type":"Point"}
+  "bbox": [
+    -73.665607,
+    40.655623,
+    -73.665607,
+    40.655623
+],
+  "geometry": {"coordinates":[-73.66560699999999,40.655623],"type":"Point"}
 }

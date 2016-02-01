@@ -2,13 +2,14 @@
   "id": 319904335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.853503,40.943949,-72.853503,40.943949",
     "geom:latitude":40.943949,
     "geom:longitude":-72.853503,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"271 Rte 25A",
     "sg:city":"Wading River",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
         85979677,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"ac802194645a570da8873e3a7eaca485",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979677,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":319904335
         }
     ],
     "wof:id":319904335,
-    "wof:lastmodified":1449024895,
+    "wof:lastmodified":1454126851,
     "wof:name":"North Fork Radiology",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-72.853503,40.943949,-72.853503,40.943949],
+  "bbox": [
+    -72.853503,
+    40.943949,
+    -72.853503,
+    40.943949
+],
   "geometry": {"coordinates":[-72.853503,40.943949],"type":"Point"}
 }

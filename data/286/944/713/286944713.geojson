@@ -2,13 +2,14 @@
   "id": 286944713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.499863,40.68725,-73.499863,40.68725",
     "geom:latitude":40.68725,
     "geom:longitude":-73.499863,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1400 Poulson St",
     "sg:city":"Wantagh",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529177,
+        102191575,
+        404521473,
         85633793,
         85979065,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"b0d102723bd95c42468cdee9fb733938",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979065,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529177,
             "region_id":85688543,
             "venue_id":286944713
         }
     ],
     "wof:id":286944713,
-    "wof:lastmodified":1449016663,
+    "wof:lastmodified":1454125657,
     "wof:name":"Pual C Cochran",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529177,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "clergy"
     ]
 },
-  "bbox": [-73.499863,40.68725,-73.499863,40.68725],
+  "bbox": [
+    -73.499863,
+    40.68725,
+    -73.499863,
+    40.68725
+],
   "geometry": {"coordinates":[-73.499863,40.68725],"type":"Point"}
 }

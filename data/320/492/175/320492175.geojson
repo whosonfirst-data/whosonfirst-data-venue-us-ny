@@ -2,13 +2,14 @@
   "id": 320492175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.413398,41.284765,-74.413398,41.284765",
     "geom:latitude":41.284765,
     "geom:longitude":-74.413398,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"62 Big Island Rd",
     "sg:city":"Warwick",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85831027,
+        102083061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"d123b551e07afdab03c7ba680efeb0ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083061,
+            "neighbourhood_id":85831027,
             "region_id":85688543,
             "venue_id":320492175
         }
     ],
     "wof:id":320492175,
-    "wof:lastmodified":1449011258,
+    "wof:lastmodified":1454124762,
     "wof:name":"Island Electric",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831027,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.413398,41.284765,-74.413398,41.284765],
+  "bbox": [
+    -74.413398,
+    41.284765,
+    -74.413398,
+    41.284765
+],
   "geometry": {"coordinates":[-74.413398,41.284765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370271567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.079403,40.739906,-73.079403,40.739906",
     "geom:latitude":40.739906,
     "geom:longitude":-73.079403,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"239 N Main St",
     "sg:city":"Sayville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"72b083761f5dcaf53d6911d0d1c6f1f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":370271567
         }
     ],
     "wof:id":370271567,
-    "wof:lastmodified":1449030855,
+    "wof:lastmodified":1454127834,
     "wof:name":"Tasty Garden Corp",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.079403,40.739906,-73.079403,40.739906],
+  "bbox": [
+    -73.079403,
+    40.739906,
+    -73.079403,
+    40.739906
+],
   "geometry": {"coordinates":[-73.079403,40.739906],"type":"Point"}
 }

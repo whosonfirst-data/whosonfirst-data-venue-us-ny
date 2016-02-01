@@ -2,13 +2,14 @@
   "id": 270372929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.722095,40.601754,-73.722095,40.601754",
     "geom:latitude":40.601754,
     "geom:longitude":-73.722095,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"240 Causeway Rd",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85818909,
+        102191575,
+        404521473,
         85633793,
         85977631,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"04813ce97b9382e76960e07c12ca4365",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977631,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85818909,
             "region_id":85688543,
             "venue_id":270372929
         }
     ],
     "wof:id":270372929,
-    "wof:lastmodified":1449010120,
+    "wof:lastmodified":1454124586,
     "wof:name":"Eagle Eye Fishing Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85818909,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "fishing"
     ]
 },
-  "bbox": [-73.722095,40.601754,-73.722095,40.601754],
+  "bbox": [
+    -73.722095,
+    40.601754,
+    -73.722095,
+    40.601754
+],
   "geometry": {"coordinates":[-73.722095,40.601754],"type":"Point"}
 }

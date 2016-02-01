@@ -2,13 +2,14 @@
   "id": 287277303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.866556,41.847786,-73.866556,41.847786",
     "geom:latitude":41.847786,
     "geom:longitude":-73.866556,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"106 Hollow Rd",
     "sg:city":"Staatsburg",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85868683,
+        102082363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"1b9a9f3da40e6e4de863ab063dea0227",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "neighbourhood_id":85868683,
             "region_id":85688543,
             "venue_id":287277303
         }
     ],
     "wof:id":287277303,
-    "wof:lastmodified":1449000760,
+    "wof:lastmodified":1454123773,
     "wof:name":"Aladdin Tent Rentals Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85868683,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.866556,41.847786,-73.866556,41.847786],
+  "bbox": [
+    -73.866556,
+    41.847786,
+    -73.866556,
+    41.847786
+],
   "geometry": {"coordinates":[-73.866556,41.847786],"type":"Point"}
 }

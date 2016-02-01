@@ -2,13 +2,14 @@
   "id": 320686393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.997426,40.733988,-73.997426,40.733988",
     "geom:latitude":40.733988,
     "geom:longitude":-73.997426,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"54 W 10 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529189,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"2f2e41e093e4b09b02f3dc8d130aa652",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529189,
             "region_id":85688543,
             "venue_id":320686393
         }
     ],
     "wof:id":320686393,
-    "wof:lastmodified":1449014056,
+    "wof:lastmodified":1454125217,
     "wof:name":"Matera Alessio F",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529189,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "apartment"
     ]
 },
-  "bbox": [-73.997426,40.733988,-73.997426,40.733988],
+  "bbox": [
+    -73.997426,
+    40.733988,
+    -73.997426,
+    40.733988
+],
   "geometry": {"coordinates":[-73.997426,40.733988],"type":"Point"}
 }

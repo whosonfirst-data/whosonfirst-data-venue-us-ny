@@ -2,13 +2,14 @@
   "id": 253548285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.929234,40.830797,-73.929234,40.830797",
     "geom:latitude":40.830797,
     "geom:longitude":-73.929234,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"936 Woodycrest Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869335,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869335
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"1588d0d261f71e643dd42ecb78158c75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869335,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":253548285,
-    "wof:lastmodified":1449064886,
+    "wof:lastmodified":1454130591,
     "wof:name":"Sutton Medical Labs",
     "wof:parent_id":85869335,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-73.929234,40.830797,-73.929234,40.830797],
-  "geometry": {"coordinates":[-73.929234,40.830797],"type":"Point"}
+  "bbox": [
+    -73.929234,
+    40.830797,
+    -73.929234,
+    40.830797
+],
+  "geometry": {"coordinates":[-73.92923399999999,40.830797],"type":"Point"}
 }

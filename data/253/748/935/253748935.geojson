@@ -2,13 +2,14 @@
   "id": 253748935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.897632,40.891761,-73.897632,40.891761",
     "geom:latitude":40.891761,
     "geom:longitude":-73.897632,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6060 Broadway",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869385,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869385
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"5457892afba12b06c8ff73ad34a77617",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869385,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":253748935,
-    "wof:lastmodified":1449065037,
+    "wof:lastmodified":1454130618,
     "wof:name":"Emergency Locksmith",
     "wof:parent_id":85869385,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-73.897632,40.891761,-73.897632,40.891761],
+  "bbox": [
+    -73.897632,
+    40.891761,
+    -73.897632,
+    40.891761
+],
   "geometry": {"coordinates":[-73.897632,40.891761],"type":"Point"}
 }

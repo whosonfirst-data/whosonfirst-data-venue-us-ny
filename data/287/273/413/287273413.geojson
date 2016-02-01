@@ -2,13 +2,14 @@
   "id": 287273413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.152263,41.040238,-72.152263,41.040238",
     "geom:latitude":41.040238,
     "geom:longitude":-72.152263,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"47 Dorset Rd",
     "sg:city":"East Hampton",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558567,
+        102191575,
+        404521445,
         85633793,
         85979915,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"99dda3ce42b986d8db8d3850e1cdfe15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521445,
             "locality_id":85979915,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558567,
             "region_id":85688543,
             "venue_id":287273413
         }
     ],
     "wof:id":287273413,
-    "wof:lastmodified":1449001119,
+    "wof:lastmodified":1454123860,
     "wof:name":"Provender International Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558567,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "specialty"
     ]
 },
-  "bbox": [-72.152263,41.040238,-72.152263,41.040238],
+  "bbox": [
+    -72.152263,
+    41.040238,
+    -72.152263,
+    41.040238
+],
   "geometry": {"coordinates":[-72.152263,41.040238],"type":"Point"}
 }

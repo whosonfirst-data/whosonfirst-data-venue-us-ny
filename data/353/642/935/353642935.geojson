@@ -2,13 +2,14 @@
   "id": 353642935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.813854,40.682745,-73.813854,40.682745",
     "geom:latitude":40.682745,
     "geom:longitude":-73.813854,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12711 111th Avenue",
     "sg:city":"South Ozone Park",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844441,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844441
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"07db0b1024e710877232fa615de4a4e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844441,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":353642935,
-    "wof:lastmodified":1449018403,
+    "wof:lastmodified":1454125992,
     "wof:name":"Caring Hands Physical Therapy",
     "wof:parent_id":85844441,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "physical"
     ]
 },
-  "bbox": [-73.813854,40.682745,-73.813854,40.682745],
-  "geometry": {"coordinates":[-73.813854,40.682745],"type":"Point"}
+  "bbox": [
+    -73.813854,
+    40.682745,
+    -73.813854,
+    40.682745
+],
+  "geometry": {"coordinates":[-73.81385400000001,40.682745],"type":"Point"}
 }

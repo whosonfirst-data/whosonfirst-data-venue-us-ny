@@ -2,13 +2,14 @@
   "id": 319922367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.986858,40.641173,-73.986858,40.641173",
     "geom:latitude":40.641173,
     "geom:longitude":-73.986858,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1237 39th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"0bc4baebf921c03d8def4afd25f3dd6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":319922367
         }
     ],
     "wof:id":319922367,
-    "wof:lastmodified":1449024178,
+    "wof:lastmodified":1454126729,
     "wof:name":"Us Bidan",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.986858,40.641173,-73.986858,40.641173],
+  "bbox": [
+    -73.986858,
+    40.641173,
+    -73.986858,
+    40.641173
+],
   "geometry": {"coordinates":[-73.986858,40.641173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371073773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.865216,42.913371,-78.865216,42.913371",
     "geom:latitude":42.913371,
     "geom:longitude":-78.865216,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1468 Main St Rear",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -86,11 +87,13 @@
     "sg:website":"http://buffalo.citysearch.com/profile/external/47167933/buffalo_ny/sherwin_williams_company.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872869,
+        102191575,
+        404522329,
         85633793,
         85978023,
         102082387,
-        85872869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,9 +103,10 @@
     "wof:geomhash":"aa5e33e221e369227c999e28a5193f91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
             "neighbourhood_id":85872869,
             "region_id":85688543,
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":371073773,
-    "wof:lastmodified":1449049163,
+    "wof:lastmodified":1454129066,
     "wof:name":"Sherwin-Williams Company",
     "wof:parent_id":85872869,
     "wof:placetype":"venue",
@@ -138,6 +142,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-78.865216,42.913371,-78.865216,42.913371],
+  "bbox": [
+    -78.865216,
+    42.913371,
+    -78.865216,
+    42.913371
+],
   "geometry": {"coordinates":[-78.865216,42.913371],"type":"Point"}
 }

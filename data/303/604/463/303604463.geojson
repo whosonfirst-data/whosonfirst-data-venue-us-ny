@@ -2,13 +2,14 @@
   "id": 303604463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.955163,41.049745,-73.955163,41.049745",
     "geom:latitude":41.049745,
     "geom:longitude":-73.955163,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 Dutch Hill Rd",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836399,
+        102191575,
+        404523095,
         85633793,
         85980003,
         102082385,
-        85836399
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"232bb96c80af89316d9f4400e6eec582",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523095,
             "locality_id":85980003,
             "neighbourhood_id":85836399,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303604463,
-    "wof:lastmodified":1449000284,
+    "wof:lastmodified":1454123647,
     "wof:name":"Hogan's Diner",
     "wof:parent_id":85836399,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.955163,41.049745,-73.955163,41.049745],
+  "bbox": [
+    -73.955163,
+    41.049745,
+    -73.955163,
+    41.049745
+],
   "geometry": {"coordinates":[-73.955163,41.049745],"type":"Point"}
 }

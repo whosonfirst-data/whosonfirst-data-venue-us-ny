@@ -2,13 +2,14 @@
   "id": 387519855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.068572,42.094864,-76.068572,42.094864",
     "geom:latitude":42.094864,
     "geom:longitude":-76.068572,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"203 W Main St",
     "sg:city":"Endicott",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528091,
+        102191575,
+        404521829,
         85633793,
         85977985,
-        102081755
+        102081755,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"50c7b1880d8d2fdc9624f060c7f69f4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
+            "localadmin_id":404521829,
             "locality_id":85977985,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528091,
             "region_id":85688543,
             "venue_id":387519855
         }
     ],
     "wof:id":387519855,
-    "wof:lastmodified":1449059667,
+    "wof:lastmodified":1454130165,
     "wof:name":"Loucks & Crounse Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "engineer"
     ]
 },
-  "bbox": [-76.068572,42.094864,-76.068572,42.094864],
+  "bbox": [
+    -76.068572,
+    42.094864,
+    -76.068572,
+    42.094864
+],
   "geometry": {"coordinates":[-76.068572,42.094864],"type":"Point"}
 }

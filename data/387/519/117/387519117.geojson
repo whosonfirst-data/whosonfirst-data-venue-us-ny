@@ -2,13 +2,14 @@
   "id": 387519117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.66061,40.814485,-73.66061,40.814485",
     "geom:latitude":40.814485,
     "geom:longitude":-73.66061,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"27 Seaview Blvd",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819663,
+        102191575,
+        404522729,
         85633793,
-        85977681,
+        85977685,
         102082371,
-        85819663
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"2a64461c684f91a38f08f8c460104e6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977681,
+            "localadmin_id":404522729,
+            "locality_id":85977685,
             "neighbourhood_id":85819663,
             "region_id":85688543,
             "venue_id":387519117
         }
     ],
     "wof:id":387519117,
-    "wof:lastmodified":1449059668,
+    "wof:lastmodified":1454130165,
     "wof:name":"Rockland Precision Gearmotors",
     "wof:parent_id":85819663,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "gear"
     ]
 },
-  "bbox": [-73.66061,40.814485,-73.66061,40.814485],
-  "geometry": {"coordinates":[-73.66061,40.814485],"type":"Point"}
+  "bbox": [
+    -73.66061,
+    40.814485,
+    -73.66061,
+    40.814485
+],
+  "geometry": {"coordinates":[-73.66061000000001,40.814485],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353828315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.624901,40.7094,-73.624901,40.7094",
     "geom:latitude":40.7094,
     "geom:longitude":-73.624901,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"62 Nichols Ct Ste 201",
     "sg:city":"Hempstead",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892743,
+        102191575,
+        404521473,
         85633793,
-        85979175,
+        85977663,
         102082371,
-        85892743
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"eda76cd3a23686e14f6424ba4c8d31e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979175,
+            "localadmin_id":404521473,
+            "locality_id":85977663,
             "neighbourhood_id":85892743,
             "region_id":85688543,
             "venue_id":353828315
         }
     ],
     "wof:id":353828315,
-    "wof:lastmodified":1449019565,
+    "wof:lastmodified":1454126330,
     "wof:name":"A & R Inspection Svces",
     "wof:parent_id":85892743,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "inspector"
     ]
 },
-  "bbox": [-73.624901,40.7094,-73.624901,40.7094],
-  "geometry": {"coordinates":[-73.624901,40.7094],"type":"Point"}
+  "bbox": [
+    -73.624901,
+    40.7094,
+    -73.624901,
+    40.7094
+],
+  "geometry": {"coordinates":[-73.62490099999999,40.7094],"type":"Point"}
 }

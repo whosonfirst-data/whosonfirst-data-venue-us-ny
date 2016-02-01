@@ -2,13 +2,14 @@
   "id": 303085279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.828392,40.982502,-73.828392,40.982502",
     "geom:latitude":40.982502,
     "geom:longitude":-73.828392,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2590 Central Park Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.mandee.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805227,
+        102191575,
+        404523359,
         85633793,
-        85978759,
+        85980063,
         102082373,
-        85805227
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +42,18 @@
     "wof:geomhash":"f9a73cf012200ec5dba0349e54335c36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978759,
+            "localadmin_id":404523359,
+            "locality_id":85980063,
             "neighbourhood_id":85805227,
             "region_id":85688543,
             "venue_id":303085279
         }
     ],
     "wof:id":303085279,
-    "wof:lastmodified":1448998725,
+    "wof:lastmodified":1454123199,
     "wof:name":"Mandee Shops",
     "wof:parent_id":85805227,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.828392,40.982502,-73.828392,40.982502],
-  "geometry": {"coordinates":[-73.828392,40.982502],"type":"Point"}
+  "bbox": [
+    -73.828392,
+    40.982502,
+    -73.828392,
+    40.982502
+],
+  "geometry": {"coordinates":[-73.82839199999999,40.982502],"type":"Point"}
 }

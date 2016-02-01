@@ -2,13 +2,14 @@
   "id": 303190759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.832343,42.797299,-78.832343,42.797299",
     "geom:latitude":42.797299,
     "geom:longitude":-78.832343,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Lake Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85858795,
+        102191575,
+        404522347,
         85633793,
         85978027,
         102082387,
-        85858795
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"223ea97d696be2351011de1546148783",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522347,
             "locality_id":85978027,
             "neighbourhood_id":85858795,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303190759,
-    "wof:lastmodified":1449000412,
+    "wof:lastmodified":1454123681,
     "wof:name":"J S Troup Electric Inc",
     "wof:parent_id":85858795,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.832343,42.797299,-78.832343,42.797299],
-  "geometry": {"coordinates":[-78.832343,42.797299],"type":"Point"}
+  "bbox": [
+    -78.832343,
+    42.797299,
+    -78.832343,
+    42.797299
+],
+  "geometry": {"coordinates":[-78.83234299999999,42.797299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404111977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.066836,42.096226,-76.066836,42.096226",
     "geom:latitude":42.096226,
     "geom:longitude":-76.066836,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 Day Pl",
     "sg:city":"Endicott",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528091,
+        102191575,
+        404521829,
         85633793,
         85977985,
-        102081755
+        102081755,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"4d74ebf870ea495927c8fdfe49ae6d47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
+            "localadmin_id":404521829,
             "locality_id":85977985,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528091,
             "region_id":85688543,
             "venue_id":404111977
         }
     ],
     "wof:id":404111977,
-    "wof:lastmodified":1449040353,
+    "wof:lastmodified":1454128973,
     "wof:name":"Naturally Clean Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.066836,42.096226,-76.066836,42.096226],
+  "bbox": [
+    -76.066836,
+    42.096226,
+    -76.066836,
+    42.096226
+],
   "geometry": {"coordinates":[-76.066836,42.096226],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370989587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.68502,40.721117,-73.68502,40.721117",
     "geom:latitude":40.721117,
     "geom:longitude":-73.68502,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"112 Dover Pkwy",
     "sg:city":"Garden City",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892843,
+        102191575,
+        404521473,
         85633793,
-        85977667,
+        85977689,
         102082371,
-        85892843
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"d73bce9727f52adf4d640562136bbd18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977667,
+            "localadmin_id":404521473,
+            "locality_id":85977689,
             "neighbourhood_id":85892843,
             "region_id":85688543,
             "venue_id":370989587
         }
     ],
     "wof:id":370989587,
-    "wof:lastmodified":1449031576,
+    "wof:lastmodified":1454128047,
     "wof:name":"Breastfeeding Center Of LI",
     "wof:parent_id":85892843,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "information"
     ]
 },
-  "bbox": [-73.68502,40.721117,-73.68502,40.721117],
-  "geometry": {"coordinates":[-73.68502,40.721117],"type":"Point"}
+  "bbox": [
+    -73.68502,
+    40.721117,
+    -73.68502,
+    40.721117
+],
+  "geometry": {"coordinates":[-73.68501999999999,40.721117],"type":"Point"}
 }

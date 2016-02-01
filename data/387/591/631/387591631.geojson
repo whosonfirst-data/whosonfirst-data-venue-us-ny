@@ -2,13 +2,14 @@
   "id": 387591631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.181761,43.092568,-76.181761,43.092568",
     "geom:latitude":43.092568,
     "geom:longitude":-76.181761,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Fairmount Ave",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881247,
+        102191575,
+        404522851,
         85633793,
-        85979219,
-        102082351
+        85977785,
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"30a9786b9d794a6f6366bbda60762df4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
-            "locality_id":85979219,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522851,
+            "locality_id":85977785,
+            "neighbourhood_id":85881247,
             "region_id":85688543,
             "venue_id":387591631
         }
     ],
     "wof:id":387591631,
-    "wof:lastmodified":1449058144,
+    "wof:lastmodified":1454129894,
     "wof:name":"D&J Heating & Air Conditioning",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881247,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.181761,43.092568,-76.181761,43.092568],
-  "geometry": {"coordinates":[-76.181761,43.092568],"type":"Point"}
+  "bbox": [
+    -76.181761,
+    43.092568,
+    -76.181761,
+    43.092568
+],
+  "geometry": {"coordinates":[-76.18176099999999,43.092568],"type":"Point"}
 }

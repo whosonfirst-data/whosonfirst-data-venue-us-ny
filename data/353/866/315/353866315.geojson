@@ -2,13 +2,14 @@
   "id": 353866315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.920622,40.834498,-73.920622,40.834498",
     "geom:latitude":40.834498,
     "geom:longitude":-73.920622,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1180 Gerard Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865669,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865669
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"96bef62e1e277284b4c25ab8e6d14496",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865669,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":353866315,
-    "wof:lastmodified":1449019476,
+    "wof:lastmodified":1454126301,
     "wof:name":"Septober Realty Corp",
     "wof:parent_id":85865669,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.920622,40.834498,-73.920622,40.834498],
-  "geometry": {"coordinates":[-73.920622,40.834498],"type":"Point"}
+  "bbox": [
+    -73.920622,
+    40.834498,
+    -73.920622,
+    40.834498
+],
+  "geometry": {"coordinates":[-73.92062199999999,40.834498],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370980467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.661634,41.002666,-73.661634,41.002666",
     "geom:latitude":41.002666,
     "geom:longitude":-73.661634,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 Willett Ave",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.amwater.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530431,
+        102191575,
+        404523389,
         85633793,
         85978705,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"599dc91c776ac568c6080bed481b0f46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523389,
             "locality_id":85978705,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530431,
             "region_id":85688543,
             "venue_id":370980467
         }
     ],
     "wof:id":370980467,
-    "wof:lastmodified":1449029310,
+    "wof:lastmodified":1454127381,
     "wof:name":"Acquarion Water Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530431,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "sewage"
     ]
 },
-  "bbox": [-73.661634,41.002666,-73.661634,41.002666],
-  "geometry": {"coordinates":[-73.661634,41.002666],"type":"Point"}
+  "bbox": [
+    -73.661634,
+    41.002666,
+    -73.661634,
+    41.002666
+],
+  "geometry": {"coordinates":[-73.66163400000001,41.002666],"type":"Point"}
 }

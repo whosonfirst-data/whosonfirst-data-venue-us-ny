@@ -2,13 +2,14 @@
   "id": 253743793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.760391,41.033755,-73.760391,41.033755",
     "geom:latitude":41.033755,
     "geom:longitude":-73.760391,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 Franklin Ave",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530467,
+        102191575,
+        404523395,
         85633793,
         85978761,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"7c8e5056e72b7bcf8c9c2a0e7e6c7ff5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523395,
             "locality_id":85978761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530467,
             "region_id":85688543,
             "venue_id":253743793
         }
     ],
     "wof:id":253743793,
-    "wof:lastmodified":1449065788,
+    "wof:lastmodified":1454130740,
     "wof:name":"Exceptional Carpet Cleaning",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530467,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "carpet"
     ]
 },
-  "bbox": [-73.760391,41.033755,-73.760391,41.033755],
+  "bbox": [
+    -73.760391,
+    41.033755,
+    -73.760391,
+    41.033755
+],
   "geometry": {"coordinates":[-73.760391,41.033755],"type":"Point"}
 }

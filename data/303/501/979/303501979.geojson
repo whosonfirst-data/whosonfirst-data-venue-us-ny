@@ -2,13 +2,14 @@
   "id": 303501979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.767519,41.027758,-73.767519,41.027758",
     "geom:latitude":41.027758,
     "geom:longitude":-73.767519,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"79 E Post Rd",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420559399,
+        102191575,
+        404523395,
         85633793,
         85978761,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"1f7db9306b4c11f275e9b66db526a14d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523395,
             "locality_id":85978761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420559399,
             "region_id":85688543,
             "venue_id":303501979
         }
     ],
     "wof:id":303501979,
-    "wof:lastmodified":1449000587,
+    "wof:lastmodified":1454123729,
     "wof:name":"Jerome Cynthia",
-    "wof:parent_id":-1,
+    "wof:parent_id":420559399,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-73.767519,41.027758,-73.767519,41.027758],
-  "geometry": {"coordinates":[-73.767519,41.027758],"type":"Point"}
+  "bbox": [
+    -73.767519,
+    41.027758,
+    -73.767519,
+    41.027758
+],
+  "geometry": {"coordinates":[-73.76751899999999,41.027758],"type":"Point"}
 }

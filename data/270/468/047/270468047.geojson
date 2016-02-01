@@ -2,13 +2,14 @@
   "id": 270468047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.208574,43.163486,-76.208574,43.163486",
     "geom:latitude":43.163486,
     "geom:longitude":-76.208574,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8149 Morgan Rd",
     "sg:city":"Clay",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85818281,
+        102082351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"8b4b3ee07affb0202c1088e8be101395",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "neighbourhood_id":85818281,
             "region_id":85688543,
             "venue_id":270468047
         }
     ],
     "wof:id":270468047,
-    "wof:lastmodified":1449010406,
+    "wof:lastmodified":1454124630,
     "wof:name":"Trailer Transport Systems Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85818281,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-76.208574,43.163486,-76.208574,43.163486],
+  "bbox": [
+    -76.208574,
+    43.163486,
+    -76.208574,
+    43.163486
+],
   "geometry": {"coordinates":[-76.208574,43.163486],"type":"Point"}
 }

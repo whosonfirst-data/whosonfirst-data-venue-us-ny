@@ -2,13 +2,14 @@
   "id": 286967245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.819999,40.946572,-73.819999,40.946572",
     "geom:latitude":40.946572,
     "geom:longitude":-73.819999,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"242 White Plains Rd",
     "sg:city":"Tuckahoe",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530381,
+        102191575,
+        404523357,
         85633793,
-        85978763,
-        102082373
+        85980071,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"8c9d82a4c35cb7dab6c3753d6dcd55f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978763,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523357,
+            "locality_id":85980071,
+            "neighbourhood_id":420530381,
             "region_id":85688543,
             "venue_id":286967245
         }
     ],
     "wof:id":286967245,
-    "wof:lastmodified":1449017873,
+    "wof:lastmodified":1454125876,
     "wof:name":"Campana Masonry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530381,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.819999,40.946572,-73.819999,40.946572],
+  "bbox": [
+    -73.819999,
+    40.946572,
+    -73.819999,
+    40.946572
+],
   "geometry": {"coordinates":[-73.819999,40.946572],"type":"Point"}
 }

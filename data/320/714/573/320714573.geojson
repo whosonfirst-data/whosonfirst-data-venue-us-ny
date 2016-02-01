@@ -2,13 +2,14 @@
   "id": 320714573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.809813,40.988585,-73.809813,40.988585",
     "geom:latitude":40.988585,
     "geom:longitude":-73.809813,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Garth Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893013,
+        102191575,
+        404523391,
         85633793,
         85978767,
         102082373,
-        85893013
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"94a2ccb1e00788dac1201cbd2a2a2c8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523391,
             "locality_id":85978767,
             "neighbourhood_id":85893013,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":320714573,
-    "wof:lastmodified":1449013106,
+    "wof:lastmodified":1454125063,
     "wof:name":"Station Flowers",
     "wof:parent_id":85893013,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.809813,40.988585,-73.809813,40.988585],
-  "geometry": {"coordinates":[-73.809813,40.988585],"type":"Point"}
+  "bbox": [
+    -73.809813,
+    40.988585,
+    -73.809813,
+    40.988585
+],
+  "geometry": {"coordinates":[-73.80981300000001,40.988585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320213183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.149673,43.030247,-76.149673,43.030247",
     "geom:latitude":43.030247,
     "geom:longitude":-76.149673,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"108 W Kennedy St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529343,
+        102191575,
+        404522851,
         85633793,
         85977785,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"afa043ee9accc79db79a2fa6642c48a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529343,
             "region_id":85688543,
             "venue_id":320213183
         }
     ],
     "wof:id":320213183,
-    "wof:lastmodified":1449011300,
+    "wof:lastmodified":1454124768,
     "wof:name":"Peace Transportation",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529343,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "bus"
     ]
 },
-  "bbox": [-76.149673,43.030247,-76.149673,43.030247],
-  "geometry": {"coordinates":[-76.149673,43.030247],"type":"Point"}
+  "bbox": [
+    -76.149673,
+    43.030247,
+    -76.149673,
+    43.030247
+],
+  "geometry": {"coordinates":[-76.14967300000001,43.030247],"type":"Point"}
 }

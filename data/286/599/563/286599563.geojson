@@ -2,13 +2,14 @@
   "id": 286599563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.462801,42.431754,-76.462801,42.431754",
     "geom:latitude":42.431754,
     "geom:longitude":-76.462801,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Snyder Hill Rd",
     "sg:city":"Ithaca",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85878373,
+        102191575,
+        404523233,
         85633793,
         85980131,
-        102082355
+        102082355,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"44daf42ede557aacfa1f9e4a0c9e66f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082355,
+            "localadmin_id":404523233,
             "locality_id":85980131,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85878373,
             "region_id":85688543,
             "venue_id":286599563
         }
     ],
     "wof:id":286599563,
-    "wof:lastmodified":1449016554,
+    "wof:lastmodified":1454125640,
     "wof:name":"A Matthew Thompson DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":85878373,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-76.462801,42.431754,-76.462801,42.431754],
+  "bbox": [
+    -76.462801,
+    42.431754,
+    -76.462801,
+    42.431754
+],
   "geometry": {"coordinates":[-76.462801,42.431754],"type":"Point"}
 }

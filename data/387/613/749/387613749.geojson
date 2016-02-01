@@ -2,13 +2,14 @@
   "id": 387613749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.914373,40.801458,-73.914373,40.801458",
     "geom:latitude":40.801458,
     "geom:longitude":-73.914373,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"721 E 133rd St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85842807,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85842807
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"ec0ed7d7be66d16297936f49a92d1274",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85842807,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387613749,
-    "wof:lastmodified":1449057876,
+    "wof:lastmodified":1454129841,
     "wof:name":"Artistic Office Products",
     "wof:parent_id":85842807,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.914373,40.801458,-73.914373,40.801458],
+  "bbox": [
+    -73.914373,
+    40.801458,
+    -73.914373,
+    40.801458
+],
   "geometry": {"coordinates":[-73.914373,40.801458],"type":"Point"}
 }

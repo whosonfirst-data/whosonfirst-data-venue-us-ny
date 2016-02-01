@@ -2,13 +2,14 @@
   "id": 353766851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.600277,40.66839,-73.600277,40.66839",
     "geom:latitude":40.66839,
     "geom:longitude":-73.600277,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"276 Moore Ave",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529133,
+        102191575,
+        404521473,
         85633793,
-        85977679,
-        102082371
+        85979173,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"5cc6617db14a3bd39c32814c5c802cbe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977679,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979173,
+            "neighbourhood_id":420529133,
             "region_id":85688543,
             "venue_id":353766851
         }
     ],
     "wof:id":353766851,
-    "wof:lastmodified":1449018219,
+    "wof:lastmodified":1454125939,
     "wof:name":"Scott V. Rankin, M.D., P.C.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529133,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "medicine"
     ]
 },
-  "bbox": [-73.600277,40.66839,-73.600277,40.66839],
-  "geometry": {"coordinates":[-73.600277,40.66839],"type":"Point"}
+  "bbox": [
+    -73.600277,
+    40.66839,
+    -73.600277,
+    40.66839
+],
+  "geometry": {"coordinates":[-73.60027700000001,40.66839],"type":"Point"}
 }

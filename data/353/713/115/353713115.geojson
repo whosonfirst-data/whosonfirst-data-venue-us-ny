@@ -2,13 +2,14 @@
   "id": 353713115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.815498,40.704899,-73.815498,40.704899",
     "geom:latitude":40.704899,
     "geom:longitude":-73.815498,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13937 Queens Blvd",
     "sg:city":"Jamaica",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865653,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865653
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"4ac803e152d5c2c85b2cbb0e2e54593e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865653,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":353713115,
-    "wof:lastmodified":1449020567,
+    "wof:lastmodified":1454126615,
     "wof:name":"P & D Automotive",
     "wof:parent_id":85865653,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.815498,40.704899,-73.815498,40.704899],
-  "geometry": {"coordinates":[-73.815498,40.704899],"type":"Point"}
+  "bbox": [
+    -73.815498,
+    40.704899,
+    -73.815498,
+    40.704899
+],
+  "geometry": {"coordinates":[-73.81549800000001,40.704899],"type":"Point"}
 }

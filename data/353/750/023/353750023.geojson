@@ -2,13 +2,14 @@
   "id": 353750023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.95724,40.618393,-73.95724,40.618393",
     "geom:latitude":40.618393,
     "geom:longitude":-73.95724,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1707 Ave M",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865583,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"7b8ef3179e3b57e88461cce7711123bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865583,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":353750023,
-    "wof:lastmodified":1449019827,
+    "wof:lastmodified":1454126406,
     "wof:name":"Secure Auto School",
     "wof:parent_id":85865583,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "driving"
     ]
 },
-  "bbox": [-73.95724,40.618393,-73.95724,40.618393],
+  "bbox": [
+    -73.95724,
+    40.618393,
+    -73.95724,
+    40.618393
+],
   "geometry": {"coordinates":[-73.95724,40.618393],"type":"Point"}
 }

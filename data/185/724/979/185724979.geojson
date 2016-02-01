@@ -2,13 +2,14 @@
   "id": 185724979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.974911,40.680534,-73.974911,40.680534",
     "geom:latitude":40.680534,
     "geom:longitude":-73.974911,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"234 Flatbush Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840609,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85840609
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"0eb17e75512f8b05318568c63713cfe0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85840609,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":185724979,
-    "wof:lastmodified":1449008156,
+    "wof:lastmodified":1454124346,
     "wof:name":"Gary's Wine & Liquor",
     "wof:parent_id":85840609,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "wine"
     ]
 },
-  "bbox": [-73.974911,40.680534,-73.974911,40.680534],
-  "geometry": {"coordinates":[-73.974911,40.680534],"type":"Point"}
+  "bbox": [
+    -73.974911,
+    40.680534,
+    -73.974911,
+    40.680534
+],
+  "geometry": {"coordinates":[-73.97491100000001,40.680534],"type":"Point"}
 }

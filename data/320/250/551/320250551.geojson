@@ -2,13 +2,14 @@
   "id": 320250551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.858804,40.815728,-73.858804,40.815728",
     "geom:latitude":40.815728,
     "geom:longitude":-73.858804,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"616 Underhill Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865667,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865667
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"3db8c36f4fa1fbcf8169639d34c14619",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865667,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":320250551,
-    "wof:lastmodified":1449013384,
+    "wof:lastmodified":1454125108,
     "wof:name":"Hillside Auto Supply",
     "wof:parent_id":85865667,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "body"
     ]
 },
-  "bbox": [-73.858804,40.815728,-73.858804,40.815728],
-  "geometry": {"coordinates":[-73.858804,40.815728],"type":"Point"}
+  "bbox": [
+    -73.858804,
+    40.815728,
+    -73.858804,
+    40.815728
+],
+  "geometry": {"coordinates":[-73.85880400000001,40.815728],"type":"Point"}
 }

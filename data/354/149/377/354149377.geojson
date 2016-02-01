@@ -2,13 +2,14 @@
   "id": 354149377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.222367,40.824283,-73.222367,40.824283",
     "geom:latitude":40.824283,
     "geom:longitude":-73.222367,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"170 Veterans Memorial Hwy",
     "sg:city":"Commack",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.texaco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,24 +47,30 @@
     "wof:geomhash":"d4aabad01ed5b4d6b283a1c51bb63a73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":354149377
         }
     ],
     "wof:id":354149377,
-    "wof:lastmodified":1449065930,
+    "wof:lastmodified":1454130769,
     "wof:name":"Riva Texaco",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.222367,40.824283,-73.222367,40.824283],
-  "geometry": {"coordinates":[-73.222367,40.824283],"type":"Point"}
+  "bbox": [
+    -73.222367,
+    40.824283,
+    -73.222367,
+    40.824283
+],
+  "geometry": {"coordinates":[-73.22236700000001,40.824283],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287104227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.164782,40.528033,-74.164782,40.528033",
     "geom:latitude":40.528033,
     "geom:longitude":-74.164782,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4735 Hylan Blvd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826445,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85826445
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"08a5249990c8d95d34bf33c420f6b0f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85826445,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":287104227,
-    "wof:lastmodified":1449001034,
+    "wof:lastmodified":1454123837,
     "wof:name":"Cromwell Pediatrics Inc",
     "wof:parent_id":85826445,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-74.164782,40.528033,-74.164782,40.528033],
+  "bbox": [
+    -74.164782,
+    40.528033,
+    -74.164782,
+    40.528033
+],
   "geometry": {"coordinates":[-74.164782,40.528033],"type":"Point"}
 }

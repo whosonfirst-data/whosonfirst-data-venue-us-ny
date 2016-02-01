@@ -2,13 +2,14 @@
   "id": 370331547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.555315,41.000704,-72.555315,41.000704",
     "geom:latitude":41.000704,
     "geom:longitude":-72.555315,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1480 W Mill Rd",
     "sg:city":"Mattituck",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.westmillfuels.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848547,
+        102191575,
+        404523179,
         85633793,
         85979743,
         102082395,
-        85848547
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"7330f92e932e0756b21c734492ba40c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404523179,
             "locality_id":85979743,
             "neighbourhood_id":85848547,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370331547,
-    "wof:lastmodified":1449031141,
+    "wof:lastmodified":1454127920,
     "wof:name":"West Mill Fuels, Inc.",
     "wof:parent_id":85848547,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "oils-fuel"
     ]
 },
-  "bbox": [-72.555315,41.000704,-72.555315,41.000704],
-  "geometry": {"coordinates":[-72.555315,41.000704],"type":"Point"}
+  "bbox": [
+    -72.555315,
+    41.000704,
+    -72.555315,
+    41.000704
+],
+  "geometry": {"coordinates":[-72.55531499999999,41.000704],"type":"Point"}
 }

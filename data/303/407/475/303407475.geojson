@@ -2,13 +2,14 @@
   "id": 303407475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.680529,40.922522,-72.680529,40.922522",
     "geom:latitude":40.922522,
     "geom:longitude":-72.680529,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"41 Sandy Hollow Ct",
     "sg:city":"Riverhead",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"www.personaledgefitness.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851701,
+        102191575,
+        404522663,
         85633793,
         85979845,
         102082395,
-        85851701
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"7a7bd7f6db9367ee616540b7c23f772f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522663,
             "locality_id":85979845,
             "neighbourhood_id":85851701,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":303407475,
-    "wof:lastmodified":1448999477,
+    "wof:lastmodified":1454123425,
     "wof:name":"Personal Edge Fitness",
     "wof:parent_id":85851701,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-72.680529,40.922522,-72.680529,40.922522],
-  "geometry": {"coordinates":[-72.680529,40.922522],"type":"Point"}
+  "bbox": [
+    -72.680529,
+    40.922522,
+    -72.680529,
+    40.922522
+],
+  "geometry": {"coordinates":[-72.68052900000001,40.922522],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185894705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.960481,40.714164,-73.960481,40.714164",
     "geom:latitude":40.714164,
     "geom:longitude":-73.960481,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"197 Grand St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.filledejoienyc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865603,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865603
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"7b3f42db0737c06d7e92baaf49b37561",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865603,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":185894705,
-    "wof:lastmodified":1449007267,
+    "wof:lastmodified":1454124229,
     "wof:name":"Fille De Joie",
     "wof:parent_id":85865603,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "consignment"
     ]
 },
-  "bbox": [-73.960481,40.714164,-73.960481,40.714164],
+  "bbox": [
+    -73.960481,
+    40.714164,
+    -73.960481,
+    40.714164
+],
   "geometry": {"coordinates":[-73.960481,40.714164],"type":"Point"}
 }

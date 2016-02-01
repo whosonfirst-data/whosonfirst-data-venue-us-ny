@@ -2,13 +2,14 @@
   "id": 252898501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.99678,40.742016,-73.99678,40.742016",
     "geom:latitude":40.742016,
     "geom:longitude":-73.99678,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"112 W 20th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810589,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810589
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"cfdaee0b05f07f6cc4802f9e80dd2a97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810589,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":252898501,
-    "wof:lastmodified":1449005384,
+    "wof:lastmodified":1454123980,
     "wof:name":"Custom Group",
     "wof:parent_id":85810589,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "broker"
     ]
 },
-  "bbox": [-73.99678,40.742016,-73.99678,40.742016],
+  "bbox": [
+    -73.99678,
+    40.742016,
+    -73.99678,
+    40.742016
+],
   "geometry": {"coordinates":[-73.99678,40.742016],"type":"Point"}
 }

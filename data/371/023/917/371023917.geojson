@@ -2,13 +2,14 @@
   "id": 371023917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.802774,40.721977,-73.802774,40.721977",
     "geom:latitude":40.721977,
     "geom:longitude":-73.802774,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 Union Tpke",
     "sg:city":"Flushing",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865567,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865567
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"2c851f5a731f83034a0c4b2c4ba0a03a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865567,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":371023917,
-    "wof:lastmodified":1449050037,
+    "wof:lastmodified":1454129271,
     "wof:name":"Golden Gate Residence LLC",
     "wof:parent_id":85865567,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.802774,40.721977,-73.802774,40.721977],
+  "bbox": [
+    -73.802774,
+    40.721977,
+    -73.802774,
+    40.721977
+],
   "geometry": {"coordinates":[-73.802774,40.721977],"type":"Point"}
 }

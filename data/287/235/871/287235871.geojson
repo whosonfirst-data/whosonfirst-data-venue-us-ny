@@ -2,13 +2,14 @@
   "id": 287235871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.766284,40.784084,-72.766284,40.784084",
     "geom:latitude":40.784084,
     "geom:longitude":-72.766284,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"70 Smith St",
     "sg:city":"East Moriches",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"0ba4d723b79c09a6508be560877d9bde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":287235871
         }
     ],
     "wof:id":287235871,
-    "wof:lastmodified":1449000817,
+    "wof:lastmodified":1454123787,
     "wof:name":"Penatello Contracting",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-72.766284,40.784084,-72.766284,40.784084],
+  "bbox": [
+    -72.766284,
+    40.784084,
+    -72.766284,
+    40.784084
+],
   "geometry": {"coordinates":[-72.766284,40.784084],"type":"Point"}
 }

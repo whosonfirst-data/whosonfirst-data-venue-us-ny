@@ -2,13 +2,14 @@
   "id": 336598557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.883155,41.979214,-73.883155,41.979214",
     "geom:latitude":41.979214,
     "geom:longitude":-73.883155,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"32 Rokeby Rd",
     "sg:city":"Red Hook",
     "sg:classifiers":[
@@ -27,8 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85977825,
+        102082363,
+        85844049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +42,18 @@
     "wof:geomhash":"53679bb8754c9da06a63cfbea21f697f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "locality_id":85977825,
+            "neighbourhood_id":85844049,
             "region_id":85688543,
             "venue_id":336598557
         }
     ],
     "wof:id":336598557,
-    "wof:lastmodified":1448996969,
+    "wof:lastmodified":1454122350,
     "wof:name":"Pure Food Campaign",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844049,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +61,11 @@
         "product"
     ]
 },
-  "bbox": [-73.883155,41.979214,-73.883155,41.979214],
+  "bbox": [
+    -73.883155,
+    41.979214,
+    -73.883155,
+    41.979214
+],
   "geometry": {"coordinates":[-73.883155,41.979214],"type":"Point"}
 }

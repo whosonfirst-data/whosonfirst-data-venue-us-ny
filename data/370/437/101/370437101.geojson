@@ -2,13 +2,14 @@
   "id": 370437101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.921176,40.85159,-73.921176,40.85159",
     "geom:latitude":40.85159,
     "geom:longitude":-73.921176,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1750 Sedgwick Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85835319,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85835319
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"6903da46db8cf5908a787e174cb1a3a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85835319,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":370437101,
-    "wof:lastmodified":1449031540,
+    "wof:lastmodified":1454128038,
     "wof:name":"Praise Temple AME Church",
     "wof:parent_id":85835319,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-73.921176,40.85159,-73.921176,40.85159],
+  "bbox": [
+    -73.921176,
+    40.85159,
+    -73.921176,
+    40.85159
+],
   "geometry": {"coordinates":[-73.921176,40.85159],"type":"Point"}
 }

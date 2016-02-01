@@ -2,13 +2,14 @@
   "id": 370910303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.24653,42.112851,-79.24653,42.112851",
     "geom:latitude":42.112851,
     "geom:longitude":-79.24653,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2224 Washington St",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817873,
+        102191575,
+        404521959,
         85633793,
+        85980155,
         102081811,
-        85817873
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"622fca01d161eb8536d93d3c3aafef7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081811,
-            "locality_id":-1,
+            "localadmin_id":404521959,
+            "locality_id":85980155,
             "neighbourhood_id":85817873,
             "region_id":85688543,
             "venue_id":370910303
         }
     ],
     "wof:id":370910303,
-    "wof:lastmodified":1449030493,
+    "wof:lastmodified":1454127727,
     "wof:name":"Pepsi-Cola Bottling Co",
     "wof:parent_id":85817873,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "bottler"
     ]
 },
-  "bbox": [-79.24653,42.112851,-79.24653,42.112851],
-  "geometry": {"coordinates":[-79.24653,42.112851],"type":"Point"}
+  "bbox": [
+    -79.24653,
+    42.112851,
+    -79.24653,
+    42.112851
+],
+  "geometry": {"coordinates":[-79.24653000000001,42.112851],"type":"Point"}
 }

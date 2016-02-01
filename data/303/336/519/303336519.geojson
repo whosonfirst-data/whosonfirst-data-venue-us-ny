@@ -2,13 +2,14 @@
   "id": 303336519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.614173,43.151893,-77.614173,43.151893",
     "geom:latitude":43.151893,
     "geom:longitude":-77.614173,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Plymouth Ave S",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867089,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85867093
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +44,20 @@
     "wof:geomhash":"fbd5f29017fbf7ce27870fec28b3cd3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
-            "neighbourhood_id":85867093,
+            "neighbourhood_id":85867089,
             "region_id":85688543,
             "venue_id":303336519
         }
     ],
     "wof:id":303336519,
-    "wof:lastmodified":1448998068,
+    "wof:lastmodified":1454122970,
     "wof:name":"Central Church Of Christ",
-    "wof:parent_id":85867093,
+    "wof:parent_id":85867089,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-77.614173,43.151893,-77.614173,43.151893],
-  "geometry": {"coordinates":[-77.614173,43.151893],"type":"Point"}
+  "bbox": [
+    -77.614173,
+    43.151893,
+    -77.614173,
+    43.151893
+],
+  "geometry": {"coordinates":[-77.61417299999999,43.151893],"type":"Point"}
 }

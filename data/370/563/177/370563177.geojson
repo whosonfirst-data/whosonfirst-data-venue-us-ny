@@ -2,13 +2,14 @@
   "id": 370563177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.03181,43.093267,-76.03181,43.093267",
     "geom:latitude":43.093267,
     "geom:longitude":-76.03181,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7095 Myers Rd",
     "sg:city":"East Syracuse",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529409,
+        102191575,
+        404522837,
         85633793,
+        85977793,
+        102082351,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"1c62b5e93b3ac700922d7f5f14722ec0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "localadmin_id":404522837,
+            "locality_id":85977793,
+            "neighbourhood_id":420529409,
             "region_id":85688543,
             "venue_id":370563177
         }
     ],
     "wof:id":370563177,
-    "wof:lastmodified":1449029122,
+    "wof:lastmodified":1454127324,
     "wof:name":"WSIV Gospel AM",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529409,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-76.03181,43.093267,-76.03181,43.093267],
-  "geometry": {"coordinates":[-76.03181,43.093267],"type":"Point"}
+  "bbox": [
+    -76.03181,
+    43.093267,
+    -76.03181,
+    43.093267
+],
+  "geometry": {"coordinates":[-76.03180999999999,43.093267],"type":"Point"}
 }

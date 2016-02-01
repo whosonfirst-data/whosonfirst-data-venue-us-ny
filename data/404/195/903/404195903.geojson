@@ -2,13 +2,14 @@
   "id": 404195903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.506759,40.672232,-73.506759,40.672232",
     "geom:latitude":40.672232,
     "geom:longitude":-73.506759,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3350 Sunrise Hwy",
     "sg:city":"Wantagh",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.islandacura.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893065,
+        102191575,
+        404521473,
         85633793,
         85979065,
         102082371,
-        85893065
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"0dbc5f2d2d2ecc47ccebd11ce7c72219",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979065,
             "neighbourhood_id":85893065,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":404195903,
-    "wof:lastmodified":1449039922,
+    "wof:lastmodified":1454128916,
     "wof:name":"Island Acura",
     "wof:parent_id":85893065,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "dealer"
     ]
 },
-  "bbox": [-73.506759,40.672232,-73.506759,40.672232],
+  "bbox": [
+    -73.506759,
+    40.672232,
+    -73.506759,
+    40.672232
+],
   "geometry": {"coordinates":[-73.506759,40.672232],"type":"Point"}
 }

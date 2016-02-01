@@ -2,13 +2,14 @@
   "id": 371154973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.61477,40.693327,-73.61477,40.693327",
     "geom:latitude":40.693327,
     "geom:longitude":-73.61477,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"186 Lawson St",
     "sg:city":"Hempstead",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892743,
+        102191575,
+        404521473,
         85633793,
-        85979175,
+        85977663,
         102082371,
-        85892743
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"97d80ff5f1c4b71745eae3f1050dddcb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979175,
+            "localadmin_id":404521473,
+            "locality_id":85977663,
             "neighbourhood_id":85892743,
             "region_id":85688543,
             "venue_id":371154973
         }
     ],
     "wof:id":371154973,
-    "wof:lastmodified":1449050157,
+    "wof:lastmodified":1454129299,
     "wof:name":"Mendoza Stucco",
     "wof:parent_id":85892743,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.61477,40.693327,-73.61477,40.693327],
-  "geometry": {"coordinates":[-73.61477,40.693327],"type":"Point"}
+  "bbox": [
+    -73.61477,
+    40.693327,
+    -73.61477,
+    40.693327
+],
+  "geometry": {"coordinates":[-73.61476999999999,40.693327],"type":"Point"}
 }

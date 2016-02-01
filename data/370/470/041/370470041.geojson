@@ -2,13 +2,14 @@
   "id": 370470041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.809273,42.74213,-73.809273,42.74213",
     "geom:latitude":42.74213,
     "geom:longitude":-73.809273,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"737 Albany Shaker Rd",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -34,6 +35,7 @@
     "sg:website":"http://www.albanyable.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102529295,
         85688543,
         85633793,
         102082353,
@@ -47,19 +49,18 @@
     "wof:geomhash":"06594bd81c584f9bf0a89876921297ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102529295,
             "country_id":85633793,
             "county_id":102082353,
-            "locality_id":-1,
             "neighbourhood_id":85847957,
             "region_id":85688543,
             "venue_id":370470041
         }
     ],
     "wof:id":370470041,
-    "wof:lastmodified":1449029913,
+    "wof:lastmodified":1454127558,
     "wof:name":"A.B.L.E. Express",
-    "wof:parent_id":85847957,
+    "wof:parent_id":102529295,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +69,11 @@
         "courier"
     ]
 },
-  "bbox": [-73.809273,42.74213,-73.809273,42.74213],
+  "bbox": [
+    -73.809273,
+    42.74213,
+    -73.809273,
+    42.74213
+],
   "geometry": {"coordinates":[-73.809273,42.74213],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303357293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.076552,40.637184,-74.076552,40.637184",
     "geom:latitude":40.637184,
     "geom:longitude":-74.076552,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"192 Bay St",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558383,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"f51926d716e3ddd0ae7769c1410a3f93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558383,
             "region_id":85688543,
             "venue_id":303357293
         }
     ],
     "wof:id":303357293,
-    "wof:lastmodified":1449000267,
+    "wof:lastmodified":1454123643,
     "wof:name":"Neighborhoods Online Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558383,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "communications"
     ]
 },
-  "bbox": [-74.076552,40.637184,-74.076552,40.637184],
-  "geometry": {"coordinates":[-74.076552,40.637184],"type":"Point"}
+  "bbox": [
+    -74.076552,
+    40.637184,
+    -74.076552,
+    40.637184
+],
+  "geometry": {"coordinates":[-74.07655200000001,40.637184],"type":"Point"}
 }

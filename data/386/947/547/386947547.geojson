@@ -2,13 +2,14 @@
   "id": 386947547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.837234,40.904406,-73.837234,40.904406",
     "geom:latitude":40.904406,
     "geom:longitude":-73.837234,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"229 S 7th Ave",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"3632d5947f95b5065b3e43cc244e9677",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":386947547
         }
     ],
     "wof:id":386947547,
-    "wof:lastmodified":1449028862,
+    "wof:lastmodified":1454127252,
     "wof:name":"Grace House",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "citizen"
     ]
 },
-  "bbox": [-73.837234,40.904406,-73.837234,40.904406],
+  "bbox": [
+    -73.837234,
+    40.904406,
+    -73.837234,
+    40.904406
+],
   "geometry": {"coordinates":[-73.837234,40.904406],"type":"Point"}
 }

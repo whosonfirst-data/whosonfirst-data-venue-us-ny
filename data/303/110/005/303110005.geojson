@@ -2,13 +2,14 @@
   "id": 303110005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.073121,40.728882,-73.073121,40.728882",
     "geom:latitude":40.728882,
     "geom:longitude":-73.073121,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"80 Terry St",
     "sg:city":"Sayville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"42bd2986eb4c8096e8ea5c7f6fb3750e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":303110005
         }
     ],
     "wof:id":303110005,
-    "wof:lastmodified":1448998919,
+    "wof:lastmodified":1454123268,
     "wof:name":"Black Diamond Marine Svc",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "towing"
     ]
 },
-  "bbox": [-73.073121,40.728882,-73.073121,40.728882],
+  "bbox": [
+    -73.073121,
+    40.728882,
+    -73.073121,
+    40.728882
+],
   "geometry": {"coordinates":[-73.073121,40.728882],"type":"Point"}
 }

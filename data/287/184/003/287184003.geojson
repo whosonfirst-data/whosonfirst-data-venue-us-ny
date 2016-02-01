@@ -2,13 +2,14 @@
   "id": 287184003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.770509,41.020625,-73.770509,41.020625",
     "geom:latitude":41.020625,
     "geom:longitude":-73.770509,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"51 Prospect St",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893085,
+        102191575,
+        404523395,
         85633793,
         85978761,
         102082373,
-        85893085
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"8760ca47035d3dd84aa377b85ec7beb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523395,
             "locality_id":85978761,
             "neighbourhood_id":85893085,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":287184003,
-    "wof:lastmodified":1449000815,
+    "wof:lastmodified":1454123787,
     "wof:name":"St Bernards Ctr For Learning",
     "wof:parent_id":85893085,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "program"
     ]
 },
-  "bbox": [-73.770509,41.020625,-73.770509,41.020625],
+  "bbox": [
+    -73.770509,
+    41.020625,
+    -73.770509,
+    41.020625
+],
   "geometry": {"coordinates":[-73.770509,41.020625],"type":"Point"}
 }

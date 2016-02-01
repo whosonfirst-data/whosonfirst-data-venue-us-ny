@@ -2,13 +2,14 @@
   "id": 320462227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.9428,40.704399,-73.9428,40.704399",
     "geom:latitude":40.704399,
     "geom:longitude":-73.9428,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"65 Graham Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857853,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85857853
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"471ef210ade027fac7c1cdf1e6b6f6d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85857853,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":320462227,
-    "wof:lastmodified":1449014816,
+    "wof:lastmodified":1454125339,
     "wof:name":"Celltime Cellular",
     "wof:parent_id":85857853,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "cellular"
     ]
 },
-  "bbox": [-73.9428,40.704399,-73.9428,40.704399],
-  "geometry": {"coordinates":[-73.9428,40.704399],"type":"Point"}
+  "bbox": [
+    -73.9428,
+    40.704399,
+    -73.9428,
+    40.704399
+],
+  "geometry": {"coordinates":[-73.94280000000001,40.704399],"type":"Point"}
 }

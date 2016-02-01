@@ -2,13 +2,14 @@
   "id": 371083983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.829781,42.903542,-78.829781,42.903542",
     "geom:latitude":42.903542,
     "geom:longitude":-78.829781,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"171 Walden Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     "sg:website":"http://www.buffaloengine.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528547,
+        102191575,
+        404522329,
         85633793,
         85978023,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"8f3d894caedd8243f458a74a8cd24497",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528547,
             "region_id":85688543,
             "venue_id":371083983
         }
     ],
     "wof:id":371083983,
-    "wof:lastmodified":1449049503,
+    "wof:lastmodified":1454129146,
     "wof:name":"Buffalo Engine Components Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528547,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "equipment"
     ]
 },
-  "bbox": [-78.829781,42.903542,-78.829781,42.903542],
+  "bbox": [
+    -78.829781,
+    42.903542,
+    -78.829781,
+    42.903542
+],
   "geometry": {"coordinates":[-78.829781,42.903542],"type":"Point"}
 }

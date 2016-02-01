@@ -2,13 +2,14 @@
   "id": 370276267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.51704,40.762272,-73.51704,40.762272",
     "geom:latitude":40.762272,
     "geom:longitude":-73.51704,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"285 S Broadway Unit 11",
     "sg:city":"Hicksville",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.shakeapawpuppies.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892759,
+        102191575,
+        404521475,
         85633793,
         85979165,
         102082371,
-        85892759
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"64111b862c15efddcc5130003b33576c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979165,
             "neighbourhood_id":85892759,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":370276267,
-    "wof:lastmodified":1449029192,
+    "wof:lastmodified":1454127347,
     "wof:name":"Shake-A-Paw Puppies",
     "wof:parent_id":85892759,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "sitting"
     ]
 },
-  "bbox": [-73.51704,40.762272,-73.51704,40.762272],
-  "geometry": {"coordinates":[-73.51704,40.762272],"type":"Point"}
+  "bbox": [
+    -73.51704,
+    40.762272,
+    -73.51704,
+    40.762272
+],
+  "geometry": {"coordinates":[-73.51703999999999,40.762272],"type":"Point"}
 }

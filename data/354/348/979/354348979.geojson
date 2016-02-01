@@ -2,13 +2,14 @@
   "id": 354348979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.997783,40.843881,-72.997783,40.843881",
     "geom:latitude":40.843881,
     "geom:longitude":-72.997783,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3316 Rte 112 Unit C",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"70827e4f114b8f97c4c04be829943cf2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354348979
         }
     ],
     "wof:id":354348979,
-    "wof:lastmodified":1449066021,
+    "wof:lastmodified":1454130798,
     "wof:name":"Tony D's Pizza",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "pizza"
     ]
 },
-  "bbox": [-72.997783,40.843881,-72.997783,40.843881],
+  "bbox": [
+    -72.997783,
+    40.843881,
+    -72.997783,
+    40.843881
+],
   "geometry": {"coordinates":[-72.997783,40.843881],"type":"Point"}
 }

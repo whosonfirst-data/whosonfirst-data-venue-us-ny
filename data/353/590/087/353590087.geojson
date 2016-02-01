@@ -2,13 +2,14 @@
   "id": 353590087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.011728,43.07845,-76.011728,43.07845",
     "geom:latitude":43.07845,
     "geom:longitude":-76.011728,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"315 Fay Ln",
     "sg:city":"Minoa",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529409,
+        102191575,
+        404522837,
         85633793,
         85977793,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"dc6943f9697655077be8716b49e16ee5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522837,
             "locality_id":85977793,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529409,
             "region_id":85688543,
             "venue_id":353590087
         }
     ],
     "wof:id":353590087,
-    "wof:lastmodified":1449019789,
+    "wof:lastmodified":1454126391,
     "wof:name":"Home Improvement Svc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529409,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "inspection"
     ]
 },
-  "bbox": [-76.011728,43.07845,-76.011728,43.07845],
-  "geometry": {"coordinates":[-76.011728,43.07845],"type":"Point"}
+  "bbox": [
+    -76.011728,
+    43.07845,
+    -76.011728,
+    43.07845
+],
+  "geometry": {"coordinates":[-76.01172800000001,43.07845],"type":"Point"}
 }

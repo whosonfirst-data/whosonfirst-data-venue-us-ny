@@ -2,13 +2,14 @@
   "id": 252935071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.901573,40.669632,-73.901573,40.669632",
     "geom:latitude":40.669632,
     "geom:longitude":-73.901573,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"234 Belmont Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869421,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869421
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"4c88e75693c93673319bd0af52754e63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869421,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":252935071,
-    "wof:lastmodified":1449006319,
+    "wof:lastmodified":1454124110,
     "wof:name":"Supreme Steel Inc",
     "wof:parent_id":85869421,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "structural"
     ]
 },
-  "bbox": [-73.901573,40.669632,-73.901573,40.669632],
+  "bbox": [
+    -73.901573,
+    40.669632,
+    -73.901573,
+    40.669632
+],
   "geometry": {"coordinates":[-73.901573,40.669632],"type":"Point"}
 }

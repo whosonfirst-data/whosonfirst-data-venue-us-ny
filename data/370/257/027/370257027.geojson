@@ -2,13 +2,14 @@
   "id": 370257027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.484918,40.808079,-73.484918,40.808079",
     "geom:latitude":40.808079,
     "geom:longitude":-73.484918,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"199 Crossways Park Dr",
     "sg:city":"Woodbury",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://www.ucslaw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831161,
+        102191575,
+        404521475,
         85633793,
         85979055,
         102082371,
-        85831161
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"c555b141734c1ff24c83d7ddc3262b96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979055,
             "neighbourhood_id":85831161,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":370257027,
-    "wof:lastmodified":1449030103,
+    "wof:lastmodified":1454127611,
     "wof:name":"Empire Portfolios, Inc.",
     "wof:parent_id":85831161,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "planner"
     ]
 },
-  "bbox": [-73.484918,40.808079,-73.484918,40.808079],
-  "geometry": {"coordinates":[-73.484918,40.808079],"type":"Point"}
+  "bbox": [
+    -73.484918,
+    40.808079,
+    -73.484918,
+    40.808079
+],
+  "geometry": {"coordinates":[-73.48491799999999,40.808079],"type":"Point"}
 }

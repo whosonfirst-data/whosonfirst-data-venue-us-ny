@@ -2,13 +2,14 @@
   "id": 253213665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.183113,41.564751,-74.183113,41.564751",
     "geom:latitude":41.564751,
     "geom:longitude":-74.183113,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"33 Wileman Ave",
     "sg:city":"Walden",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529529,
+        102191575,
+        404522909,
         85633793,
         85978183,
-        102083061
+        102083061,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"b7966a1fc98d848e7a766ddd028afad7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
+            "localadmin_id":404522909,
             "locality_id":85978183,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529529,
             "region_id":85688543,
             "venue_id":253213665
         }
     ],
     "wof:id":253213665,
-    "wof:lastmodified":1449062851,
+    "wof:lastmodified":1454130247,
     "wof:name":"Consultancy Svc LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529529,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "writing"
     ]
 },
-  "bbox": [-74.183113,41.564751,-74.183113,41.564751],
-  "geometry": {"coordinates":[-74.183113,41.564751],"type":"Point"}
+  "bbox": [
+    -74.183113,
+    41.564751,
+    -74.183113,
+    41.564751
+],
+  "geometry": {"coordinates":[-74.18311300000001,41.564751],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320430473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.016517,40.832136,-73.016517,40.832136",
     "geom:latitude":40.832136,
     "geom:longitude":-73.016517,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"31 Allegheny Dr E",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"47b6d5d5c38ffeb64ea5afd9f82250b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":320430473
         }
     ],
     "wof:id":320430473,
-    "wof:lastmodified":1449013639,
+    "wof:lastmodified":1454125148,
     "wof:name":"Jack Ricci DC",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.016517,40.832136,-73.016517,40.832136],
-  "geometry": {"coordinates":[-73.016517,40.832136],"type":"Point"}
+  "bbox": [
+    -73.016517,
+    40.832136,
+    -73.016517,
+    40.832136
+],
+  "geometry": {"coordinates":[-73.01651699999999,40.832136],"type":"Point"}
 }

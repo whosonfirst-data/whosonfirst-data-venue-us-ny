@@ -2,13 +2,14 @@
   "id": 185779229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.001503,40.630798,-74.001503,40.630798",
     "geom:latitude":40.630798,
     "geom:longitude":-74.001503,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1143 60th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"b65d17d0da66564393cd1d7239c381c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":185779229
         }
     ],
     "wof:id":185779229,
-    "wof:lastmodified":1449006856,
+    "wof:lastmodified":1454124175,
     "wof:name":"American International Acupuncture Institute",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "acupuncture"
     ]
 },
-  "bbox": [-74.001503,40.630798,-74.001503,40.630798],
+  "bbox": [
+    -74.001503,
+    40.630798,
+    -74.001503,
+    40.630798
+],
   "geometry": {"coordinates":[-74.001503,40.630798],"type":"Point"}
 }

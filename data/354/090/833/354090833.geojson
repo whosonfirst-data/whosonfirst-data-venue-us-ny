@@ -2,13 +2,14 @@
   "id": 354090833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.526878,40.651081,-73.526878,40.651081",
     "geom:latitude":40.651081,
     "geom:longitude":-73.526878,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2898 Lee Pl",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529141,
+        102191575,
+        404521473,
         85633793,
         85979167,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"ce883e3029d3316d589631cdc65376dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979167,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529141,
             "region_id":85688543,
             "venue_id":354090833
         }
     ],
     "wof:id":354090833,
-    "wof:lastmodified":1449067286,
+    "wof:lastmodified":1454131188,
     "wof:name":"Savatta Painting & Decoration",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529141,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.526878,40.651081,-73.526878,40.651081],
+  "bbox": [
+    -73.526878,
+    40.651081,
+    -73.526878,
+    40.651081
+],
   "geometry": {"coordinates":[-73.526878,40.651081],"type":"Point"}
 }

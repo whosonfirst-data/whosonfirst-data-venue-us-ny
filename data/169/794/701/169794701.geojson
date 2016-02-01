@@ -2,13 +2,14 @@
   "id": 169794701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.941703,40.627203,-73.941703,40.627203",
     "geom:latitude":40.627203,
     "geom:longitude":-73.941703,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1747 Flatbush Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -50,11 +51,13 @@
     "sg:website":"http://www.brooklynplumbingsupply.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819585,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85819585
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,9 +67,10 @@
     "wof:geomhash":"f832bcdec7e8a647cee9f76d9de374dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819585,
             "region_id":85688543,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":169794701,
-    "wof:lastmodified":1449034268,
+    "wof:lastmodified":1454128403,
     "wof:name":"Brooklyn Plumbing & Heating Supply Corporation",
     "wof:parent_id":85819585,
     "wof:placetype":"venue",
@@ -96,6 +100,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-73.941703,40.627203,-73.941703,40.627203],
+  "bbox": [
+    -73.941703,
+    40.627203,
+    -73.941703,
+    40.627203
+],
   "geometry": {"coordinates":[-73.941703,40.627203],"type":"Point"}
 }

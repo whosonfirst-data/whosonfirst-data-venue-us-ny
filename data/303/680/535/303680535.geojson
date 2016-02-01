@@ -2,13 +2,14 @@
   "id": 303680535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.021385,40.623348,-74.021385,40.623348",
     "geom:latitude":40.623348,
     "geom:longitude":-74.021385,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"615 81st St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85804819,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85804819
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"92c14da3236b9499c849e4ea59335aab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85804819,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303680535,
-    "wof:lastmodified":1448999829,
+    "wof:lastmodified":1454123522,
     "wof:name":"Ambu-Care",
     "wof:parent_id":85804819,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "ambulance"
     ]
 },
-  "bbox": [-74.021385,40.623348,-74.021385,40.623348],
+  "bbox": [
+    -74.021385,
+    40.623348,
+    -74.021385,
+    40.623348
+],
   "geometry": {"coordinates":[-74.021385,40.623348],"type":"Point"}
 }

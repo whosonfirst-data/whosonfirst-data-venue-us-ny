@@ -2,13 +2,14 @@
   "id": 370499259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.892764,40.662007,-73.892764,40.662007",
     "geom:latitude":40.662007,
     "geom:longitude":-73.892764,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"407 New Lots Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869421,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869421
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"7839e0fecd62418fcb5a09d4f0d49f78",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869421,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":370499259,
-    "wof:lastmodified":1449029734,
+    "wof:lastmodified":1454127503,
     "wof:name":"Hong Fu Chinese Restaurant",
     "wof:parent_id":85869421,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.892764,40.662007,-73.892764,40.662007],
+  "bbox": [
+    -73.892764,
+    40.662007,
+    -73.892764,
+    40.662007
+],
   "geometry": {"coordinates":[-73.892764,40.662007],"type":"Point"}
 }

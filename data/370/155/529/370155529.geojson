@@ -2,13 +2,14 @@
   "id": 370155529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.020478,40.859229,-73.020478,40.859229",
     "geom:latitude":40.859229,
     "geom:longitude":-73.020478,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"42 Sabre Drive",
     "sg:city":"Selden",
     "sg:classifiers":[
@@ -42,11 +43,13 @@
     "sg:website":"http://www.paulsplumbingserviceinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +59,18 @@
     "wof:geomhash":"785ddce672c858266b83cb14910becb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":370155529
         }
     ],
     "wof:id":370155529,
-    "wof:lastmodified":1449031880,
+    "wof:lastmodified":1454128136,
     "wof:name":"Paul's Plumbing Service, Inc.",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -85,6 +89,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-73.020478,40.859229,-73.020478,40.859229],
+  "bbox": [
+    -73.020478,
+    40.859229,
+    -73.020478,
+    40.859229
+],
   "geometry": {"coordinates":[-73.020478,40.859229],"type":"Point"}
 }

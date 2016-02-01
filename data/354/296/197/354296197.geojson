@@ -2,13 +2,14 @@
   "id": 354296197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.54476,40.789953,-73.54476,40.789953",
     "geom:latitude":40.789953,
     "geom:longitude":-73.54476,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Holiday Pond Rd",
     "sg:city":"Jericho",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529157,
+        102191575,
+        404521475,
         85633793,
         85979085,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"9fab10fd19f13a0e2c2c651116916e97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979085,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529157,
             "region_id":85688543,
             "venue_id":354296197
         }
     ],
     "wof:id":354296197,
-    "wof:lastmodified":1449067326,
+    "wof:lastmodified":1454131201,
     "wof:name":"Hamlet Estates At Jericho",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529157,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-73.54476,40.789953,-73.54476,40.789953],
+  "bbox": [
+    -73.54476,
+    40.789953,
+    -73.54476,
+    40.789953
+],
   "geometry": {"coordinates":[-73.54476,40.789953],"type":"Point"}
 }

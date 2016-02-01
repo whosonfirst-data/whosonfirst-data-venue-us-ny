@@ -2,13 +2,14 @@
   "id": 336747799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.828365,41.7667,-73.828365,41.7667",
     "geom:latitude":41.7667,
     "geom:longitude":-73.828365,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Gasparro Dr",
     "sg:city":"Pleasant Valley",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528481,
+        102191575,
+        404522303,
         85633793,
+        85979257,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"a7ff422c9bbfd0ac9c2648b877252e7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522303,
+            "locality_id":85979257,
+            "neighbourhood_id":420528481,
             "region_id":85688543,
             "venue_id":336747799
         }
     ],
     "wof:id":336747799,
-    "wof:lastmodified":1448997143,
+    "wof:lastmodified":1454122427,
     "wof:name":"Mo's Tailoring Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528481,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "tailor"
     ]
 },
-  "bbox": [-73.828365,41.7667,-73.828365,41.7667],
-  "geometry": {"coordinates":[-73.828365,41.7667],"type":"Point"}
+  "bbox": [
+    -73.828365,
+    41.7667,
+    -73.828365,
+    41.7667
+],
+  "geometry": {"coordinates":[-73.82836500000001,41.7667],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303825481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.836236,42.797646,-78.836236,42.797646",
     "geom:latitude":42.797646,
     "geom:longitude":-78.836236,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"270 Lake Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85858795,
+        102191575,
+        404522347,
         85633793,
         85978027,
         102082387,
-        85858795
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"0bf2c67ef4577e91d86108e0ad8286ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522347,
             "locality_id":85978027,
             "neighbourhood_id":85858795,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303825481,
-    "wof:lastmodified":1448998214,
+    "wof:lastmodified":1454123017,
     "wof:name":"Buffalo Dispatch O & I Trnsprt",
     "wof:parent_id":85858795,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.836236,42.797646,-78.836236,42.797646],
+  "bbox": [
+    -78.836236,
+    42.797646,
+    -78.836236,
+    42.797646
+],
   "geometry": {"coordinates":[-78.836236,42.797646],"type":"Point"}
 }

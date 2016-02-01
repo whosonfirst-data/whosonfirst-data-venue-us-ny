@@ -2,13 +2,14 @@
   "id": 354342823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.997942,40.73594,-73.997942,40.73594",
     "geom:latitude":40.73594,
     "geom:longitude":-73.997942,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"469 Ave of the Americas",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85856577,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85856577
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"eb0a2d90f6219f98160eb05fb53d217a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85856577,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":354342823,
-    "wof:lastmodified":1449067558,
+    "wof:lastmodified":1454131273,
     "wof:name":"Six & Twelve",
     "wof:parent_id":85856577,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.997942,40.73594,-73.997942,40.73594],
-  "geometry": {"coordinates":[-73.997942,40.73594],"type":"Point"}
+  "bbox": [
+    -73.997942,
+    40.73594,
+    -73.997942,
+    40.73594
+],
+  "geometry": {"coordinates":[-73.99794199999999,40.73594],"type":"Point"}
 }

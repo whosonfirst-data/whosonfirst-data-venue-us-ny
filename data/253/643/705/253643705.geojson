@@ -2,13 +2,14 @@
   "id": 253643705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.202578,41.565845,-74.202578,41.565845",
     "geom:latitude":41.565845,
     "geom:longitude":-74.202578,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8 Overlook Ter",
     "sg:city":"Walden",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529529,
+        102191575,
+        404522909,
         85633793,
         85978183,
-        102083061
+        102083061,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"eee97e250248049ff9a1d7d008d6038d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
+            "localadmin_id":404522909,
             "locality_id":85978183,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529529,
             "region_id":85688543,
             "venue_id":253643705
         }
     ],
     "wof:id":253643705,
-    "wof:lastmodified":1449065384,
+    "wof:lastmodified":1454130674,
     "wof:name":"Shuback Heating & Cooling",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529529,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.202578,41.565845,-74.202578,41.565845],
+  "bbox": [
+    -74.202578,
+    41.565845,
+    -74.202578,
+    41.565845
+],
   "geometry": {"coordinates":[-74.202578,41.565845],"type":"Point"}
 }

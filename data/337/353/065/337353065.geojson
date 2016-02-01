@@ -2,13 +2,14 @@
   "id": 337353065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.835195,40.756618,-73.835195,40.756618",
     "geom:latitude":40.756618,
     "geom:longitude":-73.835195,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13107 40th Rd",
     "sg:city":"Flushing",
     "sg:classifiers":[
@@ -45,11 +46,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819703,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819703
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,9 +62,10 @@
     "wof:geomhash":"301cc67deaefbc47ef08ff1c7e25218e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819703,
             "region_id":85688543,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":337353065,
-    "wof:lastmodified":1449027174,
+    "wof:lastmodified":1454126961,
     "wof:name":"BJ's Optical",
     "wof:parent_id":85819703,
     "wof:placetype":"venue",
@@ -82,6 +86,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.835195,40.756618,-73.835195,40.756618],
+  "bbox": [
+    -73.835195,
+    40.756618,
+    -73.835195,
+    40.756618
+],
   "geometry": {"coordinates":[-73.835195,40.756618],"type":"Point"}
 }

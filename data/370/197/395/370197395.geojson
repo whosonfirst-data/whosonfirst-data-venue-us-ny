@@ -2,13 +2,14 @@
   "id": 370197395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.834912,40.895171,-73.834912,40.895171",
     "geom:latitude":40.895171,
     "geom:longitude":-73.834912,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"636 S 8th Ave",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892777,
+        102191575,
+        404523371,
         85633793,
-        85977539,
-        102083063,
-        85892777
+        85978721,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +53,18 @@
     "wof:geomhash":"b59c7b87db556ca929cee0722b0da477",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
-            "locality_id":85977539,
+            "county_id":102082373,
+            "localadmin_id":404523371,
+            "locality_id":85978721,
             "neighbourhood_id":85892777,
             "region_id":85688543,
             "venue_id":370197395
         }
     ],
     "wof:id":370197395,
-    "wof:lastmodified":1449032049,
+    "wof:lastmodified":1454128187,
     "wof:name":"Handi Access",
     "wof:parent_id":85892777,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "welfare"
     ]
 },
-  "bbox": [-73.834912,40.895171,-73.834912,40.895171],
+  "bbox": [
+    -73.834912,
+    40.895171,
+    -73.834912,
+    40.895171
+],
   "geometry": {"coordinates":[-73.834912,40.895171],"type":"Point"}
 }

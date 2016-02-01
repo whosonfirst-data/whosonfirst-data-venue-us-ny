@@ -2,13 +2,14 @@
   "id": 286952235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.894335,40.860371,-73.894335,40.860371",
     "geom:latitude":40.860371,
     "geom:longitude":-73.894335,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"346 E 188th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819763,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85819763
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"32bbdbd78bd703c5ba4ac98a6a794edb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819763,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":286952235,
-    "wof:lastmodified":1449017299,
+    "wof:lastmodified":1454125771,
     "wof:name":"All Boroughs ATM Inc",
     "wof:parent_id":85819763,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "automated"
     ]
 },
-  "bbox": [-73.894335,40.860371,-73.894335,40.860371],
+  "bbox": [
+    -73.894335,
+    40.860371,
+    -73.894335,
+    40.860371
+],
   "geometry": {"coordinates":[-73.894335,40.860371],"type":"Point"}
 }

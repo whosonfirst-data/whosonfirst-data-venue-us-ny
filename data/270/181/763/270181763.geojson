@@ -2,13 +2,14 @@
   "id": 270181763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.140134,42.639267,-76.140134,42.639267",
     "geom:latitude":42.639267,
     "geom:longitude":-76.140134,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2271 State Hwy 13",
     "sg:city":"Cortland",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528395,
+        102191575,
+        404522255,
         85633793,
+        85978519,
+        102083011,
         85688543
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"3aaff992e4b5091257cb6b958eff63a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083011,
+            "localadmin_id":404522255,
+            "locality_id":85978519,
+            "neighbourhood_id":420528395,
             "region_id":85688543,
             "venue_id":270181763
         }
     ],
     "wof:id":270181763,
-    "wof:lastmodified":1449010136,
+    "wof:lastmodified":1454124589,
     "wof:name":"Forbes Farms",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528395,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.140134,42.639267,-76.140134,42.639267],
+  "bbox": [
+    -76.140134,
+    42.639267,
+    -76.140134,
+    42.639267
+],
   "geometry": {"coordinates":[-76.140134,42.639267],"type":"Point"}
 }

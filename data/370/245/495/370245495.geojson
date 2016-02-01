@@ -2,13 +2,14 @@
   "id": 370245495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.517344,40.704209,-73.517344,40.704209",
     "geom:latitude":40.704209,
     "geom:longitude":-73.517344,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 Western Ln",
     "sg:city":"Wantagh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"fb3cddb2f7f8b63ab33ce8efee1f7a8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":370245495
         }
     ],
     "wof:id":370245495,
-    "wof:lastmodified":1449032357,
+    "wof:lastmodified":1454128280,
     "wof:name":"Cuestas Floors Inc",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "material"
     ]
 },
-  "bbox": [-73.517344,40.704209,-73.517344,40.704209],
-  "geometry": {"coordinates":[-73.517344,40.704209],"type":"Point"}
+  "bbox": [
+    -73.517344,
+    40.704209,
+    -73.517344,
+    40.704209
+],
+  "geometry": {"coordinates":[-73.51734399999999,40.704209],"type":"Point"}
 }

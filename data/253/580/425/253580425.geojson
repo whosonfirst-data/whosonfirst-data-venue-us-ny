@@ -2,13 +2,14 @@
   "id": 253580425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.073439,40.613704,-74.073439,40.613704",
     "geom:latitude":40.613704,
     "geom:longitude":-74.073439,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"204 Saint Marys Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845943,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85845943
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ccdc6cd29c7bc63a9f8c51a486560f5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85845943,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":253580425,
-    "wof:lastmodified":1449064831,
+    "wof:lastmodified":1454130582,
     "wof:name":"Seasons Roofing",
     "wof:parent_id":85845943,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.073439,40.613704,-74.073439,40.613704],
-  "geometry": {"coordinates":[-74.073439,40.613704],"type":"Point"}
+  "bbox": [
+    -74.073439,
+    40.613704,
+    -74.073439,
+    40.613704
+],
+  "geometry": {"coordinates":[-74.07343899999999,40.613704],"type":"Point"}
 }

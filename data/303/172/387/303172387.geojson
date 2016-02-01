@@ -2,13 +2,14 @@
   "id": 303172387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.15154,43.042766,-76.15154,43.042766",
     "geom:latitude":43.042766,
     "geom:longitude":-76.15154,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"500 S Salina St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881241,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881241
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"4d57e6e1157bc188fb8847dc72b46ffc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881241,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303172387,
-    "wof:lastmodified":1448999104,
+    "wof:lastmodified":1454123321,
     "wof:name":"Joe's Deli",
     "wof:parent_id":85881241,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-76.15154,43.042766,-76.15154,43.042766],
+  "bbox": [
+    -76.15154,
+    43.042766,
+    -76.15154,
+    43.042766
+],
   "geometry": {"coordinates":[-76.15154,43.042766],"type":"Point"}
 }

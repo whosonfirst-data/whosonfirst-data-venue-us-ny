@@ -2,13 +2,14 @@
   "id": 404121101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.983423,40.873336,-72.983423,40.873336",
     "geom:latitude":40.873336,
     "geom:longitude":-72.983423,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"99 Middle Country Rd",
     "sg:city":"Coram",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"63ef2f0bc2cc94fda56ab2a2d68aac23",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":404121101
         }
     ],
     "wof:id":404121101,
-    "wof:lastmodified":1449040026,
+    "wof:lastmodified":1454128931,
     "wof:name":"Point Blank Sound Inc",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "tape"
     ]
 },
-  "bbox": [-72.983423,40.873336,-72.983423,40.873336],
+  "bbox": [
+    -72.983423,
+    40.873336,
+    -72.983423,
+    40.873336
+],
   "geometry": {"coordinates":[-72.983423,40.873336],"type":"Point"}
 }

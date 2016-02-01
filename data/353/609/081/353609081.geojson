@@ -2,13 +2,14 @@
   "id": 353609081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.844704,40.6796,-73.844704,40.6796",
     "geom:latitude":40.6796,
     "geom:longitude":-73.844704,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10524 Crossbay Blvd",
     "sg:city":"Ozone Park",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529701,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"fe1b413f4328549e86d325f960c6d10b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529701,
             "region_id":85688543,
             "venue_id":353609081
         }
     ],
     "wof:id":353609081,
-    "wof:lastmodified":1449019212,
+    "wof:lastmodified":1454126227,
     "wof:name":"Alpine Lake Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-73.844704,40.6796,-73.844704,40.6796],
-  "geometry": {"coordinates":[-73.844704,40.6796],"type":"Point"}
+  "bbox": [
+    -73.844704,
+    40.6796,
+    -73.844704,
+    40.6796
+],
+  "geometry": {"coordinates":[-73.84470399999999,40.6796],"type":"Point"}
 }

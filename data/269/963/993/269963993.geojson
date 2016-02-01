@@ -2,13 +2,14 @@
   "id": 269963993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.814712,40.943286,-73.814712,40.943286",
     "geom:latitude":40.943286,
     "geom:longitude":-73.814712,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"62 North Rd",
     "sg:city":"Bronxville",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530381,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"6259ea0a1872f8adc0ef8da5a6324506",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530381,
             "region_id":85688543,
             "venue_id":269963993
         }
     ],
     "wof:id":269963993,
-    "wof:lastmodified":1449036379,
+    "wof:lastmodified":1454128496,
     "wof:name":"Rainbow Artists Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530381,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.814712,40.943286,-73.814712,40.943286],
+  "bbox": [
+    -73.814712,
+    40.943286,
+    -73.814712,
+    40.943286
+],
   "geometry": {"coordinates":[-73.814712,40.943286],"type":"Point"}
 }

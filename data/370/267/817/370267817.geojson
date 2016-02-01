@@ -2,13 +2,14 @@
   "id": 370267817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.187383,40.725197,-73.187383,40.725197",
     "geom:latitude":40.725197,
     "geom:longitude":-73.187383,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"66 Shinnecock Ln",
     "sg:city":"East Islip",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530037,
+        102191575,
+        404522517,
         85633793,
-        85979827,
-        102082395
+        85979697,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"1e62ae90b485e5911cfa4e6e60cbcf14",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979827,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979697,
+            "neighbourhood_id":420530037,
             "region_id":85688543,
             "venue_id":370267817
         }
     ],
     "wof:id":370267817,
-    "wof:lastmodified":1449032169,
+    "wof:lastmodified":1454128222,
     "wof:name":"Biltmore Substructures Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530037,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "labor"
     ]
 },
-  "bbox": [-73.187383,40.725197,-73.187383,40.725197],
+  "bbox": [
+    -73.187383,
+    40.725197,
+    -73.187383,
+    40.725197
+],
   "geometry": {"coordinates":[-73.187383,40.725197],"type":"Point"}
 }

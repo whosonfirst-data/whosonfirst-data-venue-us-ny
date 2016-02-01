@@ -2,13 +2,14 @@
   "id": 370838047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.561109,43.054103,-77.561109,43.054103",
     "geom:latitude":43.054103,
     "geom:longitude":-77.561109,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3306 Clover St",
     "sg:city":"Pittsford",
     "sg:classifiers":[
@@ -24,8 +25,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85833773,
+        102081815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +38,27 @@
     "wof:geomhash":"eee105562acbefa80bbcf689f6e5b18b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "neighbourhood_id":85833773,
             "region_id":85688543,
             "venue_id":370838047
         }
     ],
     "wof:id":370838047,
-    "wof:lastmodified":1449029500,
+    "wof:lastmodified":1454127436,
     "wof:name":"G & H Association of Rochester",
-    "wof:parent_id":-1,
+    "wof:parent_id":85833773,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.561109,43.054103,-77.561109,43.054103],
+  "bbox": [
+    -77.561109,
+    43.054103,
+    -77.561109,
+    43.054103
+],
   "geometry": {"coordinates":[-77.561109,43.054103],"type":"Point"}
 }

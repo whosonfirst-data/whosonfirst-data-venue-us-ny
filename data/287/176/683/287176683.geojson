@@ -2,13 +2,14 @@
   "id": 287176683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.788121,41.026178,-73.788121,41.026178",
     "geom:latitude":41.026178,
     "geom:longitude":-73.788121,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"281 Chatterton Pkwy",
     "sg:city":"Hartsdale",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893077,
+        102191575,
+        404523395,
         85633793,
+        85978761,
         102082373,
-        85893077
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +47,18 @@
     "wof:geomhash":"9c549684f6449d0bf9009acae7e8ba65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":-1,
+            "localadmin_id":404523395,
+            "locality_id":85978761,
             "neighbourhood_id":85893077,
             "region_id":85688543,
             "venue_id":287176683
         }
     ],
     "wof:id":287176683,
-    "wof:lastmodified":1449001266,
+    "wof:lastmodified":1454123894,
     "wof:name":"Westchester ARC",
     "wof:parent_id":85893077,
     "wof:placetype":"venue",
@@ -66,6 +71,11 @@
         "dev"
     ]
 },
-  "bbox": [-73.788121,41.026178,-73.788121,41.026178],
+  "bbox": [
+    -73.788121,
+    41.026178,
+    -73.788121,
+    41.026178
+],
   "geometry": {"coordinates":[-73.788121,41.026178],"type":"Point"}
 }

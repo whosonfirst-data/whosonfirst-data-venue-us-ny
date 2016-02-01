@@ -2,13 +2,14 @@
   "id": 286546533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.924662,40.828055,-73.924662,40.828055",
     "geom:latitude":40.828055,
     "geom:longitude":-73.924662,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"881 Gerard Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865669,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865669
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"49a51c3276f11d8c62c205fe86839b34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865669,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":286546533,
-    "wof:lastmodified":1449015161,
+    "wof:lastmodified":1454125397,
     "wof:name":"Stuart Rosensweet Law Office",
     "wof:parent_id":85865669,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "attorney"
     ]
 },
-  "bbox": [-73.924662,40.828055,-73.924662,40.828055],
+  "bbox": [
+    -73.924662,
+    40.828055,
+    -73.924662,
+    40.828055
+],
   "geometry": {"coordinates":[-73.924662,40.828055],"type":"Point"}
 }

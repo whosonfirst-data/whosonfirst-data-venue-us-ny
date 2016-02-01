@@ -2,13 +2,14 @@
   "id": 270136663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.470312,40.794173,-73.470312,40.794173",
     "geom:latitude":40.794173,
     "geom:longitude":-73.470312,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"88 Sunnyside Blvd",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"eb794c8dd39ae87617bfc1af5d8f55ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":270136663
         }
     ],
     "wof:id":270136663,
-    "wof:lastmodified":1449011098,
+    "wof:lastmodified":1454124736,
     "wof:name":"Joe Wyllie & Associates Inc",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "investigator"
     ]
 },
-  "bbox": [-73.470312,40.794173,-73.470312,40.794173],
-  "geometry": {"coordinates":[-73.470312,40.794173],"type":"Point"}
+  "bbox": [
+    -73.470312,
+    40.794173,
+    -73.470312,
+    40.794173
+],
+  "geometry": {"coordinates":[-73.47031200000001,40.794173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303749665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.728029,40.958525,-73.728029,40.958525",
     "geom:latitude":40.958525,
     "geom:longitude":-73.728029,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"417 Wagner Ave",
     "sg:city":"Mamaroneck",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892899,
+        102191575,
+        404523361,
         85633793,
-        85978729,
+        85978735,
         102082373,
-        85892899
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"1d1a07863f315a589de3cda60220edf0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978729,
+            "localadmin_id":404523361,
+            "locality_id":85978735,
             "neighbourhood_id":85892899,
             "region_id":85688543,
             "venue_id":303749665
         }
     ],
     "wof:id":303749665,
-    "wof:lastmodified":1448998808,
+    "wof:lastmodified":1454123229,
     "wof:name":"Premier Tile Inc",
     "wof:parent_id":85892899,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.728029,40.958525,-73.728029,40.958525],
-  "geometry": {"coordinates":[-73.728029,40.958525],"type":"Point"}
+  "bbox": [
+    -73.728029,
+    40.958525,
+    -73.728029,
+    40.958525
+],
+  "geometry": {"coordinates":[-73.72802900000001,40.958525],"type":"Point"}
 }

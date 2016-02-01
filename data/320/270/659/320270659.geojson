@@ -2,13 +2,14 @@
   "id": 320270659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.98117,40.7567,-73.98117,40.7567",
     "geom:latitude":40.7567,
     "geom:longitude":-73.98117,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"46 W 46 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869487,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85869487
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"c71d282b0c1c86ce34db230babbebd24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869487,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":320270659,
-    "wof:lastmodified":1449011921,
+    "wof:lastmodified":1454124871,
     "wof:name":"Dvv New York",
     "wof:parent_id":85869487,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.98117,40.7567,-73.98117,40.7567],
-  "geometry": {"coordinates":[-73.98117,40.7567],"type":"Point"}
+  "bbox": [
+    -73.98117,
+    40.7567,
+    -73.98117,
+    40.7567
+],
+  "geometry": {"coordinates":[-73.98117000000001,40.7567],"type":"Point"}
 }

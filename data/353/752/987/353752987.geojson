@@ -2,13 +2,14 @@
   "id": 353752987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.889786,40.862873,-73.889786,40.862873",
     "geom:latitude":40.862873,
     "geom:longitude":-73.889786,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2609 Webster Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819763,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85819763
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"b8dc647315241413b2fd0eaa4053427d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819763,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353752987,
-    "wof:lastmodified":1449018668,
+    "wof:lastmodified":1454126070,
     "wof:name":"Oissila",
     "wof:parent_id":85819763,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.889786,40.862873,-73.889786,40.862873],
+  "bbox": [
+    -73.889786,
+    40.862873,
+    -73.889786,
+    40.862873
+],
   "geometry": {"coordinates":[-73.889786,40.862873],"type":"Point"}
 }

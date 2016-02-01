@@ -2,13 +2,14 @@
   "id": 370695139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.142473,40.557976,-74.142473,40.557976",
     "geom:latitude":40.557976,
     "geom:longitude":-74.142473,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"203 Evergreen St",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529763,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"5c64d15747a83528e4c114e3de5a78bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529763,
             "region_id":85688543,
             "venue_id":370695139
         }
     ],
     "wof:id":370695139,
-    "wof:lastmodified":1449030366,
+    "wof:lastmodified":1454127692,
     "wof:name":"PNJ Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529763,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-74.142473,40.557976,-74.142473,40.557976],
+  "bbox": [
+    -74.142473,
+    40.557976,
+    -74.142473,
+    40.557976
+],
   "geometry": {"coordinates":[-74.142473,40.557976],"type":"Point"}
 }

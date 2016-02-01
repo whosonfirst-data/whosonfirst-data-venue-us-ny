@@ -2,13 +2,14 @@
   "id": 253605481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.683778,40.829321,-73.683778,40.829321",
     "geom:latitude":40.829321,
     "geom:longitude":-73.683778,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"933 Port Washington Blvd",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529161,
+        102191575,
+        404522729,
         85633793,
         85979185,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"2c6071a2c1ad7c9a8e98ba711cdd24ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979185,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529161,
             "region_id":85688543,
             "venue_id":253605481
         }
     ],
     "wof:id":253605481,
-    "wof:lastmodified":1449064255,
+    "wof:lastmodified":1454130485,
     "wof:name":"M Petracca Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529161,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-73.683778,40.829321,-73.683778,40.829321],
+  "bbox": [
+    -73.683778,
+    40.829321,
+    -73.683778,
+    40.829321
+],
   "geometry": {"coordinates":[-73.683778,40.829321],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353628345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.8358,40.697899,-73.8358,40.697899",
     "geom:latitude":40.697899,
     "geom:longitude":-73.8358,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11227 Jamaica Ave",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844441,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844441
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"75e12bd818bcbb303e8e58570bf1f23f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844441,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":353628345,
-    "wof:lastmodified":1449020341,
+    "wof:lastmodified":1454126553,
     "wof:name":"A & M Deli Inc",
     "wof:parent_id":85844441,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.8358,40.697899,-73.8358,40.697899],
-  "geometry": {"coordinates":[-73.8358,40.697899],"type":"Point"}
+  "bbox": [
+    -73.8358,
+    40.697899,
+    -73.8358,
+    40.697899
+],
+  "geometry": {"coordinates":[-73.83580000000001,40.697899],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304056835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.680023,40.688077,-73.680023,40.688077",
     "geom:latitude":40.688077,
     "geom:longitude":-73.680023,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1064 Robin Rd",
     "sg:city":"Franklin Square",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85838141,
+        102191575,
+        404521473,
         85633793,
-        85979041,
+        85979137,
         102082371,
-        85838141
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"ed60ddff55bcf011fc63f9c73dcda092",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979041,
+            "localadmin_id":404521473,
+            "locality_id":85979137,
             "neighbourhood_id":85838141,
             "region_id":85688543,
             "venue_id":304056835
         }
     ],
     "wof:id":304056835,
-    "wof:lastmodified":1449043717,
+    "wof:lastmodified":1454128989,
     "wof:name":"JC Custom Builder",
     "wof:parent_id":85838141,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-73.680023,40.688077,-73.680023,40.688077],
-  "geometry": {"coordinates":[-73.680023,40.688077],"type":"Point"}
+  "bbox": [
+    -73.680023,
+    40.688077,
+    -73.680023,
+    40.688077
+],
+  "geometry": {"coordinates":[-73.68002300000001,40.688077],"type":"Point"}
 }

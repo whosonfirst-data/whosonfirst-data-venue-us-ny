@@ -2,13 +2,14 @@
   "id": 354412455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.1576,40.8839,-73.1576,40.8839",
     "geom:latitude":40.8839,
     "geom:longitude":-73.1576,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"438 Lake Ave",
     "sg:city":"Saint James",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"www.ebikediscounters.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893017,
+        102191575,
+        404522669,
         85633793,
-        85979773,
+        85979839,
         102082395,
-        85893017
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +57,18 @@
     "wof:geomhash":"a18cac794b974c287abf48321c3afa38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522669,
+            "locality_id":85979839,
             "neighbourhood_id":85893017,
             "region_id":85688543,
             "venue_id":354412455
         }
     ],
     "wof:id":354412455,
-    "wof:lastmodified":1449066279,
+    "wof:lastmodified":1454130876,
     "wof:name":"Bike Discounters",
     "wof:parent_id":85893017,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "store"
     ]
 },
-  "bbox": [-73.1576,40.8839,-73.1576,40.8839],
+  "bbox": [
+    -73.1576,
+    40.8839,
+    -73.1576,
+    40.8839
+],
   "geometry": {"coordinates":[-73.1576,40.8839],"type":"Point"}
 }

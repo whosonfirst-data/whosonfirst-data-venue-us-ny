@@ -2,13 +2,14 @@
   "id": 403714033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.813767,40.955897,-73.813767,40.955897",
     "geom:latitude":40.955897,
     "geom:longitude":-73.813767,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"445 White Plains Rd",
     "sg:city":"Eastchester",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530381,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"f4aa7ae16be2f323c693b6f82ca742fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530381,
             "region_id":85688543,
             "venue_id":403714033
         }
     ],
     "wof:id":403714033,
-    "wof:lastmodified":1449055284,
+    "wof:lastmodified":1454129415,
     "wof:name":"Encore Intl Cmmunications Cons",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530381,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "datum"
     ]
 },
-  "bbox": [-73.813767,40.955897,-73.813767,40.955897],
+  "bbox": [
+    -73.813767,
+    40.955897,
+    -73.813767,
+    40.955897
+],
   "geometry": {"coordinates":[-73.813767,40.955897],"type":"Point"}
 }

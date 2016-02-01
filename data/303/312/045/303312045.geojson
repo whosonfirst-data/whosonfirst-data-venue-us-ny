@@ -2,13 +2,14 @@
   "id": 303312045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.6773,41.62225,-74.6773,41.62225",
     "geom:latitude":41.62225,
     "geom:longitude":-74.6773,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"19 Southwoods Dr",
     "sg:city":"Monticello",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85807439,
+        102082407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"b706370dd7da399694a68d8a55573a69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082407,
+            "neighbourhood_id":85807439,
             "region_id":85688543,
             "venue_id":303312045
         }
     ],
     "wof:id":303312045,
-    "wof:lastmodified":1448999354,
+    "wof:lastmodified":1454123393,
     "wof:name":"Rios Greeting Cards",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807439,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "greeting"
     ]
 },
-  "bbox": [-74.6773,41.62225,-74.6773,41.62225],
+  "bbox": [
+    -74.6773,
+    41.62225,
+    -74.6773,
+    41.62225
+],
   "geometry": {"coordinates":[-74.6773,41.62225],"type":"Point"}
 }

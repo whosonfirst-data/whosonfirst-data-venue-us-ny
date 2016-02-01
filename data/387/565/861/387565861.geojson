@@ -2,13 +2,14 @@
   "id": 387565861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.539915,42.334332,-79.539915,42.334332",
     "geom:latitude":42.334332,
     "geom:longitude":-79.539915,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7371 Prospect Rd",
     "sg:city":"Westfield",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85804453,
+        102081811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"8cb48278bdf591d11d04cc55a3493a8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081811,
+            "neighbourhood_id":85804453,
             "region_id":85688543,
             "venue_id":387565861
         }
     ],
     "wof:id":387565861,
-    "wof:lastmodified":1449059583,
+    "wof:lastmodified":1454130151,
     "wof:name":"Henry Roman's Gun Shop LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85804453,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-79.539915,42.334332,-79.539915,42.334332],
-  "geometry": {"coordinates":[-79.539915,42.334332],"type":"Point"}
+  "bbox": [
+    -79.539915,
+    42.334332,
+    -79.539915,
+    42.334332
+],
+  "geometry": {"coordinates":[-79.53991499999999,42.334332],"type":"Point"}
 }

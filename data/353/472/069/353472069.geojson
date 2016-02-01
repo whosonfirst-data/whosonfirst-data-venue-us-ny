@@ -2,13 +2,14 @@
   "id": 353472069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.142561,43.273229,-77.142561,43.273229",
     "geom:latitude":43.273229,
     "geom:longitude":-77.142561,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7539 E Townline Rd",
     "sg:city":"Williamson",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420530365,
+        102191575,
+        404521681,
         85633793,
+        85979741,
+        102082409,
         85688543
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"9a2d20b6df2bebe0f8d208f4a7da8743",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082409,
+            "localadmin_id":404521681,
+            "locality_id":85979741,
+            "neighbourhood_id":420530365,
             "region_id":85688543,
             "venue_id":353472069
         }
     ],
     "wof:id":353472069,
-    "wof:lastmodified":1449018459,
+    "wof:lastmodified":1454126007,
     "wof:name":"Foton Farms",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +69,11 @@
         "fruit"
     ]
 },
-  "bbox": [-77.142561,43.273229,-77.142561,43.273229],
+  "bbox": [
+    -77.142561,
+    43.273229,
+    -77.142561,
+    43.273229
+],
   "geometry": {"coordinates":[-77.142561,43.273229],"type":"Point"}
 }

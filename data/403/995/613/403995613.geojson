@@ -2,13 +2,14 @@
   "id": 403995613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.132215,40.840388,-73.132215,40.840388",
     "geom:latitude":40.840388,
     "geom:longitude":-73.132215,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"32 Empress Pines Dr",
     "sg:city":"Nesconset",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892999,
+        102191575,
+        404521441,
         85633793,
-        85979667,
-        102082395
+        85979825,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"833ec1ff18ae2b03bc23b8fa59da9495",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979667,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979825,
+            "neighbourhood_id":85892999,
             "region_id":85688543,
             "venue_id":403995613
         }
     ],
     "wof:id":403995613,
-    "wof:lastmodified":1449055824,
+    "wof:lastmodified":1454129491,
     "wof:name":"MIB Consulting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892999,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [-73.132215,40.840388,-73.132215,40.840388],
+  "bbox": [
+    -73.132215,
+    40.840388,
+    -73.132215,
+    40.840388
+],
   "geometry": {"coordinates":[-73.132215,40.840388],"type":"Point"}
 }

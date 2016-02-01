@@ -2,13 +2,14 @@
   "id": 253266175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.624206,40.837695,-73.624206,40.837695",
     "geom:latitude":40.837695,
     "geom:longitude":-73.624206,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"27 Roslyn Dr",
     "sg:city":"Glen Head",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85979159,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"5b90eb9546477167a04709e02627f272",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979159,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":253266175
         }
     ],
     "wof:id":253266175,
-    "wof:lastmodified":1449062915,
+    "wof:lastmodified":1454130260,
     "wof:name":"Amtech Clinical Equipment Svcs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "instrumentation"
     ]
 },
-  "bbox": [-73.624206,40.837695,-73.624206,40.837695],
+  "bbox": [
+    -73.624206,
+    40.837695,
+    -73.624206,
+    40.837695
+],
   "geometry": {"coordinates":[-73.624206,40.837695],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386970619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.350794,40.784424,-73.350794,40.784424",
     "geom:latitude":40.784424,
     "geom:longitude":-73.350794,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"45 Hunting Hollow Ct",
     "sg:city":"Huntington Station",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823533,
+        102191575,
+        404522515,
         85633793,
         85979779,
         102082395,
-        85823533
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"2547f05c4aed00df95ad6e79951289c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85979779,
             "neighbourhood_id":85823533,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":386970619,
-    "wof:lastmodified":1449028970,
+    "wof:lastmodified":1454127281,
     "wof:name":"Pine Hollow Stables",
     "wof:parent_id":85823533,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.350794,40.784424,-73.350794,40.784424],
-  "geometry": {"coordinates":[-73.350794,40.784424],"type":"Point"}
+  "bbox": [
+    -73.350794,
+    40.784424,
+    -73.350794,
+    40.784424
+],
+  "geometry": {"coordinates":[-73.35079399999999,40.784424],"type":"Point"}
 }

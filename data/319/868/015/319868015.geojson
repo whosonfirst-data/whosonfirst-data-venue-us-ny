@@ -2,13 +2,14 @@
   "id": 319868015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.622839,40.705105,-73.622839,40.705105",
     "geom:latitude":40.705105,
     "geom:longitude":-73.622839,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"404 Peninsula Blvd",
     "sg:city":"Hempstead",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892743,
+        102191575,
+        404521473,
         85633793,
-        85979175,
+        85977663,
         102082371,
-        85892743
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"caf091e5a9eda4ba45344548a40a915e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979175,
+            "localadmin_id":404521473,
+            "locality_id":85977663,
             "neighbourhood_id":85892743,
             "region_id":85688543,
             "venue_id":319868015
         }
     ],
     "wof:id":319868015,
-    "wof:lastmodified":1449024129,
+    "wof:lastmodified":1454126721,
     "wof:name":"Long Island Council-Churches",
     "wof:parent_id":85892743,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-73.622839,40.705105,-73.622839,40.705105],
+  "bbox": [
+    -73.622839,
+    40.705105,
+    -73.622839,
+    40.705105
+],
   "geometry": {"coordinates":[-73.622839,40.705105],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387435459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.600903,40.624607,-73.600903,40.624607",
     "geom:latitude":40.624607,
     "geom:longitude":-73.600903,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"906 Bertha Ct",
     "sg:city":"Baldwin",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529159,
+        102191575,
+        404521473,
         85633793,
         85979171,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"c58a88ce49fccffe01523c30973495e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979171,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529159,
             "region_id":85688543,
             "venue_id":387435459
         }
     ],
     "wof:id":387435459,
-    "wof:lastmodified":1449059563,
+    "wof:lastmodified":1454130145,
     "wof:name":"Personal Growth Workshops",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529159,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "miscellaneous"
     ]
 },
-  "bbox": [-73.600903,40.624607,-73.600903,40.624607],
+  "bbox": [
+    -73.600903,
+    40.624607,
+    -73.600903,
+    40.624607
+],
   "geometry": {"coordinates":[-73.600903,40.624607],"type":"Point"}
 }

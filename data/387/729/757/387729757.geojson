@@ -2,13 +2,14 @@
   "id": 387729757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.788579,41.046198,-73.788579,41.046198",
     "geom:latitude":41.046198,
     "geom:longitude":-73.788579,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 Winding Ridge Rd",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85893081,
+        102082373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"e16f2c4973a0660eefb219b44fe24c62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082373,
+            "neighbourhood_id":85893081,
             "region_id":85688543,
             "venue_id":387729757
         }
     ],
     "wof:id":387729757,
-    "wof:lastmodified":1449058023,
+    "wof:lastmodified":1454129871,
     "wof:name":"CPI",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893081,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.788579,41.046198,-73.788579,41.046198],
+  "bbox": [
+    -73.788579,
+    41.046198,
+    -73.788579,
+    41.046198
+],
   "geometry": {"coordinates":[-73.788579,41.046198],"type":"Point"}
 }

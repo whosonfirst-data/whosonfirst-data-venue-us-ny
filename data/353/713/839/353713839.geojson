@@ -2,13 +2,14 @@
   "id": 353713839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.800919,40.669121,-73.800919,40.669121",
     "geom:latitude":40.669121,
     "geom:longitude":-73.800919,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14617 133rd Ave",
     "sg:city":"Jamaica",
     "sg:classifiers":[
@@ -27,12 +28,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865645,
-        85865467
+        102082361,
+        85688543,
+        85865647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,28 +46,32 @@
     "wof:geomhash":"867f4666768a4f4b2f9a01ee831f3cb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85865645,
+            "neighbourhood_id":85823673,
             "region_id":85688543,
             "venue_id":353713839
         },
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85865467,
+            "neighbourhood_id":85865647,
             "region_id":85688543,
             "venue_id":353713839
         }
     ],
     "wof:id":353713839,
-    "wof:lastmodified":1449020569,
+    "wof:lastmodified":1454126616,
     "wof:name":"Holy Ghost Upper Room Ministry",
-    "wof:parent_id":-1,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -71,6 +79,11 @@
         "church"
     ]
 },
-  "bbox": [-73.800919,40.669121,-73.800919,40.669121],
-  "geometry": {"coordinates":[-73.800919,40.669121],"type":"Point"}
+  "bbox": [
+    -73.800919,
+    40.669121,
+    -73.800919,
+    40.669121
+],
+  "geometry": {"coordinates":[-73.80091899999999,40.669121],"type":"Point"}
 }

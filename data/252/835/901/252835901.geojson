@@ -2,13 +2,14 @@
   "id": 252835901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.808919,40.862962,-72.808919,40.862962",
     "geom:latitude":40.862962,
     "geom:longitude":-72.808919,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"80 Ryerson Ave",
     "sg:city":"Manorville",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530021,
+        102191575,
+        404521441,
         85633793,
         85979761,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"564732a34ce39baa2c75e81c847d7fe0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530021,
             "region_id":85688543,
             "venue_id":252835901
         }
     ],
     "wof:id":252835901,
-    "wof:lastmodified":1449005562,
+    "wof:lastmodified":1454124002,
     "wof:name":"Digiorgio Construction Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530021,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-72.808919,40.862962,-72.808919,40.862962],
+  "bbox": [
+    -72.808919,
+    40.862962,
+    -72.808919,
+    40.862962
+],
   "geometry": {"coordinates":[-72.808919,40.862962],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370377581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.910298,40.69193,-73.910298,40.69193",
     "geom:latitude":40.69193,
     "geom:longitude":-73.910298,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"532 Wilson Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85808635,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85808635
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f0e0db4311b304c3fae01f56f0058922",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85808635,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":370377581,
-    "wof:lastmodified":1449030353,
+    "wof:lastmodified":1454127689,
     "wof:name":"Friendly Superette",
     "wof:parent_id":85808635,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "grocer"
     ]
 },
-  "bbox": [-73.910298,40.69193,-73.910298,40.69193],
+  "bbox": [
+    -73.910298,
+    40.69193,
+    -73.910298,
+    40.69193
+],
   "geometry": {"coordinates":[-73.910298,40.69193],"type":"Point"}
 }

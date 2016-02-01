@@ -2,13 +2,14 @@
   "id": 286511539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.864631,40.859609,-73.864631,40.859609",
     "geom:latitude":40.859609,
     "geom:longitude":-73.864631,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"750 Astor Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.jbfcs.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807771,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85807771
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"6459a24ba4f0e7faa140b26cc6709f92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85807771,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":286511539,
-    "wof:lastmodified":1449016548,
+    "wof:lastmodified":1454125639,
     "wof:name":"Jewish Board-Family & Children",
     "wof:parent_id":85807771,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.864631,40.859609,-73.864631,40.859609],
+  "bbox": [
+    -73.864631,
+    40.859609,
+    -73.864631,
+    40.859609
+],
   "geometry": {"coordinates":[-73.864631,40.859609],"type":"Point"}
 }

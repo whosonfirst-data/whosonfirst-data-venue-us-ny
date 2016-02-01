@@ -2,13 +2,14 @@
   "id": 370628031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.724312,40.778612,-73.724312,40.778612",
     "geom:latitude":40.778612,
     "geom:longitude":-73.724312,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"251 Northern Blvd",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85815033,
+        102191575,
+        404522729,
         85633793,
-        85977539,
-        102082377,
-        85815033
+        85977649,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"cfd0904c2c0d845358796b817c5095ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404522729,
+            "locality_id":85977649,
             "neighbourhood_id":85815033,
             "region_id":85688543,
             "venue_id":370628031
         }
     ],
     "wof:id":370628031,
-    "wof:lastmodified":1449031830,
+    "wof:lastmodified":1454128121,
     "wof:name":"Luba Sy Htg AC & Air Quality",
     "wof:parent_id":85815033,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.724312,40.778612,-73.724312,40.778612],
+  "bbox": [
+    -73.724312,
+    40.778612,
+    -73.724312,
+    40.778612
+],
   "geometry": {"coordinates":[-73.724312,40.778612],"type":"Point"}
 }

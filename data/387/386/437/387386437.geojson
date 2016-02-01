@@ -2,13 +2,14 @@
   "id": 387386437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.598385,43.149224,-77.598385,43.149224",
     "geom:latitude":43.149224,
     "geom:longitude":-77.598385,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"259 Monroe Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.health.state.ny.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867103,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85867103
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"c5ba4a9c745e19583be68e696d2683dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85867103,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387386437,
-    "wof:lastmodified":1449058105,
+    "wof:lastmodified":1454129886,
     "wof:name":"Health Dept",
     "wof:parent_id":85867103,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "health"
     ]
 },
-  "bbox": [-77.598385,43.149224,-77.598385,43.149224],
-  "geometry": {"coordinates":[-77.598385,43.149224],"type":"Point"}
+  "bbox": [
+    -77.598385,
+    43.149224,
+    -77.598385,
+    43.149224
+],
+  "geometry": {"coordinates":[-77.59838499999999,43.149224],"type":"Point"}
 }

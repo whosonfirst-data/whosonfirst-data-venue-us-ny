@@ -2,13 +2,14 @@
   "id": 353713079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.819012,40.709215,-73.819012,40.709215",
     "geom:latitude":40.709215,
     "geom:longitude":-73.819012,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13935 Queens Blvd",
     "sg:city":"Jamaica",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865653,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865653
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"54d663f9d74558ddab65b6f8375d1afa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865653,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":353713079,
-    "wof:lastmodified":1449020570,
+    "wof:lastmodified":1454126616,
     "wof:name":"Eastern Motor Co",
     "wof:parent_id":85865653,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "cars-wholesale"
     ]
 },
-  "bbox": [-73.819012,40.709215,-73.819012,40.709215],
+  "bbox": [
+    -73.819012,
+    40.709215,
+    -73.819012,
+    40.709215
+],
   "geometry": {"coordinates":[-73.819012,40.709215],"type":"Point"}
 }

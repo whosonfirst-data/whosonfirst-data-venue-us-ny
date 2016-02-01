@@ -2,13 +2,14 @@
   "id": 253146817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.874669,41.015192,-73.874669,41.015192",
     "geom:latitude":41.015192,
     "geom:longitude":-73.874669,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"112 Main St",
     "sg:city":"Dobbs Ferry",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85849177,
+        102191575,
+        404523359,
         85633793,
-        102082385,
-        85849177
+        85978743,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"52412437f16df51fafa9323dc1e5fb30",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082385,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523359,
+            "locality_id":85978743,
             "neighbourhood_id":85849177,
             "region_id":85688543,
             "venue_id":253146817
         }
     ],
     "wof:id":253146817,
-    "wof:lastmodified":1449064051,
+    "wof:lastmodified":1454130450,
     "wof:name":"Dobbs Ferry Youth Bureau",
     "wof:parent_id":85849177,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "village"
     ]
 },
-  "bbox": [-73.874669,41.015192,-73.874669,41.015192],
+  "bbox": [
+    -73.874669,
+    41.015192,
+    -73.874669,
+    41.015192
+],
   "geometry": {"coordinates":[-73.874669,41.015192],"type":"Point"}
 }

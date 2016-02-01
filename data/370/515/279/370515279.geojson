@@ -2,13 +2,14 @@
   "id": 370515279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.377635,41.755698,-74.377635,41.755698",
     "geom:latitude":41.755698,
     "geom:longitude":-74.377635,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"241 Continental Rd",
     "sg:city":"Napanoch",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816913,
+        102191575,
+        404523275,
         85633793,
-        85978959,
+        85977503,
         102081775,
-        85816913
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"3bcfa9e4df05f3377335aa3a2e07a744",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
-            "locality_id":85978959,
+            "localadmin_id":404523275,
+            "locality_id":85977503,
             "neighbourhood_id":85816913,
             "region_id":85688543,
             "venue_id":370515279
         }
     ],
     "wof:id":370515279,
-    "wof:lastmodified":1449029875,
+    "wof:lastmodified":1454127545,
     "wof:name":"Mansfield Trucking",
     "wof:parent_id":85816913,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "trucking"
     ]
 },
-  "bbox": [-74.377635,41.755698,-74.377635,41.755698],
+  "bbox": [
+    -74.377635,
+    41.755698,
+    -74.377635,
+    41.755698
+],
   "geometry": {"coordinates":[-74.377635,41.755698],"type":"Point"}
 }

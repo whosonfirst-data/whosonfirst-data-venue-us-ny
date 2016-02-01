@@ -2,13 +2,14 @@
   "id": 320843447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.99277,40.665507,-73.99277,40.665507",
     "geom:latitude":40.665507,
     "geom:longitude":-73.99277,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"570 4th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892961,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"588fc84278614d2983ad5ea0c0db4176",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892961,
             "region_id":85688543,
             "venue_id":320843447
         }
     ],
     "wof:id":320843447,
-    "wof:lastmodified":1449011574,
+    "wof:lastmodified":1454124812,
     "wof:name":"Creative Sports Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892961,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.99277,40.665507,-73.99277,40.665507],
-  "geometry": {"coordinates":[-73.99277,40.665507],"type":"Point"}
+  "bbox": [
+    -73.99277,
+    40.665507,
+    -73.99277,
+    40.665507
+],
+  "geometry": {"coordinates":[-73.99276999999999,40.665507],"type":"Point"}
 }

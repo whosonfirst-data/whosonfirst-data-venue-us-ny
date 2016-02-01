@@ -2,13 +2,14 @@
   "id": 337312181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.014699,42.947913,-75.014699,42.947913",
     "geom:latitude":42.947913,
     "geom:longitude":-75.014699,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1674 State Hwy 28",
     "sg:city":"Mohawk",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85828359,
+        102081877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"aaa93d09d7ae6b9814f1b7d2fed17941",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081877,
+            "neighbourhood_id":85828359,
             "region_id":85688543,
             "venue_id":337312181
         }
     ],
     "wof:id":337312181,
-    "wof:lastmodified":1449027363,
+    "wof:lastmodified":1454127037,
     "wof:name":"Haynes Tool & Die Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85828359,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "mfg"
     ]
 },
-  "bbox": [-75.014699,42.947913,-75.014699,42.947913],
-  "geometry": {"coordinates":[-75.014699,42.947913],"type":"Point"}
+  "bbox": [
+    -75.014699,
+    42.947913,
+    -75.014699,
+    42.947913
+],
+  "geometry": {"coordinates":[-75.01469899999999,42.947913],"type":"Point"}
 }

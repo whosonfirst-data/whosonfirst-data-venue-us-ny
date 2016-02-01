@@ -2,13 +2,14 @@
   "id": 370707787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.113115,43.125398,-76.113115,43.125398",
     "geom:latitude":43.125398,
     "geom:longitude":-76.113115,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5919 E Taft Rd",
     "sg:city":"North Syracuse",
     "sg:classifiers":[
@@ -24,8 +25,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85842079,
+        102082351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +38,27 @@
     "wof:geomhash":"ace7b7eac10a96adb3858555d54e99ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "neighbourhood_id":85842079,
             "region_id":85688543,
             "venue_id":370707787
         }
     ],
     "wof:id":370707787,
-    "wof:lastmodified":1449031935,
+    "wof:lastmodified":1454128154,
     "wof:name":"Red Apple",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842079,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.113115,43.125398,-76.113115,43.125398],
-  "geometry": {"coordinates":[-76.113115,43.125398],"type":"Point"}
+  "bbox": [
+    -76.113115,
+    43.125398,
+    -76.113115,
+    43.125398
+],
+  "geometry": {"coordinates":[-76.11311499999999,43.125398],"type":"Point"}
 }

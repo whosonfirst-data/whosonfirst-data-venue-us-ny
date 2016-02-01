@@ -2,13 +2,14 @@
   "id": 253751417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.996839,40.737361,-73.996839,40.737361",
     "geom:latitude":40.737361,
     "geom:longitude":-73.996839,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"510 Ave of the Americas",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -24,12 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892965,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85892937,
-        85892965
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +41,10 @@
     "wof:geomhash":"574433f5c7b5442a23dff9ebf1aee6d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
-            "locality_id":85977539,
-            "neighbourhood_id":85892937,
-            "region_id":85688543,
-            "venue_id":253751417
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892965,
             "region_id":85688543,
@@ -58,14 +52,19 @@
         }
     ],
     "wof:id":253751417,
-    "wof:lastmodified":1449062988,
+    "wof:lastmodified":1454130270,
     "wof:name":"Millenium Communications",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892965,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.996839,40.737361,-73.996839,40.737361],
-  "geometry": {"coordinates":[-73.996839,40.737361],"type":"Point"}
+  "bbox": [
+    -73.996839,
+    40.737361,
+    -73.996839,
+    40.737361
+],
+  "geometry": {"coordinates":[-73.99683899999999,40.737361],"type":"Point"}
 }

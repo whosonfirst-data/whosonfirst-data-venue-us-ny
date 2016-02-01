@@ -2,13 +2,14 @@
   "id": 286604623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.864814,40.85158,-73.864814,40.85158",
     "geom:latitude":40.85158,
     "geom:longitude":-73.864814,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2062 Wallace Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807771,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85807771
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"331a9e813f9b844437bb6e23a962d120",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85807771,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":286604623,
-    "wof:lastmodified":1449017758,
+    "wof:lastmodified":1454125854,
     "wof:name":"Bronx Desi Grocery Corp",
     "wof:parent_id":85807771,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "product"
     ]
 },
-  "bbox": [-73.864814,40.85158,-73.864814,40.85158],
+  "bbox": [
+    -73.864814,
+    40.85158,
+    -73.864814,
+    40.85158
+],
   "geometry": {"coordinates":[-73.864814,40.85158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320709103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.55625,40.711508,-73.55625,40.711508",
     "geom:latitude":40.711508,
     "geom:longitude":-73.55625,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"504 E Meadow Ave",
     "sg:city":"East Meadow",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"www.airspares.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892817,
+        102191575,
+        404521473,
         85633793,
         85979141,
         102082371,
-        85892817
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"beb032770312362f64b507d8d1aaa08b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979141,
             "neighbourhood_id":85892817,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":320709103,
-    "wof:lastmodified":1449012010,
+    "wof:lastmodified":1454124883,
     "wof:name":"Airspares International Inc",
     "wof:parent_id":85892817,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.55625,40.711508,-73.55625,40.711508],
-  "geometry": {"coordinates":[-73.55625,40.711508],"type":"Point"}
+  "bbox": [
+    -73.55625,
+    40.711508,
+    -73.55625,
+    40.711508
+],
+  "geometry": {"coordinates":[-73.55625000000001,40.711508],"type":"Point"}
 }

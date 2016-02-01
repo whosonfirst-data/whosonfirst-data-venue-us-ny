@@ -2,13 +2,14 @@
   "id": 336905059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.193944,43.241942,-78.193944,43.241942",
     "geom:latitude":43.241942,
     "geom:longitude":-78.193944,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"156 S Main St",
     "sg:city":"Albion",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819435,
+        102191575,
+        404521525,
         85633793,
+        85978607,
         102082411,
-        85819435
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"98b16baf89a4f38aaf3e573c78497c3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082411,
-            "locality_id":-1,
+            "localadmin_id":404521525,
+            "locality_id":85978607,
             "neighbourhood_id":85819435,
             "region_id":85688543,
             "venue_id":336905059
         }
     ],
     "wof:id":336905059,
-    "wof:lastmodified":1448997379,
+    "wof:lastmodified":1454122680,
     "wof:name":"Fleet",
     "wof:parent_id":85819435,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "commercial"
     ]
 },
-  "bbox": [-78.193944,43.241942,-78.193944,43.241942],
+  "bbox": [
+    -78.193944,
+    43.241942,
+    -78.193944,
+    43.241942
+],
   "geometry": {"coordinates":[-78.193944,43.241942],"type":"Point"}
 }

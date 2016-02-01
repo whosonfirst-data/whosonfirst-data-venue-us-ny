@@ -2,13 +2,14 @@
   "id": 320212027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.063735,40.771068,-73.063735,40.771068",
     "geom:latitude":40.771068,
     "geom:longitude":-73.063735,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1716 Church St",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"c86c4017952c9faab3ed4fc0b0e3fe4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":320212027
         }
     ],
     "wof:id":320212027,
-    "wof:lastmodified":1449013680,
+    "wof:lastmodified":1454125154,
     "wof:name":"Colorspec Codings Inc",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "wood"
     ]
 },
-  "bbox": [-73.063735,40.771068,-73.063735,40.771068],
-  "geometry": {"coordinates":[-73.063735,40.771068],"type":"Point"}
+  "bbox": [
+    -73.063735,
+    40.771068,
+    -73.063735,
+    40.771068
+],
+  "geometry": {"coordinates":[-73.06373499999999,40.771068],"type":"Point"}
 }

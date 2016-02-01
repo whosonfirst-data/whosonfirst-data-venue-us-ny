@@ -2,13 +2,14 @@
   "id": 320144441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.012293,43.241989,-79.012293,43.241989",
     "geom:latitude":43.241989,
     "geom:longitude":-79.012293,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3265 Creek Rd",
     "sg:city":"Youngstown",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85820171,
+        102191575,
+        404522749,
         85633793,
+        85978265,
+        102081767,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"b0e614d5f87816194ccf621ffe44f0f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081767,
+            "localadmin_id":404522749,
+            "locality_id":85978265,
+            "neighbourhood_id":85820171,
             "region_id":85688543,
             "venue_id":320144441
         }
     ],
     "wof:id":320144441,
-    "wof:lastmodified":1449013987,
+    "wof:lastmodified":1454125206,
     "wof:name":"Town Assessor",
-    "wof:parent_id":-1,
+    "wof:parent_id":85820171,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "taxation"
     ]
 },
-  "bbox": [-79.012293,43.241989,-79.012293,43.241989],
+  "bbox": [
+    -79.012293,
+    43.241989,
+    -79.012293,
+    43.241989
+],
   "geometry": {"coordinates":[-79.012293,43.241989],"type":"Point"}
 }

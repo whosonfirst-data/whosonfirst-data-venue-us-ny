@@ -2,13 +2,14 @@
   "id": 354005923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.575996,40.750198,-73.575996,40.750198",
     "geom:latitude":40.750198,
     "geom:longitude":-73.575996,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"500 Old Country Rd",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846785,
+        102191575,
+        404521473,
         85633793,
-        85979093,
+        85979181,
         102082371,
-        85846785
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"d26ef636cb98be6122f8beeeb818a171",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979093,
+            "localadmin_id":404521473,
+            "locality_id":85979181,
             "neighbourhood_id":85846785,
             "region_id":85688543,
             "venue_id":354005923
         }
     ],
     "wof:id":354005923,
-    "wof:lastmodified":1449067531,
+    "wof:lastmodified":1454131265,
     "wof:name":"North Bay Cadillac",
     "wof:parent_id":85846785,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-73.575996,40.750198,-73.575996,40.750198],
+  "bbox": [
+    -73.575996,
+    40.750198,
+    -73.575996,
+    40.750198
+],
   "geometry": {"coordinates":[-73.575996,40.750198],"type":"Point"}
 }

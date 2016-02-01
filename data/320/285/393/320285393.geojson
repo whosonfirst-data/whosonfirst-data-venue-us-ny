@@ -2,13 +2,14 @@
   "id": 320285393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.838563,40.882739,-73.838563,40.882739",
     "geom:latitude":40.882739,
     "geom:longitude":-73.838563,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3509 de Reimer Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865657,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865657
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"ec894e8ba14382471a82fd00c64a48bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865657,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":320285393,
-    "wof:lastmodified":1449011366,
+    "wof:lastmodified":1454124778,
     "wof:name":"Tony's Auto",
     "wof:parent_id":85865657,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "automobile"
     ]
 },
-  "bbox": [-73.838563,40.882739,-73.838563,40.882739],
-  "geometry": {"coordinates":[-73.838563,40.882739],"type":"Point"}
+  "bbox": [
+    -73.838563,
+    40.882739,
+    -73.838563,
+    40.882739
+],
+  "geometry": {"coordinates":[-73.83856299999999,40.882739],"type":"Point"}
 }

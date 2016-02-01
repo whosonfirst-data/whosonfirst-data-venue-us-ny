@@ -2,13 +2,14 @@
   "id": 370652457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.927585,41.7037,-73.927585,41.7037",
     "geom:latitude":41.7037,
     "geom:longitude":-73.927585,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"285 Main St",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"https://www.chase.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892991,
+        102191575,
+        404522305,
         85633793,
         85977835,
         102082363,
-        85892991
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"1a3580b96c150365a9f7827c4103fbaa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
+            "localadmin_id":404522305,
             "locality_id":85977835,
             "neighbourhood_id":85892991,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":370652457,
-    "wof:lastmodified":1449031258,
+    "wof:lastmodified":1454127955,
     "wof:name":"Chase",
     "wof:parent_id":85892991,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "commercial"
     ]
 },
-  "bbox": [-73.927585,41.7037,-73.927585,41.7037],
-  "geometry": {"coordinates":[-73.927585,41.7037],"type":"Point"}
+  "bbox": [
+    -73.927585,
+    41.7037,
+    -73.927585,
+    41.7037
+],
+  "geometry": {"coordinates":[-73.92758499999999,41.7037],"type":"Point"}
 }

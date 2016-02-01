@@ -2,13 +2,14 @@
   "id": 320108825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.25025,40.847761,-73.25025,40.847761",
     "geom:latitude":40.847761,
     "geom:longitude":-73.25025,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"950 W Jericho Tpke",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530033,
+        102191575,
+        404522669,
         85633793,
-        85979919,
-        102082395
+        85979805,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"6091b66332bb412485014377d0587ccb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522669,
+            "locality_id":85979805,
+            "neighbourhood_id":420530033,
             "region_id":85688543,
             "venue_id":320108825
         }
     ],
     "wof:id":320108825,
-    "wof:lastmodified":1449011321,
+    "wof:lastmodified":1454124771,
     "wof:name":"Smithtown Armature Works Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530033,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "motor"
     ]
 },
-  "bbox": [-73.25025,40.847761,-73.25025,40.847761],
-  "geometry": {"coordinates":[-73.25025,40.847761],"type":"Point"}
+  "bbox": [
+    -73.25025,
+    40.847761,
+    -73.25025,
+    40.847761
+],
+  "geometry": {"coordinates":[-73.25024999999999,40.847761],"type":"Point"}
 }

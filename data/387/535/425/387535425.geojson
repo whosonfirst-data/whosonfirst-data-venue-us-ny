@@ -2,13 +2,14 @@
   "id": 387535425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.74528,41.01576,-73.74528,41.01576",
     "geom:latitude":41.01576,
     "geom:longitude":-73.74528,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"32 Robinhood Rd",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420559403,
+        102191575,
+        404523395,
         85633793,
-        85978735,
+        85978761,
         102082373,
-        85893083
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +41,30 @@
     "wof:geomhash":"049d1477b481ada74dcac201fcc6b42c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978735,
-            "neighbourhood_id":85893083,
+            "localadmin_id":404523395,
+            "locality_id":85978761,
+            "neighbourhood_id":420559403,
             "region_id":85688543,
             "venue_id":387535425
         }
     ],
     "wof:id":387535425,
-    "wof:lastmodified":1449056787,
+    "wof:lastmodified":1454129651,
     "wof:name":"P Schauber Insurance",
-    "wof:parent_id":85893083,
+    "wof:parent_id":420559403,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.74528,41.01576,-73.74528,41.01576],
-  "geometry": {"coordinates":[-73.74528,41.01576],"type":"Point"}
+  "bbox": [
+    -73.74528,
+    41.01576,
+    -73.74528,
+    41.01576
+],
+  "geometry": {"coordinates":[-73.74527999999999,41.01576],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387836043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.143396,43.068016,-76.143396,43.068016",
     "geom:latitude":43.068016,
     "geom:longitude":-76.143396,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1231 Butternut St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881259,
+        102191575,
+        404522845,
         85633793,
-        85977785,
+        85979211,
         102082351,
-        85881259
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"072cae22e09263e2e19756e8b12d1e5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
-            "locality_id":85977785,
+            "localadmin_id":404522845,
+            "locality_id":85979211,
             "neighbourhood_id":85881259,
             "region_id":85688543,
             "venue_id":387836043
         }
     ],
     "wof:id":387836043,
-    "wof:lastmodified":1449058626,
+    "wof:lastmodified":1454129983,
     "wof:name":"North Side Auto",
     "wof:parent_id":85881259,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-76.143396,43.068016,-76.143396,43.068016],
+  "bbox": [
+    -76.143396,
+    43.068016,
+    -76.143396,
+    43.068016
+],
   "geometry": {"coordinates":[-76.143396,43.068016],"type":"Point"}
 }

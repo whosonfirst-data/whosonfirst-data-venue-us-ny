@@ -2,13 +2,14 @@
   "id": 270428489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.660938,40.715526,-73.660938,40.715526",
     "geom:latitude":40.715526,
     "geom:longitude":-73.660938,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"261 Nassau Blvd S",
     "sg:city":"Garden City",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829437,
+        102191575,
+        404521473,
         85633793,
-        85979119,
-        102082371
+        85979057,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"0764087e524ee7cfe6db09ed42781034",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979119,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979057,
+            "neighbourhood_id":85829437,
             "region_id":85688543,
             "venue_id":270428489
         }
     ],
     "wof:id":270428489,
-    "wof:lastmodified":1449010946,
+    "wof:lastmodified":1454124711,
     "wof:name":"GCSS LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85829437,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.660938,40.715526,-73.660938,40.715526],
+  "bbox": [
+    -73.660938,
+    40.715526,
+    -73.660938,
+    40.715526
+],
   "geometry": {"coordinates":[-73.660938,40.715526],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370324981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.792603,40.859402,-72.792603,40.859402",
     "geom:latitude":40.859402,
     "geom:longitude":-72.792603,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Haney Ct",
     "sg:city":"Manorville",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530021,
+        102191575,
+        404521441,
         85633793,
         85979761,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"14a6d31e4929fc920f20e7c04324e986",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530021,
             "region_id":85688543,
             "venue_id":370324981
         }
     ],
     "wof:id":370324981,
-    "wof:lastmodified":1449031054,
+    "wof:lastmodified":1454127894,
     "wof:name":"Gozo John Jr Contractor",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530021,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-72.792603,40.859402,-72.792603,40.859402],
+  "bbox": [
+    -72.792603,
+    40.859402,
+    -72.792603,
+    40.859402
+],
   "geometry": {"coordinates":[-72.792603,40.859402],"type":"Point"}
 }

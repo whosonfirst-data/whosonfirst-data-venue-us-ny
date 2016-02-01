@@ -2,13 +2,14 @@
   "id": 185842765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.939449,40.687471,-73.939449,40.687471",
     "geom:latitude":40.687471,
     "geom:longitude":-73.939449,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"634 GATES AVE",
     "sg:city":"BROOKLYN",
     "sg:classifiers":[
@@ -48,11 +49,13 @@
     "sg:website":"http://www.rentacenter.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892907,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85892907
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,9 +65,10 @@
     "wof:geomhash":"3745e54e2694e038d2c4db089b7f99a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892907,
             "region_id":85688543,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":185842765,
-    "wof:lastmodified":1449006726,
+    "wof:lastmodified":1454124160,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":85892907,
     "wof:placetype":"venue",
@@ -87,6 +91,11 @@
         "rental"
     ]
 },
-  "bbox": [-73.939449,40.687471,-73.939449,40.687471],
+  "bbox": [
+    -73.939449,
+    40.687471,
+    -73.939449,
+    40.687471
+],
   "geometry": {"coordinates":[-73.939449,40.687471],"type":"Point"}
 }

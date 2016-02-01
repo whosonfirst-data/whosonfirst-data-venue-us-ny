@@ -2,13 +2,14 @@
   "id": 353657667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.805833,40.918487,-73.805833,40.918487",
     "geom:latitude":40.918487,
     "geom:longitude":-73.805833,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"301 5th Ave",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845319,
+        102191575,
+        404523375,
         85633793,
-        85978711,
-        102082373
+        85978749,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"c07b9fd8985e59e468d21f65bf49459e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978711,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523375,
+            "locality_id":85978749,
+            "neighbourhood_id":85845319,
             "region_id":85688543,
             "venue_id":353657667
         }
     ],
     "wof:id":353657667,
-    "wof:lastmodified":1449018538,
+    "wof:lastmodified":1454126031,
     "wof:name":"Triumph Auto Glass",
-    "wof:parent_id":-1,
+    "wof:parent_id":85845319,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "plate"
     ]
 },
-  "bbox": [-73.805833,40.918487,-73.805833,40.918487],
-  "geometry": {"coordinates":[-73.805833,40.918487],"type":"Point"}
+  "bbox": [
+    -73.805833,
+    40.918487,
+    -73.805833,
+    40.918487
+],
+  "geometry": {"coordinates":[-73.80583300000001,40.918487],"type":"Point"}
 }

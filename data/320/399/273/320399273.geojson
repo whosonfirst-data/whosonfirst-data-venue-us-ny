@@ -2,13 +2,14 @@
   "id": 320399273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.440907,42.380648,-79.440907,42.380648",
     "geom:latitude":42.380648,
     "geom:longitude":-79.440907,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"108 Highland Ave",
     "sg:city":"Brocton",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528271,
+        102191575,
+        404522093,
         85633793,
         85978843,
-        102081811
+        102081811,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"af62ad322535610fbe966afea669bba8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081811,
+            "localadmin_id":404522093,
             "locality_id":85978843,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528271,
             "region_id":85688543,
             "venue_id":320399273
         }
     ],
     "wof:id":320399273,
-    "wof:lastmodified":1449011919,
+    "wof:lastmodified":1454124869,
     "wof:name":"Brocton Tool House",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528271,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "village"
     ]
 },
-  "bbox": [-79.440907,42.380648,-79.440907,42.380648],
+  "bbox": [
+    -79.440907,
+    42.380648,
+    -79.440907,
+    42.380648
+],
   "geometry": {"coordinates":[-79.440907,42.380648],"type":"Point"}
 }

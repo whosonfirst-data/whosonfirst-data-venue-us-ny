@@ -2,13 +2,14 @@
   "id": 354407395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.110875,40.785034,-73.110875,40.785034",
     "geom:latitude":40.785034,
     "geom:longitude":-73.110875,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3845 Veterans Memorial Hwy",
     "sg:city":"Ronkonkoma",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"aa1ff71eb92a7ecca749679361333a77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":354407395
         }
     ],
     "wof:id":354407395,
-    "wof:lastmodified":1449066893,
+    "wof:lastmodified":1454131064,
     "wof:name":"Seasons",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.110875,40.785034,-73.110875,40.785034],
-  "geometry": {"coordinates":[-73.110875,40.785034],"type":"Point"}
+  "bbox": [
+    -73.110875,
+    40.785034,
+    -73.110875,
+    40.785034
+],
+  "geometry": {"coordinates":[-73.11087499999999,40.785034],"type":"Point"}
 }

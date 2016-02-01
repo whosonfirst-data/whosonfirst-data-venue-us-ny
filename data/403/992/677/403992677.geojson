@@ -2,13 +2,14 @@
   "id": 403992677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.88704,40.854799,-73.88704,40.854799",
     "geom:latitude":40.854799,
     "geom:longitude":-73.88704,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2384 Hughes Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865533,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865533
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"e61930117e5e31ab8a3d5d9d77ead11a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865533,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":403992677,
-    "wof:lastmodified":1449055250,
+    "wof:lastmodified":1454129411,
     "wof:name":"Tamayo Cigars",
     "wof:parent_id":85865533,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "dealer"
     ]
 },
-  "bbox": [-73.88704,40.854799,-73.88704,40.854799],
+  "bbox": [
+    -73.88704,
+    40.854799,
+    -73.88704,
+    40.854799
+],
   "geometry": {"coordinates":[-73.88704,40.854799],"type":"Point"}
 }

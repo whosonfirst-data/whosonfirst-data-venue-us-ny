@@ -2,13 +2,14 @@
   "id": 387852465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.843264,40.860804,-73.843264,40.860804",
     "geom:latitude":40.860804,
     "geom:longitude":-73.843264,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2307 Eastchester Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825625,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85825625
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"cee2b81c915a288ae16c79555ac144e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85825625,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387852465,
-    "wof:lastmodified":1449059276,
+    "wof:lastmodified":1454130095,
     "wof:name":"Albert Sontag Real Estate",
     "wof:parent_id":85825625,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "agency"
     ]
 },
-  "bbox": [-73.843264,40.860804,-73.843264,40.860804],
+  "bbox": [
+    -73.843264,
+    40.860804,
+    -73.843264,
+    40.860804
+],
   "geometry": {"coordinates":[-73.843264,40.860804],"type":"Point"}
 }

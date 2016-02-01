@@ -2,13 +2,14 @@
   "id": 387678315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.204937,40.881781,-73.204937,40.881781",
     "geom:latitude":40.881781,
     "geom:longitude":-73.204937,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"178 Oakside Dr",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530055,
+        102191575,
+        404522669,
         85633793,
         85979919,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"3a0ac77d81c4f8af64faf9e890a53c3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530055,
             "region_id":85688543,
             "venue_id":387678315
         }
     ],
     "wof:id":387678315,
-    "wof:lastmodified":1449057938,
+    "wof:lastmodified":1454129856,
     "wof:name":"Straus Historical Society",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530055,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "gallery"
     ]
 },
-  "bbox": [-73.204937,40.881781,-73.204937,40.881781],
+  "bbox": [
+    -73.204937,
+    40.881781,
+    -73.204937,
+    40.881781
+],
   "geometry": {"coordinates":[-73.204937,40.881781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320662291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.339561,40.833416,-73.339561,40.833416",
     "geom:latitude":40.833416,
     "geom:longitude":-73.339561,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1740 E Jericho Tpke",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.americanhm.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892873,
+        102191575,
+        404522515,
         85633793,
         85979751,
         102082395,
-        85892873
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"560746f922bcffc9fcebc5a3edc59cb3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85979751,
             "neighbourhood_id":85892873,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":320662291,
-    "wof:lastmodified":1449013796,
+    "wof:lastmodified":1454125173,
     "wof:name":"American Home Mortgage",
     "wof:parent_id":85892873,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "real estate"
     ]
 },
-  "bbox": [-73.339561,40.833416,-73.339561,40.833416],
+  "bbox": [
+    -73.339561,
+    40.833416,
+    -73.339561,
+    40.833416
+],
   "geometry": {"coordinates":[-73.339561,40.833416],"type":"Point"}
 }

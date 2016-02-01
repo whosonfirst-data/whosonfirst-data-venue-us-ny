@@ -2,13 +2,14 @@
   "id": 370305645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.131805,40.979673,-72.131805,40.979673",
     "geom:latitude":40.979673,
     "geom:longitude":-72.131805,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1980 Montauk Hwy",
     "sg:city":"Amagansett",
     "sg:classifiers":[],
@@ -18,10 +19,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530011,
+        102191575,
+        404521445,
         85633793,
         85979941,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -31,24 +35,30 @@
     "wof:geomhash":"a6e2ae1c7c961027482c798c4bfce2b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521445,
             "locality_id":85979941,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530011,
             "region_id":85688543,
             "venue_id":370305645
         }
     ],
     "wof:id":370305645,
-    "wof:lastmodified":1449029604,
+    "wof:lastmodified":1454127464,
     "wof:name":"Lobster Roll Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530011,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.131805,40.979673,-72.131805,40.979673],
+  "bbox": [
+    -72.131805,
+    40.979673,
+    -72.131805,
+    40.979673
+],
   "geometry": {"coordinates":[-72.131805,40.979673],"type":"Point"}
 }

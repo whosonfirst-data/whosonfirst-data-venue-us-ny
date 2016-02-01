@@ -2,13 +2,14 @@
   "id": 387032741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.549882,40.785944,-73.549882,40.785944",
     "geom:latitude":40.785944,
     "geom:longitude":-73.549882,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"125 Jericho Tpke",
     "sg:city":"Jericho",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529157,
+        102191575,
+        404521475,
         85633793,
         85979085,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"ca87bf7e5dd76a99512db6a40fb059b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979085,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529157,
             "region_id":85688543,
             "venue_id":387032741
         }
     ],
     "wof:id":387032741,
-    "wof:lastmodified":1449057966,
+    "wof:lastmodified":1454129860,
     "wof:name":"N F & M International Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529157,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "forging"
     ]
 },
-  "bbox": [-73.549882,40.785944,-73.549882,40.785944],
+  "bbox": [
+    -73.549882,
+    40.785944,
+    -73.549882,
+    40.785944
+],
   "geometry": {"coordinates":[-73.549882,40.785944],"type":"Point"}
 }

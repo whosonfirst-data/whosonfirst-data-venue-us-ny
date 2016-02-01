@@ -2,13 +2,14 @@
   "id": 387754625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.216718,43.062339,-76.216718,43.062339",
     "geom:latitude":43.062339,
     "geom:longitude":-76.216718,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"109 Bridge St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85818613,
+        102191575,
+        404522819,
         85633793,
-        85977787,
-        102082351
+        85979217,
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"21ef2f2094b88888843fa86d14930149",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
-            "locality_id":85977787,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522819,
+            "locality_id":85979217,
+            "neighbourhood_id":85818613,
             "region_id":85688543,
             "venue_id":387754625
         }
     ],
     "wof:id":387754625,
-    "wof:lastmodified":1449058605,
+    "wof:lastmodified":1454129978,
     "wof:name":"James Bridge Street Tavern",
-    "wof:parent_id":-1,
+    "wof:parent_id":85818613,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "eating"
     ]
 },
-  "bbox": [-76.216718,43.062339,-76.216718,43.062339],
+  "bbox": [
+    -76.216718,
+    43.062339,
+    -76.216718,
+    43.062339
+],
   "geometry": {"coordinates":[-76.216718,43.062339],"type":"Point"}
 }

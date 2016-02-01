@@ -2,13 +2,14 @@
   "id": 404114539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.178248,42.638544,-76.178248,42.638544",
     "geom:latitude":42.638544,
     "geom:longitude":-76.178248,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 N Main St",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528395,
+        102191575,
+        404522255,
         85633793,
         85978519,
-        102083011
+        102083011,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"66428ac7c546f54bd10d053dbc78e30e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083011,
+            "localadmin_id":404522255,
             "locality_id":85978519,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528395,
             "region_id":85688543,
             "venue_id":404114539
         }
     ],
     "wof:id":404114539,
-    "wof:lastmodified":1449039542,
+    "wof:lastmodified":1454128883,
     "wof:name":"Homer Laundry & Cleaners Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528395,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "garment"
     ]
 },
-  "bbox": [-76.178248,42.638544,-76.178248,42.638544],
+  "bbox": [
+    -76.178248,
+    42.638544,
+    -76.178248,
+    42.638544
+],
   "geometry": {"coordinates":[-76.178248,42.638544],"type":"Point"}
 }

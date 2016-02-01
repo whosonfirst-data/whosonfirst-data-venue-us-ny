@@ -2,13 +2,14 @@
   "id": 386990953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.585556,43.158338,-77.585556,43.158338",
     "geom:latitude":43.158338,
     "geom:longitude":-77.585556,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"250 Goodman St N",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.booksmartstudio.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868845,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85868845
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +61,10 @@
     "wof:geomhash":"40cf5f4a1c5f61b3eed9b167efee3ebb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85868845,
             "region_id":85688543,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":386990953,
-    "wof:lastmodified":1449028829,
+    "wof:lastmodified":1454127244,
     "wof:name":"Booksmart Studio",
     "wof:parent_id":85868845,
     "wof:placetype":"venue",
@@ -84,6 +88,11 @@
         "restoration"
     ]
 },
-  "bbox": [-77.585556,43.158338,-77.585556,43.158338],
+  "bbox": [
+    -77.585556,
+    43.158338,
+    -77.585556,
+    43.158338
+],
   "geometry": {"coordinates":[-77.585556,43.158338],"type":"Point"}
 }

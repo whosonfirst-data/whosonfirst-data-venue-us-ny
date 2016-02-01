@@ -2,13 +2,14 @@
   "id": 353552305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.380609,40.697564,-73.380609,40.697564",
     "geom:latitude":40.697564,
     "geom:longitude":-73.380609,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"26 Bendix Pl",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
-        85979759,
-        102082395
+        85978477,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"cf976cfbea07f7a9fdf77fe62817ace6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979759,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522513,
+            "locality_id":85978477,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":353552305
         }
     ],
     "wof:id":353552305,
-    "wof:lastmodified":1449019311,
+    "wof:lastmodified":1454126254,
     "wof:name":"Lindenhurst Touch Down",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.380609,40.697564,-73.380609,40.697564],
-  "geometry": {"coordinates":[-73.380609,40.697564],"type":"Point"}
+  "bbox": [
+    -73.380609,
+    40.697564,
+    -73.380609,
+    40.697564
+],
+  "geometry": {"coordinates":[-73.38060900000001,40.697564],"type":"Point"}
 }

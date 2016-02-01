@@ -2,13 +2,14 @@
   "id": 353744297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.726402,40.586601,-73.726402,40.586601",
     "geom:latitude":40.586601,
     "geom:longitude":-73.726402,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1751 Ocean Blvd",
     "sg:city":"Atlantic Beach",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"www.newplazabeachclub.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85818909,
+        102191575,
+        404521473,
         85633793,
         85977631,
         102082371,
-        85818909
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"fd308ea67df0439d6bae8f03144fc54d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977631,
             "neighbourhood_id":85818909,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":353744297,
-    "wof:lastmodified":1449019177,
+    "wof:lastmodified":1454126217,
     "wof:name":"New Plaza Beach Club",
     "wof:parent_id":85818909,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "beach"
     ]
 },
-  "bbox": [-73.726402,40.586601,-73.726402,40.586601],
-  "geometry": {"coordinates":[-73.726402,40.586601],"type":"Point"}
+  "bbox": [
+    -73.726402,
+    40.586601,
+    -73.726402,
+    40.586601
+],
+  "geometry": {"coordinates":[-73.72640199999999,40.586601],"type":"Point"}
 }

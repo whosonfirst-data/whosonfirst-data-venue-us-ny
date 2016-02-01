@@ -2,13 +2,14 @@
   "id": 370311143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.801776,40.807858,-72.801776,40.807858",
     "geom:latitude":40.807858,
     "geom:longitude":-72.801776,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Miller Ave",
     "sg:city":"Center Moriches",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"226499d14148d50234175887bd6ac247",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":370311143
         }
     ],
     "wof:id":370311143,
-    "wof:lastmodified":1449029886,
+    "wof:lastmodified":1454127548,
     "wof:name":"The Pool Man",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.801776,40.807858,-72.801776,40.807858],
+  "bbox": [
+    -72.801776,
+    40.807858,
+    -72.801776,
+    40.807858
+],
   "geometry": {"coordinates":[-72.801776,40.807858],"type":"Point"}
 }

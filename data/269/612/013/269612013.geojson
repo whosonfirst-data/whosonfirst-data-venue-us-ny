@@ -2,13 +2,14 @@
   "id": 269612013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.798993,41.217102,-73.798993,41.217102",
     "geom:latitude":41.217102,
     "geom:longitude":-73.798993,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"301 Chadeayne Rd",
     "sg:city":"Ossining",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "sg:website":"www.communitybiblechurch.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85852331,
+        102082373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"fa006c33cb5cd6a6e075e42515d28701",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082373,
+            "neighbourhood_id":85852331,
             "region_id":85688543,
             "venue_id":269612013
         }
     ],
     "wof:id":269612013,
-    "wof:lastmodified":1449037197,
+    "wof:lastmodified":1454128618,
     "wof:name":"Community Bible Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85852331,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -58,6 +60,11 @@
         "church"
     ]
 },
-  "bbox": [-73.798993,41.217102,-73.798993,41.217102],
+  "bbox": [
+    -73.798993,
+    41.217102,
+    -73.798993,
+    41.217102
+],
   "geometry": {"coordinates":[-73.798993,41.217102],"type":"Point"}
 }

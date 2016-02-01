@@ -2,13 +2,14 @@
   "id": 370271153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.546501,40.760591,-73.546501,40.760591",
     "geom:latitude":40.760591,
     "geom:longitude":-73.546501,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"325 Duffy Ave",
     "sg:city":"Hicksville",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://www.cskcorp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892883,
+        102191575,
+        404521475,
         85633793,
         85979093,
         102082371,
-        85892883
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"4c034ddf311b8ed5ceb017ca0ce632c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979093,
             "neighbourhood_id":85892883,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":370271153,
-    "wof:lastmodified":1449030854,
+    "wof:lastmodified":1454127833,
     "wof:name":"Canal Corporation",
     "wof:parent_id":85892883,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.546501,40.760591,-73.546501,40.760591],
-  "geometry": {"coordinates":[-73.546501,40.760591],"type":"Point"}
+  "bbox": [
+    -73.546501,
+    40.760591,
+    -73.546501,
+    40.760591
+],
+  "geometry": {"coordinates":[-73.54650100000001,40.760591],"type":"Point"}
 }

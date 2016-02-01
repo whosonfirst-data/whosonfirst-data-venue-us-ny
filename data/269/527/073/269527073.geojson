@@ -2,13 +2,14 @@
   "id": 269527073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.867621,40.844774,-73.867621,40.844774",
     "geom:latitude":40.844774,
     "geom:longitude":-73.867621,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1710 Unionport Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853499,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85853499
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"b02b6ba2c79b10928ca577638db50400",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853499,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":269527073,
-    "wof:lastmodified":1449038337,
+    "wof:lastmodified":1454128748,
     "wof:name":"SRS Saint John Baptists",
     "wof:parent_id":85853499,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.867621,40.844774,-73.867621,40.844774],
+  "bbox": [
+    -73.867621,
+    40.844774,
+    -73.867621,
+    40.844774
+],
   "geometry": {"coordinates":[-73.867621,40.844774],"type":"Point"}
 }

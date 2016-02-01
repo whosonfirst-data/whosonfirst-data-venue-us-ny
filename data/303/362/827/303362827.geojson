@@ -2,13 +2,14 @@
   "id": 303362827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.109916,40.570669,-74.109916,40.570669",
     "geom:latitude":40.570669,
     "geom:longitude":-74.109916,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"337 New Dorp Ln",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529771,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"711ba67025828652cede600f87937247",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529771,
             "region_id":85688543,
             "venue_id":303362827
         }
     ],
     "wof:id":303362827,
-    "wof:lastmodified":1448999699,
+    "wof:lastmodified":1454123485,
     "wof:name":"L&S Cards & Collectibles",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529771,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "greeting"
     ]
 },
-  "bbox": [-74.109916,40.570669,-74.109916,40.570669],
+  "bbox": [
+    -74.109916,
+    40.570669,
+    -74.109916,
+    40.570669
+],
   "geometry": {"coordinates":[-74.109916,40.570669],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387940381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.940096,41.175781,-73.940096,41.175781",
     "geom:latitude":41.175781,
     "geom:longitude":-73.940096,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Riverside Ave",
     "sg:city":"Haverstraw",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529787,
+        102191575,
+        404523093,
         85633793,
+        85978549,
+        102082385,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"d0053feaa73885088734b7105bc56f03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082385,
+            "localadmin_id":404523093,
+            "locality_id":85978549,
+            "neighbourhood_id":420529787,
             "region_id":85688543,
             "venue_id":387940381
         }
     ],
     "wof:id":387940381,
-    "wof:lastmodified":1449057030,
+    "wof:lastmodified":1454129695,
     "wof:name":"Haverstraw Transit Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529787,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "line"
     ]
 },
-  "bbox": [-73.940096,41.175781,-73.940096,41.175781],
+  "bbox": [
+    -73.940096,
+    41.175781,
+    -73.940096,
+    41.175781
+],
   "geometry": {"coordinates":[-73.940096,41.175781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287282981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.624001,41.824371,-74.624001,41.824371",
     "geom:latitude":41.824371,
     "geom:longitude":-74.624001,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"107 Pine Rd",
     "sg:city":"Woodbourne",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85814597,
+        102191575,
+        404523185,
         85633793,
+        85978975,
+        102082407,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"e66fc128a070837b957ef65a3243457c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082407,
+            "localadmin_id":404523185,
+            "locality_id":85978975,
+            "neighbourhood_id":85814597,
             "region_id":85688543,
             "venue_id":287282981
         }
     ],
     "wof:id":287282981,
-    "wof:lastmodified":1449001226,
+    "wof:lastmodified":1454123885,
     "wof:name":"Leonard Marinaccio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85814597,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-74.624001,41.824371,-74.624001,41.824371],
-  "geometry": {"coordinates":[-74.624001,41.824371],"type":"Point"}
+  "bbox": [
+    -74.624001,
+    41.824371,
+    -74.624001,
+    41.824371
+],
+  "geometry": {"coordinates":[-74.62400100000001,41.824371],"type":"Point"}
 }

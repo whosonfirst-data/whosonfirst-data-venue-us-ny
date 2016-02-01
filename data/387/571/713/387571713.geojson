@@ -2,13 +2,14 @@
   "id": 387571713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.71305,40.969855,-73.71305,40.969855",
     "geom:latitude":40.969855,
     "geom:longitude":-73.71305,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"250 Harrison Ave",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892899,
+        102191575,
+        404523361,
         85633793,
-        85978729,
+        85978735,
         102082373,
-        85892899
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"a6279d92c890959107633dd063ddf310",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978729,
+            "localadmin_id":404523361,
+            "locality_id":85978735,
             "neighbourhood_id":85892899,
             "region_id":85688543,
             "venue_id":387571713
         }
     ],
     "wof:id":387571713,
-    "wof:lastmodified":1449058709,
+    "wof:lastmodified":1454129996,
     "wof:name":"All Phase Heating & Cooling",
     "wof:parent_id":85892899,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.71305,40.969855,-73.71305,40.969855],
+  "bbox": [
+    -73.71305,
+    40.969855,
+    -73.71305,
+    40.969855
+],
   "geometry": {"coordinates":[-73.71305,40.969855],"type":"Point"}
 }

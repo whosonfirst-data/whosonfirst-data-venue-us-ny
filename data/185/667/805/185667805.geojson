@@ -2,13 +2,14 @@
   "id": 185667805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.992752,40.670611,-73.992752,40.670611",
     "geom:latitude":40.670611,
     "geom:longitude":-73.992752,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"117 11th St Ste 205",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865587,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865587
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"92f864377e4e6ebf99a082d8dabe0608",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865587,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":185667805,
-    "wof:lastmodified":1449007650,
+    "wof:lastmodified":1454124278,
     "wof:name":"Global Cooling Inc.",
     "wof:parent_id":85865587,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-73.992752,40.670611,-73.992752,40.670611],
+  "bbox": [
+    -73.992752,
+    40.670611,
+    -73.992752,
+    40.670611
+],
   "geometry": {"coordinates":[-73.992752,40.670611],"type":"Point"}
 }

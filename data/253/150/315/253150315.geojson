@@ -2,13 +2,14 @@
   "id": 253150315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.535949,40.666599,-73.535949,40.666599",
     "geom:latitude":40.666599,
     "geom:longitude":-73.535949,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2466 Sunrise Hwy",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892757,
+        102191575,
+        404521473,
         85633793,
         85979125,
         102082371,
-        85892757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"4d75b2ed60d107ff21e9ac791eacaf96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979125,
             "neighbourhood_id":85892757,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":253150315,
-    "wof:lastmodified":1449062859,
+    "wof:lastmodified":1454130248,
     "wof:name":"Autozone",
     "wof:parent_id":85892757,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "parts"
     ]
 },
-  "bbox": [-73.535949,40.666599,-73.535949,40.666599],
+  "bbox": [
+    -73.535949,
+    40.666599,
+    -73.535949,
+    40.666599
+],
   "geometry": {"coordinates":[-73.535949,40.666599],"type":"Point"}
 }

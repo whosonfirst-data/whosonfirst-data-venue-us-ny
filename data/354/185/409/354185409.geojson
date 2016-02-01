@@ -2,13 +2,14 @@
   "id": 354185409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.014785,40.881096,-73.014785,40.881096",
     "geom:latitude":40.881096,
     "geom:longitude":-73.014785,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"22 Hartsdale Ln",
     "sg:city":"Coram",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"54d29fd36f77e42a68ed4eeb5586da53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354185409
         }
     ],
     "wof:id":354185409,
-    "wof:lastmodified":1449066215,
+    "wof:lastmodified":1454130859,
     "wof:name":"Eklund Incorporated",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-73.014785,40.881096,-73.014785,40.881096],
+  "bbox": [
+    -73.014785,
+    40.881096,
+    -73.014785,
+    40.881096
+],
   "geometry": {"coordinates":[-73.014785,40.881096],"type":"Point"}
 }

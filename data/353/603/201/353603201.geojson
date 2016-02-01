@@ -2,13 +2,14 @@
   "id": 353603201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.841449,40.685582,-73.841449,40.685582",
     "geom:latitude":40.685582,
     "geom:longitude":-73.841449,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101-21 101 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"www.bedbug-busters.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529701,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"6af1f03c85ea87ba15caf11f563358d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529701,
             "region_id":85688543,
             "venue_id":353603201
         }
     ],
     "wof:id":353603201,
-    "wof:lastmodified":1449020427,
+    "wof:lastmodified":1454126577,
     "wof:name":"Bed Bug Buster",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "home"
     ]
 },
-  "bbox": [-73.841449,40.685582,-73.841449,40.685582],
+  "bbox": [
+    -73.841449,
+    40.685582,
+    -73.841449,
+    40.685582
+],
   "geometry": {"coordinates":[-73.841449,40.685582],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403787297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.874991,41.650624,-73.874991,41.650624",
     "geom:latitude":41.650624,
     "geom:longitude":-73.874991,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23 Vassar Rd",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844073,
+        102191575,
+        404522309,
         85633793,
         85979255,
         102082363,
-        85844073
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f363e4a998b3b97d5a5c02b94ee26c54",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
+            "localadmin_id":404522309,
             "locality_id":85979255,
             "neighbourhood_id":85844073,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403787297,
-    "wof:lastmodified":1449055240,
+    "wof:lastmodified":1454129410,
     "wof:name":"Lexington Bagel Cafe",
     "wof:parent_id":85844073,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "bagel"
     ]
 },
-  "bbox": [-73.874991,41.650624,-73.874991,41.650624],
-  "geometry": {"coordinates":[-73.874991,41.650624],"type":"Point"}
+  "bbox": [
+    -73.874991,
+    41.650624,
+    -73.874991,
+    41.650624
+],
+  "geometry": {"coordinates":[-73.87499099999999,41.650624],"type":"Point"}
 }

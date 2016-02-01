@@ -2,13 +2,14 @@
   "id": 354304759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.188353,43.038315,-76.188353,43.038315",
     "geom:latitude":43.038315,
     "geom:longitude":-76.188353,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 S Avery Ave",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.opheliasgardeninn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881269,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881269
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"eead6b5efbf44d9a5ac2457617607202",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881269,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":354304759,
-    "wof:lastmodified":1449067224,
+    "wof:lastmodified":1454131170,
     "wof:name":"Ophelias Garden Inn",
     "wof:parent_id":85881269,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "bed"
     ]
 },
-  "bbox": [-76.188353,43.038315,-76.188353,43.038315],
-  "geometry": {"coordinates":[-76.188353,43.038315],"type":"Point"}
+  "bbox": [
+    -76.188353,
+    43.038315,
+    -76.188353,
+    43.038315
+],
+  "geometry": {"coordinates":[-76.18835300000001,43.038315],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286637747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993854,40.728703,-73.993854,40.728703",
     "geom:latitude":40.728703,
     "geom:longitude":-73.993854,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"704 Broadway",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529189,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"3b55d4537c6e7751a0845309e50dc0cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529189,
             "region_id":85688543,
             "venue_id":286637747
         }
     ],
     "wof:id":286637747,
-    "wof:lastmodified":1449015169,
+    "wof:lastmodified":1454125398,
     "wof:name":"Cha",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529189,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.993854,40.728703,-73.993854,40.728703],
+  "bbox": [
+    -73.993854,
+    40.728703,
+    -73.993854,
+    40.728703
+],
   "geometry": {"coordinates":[-73.993854,40.728703],"type":"Point"}
 }

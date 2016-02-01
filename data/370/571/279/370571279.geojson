@@ -2,13 +2,14 @@
   "id": 370571279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.607862,43.157913,-77.607862,43.157913",
     "geom:latitude":43.157913,
     "geom:longitude":-77.607862,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"83 Mortimer St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867099,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85867099
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"ac40bab8ad2df9596e27d1c01b45fcf4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85867099,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370571279,
-    "wof:lastmodified":1449031386,
+    "wof:lastmodified":1454127995,
     "wof:name":"Mortimer St Garage",
     "wof:parent_id":85867099,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "automobile"
     ]
 },
-  "bbox": [-77.607862,43.157913,-77.607862,43.157913],
+  "bbox": [
+    -77.607862,
+    43.157913,
+    -77.607862,
+    43.157913
+],
   "geometry": {"coordinates":[-77.607862,43.157913],"type":"Point"}
 }

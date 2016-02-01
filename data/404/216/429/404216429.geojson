@@ -2,13 +2,14 @@
   "id": 404216429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.774577,40.920381,-73.774577,40.920381",
     "geom:latitude":40.920381,
     "geom:longitude":-73.774577,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2525 Palmer Ave",
     "sg:city":"New Rochelle",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851407,
+        102191575,
+        404523375,
         85633793,
         85978749,
         102082373,
-        85851407
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"86dba4b68958fe7f8c099af3c515318b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523375,
             "locality_id":85978749,
             "neighbourhood_id":85851407,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":404216429,
-    "wof:lastmodified":1449040185,
+    "wof:lastmodified":1454128951,
     "wof:name":"Montclair Electronics Inc",
     "wof:parent_id":85851407,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.774577,40.920381,-73.774577,40.920381],
-  "geometry": {"coordinates":[-73.774577,40.920381],"type":"Point"}
+  "bbox": [
+    -73.774577,
+    40.920381,
+    -73.774577,
+    40.920381
+],
+  "geometry": {"coordinates":[-73.77457699999999,40.920381],"type":"Point"}
 }

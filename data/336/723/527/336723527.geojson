@@ -2,13 +2,14 @@
   "id": 336723527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.497186,42.438757,-76.497186,42.438757",
     "geom:latitude":42.438757,
     "geom:longitude":-76.497186,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"108 E Green St",
     "sg:city":"Ithaca",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85878347,
+        102191575,
+        404523231,
         85633793,
         85978779,
         102082355,
-        85878347
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ba6ac9e484f7b8769ee891e1f9ad8d8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082355,
+            "localadmin_id":404523231,
             "locality_id":85978779,
             "neighbourhood_id":85878347,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":336723527,
-    "wof:lastmodified":1448997570,
+    "wof:lastmodified":1454122815,
     "wof:name":"Ithaca City Clerk",
     "wof:parent_id":85878347,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "city"
     ]
 },
-  "bbox": [-76.497186,42.438757,-76.497186,42.438757],
+  "bbox": [
+    -76.497186,
+    42.438757,
+    -76.497186,
+    42.438757
+],
   "geometry": {"coordinates":[-76.497186,42.438757],"type":"Point"}
 }

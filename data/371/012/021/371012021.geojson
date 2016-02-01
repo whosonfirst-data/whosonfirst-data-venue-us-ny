@@ -2,13 +2,14 @@
   "id": 371012021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.051676,43.234694,-79.051676,43.234694",
     "geom:latitude":43.234694,
     "geom:longitude":-79.051676,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3727 River Rd",
     "sg:city":"Youngstown",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820171,
+        102191575,
+        404522749,
         85633793,
+        85978265,
         102081767,
-        85820171
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"536f7803db70d63be1b946cd351be502",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
-            "locality_id":-1,
+            "localadmin_id":404522749,
+            "locality_id":85978265,
             "neighbourhood_id":85820171,
             "region_id":85688543,
             "venue_id":371012021
         }
     ],
     "wof:id":371012021,
-    "wof:lastmodified":1449050030,
+    "wof:lastmodified":1454129270,
     "wof:name":"Frontier Realty",
     "wof:parent_id":85820171,
     "wof:placetype":"venue",
@@ -67,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-79.051676,43.234694,-79.051676,43.234694],
+  "bbox": [
+    -79.051676,
+    43.234694,
+    -79.051676,
+    43.234694
+],
   "geometry": {"coordinates":[-79.051676,43.234694],"type":"Point"}
 }

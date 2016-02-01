@@ -2,13 +2,14 @@
   "id": 403737945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.003167,40.746282,-74.003167,40.746282",
     "geom:latitude":40.746282,
     "geom:longitude":-74.003167,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"467 W 22 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.heartsound.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810589,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810589
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"2b5ad0ce1e5b1ff4b2ec2c0b3969e786",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810589,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":403737945,
-    "wof:lastmodified":1449054946,
+    "wof:lastmodified":1454129367,
     "wof:name":"Heartsound Dictionary Inc",
     "wof:parent_id":85810589,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "establishment"
     ]
 },
-  "bbox": [-74.003167,40.746282,-74.003167,40.746282],
+  "bbox": [
+    -74.003167,
+    40.746282,
+    -74.003167,
+    40.746282
+],
   "geometry": {"coordinates":[-74.003167,40.746282],"type":"Point"}
 }

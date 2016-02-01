@@ -2,13 +2,14 @@
   "id": 269792945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.103009,40.788472,-73.103009,40.788472",
     "geom:latitude":40.788472,
     "geom:longitude":-73.103009,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"201 Schaeffer Dr",
     "sg:city":"Ronkonkoma",
     "sg:classifiers":[
@@ -28,11 +29,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102528955,
+        85829285,
+        102191575,
+        404522517,
         85633793,
         85979793,
         102082395,
-        85829285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +46,11 @@
     "wof:geomhash":"c023b9cabe377c45ce8df36c84fa889a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102528955,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979793,
             "neighbourhood_id":85829285,
             "region_id":85688543,
@@ -52,9 +58,9 @@
         }
     ],
     "wof:id":269792945,
-    "wof:lastmodified":1449036663,
+    "wof:lastmodified":1454128540,
     "wof:name":"Company A of 62 Sup Batallion",
-    "wof:parent_id":85829285,
+    "wof:parent_id":102528955,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +69,11 @@
         "field"
     ]
 },
-  "bbox": [-73.103009,40.788472,-73.103009,40.788472],
+  "bbox": [
+    -73.103009,
+    40.788472,
+    -73.103009,
+    40.788472
+],
   "geometry": {"coordinates":[-73.103009,40.788472],"type":"Point"}
 }

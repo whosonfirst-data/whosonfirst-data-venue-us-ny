@@ -2,13 +2,14 @@
   "id": 370527581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.510121,40.840353,-73.510121,40.840353",
     "geom:latitude":40.840353,
     "geom:longitude":-73.510121,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 Northgate Dr",
     "sg:city":"Syosset",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529173,
+        102191575,
+        404521475,
         85633793,
-        85979075,
-        102082371
+        85977645,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"9417428be3b3c27fc1a6d6aa0f67074a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979075,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977645,
+            "neighbourhood_id":420529173,
             "region_id":85688543,
             "venue_id":370527581
         }
     ],
     "wof:id":370527581,
-    "wof:lastmodified":1449031782,
+    "wof:lastmodified":1454128108,
     "wof:name":"Platt Box Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529173,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.510121,40.840353,-73.510121,40.840353],
+  "bbox": [
+    -73.510121,
+    40.840353,
+    -73.510121,
+    40.840353
+],
   "geometry": {"coordinates":[-73.510121,40.840353],"type":"Point"}
 }

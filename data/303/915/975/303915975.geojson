@@ -2,13 +2,14 @@
   "id": 303915975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.183596,41.165383,-74.183596,41.165383",
     "geom:latitude":41.165383,
     "geom:longitude":-74.183596,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"115 Johnsontown Rd",
     "sg:city":"Sloatsburg",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851023,
+        102191575,
+        404523097,
         85633793,
+        85978561,
         102082385,
-        85851023
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"c28db82d3dd59d47ef15011a7a62105e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":-1,
+            "localadmin_id":404523097,
+            "locality_id":85978561,
             "neighbourhood_id":85851023,
             "region_id":85688543,
             "venue_id":303915975
         }
     ],
     "wof:id":303915975,
-    "wof:lastmodified":1449000543,
+    "wof:lastmodified":1454123717,
     "wof:name":"Pat Cannon Foot & Fiddle Dance",
     "wof:parent_id":85851023,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "caller"
     ]
 },
-  "bbox": [-74.183596,41.165383,-74.183596,41.165383],
-  "geometry": {"coordinates":[-74.183596,41.165383],"type":"Point"}
+  "bbox": [
+    -74.183596,
+    41.165383,
+    -74.183596,
+    41.165383
+],
+  "geometry": {"coordinates":[-74.18359599999999,41.165383],"type":"Point"}
 }

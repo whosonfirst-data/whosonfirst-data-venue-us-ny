@@ -2,13 +2,14 @@
   "id": 320791397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.836289,43.035109,-76.836289,43.035109",
     "geom:latitude":43.035109,
     "geom:longitude":-76.836289,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"835 Tyre Rd",
     "sg:city":"Clyde",
     "sg:classifiers":[
@@ -24,8 +25,11 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85978429,
+        102082409,
+        85832423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +39,28 @@
     "wof:geomhash":"65ba15a14c971953e7f33239a4fc048c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082409,
+            "locality_id":85978429,
+            "neighbourhood_id":85832423,
             "region_id":85688543,
             "venue_id":320791397
         }
     ],
     "wof:id":320791397,
-    "wof:lastmodified":1449014099,
+    "wof:lastmodified":1454125222,
     "wof:name":"Wright Expressions",
-    "wof:parent_id":-1,
+    "wof:parent_id":85832423,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.836289,43.035109,-76.836289,43.035109],
-  "geometry": {"coordinates":[-76.836289,43.035109],"type":"Point"}
+  "bbox": [
+    -76.836289,
+    43.035109,
+    -76.836289,
+    43.035109
+],
+  "geometry": {"coordinates":[-76.83628899999999,43.035109],"type":"Point"}
 }

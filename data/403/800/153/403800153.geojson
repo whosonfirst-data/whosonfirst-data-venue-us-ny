@@ -2,13 +2,14 @@
   "id": 403800153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.870427,43.048589,-74.870427,43.048589",
     "geom:latitude":43.048589,
     "geom:longitude":-74.870427,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 State Hwy 169",
     "sg:city":"Little Falls",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528839,
+        102191575,
+        404521885,
         85633793,
         85977757,
-        102081877
+        102081877,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"d2fbe22aa2c2630bb80cd24ceec67728",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081877,
+            "localadmin_id":404521885,
             "locality_id":85977757,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528839,
             "region_id":85688543,
             "venue_id":403800153
         }
     ],
     "wof:id":403800153,
-    "wof:lastmodified":1449054739,
+    "wof:lastmodified":1454129339,
     "wof:name":"Herkimer Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528839,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.870427,43.048589,-74.870427,43.048589],
-  "geometry": {"coordinates":[-74.870427,43.048589],"type":"Point"}
+  "bbox": [
+    -74.870427,
+    43.048589,
+    -74.870427,
+    43.048589
+],
+  "geometry": {"coordinates":[-74.87042700000001,43.048589],"type":"Point"}
 }

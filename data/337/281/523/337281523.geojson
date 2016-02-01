@@ -2,13 +2,14 @@
   "id": 337281523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.997287,40.679203,-73.997287,40.679203",
     "geom:latitude":40.679203,
     "geom:longitude":-73.997287,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"415 Court Street",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -25,10 +26,14 @@
     "sg:website":"www.familiesfirstchiropractic.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892915,
+        102191575,
+        102147495,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +43,31 @@
     "wof:geomhash":"6211ca08e5a0c2c01ad1a3a3c6bf71f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "macrohood_id":102147495,
+            "neighbourhood_id":85892915,
             "region_id":85688543,
             "venue_id":337281523
         }
     ],
     "wof:id":337281523,
-    "wof:lastmodified":1449027614,
+    "wof:lastmodified":1454127135,
     "wof:name":"Families First Chiropractic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.997287,40.679203,-73.997287,40.679203],
+  "bbox": [
+    -73.997287,
+    40.679203,
+    -73.997287,
+    40.679203
+],
   "geometry": {"coordinates":[-73.997287,40.679203],"type":"Point"}
 }

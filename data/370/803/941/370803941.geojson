@@ -2,13 +2,14 @@
   "id": 370803941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.161583,43.10128,-76.161583,43.10128",
     "geom:latitude":43.10128,
     "geom:longitude":-76.161583,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"251 Salina Meadows Pkwy # 200",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     "sg:website":"http://www.zurichna.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825763,
+        102191575,
+        404522845,
         85633793,
         85979209,
         102082351,
-        85825763
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"7a8c48c61bd8d6acd90d7a593b641721",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522845,
             "locality_id":85979209,
             "neighbourhood_id":85825763,
             "region_id":85688543,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":370803941,
-    "wof:lastmodified":1449032515,
+    "wof:lastmodified":1454128327,
     "wof:name":"Zurich North American Insurance Company",
     "wof:parent_id":85825763,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "casualty"
     ]
 },
-  "bbox": [-76.161583,43.10128,-76.161583,43.10128],
-  "geometry": {"coordinates":[-76.161583,43.10128],"type":"Point"}
+  "bbox": [
+    -76.161583,
+    43.10128,
+    -76.161583,
+    43.10128
+],
+  "geometry": {"coordinates":[-76.16158299999999,43.10128],"type":"Point"}
 }

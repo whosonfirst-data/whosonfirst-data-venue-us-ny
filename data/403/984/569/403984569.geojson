@@ -2,13 +2,14 @@
   "id": 403984569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.871005,41.01518,-73.871005,41.01518",
     "geom:latitude":41.01518,
     "geom:longitude":-73.871005,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"50 Cedar St",
     "sg:city":"Dobbs Ferry",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85849177,
+        102191575,
+        404523359,
         85633793,
-        102082385,
-        85849177
+        85978743,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"38dabde9ed329489699bee8eae064089",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082385,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523359,
+            "locality_id":85978743,
             "neighbourhood_id":85849177,
             "region_id":85688543,
             "venue_id":403984569
         }
     ],
     "wof:id":403984569,
-    "wof:lastmodified":1449055390,
+    "wof:lastmodified":1454129429,
     "wof:name":"Kitchenwerks LCC",
     "wof:parent_id":85849177,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-73.871005,41.01518,-73.871005,41.01518],
+  "bbox": [
+    -73.871005,
+    41.01518,
+    -73.871005,
+    41.01518
+],
   "geometry": {"coordinates":[-73.871005,41.01518],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370246415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.537626,43.318371,-76.537626,43.318371",
     "geom:latitude":43.318371,
     "geom:longitude":-76.537626,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"708 Co Rte 7",
     "sg:city":"Hannibal",
     "sg:classifiers":[
@@ -39,8 +40,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85839915,
+        102081783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,18 +53,17 @@
     "wof:geomhash":"0eb8dcd5784f80677f0a6894be34d2a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081783,
+            "neighbourhood_id":85839915,
             "region_id":85688543,
             "venue_id":370246415
         }
     ],
     "wof:id":370246415,
-    "wof:lastmodified":1449029315,
+    "wof:lastmodified":1454127382,
     "wof:name":"Malone W D Trucking & Excvtg",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -76,6 +78,11 @@
         "local"
     ]
 },
-  "bbox": [-76.537626,43.318371,-76.537626,43.318371],
+  "bbox": [
+    -76.537626,
+    43.318371,
+    -76.537626,
+    43.318371
+],
   "geometry": {"coordinates":[-76.537626,43.318371],"type":"Point"}
 }

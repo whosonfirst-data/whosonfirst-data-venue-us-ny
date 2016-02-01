@@ -2,13 +2,14 @@
   "id": 320540431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.953196,40.881053,-72.953196,40.881053",
     "geom:latitude":40.881053,
     "geom:longitude":-72.953196,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"699 Middle Country Rd",
     "sg:city":"Middle Island",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"www.tdc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979955,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"d69d9493181daf3c9ff1128a9a515caa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979955,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":320540431
         }
     ],
     "wof:id":320540431,
-    "wof:lastmodified":1449012732,
+    "wof:lastmodified":1454125000,
     "wof:name":"Total Dental Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "dentist"
     ]
 },
-  "bbox": [-72.953196,40.881053,-72.953196,40.881053],
-  "geometry": {"coordinates":[-72.953196,40.881053],"type":"Point"}
+  "bbox": [
+    -72.953196,
+    40.881053,
+    -72.953196,
+    40.881053
+],
+  "geometry": {"coordinates":[-72.95319600000001,40.881053],"type":"Point"}
 }

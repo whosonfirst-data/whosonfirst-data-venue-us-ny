@@ -2,13 +2,14 @@
   "id": 253023051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.424637,40.893113,-72.424637,40.893113",
     "geom:latitude":40.893113,
     "geom:longitude":-72.424637,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"819 Co Rd 39",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"da363a8449d4191ac7dc2ace2d92fa4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":253023051
         }
     ],
     "wof:id":253023051,
-    "wof:lastmodified":1449065492,
+    "wof:lastmodified":1454130693,
     "wof:name":"Goldberg's Famous Bagels",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "bagel"
     ]
 },
-  "bbox": [-72.424637,40.893113,-72.424637,40.893113],
+  "bbox": [
+    -72.424637,
+    40.893113,
+    -72.424637,
+    40.893113
+],
   "geometry": {"coordinates":[-72.424637,40.893113],"type":"Point"}
 }

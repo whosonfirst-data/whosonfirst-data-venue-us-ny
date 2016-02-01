@@ -2,13 +2,14 @@
   "id": 404001161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.459098,42.574335,-77.459098,42.574335",
     "geom:latitude":42.574335,
     "geom:longitude":-77.459098,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11779 Eelpot Rd",
     "sg:city":"Naples",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85845661,
+        102083115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"e0239ac0d81e23d6a539fd0b8dc0e025",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083115,
+            "neighbourhood_id":85845661,
             "region_id":85688543,
             "venue_id":404001161
         }
     ],
     "wof:id":404001161,
-    "wof:lastmodified":1449039327,
+    "wof:lastmodified":1454128858,
     "wof:name":"Dougs Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":85845661,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.459098,42.574335,-77.459098,42.574335],
+  "bbox": [
+    -77.459098,
+    42.574335,
+    -77.459098,
+    42.574335
+],
   "geometry": {"coordinates":[-77.459098,42.574335],"type":"Point"}
 }

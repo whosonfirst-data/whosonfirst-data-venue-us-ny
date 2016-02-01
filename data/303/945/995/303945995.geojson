@@ -2,13 +2,14 @@
   "id": 303945995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.896564,40.908288,-73.896564,40.908288",
     "geom:latitude":40.908288,
     "geom:longitude":-73.896564,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6571 Broadway",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892779,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"b9d2f5f7a24bcd026e7c44d3533b6299",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892779,
             "region_id":85688543,
             "venue_id":303945995
         }
     ],
     "wof:id":303945995,
-    "wof:lastmodified":1448998326,
+    "wof:lastmodified":1454123058,
     "wof:name":"Lukoil",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892779,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "oil"
     ]
 },
-  "bbox": [-73.896564,40.908288,-73.896564,40.908288],
+  "bbox": [
+    -73.896564,
+    40.908288,
+    -73.896564,
+    40.908288
+],
   "geometry": {"coordinates":[-73.896564,40.908288],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370245355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.507796,40.692913,-73.507796,40.692913",
     "geom:latitude":40.692913,
     "geom:longitude":-73.507796,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1227 Wantagh Ave",
     "sg:city":"Wantagh",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.johnnymalones.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529177,
+        102191575,
+        404521473,
         85633793,
         85979065,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,24 +47,30 @@
     "wof:geomhash":"d709424b5426eef6b4ed7f210b8a03b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979065,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529177,
             "region_id":85688543,
             "venue_id":370245355
         }
     ],
     "wof:id":370245355,
-    "wof:lastmodified":1449032358,
+    "wof:lastmodified":1454128280,
     "wof:name":"Johnny Malone's",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529177,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.507796,40.692913,-73.507796,40.692913],
+  "bbox": [
+    -73.507796,
+    40.692913,
+    -73.507796,
+    40.692913
+],
   "geometry": {"coordinates":[-73.507796,40.692913],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303094093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.964935,40.855494,-72.964935,40.855494",
     "geom:latitude":40.855494,
     "geom:longitude":-72.964935,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 Central Pkwy",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979711,
-        102082395
+        85979801,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"0970f4def1650140b08227efcf153d7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979711,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
+            "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":303094093
         }
     ],
     "wof:id":303094093,
-    "wof:lastmodified":1448999651,
+    "wof:lastmodified":1454123470,
     "wof:name":"Cornerstone New Cvenant Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892869,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.964935,40.855494,-72.964935,40.855494],
+  "bbox": [
+    -72.964935,
+    40.855494,
+    -72.964935,
+    40.855494
+],
   "geometry": {"coordinates":[-72.964935,40.855494],"type":"Point"}
 }

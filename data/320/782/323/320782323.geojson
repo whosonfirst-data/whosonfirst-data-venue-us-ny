@@ -2,13 +2,14 @@
   "id": 320782323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.906376,40.876805,-73.906376,40.876805",
     "geom:latitude":40.876805,
     "geom:longitude":-73.906376,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5529 Broadway",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85828377,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85828377
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"799de87ec0ffe47fdd0156beb9017966",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85828377,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":320782323,
-    "wof:lastmodified":1449011243,
+    "wof:lastmodified":1454124760,
     "wof:name":"Riverdale Appliances & Elc",
     "wof:parent_id":85828377,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "electronics"
     ]
 },
-  "bbox": [-73.906376,40.876805,-73.906376,40.876805],
-  "geometry": {"coordinates":[-73.906376,40.876805],"type":"Point"}
+  "bbox": [
+    -73.906376,
+    40.876805,
+    -73.906376,
+    40.876805
+],
+  "geometry": {"coordinates":[-73.90637599999999,40.876805],"type":"Point"}
 }

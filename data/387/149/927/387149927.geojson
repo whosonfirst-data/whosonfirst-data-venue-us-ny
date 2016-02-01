@@ -2,13 +2,14 @@
   "id": 387149927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.712437,40.708318,-73.712437,40.708318",
     "geom:latitude":40.708318,
     "geom:longitude":-73.712437,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"541 Hempstead Tpke",
     "sg:city":"Elmont",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420559871,
+        102191575,
+        404521473,
         85633793,
         85979137,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"eb80287453399901dfc8ba68c1562767",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979137,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420559871,
             "region_id":85688543,
             "venue_id":387149927
         }
     ],
     "wof:id":387149927,
-    "wof:lastmodified":1449056127,
+    "wof:lastmodified":1454129535,
     "wof:name":"Globe PM Realty",
-    "wof:parent_id":-1,
+    "wof:parent_id":420559871,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.712437,40.708318,-73.712437,40.708318],
-  "geometry": {"coordinates":[-73.712437,40.708318],"type":"Point"}
+  "bbox": [
+    -73.712437,
+    40.708318,
+    -73.712437,
+    40.708318
+],
+  "geometry": {"coordinates":[-73.71243699999999,40.708318],"type":"Point"}
 }

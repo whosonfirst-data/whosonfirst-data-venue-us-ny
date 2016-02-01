@@ -2,13 +2,14 @@
   "id": 370351405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.384346,40.898582,-72.384346,40.898582",
     "geom:latitude":40.898582,
     "geom:longitude":-72.384346,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"49 Mariner Dr Ste C",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -67,11 +68,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,17 +84,18 @@
     "wof:geomhash":"9088021876e467783e9738cbf74c8465",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":370351405
         }
     ],
     "wof:id":370351405,
-    "wof:lastmodified":1449031961,
+    "wof:lastmodified":1454128161,
     "wof:name":"East End Glass & Mirror",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -116,6 +120,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-72.384346,40.898582,-72.384346,40.898582],
-  "geometry": {"coordinates":[-72.384346,40.898582],"type":"Point"}
+  "bbox": [
+    -72.384346,
+    40.898582,
+    -72.384346,
+    40.898582
+],
+  "geometry": {"coordinates":[-72.38434599999999,40.898582],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336705287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.159953,40.55445,-74.159953,40.55445",
     "geom:latitude":40.55445,
     "geom:longitude":-74.159953,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 E Scranton Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85822683,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85822683
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"dc1a177e4c272ab27c3bcb69815e6ee1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85822683,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":336705287,
-    "wof:lastmodified":1448998018,
+    "wof:lastmodified":1454122953,
     "wof:name":"Sentry Security Systems Inc",
     "wof:parent_id":85822683,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "sales"
     ]
 },
-  "bbox": [-74.159953,40.55445,-74.159953,40.55445],
+  "bbox": [
+    -74.159953,
+    40.55445,
+    -74.159953,
+    40.55445
+],
   "geometry": {"coordinates":[-74.159953,40.55445],"type":"Point"}
 }

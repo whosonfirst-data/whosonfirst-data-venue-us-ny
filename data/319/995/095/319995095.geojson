@@ -2,13 +2,14 @@
   "id": 319995095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.977998,40.734105,-73.977998,40.734105",
     "geom:latitude":40.734105,
     "geom:longitude":-73.977998,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"444 E 20th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851295,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85851295
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"f40871ae2a57f0bc567f7ea1facfcc10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85851295,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":319995095,
-    "wof:lastmodified":1449024801,
+    "wof:lastmodified":1454126837,
     "wof:name":"Dara Skincare",
     "wof:parent_id":85851295,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "sales"
     ]
 },
-  "bbox": [-73.977998,40.734105,-73.977998,40.734105],
+  "bbox": [
+    -73.977998,
+    40.734105,
+    -73.977998,
+    40.734105
+],
   "geometry": {"coordinates":[-73.977998,40.734105],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337306979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.938649,40.583964,-73.938649,40.583964",
     "geom:latitude":40.583964,
     "geom:longitude":-73.938649,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3003 Emmons Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://book.bestwestern.com/bestwestern/priceAvail.do?propertyCode=33131&cm_mmc=IYP-_-YP-_-property-_-33131",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848121,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85848121
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"8295780bdafdab295a62f5ea80f78e01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85848121,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":337306979,
-    "wof:lastmodified":1449027708,
+    "wof:lastmodified":1454127171,
     "wof:name":"Best Western Brooklyn Bay",
     "wof:parent_id":85848121,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "lodging"
     ]
 },
-  "bbox": [-73.938649,40.583964,-73.938649,40.583964],
+  "bbox": [
+    -73.938649,
+    40.583964,
+    -73.938649,
+    40.583964
+],
   "geometry": {"coordinates":[-73.938649,40.583964],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370329747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.837469,40.766976,-72.837469,40.766976",
     "geom:latitude":40.766976,
     "geom:longitude":-72.837469,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"73 Whittier Dr",
     "sg:city":"Mastic Beach",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892903,
+        102191575,
+        404521441,
         85633793,
+        85978437,
         102082395,
-        85892903
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"a9eabf616b2b524b57f4342f65c1578c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85978437,
             "neighbourhood_id":85892903,
             "region_id":85688543,
             "venue_id":370329747
         }
     ],
     "wof:id":370329747,
-    "wof:lastmodified":1449030047,
+    "wof:lastmodified":1454127594,
     "wof:name":"Hershey's Ice Cream",
     "wof:parent_id":85892903,
     "wof:placetype":"venue",
@@ -61,6 +66,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-72.837469,40.766976,-72.837469,40.766976],
+  "bbox": [
+    -72.837469,
+    40.766976,
+    -72.837469,
+    40.766976
+],
   "geometry": {"coordinates":[-72.837469,40.766976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286841765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.14862,40.789192,-73.14862,40.789192",
     "geom:latitude":40.789192,
     "geom:longitude":-73.14862,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2805 Veterans Memorial Hwy",
     "sg:city":"Ronkonkoma",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837663,
+        102191575,
+        404522517,
         85633793,
-        85979793,
+        85979705,
         102082395,
-        85829285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +52,20 @@
     "wof:geomhash":"b900ca28e83822b75de29f928e918896",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979793,
-            "neighbourhood_id":85829285,
+            "localadmin_id":404522517,
+            "locality_id":85979705,
+            "neighbourhood_id":85837663,
             "region_id":85688543,
             "venue_id":286841765
         }
     ],
     "wof:id":286841765,
-    "wof:lastmodified":1449015786,
+    "wof:lastmodified":1454125504,
     "wof:name":"Max Components Inc",
-    "wof:parent_id":85829285,
+    "wof:parent_id":85837663,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,6 +76,11 @@
         "component"
     ]
 },
-  "bbox": [-73.14862,40.789192,-73.14862,40.789192],
-  "geometry": {"coordinates":[-73.14862,40.789192],"type":"Point"}
+  "bbox": [
+    -73.14862,
+    40.789192,
+    -73.14862,
+    40.789192
+],
+  "geometry": {"coordinates":[-73.14861999999999,40.789192],"type":"Point"}
 }

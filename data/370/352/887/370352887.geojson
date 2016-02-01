@@ -2,13 +2,14 @@
   "id": 370352887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.394577,40.883636,-72.394577,40.883636",
     "geom:latitude":40.883636,
     "geom:longitude":-72.394577,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"50 Hill St",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -63,11 +64,13 @@
     "sg:website":"http://www.upsstore.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,17 +80,18 @@
     "wof:geomhash":"5e2bb4df168f5f0e50bd3654ccfbf5de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":370352887
         }
     ],
     "wof:id":370352887,
-    "wof:lastmodified":1449031168,
+    "wof:lastmodified":1454127927,
     "wof:name":"The UPS Store",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -112,6 +116,11 @@
         "photographic"
     ]
 },
-  "bbox": [-72.394577,40.883636,-72.394577,40.883636],
+  "bbox": [
+    -72.394577,
+    40.883636,
+    -72.394577,
+    40.883636
+],
   "geometry": {"coordinates":[-72.394577,40.883636],"type":"Point"}
 }

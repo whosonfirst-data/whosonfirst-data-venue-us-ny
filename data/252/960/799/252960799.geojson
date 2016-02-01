@@ -2,13 +2,14 @@
   "id": 252960799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.576453,40.669059,-73.576453,40.669059",
     "geom:latitude":40.669059,
     "geom:longitude":-73.576453,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"449 Babylon Tpke",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85892853,
+        102191575,
+        404521473,
         85633793,
+        85977679,
+        102082371,
         85688543
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"f472b67acb127312a4a55548f5ff9333",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082371,
+            "localadmin_id":404521473,
+            "locality_id":85977679,
+            "neighbourhood_id":85892853,
             "region_id":85688543,
             "venue_id":252960799
         }
     ],
     "wof:id":252960799,
-    "wof:lastmodified":1449006178,
+    "wof:lastmodified":1454124088,
     "wof:name":"Gringo Bar",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892853,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.576453,40.669059,-73.576453,40.669059],
+  "bbox": [
+    -73.576453,
+    40.669059,
+    -73.576453,
+    40.669059
+],
   "geometry": {"coordinates":[-73.576453,40.669059],"type":"Point"}
 }

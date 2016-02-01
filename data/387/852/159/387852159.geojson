@@ -2,13 +2,14 @@
   "id": 387852159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.430442,40.678469,-73.430442,40.678469",
     "geom:latitude":40.678469,
     "geom:longitude":-73.430442,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5640 Old Sunrise Hwy",
     "sg:city":"Massapequa",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836353,
+        102191575,
+        404521475,
         85633793,
         85979153,
         102082371,
-        85836353
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"54c57dff72872de39e58d43c791722a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979153,
             "neighbourhood_id":85836353,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387852159,
-    "wof:lastmodified":1449059275,
+    "wof:lastmodified":1454130095,
     "wof:name":"Brick & Stone Depot Garden Ctr",
     "wof:parent_id":85836353,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.430442,40.678469,-73.430442,40.678469],
+  "bbox": [
+    -73.430442,
+    40.678469,
+    -73.430442,
+    40.678469
+],
   "geometry": {"coordinates":[-73.430442,40.678469],"type":"Point"}
 }

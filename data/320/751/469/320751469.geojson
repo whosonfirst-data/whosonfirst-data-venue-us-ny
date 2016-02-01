@@ -2,13 +2,14 @@
   "id": 320751469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.818153,42.886899,-78.818153,42.886899",
     "geom:latitude":42.886899,
     "geom:longitude":-78.818153,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"99 Bud Mil Dr",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"www.millcraft.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528565,
+        102191575,
+        404522329,
         85633793,
         85978023,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"86a90a017fd25620d27b01ba8f90b360",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528565,
             "region_id":85688543,
             "venue_id":320751469
         }
     ],
     "wof:id":320751469,
-    "wof:lastmodified":1449011461,
+    "wof:lastmodified":1454124793,
     "wof:name":"Nicraft",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528565,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "converting"
     ]
 },
-  "bbox": [-78.818153,42.886899,-78.818153,42.886899],
+  "bbox": [
+    -78.818153,
+    42.886899,
+    -78.818153,
+    42.886899
+],
   "geometry": {"coordinates":[-78.818153,42.886899],"type":"Point"}
 }

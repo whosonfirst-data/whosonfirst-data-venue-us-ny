@@ -2,13 +2,14 @@
   "id": 354074309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.666913,40.924052,-72.666913,40.924052",
     "geom:latitude":40.924052,
     "geom:longitude":-72.666913,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"711 Roanoke Ave",
     "sg:city":"Riverhead",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841881,
+        102191575,
+        404522671,
         85633793,
-        85979841,
+        85979909,
         102082395,
-        85841881
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"90d89c0036af1e907664d635a50e02bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979841,
+            "localadmin_id":404522671,
+            "locality_id":85979909,
             "neighbourhood_id":85841881,
             "region_id":85688543,
             "venue_id":354074309
         }
     ],
     "wof:id":354074309,
-    "wof:lastmodified":1449066856,
+    "wof:lastmodified":1454131055,
     "wof:name":"Home Improvement By Me",
     "wof:parent_id":85841881,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "improvement"
     ]
 },
-  "bbox": [-72.666913,40.924052,-72.666913,40.924052],
-  "geometry": {"coordinates":[-72.666913,40.924052],"type":"Point"}
+  "bbox": [
+    -72.666913,
+    40.924052,
+    -72.666913,
+    40.924052
+],
+  "geometry": {"coordinates":[-72.66691299999999,40.924052],"type":"Point"}
 }

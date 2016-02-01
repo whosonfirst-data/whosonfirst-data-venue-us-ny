@@ -2,13 +2,14 @@
   "id": 337298181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.929828,40.622313,-73.929828,40.622313",
     "geom:latitude":40.622313,
     "geom:longitude":-73.929828,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2035 Schenectady Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.nycdatavoice.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819585,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85819585
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"4ea0ae48933439b1053d9d0deafbdf9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819585,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":337298181,
-    "wof:lastmodified":1449027156,
+    "wof:lastmodified":1454126953,
     "wof:name":"NYC DATA Voice",
     "wof:parent_id":85819585,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "repair"
     ]
 },
-  "bbox": [-73.929828,40.622313,-73.929828,40.622313],
+  "bbox": [
+    -73.929828,
+    40.622313,
+    -73.929828,
+    40.622313
+],
   "geometry": {"coordinates":[-73.929828,40.622313],"type":"Point"}
 }

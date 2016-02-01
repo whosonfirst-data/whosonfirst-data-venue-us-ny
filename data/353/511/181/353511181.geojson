@@ -2,13 +2,14 @@
   "id": 353511181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.877823,40.723785,-73.877823,40.723785",
     "geom:latitude":40.723785,
     "geom:longitude":-73.877823,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6157 80th Street",
     "sg:city":"Middle Village",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529699,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"77381b2c1169a38b71f6a9ad95bc42ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529699,
             "region_id":85688543,
             "venue_id":353511181
         }
     ],
     "wof:id":353511181,
-    "wof:lastmodified":1449019435,
+    "wof:lastmodified":1454126290,
     "wof:name":"ABC NYC Limo",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529699,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "limo"
     ]
 },
-  "bbox": [-73.877823,40.723785,-73.877823,40.723785],
-  "geometry": {"coordinates":[-73.877823,40.723785],"type":"Point"}
+  "bbox": [
+    -73.877823,
+    40.723785,
+    -73.877823,
+    40.723785
+],
+  "geometry": {"coordinates":[-73.87782300000001,40.723785],"type":"Point"}
 }

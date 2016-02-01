@@ -2,13 +2,14 @@
   "id": 354112009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.246193,40.768614,-73.246193,40.768614",
     "geom:latitude":40.768614,
     "geom:longitude":-73.246193,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1625 Brentwood Rd",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841665,
+        102191575,
+        404522517,
         85633793,
-        85979883,
+        85979867,
         102082395,
-        85841665
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"d2bcb07f5f0f753500669b2f24f72511",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979883,
+            "localadmin_id":404522517,
+            "locality_id":85979867,
             "neighbourhood_id":85841665,
             "region_id":85688543,
             "venue_id":354112009
         }
     ],
     "wof:id":354112009,
-    "wof:lastmodified":1449066698,
+    "wof:lastmodified":1454131008,
     "wof:name":"Brentwood Congrg Of Jehovahs",
     "wof:parent_id":85841665,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "denomination"
     ]
 },
-  "bbox": [-73.246193,40.768614,-73.246193,40.768614],
-  "geometry": {"coordinates":[-73.246193,40.768614],"type":"Point"}
+  "bbox": [
+    -73.246193,
+    40.768614,
+    -73.246193,
+    40.768614
+],
+  "geometry": {"coordinates":[-73.24619300000001,40.768614],"type":"Point"}
 }

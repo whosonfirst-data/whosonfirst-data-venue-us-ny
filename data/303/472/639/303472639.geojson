@@ -2,13 +2,14 @@
   "id": 303472639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.834434,40.927554,-73.834434,40.927554",
     "geom:latitude":40.927554,
     "geom:longitude":-73.834434,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"108 E Birch St",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530461,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"7839b44d7b0c10ba6768d9e8a26b36f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530461,
             "region_id":85688543,
             "venue_id":303472639
         }
     ],
     "wof:id":303472639,
-    "wof:lastmodified":1448998311,
+    "wof:lastmodified":1454123054,
     "wof:name":"Fleetwood Construction Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530461,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.834434,40.927554,-73.834434,40.927554],
+  "bbox": [
+    -73.834434,
+    40.927554,
+    -73.834434,
+    40.927554
+],
   "geometry": {"coordinates":[-73.834434,40.927554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253034939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.101267,41.499663,-74.101267,41.499663",
     "geom:latitude":41.499663,
     "geom:longitude":-74.101267,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1070 1st St",
     "sg:city":"New Windsor",
     "sg:classifiers":[
@@ -27,6 +28,7 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102533135,
         85688543,
         85633793,
         102083061,
@@ -40,19 +42,18 @@
     "wof:geomhash":"63f2935a732de648579bacaf7df532c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102533135,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":-1,
             "neighbourhood_id":85816145,
             "region_id":85688543,
             "venue_id":253034939
         }
     ],
     "wof:id":253034939,
-    "wof:lastmodified":1449063145,
+    "wof:lastmodified":1454130298,
     "wof:name":"Taxi Co",
-    "wof:parent_id":85816145,
+    "wof:parent_id":102533135,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +61,11 @@
         "taxicab"
     ]
 },
-  "bbox": [-74.101267,41.499663,-74.101267,41.499663],
-  "geometry": {"coordinates":[-74.101267,41.499663],"type":"Point"}
+  "bbox": [
+    -74.101267,
+    41.499663,
+    -74.101267,
+    41.499663
+],
+  "geometry": {"coordinates":[-74.10126700000001,41.499663],"type":"Point"}
 }

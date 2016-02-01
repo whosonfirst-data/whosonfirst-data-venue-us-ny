@@ -2,13 +2,14 @@
   "id": 337521053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.881029,40.750076,-73.881029,40.750076",
     "geom:latitude":40.750076,
     "geom:longitude":-73.881029,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"85-06 37th Ave",
     "sg:city":"Queens",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85827247,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85827247
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"b5ec5cf838fba8b045e164fca5d0f40d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85827247,
             "region_id":85688543,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":337521053,
-    "wof:lastmodified":1449027701,
+    "wof:lastmodified":1454127169,
     "wof:name":"La Gran Uruguaya Bakery",
     "wof:parent_id":85827247,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "latin"
     ]
 },
-  "bbox": [-73.881029,40.750076,-73.881029,40.750076],
+  "bbox": [
+    -73.881029,
+    40.750076,
+    -73.881029,
+    40.750076
+],
   "geometry": {"coordinates":[-73.881029,40.750076],"type":"Point"}
 }

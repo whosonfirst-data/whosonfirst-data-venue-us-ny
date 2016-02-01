@@ -2,13 +2,14 @@
   "id": 370758935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.843087,40.969736,-73.843087,40.969736",
     "geom:latitude":40.969736,
     "geom:longitude":-73.843087,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"32 Roundtop Rd",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530405,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"0f022c724888afa01cec826b8c0847de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530405,
             "region_id":85688543,
             "venue_id":370758935
         }
     ],
     "wof:id":370758935,
-    "wof:lastmodified":1449030124,
+    "wof:lastmodified":1454127618,
     "wof:name":"Jerome Beauty Supply",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530405,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.843087,40.969736,-73.843087,40.969736],
+  "bbox": [
+    -73.843087,
+    40.969736,
+    -73.843087,
+    40.969736
+],
   "geometry": {"coordinates":[-73.843087,40.969736],"type":"Point"}
 }

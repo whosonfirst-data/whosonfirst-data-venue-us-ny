@@ -2,13 +2,14 @@
   "id": 403789431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.801987,43.084944,-73.801987,43.084944",
     "geom:latitude":43.084944,
     "geom:longitude":-73.801987,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"301 Church St",
     "sg:city":"Saratoga Springs",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.saratogagolfpoloclub.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85859279,
+        102191575,
+        404522373,
         85633793,
         85977919,
         102082413,
-        85859279
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"2865b0fc62d34002ce02c4eb9cac3ac1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082413,
+            "localadmin_id":404522373,
             "locality_id":85977919,
             "neighbourhood_id":85859279,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":403789431,
-    "wof:lastmodified":1449055233,
+    "wof:lastmodified":1454129409,
     "wof:name":"Saratoga Golf & Polo Club",
     "wof:parent_id":85859279,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "golf"
     ]
 },
-  "bbox": [-73.801987,43.084944,-73.801987,43.084944],
+  "bbox": [
+    -73.801987,
+    43.084944,
+    -73.801987,
+    43.084944
+],
   "geometry": {"coordinates":[-73.801987,43.084944],"type":"Point"}
 }

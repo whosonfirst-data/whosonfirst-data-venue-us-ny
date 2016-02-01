@@ -2,13 +2,14 @@
   "id": 303236725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.865646,41.367671,-73.865646,41.367671",
     "geom:latitude":41.367671,
     "geom:longitude":-73.865646,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"265 Oscawana Lake Rd",
     "sg:city":"Putnam Valley",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85839895,
+        102083007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"5862f4b94a82e50255ccd5498b538fe0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083007,
+            "neighbourhood_id":85839895,
             "region_id":85688543,
             "venue_id":303236725
         }
     ],
     "wof:id":303236725,
-    "wof:lastmodified":1448998381,
+    "wof:lastmodified":1454123077,
     "wof:name":"Putnam Valley Bldg Inspector",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839895,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "village"
     ]
 },
-  "bbox": [-73.865646,41.367671,-73.865646,41.367671],
+  "bbox": [
+    -73.865646,
+    41.367671,
+    -73.865646,
+    41.367671
+],
   "geometry": {"coordinates":[-73.865646,41.367671],"type":"Point"}
 }

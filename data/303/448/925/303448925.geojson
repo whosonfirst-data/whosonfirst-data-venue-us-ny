@@ -2,13 +2,14 @@
   "id": 303448925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.301977,40.980212,-72.301977,40.980212",
     "geom:latitude":40.980212,
     "geom:longitude":-72.301977,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1488 Bridgehampton Sag Harbor Tpke",
     "sg:city":"Sag Harbor",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844167,
+        102191575,
+        404521445,
         85633793,
+        85978453,
         102082395,
-        85844167
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"3c445e564f18fc9691e6115838a2f68f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521445,
+            "locality_id":85978453,
             "neighbourhood_id":85844167,
             "region_id":85688543,
             "venue_id":303448925
         }
     ],
     "wof:id":303448925,
-    "wof:lastmodified":1449000447,
+    "wof:lastmodified":1454123690,
     "wof:name":"J Arondel",
     "wof:parent_id":85844167,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-72.301977,40.980212,-72.301977,40.980212],
-  "geometry": {"coordinates":[-72.301977,40.980212],"type":"Point"}
+  "bbox": [
+    -72.301977,
+    40.980212,
+    -72.301977,
+    40.980212
+],
+  "geometry": {"coordinates":[-72.30197699999999,40.980212],"type":"Point"}
 }

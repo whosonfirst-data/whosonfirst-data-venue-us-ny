@@ -2,13 +2,14 @@
   "id": 337530329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.875504,40.750801,-73.875504,40.750801",
     "geom:latitude":40.750801,
     "geom:longitude":-73.875504,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9111 37th Ave",
     "sg:city":"Jackson Heights",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85827247,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85827247
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"55bf861447d10feb33eeafa99bf923b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85827247,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":337530329,
-    "wof:lastmodified":1449027375,
+    "wof:lastmodified":1454127043,
     "wof:name":"Punjabi Theka Liquor Store",
     "wof:parent_id":85827247,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "wine"
     ]
 },
-  "bbox": [-73.875504,40.750801,-73.875504,40.750801],
-  "geometry": {"coordinates":[-73.875504,40.750801],"type":"Point"}
+  "bbox": [
+    -73.875504,
+    40.750801,
+    -73.875504,
+    40.750801
+],
+  "geometry": {"coordinates":[-73.87550400000001,40.750801],"type":"Point"}
 }

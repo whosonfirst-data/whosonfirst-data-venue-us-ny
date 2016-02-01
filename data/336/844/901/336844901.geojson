@@ -2,13 +2,14 @@
   "id": 336844901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.747466,40.812354,-72.747466,40.812354",
     "geom:latitude":40.812354,
     "geom:longitude":-72.747466,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 E Moriches Blvd",
     "sg:city":"East Moriches",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"2f1f110f7c5bebe7ea2f1580a74e019a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":336844901
         }
     ],
     "wof:id":336844901,
-    "wof:lastmodified":1448997404,
+    "wof:lastmodified":1454122712,
     "wof:name":"Rampart Surveying PC",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "surveyor"
     ]
 },
-  "bbox": [-72.747466,40.812354,-72.747466,40.812354],
+  "bbox": [
+    -72.747466,
+    40.812354,
+    -72.747466,
+    40.812354
+],
   "geometry": {"coordinates":[-72.747466,40.812354],"type":"Point"}
 }

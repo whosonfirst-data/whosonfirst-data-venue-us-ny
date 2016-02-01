@@ -2,13 +2,14 @@
   "id": 269928983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.897729,40.861349,-73.897729,40.861349",
     "geom:latitude":40.861349,
     "geom:longitude":-73.897729,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2420 Grand Concourse",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819763,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85819763
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"151ebda070f3e9e079ec09fd2312338f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819763,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":269928983,
-    "wof:lastmodified":1449038509,
+    "wof:lastmodified":1454128769,
     "wof:name":"24/7 Affordable Locksmith",
     "wof:parent_id":85819763,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-73.897729,40.861349,-73.897729,40.861349],
+  "bbox": [
+    -73.897729,
+    40.861349,
+    -73.897729,
+    40.861349
+],
   "geometry": {"coordinates":[-73.897729,40.861349],"type":"Point"}
 }

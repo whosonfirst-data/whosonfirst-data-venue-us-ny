@@ -2,13 +2,14 @@
   "id": 353965435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.639773,40.826697,-73.639773,40.826697",
     "geom:latitude":40.826697,
     "geom:longitude":-73.639773,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Eden Way",
     "sg:city":"Roslyn",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85977615,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"8a67abbb8dab45fd2ae804235c53966f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977615,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":353965435
         }
     ],
     "wof:id":353965435,
-    "wof:lastmodified":1449020029,
+    "wof:lastmodified":1454126462,
     "wof:name":"Northern Auto Glass & Lock Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +75,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.639773,40.826697,-73.639773,40.826697],
-  "geometry": {"coordinates":[-73.639773,40.826697],"type":"Point"}
+  "bbox": [
+    -73.639773,
+    40.826697,
+    -73.639773,
+    40.826697
+],
+  "geometry": {"coordinates":[-73.63977300000001,40.826697],"type":"Point"}
 }

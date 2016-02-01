@@ -2,13 +2,14 @@
   "id": 387647959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.117759,40.599969,-74.117759,40.599969",
     "geom:latitude":40.599969,
     "geom:longitude":-74.117759,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"59 Bogert Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85818021,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85818021
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ed84a00ed79fe8777323f77e0fb994fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85818021,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387647959,
-    "wof:lastmodified":1449057905,
+    "wof:lastmodified":1454129847,
     "wof:name":"Kelly The Film Express Lab",
     "wof:parent_id":85818021,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "lab"
     ]
 },
-  "bbox": [-74.117759,40.599969,-74.117759,40.599969],
-  "geometry": {"coordinates":[-74.117759,40.599969],"type":"Point"}
+  "bbox": [
+    -74.117759,
+    40.599969,
+    -74.117759,
+    40.599969
+],
+  "geometry": {"coordinates":[-74.11775900000001,40.599969],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353569161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.840302,40.659698,-73.840302,40.659698",
     "geom:latitude":40.659698,
     "geom:longitude":-73.840302,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15836 Crossbay Blvd",
     "sg:city":"Howard Beach",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.studioenigma.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420560117,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"1921f899289e0ce8a4ae2dfd784a3fa1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420560117,
             "region_id":85688543,
             "venue_id":353569161
         }
     ],
     "wof:id":353569161,
-    "wof:lastmodified":1449020675,
+    "wof:lastmodified":1454126649,
     "wof:name":"Studio Enigma",
-    "wof:parent_id":-1,
+    "wof:parent_id":420560117,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.840302,40.659698,-73.840302,40.659698],
-  "geometry": {"coordinates":[-73.840302,40.659698],"type":"Point"}
+  "bbox": [
+    -73.840302,
+    40.659698,
+    -73.840302,
+    40.659698
+],
+  "geometry": {"coordinates":[-73.84030199999999,40.659698],"type":"Point"}
 }

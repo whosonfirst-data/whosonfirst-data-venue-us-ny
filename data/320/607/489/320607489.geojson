@@ -2,13 +2,14 @@
   "id": 320607489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.864742,40.845402,-73.864742,40.845402",
     "geom:latitude":40.845402,
     "geom:longitude":-73.864742,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"740 Morris Park Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853499,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85853499
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"78fc2571170c54451e99abc6f5c7dd11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853499,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":320607489,
-    "wof:lastmodified":1449011748,
+    "wof:lastmodified":1454124842,
     "wof:name":"Homes Inc",
     "wof:parent_id":85853499,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "builder"
     ]
 },
-  "bbox": [-73.864742,40.845402,-73.864742,40.845402],
-  "geometry": {"coordinates":[-73.864742,40.845402],"type":"Point"}
+  "bbox": [
+    -73.864742,
+    40.845402,
+    -73.864742,
+    40.845402
+],
+  "geometry": {"coordinates":[-73.86474200000001,40.845402],"type":"Point"}
 }

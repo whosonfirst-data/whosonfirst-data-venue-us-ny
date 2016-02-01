@@ -2,13 +2,14 @@
   "id": 354073389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.228328,40.728026,-73.228328,40.728026",
     "geom:latitude":40.728026,
     "geom:longitude":-73.228328,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"553 E Main St",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.fratellipizza.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530029,
+        102191575,
+        404522517,
         85633793,
-        85979719,
-        102082395
+        85979775,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"35bf08da267c8e4fd5ef0d30366fa203",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979775,
+            "neighbourhood_id":420530029,
             "region_id":85688543,
             "venue_id":354073389
         }
     ],
     "wof:id":354073389,
-    "wof:lastmodified":1449066167,
+    "wof:lastmodified":1454130843,
     "wof:name":"Fratelli Pizzeria & Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530029,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "pizza"
     ]
 },
-  "bbox": [-73.228328,40.728026,-73.228328,40.728026],
+  "bbox": [
+    -73.228328,
+    40.728026,
+    -73.228328,
+    40.728026
+],
   "geometry": {"coordinates":[-73.228328,40.728026],"type":"Point"}
 }

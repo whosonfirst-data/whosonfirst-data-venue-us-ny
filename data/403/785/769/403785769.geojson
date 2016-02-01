@@ -2,13 +2,14 @@
   "id": 403785769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.736443,40.626496,-73.736443,40.626496",
     "geom:latitude":40.626496,
     "geom:longitude":-73.736443,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"700 Rockaway Tpke",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893091,
+        102191575,
+        404521473,
         85633793,
         85979053,
         102082371,
-        85893091
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"f87facd47895ce3d57d26bf6e33cd512",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979053,
             "neighbourhood_id":85893091,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":403785769,
-    "wof:lastmodified":1449055746,
+    "wof:lastmodified":1454129482,
     "wof:name":"Overton & Co",
     "wof:parent_id":85893091,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "customs"
     ]
 },
-  "bbox": [-73.736443,40.626496,-73.736443,40.626496],
-  "geometry": {"coordinates":[-73.736443,40.626496],"type":"Point"}
+  "bbox": [
+    -73.736443,
+    40.626496,
+    -73.736443,
+    40.626496
+],
+  "geometry": {"coordinates":[-73.73644299999999,40.626496],"type":"Point"}
 }

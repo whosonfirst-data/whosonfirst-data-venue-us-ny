@@ -2,13 +2,14 @@
   "id": 286552031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.734006,43.088305,-73.734006,43.088305",
     "geom:latitude":43.088305,
     "geom:longitude":-73.734006,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Old Schuylerville Rd",
     "sg:city":"Saratoga Springs",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529829,
+        102191575,
+        404522373,
         85633793,
         85977919,
-        102082413
+        102082413,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"a3d7c8e042da1e14ce1727651df32d9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082413,
+            "localadmin_id":404522373,
             "locality_id":85977919,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529829,
             "region_id":85688543,
             "venue_id":286552031
         }
     ],
     "wof:id":286552031,
-    "wof:lastmodified":1449016406,
+    "wof:lastmodified":1454125613,
     "wof:name":"Norman Mendenhall On-Site Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529829,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "repair"
     ]
 },
-  "bbox": [-73.734006,43.088305,-73.734006,43.088305],
-  "geometry": {"coordinates":[-73.734006,43.088305],"type":"Point"}
+  "bbox": [
+    -73.734006,
+    43.088305,
+    -73.734006,
+    43.088305
+],
+  "geometry": {"coordinates":[-73.73400599999999,43.088305],"type":"Point"}
 }

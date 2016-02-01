@@ -2,13 +2,14 @@
   "id": 304028335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.566289,40.822354,-73.566289,40.822354",
     "geom:latitude":40.822354,
     "geom:longitude":-73.566289,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Paddock Ct",
     "sg:city":"Glen Head",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857339,
+        102191575,
+        404521475,
         85633793,
-        85977647,
+        85977655,
         102082371,
-        85857339
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"4cb580ab205485ed166d1c15f1a95070",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977647,
+            "localadmin_id":404521475,
+            "locality_id":85977655,
             "neighbourhood_id":85857339,
             "region_id":85688543,
             "venue_id":304028335
         }
     ],
     "wof:id":304028335,
-    "wof:lastmodified":1449043909,
+    "wof:lastmodified":1454129009,
     "wof:name":"Msg Commodities Inc",
     "wof:parent_id":85857339,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contract"
     ]
 },
-  "bbox": [-73.566289,40.822354,-73.566289,40.822354],
+  "bbox": [
+    -73.566289,
+    40.822354,
+    -73.566289,
+    40.822354
+],
   "geometry": {"coordinates":[-73.566289,40.822354],"type":"Point"}
 }

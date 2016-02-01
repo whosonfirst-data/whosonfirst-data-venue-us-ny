@@ -2,13 +2,14 @@
   "id": 270000121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.28443,43.117252,-75.28443,43.117252",
     "geom:latitude":43.117252,
     "geom:longitude":-75.28443,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"165 Whitesboro St",
     "sg:city":"Yorkville",
     "sg:classifiers":[
@@ -24,8 +25,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85833067,
+        102083149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +38,27 @@
     "wof:geomhash":"d0fa5607314196fdbf38ac94efaba303",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083149,
+            "neighbourhood_id":85833067,
             "region_id":85688543,
             "venue_id":270000121
         }
     ],
     "wof:id":270000121,
-    "wof:lastmodified":1449009023,
+    "wof:lastmodified":1454124421,
     "wof:name":"US Post Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":85833067,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.28443,43.117252,-75.28443,43.117252],
+  "bbox": [
+    -75.28443,
+    43.117252,
+    -75.28443,
+    43.117252
+],
   "geometry": {"coordinates":[-75.28443,43.117252],"type":"Point"}
 }

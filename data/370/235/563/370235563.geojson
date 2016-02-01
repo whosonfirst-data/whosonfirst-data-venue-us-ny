@@ -2,13 +2,14 @@
   "id": 370235563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.501743,40.81092,-73.501743,40.81092",
     "geom:latitude":40.81092,
     "geom:longitude":-73.501743,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"333 Jackson Ave",
     "sg:city":"Syosset",
     "sg:classifiers":[
@@ -47,10 +48,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529175,
+        102191575,
+        404521475,
         85633793,
         85979075,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,19 +64,20 @@
     "wof:geomhash":"f622fe1248ef44929695ce0628cf4b36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979075,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529175,
             "region_id":85688543,
             "venue_id":370235563
         }
     ],
     "wof:id":370235563,
-    "wof:lastmodified":1449029671,
+    "wof:lastmodified":1454127487,
     "wof:name":"Allstate Insurance Company - Michael Marziliano",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529175,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -85,6 +90,11 @@
         "renter"
     ]
 },
-  "bbox": [-73.501743,40.81092,-73.501743,40.81092],
+  "bbox": [
+    -73.501743,
+    40.81092,
+    -73.501743,
+    40.81092
+],
   "geometry": {"coordinates":[-73.501743,40.81092],"type":"Point"}
 }

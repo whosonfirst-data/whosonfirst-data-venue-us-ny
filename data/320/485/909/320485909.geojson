@@ -2,13 +2,14 @@
   "id": 320485909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.735082,40.648936,-73.735082,40.648936",
     "geom:latitude":40.648936,
     "geom:longitude":-73.735082,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"680 Flanders Dr",
     "sg:city":"Valley Stream",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845957,
+        102191575,
+        404521473,
         85633793,
-        85977539,
-        102082377,
-        85845957
+        85979053,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"651ff557fe0f91cc4e6027137f48a13e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404521473,
+            "locality_id":85979053,
             "neighbourhood_id":85845957,
             "region_id":85688543,
             "venue_id":320485909
         }
     ],
     "wof:id":320485909,
-    "wof:lastmodified":1449013528,
+    "wof:lastmodified":1454125131,
     "wof:name":"Real-Time Tech Solutions Inc",
     "wof:parent_id":85845957,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.735082,40.648936,-73.735082,40.648936],
-  "geometry": {"coordinates":[-73.735082,40.648936],"type":"Point"}
+  "bbox": [
+    -73.735082,
+    40.648936,
+    -73.735082,
+    40.648936
+],
+  "geometry": {"coordinates":[-73.73508200000001,40.648936],"type":"Point"}
 }

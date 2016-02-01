@@ -2,13 +2,14 @@
   "id": 387753373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.964234,41.372429,-73.964234,41.372429",
     "geom:latitude":41.372429,
     "geom:longitude":-73.964234,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"427 Main St",
     "sg:city":"Highland Falls",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85821803,
+        102191575,
+        404522899,
         85633793,
-        102083007,
-        85821803
+        85978223,
+        102083061,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"b15a89ecd6fe68dd5c7f936bb4bbdaac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083007,
-            "locality_id":-1,
+            "county_id":102083061,
+            "localadmin_id":404522899,
+            "locality_id":85978223,
             "neighbourhood_id":85821803,
             "region_id":85688543,
             "venue_id":387753373
         }
     ],
     "wof:id":387753373,
-    "wof:lastmodified":1449056558,
+    "wof:lastmodified":1454129609,
     "wof:name":"Vasilys Souvenir Shop",
     "wof:parent_id":85821803,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "commercial"
     ]
 },
-  "bbox": [-73.964234,41.372429,-73.964234,41.372429],
+  "bbox": [
+    -73.964234,
+    41.372429,
+    -73.964234,
+    41.372429
+],
   "geometry": {"coordinates":[-73.964234,41.372429],"type":"Point"}
 }

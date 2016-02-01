@@ -2,13 +2,14 @@
   "id": 337577843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.890394,40.746217,-73.890394,40.746217",
     "geom:latitude":40.746217,
     "geom:longitude":-73.890394,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"75-08 Broadway",
     "sg:city":"Elmhurst",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817879,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85817879
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"7bec2f73c0385c4927f796d2ddfaf44f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85817879,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":337577843,
-    "wof:lastmodified":1449027760,
+    "wof:lastmodified":1454127190,
     "wof:name":"First Taste Bakery",
     "wof:parent_id":85817879,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "chinese"
     ]
 },
-  "bbox": [-73.890394,40.746217,-73.890394,40.746217],
+  "bbox": [
+    -73.890394,
+    40.746217,
+    -73.890394,
+    40.746217
+],
   "geometry": {"coordinates":[-73.890394,40.746217],"type":"Point"}
 }

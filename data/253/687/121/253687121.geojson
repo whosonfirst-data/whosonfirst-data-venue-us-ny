@@ -2,13 +2,14 @@
   "id": 253687121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.076822,41.711681,-74.076822,41.711681",
     "geom:latitude":41.711681,
     "geom:longitude":-74.076822,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"70 Brookside Rd",
     "sg:city":"New Paltz",
     "sg:classifiers":[
@@ -24,8 +25,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85827423,
+        102081775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +38,27 @@
     "wof:geomhash":"1bd6816d3dcdb56f391f418ad21d555b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081775,
+            "neighbourhood_id":85827423,
             "region_id":85688543,
             "venue_id":253687121
         }
     ],
     "wof:id":253687121,
-    "wof:lastmodified":1449063645,
+    "wof:lastmodified":1454130383,
     "wof:name":"Red Fox Farms",
-    "wof:parent_id":-1,
+    "wof:parent_id":85827423,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.076822,41.711681,-74.076822,41.711681],
-  "geometry": {"coordinates":[-74.076822,41.711681],"type":"Point"}
+  "bbox": [
+    -74.076822,
+    41.711681,
+    -74.076822,
+    41.711681
+],
+  "geometry": {"coordinates":[-74.07682200000001,41.711681],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286820239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.108365,40.6213,-74.108365,40.6213",
     "geom:latitude":40.6213,
     "geom:longitude":-74.108365,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"755 Oakland Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892969,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85892969
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"6082552dacbc93c925ae07bdf9c2ef6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892969,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":286820239,
-    "wof:lastmodified":1449016712,
+    "wof:lastmodified":1454125666,
     "wof:name":"Sweeter Image LLC",
     "wof:parent_id":85892969,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "confectionery"
     ]
 },
-  "bbox": [-74.108365,40.6213,-74.108365,40.6213],
-  "geometry": {"coordinates":[-74.108365,40.6213],"type":"Point"}
+  "bbox": [
+    -74.108365,
+    40.6213,
+    -74.108365,
+    40.6213
+],
+  "geometry": {"coordinates":[-74.10836500000001,40.6213],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185793351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.002046,40.63095,-74.002046,40.63095",
     "geom:latitude":40.63095,
     "geom:longitude":-74.002046,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1141 60th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     "sg:website":"http://888treeguys.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"f36b9cb3f03395ee3dfa7d8a1f91ec99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":185793351
         }
     ],
     "wof:id":185793351,
-    "wof:lastmodified":1449007498,
+    "wof:lastmodified":1454124260,
     "wof:name":"Tree Guys",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -71,6 +76,11 @@
         "arborist"
     ]
 },
-  "bbox": [-74.002046,40.63095,-74.002046,40.63095],
-  "geometry": {"coordinates":[-74.002046,40.63095],"type":"Point"}
+  "bbox": [
+    -74.002046,
+    40.63095,
+    -74.002046,
+    40.63095
+],
+  "geometry": {"coordinates":[-74.00204600000001,40.63095],"type":"Point"}
 }

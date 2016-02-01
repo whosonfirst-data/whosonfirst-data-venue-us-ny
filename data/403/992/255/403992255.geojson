@@ -2,13 +2,14 @@
   "id": 403992255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.573614,40.759883,-73.573614,40.759883",
     "geom:latitude":40.759883,
     "geom:longitude":-73.573614,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"250 Brook St",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529181,
+        102191575,
+        404522729,
         85633793,
         85979063,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"e1d126ca80fce330ba97a22233dbc912",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979063,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529181,
             "region_id":85688543,
             "venue_id":403992255
         }
     ],
     "wof:id":403992255,
-    "wof:lastmodified":1449055251,
+    "wof:lastmodified":1454129411,
     "wof:name":"Cordelle A Newberry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529181,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "clergy"
     ]
 },
-  "bbox": [-73.573614,40.759883,-73.573614,40.759883],
-  "geometry": {"coordinates":[-73.573614,40.759883],"type":"Point"}
+  "bbox": [
+    -73.573614,
+    40.759883,
+    -73.573614,
+    40.759883
+],
+  "geometry": {"coordinates":[-73.57361400000001,40.759883],"type":"Point"}
 }

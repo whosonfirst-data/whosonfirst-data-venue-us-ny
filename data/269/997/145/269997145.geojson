@@ -2,13 +2,14 @@
   "id": 269997145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.417093,41.439306,-74.417093,41.439306",
     "geom:latitude":41.439306,
     "geom:longitude":-74.417093,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 Sprague Ave",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.firstclasslimo.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892905,
+        102191575,
+        404522903,
         85633793,
         85978211,
         102083061,
-        85892905
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"506bf7f8fe297a2b485b6daf176fb05b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
+            "localadmin_id":404522903,
             "locality_id":85978211,
             "neighbourhood_id":85892905,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":269997145,
-    "wof:lastmodified":1449038422,
+    "wof:lastmodified":1454128760,
     "wof:name":"A First Class Limousine",
     "wof:parent_id":85892905,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "limousine"
     ]
 },
-  "bbox": [-74.417093,41.439306,-74.417093,41.439306],
-  "geometry": {"coordinates":[-74.417093,41.439306],"type":"Point"}
+  "bbox": [
+    -74.417093,
+    41.439306,
+    -74.417093,
+    41.439306
+],
+  "geometry": {"coordinates":[-74.41709299999999,41.439306],"type":"Point"}
 }

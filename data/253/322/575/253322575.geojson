@@ -2,13 +2,14 @@
   "id": 253322575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.150695,41.84257,-74.150695,41.84257",
     "geom:latitude":41.84257,
     "geom:longitude":-74.150695,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1410 State Hwy 213",
     "sg:city":"High Falls",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85808191,
+        102191575,
+        404523255,
         85633793,
+        85978905,
         102081775,
-        85808191
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"eee71c8d970805825d09702eb6bd9fa4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
-            "locality_id":-1,
+            "localadmin_id":404523255,
+            "locality_id":85978905,
             "neighbourhood_id":85808191,
             "region_id":85688543,
             "venue_id":253322575
         }
     ],
     "wof:id":253322575,
-    "wof:lastmodified":1449062793,
+    "wof:lastmodified":1454130237,
     "wof:name":"Ray's Auto Svc",
     "wof:parent_id":85808191,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "automobile"
     ]
 },
-  "bbox": [-74.150695,41.84257,-74.150695,41.84257],
+  "bbox": [
+    -74.150695,
+    41.84257,
+    -74.150695,
+    41.84257
+],
   "geometry": {"coordinates":[-74.150695,41.84257],"type":"Point"}
 }

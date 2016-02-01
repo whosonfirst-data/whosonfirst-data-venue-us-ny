@@ -2,13 +2,14 @@
   "id": 353737407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.689242,40.83049,-73.689242,40.83049",
     "geom:latitude":40.83049,
     "geom:longitude":-73.689242,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"111 Main St",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529161,
+        102191575,
+        404522729,
         85633793,
         85979185,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"33f241182efe52d0ba3fb780edcb0105",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979185,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529161,
             "region_id":85688543,
             "venue_id":353737407
         }
     ],
     "wof:id":353737407,
-    "wof:lastmodified":1449018831,
+    "wof:lastmodified":1454126117,
     "wof:name":"Renaissance Natural Foods Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529161,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [-73.689242,40.83049,-73.689242,40.83049],
-  "geometry": {"coordinates":[-73.689242,40.83049],"type":"Point"}
+  "bbox": [
+    -73.689242,
+    40.83049,
+    -73.689242,
+    40.83049
+],
+  "geometry": {"coordinates":[-73.68924199999999,40.83049],"type":"Point"}
 }

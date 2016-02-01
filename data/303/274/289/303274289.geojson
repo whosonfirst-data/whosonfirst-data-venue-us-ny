@@ -2,13 +2,14 @@
   "id": 303274289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.924298,40.843619,-73.924298,40.843619",
     "geom:latitude":40.843619,
     "geom:longitude":-73.924298,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1442 University Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869335,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869335
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"1cb8533dcc850b8b4c425cc02488bc67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869335,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303274289,
-    "wof:lastmodified":1448998420,
+    "wof:lastmodified":1454123091,
     "wof:name":"Soon Cycle Service Accessories",
     "wof:parent_id":85869335,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "motor"
     ]
 },
-  "bbox": [-73.924298,40.843619,-73.924298,40.843619],
-  "geometry": {"coordinates":[-73.924298,40.843619],"type":"Point"}
+  "bbox": [
+    -73.924298,
+    40.843619,
+    -73.924298,
+    40.843619
+],
+  "geometry": {"coordinates":[-73.92429799999999,40.843619],"type":"Point"}
 }

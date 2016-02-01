@@ -2,13 +2,14 @@
   "id": 186004885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.963132,40.613991,-73.963132,40.613991",
     "geom:latitude":40.613991,
     "geom:longitude":-73.963132,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1780 Coney Island Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -50,11 +51,13 @@
     "sg:website":"http://www.anytimetow.biz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865583,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,9 +67,10 @@
     "wof:geomhash":"78944afc0f17c55a577a7b661b6bd8a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865583,
             "region_id":85688543,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":186004885,
-    "wof:lastmodified":1449051366,
+    "wof:lastmodified":1454129306,
     "wof:name":"Anytime Towing",
     "wof:parent_id":85865583,
     "wof:placetype":"venue",
@@ -91,6 +95,11 @@
         "salvage"
     ]
 },
-  "bbox": [-73.963132,40.613991,-73.963132,40.613991],
+  "bbox": [
+    -73.963132,
+    40.613991,
+    -73.963132,
+    40.613991
+],
   "geometry": {"coordinates":[-73.963132,40.613991],"type":"Point"}
 }

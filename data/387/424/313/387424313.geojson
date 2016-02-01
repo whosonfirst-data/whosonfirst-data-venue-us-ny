@@ -2,13 +2,14 @@
   "id": 387424313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.840815,40.872056,-73.840815,40.872056",
     "geom:latitude":40.872056,
     "geom:longitude":-73.840815,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1654 Hammersley Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85804885,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85804885
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"6427323cb802469f02c484831c0afbee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85804885,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387424313,
-    "wof:lastmodified":1449059681,
+    "wof:lastmodified":1454130167,
     "wof:name":"Em Trucking",
     "wof:parent_id":85804885,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-73.840815,40.872056,-73.840815,40.872056],
-  "geometry": {"coordinates":[-73.840815,40.872056],"type":"Point"}
+  "bbox": [
+    -73.840815,
+    40.872056,
+    -73.840815,
+    40.872056
+],
+  "geometry": {"coordinates":[-73.84081500000001,40.872056],"type":"Point"}
 }

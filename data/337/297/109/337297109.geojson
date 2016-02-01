@@ -2,13 +2,14 @@
   "id": 337297109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.928755,40.618829,-73.928755,40.618829",
     "geom:latitude":40.618829,
     "geom:longitude":-73.928755,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4809 Avenue N",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819585,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85819585
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"1e880e970c7f94be8204e8715f1da455",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819585,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":337297109,
-    "wof:lastmodified":1449027472,
+    "wof:lastmodified":1454127078,
     "wof:name":"My Petshirt",
     "wof:parent_id":85819585,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "cat"
     ]
 },
-  "bbox": [-73.928755,40.618829,-73.928755,40.618829],
+  "bbox": [
+    -73.928755,
+    40.618829,
+    -73.928755,
+    40.618829
+],
   "geometry": {"coordinates":[-73.928755,40.618829],"type":"Point"}
 }

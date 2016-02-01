@@ -2,13 +2,14 @@
   "id": 370391975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.447097,44.779359,-73.447097,44.779359",
     "geom:latitude":44.779359,
     "geom:longitude":-73.447097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"171 Spellman Rd",
     "sg:city":"Plattsburgh",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85977989,
+        102081797,
+        85823609
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +43,18 @@
     "wof:geomhash":"dabcbfa68876eac9fd93b0416fa10791",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081797,
+            "locality_id":85977989,
+            "neighbourhood_id":85823609,
             "region_id":85688543,
             "venue_id":370391975
         }
     ],
     "wof:id":370391975,
-    "wof:lastmodified":1449031242,
+    "wof:lastmodified":1454127949,
     "wof:name":"Klipper Korner",
-    "wof:parent_id":-1,
+    "wof:parent_id":85823609,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +63,11 @@
         "beauty"
     ]
 },
-  "bbox": [-73.447097,44.779359,-73.447097,44.779359],
+  "bbox": [
+    -73.447097,
+    44.779359,
+    -73.447097,
+    44.779359
+],
   "geometry": {"coordinates":[-73.447097,44.779359],"type":"Point"}
 }

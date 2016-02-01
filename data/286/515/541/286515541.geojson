@@ -2,13 +2,14 @@
   "id": 286515541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.784082,41.034412,-73.784082,41.034412",
     "geom:latitude":41.034412,
     "geom:longitude":-73.784082,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"336 Central Park Ave",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893077,
+        102191575,
+        404523395,
         85633793,
+        85978761,
         102082373,
-        85893077
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"a6bb805f980c7041b785498c2f5c33dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":-1,
+            "localadmin_id":404523395,
+            "locality_id":85978761,
             "neighbourhood_id":85893077,
             "region_id":85688543,
             "venue_id":286515541
         }
     ],
     "wof:id":286515541,
-    "wof:lastmodified":1449015842,
+    "wof:lastmodified":1454125514,
     "wof:name":"United Way",
     "wof:parent_id":85893077,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "human"
     ]
 },
-  "bbox": [-73.784082,41.034412,-73.784082,41.034412],
+  "bbox": [
+    -73.784082,
+    41.034412,
+    -73.784082,
+    41.034412
+],
   "geometry": {"coordinates":[-73.784082,41.034412],"type":"Point"}
 }

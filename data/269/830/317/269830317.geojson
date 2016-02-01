@@ -2,13 +2,14 @@
   "id": 269830317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.703822,43.186901,-77.703822,43.186901",
     "geom:latitude":43.186901,
     "geom:longitude":-77.703822,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2600 Ridgeway Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85837647,
+        102191575,
+        404522629,
         85633793,
+        85979031,
+        102081815,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"c71f6dc79af90d954c761fae0400aebe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "localadmin_id":404522629,
+            "locality_id":85979031,
+            "neighbourhood_id":85837647,
             "region_id":85688543,
             "venue_id":269830317
         }
     ],
     "wof:id":269830317,
-    "wof:lastmodified":1449036663,
+    "wof:lastmodified":1454128540,
     "wof:name":"Tim Hortons",
-    "wof:parent_id":-1,
+    "wof:parent_id":85837647,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "doughnut"
     ]
 },
-  "bbox": [-77.703822,43.186901,-77.703822,43.186901],
+  "bbox": [
+    -77.703822,
+    43.186901,
+    -77.703822,
+    43.186901
+],
   "geometry": {"coordinates":[-77.703822,43.186901],"type":"Point"}
 }

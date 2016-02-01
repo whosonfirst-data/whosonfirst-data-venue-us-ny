@@ -2,13 +2,14 @@
   "id": 287084759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.855976,40.874014,-73.855976,40.874014",
     "geom:latitude":40.874014,
     "geom:longitude":-73.855976,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1086 E Gun Hill Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869805,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869805
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"eb8d6946834369f275efb8fde78a5a64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869805,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":287084759,
-    "wof:lastmodified":1449000756,
+    "wof:lastmodified":1454123772,
     "wof:name":"Ganeco Electric Corporation",
     "wof:parent_id":85869805,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.855976,40.874014,-73.855976,40.874014],
+  "bbox": [
+    -73.855976,
+    40.874014,
+    -73.855976,
+    40.874014
+],
   "geometry": {"coordinates":[-73.855976,40.874014],"type":"Point"}
 }

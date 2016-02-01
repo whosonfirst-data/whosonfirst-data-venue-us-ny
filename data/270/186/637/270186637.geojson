@@ -2,13 +2,14 @@
   "id": 270186637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.408073,40.815436,-73.408073,40.815436",
     "geom:latitude":40.815436,
     "geom:longitude":-73.408073,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2357 New York Ave",
     "sg:city":"Huntington Sta",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.checkers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892875,
+        102191575,
+        404522515,
         85633793,
-        85979819,
-        102082395
+        85979779,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"5748dea358b99d0ba4904d764cd456a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979819,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522515,
+            "locality_id":85979779,
+            "neighbourhood_id":85892875,
             "region_id":85688543,
             "venue_id":270186637
         }
     ],
     "wof:id":270186637,
-    "wof:lastmodified":1449010519,
+    "wof:lastmodified":1454124649,
     "wof:name":"Checkers Drive-In Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892875,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.408073,40.815436,-73.408073,40.815436],
+  "bbox": [
+    -73.408073,
+    40.815436,
+    -73.408073,
+    40.815436
+],
   "geometry": {"coordinates":[-73.408073,40.815436],"type":"Point"}
 }

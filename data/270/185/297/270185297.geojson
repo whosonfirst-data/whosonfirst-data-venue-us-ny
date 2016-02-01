@@ -2,13 +2,14 @@
   "id": 270185297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.590736,40.935977,-72.590736,40.935977",
     "geom:latitude":40.935977,
     "geom:longitude":-72.590736,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Lagoon Ct W",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85838351,
+        102191575,
+        404522663,
         85633793,
-        85979879,
+        85979671,
         102082395,
-        85838351
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"68726932f78c9cb633da30c7debb1878",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979879,
+            "localadmin_id":404522663,
+            "locality_id":85979671,
             "neighbourhood_id":85838351,
             "region_id":85688543,
             "venue_id":270185297
         }
     ],
     "wof:id":270185297,
-    "wof:lastmodified":1449009037,
+    "wof:lastmodified":1454124423,
     "wof:name":"Central Self Storage",
     "wof:parent_id":85838351,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "storage"
     ]
 },
-  "bbox": [-72.590736,40.935977,-72.590736,40.935977],
-  "geometry": {"coordinates":[-72.590736,40.935977],"type":"Point"}
+  "bbox": [
+    -72.590736,
+    40.935977,
+    -72.590736,
+    40.935977
+],
+  "geometry": {"coordinates":[-72.59073600000001,40.935977],"type":"Point"}
 }

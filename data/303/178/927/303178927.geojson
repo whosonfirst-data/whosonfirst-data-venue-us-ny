@@ -2,13 +2,14 @@
   "id": 303178927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.949689,40.590365,-73.949689,40.590365",
     "geom:latitude":40.590365,
     "geom:longitude":-73.949689,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2970 Ocean Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848121,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85848121
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"646226058bcf56abb8b905488609af20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85848121,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303178927,
-    "wof:lastmodified":1448999874,
+    "wof:lastmodified":1454123533,
     "wof:name":"Bay Stop Market",
     "wof:parent_id":85848121,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "newsstand"
     ]
 },
-  "bbox": [-73.949689,40.590365,-73.949689,40.590365],
-  "geometry": {"coordinates":[-73.949689,40.590365],"type":"Point"}
+  "bbox": [
+    -73.949689,
+    40.590365,
+    -73.949689,
+    40.590365
+],
+  "geometry": {"coordinates":[-73.94968900000001,40.590365],"type":"Point"}
 }

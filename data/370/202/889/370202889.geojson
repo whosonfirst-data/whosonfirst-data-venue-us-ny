@@ -2,13 +2,14 @@
   "id": 370202889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.813596,42.924553,-78.813596,42.924553",
     "geom:latitude":42.924553,
     "geom:longitude":-78.813596,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2535 Bailey Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528541,
+        102191575,
+        404522329,
         85633793,
         85978023,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"c20f08c1a36c6a20e726ba9cf54bce57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528541,
             "region_id":85688543,
             "venue_id":370202889
         }
     ],
     "wof:id":370202889,
-    "wof:lastmodified":1449032029,
+    "wof:lastmodified":1454128182,
     "wof:name":"St Gerards Lyceum",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528541,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-78.813596,42.924553,-78.813596,42.924553],
+  "bbox": [
+    -78.813596,
+    42.924553,
+    -78.813596,
+    42.924553
+],
   "geometry": {"coordinates":[-78.813596,42.924553],"type":"Point"}
 }

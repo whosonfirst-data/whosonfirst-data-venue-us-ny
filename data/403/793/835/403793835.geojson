@@ -2,13 +2,14 @@
   "id": 403793835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.919859,40.842272,-73.919859,40.842272",
     "geom:latitude":40.842272,
     "geom:longitude":-73.919859,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1475 Jesup Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865561,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865561
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"2011aaafcd615d4ae4fc3a7d10d129b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865561,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":403793835,
-    "wof:lastmodified":1449055368,
+    "wof:lastmodified":1454129426,
     "wof:name":"Masjid Deyaue Of Islam",
     "wof:parent_id":85865561,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.919859,40.842272,-73.919859,40.842272],
+  "bbox": [
+    -73.919859,
+    40.842272,
+    -73.919859,
+    40.842272
+],
   "geometry": {"coordinates":[-73.919859,40.842272],"type":"Point"}
 }

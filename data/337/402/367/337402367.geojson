@@ -2,13 +2,14 @@
   "id": 337402367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.845703,40.7841,-73.845703,40.7841",
     "geom:latitude":40.7841,
     "geom:longitude":-73.845703,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1503 College Point Blvd",
     "sg:city":"College Point",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.dunkindonuts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85811813,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85811813
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"af92d65d1f40591ee67dfe69884833dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85811813,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":337402367,
-    "wof:lastmodified":1449027207,
+    "wof:lastmodified":1454126974,
     "wof:name":"Dunkin Donuts",
     "wof:parent_id":85811813,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.845703,40.7841,-73.845703,40.7841],
+  "bbox": [
+    -73.845703,
+    40.7841,
+    -73.845703,
+    40.7841
+],
   "geometry": {"coordinates":[-73.845703,40.7841],"type":"Point"}
 }

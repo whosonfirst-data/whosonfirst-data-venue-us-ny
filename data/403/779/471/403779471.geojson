@@ -2,13 +2,14 @@
   "id": 403779471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.127111,43.567763,-76.127111,43.567763",
     "geom:latitude":43.567763,
     "geom:longitude":-76.127111,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4881 N Jefferson St",
     "sg:city":"Pulaski",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805925,
+        102191575,
+        404522871,
         85633793,
+        85978583,
         102081783,
-        85805925
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"dc9e6b34d2b7903bbb9b677b62cd3808",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081783,
-            "locality_id":-1,
+            "localadmin_id":404522871,
+            "locality_id":85978583,
             "neighbourhood_id":85805925,
             "region_id":85688543,
             "venue_id":403779471
         }
     ],
     "wof:id":403779471,
-    "wof:lastmodified":1449054831,
+    "wof:lastmodified":1454129353,
     "wof:name":"Upstate Mechanical Inc",
     "wof:parent_id":85805925,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.127111,43.567763,-76.127111,43.567763],
+  "bbox": [
+    -76.127111,
+    43.567763,
+    -76.127111,
+    43.567763
+],
   "geometry": {"coordinates":[-76.127111,43.567763],"type":"Point"}
 }

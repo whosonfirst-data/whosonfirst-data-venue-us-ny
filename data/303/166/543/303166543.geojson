@@ -2,13 +2,14 @@
   "id": 303166543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.851944,40.834088,-73.851944,40.834088",
     "geom:latitude":40.834088,
     "geom:longitude":-73.851944,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2168 Westchester Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853099,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85853099
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"ce41b01c9ba116e135bb5275907c2e8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853099,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":303166543,
-    "wof:lastmodified":1448999486,
+    "wof:lastmodified":1454123427,
     "wof:name":"Toto's Pizzeria",
     "wof:parent_id":85853099,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.851944,40.834088,-73.851944,40.834088],
+  "bbox": [
+    -73.851944,
+    40.834088,
+    -73.851944,
+    40.834088
+],
   "geometry": {"coordinates":[-73.851944,40.834088],"type":"Point"}
 }

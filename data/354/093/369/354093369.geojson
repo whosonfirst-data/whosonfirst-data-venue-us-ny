@@ -2,13 +2,14 @@
   "id": 354093369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.548808,40.690295,-73.548808,40.690295",
     "geom:latitude":40.690295,
     "geom:longitude":-73.548808,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1206 Bellmore Ave",
     "sg:city":"North Bellmore",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.citgo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529153,
+        102191575,
+        404521473,
         85633793,
-        85979059,
-        102082371
+        85979047,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,24 +47,30 @@
     "wof:geomhash":"154653fb974c7f92d470f073e5212a87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979059,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979047,
+            "neighbourhood_id":420529153,
             "region_id":85688543,
             "venue_id":354093369
         }
     ],
     "wof:id":354093369,
-    "wof:lastmodified":1449065928,
+    "wof:lastmodified":1454130768,
     "wof:name":"Bellmore Citgo Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529153,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.548808,40.690295,-73.548808,40.690295],
-  "geometry": {"coordinates":[-73.548808,40.690295],"type":"Point"}
+  "bbox": [
+    -73.548808,
+    40.690295,
+    -73.548808,
+    40.690295
+],
+  "geometry": {"coordinates":[-73.54880799999999,40.690295],"type":"Point"}
 }

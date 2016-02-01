@@ -2,13 +2,14 @@
   "id": 303638703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.60797,40.671222,-73.60797,40.671222",
     "geom:latitude":40.671222,
     "geom:longitude":-73.60797,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 Wallace Ave",
     "sg:city":"Baldwin",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529133,
+        102191575,
+        404521473,
         85633793,
         85979173,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"ab04345af3f45816c758d8321337cb37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979173,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529133,
             "region_id":85688543,
             "venue_id":303638703
         }
     ],
     "wof:id":303638703,
-    "wof:lastmodified":1448998253,
+    "wof:lastmodified":1454123032,
     "wof:name":"G & G Equipment Service Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529133,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "heating"
     ]
 },
-  "bbox": [-73.60797,40.671222,-73.60797,40.671222],
-  "geometry": {"coordinates":[-73.60797,40.671222],"type":"Point"}
+  "bbox": [
+    -73.60797,
+    40.671222,
+    -73.60797,
+    40.671222
+],
+  "geometry": {"coordinates":[-73.60796999999999,40.671222],"type":"Point"}
 }

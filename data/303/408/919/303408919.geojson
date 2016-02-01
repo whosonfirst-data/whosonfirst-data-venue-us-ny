@@ -2,13 +2,14 @@
   "id": 303408919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.99172,40.844534,-72.99172,40.844534",
     "geom:latitude":40.844534,
     "geom:longitude":-72.99172,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"37 Cedarhurst Ave",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"d60e6491edb2e6987d7f6977ce46bce9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":303408919
         }
     ],
     "wof:id":303408919,
-    "wof:lastmodified":1448998421,
+    "wof:lastmodified":1454123092,
     "wof:name":"Liquid Waste Recovery",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-72.99172,40.844534,-72.99172,40.844534],
+  "bbox": [
+    -72.99172,
+    40.844534,
+    -72.99172,
+    40.844534
+],
   "geometry": {"coordinates":[-72.99172,40.844534],"type":"Point"}
 }

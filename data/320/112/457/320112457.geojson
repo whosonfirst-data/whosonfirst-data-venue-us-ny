@@ -2,13 +2,14 @@
   "id": 320112457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.10027,40.561547,-74.10027,40.561547",
     "geom:latitude":40.561547,
     "geom:longitude":-74.10027,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"128 Cedar Grove Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836603,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85836603
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"90e83335ed5c978dc3c00d11969e479b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85836603,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":320112457,
-    "wof:lastmodified":1449012972,
+    "wof:lastmodified":1454125039,
     "wof:name":"Staten Island Community Svc",
     "wof:parent_id":85836603,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "citizen"
     ]
 },
-  "bbox": [-74.10027,40.561547,-74.10027,40.561547],
-  "geometry": {"coordinates":[-74.10027,40.561547],"type":"Point"}
+  "bbox": [
+    -74.10027,
+    40.561547,
+    -74.10027,
+    40.561547
+],
+  "geometry": {"coordinates":[-74.10026999999999,40.561547],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304067921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.004044,40.747707,-74.004044,40.747707",
     "geom:latitude":40.747707,
     "geom:longitude":-74.004044,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"405 W 23rd St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810589,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810589
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"d9d090c39385d7ce3cc66f077c44d4d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810589,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":304067921,
-    "wof:lastmodified":1449043607,
+    "wof:lastmodified":1454128974,
     "wof:name":"Camera Services Inc",
     "wof:parent_id":85810589,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-74.004044,40.747707,-74.004044,40.747707],
-  "geometry": {"coordinates":[-74.004044,40.747707],"type":"Point"}
+  "bbox": [
+    -74.004044,
+    40.747707,
+    -74.004044,
+    40.747707
+],
+  "geometry": {"coordinates":[-74.00404399999999,40.747707],"type":"Point"}
 }

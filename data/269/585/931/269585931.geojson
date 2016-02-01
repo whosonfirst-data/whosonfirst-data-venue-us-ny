@@ -2,13 +2,14 @@
   "id": 269585931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.611055,41.404298,-73.611055,41.404298",
     "geom:latitude":41.404298,
     "geom:longitude":-73.611055,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"262 Peaceable Hill Rd",
     "sg:city":"Brewster",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "sg:website":"www.vfw.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85807285,
+        102083007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"a849558192eb0123b127eb9aca6e2356",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083007,
+            "neighbourhood_id":85807285,
             "region_id":85688543,
             "venue_id":269585931
         }
     ],
     "wof:id":269585931,
-    "wof:lastmodified":1449037717,
+    "wof:lastmodified":1454128699,
     "wof:name":"Veterans Of Foreign Wars",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807285,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -58,6 +60,11 @@
         "military"
     ]
 },
-  "bbox": [-73.611055,41.404298,-73.611055,41.404298],
-  "geometry": {"coordinates":[-73.611055,41.404298],"type":"Point"}
+  "bbox": [
+    -73.611055,
+    41.404298,
+    -73.611055,
+    41.404298
+],
+  "geometry": {"coordinates":[-73.61105499999999,41.404298],"type":"Point"}
 }

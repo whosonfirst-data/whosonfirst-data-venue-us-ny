@@ -2,13 +2,14 @@
   "id": 320611637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.521504,40.797204,-73.521504,40.797204",
     "geom:latitude":40.797204,
     "geom:longitude":-73.521504,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"42 Favorite Ln",
     "sg:city":"Jericho",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892879,
+        102191575,
+        404521475,
         85633793,
-        85977611,
+        85979085,
         102082371,
-        85892879
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"1f98f5af587fbb989327b4a863ab8257",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977611,
+            "localadmin_id":404521475,
+            "locality_id":85979085,
             "neighbourhood_id":85892879,
             "region_id":85688543,
             "venue_id":320611637
         }
     ],
     "wof:id":320611637,
-    "wof:lastmodified":1449014173,
+    "wof:lastmodified":1454125234,
     "wof:name":"B & D Assoc",
     "wof:parent_id":85892879,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.521504,40.797204,-73.521504,40.797204],
-  "geometry": {"coordinates":[-73.521504,40.797204],"type":"Point"}
+  "bbox": [
+    -73.521504,
+    40.797204,
+    -73.521504,
+    40.797204
+],
+  "geometry": {"coordinates":[-73.52150399999999,40.797204],"type":"Point"}
 }

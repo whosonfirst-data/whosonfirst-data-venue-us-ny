@@ -2,13 +2,14 @@
   "id": 370690537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.438065,43.857291,-73.438065,43.857291",
     "geom:latitude":43.857291,
     "geom:longitude":-73.438065,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1148 Wicker St",
     "sg:city":"Ticonderoga",
     "sg:classifiers":[
@@ -38,10 +39,13 @@
     "sg:website":"http://www.mcdonalds.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820233,
+        102191575,
+        404522389,
         85633793,
+        85978885,
         102082405,
-        85820233
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +55,18 @@
     "wof:geomhash":"f1f8f1843a689adca7a90b91dfa3cc7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082405,
-            "locality_id":-1,
+            "localadmin_id":404522389,
+            "locality_id":85978885,
             "neighbourhood_id":85820233,
             "region_id":85688543,
             "venue_id":370690537
         }
     ],
     "wof:id":370690537,
-    "wof:lastmodified":1449030867,
+    "wof:lastmodified":1454127836,
     "wof:name":"McDonald's",
     "wof:parent_id":85820233,
     "wof:placetype":"venue",
@@ -76,6 +81,11 @@
         "chicken"
     ]
 },
-  "bbox": [-73.438065,43.857291,-73.438065,43.857291],
-  "geometry": {"coordinates":[-73.438065,43.857291],"type":"Point"}
+  "bbox": [
+    -73.438065,
+    43.857291,
+    -73.438065,
+    43.857291
+],
+  "geometry": {"coordinates":[-73.43806499999999,43.857291],"type":"Point"}
 }

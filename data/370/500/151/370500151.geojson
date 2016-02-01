@@ -2,13 +2,14 @@
   "id": 370500151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.99891,41.942286,-73.99891,41.942286",
     "geom:latitude":41.942286,
     "geom:longitude":-73.99891,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"470 Albany Ave",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -52,11 +53,13 @@
     "sg:website":"http://www.advanceautoparts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845827,
+        102191575,
+        404523249,
         85633793,
         85977505,
         102081775,
-        85845827
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,9 +69,10 @@
     "wof:geomhash":"ab1fd42a02d1f9ee21538148d9e25435",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
+            "localadmin_id":404523249,
             "locality_id":85977505,
             "neighbourhood_id":85845827,
             "region_id":85688543,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":370500151,
-    "wof:lastmodified":1449029940,
+    "wof:lastmodified":1454127564,
     "wof:name":"Advance Auto Parts",
     "wof:parent_id":85845827,
     "wof:placetype":"venue",
@@ -95,6 +99,11 @@
         "batteries-storage"
     ]
 },
-  "bbox": [-73.99891,41.942286,-73.99891,41.942286],
+  "bbox": [
+    -73.99891,
+    41.942286,
+    -73.99891,
+    41.942286
+],
   "geometry": {"coordinates":[-73.99891,41.942286],"type":"Point"}
 }

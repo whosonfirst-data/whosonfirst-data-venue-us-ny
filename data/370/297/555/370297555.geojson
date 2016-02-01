@@ -2,13 +2,14 @@
   "id": 370297555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.679806,40.930609,-72.679806,40.930609",
     "geom:latitude":40.930609,
     "geom:longitude":-72.679806,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1149 Old Country Rd Ste E2",
     "sg:city":"Riverhead",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://national.citysearch.com/profile/external/604374582/riverhead_ny/std_test_express_riverhead.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841881,
+        102191575,
+        404522671,
         85633793,
-        85979841,
+        85979909,
         102082395,
-        85841881
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"18dc654110bedf6cb9898cf40ef93621",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979841,
+            "localadmin_id":404522671,
+            "locality_id":85979909,
             "neighbourhood_id":85841881,
             "region_id":85688543,
             "venue_id":370297555
         }
     ],
     "wof:id":370297555,
-    "wof:lastmodified":1449031226,
+    "wof:lastmodified":1454127945,
     "wof:name":"STD Test Express Riverhead",
     "wof:parent_id":85841881,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "welfare"
     ]
 },
-  "bbox": [-72.679806,40.930609,-72.679806,40.930609],
+  "bbox": [
+    -72.679806,
+    40.930609,
+    -72.679806,
+    40.930609
+],
   "geometry": {"coordinates":[-72.679806,40.930609],"type":"Point"}
 }

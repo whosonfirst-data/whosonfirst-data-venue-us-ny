@@ -2,13 +2,14 @@
   "id": 387705009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993627,40.731069,-73.993627,40.731069",
     "geom:latitude":40.731069,
     "geom:longitude":-73.993627,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"52 E 8 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529189,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"545898bf12d52d597acba54d1364b029",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529189,
             "region_id":85688543,
             "venue_id":387705009
         }
     ],
     "wof:id":387705009,
-    "wof:lastmodified":1449059942,
+    "wof:lastmodified":1454130214,
     "wof:name":"TS Hardware Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529189,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-73.993627,40.731069,-73.993627,40.731069],
+  "bbox": [
+    -73.993627,
+    40.731069,
+    -73.993627,
+    40.731069
+],
   "geometry": {"coordinates":[-73.993627,40.731069],"type":"Point"}
 }

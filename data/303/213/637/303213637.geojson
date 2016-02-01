@@ -2,13 +2,14 @@
   "id": 303213637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.996427,40.713931,-73.996427,40.713931",
     "geom:latitude":40.713931,
     "geom:longitude":-73.996427,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"47 Division St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810885,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810885
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"9b0345a0a0529aa8ab8ad89fe0e1e6d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810885,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303213637,
-    "wof:lastmodified":1448998146,
+    "wof:lastmodified":1454122996,
     "wof:name":"668 Corp",
     "wof:parent_id":85810885,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.996427,40.713931,-73.996427,40.713931],
+  "bbox": [
+    -73.996427,
+    40.713931,
+    -73.996427,
+    40.713931
+],
   "geometry": {"coordinates":[-73.996427,40.713931],"type":"Point"}
 }

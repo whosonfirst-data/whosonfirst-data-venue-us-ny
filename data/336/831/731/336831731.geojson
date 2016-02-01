@@ -2,13 +2,14 @@
   "id": 336831731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.982522,43.846,-75.982522,43.846",
     "geom:latitude":43.846,
     "geom:longitude":-75.982522,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13181 Fuller Rd",
     "sg:city":"Adams Center",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     "sg:website":"www.rags-unlimited.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528855,
+        102191575,
+        404521907,
         85633793,
+        85979487,
+        102082357,
         85688543
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"5d07eedb6fba34c564be6a0f6dbcde24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082357,
+            "localadmin_id":404521907,
+            "locality_id":85979487,
+            "neighbourhood_id":420528855,
             "region_id":85688543,
             "venue_id":336831731
         }
     ],
     "wof:id":336831731,
-    "wof:lastmodified":1448997572,
+    "wof:lastmodified":1454122816,
     "wof:name":"Rags-Unlimited House Keeping",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528855,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +68,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-75.982522,43.846,-75.982522,43.846],
+  "bbox": [
+    -75.982522,
+    43.846,
+    -75.982522,
+    43.846
+],
   "geometry": {"coordinates":[-75.982522,43.846],"type":"Point"}
 }

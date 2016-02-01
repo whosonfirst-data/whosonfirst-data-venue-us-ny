@@ -2,13 +2,14 @@
   "id": 354002961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.595661,40.746605,-73.595661,40.746605",
     "geom:latitude":40.746605,
     "geom:longitude":-73.595661,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1504 Old Country Rd # H16",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     "sg:website":"http://www.starbuckscoffee.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893069,
+        102191575,
+        404522729,
         85633793,
-        85977735,
+        85979163,
         102082371,
-        85893069
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +54,18 @@
     "wof:geomhash":"c628a436ed2f05b2fbb142472373c463",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977735,
+            "localadmin_id":404522729,
+            "locality_id":85979163,
             "neighbourhood_id":85893069,
             "region_id":85688543,
             "venue_id":354002961
         }
     ],
     "wof:id":354002961,
-    "wof:lastmodified":1449067338,
+    "wof:lastmodified":1454131204,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":85893069,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "wi-fi"
     ]
 },
-  "bbox": [-73.595661,40.746605,-73.595661,40.746605],
-  "geometry": {"coordinates":[-73.595661,40.746605],"type":"Point"}
+  "bbox": [
+    -73.595661,
+    40.746605,
+    -73.595661,
+    40.746605
+],
+  "geometry": {"coordinates":[-73.59566100000001,40.746605],"type":"Point"}
 }

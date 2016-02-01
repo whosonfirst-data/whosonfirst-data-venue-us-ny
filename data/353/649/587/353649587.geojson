@@ -2,13 +2,14 @@
   "id": 353649587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.860424,40.685053,-73.860424,40.685053",
     "geom:latitude":40.685053,
     "geom:longitude":-73.860424,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8001 Atlantic Avenue",
     "sg:city":"Woodhaven",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85858649,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85858649
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"1ab8c5f29293cf3260af56c3945a7162",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85858649,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353649587,
-    "wof:lastmodified":1449019977,
+    "wof:lastmodified":1454126449,
     "wof:name":"Mr G's Pizza",
     "wof:parent_id":85858649,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "pizza"
     ]
 },
-  "bbox": [-73.860424,40.685053,-73.860424,40.685053],
-  "geometry": {"coordinates":[-73.860424,40.685053],"type":"Point"}
+  "bbox": [
+    -73.860424,
+    40.685053,
+    -73.860424,
+    40.685053
+],
+  "geometry": {"coordinates":[-73.86042399999999,40.685053],"type":"Point"}
 }

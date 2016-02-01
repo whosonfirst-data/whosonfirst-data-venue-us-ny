@@ -2,13 +2,14 @@
   "id": 253156953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.055706,40.757118,-73.055706,40.757118",
     "geom:latitude":40.757118,
     "geom:longitude":-73.055706,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"111 Stephen Rd",
     "sg:city":"Bayport",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"65e36c3b2beeaaf14f6c0c279e301d36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":253156953
         }
     ],
     "wof:id":253156953,
-    "wof:lastmodified":1449063399,
+    "wof:lastmodified":1454130341,
     "wof:name":"TMC Custom Carpentry",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.055706,40.757118,-73.055706,40.757118],
+  "bbox": [
+    -73.055706,
+    40.757118,
+    -73.055706,
+    40.757118
+],
   "geometry": {"coordinates":[-73.055706,40.757118],"type":"Point"}
 }

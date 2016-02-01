@@ -2,13 +2,14 @@
   "id": 169826911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.950587,40.710279,-73.950587,40.710279",
     "geom:latitude":40.710279,
     "geom:longitude":-73.950587,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"19 Maujer Street",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"brooklyn-exterminator.net/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857853,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85857853
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"4216ddbe19b8da1f0c943616d53e2d00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85857853,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":169826911,
-    "wof:lastmodified":1449035072,
+    "wof:lastmodified":1454128421,
     "wof:name":"Brooklyn Exterminator",
     "wof:parent_id":85857853,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.950587,40.710279,-73.950587,40.710279],
+  "bbox": [
+    -73.950587,
+    40.710279,
+    -73.950587,
+    40.710279
+],
   "geometry": {"coordinates":[-73.950587,40.710279],"type":"Point"}
 }

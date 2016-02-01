@@ -2,13 +2,14 @@
   "id": 286301289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.053377,40.932689,-73.053377,40.932689",
     "geom:latitude":40.932689,
     "geom:longitude":-73.053377,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"320 Rte 112",
     "sg:city":"Port Jefferson Station",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85813109,
+        102191575,
+        404521441,
         85633793,
         85978457,
         102082395,
-        85813109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"a426c408e33c9f0cf11d1d99670502b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85978457,
             "neighbourhood_id":85813109,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":286301289,
-    "wof:lastmodified":1449015925,
+    "wof:lastmodified":1454125529,
     "wof:name":"GMA Mechanical Corp",
     "wof:parent_id":85813109,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "mechanical"
     ]
 },
-  "bbox": [-73.053377,40.932689,-73.053377,40.932689],
+  "bbox": [
+    -73.053377,
+    40.932689,
+    -73.053377,
+    40.932689
+],
   "geometry": {"coordinates":[-73.053377,40.932689],"type":"Point"}
 }

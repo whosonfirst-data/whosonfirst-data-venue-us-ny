@@ -2,13 +2,14 @@
   "id": 320201813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.423257,43.848722,-73.423257,43.848722",
     "geom:latitude":43.848722,
     "geom:longitude":-73.423257,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"123 Champlain Ave",
     "sg:city":"Ticonderoga",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820233,
+        102191575,
+        404522389,
         85633793,
+        85978885,
         102082405,
-        85820233
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"a6d3a17422b69347b2b2b32463fa1c8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082405,
-            "locality_id":-1,
+            "localadmin_id":404522389,
+            "locality_id":85978885,
             "neighbourhood_id":85820233,
             "region_id":85688543,
             "venue_id":320201813
         }
     ],
     "wof:id":320201813,
-    "wof:lastmodified":1449014470,
+    "wof:lastmodified":1454125282,
     "wof:name":"Ticonderoga Senior Ctr",
     "wof:parent_id":85820233,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "citizen"
     ]
 },
-  "bbox": [-73.423257,43.848722,-73.423257,43.848722],
-  "geometry": {"coordinates":[-73.423257,43.848722],"type":"Point"}
+  "bbox": [
+    -73.423257,
+    43.848722,
+    -73.423257,
+    43.848722
+],
+  "geometry": {"coordinates":[-73.42325700000001,43.848722],"type":"Point"}
 }

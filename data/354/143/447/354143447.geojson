@@ -2,13 +2,14 @@
   "id": 354143447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.080809,41.109033,-74.080809,41.109033",
     "geom:latitude":41.109033,
     "geom:longitude":-74.080809,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"166 State Hwy 59",
     "sg:city":"Monsey",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85893019,
+        102191575,
+        404523097,
         85633793,
+        85978531,
+        102082385,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"0da73c3988dfc5c3f81adf27f24771ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082385,
+            "localadmin_id":404523097,
+            "locality_id":85978531,
+            "neighbourhood_id":85893019,
             "region_id":85688543,
             "venue_id":354143447
         }
     ],
     "wof:id":354143447,
-    "wof:lastmodified":1449067360,
+    "wof:lastmodified":1454131212,
     "wof:name":"Funding Source Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893019,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-74.080809,41.109033,-74.080809,41.109033],
+  "bbox": [
+    -74.080809,
+    41.109033,
+    -74.080809,
+    41.109033
+],
   "geometry": {"coordinates":[-74.080809,41.109033],"type":"Point"}
 }

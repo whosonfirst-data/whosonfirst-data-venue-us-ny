@@ -2,13 +2,14 @@
   "id": 303142333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.009026,40.711483,-74.009026,40.711483",
     "geom:latitude":40.711483,
     "geom:longitude":-74.009026,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 Vesey St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865711,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865711
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"b9cafe4d43cd013e7250a335907c4091",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865711,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303142333,
-    "wof:lastmodified":1449000076,
+    "wof:lastmodified":1454123589,
     "wof:name":"Leyden",
     "wof:parent_id":85865711,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "marine"
     ]
 },
-  "bbox": [-74.009026,40.711483,-74.009026,40.711483],
-  "geometry": {"coordinates":[-74.009026,40.711483],"type":"Point"}
+  "bbox": [
+    -74.009026,
+    40.711483,
+    -74.009026,
+    40.711483
+],
+  "geometry": {"coordinates":[-74.00902600000001,40.711483],"type":"Point"}
 }

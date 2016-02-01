@@ -2,13 +2,14 @@
   "id": 354344903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.480202,40.691399,-73.480202,40.691399",
     "geom:latitude":40.691399,
     "geom:longitude":-73.480202,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4100 Jerusalem Ave",
     "sg:city":"Massapequa",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85806127,
+        102191575,
+        404521475,
         85633793,
         85979069,
         102082371,
-        85806127
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"eba093944248b885a4dcff990d709869",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979069,
             "neighbourhood_id":85806127,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":354344903,
-    "wof:lastmodified":1449066026,
+    "wof:lastmodified":1454130799,
     "wof:name":"Massapequa Tabernacle",
     "wof:parent_id":85806127,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "denomination"
     ]
 },
-  "bbox": [-73.480202,40.691399,-73.480202,40.691399],
-  "geometry": {"coordinates":[-73.480202,40.691399],"type":"Point"}
+  "bbox": [
+    -73.480202,
+    40.691399,
+    -73.480202,
+    40.691399
+],
+  "geometry": {"coordinates":[-73.48020200000001,40.691399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387335955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.445012,40.678027,-73.445012,40.678027",
     "geom:latitude":40.678027,
     "geom:longitude":-73.445012,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5080 Sunrise Hwy",
     "sg:city":"Massapequa Park",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836353,
+        102191575,
+        404521475,
         85633793,
         85979153,
         102082371,
-        85836353
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"88d95faf46f3db6175e8889ae2a05036",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979153,
             "neighbourhood_id":85836353,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387335955,
-    "wof:lastmodified":1449058619,
+    "wof:lastmodified":1454129983,
     "wof:name":"Best Western",
     "wof:parent_id":85836353,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.445012,40.678027,-73.445012,40.678027],
-  "geometry": {"coordinates":[-73.445012,40.678027],"type":"Point"}
+  "bbox": [
+    -73.445012,
+    40.678027,
+    -73.445012,
+    40.678027
+],
+  "geometry": {"coordinates":[-73.44501200000001,40.678027],"type":"Point"}
 }

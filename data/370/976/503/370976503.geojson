@@ -2,13 +2,14 @@
   "id": 370976503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.507888,41.476825,-74.507888,41.476825",
     "geom:latitude":41.476825,
     "geom:longitude":-74.507888,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"289 Shoddy Hollow Rd",
     "sg:city":"Otisville",
     "sg:classifiers":[
@@ -32,8 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85841643,
+        102083061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,17 @@
     "wof:geomhash":"3929beb3a81cf8252313c83d3dd5efe8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083061,
+            "neighbourhood_id":85841643,
             "region_id":85688543,
             "venue_id":370976503
         }
     ],
     "wof:id":370976503,
-    "wof:lastmodified":1449030488,
+    "wof:lastmodified":1454127726,
     "wof:name":"Sweetman's Dairy Farm",
-    "wof:parent_id":-1,
+    "wof:parent_id":85841643,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +64,11 @@
         "material"
     ]
 },
-  "bbox": [-74.507888,41.476825,-74.507888,41.476825],
-  "geometry": {"coordinates":[-74.507888,41.476825],"type":"Point"}
+  "bbox": [
+    -74.507888,
+    41.476825,
+    -74.507888,
+    41.476825
+],
+  "geometry": {"coordinates":[-74.50788799999999,41.476825],"type":"Point"}
 }

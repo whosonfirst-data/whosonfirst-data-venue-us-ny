@@ -2,13 +2,14 @@
   "id": 303844373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.18953,40.789428,-73.18953,40.789428",
     "geom:latitude":40.789428,
     "geom:longitude":-73.18953,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8 E Beech St",
     "sg:city":"Central Islip",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
-        85979813,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"93b975049750850751aa47eee70368eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979813,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":303844373
         }
     ],
     "wof:id":303844373,
-    "wof:lastmodified":1448999161,
+    "wof:lastmodified":1454123336,
     "wof:name":"Jeepers Transportation",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.18953,40.789428,-73.18953,40.789428],
+  "bbox": [
+    -73.18953,
+    40.789428,
+    -73.18953,
+    40.789428
+],
   "geometry": {"coordinates":[-73.18953,40.789428],"type":"Point"}
 }

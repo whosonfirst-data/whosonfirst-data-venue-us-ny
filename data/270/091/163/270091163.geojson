@@ -2,13 +2,14 @@
   "id": 270091163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.711231,41.391488,-73.711231,41.391488",
     "geom:latitude":41.391488,
     "geom:longitude":-73.711231,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"94 Lake Dr",
     "sg:city":"Mahopac",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529685,
+        102191575,
+        404523047,
         85633793,
+        85979559,
+        102083007,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"a2505c3599823299d906df19e2e02589",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083007,
+            "localadmin_id":404523047,
+            "locality_id":85979559,
+            "neighbourhood_id":420529685,
             "region_id":85688543,
             "venue_id":270091163
         }
     ],
     "wof:id":270091163,
-    "wof:lastmodified":1449008892,
+    "wof:lastmodified":1454124403,
     "wof:name":"Gene Faber Communications",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529685,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [-73.711231,41.391488,-73.711231,41.391488],
+  "bbox": [
+    -73.711231,
+    41.391488,
+    -73.711231,
+    41.391488
+],
   "geometry": {"coordinates":[-73.711231,41.391488],"type":"Point"}
 }

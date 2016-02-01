@@ -2,13 +2,14 @@
   "id": 387640595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.689366,40.824572,-73.689366,40.824572",
     "geom:latitude":40.824572,
     "geom:longitude":-73.689366,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"60 Litchfield Rd",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529165,
+        102191575,
+        404522729,
         85633793,
         85979185,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"79c4af95b6ad57aec35a24907944ec54",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979185,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529165,
             "region_id":85688543,
             "venue_id":387640595
         }
     ],
     "wof:id":387640595,
-    "wof:lastmodified":1449057761,
+    "wof:lastmodified":1454129822,
     "wof:name":"Alex's Mobile Dry Cleaning",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529165,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -71,6 +76,11 @@
         "trucking"
     ]
 },
-  "bbox": [-73.689366,40.824572,-73.689366,40.824572],
-  "geometry": {"coordinates":[-73.689366,40.824572],"type":"Point"}
+  "bbox": [
+    -73.689366,
+    40.824572,
+    -73.689366,
+    40.824572
+],
+  "geometry": {"coordinates":[-73.68936600000001,40.824572],"type":"Point"}
 }

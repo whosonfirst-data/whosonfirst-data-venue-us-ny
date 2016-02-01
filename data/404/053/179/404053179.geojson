@@ -2,13 +2,14 @@
   "id": 404053179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.902295,40.616483,-73.902295,40.616483",
     "geom:latitude":40.616483,
     "geom:longitude":-73.902295,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2368 E 72nd St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865597,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865597
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"cffdf7269922291ef91f1a4e7889989d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865597,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":404053179,
-    "wof:lastmodified":1449039282,
+    "wof:lastmodified":1454128853,
     "wof:name":"Sightseeing Tapes Inc",
     "wof:parent_id":85865597,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "tape"
     ]
 },
-  "bbox": [-73.902295,40.616483,-73.902295,40.616483],
+  "bbox": [
+    -73.902295,
+    40.616483,
+    -73.902295,
+    40.616483
+],
   "geometry": {"coordinates":[-73.902295,40.616483],"type":"Point"}
 }

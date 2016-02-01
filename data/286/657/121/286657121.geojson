@@ -2,13 +2,14 @@
   "id": 286657121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.640093,40.865612,-73.640093,40.865612",
     "geom:latitude":40.865612,
     "geom:longitude":-73.640093,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"33 Ellwood St",
     "sg:city":"Glen Cove",
     "sg:classifiers":[
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85977671,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +53,20 @@
     "wof:geomhash":"6d0f3f17473801744eb4d4d674880f8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977671,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":286657121
         }
     ],
     "wof:id":286657121,
-    "wof:lastmodified":1449015505,
+    "wof:lastmodified":1454125458,
     "wof:name":"Hans Management Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -73,6 +78,11 @@
         "real"
     ]
 },
-  "bbox": [-73.640093,40.865612,-73.640093,40.865612],
-  "geometry": {"coordinates":[-73.640093,40.865612],"type":"Point"}
+  "bbox": [
+    -73.640093,
+    40.865612,
+    -73.640093,
+    40.865612
+],
+  "geometry": {"coordinates":[-73.64009299999999,40.865612],"type":"Point"}
 }

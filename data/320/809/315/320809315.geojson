@@ -2,13 +2,14 @@
   "id": 320809315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.626719,40.823572,-73.626719,40.823572",
     "geom:latitude":40.823572,
     "geom:longitude":-73.626719,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1005 Glen Cove Ave",
     "sg:city":"Glen Head",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.reichenbach-assoc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85979149,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"2af0ba2de10d7c196accfaf92a716412",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979149,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":320809315
         }
     ],
     "wof:id":320809315,
-    "wof:lastmodified":1449014301,
+    "wof:lastmodified":1454125255,
     "wof:name":"Reichenbach & Assoc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "broker"
     ]
 },
-  "bbox": [-73.626719,40.823572,-73.626719,40.823572],
-  "geometry": {"coordinates":[-73.626719,40.823572],"type":"Point"}
+  "bbox": [
+    -73.626719,
+    40.823572,
+    -73.626719,
+    40.823572
+],
+  "geometry": {"coordinates":[-73.62671899999999,40.823572],"type":"Point"}
 }

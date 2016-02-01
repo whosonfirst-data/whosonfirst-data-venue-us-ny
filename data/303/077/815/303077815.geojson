@@ -2,13 +2,14 @@
   "id": 303077815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.038586,42.102734,-76.038586,42.102734",
     "geom:latitude":42.102734,
     "geom:longitude":-76.038586,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2102 E Main St",
     "sg:city":"Endicott",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528067,
+        102191575,
+        404521829,
         85633793,
-        85979375,
-        102081755
+        85977985,
+        102081755,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"0d5ef377e4ea8db016f9e3b492ff6215",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
-            "locality_id":85979375,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521829,
+            "locality_id":85977985,
+            "neighbourhood_id":420528067,
             "region_id":85688543,
             "venue_id":303077815
         }
     ],
     "wof:id":303077815,
-    "wof:lastmodified":1448998508,
+    "wof:lastmodified":1454123123,
     "wof:name":"Solar Health",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528067,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "health"
     ]
 },
-  "bbox": [-76.038586,42.102734,-76.038586,42.102734],
+  "bbox": [
+    -76.038586,
+    42.102734,
+    -76.038586,
+    42.102734
+],
   "geometry": {"coordinates":[-76.038586,42.102734],"type":"Point"}
 }

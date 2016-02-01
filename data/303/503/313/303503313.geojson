@@ -2,13 +2,14 @@
   "id": 303503313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.807853,40.989852,-73.807853,40.989852",
     "geom:latitude":40.989852,
     "geom:longitude":-73.807853,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Spencer Pl",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.scarsdalephotos.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893013,
+        102191575,
+        404523391,
         85633793,
         85978767,
         102082373,
-        85893013
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"93decd52e716fde653ca9985871f9faf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523391,
             "locality_id":85978767,
             "neighbourhood_id":85893013,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":303503313,
-    "wof:lastmodified":1449000573,
+    "wof:lastmodified":1454123725,
     "wof:name":"Photo Center Inc",
     "wof:parent_id":85893013,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "developing"
     ]
 },
-  "bbox": [-73.807853,40.989852,-73.807853,40.989852],
-  "geometry": {"coordinates":[-73.807853,40.989852],"type":"Point"}
+  "bbox": [
+    -73.807853,
+    40.989852,
+    -73.807853,
+    40.989852
+],
+  "geometry": {"coordinates":[-73.80785299999999,40.989852],"type":"Point"}
 }

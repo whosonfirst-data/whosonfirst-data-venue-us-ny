@@ -2,13 +2,14 @@
   "id": 387075425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.623539,40.914473,-72.623539,40.914473",
     "geom:latitude":40.914473,
     "geom:longitude":-72.623539,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"90 Point Rd",
     "sg:city":"Riverhead",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841881,
+        102191575,
+        404522671,
         85633793,
-        85979841,
+        85979909,
         102082395,
-        85841881
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"bcc4769ea793a772aa1eff0c2ac0c933",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979841,
+            "localadmin_id":404522671,
+            "locality_id":85979909,
             "neighbourhood_id":85841881,
             "region_id":85688543,
             "venue_id":387075425
         }
     ],
     "wof:id":387075425,
-    "wof:lastmodified":1449058172,
+    "wof:lastmodified":1454129899,
     "wof:name":"Holland Construction",
     "wof:parent_id":85841881,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-72.623539,40.914473,-72.623539,40.914473],
-  "geometry": {"coordinates":[-72.623539,40.914473],"type":"Point"}
+  "bbox": [
+    -72.623539,
+    40.914473,
+    -72.623539,
+    40.914473
+],
+  "geometry": {"coordinates":[-72.62353899999999,40.914473],"type":"Point"}
 }

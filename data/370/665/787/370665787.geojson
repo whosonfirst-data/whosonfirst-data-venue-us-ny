@@ -2,13 +2,14 @@
   "id": 370665787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.725739,42.909257,-78.725739,42.909257",
     "geom:latitude":42.909257,
     "geom:longitude":-78.725739,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2918 Walden Ave",
     "sg:city":"Depew",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805529,
+        102191575,
+        404522333,
         85633793,
         85979431,
         102082387,
-        85805529
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"cf48c6c8e2bb2eb883fb67c3bc1e5322",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522333,
             "locality_id":85979431,
             "neighbourhood_id":85805529,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":370665787,
-    "wof:lastmodified":1449030132,
+    "wof:lastmodified":1454127622,
     "wof:name":"Dal-Tile",
     "wof:parent_id":85805529,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "dealer"
     ]
 },
-  "bbox": [-78.725739,42.909257,-78.725739,42.909257],
+  "bbox": [
+    -78.725739,
+    42.909257,
+    -78.725739,
+    42.909257
+],
   "geometry": {"coordinates":[-78.725739,42.909257],"type":"Point"}
 }

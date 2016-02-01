@@ -2,13 +2,14 @@
   "id": 303748449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.833387,40.813884,-72.833387,40.813884",
     "geom:latitude":40.813884,
     "geom:longitude":-72.833387,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"189 Barnes Rd",
     "sg:city":"Moriches",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892903,
+        102191575,
+        404521441,
         85633793,
+        85978437,
         102082395,
-        85892903
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"e6d6dc91be1519275498812fb9b7b700",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85978437,
             "neighbourhood_id":85892903,
             "region_id":85688543,
             "venue_id":303748449
         }
     ],
     "wof:id":303748449,
-    "wof:lastmodified":1448999955,
+    "wof:lastmodified":1454123556,
     "wof:name":"Moriches Squab Farm",
     "wof:parent_id":85892903,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-72.833387,40.813884,-72.833387,40.813884],
+  "bbox": [
+    -72.833387,
+    40.813884,
+    -72.833387,
+    40.813884
+],
   "geometry": {"coordinates":[-72.833387,40.813884],"type":"Point"}
 }

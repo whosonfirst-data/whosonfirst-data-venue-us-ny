@@ -2,13 +2,14 @@
   "id": 253442029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.849404,41.064247,-73.849404,41.064247",
     "geom:latitude":41.064247,
     "geom:longitude":-73.849404,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"177 White Plains Rd",
     "sg:city":"Tarrytown",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530451,
+        102191575,
+        404523359,
         85633793,
         85978765,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"eb4911aa39172f6c2281d3bae6f7c3ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523359,
             "locality_id":85978765,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530451,
             "region_id":85688543,
             "venue_id":253442029
         }
     ],
     "wof:id":253442029,
-    "wof:lastmodified":1449064120,
+    "wof:lastmodified":1454130464,
     "wof:name":"Richard Hochenberg DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530451,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.849404,41.064247,-73.849404,41.064247],
-  "geometry": {"coordinates":[-73.849404,41.064247],"type":"Point"}
+  "bbox": [
+    -73.849404,
+    41.064247,
+    -73.849404,
+    41.064247
+],
+  "geometry": {"coordinates":[-73.84940400000001,41.064247],"type":"Point"}
 }

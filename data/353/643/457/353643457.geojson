@@ -2,13 +2,14 @@
   "id": 353643457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.819298,40.676102,-73.819298,40.676102",
     "geom:latitude":40.676102,
     "geom:longitude":-73.819298,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11552 Lefferts Blvd",
     "sg:city":"South Ozone Park",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865467,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865467
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"a34022c6b9ab62a4ec3b6ca21733dce2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865467,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":353643457,
-    "wof:lastmodified":1449020468,
+    "wof:lastmodified":1454126590,
     "wof:name":"Personalized Nails",
     "wof:parent_id":85865467,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.819298,40.676102,-73.819298,40.676102],
+  "bbox": [
+    -73.819298,
+    40.676102,
+    -73.819298,
+    40.676102
+],
   "geometry": {"coordinates":[-73.819298,40.676102],"type":"Point"}
 }

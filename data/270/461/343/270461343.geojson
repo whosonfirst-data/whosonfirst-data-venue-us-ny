@@ -2,13 +2,14 @@
   "id": 270461343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.933233,40.84491,-73.933233,40.84491",
     "geom:latitude":40.84491,
     "geom:longitude":-73.933233,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2316 Amsterdam Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85854625,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85854625
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"a514d343c4052fd922d3ccf60e662965",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85854625,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":270461343,
-    "wof:lastmodified":1449009562,
+    "wof:lastmodified":1454124503,
     "wof:name":"Marco Juan Restaurant Corp",
     "wof:parent_id":85854625,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.933233,40.84491,-73.933233,40.84491],
+  "bbox": [
+    -73.933233,
+    40.84491,
+    -73.933233,
+    40.84491
+],
   "geometry": {"coordinates":[-73.933233,40.84491],"type":"Point"}
 }

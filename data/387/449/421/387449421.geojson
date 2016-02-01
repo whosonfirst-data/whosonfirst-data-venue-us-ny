@@ -2,13 +2,14 @@
   "id": 387449421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.285193,43.120239,-76.285193,43.120239",
     "geom:latitude":43.120239,
     "geom:longitude":-76.285193,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7250 State Fair Blvd",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865351,
+        102191575,
+        404522855,
         85633793,
         85979203,
         102082351,
-        85865351
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"5ac9d5c008c94f00ea4e84835c0cb385",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522855,
             "locality_id":85979203,
             "neighbourhood_id":85865351,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387449421,
-    "wof:lastmodified":1449059643,
+    "wof:lastmodified":1454130161,
     "wof:name":"Sardos Pizzeria",
     "wof:parent_id":85865351,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-76.285193,43.120239,-76.285193,43.120239],
-  "geometry": {"coordinates":[-76.285193,43.120239],"type":"Point"}
+  "bbox": [
+    -76.285193,
+    43.120239,
+    -76.285193,
+    43.120239
+],
+  "geometry": {"coordinates":[-76.28519300000001,43.120239],"type":"Point"}
 }

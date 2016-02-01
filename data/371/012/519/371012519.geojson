@@ -2,13 +2,14 @@
   "id": 371012519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.042803,43.238152,-79.042803,43.238152",
     "geom:latitude":43.238152,
     "geom:longitude":-79.042803,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"417 Riverview Dr",
     "sg:city":"Youngstown",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820171,
+        102191575,
+        404522749,
         85633793,
+        85978265,
         102081767,
-        85820171
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"7ec76e0ecebefd464b1f2c4236c95c06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
-            "locality_id":-1,
+            "localadmin_id":404522749,
+            "locality_id":85978265,
             "neighbourhood_id":85820171,
             "region_id":85688543,
             "venue_id":371012519
         }
     ],
     "wof:id":371012519,
-    "wof:lastmodified":1449050034,
+    "wof:lastmodified":1454129270,
     "wof:name":"Voyage By Design",
     "wof:parent_id":85820171,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "producer"
     ]
 },
-  "bbox": [-79.042803,43.238152,-79.042803,43.238152],
-  "geometry": {"coordinates":[-79.042803,43.238152],"type":"Point"}
+  "bbox": [
+    -79.042803,
+    43.238152,
+    -79.042803,
+    43.238152
+],
+  "geometry": {"coordinates":[-79.04280300000001,43.238152],"type":"Point"}
 }

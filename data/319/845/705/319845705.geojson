@@ -2,13 +2,14 @@
   "id": 319845705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.966635,40.696996,-73.966635,40.696996",
     "geom:latitude":40.696996,
     "geom:longitude":-73.966635,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"38 Hall St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865615,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865615
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"6bed0e68ec8d4870f951262194fa0e57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865615,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":319845705,
-    "wof:lastmodified":1449024222,
+    "wof:lastmodified":1454126736,
     "wof:name":"Pal Transport",
     "wof:parent_id":85865615,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-73.966635,40.696996,-73.966635,40.696996],
+  "bbox": [
+    -73.966635,
+    40.696996,
+    -73.966635,
+    40.696996
+],
   "geometry": {"coordinates":[-73.966635,40.696996],"type":"Point"}
 }

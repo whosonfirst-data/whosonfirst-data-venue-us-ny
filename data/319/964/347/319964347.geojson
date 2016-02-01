@@ -2,13 +2,14 @@
   "id": 319964347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.807521,43.057901,-73.807521,43.057901",
     "geom:latitude":43.057901,
     "geom:longitude":-73.807521,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 Geyser Rd",
     "sg:city":"Saratoga Springs",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"www.saratogaspringwater.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817281,
+        102191575,
+        404522373,
         85633793,
         85977919,
         102082413,
-        85817281
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"e32f1b5ab377b4a7b3c2f8ae3f4e4378",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082413,
+            "localadmin_id":404522373,
             "locality_id":85977919,
             "neighbourhood_id":85817281,
             "region_id":85688543,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":319964347,
-    "wof:lastmodified":1449024685,
+    "wof:lastmodified":1454126816,
     "wof:name":"Saratoga Spring Water Company",
     "wof:parent_id":85817281,
     "wof:placetype":"venue",
@@ -81,6 +85,11 @@
         "spring"
     ]
 },
-  "bbox": [-73.807521,43.057901,-73.807521,43.057901],
-  "geometry": {"coordinates":[-73.807521,43.057901],"type":"Point"}
+  "bbox": [
+    -73.807521,
+    43.057901,
+    -73.807521,
+    43.057901
+],
+  "geometry": {"coordinates":[-73.80752099999999,43.057901],"type":"Point"}
 }

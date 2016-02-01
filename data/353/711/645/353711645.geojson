@@ -2,13 +2,14 @@
   "id": 353711645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.784526,40.64862,-73.784526,40.64862",
     "geom:latitude":40.64862,
     "geom:longitude":-73.784526,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"JFK International Airport Terminal 2",
     "sg:city":"Jamaica",
     "sg:classifiers":[
@@ -23,12 +24,15 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865647,
-        85823673
+        102082361,
+        85688543,
+        85865647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,33 +42,42 @@
     "wof:geomhash":"30f03e0a22737d7a190db9c281078eca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85865647,
+            "neighbourhood_id":85823673,
             "region_id":85688543,
             "venue_id":353711645
         },
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85823673,
+            "neighbourhood_id":85865647,
             "region_id":85688543,
             "venue_id":353711645
         }
     ],
     "wof:id":353711645,
-    "wof:lastmodified":1449020355,
+    "wof:lastmodified":1454126557,
     "wof:name":"Todd English's Bonfire",
-    "wof:parent_id":-1,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.784526,40.64862,-73.784526,40.64862],
+  "bbox": [
+    -73.784526,
+    40.64862,
+    -73.784526,
+    40.64862
+],
   "geometry": {"coordinates":[-73.784526,40.64862],"type":"Point"}
 }

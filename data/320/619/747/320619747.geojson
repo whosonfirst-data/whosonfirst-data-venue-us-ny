@@ -2,13 +2,14 @@
   "id": 320619747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.421264,40.873362,-73.421264,40.873362",
     "geom:latitude":40.873362,
     "geom:longitude":-73.421264,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Main St",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820109,
+        102191575,
+        404522515,
         85633793,
-        85979675,
+        85979787,
         102082395,
-        85820109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"2440fb243708d25910785e99df0894b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979675,
+            "localadmin_id":404522515,
+            "locality_id":85979787,
             "neighbourhood_id":85820109,
             "region_id":85688543,
             "venue_id":320619747
         }
     ],
     "wof:id":320619747,
-    "wof:lastmodified":1449011925,
+    "wof:lastmodified":1454124871,
     "wof:name":"Huntington Town General Info",
     "wof:parent_id":85820109,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "village"
     ]
 },
-  "bbox": [-73.421264,40.873362,-73.421264,40.873362],
-  "geometry": {"coordinates":[-73.421264,40.873362],"type":"Point"}
+  "bbox": [
+    -73.421264,
+    40.873362,
+    -73.421264,
+    40.873362
+],
+  "geometry": {"coordinates":[-73.42126399999999,40.873362],"type":"Point"}
 }

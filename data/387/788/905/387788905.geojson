@@ -2,13 +2,14 @@
   "id": 387788905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.181227,41.320786,-74.181227,41.320786",
     "geom:latitude":41.320786,
     "geom:longitude":-74.181227,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"562 State Hwy 17M",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832781,
+        102191575,
+        404522907,
         85633793,
+        85979523,
         102083061,
-        85832781
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"fdfe832dc82a15f408508f68d9b26586",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":-1,
+            "localadmin_id":404522907,
+            "locality_id":85979523,
             "neighbourhood_id":85832781,
             "region_id":85688543,
             "venue_id":387788905
         }
     ],
     "wof:id":387788905,
-    "wof:lastmodified":1449058069,
+    "wof:lastmodified":1454129878,
     "wof:name":"Cunningham & Cunningham Lvstk",
     "wof:parent_id":85832781,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "livestock"
     ]
 },
-  "bbox": [-74.181227,41.320786,-74.181227,41.320786],
-  "geometry": {"coordinates":[-74.181227,41.320786],"type":"Point"}
+  "bbox": [
+    -74.181227,
+    41.320786,
+    -74.181227,
+    41.320786
+],
+  "geometry": {"coordinates":[-74.18122700000001,41.320786],"type":"Point"}
 }

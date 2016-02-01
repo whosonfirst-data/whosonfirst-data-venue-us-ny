@@ -2,13 +2,14 @@
   "id": 354051409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.083849,40.777553,-73.083849,40.777553",
     "geom:latitude":40.777553,
     "geom:longitude":-73.083849,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"926 Lincoln Ave",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"38abd641ecc83380dfedf1924caddb86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":354051409
         }
     ],
     "wof:id":354051409,
-    "wof:lastmodified":1449066996,
+    "wof:lastmodified":1454131096,
     "wof:name":"United Irrigation Supply",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-73.083849,40.777553,-73.083849,40.777553],
+  "bbox": [
+    -73.083849,
+    40.777553,
+    -73.083849,
+    40.777553
+],
   "geometry": {"coordinates":[-73.083849,40.777553],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370215339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.140547,40.905037,-73.140547,40.905037",
     "geom:latitude":40.905037,
     "geom:longitude":-73.140547,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1239 Rt 25A Ste 8B",
     "sg:city":"Stony Brook",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.nydm.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824457,
+        102191575,
+        404521441,
         85633793,
-        85978487,
+        85979927,
         102082395,
-        85824457
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"31959f1d76fff763e59f9bd516d1d6c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978487,
+            "localadmin_id":404521441,
+            "locality_id":85979927,
             "neighbourhood_id":85824457,
             "region_id":85688543,
             "venue_id":370215339
         }
     ],
     "wof:id":370215339,
-    "wof:lastmodified":1449031885,
+    "wof:lastmodified":1454128139,
     "wof:name":"New York Divorce Mediation",
     "wof:parent_id":85824457,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "family"
     ]
 },
-  "bbox": [-73.140547,40.905037,-73.140547,40.905037],
+  "bbox": [
+    -73.140547,
+    40.905037,
+    -73.140547,
+    40.905037
+],
   "geometry": {"coordinates":[-73.140547,40.905037],"type":"Point"}
 }

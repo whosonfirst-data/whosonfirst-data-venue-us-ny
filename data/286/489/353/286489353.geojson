@@ -2,13 +2,14 @@
   "id": 286489353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.954816,40.945876,-72.954816,40.945876",
     "geom:latitude":40.945876,
     "geom:longitude":-72.954816,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Suffolk Dr",
     "sg:city":"Rocky Point",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979947,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"decdb8a0a838e1f2b5ece2db53c1150b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979947,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":286489353
         }
     ],
     "wof:id":286489353,
-    "wof:lastmodified":1449016791,
+    "wof:lastmodified":1454125682,
     "wof:name":"Norwood Home Improvement",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "repair"
     ]
 },
-  "bbox": [-72.954816,40.945876,-72.954816,40.945876],
-  "geometry": {"coordinates":[-72.954816,40.945876],"type":"Point"}
+  "bbox": [
+    -72.954816,
+    40.945876,
+    -72.954816,
+    40.945876
+],
+  "geometry": {"coordinates":[-72.95481599999999,40.945876],"type":"Point"}
 }

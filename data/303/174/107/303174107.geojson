@@ -2,13 +2,14 @@
   "id": 303174107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.846655,40.888391,-73.846655,40.888391",
     "geom:latitude":40.888391,
     "geom:longitude":-73.846655,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4125 Laconia Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865657,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"e13207acb6e11c5617ccba12f39807e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85865657,
             "region_id":85688543,
             "venue_id":303174107
         }
     ],
     "wof:id":303174107,
-    "wof:lastmodified":1448998450,
+    "wof:lastmodified":1454123101,
     "wof:name":"4125 Laundromat Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865657,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "coin"
     ]
 },
-  "bbox": [-73.846655,40.888391,-73.846655,40.888391],
+  "bbox": [
+    -73.846655,
+    40.888391,
+    -73.846655,
+    40.888391
+],
   "geometry": {"coordinates":[-73.846655,40.888391],"type":"Point"}
 }

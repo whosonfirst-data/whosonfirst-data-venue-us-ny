@@ -2,13 +2,14 @@
   "id": 370179249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.208,40.833698,-73.208,40.833698",
     "geom:latitude":40.833698,
     "geom:longitude":-73.208,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2000 Raynors Way",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -38,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +55,20 @@
     "wof:geomhash":"50d94659bfab4af68cf8fff1f83f54de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":370179249
         }
     ],
     "wof:id":370179249,
-    "wof:lastmodified":1449032129,
+    "wof:lastmodified":1454128208,
     "wof:name":"Stonebridge Golf Links & Country Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,6 +77,11 @@
         "caterer"
     ]
 },
-  "bbox": [-73.208,40.833698,-73.208,40.833698],
+  "bbox": [
+    -73.208,
+    40.833698,
+    -73.208,
+    40.833698
+],
   "geometry": {"coordinates":[-73.208,40.833698],"type":"Point"}
 }

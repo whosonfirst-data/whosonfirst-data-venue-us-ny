@@ -2,13 +2,14 @@
   "id": 354288857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.193566,40.811153,-73.193566,40.811153",
     "geom:latitude":40.811153,
     "geom:longitude":-73.193566,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1355 Motor Pkwy",
     "sg:city":"Islandia",
     "sg:classifiers":[
@@ -47,10 +48,13 @@
     "sg:website":"http://www.rapplaw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
-        85978421,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,19 +64,20 @@
     "wof:geomhash":"559a8ac4a59f2d0f363080a457b9a3df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978421,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":354288857
         }
     ],
     "wof:id":354288857,
-    "wof:lastmodified":1449066115,
+    "wof:lastmodified":1454130826,
     "wof:name":"Rappaport, Glass, Greene & Levine LLP.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -94,6 +99,11 @@
         "law"
     ]
 },
-  "bbox": [-73.193566,40.811153,-73.193566,40.811153],
+  "bbox": [
+    -73.193566,
+    40.811153,
+    -73.193566,
+    40.811153
+],
   "geometry": {"coordinates":[-73.193566,40.811153],"type":"Point"}
 }

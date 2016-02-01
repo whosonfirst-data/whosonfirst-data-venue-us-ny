@@ -2,13 +2,14 @@
   "id": 320612111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.048178,41.109621,-74.048178,41.109621",
     "geom:latitude":41.109621,
     "geom:longitude":-74.048178,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"259 State Hwy 59",
     "sg:city":"Spring Valley",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.pcwbsi.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893019,
+        102191575,
+        404523097,
         85633793,
         85978531,
         102082385,
-        85893019
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"f7f3b043fada982bf2d0b507e3537eca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523097,
             "locality_id":85978531,
             "neighbourhood_id":85893019,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":320612111,
-    "wof:lastmodified":1449012907,
+    "wof:lastmodified":1454125029,
     "wof:name":"P C Ware Business Solutions",
     "wof:parent_id":85893019,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "consultant"
     ]
 },
-  "bbox": [-74.048178,41.109621,-74.048178,41.109621],
-  "geometry": {"coordinates":[-74.048178,41.109621],"type":"Point"}
+  "bbox": [
+    -74.048178,
+    41.109621,
+    -74.048178,
+    41.109621
+],
+  "geometry": {"coordinates":[-74.04817799999999,41.109621],"type":"Point"}
 }

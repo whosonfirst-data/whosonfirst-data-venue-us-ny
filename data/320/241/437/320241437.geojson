@@ -2,13 +2,14 @@
   "id": 320241437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.17608,42.649874,-76.17608,42.649874",
     "geom:latitude":42.649874,
     "geom:longitude":-76.17608,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5035 US Hwy 11",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528395,
+        102191575,
+        404522255,
         85633793,
+        85978519,
+        102083011,
         85688543
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"5439f705b0734c0206b3a58230135603",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083011,
+            "localadmin_id":404522255,
+            "locality_id":85978519,
+            "neighbourhood_id":420528395,
             "region_id":85688543,
             "venue_id":320241437
         }
     ],
     "wof:id":320241437,
-    "wof:lastmodified":1449014867,
+    "wof:lastmodified":1454125348,
     "wof:name":"Crandalls Truck Equipment",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528395,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.17608,42.649874,-76.17608,42.649874],
+  "bbox": [
+    -76.17608,
+    42.649874,
+    -76.17608,
+    42.649874
+],
   "geometry": {"coordinates":[-76.17608,42.649874],"type":"Point"}
 }

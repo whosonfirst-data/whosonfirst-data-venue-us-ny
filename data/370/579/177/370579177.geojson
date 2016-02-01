@@ -2,13 +2,14 @@
   "id": 370579177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.725982,41.665287,-73.725982,41.665287",
     "geom:latitude":41.665287,
     "geom:longitude":-73.725982,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"126 Wisseman Rd",
     "sg:city":"Lagrangeville",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85811473,
+        102082363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,17 @@
     "wof:geomhash":"718f3eb2ba8f0cf1001de668cc329538",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "neighbourhood_id":85811473,
             "region_id":85688543,
             "venue_id":370579177
         }
     ],
     "wof:id":370579177,
-    "wof:lastmodified":1449030176,
+    "wof:lastmodified":1454127635,
     "wof:name":"Tri County Auto Glass Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85811473,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +63,11 @@
         "plate"
     ]
 },
-  "bbox": [-73.725982,41.665287,-73.725982,41.665287],
+  "bbox": [
+    -73.725982,
+    41.665287,
+    -73.725982,
+    41.665287
+],
   "geometry": {"coordinates":[-73.725982,41.665287],"type":"Point"}
 }

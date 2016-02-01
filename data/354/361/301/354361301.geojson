@@ -2,13 +2,14 @@
   "id": 354361301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.143082,40.84341,-73.143082,40.84341",
     "geom:latitude":40.84341,
     "geom:longitude":-73.143082,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 Canterbury Ln",
     "sg:city":"Nesconset",
     "sg:classifiers":[
@@ -41,11 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816389,
+        102191575,
+        404522517,
         85633793,
-        85979773,
+        85979693,
         102082395,
-        85816389
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +58,18 @@
     "wof:geomhash":"6354acd3753f4ab651f4c6629a72d25a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
             "neighbourhood_id":85816389,
             "region_id":85688543,
             "venue_id":354361301
         }
     ],
     "wof:id":354361301,
-    "wof:lastmodified":1449067197,
+    "wof:lastmodified":1454131160,
     "wof:name":"Huntington Typewriters Inc",
     "wof:parent_id":85816389,
     "wof:placetype":"venue",
@@ -79,6 +83,11 @@
         "typewriters-repairing"
     ]
 },
-  "bbox": [-73.143082,40.84341,-73.143082,40.84341],
-  "geometry": {"coordinates":[-73.143082,40.84341],"type":"Point"}
+  "bbox": [
+    -73.143082,
+    40.84341,
+    -73.143082,
+    40.84341
+],
+  "geometry": {"coordinates":[-73.14308200000001,40.84341],"type":"Point"}
 }

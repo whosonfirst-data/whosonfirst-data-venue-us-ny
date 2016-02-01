@@ -2,13 +2,14 @@
   "id": 337415387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.807742,40.760488,-73.807742,40.760488",
     "geom:latitude":40.760488,
     "geom:longitude":-73.807742,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4224 158th St",
     "sg:city":"Flushing",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.ietstraining.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819703,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819703
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"29cbbf3079eae036d0bff3c8d880840d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819703,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":337415387,
-    "wof:lastmodified":1449027537,
+    "wof:lastmodified":1454127103,
     "wof:name":"Iets",
     "wof:parent_id":85819703,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "educational"
     ]
 },
-  "bbox": [-73.807742,40.760488,-73.807742,40.760488],
+  "bbox": [
+    -73.807742,
+    40.760488,
+    -73.807742,
+    40.760488
+],
   "geometry": {"coordinates":[-73.807742,40.760488],"type":"Point"}
 }

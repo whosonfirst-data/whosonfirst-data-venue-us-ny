@@ -2,13 +2,14 @@
   "id": 354326253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.913785,40.885448,-73.913785,40.885448",
     "geom:latitude":40.885448,
     "geom:longitude":-73.913785,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3333 Henry Hudson Pkwy W",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85850825,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85850825
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"bb0cf84deed48863324041bdd47822da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85850825,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":354326253,
-    "wof:lastmodified":1449066652,
+    "wof:lastmodified":1454130991,
     "wof:name":"Associates For Women's Care",
     "wof:parent_id":85850825,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.913785,40.885448,-73.913785,40.885448],
+  "bbox": [
+    -73.913785,
+    40.885448,
+    -73.913785,
+    40.885448
+],
   "geometry": {"coordinates":[-73.913785,40.885448],"type":"Point"}
 }

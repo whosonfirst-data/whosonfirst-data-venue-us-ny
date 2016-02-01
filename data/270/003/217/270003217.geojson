@@ -2,13 +2,14 @@
   "id": 270003217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.370605,40.783798,-73.370605,40.783798",
     "geom:latitude":40.783798,
     "geom:longitude":-73.370605,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Wilmington Dr",
     "sg:city":"Melville",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85823533,
+        102191575,
+        404522515,
         85633793,
+        85979779,
+        102082395,
         85688543
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"bd908020bdd26f4ed055fd83d2085949",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082395,
+            "localadmin_id":404522515,
+            "locality_id":85979779,
+            "neighbourhood_id":85823533,
             "region_id":85688543,
             "venue_id":270003217
         }
     ],
     "wof:id":270003217,
-    "wof:lastmodified":1449010912,
+    "wof:lastmodified":1454124706,
     "wof:name":"Computerized Image & Data",
-    "wof:parent_id":-1,
+    "wof:parent_id":85823533,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.370605,40.783798,-73.370605,40.783798],
+  "bbox": [
+    -73.370605,
+    40.783798,
+    -73.370605,
+    40.783798
+],
   "geometry": {"coordinates":[-73.370605,40.783798],"type":"Point"}
 }

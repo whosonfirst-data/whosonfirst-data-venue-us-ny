@@ -2,13 +2,14 @@
   "id": 387835329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.452587,40.781867,-73.452587,40.781867",
     "geom:latitude":40.781867,
     "geom:longitude":-73.452587,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"27 Sheer Plz",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"dd1812c9c05b6541aab8cb72a74d8a11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":387835329
         }
     ],
     "wof:id":387835329,
-    "wof:lastmodified":1449056644,
+    "wof:lastmodified":1454129625,
     "wof:name":"Elmhardt Construction",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "carpenter"
     ]
 },
-  "bbox": [-73.452587,40.781867,-73.452587,40.781867],
-  "geometry": {"coordinates":[-73.452587,40.781867],"type":"Point"}
+  "bbox": [
+    -73.452587,
+    40.781867,
+    -73.452587,
+    40.781867
+],
+  "geometry": {"coordinates":[-73.45258699999999,40.781867],"type":"Point"}
 }

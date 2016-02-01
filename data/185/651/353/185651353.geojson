@@ -2,13 +2,14 @@
   "id": 185651353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.976234,40.673313,-73.976234,40.673313",
     "geom:latitude":40.673313,
     "geom:longitude":-73.976234,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"123 Seventh Avenue Ste 137",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.brownstonemgt.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840609,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85840609
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"bad039e37b8313fddf2578b8a1a32d3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85840609,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":185651353,
-    "wof:lastmodified":1449006931,
+    "wof:lastmodified":1454124185,
     "wof:name":"Brownstone Management",
     "wof:parent_id":85840609,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "property"
     ]
 },
-  "bbox": [-73.976234,40.673313,-73.976234,40.673313],
-  "geometry": {"coordinates":[-73.976234,40.673313],"type":"Point"}
+  "bbox": [
+    -73.976234,
+    40.673313,
+    -73.976234,
+    40.673313
+],
+  "geometry": {"coordinates":[-73.97623400000001,40.673313],"type":"Point"}
 }

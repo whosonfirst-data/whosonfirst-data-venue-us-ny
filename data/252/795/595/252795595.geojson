@@ -2,13 +2,14 @@
   "id": 252795595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.008258,40.636657,-74.008258,40.636657",
     "geom:latitude":40.636657,
     "geom:longitude":-74.008258,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5713 8th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"a054c8c51b8c0d8e35db6e8a82b49eeb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":252795595
         }
     ],
     "wof:id":252795595,
-    "wof:lastmodified":1449006071,
+    "wof:lastmodified":1454124071,
     "wof:name":"World Top Communications",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "cellular"
     ]
 },
-  "bbox": [-74.008258,40.636657,-74.008258,40.636657],
+  "bbox": [
+    -74.008258,
+    40.636657,
+    -74.008258,
+    40.636657
+],
   "geometry": {"coordinates":[-74.008258,40.636657],"type":"Point"}
 }

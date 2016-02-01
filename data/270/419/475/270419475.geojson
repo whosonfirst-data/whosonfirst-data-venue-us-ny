@@ -2,13 +2,14 @@
   "id": 270419475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.142614,40.832587,-73.142614,40.832587",
     "geom:latitude":40.832587,
     "geom:longitude":-73.142614,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"271 Smithtown Blvd",
     "sg:city":"Nesconset",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816389,
+        102191575,
+        404522517,
         85633793,
-        85979773,
+        85979693,
         102082395,
-        85816389
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"5acac0b373b390a7967fa74ec50c7316",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
             "neighbourhood_id":85816389,
             "region_id":85688543,
             "venue_id":270419475
         }
     ],
     "wof:id":270419475,
-    "wof:lastmodified":1449011093,
+    "wof:lastmodified":1454124735,
     "wof:name":"Sonnenberg Nursery & Supply",
     "wof:parent_id":85816389,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "wholesale"
     ]
 },
-  "bbox": [-73.142614,40.832587,-73.142614,40.832587],
-  "geometry": {"coordinates":[-73.142614,40.832587],"type":"Point"}
+  "bbox": [
+    -73.142614,
+    40.832587,
+    -73.142614,
+    40.832587
+],
+  "geometry": {"coordinates":[-73.14261399999999,40.832587],"type":"Point"}
 }

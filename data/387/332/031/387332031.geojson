@@ -2,13 +2,14 @@
   "id": 387332031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.979047,40.784931,-73.979047,40.784931",
     "geom:latitude":40.784931,
     "geom:longitude":-73.979047,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2244 Broadway",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853285,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85853285
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"918a45804a28d1f8ba2c0dc0634c47ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853285,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387332031,
-    "wof:lastmodified":1449058228,
+    "wof:lastmodified":1454129909,
     "wof:name":"Gallery II Collections",
     "wof:parent_id":85853285,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "jeweler"
     ]
 },
-  "bbox": [-73.979047,40.784931,-73.979047,40.784931],
-  "geometry": {"coordinates":[-73.979047,40.784931],"type":"Point"}
+  "bbox": [
+    -73.979047,
+    40.784931,
+    -73.979047,
+    40.784931
+],
+  "geometry": {"coordinates":[-73.97904699999999,40.784931],"type":"Point"}
 }

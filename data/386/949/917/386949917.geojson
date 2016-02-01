@@ -2,13 +2,14 @@
   "id": 386949917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.197488,40.806281,-73.197488,40.806281",
     "geom:latitude":40.806281,
     "geom:longitude":-73.197488,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"84 Bridge Rd",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"c2d53fa7e15b38774e1d9774fe292ae0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":386949917
         }
     ],
     "wof:id":386949917,
-    "wof:lastmodified":1449028824,
+    "wof:lastmodified":1454127243,
     "wof:name":"Now Express Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-73.197488,40.806281,-73.197488,40.806281],
-  "geometry": {"coordinates":[-73.197488,40.806281],"type":"Point"}
+  "bbox": [
+    -73.197488,
+    40.806281,
+    -73.197488,
+    40.806281
+],
+  "geometry": {"coordinates":[-73.19748800000001,40.806281],"type":"Point"}
 }

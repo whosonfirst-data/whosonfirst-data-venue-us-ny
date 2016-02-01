@@ -2,13 +2,14 @@
   "id": 386937523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.707309,42.794641,-77.707309,42.794641",
     "geom:latitude":42.794641,
     "geom:longitude":-77.707309,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4617 E Lake Rd",
     "sg:city":"Livonia",
     "sg:classifiers":[
@@ -41,10 +42,13 @@
     "sg:website":"http://www.cooltechny.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528937,
+        102191575,
+        404521223,
         85633793,
         85979593,
-        102082381
+        102082381,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,19 +58,20 @@
     "wof:geomhash":"a886a02a58753c9052b7ccf8a40effca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082381,
+            "localadmin_id":404521223,
             "locality_id":85979593,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528937,
             "region_id":85688543,
             "venue_id":386937523
         }
     ],
     "wof:id":386937523,
-    "wof:lastmodified":1449028677,
+    "wof:lastmodified":1454127206,
     "wof:name":"Cool Tech NY",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528937,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -77,6 +82,11 @@
         "supply"
     ]
 },
-  "bbox": [-77.707309,42.794641,-77.707309,42.794641],
+  "bbox": [
+    -77.707309,
+    42.794641,
+    -77.707309,
+    42.794641
+],
   "geometry": {"coordinates":[-77.707309,42.794641],"type":"Point"}
 }

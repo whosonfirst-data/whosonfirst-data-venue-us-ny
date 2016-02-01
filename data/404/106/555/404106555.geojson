@@ -2,13 +2,14 @@
   "id": 404106555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.127349,41.824702,-74.127349,41.824702",
     "geom:latitude":41.824702,
     "geom:longitude":-74.127349,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"24 Mohonk Rd",
     "sg:city":"High Falls",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85808191,
+        102191575,
+        404523255,
         85633793,
+        85978905,
         102081775,
-        85808191
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"f1c0255fd2240d180e2787dec9ca8d26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
-            "locality_id":-1,
+            "localadmin_id":404523255,
+            "locality_id":85978905,
             "neighbourhood_id":85808191,
             "region_id":85688543,
             "venue_id":404106555
         }
     ],
     "wof:id":404106555,
-    "wof:lastmodified":1449039074,
+    "wof:lastmodified":1454128833,
     "wof:name":"High Falls Electric Inc",
     "wof:parent_id":85808191,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.127349,41.824702,-74.127349,41.824702],
+  "bbox": [
+    -74.127349,
+    41.824702,
+    -74.127349,
+    41.824702
+],
   "geometry": {"coordinates":[-74.127349,41.824702],"type":"Point"}
 }

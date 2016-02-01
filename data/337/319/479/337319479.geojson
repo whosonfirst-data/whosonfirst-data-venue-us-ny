@@ -2,13 +2,14 @@
   "id": 337319479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.62457,40.86105,-73.62457,40.86105",
     "geom:latitude":40.86105,
     "geom:longitude":-73.62457,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Pratt Oval",
     "sg:city":"Glen Cove",
     "sg:classifiers":[
@@ -40,10 +41,13 @@
     "sg:website":"www.proftapeco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85977671,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +57,20 @@
     "wof:geomhash":"1b234e611caad4951ebc30c749cfaab0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977671,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":337319479
         }
     ],
     "wof:id":337319479,
-    "wof:lastmodified":1449027264,
+    "wof:lastmodified":1454126994,
     "wof:name":"Professional Tape Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -80,6 +85,11 @@
         "recording"
     ]
 },
-  "bbox": [-73.62457,40.86105,-73.62457,40.86105],
-  "geometry": {"coordinates":[-73.62457,40.86105],"type":"Point"}
+  "bbox": [
+    -73.62457,
+    40.86105,
+    -73.62457,
+    40.86105
+],
+  "geometry": {"coordinates":[-73.62457000000001,40.86105],"type":"Point"}
 }

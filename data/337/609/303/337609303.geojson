@@ -2,13 +2,14 @@
   "id": 337609303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.860129,40.835534,-73.860129,40.835534",
     "geom:latitude":40.835534,
     "geom:longitude":-73.860129,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1430 Parkchester Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840627,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85840627
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"8fa9ac97372253f7c954e8d72770d0c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85840627,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":337609303,
-    "wof:lastmodified":1449027234,
+    "wof:lastmodified":1454126982,
     "wof:name":"Posternak Bauer Assoc",
     "wof:parent_id":85840627,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.860129,40.835534,-73.860129,40.835534],
+  "bbox": [
+    -73.860129,
+    40.835534,
+    -73.860129,
+    40.835534
+],
   "geometry": {"coordinates":[-73.860129,40.835534],"type":"Point"}
 }

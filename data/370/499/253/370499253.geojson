@@ -2,13 +2,14 @@
   "id": 370499253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.004822,41.9286,-74.004822,41.9286",
     "geom:latitude":41.9286,
     "geom:longitude":-74.004822,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Cedar St",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857693,
+        102191575,
+        404523249,
         85633793,
+        85977505,
         102081775,
-        85857693
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"6ef28332d3d1bca1f0fb79407dfdac96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
-            "locality_id":-1,
+            "localadmin_id":404523249,
+            "locality_id":85977505,
             "neighbourhood_id":85857693,
             "region_id":85688543,
             "venue_id":370499253
         }
     ],
     "wof:id":370499253,
-    "wof:lastmodified":1449029736,
+    "wof:lastmodified":1454127504,
     "wof:name":"Mid City Lanes",
     "wof:parent_id":85857693,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.004822,41.9286,-74.004822,41.9286],
+  "bbox": [
+    -74.004822,
+    41.9286,
+    -74.004822,
+    41.9286
+],
   "geometry": {"coordinates":[-74.004822,41.9286],"type":"Point"}
 }

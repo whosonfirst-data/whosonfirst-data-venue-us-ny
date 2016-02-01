@@ -2,13 +2,14 @@
   "id": 353547831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.578074,40.809856,-73.578074,40.809856",
     "geom:latitude":40.809856,
     "geom:longitude":-73.578074,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"180 Wheatley Rd",
     "sg:city":"Greenvale",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857339,
+        102191575,
+        404521475,
         85633793,
-        85977647,
+        85977655,
         102082371,
-        85857339
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"9d8fc0fb07a78e6fed74629f4974557b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977647,
+            "localadmin_id":404521475,
+            "locality_id":85977655,
             "neighbourhood_id":85857339,
             "region_id":85688543,
             "venue_id":353547831
         }
     ],
     "wof:id":353547831,
-    "wof:lastmodified":1449018522,
+    "wof:lastmodified":1454126027,
     "wof:name":"London Jewelers",
     "wof:parent_id":85857339,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "jeweler"
     ]
 },
-  "bbox": [-73.578074,40.809856,-73.578074,40.809856],
+  "bbox": [
+    -73.578074,
+    40.809856,
+    -73.578074,
+    40.809856
+],
   "geometry": {"coordinates":[-73.578074,40.809856],"type":"Point"}
 }

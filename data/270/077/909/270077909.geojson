@@ -2,13 +2,14 @@
   "id": 270077909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.794364,41.744474,-73.794364,41.744474",
     "geom:latitude":41.744474,
     "geom:longitude":-73.794364,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"128 Drake Rd",
     "sg:city":"Pleasant Valley",
     "sg:classifiers":[
@@ -34,7 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528481,
+        102191575,
+        404522303,
         85633793,
+        85979257,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -45,18 +51,20 @@
     "wof:geomhash":"da49b1293b35eb23a081f5298f2ac286",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522303,
+            "locality_id":85979257,
+            "neighbourhood_id":420528481,
             "region_id":85688543,
             "venue_id":270077909
         }
     ],
     "wof:id":270077909,
-    "wof:lastmodified":1449009016,
+    "wof:lastmodified":1454124420,
     "wof:name":"Millbank JC Construction Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528481,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.794364,41.744474,-73.794364,41.744474],
+  "bbox": [
+    -73.794364,
+    41.744474,
+    -73.794364,
+    41.744474
+],
   "geometry": {"coordinates":[-73.794364,41.744474],"type":"Point"}
 }

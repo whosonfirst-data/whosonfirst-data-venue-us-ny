@@ -2,13 +2,14 @@
   "id": 370750759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.718482,41.401086,-73.718482,41.401086",
     "geom:latitude":41.401086,
     "geom:longitude":-73.718482,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"45 Pennebrook Ln",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529685,
+        102191575,
+        404523047,
         85633793,
+        85979559,
+        102083007,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"dea4915314fa9781da33ca1c78605306",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083007,
+            "localadmin_id":404523047,
+            "locality_id":85979559,
+            "neighbourhood_id":420529685,
             "region_id":85688543,
             "venue_id":370750759
         }
     ],
     "wof:id":370750759,
-    "wof:lastmodified":1449031128,
+    "wof:lastmodified":1454127914,
     "wof:name":"Media Direct",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529685,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "multimedia"
     ]
 },
-  "bbox": [-73.718482,41.401086,-73.718482,41.401086],
-  "geometry": {"coordinates":[-73.718482,41.401086],"type":"Point"}
+  "bbox": [
+    -73.718482,
+    41.401086,
+    -73.718482,
+    41.401086
+],
+  "geometry": {"coordinates":[-73.71848199999999,41.401086],"type":"Point"}
 }

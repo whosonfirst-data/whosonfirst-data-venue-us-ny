@@ -2,13 +2,14 @@
   "id": 319832533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.206825,40.515466,-74.206825,40.515466",
     "geom:latitude":40.515466,
     "geom:longitude":-74.206825,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"337 Woodvale Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85869599
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"5e2b321a9798f4f74b32fa253c418c9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869599,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":319832533,
-    "wof:lastmodified":1449024101,
+    "wof:lastmodified":1454126716,
     "wof:name":"Garys Garment Carriers Inc",
     "wof:parent_id":85869599,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-74.206825,40.515466,-74.206825,40.515466],
-  "geometry": {"coordinates":[-74.206825,40.515466],"type":"Point"}
+  "bbox": [
+    -74.206825,
+    40.515466,
+    -74.206825,
+    40.515466
+],
+  "geometry": {"coordinates":[-74.20682499999999,40.515466],"type":"Point"}
 }

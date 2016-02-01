@@ -2,13 +2,14 @@
   "id": 403966591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.887649,40.973349,-73.887649,40.973349",
     "geom:latitude":40.973349,
     "geom:longitude":-73.887649,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1203 Warburton Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823207,
+        102191575,
+        404523397,
         85633793,
         85978759,
         102082373,
-        85823207
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"e2cb797822ef796d5a7133645fc99431",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
             "neighbourhood_id":85823207,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":403966591,
-    "wof:lastmodified":1449054635,
+    "wof:lastmodified":1454129323,
     "wof:name":"Yonkers Yacht Club Inc",
     "wof:parent_id":85823207,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "yacht"
     ]
 },
-  "bbox": [-73.887649,40.973349,-73.887649,40.973349],
+  "bbox": [
+    -73.887649,
+    40.973349,
+    -73.887649,
+    40.973349
+],
   "geometry": {"coordinates":[-73.887649,40.973349],"type":"Point"}
 }

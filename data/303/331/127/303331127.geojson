@@ -2,13 +2,14 @@
   "id": 303331127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.1458,40.604977,-74.1458,40.604977",
     "geom:latitude":40.604977,
     "geom:longitude":-74.1458,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"839 Willowbrook Rd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85858015,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85858015
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"4cfeb8c337aca37a55291d8216f3f610",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85858015,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":303331127,
-    "wof:lastmodified":1448999607,
+    "wof:lastmodified":1454123459,
     "wof:name":"3405 New Kirk Corporation",
     "wof:parent_id":85858015,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "apartment"
     ]
 },
-  "bbox": [-74.1458,40.604977,-74.1458,40.604977],
-  "geometry": {"coordinates":[-74.1458,40.604977],"type":"Point"}
+  "bbox": [
+    -74.1458,
+    40.604977,
+    -74.1458,
+    40.604977
+],
+  "geometry": {"coordinates":[-74.14579999999999,40.604977],"type":"Point"}
 }

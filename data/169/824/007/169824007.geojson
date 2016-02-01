@@ -2,13 +2,14 @@
   "id": 169824007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.951305,40.707771,-73.951305,40.707771",
     "geom:latitude":40.707771,
     "geom:longitude":-73.951305,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"417 S 4th Street",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"sazonperez.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865603,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865603
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"6660dd3bd3170632c8fd2f332b0766c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865603,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":169824007,
-    "wof:lastmodified":1449033867,
+    "wof:lastmodified":1454128393,
     "wof:name":"Sazon Perez",
     "wof:parent_id":85865603,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "latin"
     ]
 },
-  "bbox": [-73.951305,40.707771,-73.951305,40.707771],
+  "bbox": [
+    -73.951305,
+    40.707771,
+    -73.951305,
+    40.707771
+],
   "geometry": {"coordinates":[-73.951305,40.707771],"type":"Point"}
 }

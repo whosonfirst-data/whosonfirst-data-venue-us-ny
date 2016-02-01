@@ -2,13 +2,14 @@
   "id": 354060359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.007483,40.6333,-74.007483,40.6333",
     "geom:latitude":40.6333,
     "geom:longitude":-74.007483,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"925 61st St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"eb70a5c48971c5bbedd73f6e0d65bbc3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":354060359
         }
     ],
     "wof:id":354060359,
-    "wof:lastmodified":1449067508,
+    "wof:lastmodified":1454131257,
     "wof:name":"Great Choice Auto Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "used"
     ]
 },
-  "bbox": [-74.007483,40.6333,-74.007483,40.6333],
-  "geometry": {"coordinates":[-74.007483,40.6333],"type":"Point"}
+  "bbox": [
+    -74.007483,
+    40.6333,
+    -74.007483,
+    40.6333
+],
+  "geometry": {"coordinates":[-74.00748299999999,40.6333],"type":"Point"}
 }

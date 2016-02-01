@@ -2,13 +2,14 @@
   "id": 185816833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.020401,40.646599,-74.020401,40.646599",
     "geom:latitude":40.646599,
     "geom:longitude":-74.020401,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"150 55th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -42,11 +43,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851575,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85851575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,9 +59,10 @@
     "wof:geomhash":"b046c4016732ff45557ed77f553d5371",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85851575,
             "region_id":85688543,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":185816833,
-    "wof:lastmodified":1449007545,
+    "wof:lastmodified":1454124266,
     "wof:name":"Lutheran Medical Center",
     "wof:parent_id":85851575,
     "wof:placetype":"venue",
@@ -81,6 +85,11 @@
         "medicine"
     ]
 },
-  "bbox": [-74.020401,40.646599,-74.020401,40.646599],
-  "geometry": {"coordinates":[-74.020401,40.646599],"type":"Point"}
+  "bbox": [
+    -74.020401,
+    40.646599,
+    -74.020401,
+    40.646599
+],
+  "geometry": {"coordinates":[-74.02040100000001,40.646599],"type":"Point"}
 }

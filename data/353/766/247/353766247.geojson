@@ -2,13 +2,14 @@
   "id": 353766247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.143984,43.552139,-76.143984,43.552139",
     "geom:latitude":43.552139,
     "geom:longitude":-76.143984,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Loomis Rd",
     "sg:city":"Pulaski",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805925,
+        102191575,
+        404522871,
         85633793,
+        85978583,
         102081783,
-        85805925
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"14d07a381f111a999be1506941adba8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081783,
-            "locality_id":-1,
+            "localadmin_id":404522871,
+            "locality_id":85978583,
             "neighbourhood_id":85805925,
             "region_id":85688543,
             "venue_id":353766247
         }
     ],
     "wof:id":353766247,
-    "wof:lastmodified":1449018218,
+    "wof:lastmodified":1454125939,
     "wof:name":"Masuicca Water",
     "wof:parent_id":85805925,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "company"
     ]
 },
-  "bbox": [-76.143984,43.552139,-76.143984,43.552139],
+  "bbox": [
+    -76.143984,
+    43.552139,
+    -76.143984,
+    43.552139
+],
   "geometry": {"coordinates":[-76.143984,43.552139],"type":"Point"}
 }

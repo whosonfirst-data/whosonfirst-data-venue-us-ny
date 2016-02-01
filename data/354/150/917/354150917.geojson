@@ -2,13 +2,14 @@
   "id": 354150917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.671008,43.223706,-77.671008,43.223706",
     "geom:latitude":43.223706,
     "geom:longitude":-77.671008,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1139 Maiden Ln",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "sg:website":"www.greece.k12.ny.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85977591,
+        102081815,
+        85853287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,23 +40,28 @@
     "wof:geomhash":"0764ec37e6730e93a72fd5b60ff11787",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "locality_id":85977591,
+            "neighbourhood_id":85853287,
             "region_id":85688543,
             "venue_id":354150917
         }
     ],
     "wof:id":354150917,
-    "wof:lastmodified":1449065953,
+    "wof:lastmodified":1454130776,
     "wof:name":"Olympia High School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853287,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.671008,43.223706,-77.671008,43.223706],
+  "bbox": [
+    -77.671008,
+    43.223706,
+    -77.671008,
+    43.223706
+],
   "geometry": {"coordinates":[-77.671008,43.223706],"type":"Point"}
 }

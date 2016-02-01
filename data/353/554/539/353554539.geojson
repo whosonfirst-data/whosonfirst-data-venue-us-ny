@@ -2,13 +2,14 @@
   "id": 353554539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.752179,40.694217,-73.752179,40.694217",
     "geom:latitude":40.694217,
     "geom:longitude":-73.752179,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200-06 Linden Blvd",
     "sg:city":"Jamaica",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846615,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85846615
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"00cc1bd34a377cb28f55bcfc75d9684c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85846615,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353554539,
-    "wof:lastmodified":1449018787,
+    "wof:lastmodified":1454126104,
     "wof:name":"Ampere Electric Corp",
     "wof:parent_id":85846615,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "electronics"
     ]
 },
-  "bbox": [-73.752179,40.694217,-73.752179,40.694217],
+  "bbox": [
+    -73.752179,
+    40.694217,
+    -73.752179,
+    40.694217
+],
   "geometry": {"coordinates":[-73.752179,40.694217],"type":"Point"}
 }

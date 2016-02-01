@@ -2,13 +2,14 @@
   "id": 354192517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.44597,40.733457,-73.44597,40.733457",
     "geom:latitude":40.733457,
     "geom:longitude":-73.44597,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"222 Main St",
     "sg:city":"Farmingdale",
     "sg:classifiers":[
@@ -43,11 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892759,
+        102191575,
+        404521475,
         85633793,
         85979165,
         102082371,
-        85892759
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,9 +60,10 @@
     "wof:geomhash":"078670da228c00206da5e8dabe25f308",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979165,
             "neighbourhood_id":85892759,
             "region_id":85688543,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":354192517,
-    "wof:lastmodified":1449067164,
+    "wof:lastmodified":1454131150,
     "wof:name":"Victorian Tea Room",
     "wof:parent_id":85892759,
     "wof:placetype":"venue",
@@ -78,6 +82,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.44597,40.733457,-73.44597,40.733457],
+  "bbox": [
+    -73.44597,
+    40.733457,
+    -73.44597,
+    40.733457
+],
   "geometry": {"coordinates":[-73.44597,40.733457],"type":"Point"}
 }

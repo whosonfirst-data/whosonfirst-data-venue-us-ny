@@ -2,13 +2,14 @@
   "id": 253417065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.630423,40.853417,-73.630423,40.853417",
     "geom:latitude":40.853417,
     "geom:longitude":-73.630423,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 Highfield Rd",
     "sg:city":"Glen Cove",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85977671,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"84e0ba390fe8e23932c9e59397029aca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977671,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":253417065
         }
     ],
     "wof:id":253417065,
-    "wof:lastmodified":1449064040,
+    "wof:lastmodified":1454130449,
     "wof:name":"Mark Mancini",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "music"
     ]
 },
-  "bbox": [-73.630423,40.853417,-73.630423,40.853417],
-  "geometry": {"coordinates":[-73.630423,40.853417],"type":"Point"}
+  "bbox": [
+    -73.630423,
+    40.853417,
+    -73.630423,
+    40.853417
+],
+  "geometry": {"coordinates":[-73.63042299999999,40.853417],"type":"Point"}
 }

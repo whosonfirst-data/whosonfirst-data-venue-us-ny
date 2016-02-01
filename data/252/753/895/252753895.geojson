@@ -2,13 +2,14 @@
   "id": 252753895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.167687,42.066039,-78.167687,42.066039",
     "geom:latitude":42.066039,
     "geom:longitude":-78.167687,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"356 Main St",
     "sg:city":"Bolivar",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528043,
+        102191575,
+        404521741,
         85633793,
         85977937,
-        102082403
+        102082403,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"222e242df3d8dc8d33d6aa4864ca6eb8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082403,
+            "localadmin_id":404521741,
             "locality_id":85977937,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528043,
             "region_id":85688543,
             "venue_id":252753895
         }
     ],
     "wof:id":252753895,
-    "wof:lastmodified":1449005527,
+    "wof:lastmodified":1454123999,
     "wof:name":"Bedow Refrigeration",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528043,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "electrical"
     ]
 },
-  "bbox": [-78.167687,42.066039,-78.167687,42.066039],
+  "bbox": [
+    -78.167687,
+    42.066039,
+    -78.167687,
+    42.066039
+],
   "geometry": {"coordinates":[-78.167687,42.066039],"type":"Point"}
 }

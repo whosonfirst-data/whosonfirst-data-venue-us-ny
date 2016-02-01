@@ -2,13 +2,14 @@
   "id": 303043151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.830622,40.710509,-73.830622,40.710509",
     "geom:latitude":40.710509,
     "geom:longitude":-73.830622,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"55 Austin St",
     "sg:city":"Kew Gardens",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529695,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"71515a0e0edf803f5c4729701766e749",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529695,
             "region_id":85688543,
             "venue_id":303043151
         }
     ],
     "wof:id":303043151,
-    "wof:lastmodified":1448999944,
+    "wof:lastmodified":1454123551,
     "wof:name":"Nataliey",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529695,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.830622,40.710509,-73.830622,40.710509],
-  "geometry": {"coordinates":[-73.830622,40.710509],"type":"Point"}
+  "bbox": [
+    -73.830622,
+    40.710509,
+    -73.830622,
+    40.710509
+],
+  "geometry": {"coordinates":[-73.83062200000001,40.710509],"type":"Point"}
 }

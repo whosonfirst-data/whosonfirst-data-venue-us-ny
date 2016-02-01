@@ -2,13 +2,14 @@
   "id": 286374635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.612636,43.200984,-77.612636,43.200984",
     "geom:latitude":43.200984,
     "geom:longitude":-77.612636,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2201 Clinton Ave N",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832337,
+        102191575,
+        404521467,
         85633793,
-        85979035,
-        102081815
+        85977591,
+        102081815,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"d10118673d0c9d28b70c9d1d56c3e623",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85979035,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521467,
+            "locality_id":85977591,
+            "neighbourhood_id":85832337,
             "region_id":85688543,
             "venue_id":286374635
         }
     ],
     "wof:id":286374635,
-    "wof:lastmodified":1449016466,
+    "wof:lastmodified":1454125624,
     "wof:name":"Artistry Of Dance",
-    "wof:parent_id":-1,
+    "wof:parent_id":85832337,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "dance"
     ]
 },
-  "bbox": [-77.612636,43.200984,-77.612636,43.200984],
-  "geometry": {"coordinates":[-77.612636,43.200984],"type":"Point"}
+  "bbox": [
+    -77.612636,
+    43.200984,
+    -77.612636,
+    43.200984
+],
+  "geometry": {"coordinates":[-77.61263599999999,43.200984],"type":"Point"}
 }

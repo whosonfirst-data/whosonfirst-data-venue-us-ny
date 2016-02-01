@@ -2,13 +2,14 @@
   "id": 303249029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.995721,40.824947,-72.995721,40.824947",
     "geom:latitude":40.824947,
     "geom:longitude":-72.995721,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2775 Rte 112",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.asfc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"7e9f92460a7a1b4d9e2cae89737b1c19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":303249029
         }
     ],
     "wof:id":303249029,
-    "wof:lastmodified":1448998244,
+    "wof:lastmodified":1454123030,
     "wof:name":"Astoria Federal Savings & Loan",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "association"
     ]
 },
-  "bbox": [-72.995721,40.824947,-72.995721,40.824947],
+  "bbox": [
+    -72.995721,
+    40.824947,
+    -72.995721,
+    40.824947
+],
   "geometry": {"coordinates":[-72.995721,40.824947],"type":"Point"}
 }

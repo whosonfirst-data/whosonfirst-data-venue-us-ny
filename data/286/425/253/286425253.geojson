@@ -2,13 +2,14 @@
   "id": 286425253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.85581,40.779973,-72.85581,40.779973",
     "geom:latitude":40.779973,
     "geom:longitude":-72.85581,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"243 Floyd Rd",
     "sg:city":"Shirley",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892903,
+        102191575,
+        404521441,
         85633793,
+        85978437,
         102082395,
-        85892903
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"32543a342278e6862c0d54118ff10896",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85978437,
             "neighbourhood_id":85892903,
             "region_id":85688543,
             "venue_id":286425253
         }
     ],
     "wof:id":286425253,
-    "wof:lastmodified":1449016219,
+    "wof:lastmodified":1454125581,
     "wof:name":"Barbers Group Day Care",
     "wof:parent_id":85892903,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-72.85581,40.779973,-72.85581,40.779973],
-  "geometry": {"coordinates":[-72.85581,40.779973],"type":"Point"}
+  "bbox": [
+    -72.85581,
+    40.779973,
+    -72.85581,
+    40.779973
+],
+  "geometry": {"coordinates":[-72.85581000000001,40.779973],"type":"Point"}
 }

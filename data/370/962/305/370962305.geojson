@@ -2,13 +2,14 @@
   "id": 370962305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.62833,40.746639,-73.62833,40.746639",
     "geom:latitude":40.746639,
     "geom:longitude":-73.62833,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Senate Pl",
     "sg:city":"Hempstead",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893069,
+        102191575,
+        404522729,
         85633793,
-        85977735,
+        85979163,
         102082371,
-        85893069
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"cf04fc8a0c2c658c241ff9b724b0fa3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977735,
+            "localadmin_id":404522729,
+            "locality_id":85979163,
             "neighbourhood_id":85893069,
             "region_id":85688543,
             "venue_id":370962305
         }
     ],
     "wof:id":370962305,
-    "wof:lastmodified":1449031065,
+    "wof:lastmodified":1454127897,
     "wof:name":"Atlantic Charter Boat Fishing",
     "wof:parent_id":85893069,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "fishing"
     ]
 },
-  "bbox": [-73.62833,40.746639,-73.62833,40.746639],
-  "geometry": {"coordinates":[-73.62833,40.746639],"type":"Point"}
+  "bbox": [
+    -73.62833,
+    40.746639,
+    -73.62833,
+    40.746639
+],
+  "geometry": {"coordinates":[-73.62833000000001,40.746639],"type":"Point"}
 }

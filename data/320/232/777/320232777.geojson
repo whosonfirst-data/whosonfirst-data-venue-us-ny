@@ -2,13 +2,14 @@
   "id": 320232777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.067217,42.09696,-76.067217,42.09696",
     "geom:latitude":42.09696,
     "geom:longitude":-76.067217,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7 Badger Ave",
     "sg:city":"Endicott",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528091,
+        102191575,
+        404521829,
         85633793,
         85977985,
-        102081755
+        102081755,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"400c8f3c04c62de888cb0c911d5e7e6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
+            "localadmin_id":404521829,
             "locality_id":85977985,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528091,
             "region_id":85688543,
             "venue_id":320232777
         }
     ],
     "wof:id":320232777,
-    "wof:lastmodified":1449012474,
+    "wof:lastmodified":1454124959,
     "wof:name":"ICS Industries",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "computer"
     ]
 },
-  "bbox": [-76.067217,42.09696,-76.067217,42.09696],
+  "bbox": [
+    -76.067217,
+    42.09696,
+    -76.067217,
+    42.09696
+],
   "geometry": {"coordinates":[-76.067217,42.09696],"type":"Point"}
 }

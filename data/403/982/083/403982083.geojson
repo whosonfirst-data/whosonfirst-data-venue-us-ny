@@ -2,13 +2,14 @@
   "id": 403982083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.606951,43.155454,-77.606951,43.155454",
     "geom:latitude":43.155454,
     "geom:longitude":-77.606951,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"39 Stone St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"www.centralparking.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880395,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85880395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"dc9471c5e219c993ac71d829c2373ad6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85880395,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":403982083,
-    "wof:lastmodified":1449054862,
+    "wof:lastmodified":1454129356,
     "wof:name":"South Avenue Garage",
     "wof:parent_id":85880395,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "village"
     ]
 },
-  "bbox": [-77.606951,43.155454,-77.606951,43.155454],
+  "bbox": [
+    -77.606951,
+    43.155454,
+    -77.606951,
+    43.155454
+],
   "geometry": {"coordinates":[-77.606951,43.155454],"type":"Point"}
 }

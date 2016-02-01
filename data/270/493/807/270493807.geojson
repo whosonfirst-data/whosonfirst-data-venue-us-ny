@@ -2,13 +2,14 @@
   "id": 270493807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.882065,41.641464,-73.882065,41.641464",
     "geom:latitude":41.641464,
     "geom:longitude":-73.882065,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"126 Vassar Rd",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85844073,
+        102191575,
+        404522309,
         85633793,
+        85979255,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"afb3952f507972ac7abf0e2b2e467b93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522309,
+            "locality_id":85979255,
+            "neighbourhood_id":85844073,
             "region_id":85688543,
             "venue_id":270493807
         }
     ],
     "wof:id":270493807,
-    "wof:lastmodified":1449009398,
+    "wof:lastmodified":1454124478,
     "wof:name":"King Craft Homes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844073,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "craft"
     ]
 },
-  "bbox": [-73.882065,41.641464,-73.882065,41.641464],
+  "bbox": [
+    -73.882065,
+    41.641464,
+    -73.882065,
+    41.641464
+],
   "geometry": {"coordinates":[-73.882065,41.641464],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370638511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.906197,41.565498,-73.906197,41.565498",
     "geom:latitude":41.565498,
     "geom:longitude":-73.906197,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1136 Route 9",
     "sg:city":"Wappingers Falls",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528475,
+        102191575,
+        404522225,
         85633793,
+        85979249,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"4a966a4c5ee136485164afab3f6cabb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522225,
+            "locality_id":85979249,
+            "neighbourhood_id":420528475,
             "region_id":85688543,
             "venue_id":370638511
         }
     ],
     "wof:id":370638511,
-    "wof:lastmodified":1449029266,
+    "wof:lastmodified":1454127369,
     "wof:name":"Stenger Kenneth M Atty",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528475,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "injury"
     ]
 },
-  "bbox": [-73.906197,41.565498,-73.906197,41.565498],
-  "geometry": {"coordinates":[-73.906197,41.565498],"type":"Point"}
+  "bbox": [
+    -73.906197,
+    41.565498,
+    -73.906197,
+    41.565498
+],
+  "geometry": {"coordinates":[-73.90619700000001,41.565498],"type":"Point"}
 }

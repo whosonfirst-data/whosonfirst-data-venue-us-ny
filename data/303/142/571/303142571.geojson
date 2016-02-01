@@ -2,13 +2,14 @@
   "id": 303142571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.541784,43.150843,-77.541784,43.150843",
     "geom:latitude":43.150843,
     "geom:longitude":-77.541784,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"70 Gas Light Ln",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880405,
+        102191575,
+        404521467,
         85633793,
-        85979035,
+        85977591,
         102081815,
-        85880405
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"172d0eff055c72265138a1c9f4457d4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85979035,
+            "localadmin_id":404521467,
+            "locality_id":85977591,
             "neighbourhood_id":85880405,
             "region_id":85688543,
             "venue_id":303142571
         }
     ],
     "wof:id":303142571,
-    "wof:lastmodified":1449000077,
+    "wof:lastmodified":1454123589,
     "wof:name":"Ellison Design & Consulting",
     "wof:parent_id":85880405,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-77.541784,43.150843,-77.541784,43.150843],
-  "geometry": {"coordinates":[-77.541784,43.150843],"type":"Point"}
+  "bbox": [
+    -77.541784,
+    43.150843,
+    -77.541784,
+    43.150843
+],
+  "geometry": {"coordinates":[-77.54178400000001,43.150843],"type":"Point"}
 }

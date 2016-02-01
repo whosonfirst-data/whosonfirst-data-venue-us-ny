@@ -2,13 +2,14 @@
   "id": 286940149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.796326,40.929487,-73.796326,40.929487",
     "geom:latitude":40.929487,
     "geom:longitude":-73.796326,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"265 Clove Rd",
     "sg:city":"New Rochelle",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805259,
+        102191575,
+        404523375,
         85633793,
         85978749,
         102082373,
-        85805259
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"706e8e1c24cc73c22595313ee056dbf6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523375,
             "locality_id":85978749,
             "neighbourhood_id":85805259,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":286940149,
-    "wof:lastmodified":1449015886,
+    "wof:lastmodified":1454125521,
     "wof:name":"New Rochelle High School",
     "wof:parent_id":85805259,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.796326,40.929487,-73.796326,40.929487],
-  "geometry": {"coordinates":[-73.796326,40.929487],"type":"Point"}
+  "bbox": [
+    -73.796326,
+    40.929487,
+    -73.796326,
+    40.929487
+],
+  "geometry": {"coordinates":[-73.79632599999999,40.929487],"type":"Point"}
 }

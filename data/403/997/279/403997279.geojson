@@ -2,13 +2,14 @@
   "id": 403997279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.68942,40.840545,-73.68942,40.840545",
     "geom:latitude":40.840545,
     "geom:longitude":-73.68942,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1317 Port Washington Blvd",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85842853,
+        102191575,
+        404522729,
         85633793,
         85979185,
         102082371,
-        85842853
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f773b5adb6a2abf2e118ed2512cf6ea2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979185,
             "neighbourhood_id":85842853,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403997279,
-    "wof:lastmodified":1449055736,
+    "wof:lastmodified":1454129481,
     "wof:name":"St Peter's Spanish Apstlt",
     "wof:parent_id":85842853,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-73.68942,40.840545,-73.68942,40.840545],
+  "bbox": [
+    -73.68942,
+    40.840545,
+    -73.68942,
+    40.840545
+],
   "geometry": {"coordinates":[-73.68942,40.840545],"type":"Point"}
 }

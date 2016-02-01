@@ -2,13 +2,14 @@
   "id": 320106737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.768243,41.035391,-73.768243,41.035391",
     "geom:latitude":41.035391,
     "geom:longitude":-73.768243,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 Barker Ave",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893079,
+        102191575,
+        404523395,
         85633793,
         85978761,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"a11f4107940911eae0e42d6da564fbac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523395,
             "locality_id":85978761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85893079,
             "region_id":85688543,
             "venue_id":320106737
         }
     ],
     "wof:id":320106737,
-    "wof:lastmodified":1449011205,
+    "wof:lastmodified":1454124752,
     "wof:name":"40 Barker Ave Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893079,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.768243,41.035391,-73.768243,41.035391],
+  "bbox": [
+    -73.768243,
+    41.035391,
+    -73.768243,
+    41.035391
+],
   "geometry": {"coordinates":[-73.768243,41.035391],"type":"Point"}
 }

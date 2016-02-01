@@ -2,13 +2,14 @@
   "id": 253466625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.623967,41.410728,-73.623967,41.410728",
     "geom:latitude":41.410728,
     "geom:longitude":-73.623967,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"50 Prospect Hill Rd",
     "sg:city":"Brewster",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85807285,
+        102083007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,18 +44,17 @@
     "wof:geomhash":"09ae8a9e06d97b098ebc6f7670e1438f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083007,
+            "neighbourhood_id":85807285,
             "region_id":85688543,
             "venue_id":253466625
         }
     ],
     "wof:id":253466625,
-    "wof:lastmodified":1449063698,
+    "wof:lastmodified":1454130391,
     "wof:name":"Building Specialists Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807285,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.623967,41.410728,-73.623967,41.410728],
-  "geometry": {"coordinates":[-73.623967,41.410728],"type":"Point"}
+  "bbox": [
+    -73.623967,
+    41.410728,
+    -73.623967,
+    41.410728
+],
+  "geometry": {"coordinates":[-73.62396699999999,41.410728],"type":"Point"}
 }

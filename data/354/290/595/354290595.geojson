@@ -2,13 +2,14 @@
   "id": 354290595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.473595,40.655463,-73.473595,40.655463",
     "geom:latitude":40.655463,
     "geom:longitude":-73.473595,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"92 Ocean Ave",
     "sg:city":"Massapequa",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85806127,
+        102191575,
+        404521475,
         85633793,
         85979069,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"c7b5d47a9b014e486ed1a9c77914e212",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979069,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85806127,
             "region_id":85688543,
             "venue_id":354290595
         }
     ],
     "wof:id":354290595,
-    "wof:lastmodified":1449066656,
+    "wof:lastmodified":1454130992,
     "wof:name":"Jerrold Axinn DDS PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85806127,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.473595,40.655463,-73.473595,40.655463],
+  "bbox": [
+    -73.473595,
+    40.655463,
+    -73.473595,
+    40.655463
+],
   "geometry": {"coordinates":[-73.473595,40.655463],"type":"Point"}
 }

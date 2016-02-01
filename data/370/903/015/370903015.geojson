@@ -2,13 +2,14 @@
   "id": 370903015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.225247,40.812239,-73.225247,40.812239",
     "geom:latitude":40.812239,
     "geom:longitude":-73.225247,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"50 Constance Ct",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -37,10 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +54,20 @@
     "wof:geomhash":"7d120015cb974e51146dc6d6768bc68c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":370903015
         }
     ],
     "wof:id":370903015,
-    "wof:lastmodified":1449029280,
+    "wof:lastmodified":1454127373,
     "wof:name":"Forrest & Brook Food Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -75,6 +80,11 @@
         "retail"
     ]
 },
-  "bbox": [-73.225247,40.812239,-73.225247,40.812239],
+  "bbox": [
+    -73.225247,
+    40.812239,
+    -73.225247,
+    40.812239
+],
   "geometry": {"coordinates":[-73.225247,40.812239],"type":"Point"}
 }

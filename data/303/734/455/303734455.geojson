@@ -2,13 +2,14 @@
   "id": 303734455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.460197,40.786538,-73.460197,40.786538",
     "geom:latitude":40.786538,
     "geom:longitude":-73.460197,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Newport Dr",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"fe854fe93c4da55a45abaf84f2d2c744",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":303734455
         }
     ],
     "wof:id":303734455,
-    "wof:lastmodified":1449000256,
+    "wof:lastmodified":1454123640,
     "wof:name":"Honeywell DMC Svc Inc",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "conservation"
     ]
 },
-  "bbox": [-73.460197,40.786538,-73.460197,40.786538],
-  "geometry": {"coordinates":[-73.460197,40.786538],"type":"Point"}
+  "bbox": [
+    -73.460197,
+    40.786538,
+    -73.460197,
+    40.786538
+],
+  "geometry": {"coordinates":[-73.46019699999999,40.786538],"type":"Point"}
 }

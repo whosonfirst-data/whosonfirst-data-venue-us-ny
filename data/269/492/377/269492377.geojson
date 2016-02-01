@@ -2,13 +2,14 @@
   "id": 269492377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.187413,40.856173,-73.187413,40.856173",
     "geom:latitude":40.856173,
     "geom:longitude":-73.187413,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 Rte 111",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853877,
+        102191575,
+        404522669,
         85633793,
-        85979919,
+        85978443,
         102082395,
-        85853877
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"7d3417363d715aafec8c8c286166e6dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
+            "localadmin_id":404522669,
+            "locality_id":85978443,
             "neighbourhood_id":85853877,
             "region_id":85688543,
             "venue_id":269492377
         }
     ],
     "wof:id":269492377,
-    "wof:lastmodified":1449036151,
+    "wof:lastmodified":1454128464,
     "wof:name":"Pederson Krag Center Inc",
     "wof:parent_id":85853877,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "medical"
     ]
 },
-  "bbox": [-73.187413,40.856173,-73.187413,40.856173],
-  "geometry": {"coordinates":[-73.187413,40.856173],"type":"Point"}
+  "bbox": [
+    -73.187413,
+    40.856173,
+    -73.187413,
+    40.856173
+],
+  "geometry": {"coordinates":[-73.18741300000001,40.856173],"type":"Point"}
 }

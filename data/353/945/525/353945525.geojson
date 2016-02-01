@@ -2,13 +2,14 @@
   "id": 353945525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.879496,40.833473,-73.879496,40.833473",
     "geom:latitude":40.833473,
     "geom:longitude":-73.879496,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1542 E 173rd St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840627,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85840627
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"a2c5c11fd312c3a1aed215f53747008d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85840627,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":353945525,
-    "wof:lastmodified":1449018477,
+    "wof:lastmodified":1454126012,
     "wof:name":"Toque Especial",
     "wof:parent_id":85840627,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.879496,40.833473,-73.879496,40.833473],
+  "bbox": [
+    -73.879496,
+    40.833473,
+    -73.879496,
+    40.833473
+],
   "geometry": {"coordinates":[-73.879496,40.833473],"type":"Point"}
 }

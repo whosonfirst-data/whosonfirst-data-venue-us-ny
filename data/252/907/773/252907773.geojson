@@ -2,13 +2,14 @@
   "id": 252907773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.829653,40.757289,-73.829653,40.757289",
     "geom:latitude":40.757289,
     "geom:longitude":-73.829653,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13329 41st Rd",
     "sg:city":"Flushing",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819703,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819703
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"bd9d203c06c4ff87424682e7034ff93a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819703,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":252907773,
-    "wof:lastmodified":1449006426,
+    "wof:lastmodified":1454124122,
     "wof:name":"Shih San",
     "wof:parent_id":85819703,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-73.829653,40.757289,-73.829653,40.757289],
-  "geometry": {"coordinates":[-73.829653,40.757289],"type":"Point"}
+  "bbox": [
+    -73.829653,
+    40.757289,
+    -73.829653,
+    40.757289
+],
+  "geometry": {"coordinates":[-73.82965299999999,40.757289],"type":"Point"}
 }

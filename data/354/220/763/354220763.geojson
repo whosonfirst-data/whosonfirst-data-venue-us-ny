@@ -2,13 +2,14 @@
   "id": 354220763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.892482,40.847687,-73.892482,40.847687",
     "geom:latitude":40.847687,
     "geom:longitude":-73.892482,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1998 Arthur Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528057,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"052e8987ff5d630fc0d30cee0c3e6e09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528057,
             "region_id":85688543,
             "venue_id":354220763
         }
     ],
     "wof:id":354220763,
-    "wof:lastmodified":1449067616,
+    "wof:lastmodified":1454131292,
     "wof:name":"J & I Auto Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "automobile"
     ]
 },
-  "bbox": [-73.892482,40.847687,-73.892482,40.847687],
+  "bbox": [
+    -73.892482,
+    40.847687,
+    -73.892482,
+    40.847687
+],
   "geometry": {"coordinates":[-73.892482,40.847687],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286357525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.902241,40.858325,-73.902241,40.858325",
     "geom:latitude":40.858325,
     "geom:longitude":-73.902241,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"71 E 183rd St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819763,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85819763
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"9254b890d1f4ae4e7528afd20afa64b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819763,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":286357525,
-    "wof:lastmodified":1449017743,
+    "wof:lastmodified":1454125851,
     "wof:name":"Electronic Entertainment Game",
     "wof:parent_id":85819763,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.902241,40.858325,-73.902241,40.858325],
+  "bbox": [
+    -73.902241,
+    40.858325,
+    -73.902241,
+    40.858325
+],
   "geometry": {"coordinates":[-73.902241,40.858325],"type":"Point"}
 }

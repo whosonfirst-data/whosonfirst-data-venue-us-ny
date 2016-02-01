@@ -2,13 +2,14 @@
   "id": 185650019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.985713,40.676724,-73.985713,40.676724",
     "geom:latitude":40.676724,
     "geom:longitude":-73.985713,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14 Whitwell Place",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865587,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865587
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"4e21bde63d9e694ebffa83276a74b1e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865587,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":185650019,
-    "wof:lastmodified":1449007596,
+    "wof:lastmodified":1454124271,
     "wof:name":"T J Kings Lobster",
     "wof:parent_id":85865587,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "market"
     ]
 },
-  "bbox": [-73.985713,40.676724,-73.985713,40.676724],
+  "bbox": [
+    -73.985713,
+    40.676724,
+    -73.985713,
+    40.676724
+],
   "geometry": {"coordinates":[-73.985713,40.676724],"type":"Point"}
 }

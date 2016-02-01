@@ -2,13 +2,14 @@
   "id": 370201661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.193047,40.815671,-73.193047,40.815671",
     "geom:latitude":40.815671,
     "geom:longitude":-73.193047,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1261 Veterans Hwy",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530053,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"294a7123a0ccbfb7699710f47a32dcf4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530053,
             "region_id":85688543,
             "venue_id":370201661
         }
     ],
     "wof:id":370201661,
-    "wof:lastmodified":1449032017,
+    "wof:lastmodified":1454128179,
     "wof:name":"Grafton Street Pub",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "irish"
     ]
 },
-  "bbox": [-73.193047,40.815671,-73.193047,40.815671],
-  "geometry": {"coordinates":[-73.193047,40.815671],"type":"Point"}
+  "bbox": [
+    -73.193047,
+    40.815671,
+    -73.193047,
+    40.815671
+],
+  "geometry": {"coordinates":[-73.19304700000001,40.815671],"type":"Point"}
 }

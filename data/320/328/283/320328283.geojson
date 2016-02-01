@@ -2,13 +2,14 @@
   "id": 320328283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.528514,40.744399,-73.528514,40.744399",
     "geom:latitude":40.744399,
     "geom:longitude":-73.528514,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"45 Rover Ln",
     "sg:city":"Hicksville",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85856711,
+        102191575,
+        404521475,
         85633793,
-        85979063,
+        85979093,
         102082371,
-        85856711
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"30a4e65dc4b76091c5465dd8265df17a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979063,
+            "localadmin_id":404521475,
+            "locality_id":85979093,
             "neighbourhood_id":85856711,
             "region_id":85688543,
             "venue_id":320328283
         }
     ],
     "wof:id":320328283,
-    "wof:lastmodified":1449013454,
+    "wof:lastmodified":1454125117,
     "wof:name":"Can Man Co Inc",
     "wof:parent_id":85856711,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.528514,40.744399,-73.528514,40.744399],
+  "bbox": [
+    -73.528514,
+    40.744399,
+    -73.528514,
+    40.744399
+],
   "geometry": {"coordinates":[-73.528514,40.744399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370754979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.166498,43.084412,-76.166498,43.084412",
     "geom:latitude":43.084412,
     "geom:longitude":-76.166498,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"107 E Terminal Rd",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -45,11 +46,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881279,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881279
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,9 +62,10 @@
     "wof:geomhash":"ed20e78012cf46a9524f3d401abc81fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881279,
             "region_id":85688543,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":370754979,
-    "wof:lastmodified":1449031292,
+    "wof:lastmodified":1454127964,
     "wof:name":"Martisco Corporation",
     "wof:parent_id":85881279,
     "wof:placetype":"venue",
@@ -87,6 +91,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.166498,43.084412,-76.166498,43.084412],
+  "bbox": [
+    -76.166498,
+    43.084412,
+    -76.166498,
+    43.084412
+],
   "geometry": {"coordinates":[-76.166498,43.084412],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403975175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.860326,41.105647,-73.860326,41.105647",
     "geom:latitude":41.105647,
     "geom:longitude":-73.860326,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"701 N Broadway",
     "sg:city":"Sleepy Hollow",
     "sg:classifiers":[
@@ -30,7 +31,12 @@
     "sg:website":"www.poisoneducation.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85893043,
+        102191575,
+        404523367,
         85633793,
+        85978713,
+        102082373,
         85688543
     ],
     "wof:breaches":[],
@@ -41,18 +47,20 @@
     "wof:geomhash":"e5a7af2b24283cf7abdca2f9386554f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523367,
+            "locality_id":85978713,
+            "neighbourhood_id":85893043,
             "region_id":85688543,
             "venue_id":403975175
         }
     ],
     "wof:id":403975175,
-    "wof:lastmodified":1449055787,
+    "wof:lastmodified":1454129487,
     "wof:name":"Hudson Valley Poison Edctn Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893043,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +70,11 @@
         "poison"
     ]
 },
-  "bbox": [-73.860326,41.105647,-73.860326,41.105647],
+  "bbox": [
+    -73.860326,
+    41.105647,
+    -73.860326,
+    41.105647
+],
   "geometry": {"coordinates":[-73.860326,41.105647],"type":"Point"}
 }

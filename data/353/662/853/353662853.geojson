@@ -2,13 +2,14 @@
   "id": 353662853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.855052,43.044892,-74.855052,43.044892",
     "geom:latitude":43.044892,
     "geom:longitude":-74.855052,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"690 E Main St",
     "sg:city":"Little Falls",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528839,
+        102191575,
+        404521885,
         85633793,
         85977757,
-        102081877
+        102081877,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"ff9eebcd51bd854e847d5af83d815c2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081877,
+            "localadmin_id":404521885,
             "locality_id":85977757,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528839,
             "region_id":85688543,
             "venue_id":353662853
         }
     ],
     "wof:id":353662853,
-    "wof:lastmodified":1449019966,
+    "wof:lastmodified":1454126447,
     "wof:name":"George M Bunk PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528839,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-74.855052,43.044892,-74.855052,43.044892],
+  "bbox": [
+    -74.855052,
+    43.044892,
+    -74.855052,
+    43.044892
+],
   "geometry": {"coordinates":[-74.855052,43.044892],"type":"Point"}
 }

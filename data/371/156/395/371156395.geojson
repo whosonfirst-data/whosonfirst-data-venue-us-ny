@@ -2,13 +2,14 @@
   "id": 371156395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.800299,42.979454,-78.800299,42.979454",
     "geom:latitude":42.979454,
     "geom:longitude":-78.800299,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3605 Sheridan Dr",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -89,10 +90,13 @@
     "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823285,
+        102191575,
+        404522321,
         85633793,
+        85979407,
         102082387,
-        85823285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,17 +106,18 @@
     "wof:geomhash":"1280779d98439317b31b39a918bee63b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979407,
             "neighbourhood_id":85823285,
             "region_id":85688543,
             "venue_id":371156395
         }
     ],
     "wof:id":371156395,
-    "wof:lastmodified":1449049247,
+    "wof:lastmodified":1454129085,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85823285,
     "wof:placetype":"venue",
@@ -133,6 +138,11 @@
         "consumer"
     ]
 },
-  "bbox": [-78.800299,42.979454,-78.800299,42.979454],
+  "bbox": [
+    -78.800299,
+    42.979454,
+    -78.800299,
+    42.979454
+],
   "geometry": {"coordinates":[-78.800299,42.979454],"type":"Point"}
 }

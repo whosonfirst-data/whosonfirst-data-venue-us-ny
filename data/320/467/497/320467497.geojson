@@ -2,13 +2,14 @@
   "id": 320467497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.753081,40.923012,-73.753081,40.923012",
     "geom:latitude":40.923012,
     "geom:longitude":-73.753081,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Beach Ave",
     "sg:city":"Larchmont",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851407,
+        102191575,
+        404523375,
         85633793,
-        85978731,
-        102082373
+        85978749,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"83b045bfff2db1e4636b87c3055c227f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978731,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523375,
+            "locality_id":85978749,
+            "neighbourhood_id":85851407,
             "region_id":85688543,
             "venue_id":320467497
         }
     ],
     "wof:id":320467497,
-    "wof:lastmodified":1449014167,
+    "wof:lastmodified":1454125234,
     "wof:name":"Musiodata",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851407,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "mail"
     ]
 },
-  "bbox": [-73.753081,40.923012,-73.753081,40.923012],
-  "geometry": {"coordinates":[-73.753081,40.923012],"type":"Point"}
+  "bbox": [
+    -73.753081,
+    40.923012,
+    -73.753081,
+    40.923012
+],
+  "geometry": {"coordinates":[-73.75308099999999,40.923012],"type":"Point"}
 }

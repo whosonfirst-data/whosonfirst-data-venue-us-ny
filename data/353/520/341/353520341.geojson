@@ -2,13 +2,14 @@
   "id": 353520341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.723276,40.817707,-73.723276,40.817707",
     "geom:latitude":40.817707,
     "geom:longitude":-73.723276,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"495 E Shore Rd",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892983,
+        102191575,
+        404522729,
         85633793,
-        85977677,
-        102082371
+        85979185,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"37fa49ef74a5ef36e7b87113d7bb9e91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977677,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522729,
+            "locality_id":85979185,
+            "neighbourhood_id":85892983,
             "region_id":85688543,
             "venue_id":353520341
         }
     ],
     "wof:id":353520341,
-    "wof:lastmodified":1449019098,
+    "wof:lastmodified":1454126196,
     "wof:name":"Seymour Meyer Dr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892983,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.723276,40.817707,-73.723276,40.817707],
+  "bbox": [
+    -73.723276,
+    40.817707,
+    -73.723276,
+    40.817707
+],
   "geometry": {"coordinates":[-73.723276,40.817707],"type":"Point"}
 }

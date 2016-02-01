@@ -2,13 +2,14 @@
   "id": 320528809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.811473,40.930108,-73.811473,40.930108",
     "geom:latitude":40.930108,
     "geom:longitude":-73.811473,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"388 California Rd",
     "sg:city":"Bronxville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892799,
+        102191575,
+        404523383,
         85633793,
-        85978721,
+        85978711,
         102082373,
-        85892799
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"d70abfbca44a0491cc584fa9ee32f9c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978721,
+            "localadmin_id":404523383,
+            "locality_id":85978711,
             "neighbourhood_id":85892799,
             "region_id":85688543,
             "venue_id":320528809
         }
     ],
     "wof:id":320528809,
-    "wof:lastmodified":1449012260,
+    "wof:lastmodified":1454124923,
     "wof:name":"Eastchester Historical Soc",
     "wof:parent_id":85892799,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.811473,40.930108,-73.811473,40.930108],
-  "geometry": {"coordinates":[-73.811473,40.930108],"type":"Point"}
+  "bbox": [
+    -73.811473,
+    40.930108,
+    -73.811473,
+    40.930108
+],
+  "geometry": {"coordinates":[-73.81147300000001,40.930108],"type":"Point"}
 }

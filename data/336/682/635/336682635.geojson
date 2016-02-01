@@ -2,13 +2,14 @@
   "id": 336682635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.569936,40.67817,-73.569936,40.67817",
     "geom:latitude":40.67817,
     "geom:longitude":-73.569936,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1650 Meadowbrook Rd",
     "sg:city":"Merrick",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529153,
+        102191575,
+        404521473,
         85633793,
+        85979047,
+        102082371,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"98768d50523c36c844bcc2fc768fc518",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082371,
+            "localadmin_id":404521473,
+            "locality_id":85979047,
+            "neighbourhood_id":420529153,
             "region_id":85688543,
             "venue_id":336682635
         }
     ],
     "wof:id":336682635,
-    "wof:lastmodified":1448997131,
+    "wof:lastmodified":1454122420,
     "wof:name":"Rainbow Plumbing & Heating",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529153,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.569936,40.67817,-73.569936,40.67817],
+  "bbox": [
+    -73.569936,
+    40.67817,
+    -73.569936,
+    40.67817
+],
   "geometry": {"coordinates":[-73.569936,40.67817],"type":"Point"}
 }

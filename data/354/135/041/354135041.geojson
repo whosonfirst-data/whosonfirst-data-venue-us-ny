@@ -2,13 +2,14 @@
   "id": 354135041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.178089,40.793729,-73.178089,40.793729",
     "geom:latitude":40.793729,
     "geom:longitude":-73.178089,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"77 Windsor Pl Ste 11",
     "sg:city":"Central Islip",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     "sg:website":"andrestaxi#aol.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
-        85979813,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"14822c86357cfebe1683dccaf4db4a55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979813,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":354135041
         }
     ],
     "wof:id":354135041,
-    "wof:lastmodified":1449066571,
+    "wof:lastmodified":1454130965,
     "wof:name":"ANDRE'S TAXI SERVICE",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "airport"
     ]
 },
-  "bbox": [-73.178089,40.793729,-73.178089,40.793729],
+  "bbox": [
+    -73.178089,
+    40.793729,
+    -73.178089,
+    40.793729
+],
   "geometry": {"coordinates":[-73.178089,40.793729],"type":"Point"}
 }

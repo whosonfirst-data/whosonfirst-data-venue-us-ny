@@ -2,13 +2,14 @@
   "id": 354206183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.009877,40.721946,-74.009877,40.721946",
     "geom:latitude":40.721946,
     "geom:longitude":-74.009877,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"412 Greenwich St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865713,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865713
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"7c3a6aa433c81cd8a7c8a9a1bc7025d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865713,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":354206183,
-    "wof:lastmodified":1449067138,
+    "wof:lastmodified":1454131139,
     "wof:name":"Metropolitan Agribusiness",
     "wof:parent_id":85865713,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "specialty"
     ]
 },
-  "bbox": [-74.009877,40.721946,-74.009877,40.721946],
+  "bbox": [
+    -74.009877,
+    40.721946,
+    -74.009877,
+    40.721946
+],
   "geometry": {"coordinates":[-74.009877,40.721946],"type":"Point"}
 }

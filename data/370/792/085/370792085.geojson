@@ -2,13 +2,14 @@
   "id": 370792085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.140985,43.010934,-76.140985,43.010934",
     "geom:latitude":43.010934,
     "geom:longitude":-76.140985,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"147 Walrath Rd",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529355,
+        102191575,
+        404522851,
         85633793,
         85977785,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"26c51680144f5186b321326790969241",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529355,
             "region_id":85688543,
             "venue_id":370792085
         }
     ],
     "wof:id":370792085,
-    "wof:lastmodified":1449029818,
+    "wof:lastmodified":1454127529,
     "wof:name":"Alex Call",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529355,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "producer"
     ]
 },
-  "bbox": [-76.140985,43.010934,-76.140985,43.010934],
+  "bbox": [
+    -76.140985,
+    43.010934,
+    -76.140985,
+    43.010934
+],
   "geometry": {"coordinates":[-76.140985,43.010934],"type":"Point"}
 }

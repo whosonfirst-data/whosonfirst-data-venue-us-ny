@@ -2,13 +2,14 @@
   "id": 286506473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.801781,40.673135,-73.801781,40.673135",
     "geom:latitude":40.673135,
     "geom:longitude":-73.801781,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 Van Wyck Expy W",
     "sg:city":"South Ozone Park",
     "sg:classifiers":[
@@ -29,12 +30,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865645,
-        85865467
+        102082361,
+        85688543,
+        85865647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +48,32 @@
     "wof:geomhash":"7ea2c22baa1eba6c4dca8c60495395c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85865645,
+            "neighbourhood_id":85823673,
             "region_id":85688543,
             "venue_id":286506473
         },
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85865467,
+            "neighbourhood_id":85865647,
             "region_id":85688543,
             "venue_id":286506473
         }
     ],
     "wof:id":286506473,
-    "wof:lastmodified":1449015218,
+    "wof:lastmodified":1454125406,
     "wof:name":"Faith Mssion Alchol Crisis Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -75,6 +83,11 @@
         "center"
     ]
 },
-  "bbox": [-73.801781,40.673135,-73.801781,40.673135],
-  "geometry": {"coordinates":[-73.801781,40.673135],"type":"Point"}
+  "bbox": [
+    -73.801781,
+    40.673135,
+    -73.801781,
+    40.673135
+],
+  "geometry": {"coordinates":[-73.80178100000001,40.673135],"type":"Point"}
 }

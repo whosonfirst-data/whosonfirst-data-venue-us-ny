@@ -2,13 +2,14 @@
   "id": 320172911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.79505,40.800331,-72.79505,40.800331",
     "geom:latitude":40.800331,
     "geom:longitude":-72.79505,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"412 Montauk Hwy",
     "sg:city":"Center Moriches",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,18 @@
     "wof:geomhash":"149d13956b9de387b1cc1b6281bfeb8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":320172911
         }
     ],
     "wof:id":320172911,
-    "wof:lastmodified":1449012773,
+    "wof:lastmodified":1454125007,
     "wof:name":"East End Installations Inc",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "accessory"
     ]
 },
-  "bbox": [-72.79505,40.800331,-72.79505,40.800331],
+  "bbox": [
+    -72.79505,
+    40.800331,
+    -72.79505,
+    40.800331
+],
   "geometry": {"coordinates":[-72.79505,40.800331],"type":"Point"}
 }

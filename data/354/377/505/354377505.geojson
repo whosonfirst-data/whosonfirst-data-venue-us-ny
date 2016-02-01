@@ -2,13 +2,14 @@
   "id": 354377505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.021035,40.754304,-73.021035,40.754304",
     "geom:latitude":40.754304,
     "geom:longitude":-73.021035,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Riverview Ct",
     "sg:city":"Patchogue",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://www.weeksyachtyard.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840885,
+        102191575,
+        404521441,
         85633793,
         85978461,
         102082395,
-        85840885
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"8a71c6d07c5e86ad85b9b212f9c77706",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85978461,
             "neighbourhood_id":85840885,
             "region_id":85688543,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":354377505,
-    "wof:lastmodified":1449066556,
+    "wof:lastmodified":1454130962,
     "wof:name":"Week's Yacht Yard",
     "wof:parent_id":85840885,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-73.021035,40.754304,-73.021035,40.754304],
+  "bbox": [
+    -73.021035,
+    40.754304,
+    -73.021035,
+    40.754304
+],
   "geometry": {"coordinates":[-73.021035,40.754304],"type":"Point"}
 }

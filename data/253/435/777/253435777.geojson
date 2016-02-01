@@ -2,13 +2,14 @@
   "id": 253435777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.765697,40.927484,-72.765697,40.927484",
     "geom:latitude":40.927484,
     "geom:longitude":-72.765697,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3829 Middle Country Rd",
     "sg:city":"Calverton",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530021,
+        102191575,
+        404521441,
         85633793,
-        85979845,
-        102082395
+        85979761,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"f8d41e5942d4b5622a405c8b1f2df1a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979845,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979761,
+            "neighbourhood_id":420530021,
             "region_id":85688543,
             "venue_id":253435777
         }
     ],
     "wof:id":253435777,
-    "wof:lastmodified":1449065513,
+    "wof:lastmodified":1454130696,
     "wof:name":"Guillo Contracting Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530021,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-72.765697,40.927484,-72.765697,40.927484],
+  "bbox": [
+    -72.765697,
+    40.927484,
+    -72.765697,
+    40.927484
+],
   "geometry": {"coordinates":[-72.765697,40.927484],"type":"Point"}
 }

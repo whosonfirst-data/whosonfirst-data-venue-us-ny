@@ -2,13 +2,14 @@
   "id": 354105887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.989928,40.64386,-73.989928,40.64386",
     "geom:latitude":40.64386,
     "geom:longitude":-73.989928,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1011 38th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.asrny.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"7eb1864a85c032d643942e0a68947b80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":354105887
         }
     ],
     "wof:id":354105887,
-    "wof:lastmodified":1449066567,
+    "wof:lastmodified":1454130964,
     "wof:name":"American Ship Repair Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.989928,40.64386,-73.989928,40.64386],
-  "geometry": {"coordinates":[-73.989928,40.64386],"type":"Point"}
+  "bbox": [
+    -73.989928,
+    40.64386,
+    -73.989928,
+    40.64386
+],
+  "geometry": {"coordinates":[-73.98992800000001,40.64386],"type":"Point"}
 }

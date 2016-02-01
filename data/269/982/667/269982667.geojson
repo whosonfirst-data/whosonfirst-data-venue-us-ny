@@ -2,13 +2,14 @@
   "id": 269982667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.061916,40.7361,-73.061916,40.7361",
     "geom:latitude":40.7361,
     "geom:longitude":-73.061916,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"407 Middle Rd",
     "sg:city":"Bayport",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"0f00d95c885550ca20a9c594ab41265f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":269982667
         }
     ],
     "wof:id":269982667,
-    "wof:lastmodified":1449036542,
+    "wof:lastmodified":1454128521,
     "wof:name":"Maywood Holistic",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "physician"
     ]
 },
-  "bbox": [-73.061916,40.7361,-73.061916,40.7361],
+  "bbox": [
+    -73.061916,
+    40.7361,
+    -73.061916,
+    40.7361
+],
   "geometry": {"coordinates":[-73.061916,40.7361],"type":"Point"}
 }

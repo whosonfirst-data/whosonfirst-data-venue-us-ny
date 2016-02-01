@@ -2,13 +2,14 @@
   "id": 353687263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.773949,40.699804,-73.773949,40.699804",
     "geom:latitude":40.699804,
     "geom:longitude":-73.773949,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10407 180th St",
     "sg:city":"Jamaica",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846615,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85846615
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"514a7e3d325a0b13b455945f16283a68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85846615,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":353687263,
-    "wof:lastmodified":1449018985,
+    "wof:lastmodified":1454126163,
     "wof:name":"Jonathan Metal & Glass Ltd",
     "wof:parent_id":85846615,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "repair"
     ]
 },
-  "bbox": [-73.773949,40.699804,-73.773949,40.699804],
+  "bbox": [
+    -73.773949,
+    40.699804,
+    -73.773949,
+    40.699804
+],
   "geometry": {"coordinates":[-73.773949,40.699804],"type":"Point"}
 }

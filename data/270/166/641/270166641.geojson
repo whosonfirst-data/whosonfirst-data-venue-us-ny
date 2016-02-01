@@ -2,13 +2,14 @@
   "id": 270166641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.11014,40.564311,-74.11014,40.564311",
     "geom:latitude":40.564311,
     "geom:longitude":-74.11014,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Ebbitts St",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85839103,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"21507b175c96519a20e2395867143155",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85839103,
             "region_id":85688543,
             "venue_id":270166641
         }
     ],
     "wof:id":270166641,
-    "wof:lastmodified":1449010019,
+    "wof:lastmodified":1454124569,
     "wof:name":"Carico International",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839103,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "treatment"
     ]
 },
-  "bbox": [-74.11014,40.564311,-74.11014,40.564311],
+  "bbox": [
+    -74.11014,
+    40.564311,
+    -74.11014,
+    40.564311
+],
   "geometry": {"coordinates":[-74.11014,40.564311],"type":"Point"}
 }

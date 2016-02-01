@@ -2,13 +2,14 @@
   "id": 287042051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.810072,40.98689,-73.810072,40.98689",
     "geom:latitude":40.98689,
     "geom:longitude":-73.810072,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"80 Garth Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530443,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"dad0b4f859038c9900c7493d8335f94a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530443,
             "region_id":85688543,
             "venue_id":287042051
         }
     ],
     "wof:id":287042051,
-    "wof:lastmodified":1449001345,
+    "wof:lastmodified":1454123913,
     "wof:name":"Ellinghouse & Stacy Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530443,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.810072,40.98689,-73.810072,40.98689],
-  "geometry": {"coordinates":[-73.810072,40.98689],"type":"Point"}
+  "bbox": [
+    -73.810072,
+    40.98689,
+    -73.810072,
+    40.98689
+],
+  "geometry": {"coordinates":[-73.81007200000001,40.98689],"type":"Point"}
 }

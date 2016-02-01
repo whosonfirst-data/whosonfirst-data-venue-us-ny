@@ -2,13 +2,14 @@
   "id": 270430509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.856674,40.870195,-73.856674,40.870195",
     "geom:latitude":40.870195,
     "geom:longitude":-73.856674,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3010 Boston Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528059,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"27e3450d02e62a4a8d67ae9d0f5da1c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528059,
             "region_id":85688543,
             "venue_id":270430509
         }
     ],
     "wof:id":270430509,
-    "wof:lastmodified":1449010223,
+    "wof:lastmodified":1454124602,
     "wof:name":"Auto Stop Auto & Tire Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528059,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "automobile"
     ]
 },
-  "bbox": [-73.856674,40.870195,-73.856674,40.870195],
+  "bbox": [
+    -73.856674,
+    40.870195,
+    -73.856674,
+    40.870195
+],
   "geometry": {"coordinates":[-73.856674,40.870195],"type":"Point"}
 }

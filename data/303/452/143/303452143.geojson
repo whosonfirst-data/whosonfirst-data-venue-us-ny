@@ -2,13 +2,14 @@
   "id": 303452143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.483148,42.674414,-74.483148,42.674414",
     "geom:latitude":42.674414,
     "geom:longitude":-74.483148,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"41 S Grand St",
     "sg:city":"Cobleskill",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529925,
+        102191575,
+        404522527,
         85633793,
         85978335,
-        102083101
+        102083101,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"3da777f4447fc6d8a6bc9c3338f0ead3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083101,
+            "localadmin_id":404522527,
             "locality_id":85978335,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529925,
             "region_id":85688543,
             "venue_id":303452143
         }
     ],
     "wof:id":303452143,
-    "wof:lastmodified":1448998688,
+    "wof:lastmodified":1454123186,
     "wof:name":"Cornell Co Operative Ext Assn",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529925,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.483148,42.674414,-74.483148,42.674414],
+  "bbox": [
+    -74.483148,
+    42.674414,
+    -74.483148,
+    42.674414
+],
   "geometry": {"coordinates":[-74.483148,42.674414],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370855343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.919341,43.941346,-75.919341,43.941346",
     "geom:latitude":43.941346,
     "geom:longitude":-75.919341,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18943 US Route 11",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=2968&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826571,
+        102191575,
+        404521927,
         85633793,
-        85978073,
+        85979489,
         102082357,
-        85826571
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"80ff63279def4889da5c9390f14cc9b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082357,
-            "locality_id":85978073,
+            "localadmin_id":404521927,
+            "locality_id":85979489,
             "neighbourhood_id":85826571,
             "region_id":85688543,
             "venue_id":370855343
         }
     ],
     "wof:id":370855343,
-    "wof:lastmodified":1449031589,
+    "wof:lastmodified":1454128051,
     "wof:name":"Enterprise Rent-A-Car",
     "wof:parent_id":85826571,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "car"
     ]
 },
-  "bbox": [-75.919341,43.941346,-75.919341,43.941346],
+  "bbox": [
+    -75.919341,
+    43.941346,
+    -75.919341,
+    43.941346
+],
   "geometry": {"coordinates":[-75.919341,43.941346],"type":"Point"}
 }

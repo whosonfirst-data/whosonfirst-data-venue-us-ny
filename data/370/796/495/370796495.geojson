@@ -2,13 +2,14 @@
   "id": 370796495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.143163,43.081433,-76.143163,43.081433",
     "geom:latitude":43.081433,
     "geom:longitude":-76.143163,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"106 Harford Rd",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881259,
+        102191575,
+        404522845,
         85633793,
-        85977785,
+        85979211,
         102082351,
-        85881259
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"6869c0514ccb57b8afc83abe19737f61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
-            "locality_id":85977785,
+            "localadmin_id":404522845,
+            "locality_id":85979211,
             "neighbourhood_id":85881259,
             "region_id":85688543,
             "venue_id":370796495
         }
     ],
     "wof:id":370796495,
-    "wof:lastmodified":1449030689,
+    "wof:lastmodified":1454127786,
     "wof:name":"Little Italy Guided Tours",
     "wof:parent_id":85881259,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "tours-operators"
     ]
 },
-  "bbox": [-76.143163,43.081433,-76.143163,43.081433],
+  "bbox": [
+    -76.143163,
+    43.081433,
+    -76.143163,
+    43.081433
+],
   "geometry": {"coordinates":[-76.143163,43.081433],"type":"Point"}
 }

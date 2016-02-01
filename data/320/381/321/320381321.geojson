@@ -2,13 +2,14 @@
   "id": 320381321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.977227,40.784299,-73.977227,40.784299",
     "geom:latitude":40.784299,
     "geom:longitude":-73.977227,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"108 W 81 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853285,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85853285
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"f8c24fce96bac81b4fda6f9877fdf3de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853285,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":320381321,
-    "wof:lastmodified":1449011547,
+    "wof:lastmodified":1454124809,
     "wof:name":"American Express Travel Rltd",
     "wof:parent_id":85853285,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "bureau"
     ]
 },
-  "bbox": [-73.977227,40.784299,-73.977227,40.784299],
+  "bbox": [
+    -73.977227,
+    40.784299,
+    -73.977227,
+    40.784299
+],
   "geometry": {"coordinates":[-73.977227,40.784299],"type":"Point"}
 }

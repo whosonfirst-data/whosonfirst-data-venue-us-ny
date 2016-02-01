@@ -2,13 +2,14 @@
   "id": 370985477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.032376,41.150459,-74.032376,41.150459",
     "geom:latitude":41.150459,
     "geom:longitude":-74.032376,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"60 Old Schoolhouse Rd",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529791,
+        102191575,
+        404523097,
         85633793,
+        85978543,
+        102082385,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"03811658cee41a6cce9a291bbfcbce18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082385,
+            "localadmin_id":404523097,
+            "locality_id":85978543,
+            "neighbourhood_id":420529791,
             "region_id":85688543,
             "venue_id":370985477
         }
     ],
     "wof:id":370985477,
-    "wof:lastmodified":1449030760,
+    "wof:lastmodified":1454127805,
     "wof:name":"Twippy The Clown",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529791,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "clown"
     ]
 },
-  "bbox": [-74.032376,41.150459,-74.032376,41.150459],
+  "bbox": [
+    -74.032376,
+    41.150459,
+    -74.032376,
+    41.150459
+],
   "geometry": {"coordinates":[-74.032376,41.150459],"type":"Point"}
 }

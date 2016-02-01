@@ -2,13 +2,14 @@
   "id": 353856035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.614764,40.679446,-73.614764,40.679446",
     "geom:latitude":40.679446,
     "geom:longitude":-73.614764,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1235 Grand Ave",
     "sg:city":"North Baldwin",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     "sg:website":"www.blockbuster.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529133,
+        102191575,
+        404521473,
         85633793,
         85979173,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"b3bc9d69246daae66a4bb3c344358c3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979173,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529133,
             "region_id":85688543,
             "venue_id":353856035
         }
     ],
     "wof:id":353856035,
-    "wof:lastmodified":1449018997,
+    "wof:lastmodified":1454126167,
     "wof:name":"Blockbuster Video",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529133,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "tape"
     ]
 },
-  "bbox": [-73.614764,40.679446,-73.614764,40.679446],
-  "geometry": {"coordinates":[-73.614764,40.679446],"type":"Point"}
+  "bbox": [
+    -73.614764,
+    40.679446,
+    -73.614764,
+    40.679446
+],
+  "geometry": {"coordinates":[-73.61476399999999,40.679446],"type":"Point"}
 }

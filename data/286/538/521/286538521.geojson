@@ -2,13 +2,14 @@
   "id": 286538521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.999048,40.944211,-72.999048,40.944211",
     "geom:latitude":40.944211,
     "geom:longitude":-72.999048,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"41 Echo Ave",
     "sg:city":"Miller Place",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85813109,
+        102191575,
+        404521441,
         85633793,
         85978457,
         102082395,
-        85813109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"2168791afee10f4a508747be4ab71b7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85978457,
             "neighbourhood_id":85813109,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":286538521,
-    "wof:lastmodified":1449015542,
+    "wof:lastmodified":1454125464,
     "wof:name":"Miller Place Physical Therapy",
     "wof:parent_id":85813109,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "physical"
     ]
 },
-  "bbox": [-72.999048,40.944211,-72.999048,40.944211],
+  "bbox": [
+    -72.999048,
+    40.944211,
+    -72.999048,
+    40.944211
+],
   "geometry": {"coordinates":[-72.999048,40.944211],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304060119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.834158,40.846999,-73.834158,40.846999",
     "geom:latitude":40.846999,
     "geom:longitude":-73.834158,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1720 Mayflower Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865663,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865663
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"25900ea039f198af9295b6e014de0cbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865663,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":304060119,
-    "wof:lastmodified":1449044111,
+    "wof:lastmodified":1454129033,
     "wof:name":"Building Transportation A",
     "wof:parent_id":85865663,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.834158,40.846999,-73.834158,40.846999],
+  "bbox": [
+    -73.834158,
+    40.846999,
+    -73.834158,
+    40.846999
+],
   "geometry": {"coordinates":[-73.834158,40.846999],"type":"Point"}
 }

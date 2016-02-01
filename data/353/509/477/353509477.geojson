@@ -2,13 +2,14 @@
   "id": 353509477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993939,40.72857,-73.993939,40.72857",
     "geom:latitude":40.72857,
     "geom:longitude":-73.993939,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"708 Broadway",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529189,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"ae3bf77d10b1f056a57401e1006cbb5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529189,
             "region_id":85688543,
             "venue_id":353509477
         }
     ],
     "wof:id":353509477,
-    "wof:lastmodified":1449018340,
+    "wof:lastmodified":1454125974,
     "wof:name":"Workman Publishing Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529189,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "pu"
     ]
 },
-  "bbox": [-73.993939,40.72857,-73.993939,40.72857],
+  "bbox": [
+    -73.993939,
+    40.72857,
+    -73.993939,
+    40.72857
+],
   "geometry": {"coordinates":[-73.993939,40.72857],"type":"Point"}
 }

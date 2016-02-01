@@ -2,13 +2,14 @@
   "id": 303158549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.823896,42.845995,-78.823896,42.845995",
     "geom:latitude":42.845995,
     "geom:longitude":-78.823896,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Crystal Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528557,
+        102191575,
+        404522329,
         85633793,
         85978023,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"cb585f944eb1272ede9fabf4d0423dc0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528557,
             "region_id":85688543,
             "venue_id":303158549
         }
     ],
     "wof:id":303158549,
-    "wof:lastmodified":1448999748,
+    "wof:lastmodified":1454123499,
     "wof:name":"Pet Spa",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528557,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "washing"
     ]
 },
-  "bbox": [-78.823896,42.845995,-78.823896,42.845995],
+  "bbox": [
+    -78.823896,
+    42.845995,
+    -78.823896,
+    42.845995
+],
   "geometry": {"coordinates":[-78.823896,42.845995],"type":"Point"}
 }

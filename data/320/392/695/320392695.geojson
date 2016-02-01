@@ -2,13 +2,14 @@
   "id": 320392695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.860148,41.087224,-73.860148,41.087224",
     "geom:latitude":41.087224,
     "geom:longitude":-73.860148,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"347 N Broadway",
     "sg:city":"Sleepy Hollow",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893043,
+        102191575,
+        404523367,
         85633793,
         85978713,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"2770846af760cf0612c77ef4fea4febc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523367,
             "locality_id":85978713,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85893043,
             "region_id":85688543,
             "venue_id":320392695
         }
     ],
     "wof:id":320392695,
-    "wof:lastmodified":1449014225,
+    "wof:lastmodified":1454125244,
     "wof:name":"Enterprise Rent A Car",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893043,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "automobile"
     ]
 },
-  "bbox": [-73.860148,41.087224,-73.860148,41.087224],
+  "bbox": [
+    -73.860148,
+    41.087224,
+    -73.860148,
+    41.087224
+],
   "geometry": {"coordinates":[-73.860148,41.087224],"type":"Point"}
 }

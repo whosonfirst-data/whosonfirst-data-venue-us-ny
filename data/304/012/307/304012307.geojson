@@ -2,13 +2,14 @@
   "id": 304012307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.92996,41.285943,-73.92996,41.285943",
     "geom:latitude":41.285943,
     "geom:longitude":-73.92996,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"52 Hudson Ave",
     "sg:city":"Peekskill",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892981,
+        102191575,
+        404523381,
         85633793,
         85978715,
         102082373,
-        85892981
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"f539da0c621e312d78f05548144ff9cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523381,
             "locality_id":85978715,
             "neighbourhood_id":85892981,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":304012307,
-    "wof:lastmodified":1449044096,
+    "wof:lastmodified":1454129032,
     "wof:name":"Hudson Valley Fire & Safety",
     "wof:parent_id":85892981,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "extinguisher"
     ]
 },
-  "bbox": [-73.92996,41.285943,-73.92996,41.285943],
-  "geometry": {"coordinates":[-73.92996,41.285943],"type":"Point"}
+  "bbox": [
+    -73.92996,
+    41.285943,
+    -73.92996,
+    41.285943
+],
+  "geometry": {"coordinates":[-73.92995999999999,41.285943],"type":"Point"}
 }

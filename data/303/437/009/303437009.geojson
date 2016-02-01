@@ -2,13 +2,14 @@
   "id": 303437009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.63617,42.771587,-73.63617,42.771587",
     "geom:latitude":42.771587,
     "geom:longitude":-73.63617,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"222 Bellview Rd",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85811543,
+        102081773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,17 @@
     "wof:geomhash":"07a68c15d65d1ce5f8377dec87479f6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081773,
+            "neighbourhood_id":85811543,
             "region_id":85688543,
             "venue_id":303437009
         }
     ],
     "wof:id":303437009,
-    "wof:lastmodified":1448999888,
+    "wof:lastmodified":1454123536,
     "wof:name":"Bald Mountain Lab",
-    "wof:parent_id":-1,
+    "wof:parent_id":85811543,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +63,11 @@
         "communication"
     ]
 },
-  "bbox": [-73.63617,42.771587,-73.63617,42.771587],
-  "geometry": {"coordinates":[-73.63617,42.771587],"type":"Point"}
+  "bbox": [
+    -73.63617,
+    42.771587,
+    -73.63617,
+    42.771587
+],
+  "geometry": {"coordinates":[-73.63617000000001,42.771587],"type":"Point"}
 }

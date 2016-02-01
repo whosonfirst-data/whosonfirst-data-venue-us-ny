@@ -2,13 +2,14 @@
   "id": 371138461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.811065,40.984607,-73.811065,40.984607",
     "geom:latitude":40.984607,
     "geom:longitude":-73.811065,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"143 Garth Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530443,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"e0654c8f3dc2d2be8eb495be5338877b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530443,
             "region_id":85688543,
             "venue_id":371138461
         }
     ],
     "wof:id":371138461,
-    "wof:lastmodified":1449049300,
+    "wof:lastmodified":1454129099,
     "wof:name":"Nighthawk Communications",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530443,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-73.811065,40.984607,-73.811065,40.984607],
+  "bbox": [
+    -73.811065,
+    40.984607,
+    -73.811065,
+    40.984607
+],
   "geometry": {"coordinates":[-73.811065,40.984607],"type":"Point"}
 }

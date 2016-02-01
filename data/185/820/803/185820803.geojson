@@ -2,13 +2,14 @@
   "id": 185820803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.019547,40.639671,-74.019547,40.639671",
     "geom:latitude":40.639671,
     "geom:longitude":-74.019547,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6201 4th Ave # 23",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -48,11 +49,13 @@
     "sg:website":"http://www.riteaid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851575,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85851575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,9 +65,10 @@
     "wof:geomhash":"bc82fd312009673184cc8f045f5a2832",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85851575,
             "region_id":85688543,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":185820803,
-    "wof:lastmodified":1449007465,
+    "wof:lastmodified":1454124256,
     "wof:name":"Rite Aid",
     "wof:parent_id":85851575,
     "wof:placetype":"venue",
@@ -87,6 +91,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-74.019547,40.639671,-74.019547,40.639671],
+  "bbox": [
+    -74.019547,
+    40.639671,
+    -74.019547,
+    40.639671
+],
   "geometry": {"coordinates":[-74.019547,40.639671],"type":"Point"}
 }

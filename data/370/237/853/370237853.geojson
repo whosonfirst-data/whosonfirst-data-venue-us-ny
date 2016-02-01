@@ -2,13 +2,14 @@
   "id": 370237853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.502167,40.822151,-73.502167,40.822151",
     "geom:latitude":40.822151,
     "geom:longitude":-73.502167,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"137 Jackson Ave",
     "sg:city":"Syosset",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893029,
+        102191575,
+        404521475,
         85633793,
         85979075,
         102082371,
-        85893029
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"dca524ba34bf45b4ebc50dbce1453aca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979075,
             "neighbourhood_id":85893029,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":370237853,
-    "wof:lastmodified":1449029150,
+    "wof:lastmodified":1454127333,
     "wof:name":"Wachovia Bank",
     "wof:parent_id":85893029,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-73.502167,40.822151,-73.502167,40.822151],
+  "bbox": [
+    -73.502167,
+    40.822151,
+    -73.502167,
+    40.822151
+],
   "geometry": {"coordinates":[-73.502167,40.822151],"type":"Point"}
 }

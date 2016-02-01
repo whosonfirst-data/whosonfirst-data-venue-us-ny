@@ -2,13 +2,14 @@
   "id": 336602945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.68865,40.837228,-73.68865,40.837228",
     "geom:latitude":40.837228,
     "geom:longitude":-73.68865,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Linda Rd",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529161,
+        102191575,
+        404522729,
         85633793,
         85979185,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"38c47fe68207d7e6e6f22ebffc2fef4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979185,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529161,
             "region_id":85688543,
             "venue_id":336602945
         }
     ],
     "wof:id":336602945,
-    "wof:lastmodified":1448997455,
+    "wof:lastmodified":1454122778,
     "wof:name":"Studio Moda International Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529161,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "fabric"
     ]
 },
-  "bbox": [-73.68865,40.837228,-73.68865,40.837228],
+  "bbox": [
+    -73.68865,
+    40.837228,
+    -73.68865,
+    40.837228
+],
   "geometry": {"coordinates":[-73.68865,40.837228],"type":"Point"}
 }

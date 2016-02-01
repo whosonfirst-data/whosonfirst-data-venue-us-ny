@@ -2,13 +2,14 @@
   "id": 370357289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.646651,40.833864,-72.646651,40.833864",
     "geom:latitude":40.833864,
     "geom:longitude":-72.646651,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"365 County Rd Ste 39A",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -27,7 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102526981,
         85688543,
+        102191575,
+        404522671,
         85633793,
         85979877,
         102082395
@@ -40,19 +44,20 @@
     "wof:geomhash":"f9de32ee78d701b80af5e28a8f1de873",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102526981,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522671,
             "locality_id":85979877,
-            "neighbourhood_id":-1,
             "region_id":85688543,
             "venue_id":370357289
         }
     ],
     "wof:id":370357289,
-    "wof:lastmodified":1449032062,
+    "wof:lastmodified":1454128190,
     "wof:name":"Dr Karen Langone",
-    "wof:parent_id":-1,
+    "wof:parent_id":102526981,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "podiatrist"
     ]
 },
-  "bbox": [-72.646651,40.833864,-72.646651,40.833864],
-  "geometry": {"coordinates":[-72.646651,40.833864],"type":"Point"}
+  "bbox": [
+    -72.646651,
+    40.833864,
+    -72.646651,
+    40.833864
+],
+  "geometry": {"coordinates":[-72.64665100000001,40.833864],"type":"Point"}
 }

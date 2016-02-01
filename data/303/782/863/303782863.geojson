@@ -2,13 +2,14 @@
   "id": 303782863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.696938,43.120363,-78.696938,43.120363",
     "geom:latitude":43.120363,
     "geom:longitude":-78.696938,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6400 S Transit Rd",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529193,
+        102191575,
+        404522737,
         85633793,
+        85979541,
+        102081767,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"82bb67ea07c6b200eb906e9ae9057b55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081767,
+            "localadmin_id":404522737,
+            "locality_id":85979541,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":303782863
         }
     ],
     "wof:id":303782863,
-    "wof:lastmodified":1448998105,
+    "wof:lastmodified":1454122982,
     "wof:name":"South Niagra Auto Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "automobile"
     ]
 },
-  "bbox": [-78.696938,43.120363,-78.696938,43.120363],
+  "bbox": [
+    -78.696938,
+    43.120363,
+    -78.696938,
+    43.120363
+],
   "geometry": {"coordinates":[-78.696938,43.120363],"type":"Point"}
 }

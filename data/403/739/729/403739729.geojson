@@ -2,13 +2,14 @@
   "id": 403739729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.108588,41.343677,-74.108588,41.343677",
     "geom:latitude":41.343677,
     "geom:longitude":-74.108588,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Pearce Dr",
     "sg:city":"Highland Mills",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529451,
+        102191575,
+        404522927,
         85633793,
         85978219,
-        102083061
+        102083061,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"f5d5a9378c1ad68fdb5171734c57ba1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
+            "localadmin_id":404522927,
             "locality_id":85978219,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529451,
             "region_id":85688543,
             "venue_id":403739729
         }
     ],
     "wof:id":403739729,
-    "wof:lastmodified":1449055192,
+    "wof:lastmodified":1454129401,
     "wof:name":"Keep Sales & Marketing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529451,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [-74.108588,41.343677,-74.108588,41.343677],
+  "bbox": [
+    -74.108588,
+    41.343677,
+    -74.108588,
+    41.343677
+],
   "geometry": {"coordinates":[-74.108588,41.343677],"type":"Point"}
 }

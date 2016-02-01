@@ -2,13 +2,14 @@
   "id": 303983907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.729317,40.777632,-73.729317,40.777632",
     "geom:latitude":40.777632,
     "geom:longitude":-73.729317,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"76 Tobin Ave",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85815033,
+        102191575,
+        404522729,
         85633793,
-        85977539,
-        102082377,
-        85815033
+        85977649,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"16aaba67869141b8176fc24811203fda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404522729,
+            "locality_id":85977649,
             "neighbourhood_id":85815033,
             "region_id":85688543,
             "venue_id":303983907
         }
     ],
     "wof:id":303983907,
-    "wof:lastmodified":1449000362,
+    "wof:lastmodified":1454123669,
     "wof:name":"Wendy Almeleh Editor",
     "wof:parent_id":85815033,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.729317,40.777632,-73.729317,40.777632],
-  "geometry": {"coordinates":[-73.729317,40.777632],"type":"Point"}
+  "bbox": [
+    -73.729317,
+    40.777632,
+    -73.729317,
+    40.777632
+],
+  "geometry": {"coordinates":[-73.72931699999999,40.777632],"type":"Point"}
 }

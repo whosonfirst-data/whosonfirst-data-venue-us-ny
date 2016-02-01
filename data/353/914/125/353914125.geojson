@@ -2,13 +2,14 @@
   "id": 353914125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.556839,40.67506,-73.556839,40.67506",
     "geom:latitude":40.67506,
     "geom:longitude":-73.556839,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1776 Merrick Ave",
     "sg:city":"Merrick",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313867488&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529153,
+        102191575,
+        404521473,
         85633793,
-        85979125,
-        102082371
+        85979047,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"908a72091da9ef59c0111fa668c1aeb4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979125,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979047,
+            "neighbourhood_id":420529153,
             "region_id":85688543,
             "venue_id":353914125
         }
     ],
     "wof:id":353914125,
-    "wof:lastmodified":1449019237,
+    "wof:lastmodified":1454126234,
     "wof:name":"Holms Service Station",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529153,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +75,11 @@
         "truck"
     ]
 },
-  "bbox": [-73.556839,40.67506,-73.556839,40.67506],
+  "bbox": [
+    -73.556839,
+    40.67506,
+    -73.556839,
+    40.67506
+],
   "geometry": {"coordinates":[-73.556839,40.67506],"type":"Point"}
 }

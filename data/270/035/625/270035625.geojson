@@ -2,13 +2,14 @@
   "id": 270035625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.776174,41.019898,-73.776174,41.019898",
     "geom:latitude":41.019898,
     "geom:longitude":-73.776174,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"233 W Post Rd",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530469,
+        102191575,
+        404523395,
         85633793,
         85978761,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"a2b3b1e83d2424d70d220ceb3b6fe05e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523395,
             "locality_id":85978761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530469,
             "region_id":85688543,
             "venue_id":270035625
         }
     ],
     "wof:id":270035625,
-    "wof:lastmodified":1449010599,
+    "wof:lastmodified":1454124659,
     "wof:name":"Heart & Soul Success Consltng",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530469,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "counseling"
     ]
 },
-  "bbox": [-73.776174,41.019898,-73.776174,41.019898],
+  "bbox": [
+    -73.776174,
+    41.019898,
+    -73.776174,
+    41.019898
+],
   "geometry": {"coordinates":[-73.776174,41.019898],"type":"Point"}
 }

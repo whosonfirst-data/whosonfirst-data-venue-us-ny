@@ -2,13 +2,14 @@
   "id": 370241121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.846153,40.946983,-72.846153,40.946983",
     "geom:latitude":40.946983,
     "geom:longitude":-72.846153,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"63 Overhill Rd",
     "sg:city":"Wading River",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979901,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"5698e981fa3452235ae6c892d029706b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979901,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":370241121
         }
     ],
     "wof:id":370241121,
-    "wof:lastmodified":1449032377,
+    "wof:lastmodified":1454128287,
     "wof:name":"Goodfella's Detailing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "detailing"
     ]
 },
-  "bbox": [-72.846153,40.946983,-72.846153,40.946983],
+  "bbox": [
+    -72.846153,
+    40.946983,
+    -72.846153,
+    40.946983
+],
   "geometry": {"coordinates":[-72.846153,40.946983],"type":"Point"}
 }

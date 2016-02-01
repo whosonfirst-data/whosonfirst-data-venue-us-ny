@@ -2,13 +2,14 @@
   "id": 320263003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.167549,43.07216,-76.167549,43.07216",
     "geom:latitude":43.07216,
     "geom:longitude":-76.167549,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2085 Park St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881247,
+        102191575,
+        404522851,
         85633793,
+        85977785,
         102082351,
-        85881247
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +47,18 @@
     "wof:geomhash":"3d34a2da90affc7721b0b702a301f169",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
-            "locality_id":-1,
+            "localadmin_id":404522851,
+            "locality_id":85977785,
             "neighbourhood_id":85881247,
             "region_id":85688543,
             "venue_id":320263003
         }
     ],
     "wof:id":320263003,
-    "wof:lastmodified":1449014852,
+    "wof:lastmodified":1454125346,
     "wof:name":"Tru Line Collision",
     "wof:parent_id":85881247,
     "wof:placetype":"venue",
@@ -66,6 +71,11 @@
         "general"
     ]
 },
-  "bbox": [-76.167549,43.07216,-76.167549,43.07216],
-  "geometry": {"coordinates":[-76.167549,43.07216],"type":"Point"}
+  "bbox": [
+    -76.167549,
+    43.07216,
+    -76.167549,
+    43.07216
+],
+  "geometry": {"coordinates":[-76.16754899999999,43.07216],"type":"Point"}
 }

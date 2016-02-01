@@ -2,13 +2,14 @@
   "id": 386994547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.548913,43.173367,-77.548913,43.173367",
     "geom:latitude":43.173367,
     "geom:longitude":-77.548913,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"545 Westchester Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868843,
+        102191575,
+        404522639,
         85633793,
-        85977591,
+        85979035,
         102081815,
-        85868843
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"fd3e585981bc85185eb1457383593d05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85977591,
+            "localadmin_id":404522639,
+            "locality_id":85979035,
             "neighbourhood_id":85868843,
             "region_id":85688543,
             "venue_id":386994547
         }
     ],
     "wof:id":386994547,
-    "wof:lastmodified":1449028635,
+    "wof:lastmodified":1454127194,
     "wof:name":"Silva Illustration",
     "wof:parent_id":85868843,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "artist"
     ]
 },
-  "bbox": [-77.548913,43.173367,-77.548913,43.173367],
+  "bbox": [
+    -77.548913,
+    43.173367,
+    -77.548913,
+    43.173367
+],
   "geometry": {"coordinates":[-77.548913,43.173367],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253233701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.899311,42.83266,-77.899311,42.83266",
     "geom:latitude":42.83266,
     "geom:longitude":-77.899311,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2488 Virginia Ave",
     "sg:city":"Piffard",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823187,
+        102191575,
+        404522005,
         85633793,
+        85979581,
         102082381,
-        85823187
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"9e4dd29d375a98f69bf27145802ad720",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082381,
-            "locality_id":-1,
+            "localadmin_id":404522005,
+            "locality_id":85979581,
             "neighbourhood_id":85823187,
             "region_id":85688543,
             "venue_id":253233701
         }
     ],
     "wof:id":253233701,
-    "wof:lastmodified":1449065849,
+    "wof:lastmodified":1454130753,
     "wof:name":"All-American Limousine",
     "wof:parent_id":85823187,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "limousine"
     ]
 },
-  "bbox": [-77.899311,42.83266,-77.899311,42.83266],
+  "bbox": [
+    -77.899311,
+    42.83266,
+    -77.899311,
+    42.83266
+],
   "geometry": {"coordinates":[-77.899311,42.83266],"type":"Point"}
 }

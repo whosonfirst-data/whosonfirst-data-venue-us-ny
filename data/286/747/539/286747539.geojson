@@ -2,13 +2,14 @@
   "id": 286747539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.272377,40.84524,-73.272377,40.84524",
     "geom:latitude":40.84524,
     "geom:longitude":-73.272377,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2171 Jericho Tpke",
     "sg:city":"Commack",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530035,
+        102191575,
+        404522669,
         85633793,
         85979805,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"7468678ac9bcada28b7d593ca6ce2be8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979805,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530035,
             "region_id":85688543,
             "venue_id":286747539
         }
     ],
     "wof:id":286747539,
-    "wof:lastmodified":1449015700,
+    "wof:lastmodified":1454125490,
     "wof:name":"P Caricola Asphalt Paving",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530035,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.272377,40.84524,-73.272377,40.84524],
-  "geometry": {"coordinates":[-73.272377,40.84524],"type":"Point"}
+  "bbox": [
+    -73.272377,
+    40.84524,
+    -73.272377,
+    40.84524
+],
+  "geometry": {"coordinates":[-73.27237700000001,40.84524],"type":"Point"}
 }

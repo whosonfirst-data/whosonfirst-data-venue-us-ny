@@ -2,13 +2,14 @@
   "id": 320130633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.82363,40.961797,-73.82363,40.961797",
     "geom:latitude":40.961797,
     "geom:longitude":-73.82363,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Thompson St",
     "sg:city":"Tuckahoe",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893047,
+        102191575,
+        404523357,
         85633793,
-        85978759,
+        85978763,
         102082373,
-        85812935
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +44,20 @@
     "wof:geomhash":"e64106d741f800eac72cc2bff25ed3fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978759,
-            "neighbourhood_id":85812935,
+            "localadmin_id":404523357,
+            "locality_id":85978763,
+            "neighbourhood_id":85893047,
             "region_id":85688543,
             "venue_id":320130633
         }
     ],
     "wof:id":320130633,
-    "wof:lastmodified":1449012562,
+    "wof:lastmodified":1454124973,
     "wof:name":"Westchester County Parks & Rec",
-    "wof:parent_id":85812935,
+    "wof:parent_id":85893047,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +65,11 @@
         "parks"
     ]
 },
-  "bbox": [-73.82363,40.961797,-73.82363,40.961797],
-  "geometry": {"coordinates":[-73.82363,40.961797],"type":"Point"}
+  "bbox": [
+    -73.82363,
+    40.961797,
+    -73.82363,
+    40.961797
+],
+  "geometry": {"coordinates":[-73.82362999999999,40.961797],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404120001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.884754,40.851586,-73.884754,40.851586",
     "geom:latitude":40.851586,
     "geom:longitude":-73.884754,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2260 Crotona Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865533,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865533
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"be96278335f4090c28cd81e305ee4acb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865533,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":404120001,
-    "wof:lastmodified":1449040147,
+    "wof:lastmodified":1454128946,
     "wof:name":"Trabajamos Community Headstart",
     "wof:parent_id":85865533,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.884754,40.851586,-73.884754,40.851586],
+  "bbox": [
+    -73.884754,
+    40.851586,
+    -73.884754,
+    40.851586
+],
   "geometry": {"coordinates":[-73.884754,40.851586],"type":"Point"}
 }

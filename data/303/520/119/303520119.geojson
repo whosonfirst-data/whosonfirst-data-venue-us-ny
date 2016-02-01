@@ -2,13 +2,14 @@
   "id": 303520119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.39536,40.953554,-73.39536,40.953554",
     "geom:latitude":40.953554,
     "geom:longitude":-73.39536,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"201 Lighthouse Rd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826545,
+        102191575,
+        404522515,
         85633793,
-        85979823,
+        85978425,
         102082395,
-        85826545
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"7849f68228cecc7709c3a3763df074c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979823,
+            "localadmin_id":404522515,
+            "locality_id":85978425,
             "neighbourhood_id":85826545,
             "region_id":85688543,
             "venue_id":303520119
         }
     ],
     "wof:id":303520119,
-    "wof:lastmodified":1448998924,
+    "wof:lastmodified":1454123270,
     "wof:name":"Sandpiper Farm Riding Sch Inc",
     "wof:parent_id":85826545,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.39536,40.953554,-73.39536,40.953554],
+  "bbox": [
+    -73.39536,
+    40.953554,
+    -73.39536,
+    40.953554
+],
   "geometry": {"coordinates":[-73.39536,40.953554],"type":"Point"}
 }

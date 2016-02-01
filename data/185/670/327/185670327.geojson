@@ -2,13 +2,14 @@
   "id": 185670327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.980993,40.675699,-73.980993,40.675699",
     "geom:latitude":40.675699,
     "geom:longitude":-73.980993,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"232 5th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.scaredykatstore.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840609,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85840609
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"eac38d6ad496991f75a3984783a9f8cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85840609,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":185670327,
-    "wof:lastmodified":1449006848,
+    "wof:lastmodified":1454124173,
     "wof:name":"Scaredy Kat",
     "wof:parent_id":85840609,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "card"
     ]
 },
-  "bbox": [-73.980993,40.675699,-73.980993,40.675699],
+  "bbox": [
+    -73.980993,
+    40.675699,
+    -73.980993,
+    40.675699
+],
   "geometry": {"coordinates":[-73.980993,40.675699],"type":"Point"}
 }

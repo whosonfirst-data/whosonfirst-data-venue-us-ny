@@ -2,13 +2,14 @@
   "id": 354171055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.380721,43.047069,-74.380721,43.047069",
     "geom:latitude":43.047069,
     "geom:longitude":-74.380721,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"246 Co Rd 122",
     "sg:city":"Johnstown",
     "sg:classifiers":[
@@ -33,8 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85978043,
+        102081813,
+        85828417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,18 @@
     "wof:geomhash":"c0d1c8ceec5da7dec21647f1267c2193",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081813,
+            "locality_id":85978043,
+            "neighbourhood_id":85828417,
             "region_id":85688543,
             "venue_id":354171055
         }
     ],
     "wof:id":354171055,
-    "wof:lastmodified":1449067673,
+    "wof:lastmodified":1454131308,
     "wof:name":"Maple Avenue Yard Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85828417,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +68,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-74.380721,43.047069,-74.380721,43.047069],
-  "geometry": {"coordinates":[-74.380721,43.047069],"type":"Point"}
+  "bbox": [
+    -74.380721,
+    43.047069,
+    -74.380721,
+    43.047069
+],
+  "geometry": {"coordinates":[-74.38072099999999,43.047069],"type":"Point"}
 }

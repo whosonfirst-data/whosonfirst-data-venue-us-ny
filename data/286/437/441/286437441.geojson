@@ -2,13 +2,14 @@
   "id": 286437441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.838173,40.912628,-73.838173,40.912628",
     "geom:latitude":40.912628,
     "geom:longitude":-73.838173,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 W Prospect Ave",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"bc051aa17b749e3c619e5c2e2bd17733",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":286437441
         }
     ],
     "wof:id":286437441,
-    "wof:lastmodified":1449017309,
+    "wof:lastmodified":1454125772,
     "wof:name":"All Metro Health Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.838173,40.912628,-73.838173,40.912628],
+  "bbox": [
+    -73.838173,
+    40.912628,
+    -73.838173,
+    40.912628
+],
   "geometry": {"coordinates":[-73.838173,40.912628],"type":"Point"}
 }

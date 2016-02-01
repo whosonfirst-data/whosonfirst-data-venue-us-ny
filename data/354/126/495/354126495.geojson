@@ -2,13 +2,14 @@
   "id": 354126495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.065199,40.616613,-74.065199,40.616613",
     "geom:latitude":40.616613,
     "geom:longitude":-74.065199,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Edgewater St",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845943,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85845943
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"7ab26c20b42d3866a5d7b7c95a2ed7c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85845943,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":354126495,
-    "wof:lastmodified":1449066543,
+    "wof:lastmodified":1454130957,
     "wof:name":"Reynolds Shipyard Corp",
     "wof:parent_id":85845943,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "repairer"
     ]
 },
-  "bbox": [-74.065199,40.616613,-74.065199,40.616613],
-  "geometry": {"coordinates":[-74.065199,40.616613],"type":"Point"}
+  "bbox": [
+    -74.065199,
+    40.616613,
+    -74.065199,
+    40.616613
+],
+  "geometry": {"coordinates":[-74.06519900000001,40.616613],"type":"Point"}
 }

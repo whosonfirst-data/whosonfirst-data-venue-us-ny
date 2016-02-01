@@ -2,13 +2,14 @@
   "id": 286842883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.313966,43.072041,-75.313966,43.072041",
     "geom:latitude":43.072041,
     "geom:longitude":-75.313966,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Hilltop Ter",
     "sg:city":"New Hartford",
     "sg:classifiers":[
@@ -24,8 +25,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85810991,
+        102083149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +38,27 @@
     "wof:geomhash":"31126640ff0a25f85c28d793f6f32bee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083149,
+            "neighbourhood_id":85810991,
             "region_id":85688543,
             "venue_id":286842883
         }
     ],
     "wof:id":286842883,
-    "wof:lastmodified":1449015391,
+    "wof:lastmodified":1454125438,
     "wof:name":"Personal Postal",
-    "wof:parent_id":-1,
+    "wof:parent_id":85810991,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.313966,43.072041,-75.313966,43.072041],
-  "geometry": {"coordinates":[-75.313966,43.072041],"type":"Point"}
+  "bbox": [
+    -75.313966,
+    43.072041,
+    -75.313966,
+    43.072041
+],
+  "geometry": {"coordinates":[-75.31396599999999,43.072041],"type":"Point"}
 }

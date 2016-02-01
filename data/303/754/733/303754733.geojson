@@ -2,13 +2,14 @@
   "id": 303754733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.635123,40.857043,-73.635123,40.857043",
     "geom:latitude":40.857043,
     "geom:longitude":-73.635123,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"95 Glen Cove Ave",
     "sg:city":"Glen Cove",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85977671,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"7dd2efeb08b240e433b605befbcec9a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977671,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":303754733
         }
     ],
     "wof:id":303754733,
-    "wof:lastmodified":1448999719,
+    "wof:lastmodified":1454123490,
     "wof:name":"European Car Buyers Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "consultant"
     ]
 },
-  "bbox": [-73.635123,40.857043,-73.635123,40.857043],
-  "geometry": {"coordinates":[-73.635123,40.857043],"type":"Point"}
+  "bbox": [
+    -73.635123,
+    40.857043,
+    -73.635123,
+    40.857043
+],
+  "geometry": {"coordinates":[-73.63512299999999,40.857043],"type":"Point"}
 }

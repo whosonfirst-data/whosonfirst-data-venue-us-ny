@@ -2,13 +2,14 @@
   "id": 404087583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.970383,40.695899,-73.970383,40.695899",
     "geom:latitude":40.695899,
     "geom:longitude":-73.970383,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"52 Vanderbilt Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820101,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"9a009776654046b0085ecf25e1e03c4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85820101,
             "region_id":85688543,
             "venue_id":404087583
         }
     ],
     "wof:id":404087583,
-    "wof:lastmodified":1449039568,
+    "wof:lastmodified":1454128886,
     "wof:name":"David Commender",
-    "wof:parent_id":-1,
+    "wof:parent_id":85820101,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.970383,40.695899,-73.970383,40.695899],
+  "bbox": [
+    -73.970383,
+    40.695899,
+    -73.970383,
+    40.695899
+],
   "geometry": {"coordinates":[-73.970383,40.695899],"type":"Point"}
 }

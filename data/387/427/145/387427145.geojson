@@ -2,13 +2,14 @@
   "id": 387427145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.7267,41.66045,-73.7267,41.66045",
     "geom:latitude":41.66045,
     "geom:longitude":-73.7267,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"72 S Parliman Rd",
     "sg:city":"Lagrangeville",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85811473,
+        102082363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,17 @@
     "wof:geomhash":"4c2cb62458e2a0b5c3969efb65ddc789",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "neighbourhood_id":85811473,
             "region_id":85688543,
             "venue_id":387427145
         }
     ],
     "wof:id":387427145,
-    "wof:lastmodified":1449057241,
+    "wof:lastmodified":1454129731,
     "wof:name":"Doughty Plumbing & Heating Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85811473,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.7267,41.66045,-73.7267,41.66045],
-  "geometry": {"coordinates":[-73.7267,41.66045],"type":"Point"}
+  "bbox": [
+    -73.7267,
+    41.66045,
+    -73.7267,
+    41.66045
+],
+  "geometry": {"coordinates":[-73.72669999999999,41.66045],"type":"Point"}
 }

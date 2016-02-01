@@ -2,13 +2,14 @@
   "id": 320307037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.663209,41.26831,-73.663209,41.26831",
     "geom:latitude":41.26831,
     "geom:longitude":-73.663209,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"241 Cross River Rd",
     "sg:city":"Katonah",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85806821,
+        102082373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"8200b62d0dc131d625a51c3ec1328d58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082373,
+            "neighbourhood_id":85806821,
             "region_id":85688543,
             "venue_id":320307037
         }
     ],
     "wof:id":320307037,
-    "wof:lastmodified":1449012233,
+    "wof:lastmodified":1454124920,
     "wof:name":"Parts Central NYC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85806821,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.663209,41.26831,-73.663209,41.26831],
-  "geometry": {"coordinates":[-73.663209,41.26831],"type":"Point"}
+  "bbox": [
+    -73.663209,
+    41.26831,
+    -73.663209,
+    41.26831
+],
+  "geometry": {"coordinates":[-73.66320899999999,41.26831],"type":"Point"}
 }

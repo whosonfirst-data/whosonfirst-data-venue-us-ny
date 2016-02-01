@@ -2,13 +2,14 @@
   "id": 354101071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.488478,40.725196,-73.488478,40.725196",
     "geom:latitude":40.725196,
     "geom:longitude":-73.488478,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4010 Hempstead Tpke",
     "sg:city":"Bethpage",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892759,
+        102191575,
+        404521475,
         85633793,
         85979165,
         102082371,
-        85892759
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"02e4989143bf14462a371b73263f2d12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979165,
             "neighbourhood_id":85892759,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":354101071,
-    "wof:lastmodified":1449066838,
+    "wof:lastmodified":1454131049,
     "wof:name":"SAFELITE AUTO GLASS",
     "wof:parent_id":85892759,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "glass-auto"
     ]
 },
-  "bbox": [-73.488478,40.725196,-73.488478,40.725196],
+  "bbox": [
+    -73.488478,
+    40.725196,
+    -73.488478,
+    40.725196
+],
   "geometry": {"coordinates":[-73.488478,40.725196],"type":"Point"}
 }

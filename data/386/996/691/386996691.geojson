@@ -2,13 +2,14 @@
   "id": 386996691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.659894,43.149927,-77.659894,43.149927",
     "geom:latitude":43.149927,
     "geom:longitude":-77.659894,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"853 West Ave Ste 17A",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"http://www.gemmachine.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85803599,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85803599
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"42cd9547e61ecc559ed88ab1ef41fa5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85803599,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":386996691,
-    "wof:lastmodified":1449028699,
+    "wof:lastmodified":1454127210,
     "wof:name":"Gem Manufacturing",
     "wof:parent_id":85803599,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "product"
     ]
 },
-  "bbox": [-77.659894,43.149927,-77.659894,43.149927],
-  "geometry": {"coordinates":[-77.659894,43.149927],"type":"Point"}
+  "bbox": [
+    -77.659894,
+    43.149927,
+    -77.659894,
+    43.149927
+],
+  "geometry": {"coordinates":[-77.65989399999999,43.149927],"type":"Point"}
 }

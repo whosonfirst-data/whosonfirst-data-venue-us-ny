@@ -2,13 +2,14 @@
   "id": 303376495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.131945,43.011231,-76.131945,43.011231",
     "geom:latitude":43.011231,
     "geom:longitude":-76.131945,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"185 Ainsley Dr",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.arcomlabs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881261,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881261
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"2239cf0c4534ba9c4bd83b7f3077694c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881261,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":303376495,
-    "wof:lastmodified":1448998951,
+    "wof:lastmodified":1454123281,
     "wof:name":"ARCOM Labs",
     "wof:parent_id":85881261,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "television"
     ]
 },
-  "bbox": [-76.131945,43.011231,-76.131945,43.011231],
+  "bbox": [
+    -76.131945,
+    43.011231,
+    -76.131945,
+    43.011231
+],
   "geometry": {"coordinates":[-76.131945,43.011231],"type":"Point"}
 }

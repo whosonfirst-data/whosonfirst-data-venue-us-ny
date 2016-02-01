@@ -2,13 +2,14 @@
   "id": 370209739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.1931,40.815701,-73.1931,40.815701",
     "geom:latitude":40.815701,
     "geom:longitude":-73.1931,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1259 Veterans Hwy",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530053,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"971b8ba40876e7fe312f9073649475ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530053,
             "region_id":85688543,
             "venue_id":370209739
         }
     ],
     "wof:id":370209739,
-    "wof:lastmodified":1449032117,
+    "wof:lastmodified":1454128205,
     "wof:name":"Card Fanatics Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-73.1931,40.815701,-73.1931,40.815701],
+  "bbox": [
+    -73.1931,
+    40.815701,
+    -73.1931,
+    40.815701
+],
   "geometry": {"coordinates":[-73.1931,40.815701],"type":"Point"}
 }

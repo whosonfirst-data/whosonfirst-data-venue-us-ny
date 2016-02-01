@@ -2,13 +2,14 @@
   "id": 353770285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.588957,40.652652,-73.588957,40.652652",
     "geom:latitude":40.652652,
     "geom:longitude":-73.588957,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"190 W Merrick Rd Apt 4P",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://www.ginalennon.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892853,
+        102191575,
+        404521473,
         85633793,
         85977679,
         102082371,
-        85892853
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"484f122e433255f0b331316998963851",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977679,
             "neighbourhood_id":85892853,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":353770285,
-    "wof:lastmodified":1449020852,
+    "wof:lastmodified":1454126703,
     "wof:name":"Gina Lennon",
     "wof:parent_id":85892853,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "entertainment"
     ]
 },
-  "bbox": [-73.588957,40.652652,-73.588957,40.652652],
-  "geometry": {"coordinates":[-73.588957,40.652652],"type":"Point"}
+  "bbox": [
+    -73.588957,
+    40.652652,
+    -73.588957,
+    40.652652
+],
+  "geometry": {"coordinates":[-73.58895699999999,40.652652],"type":"Point"}
 }

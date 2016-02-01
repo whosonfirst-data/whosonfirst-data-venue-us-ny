@@ -2,13 +2,14 @@
   "id": 253452903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.127704,40.747315,-73.127704,40.747315",
     "geom:latitude":40.747315,
     "geom:longitude":-73.127704,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"79 Oakdale-Bohemia Rd",
     "sg:city":"Oakdale",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837663,
+        102191575,
+        404522517,
         85633793,
-        85979697,
+        85979705,
         102082395,
-        85837663
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"967afa7a87cecd95f0bb07662021bf6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979697,
+            "localadmin_id":404522517,
+            "locality_id":85979705,
             "neighbourhood_id":85837663,
             "region_id":85688543,
             "venue_id":253452903
         }
     ],
     "wof:id":253452903,
-    "wof:lastmodified":1449063513,
+    "wof:lastmodified":1454130361,
     "wof:name":"Herrick Construction Corp",
     "wof:parent_id":85837663,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.127704,40.747315,-73.127704,40.747315],
-  "geometry": {"coordinates":[-73.127704,40.747315],"type":"Point"}
+  "bbox": [
+    -73.127704,
+    40.747315,
+    -73.127704,
+    40.747315
+],
+  "geometry": {"coordinates":[-73.12770399999999,40.747315],"type":"Point"}
 }

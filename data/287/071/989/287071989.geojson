@@ -2,13 +2,14 @@
   "id": 287071989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.038638,40.810054,-73.038638,40.810054",
     "geom:latitude":40.810054,
     "geom:longitude":-73.038638,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Corporate Dr",
     "sg:city":"Holtsville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"f88b411b7ccbb76032facbad45d53b08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":287071989
         }
     ],
     "wof:id":287071989,
-    "wof:lastmodified":1449001233,
+    "wof:lastmodified":1454123887,
     "wof:name":"Corporate Drive LLC",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.038638,40.810054,-73.038638,40.810054],
-  "geometry": {"coordinates":[-73.038638,40.810054],"type":"Point"}
+  "bbox": [
+    -73.038638,
+    40.810054,
+    -73.038638,
+    40.810054
+],
+  "geometry": {"coordinates":[-73.03863800000001,40.810054],"type":"Point"}
 }

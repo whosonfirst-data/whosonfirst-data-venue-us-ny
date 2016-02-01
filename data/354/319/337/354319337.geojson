@@ -2,13 +2,14 @@
   "id": 354319337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.510597,40.712528,-73.510597,40.712528",
     "geom:latitude":40.712528,
     "geom:longitude":-73.510597,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"58 Water Ln N",
     "sg:city":"Levittown",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"b7a3bba3b5cbd399ccf7912eb8a9fa0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":354319337
         }
     ],
     "wof:id":354319337,
-    "wof:lastmodified":1449066613,
+    "wof:lastmodified":1454130980,
     "wof:name":"Global Billing Solutions",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "billing"
     ]
 },
-  "bbox": [-73.510597,40.712528,-73.510597,40.712528],
+  "bbox": [
+    -73.510597,
+    40.712528,
+    -73.510597,
+    40.712528
+],
   "geometry": {"coordinates":[-73.510597,40.712528],"type":"Point"}
 }

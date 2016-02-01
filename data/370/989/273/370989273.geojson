@@ -2,13 +2,14 @@
   "id": 370989273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.696899,43.145695,-78.696899,43.145695",
     "geom:latitude":43.145695,
     "geom:longitude":-78.696899,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5750A S Transit Rd",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -47,10 +48,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529193,
+        102191575,
+        404522737,
         85633793,
         85979541,
-        102081767
+        102081767,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,19 +64,20 @@
     "wof:geomhash":"2b94be828085a34e1e33d921b975ae5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
+            "localadmin_id":404522737,
             "locality_id":85979541,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":370989273
         }
     ],
     "wof:id":370989273,
-    "wof:lastmodified":1449031578,
+    "wof:lastmodified":1454128047,
     "wof:name":"Allstate Insurance Company - David W Tuttle",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -85,6 +90,11 @@
         "renter"
     ]
 },
-  "bbox": [-78.696899,43.145695,-78.696899,43.145695],
+  "bbox": [
+    -78.696899,
+    43.145695,
+    -78.696899,
+    43.145695
+],
   "geometry": {"coordinates":[-78.696899,43.145695],"type":"Point"}
 }

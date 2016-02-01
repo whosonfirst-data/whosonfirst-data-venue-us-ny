@@ -2,13 +2,14 @@
   "id": 253282101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.667054,43.089654,-78.667054,43.089654",
     "geom:latitude":43.089654,
     "geom:longitude":-78.667054,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6894 Minnick Rd",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529193,
+        102191575,
+        404522737,
         85633793,
+        85979541,
+        102081767,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"251271255713b92bc713db441a4e7c3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081767,
+            "localadmin_id":404522737,
+            "locality_id":85979541,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":253282101
         }
     ],
     "wof:id":253282101,
-    "wof:lastmodified":1449064668,
+    "wof:lastmodified":1454130555,
     "wof:name":"Alternate Energy Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.667054,43.089654,-78.667054,43.089654],
-  "geometry": {"coordinates":[-78.667054,43.089654],"type":"Point"}
+  "bbox": [
+    -78.667054,
+    43.089654,
+    -78.667054,
+    43.089654
+],
+  "geometry": {"coordinates":[-78.66705399999999,43.089654],"type":"Point"}
 }

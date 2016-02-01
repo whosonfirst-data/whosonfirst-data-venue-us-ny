@@ -2,13 +2,14 @@
   "id": 404016155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.98902,41.150852,-73.98902,41.150852",
     "geom:latitude":41.150852,
     "geom:longitude":-73.98902,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 N Main St",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85808111,
+        102191575,
+        404523091,
         85633793,
         85979971,
         102082385,
-        85808111
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c40f3865b8584c30bba47b63c093ee0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523091,
             "locality_id":85979971,
             "neighbourhood_id":85808111,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":404016155,
-    "wof:lastmodified":1449039260,
+    "wof:lastmodified":1454128852,
     "wof:name":"Carvel Ice Cream & Bakery",
     "wof:parent_id":85808111,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "cream"
     ]
 },
-  "bbox": [-73.98902,41.150852,-73.98902,41.150852],
+  "bbox": [
+    -73.98902,
+    41.150852,
+    -73.98902,
+    41.150852
+],
   "geometry": {"coordinates":[-73.98902,41.150852],"type":"Point"}
 }

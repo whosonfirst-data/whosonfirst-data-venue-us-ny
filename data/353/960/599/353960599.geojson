@@ -2,13 +2,14 @@
   "id": 353960599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.534103,43.42066,-76.534103,43.42066",
     "geom:latitude":43.42066,
     "geom:longitude":-76.534103,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2622 Co Rte 7",
     "sg:city":"Oswego",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85839915,
+        102081783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"f015ba8011c9f771bd7c872dae22032f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081783,
+            "neighbourhood_id":85839915,
             "region_id":85688543,
             "venue_id":353960599
         }
     ],
     "wof:id":353960599,
-    "wof:lastmodified":1449020075,
+    "wof:lastmodified":1454126478,
     "wof:name":"Oswego Mini Storage Warehouse",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-76.534103,43.42066,-76.534103,43.42066],
+  "bbox": [
+    -76.534103,
+    43.42066,
+    -76.534103,
+    43.42066
+],
   "geometry": {"coordinates":[-76.534103,43.42066],"type":"Point"}
 }

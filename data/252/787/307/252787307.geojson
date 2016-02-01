@@ -2,13 +2,14 @@
   "id": 252787307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.977213,40.754069,-73.977213,40.754069",
     "geom:latitude":40.754069,
     "geom:longitude":-73.977213,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"52 Vanderbilt Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869487,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85869487
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"97c86e593f354daa81792315aa47b24f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869487,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":252787307,
-    "wof:lastmodified":1449005906,
+    "wof:lastmodified":1454124050,
     "wof:name":"Centenium Capital Partners",
     "wof:parent_id":85869487,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-73.977213,40.754069,-73.977213,40.754069],
-  "geometry": {"coordinates":[-73.977213,40.754069],"type":"Point"}
+  "bbox": [
+    -73.977213,
+    40.754069,
+    -73.977213,
+    40.754069
+],
+  "geometry": {"coordinates":[-73.97721300000001,40.754069],"type":"Point"}
 }

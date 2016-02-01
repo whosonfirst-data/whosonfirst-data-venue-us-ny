@@ -2,13 +2,14 @@
   "id": 269620483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.730989,40.775132,-73.730989,40.775132",
     "geom:latitude":40.775132,
     "geom:longitude":-73.730989,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Northern Blvd",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85830971,
+        102191575,
+        404522729,
         85633793,
-        85977539,
-        102082377,
-        85830971
+        85977727,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,18 @@
     "wof:geomhash":"dda72f933e34d6eae86afcb20c5ee432",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404522729,
+            "locality_id":85977727,
             "neighbourhood_id":85830971,
             "region_id":85688543,
             "venue_id":269620483
         }
     ],
     "wof:id":269620483,
-    "wof:lastmodified":1449038783,
+    "wof:lastmodified":1454128787,
     "wof:name":"Sobel Vacuum Cleaner Corp",
     "wof:parent_id":85830971,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-73.730989,40.775132,-73.730989,40.775132],
-  "geometry": {"coordinates":[-73.730989,40.775132],"type":"Point"}
+  "bbox": [
+    -73.730989,
+    40.775132,
+    -73.730989,
+    40.775132
+],
+  "geometry": {"coordinates":[-73.73098899999999,40.775132],"type":"Point"}
 }

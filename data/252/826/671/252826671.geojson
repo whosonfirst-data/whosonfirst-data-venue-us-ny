@@ -2,13 +2,14 @@
   "id": 252826671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.130658,40.823843,-73.130658,40.823843",
     "geom:latitude":40.823843,
     "geom:longitude":-73.130658,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"424 Rosevale Ave",
     "sg:city":"Ronkonkoma",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829285,
+        102191575,
+        404522517,
         85633793,
         85979793,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"4236d4933f89bdb5998c3e6a6abb4856",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979793,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85829285,
             "region_id":85688543,
             "venue_id":252826671
         }
     ],
     "wof:id":252826671,
-    "wof:lastmodified":1449006188,
+    "wof:lastmodified":1454124089,
     "wof:name":"Heartsmart",
-    "wof:parent_id":-1,
+    "wof:parent_id":85829285,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.130658,40.823843,-73.130658,40.823843],
+  "bbox": [
+    -73.130658,
+    40.823843,
+    -73.130658,
+    40.823843
+],
   "geometry": {"coordinates":[-73.130658,40.823843],"type":"Point"}
 }

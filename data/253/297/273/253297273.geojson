@@ -2,13 +2,14 @@
   "id": 253297273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.744749,40.95148,-73.744749,40.95148",
     "geom:latitude":40.95148,
     "geom:longitude":-73.744749,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"700 Fenimore Rd",
     "sg:city":"Mamaroneck",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892897,
+        102191575,
+        404523365,
         85633793,
         85978729,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"dafb0fb7fb4bfd8539a12d7c317d0e10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523365,
             "locality_id":85978729,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892897,
             "region_id":85688543,
             "venue_id":253297273
         }
     ],
     "wof:id":253297273,
-    "wof:lastmodified":1449064712,
+    "wof:lastmodified":1454130561,
     "wof:name":"Tech Material Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892897,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.744749,40.95148,-73.744749,40.95148],
+  "bbox": [
+    -73.744749,
+    40.95148,
+    -73.744749,
+    40.95148
+],
   "geometry": {"coordinates":[-73.744749,40.95148],"type":"Point"}
 }

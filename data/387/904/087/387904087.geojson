@@ -2,13 +2,14 @@
   "id": 387904087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.880232,40.914239,-73.880232,40.914239",
     "geom:latitude":40.914239,
     "geom:longitude":-73.880232,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"46 Jervis Rd",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85830571,
+        102191575,
+        404523397,
         85633793,
-        85977539,
-        102083063,
-        85830571
+        85978759,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"6ad761407eb9f68af92ebdec46498fd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
-            "locality_id":85977539,
+            "county_id":102082373,
+            "localadmin_id":404523397,
+            "locality_id":85978759,
             "neighbourhood_id":85830571,
             "region_id":85688543,
             "venue_id":387904087
         }
     ],
     "wof:id":387904087,
-    "wof:lastmodified":1449060005,
+    "wof:lastmodified":1454130227,
     "wof:name":"Sports Huddle",
     "wof:parent_id":85830571,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "house"
     ]
 },
-  "bbox": [-73.880232,40.914239,-73.880232,40.914239],
-  "geometry": {"coordinates":[-73.880232,40.914239],"type":"Point"}
+  "bbox": [
+    -73.880232,
+    40.914239,
+    -73.880232,
+    40.914239
+],
+  "geometry": {"coordinates":[-73.88023200000001,40.914239],"type":"Point"}
 }

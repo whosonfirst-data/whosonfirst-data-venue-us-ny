@@ -2,13 +2,14 @@
   "id": 353976625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.704102,40.666401,-73.704102,40.666401",
     "geom:latitude":40.666401,
     "geom:longitude":-73.704102,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"249 W Merrick Rd",
     "sg:city":"Valley Stream",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"www.migliorealestate.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893053,
+        102191575,
+        404521473,
         85633793,
         85977737,
         102082371,
-        85893053
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"47b30da48bfd64358efb57ac26fdc3d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977737,
             "neighbourhood_id":85893053,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":353976625,
-    "wof:lastmodified":1449019304,
+    "wof:lastmodified":1454126252,
     "wof:name":"Miglio Real Estate",
     "wof:parent_id":85893053,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-73.704102,40.666401,-73.704102,40.666401],
-  "geometry": {"coordinates":[-73.704102,40.666401],"type":"Point"}
+  "bbox": [
+    -73.704102,
+    40.666401,
+    -73.704102,
+    40.666401
+],
+  "geometry": {"coordinates":[-73.70410200000001,40.666401],"type":"Point"}
 }

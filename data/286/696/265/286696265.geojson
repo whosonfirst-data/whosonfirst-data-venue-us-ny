@@ -2,13 +2,14 @@
   "id": 286696265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.961229,40.757587,-73.961229,40.757587",
     "geom:latitude":40.757587,
     "geom:longitude":-73.961229,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"430 E 57th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865707,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865707
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"edcb1785e7c510a2926442d5e86cb188",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865707,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":286696265,
-    "wof:lastmodified":1449015393,
+    "wof:lastmodified":1454125438,
     "wof:name":"Gulf USA Corporation",
     "wof:parent_id":85865707,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "operates"
     ]
 },
-  "bbox": [-73.961229,40.757587,-73.961229,40.757587],
+  "bbox": [
+    -73.961229,
+    40.757587,
+    -73.961229,
+    40.757587
+],
   "geometry": {"coordinates":[-73.961229,40.757587],"type":"Point"}
 }

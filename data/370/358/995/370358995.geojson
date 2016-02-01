@@ -2,13 +2,14 @@
   "id": 370358995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.646896,40.830601,-72.646896,40.830601",
     "geom:latitude":40.830601,
     "geom:longitude":-72.646896,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"211 Riverhead Rd",
     "sg:city":"Westhampton Beach",
     "sg:classifiers":[
@@ -28,9 +29,12 @@
     "sg:website":"www.celielectric.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102526981,
         85688543,
+        102191575,
+        404522671,
         85633793,
-        85978441,
+        85979877,
         102082395
     ],
     "wof:breaches":[],
@@ -41,19 +45,20 @@
     "wof:geomhash":"57de165654048002df389d0745024d2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102526981,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978441,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522671,
+            "locality_id":85979877,
             "region_id":85688543,
             "venue_id":370358995
         }
     ],
     "wof:id":370358995,
-    "wof:lastmodified":1449030511,
+    "wof:lastmodified":1454127731,
     "wof:name":"Celi Electric Lighting Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":102526981,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "electrician"
     ]
 },
-  "bbox": [-72.646896,40.830601,-72.646896,40.830601],
+  "bbox": [
+    -72.646896,
+    40.830601,
+    -72.646896,
+    40.830601
+],
   "geometry": {"coordinates":[-72.646896,40.830601],"type":"Point"}
 }

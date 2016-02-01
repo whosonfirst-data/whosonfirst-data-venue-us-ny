@@ -2,13 +2,14 @@
   "id": 387939687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.567507,43.17394,-77.567507,43.17394",
     "geom:latitude":43.17394,
     "geom:longitude":-77.567507,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Salisbury St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880405,
+        102191575,
+        404521467,
         85633793,
-        85979035,
+        85977591,
         102081815,
-        85880405
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"e6dda7b42015398bf08ec52b2a6a4674",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85979035,
+            "localadmin_id":404521467,
+            "locality_id":85977591,
             "neighbourhood_id":85880405,
             "region_id":85688543,
             "venue_id":387939687
         }
     ],
     "wof:id":387939687,
-    "wof:lastmodified":1449057215,
+    "wof:lastmodified":1454129728,
     "wof:name":"M C Technical Svc Inc",
     "wof:parent_id":85880405,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "electronic"
     ]
 },
-  "bbox": [-77.567507,43.17394,-77.567507,43.17394],
-  "geometry": {"coordinates":[-77.567507,43.17394],"type":"Point"}
+  "bbox": [
+    -77.567507,
+    43.17394,
+    -77.567507,
+    43.17394
+],
+  "geometry": {"coordinates":[-77.56750700000001,43.17394],"type":"Point"}
 }

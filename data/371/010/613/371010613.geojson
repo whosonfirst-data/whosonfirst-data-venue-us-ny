@@ -2,13 +2,14 @@
   "id": 371010613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.034815,40.8189,-73.034815,40.8189",
     "geom:latitude":40.8189,
     "geom:longitude":-73.034815,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Alfred Cir",
     "sg:city":"Holtsville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"0f93f595906e223d7d0894add44747ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":371010613
         }
     ],
     "wof:id":371010613,
-    "wof:lastmodified":1449049685,
+    "wof:lastmodified":1454129188,
     "wof:name":"Vinod Chhabra DDS",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.034815,40.8189,-73.034815,40.8189],
-  "geometry": {"coordinates":[-73.034815,40.8189],"type":"Point"}
+  "bbox": [
+    -73.034815,
+    40.8189,
+    -73.034815,
+    40.8189
+],
+  "geometry": {"coordinates":[-73.03481499999999,40.8189],"type":"Point"}
 }

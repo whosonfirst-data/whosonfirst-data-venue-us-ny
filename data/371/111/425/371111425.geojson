@@ -2,13 +2,14 @@
   "id": 371111425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.878712,42.965672,-78.878712,42.965672",
     "geom:latitude":42.965672,
     "geom:longitude":-78.878712,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2510 Elmwood Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"http://www.mokon.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872917,
+        102191575,
+        404522265,
         85633793,
         85979419,
         102082387,
-        85872917
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"5e6f6405a2d7858cf9283a966bac4fde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522265,
             "locality_id":85979419,
             "neighbourhood_id":85872917,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":371111425,
-    "wof:lastmodified":1449050165,
+    "wof:lastmodified":1454129302,
     "wof:name":"Mokon",
     "wof:parent_id":85872917,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "controls"
     ]
 },
-  "bbox": [-78.878712,42.965672,-78.878712,42.965672],
-  "geometry": {"coordinates":[-78.878712,42.965672],"type":"Point"}
+  "bbox": [
+    -78.878712,
+    42.965672,
+    -78.878712,
+    42.965672
+],
+  "geometry": {"coordinates":[-78.87871199999999,42.965672],"type":"Point"}
 }

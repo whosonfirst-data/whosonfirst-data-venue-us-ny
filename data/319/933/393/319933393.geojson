@@ -2,13 +2,14 @@
   "id": 319933393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.620744,40.717048,-73.620744,40.717048",
     "geom:latitude":40.717048,
     "geom:longitude":-73.620744,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"363 Clinton St",
     "sg:city":"Hempstead",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847583,
+        102191575,
+        404522729,
         85633793,
-        85977663,
-        102082371
+        85977733,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"e3e3d7ee6a40e8bb237dbef2a8f47498",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977663,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522729,
+            "locality_id":85977733,
+            "neighbourhood_id":85847583,
             "region_id":85688543,
             "venue_id":319933393
         }
     ],
     "wof:id":319933393,
-    "wof:lastmodified":1449024252,
+    "wof:lastmodified":1454126741,
     "wof:name":"F N Atm Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85847583,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "automated"
     ]
 },
-  "bbox": [-73.620744,40.717048,-73.620744,40.717048],
+  "bbox": [
+    -73.620744,
+    40.717048,
+    -73.620744,
+    40.717048
+],
   "geometry": {"coordinates":[-73.620744,40.717048],"type":"Point"}
 }

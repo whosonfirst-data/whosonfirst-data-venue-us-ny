@@ -2,13 +2,14 @@
   "id": 354370799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.350098,40.900501,-73.350098,40.900501",
     "geom:latitude":40.900501,
     "geom:longitude":-73.350098,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"77 Main St",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -42,11 +43,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853661,
+        102191575,
+        404522515,
         85633793,
         85978469,
         102082395,
-        85853661
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,9 +59,10 @@
     "wof:geomhash":"426a3df3a5159809d19a78ecd8c05a52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85978469,
             "neighbourhood_id":85853661,
             "region_id":85688543,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":354370799,
-    "wof:lastmodified":1449066872,
+    "wof:lastmodified":1454131058,
     "wof:name":"Interior Views Studio",
     "wof:parent_id":85853661,
     "wof:placetype":"venue",
@@ -81,6 +85,11 @@
         "furniture"
     ]
 },
-  "bbox": [-73.350098,40.900501,-73.350098,40.900501],
+  "bbox": [
+    -73.350098,
+    40.900501,
+    -73.350098,
+    40.900501
+],
   "geometry": {"coordinates":[-73.350098,40.900501],"type":"Point"}
 }

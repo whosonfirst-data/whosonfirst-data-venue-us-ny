@@ -2,13 +2,14 @@
   "id": 370163527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.19786,40.830823,-73.19786,40.830823",
     "geom:latitude":40.830823,
     "geom:longitude":-73.19786,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"498 Route 111",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"2f176d7b9cacc516ce0fd6fb9a696c35",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":370163527
         }
     ],
     "wof:id":370163527,
-    "wof:lastmodified":1449032394,
+    "wof:lastmodified":1454128291,
     "wof:name":"Alternatives For Women",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "gynecologist"
     ]
 },
-  "bbox": [-73.19786,40.830823,-73.19786,40.830823],
-  "geometry": {"coordinates":[-73.19786,40.830823],"type":"Point"}
+  "bbox": [
+    -73.19786,
+    40.830823,
+    -73.19786,
+    40.830823
+],
+  "geometry": {"coordinates":[-73.19786000000001,40.830823],"type":"Point"}
 }

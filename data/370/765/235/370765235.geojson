@@ -2,13 +2,14 @@
   "id": 370765235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.036462,40.812292,-73.036462,40.812292",
     "geom:latitude":40.812292,
     "geom:longitude":-73.036462,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"700 Blue Point Rd",
     "sg:city":"Holtsville",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"08e2441cc9fc2f1c839604a76e067bc0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":370765235
         }
     ],
     "wof:id":370765235,
-    "wof:lastmodified":1449031028,
+    "wof:lastmodified":1454127887,
     "wof:name":"CEM",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.036462,40.812292,-73.036462,40.812292],
+  "bbox": [
+    -73.036462,
+    40.812292,
+    -73.036462,
+    40.812292
+],
   "geometry": {"coordinates":[-73.036462,40.812292],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253671763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.071655,40.594991,-74.071655,40.594991",
     "geom:latitude":40.594991,
     "geom:longitude":-74.071655,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 Diaz St",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85803627,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85803627
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"ff373853e5e3f0ab92a629ae20cd015f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85803627,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":253671763,
-    "wof:lastmodified":1449063498,
+    "wof:lastmodified":1454130357,
     "wof:name":"Enchanted Angels",
     "wof:parent_id":85803627,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "mfg"
     ]
 },
-  "bbox": [-74.071655,40.594991,-74.071655,40.594991],
-  "geometry": {"coordinates":[-74.071655,40.594991],"type":"Point"}
+  "bbox": [
+    -74.071655,
+    40.594991,
+    -74.071655,
+    40.594991
+],
+  "geometry": {"coordinates":[-74.07165500000001,40.594991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354215505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.76568,41.025796,-73.76568,41.025796",
     "geom:latitude":41.025796,
     "geom:longitude":-73.76568,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12 Greenridge Ave",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.cosmetic-md.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420559399,
+        102191575,
+        404523395,
         85633793,
         85978761,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"9c8290751f734546735c23ea5d1fbc24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523395,
             "locality_id":85978761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420559399,
             "region_id":85688543,
             "venue_id":354215505
         }
     ],
     "wof:id":354215505,
-    "wof:lastmodified":1449067349,
+    "wof:lastmodified":1454131208,
     "wof:name":"Mordcai Blau MD PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420559399,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "medical"
     ]
 },
-  "bbox": [-73.76568,41.025796,-73.76568,41.025796],
+  "bbox": [
+    -73.76568,
+    41.025796,
+    -73.76568,
+    41.025796
+],
   "geometry": {"coordinates":[-73.76568,41.025796],"type":"Point"}
 }

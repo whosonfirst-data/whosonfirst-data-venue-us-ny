@@ -2,13 +2,14 @@
   "id": 286306313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.764018,40.8102,-72.764018,40.8102",
     "geom:latitude":40.8102,
     "geom:longitude":-72.764018,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"62 Pine St",
     "sg:city":"East Moriches",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"1f7463f05a843eb3a4bb8df76d97b994",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":286306313
         }
     ],
     "wof:id":286306313,
-    "wof:lastmodified":1449017957,
+    "wof:lastmodified":1454125889,
     "wof:name":"ITH",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "mentally"
     ]
 },
-  "bbox": [-72.764018,40.8102,-72.764018,40.8102],
-  "geometry": {"coordinates":[-72.764018,40.8102],"type":"Point"}
+  "bbox": [
+    -72.764018,
+    40.8102,
+    -72.764018,
+    40.8102
+],
+  "geometry": {"coordinates":[-72.76401799999999,40.8102],"type":"Point"}
 }

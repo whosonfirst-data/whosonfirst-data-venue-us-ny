@@ -2,13 +2,14 @@
   "id": 370769043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.012632,43.068083,-76.012632,43.068083",
     "geom:latitude":43.068083,
     "geom:longitude":-76.012632,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"125 Beresford Ln",
     "sg:city":"Minoa",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529409,
+        102191575,
+        404522837,
         85633793,
         85977793,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"a4fed34bd869bd23e843871725eda780",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522837,
             "locality_id":85977793,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529409,
             "region_id":85688543,
             "venue_id":370769043
         }
     ],
     "wof:id":370769043,
-    "wof:lastmodified":1449030220,
+    "wof:lastmodified":1454127647,
     "wof:name":"John M. Callahan, M.D., P.C.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529409,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "medicine"
     ]
 },
-  "bbox": [-76.012632,43.068083,-76.012632,43.068083],
+  "bbox": [
+    -76.012632,
+    43.068083,
+    -76.012632,
+    43.068083
+],
   "geometry": {"coordinates":[-76.012632,43.068083],"type":"Point"}
 }

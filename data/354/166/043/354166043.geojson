@@ -2,13 +2,14 @@
   "id": 354166043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.404371,40.904768,-73.404371,40.904768",
     "geom:latitude":40.904768,
     "geom:longitude":-73.404371,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"41 Shore Dr",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.palmer.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826545,
+        102191575,
+        404522515,
         85633793,
-        85979823,
+        85978425,
         102082395,
-        85826545
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"b7abb8a773f2d89cf8c1d6fb80d7f9a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979823,
+            "localadmin_id":404522515,
+            "locality_id":85978425,
             "neighbourhood_id":85826545,
             "region_id":85688543,
             "venue_id":354166043
         }
     ],
     "wof:id":354166043,
-    "wof:lastmodified":1449066901,
+    "wof:lastmodified":1454131066,
     "wof:name":"Palmer Computer Svc Inc",
     "wof:parent_id":85826545,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "designer"
     ]
 },
-  "bbox": [-73.404371,40.904768,-73.404371,40.904768],
+  "bbox": [
+    -73.404371,
+    40.904768,
+    -73.404371,
+    40.904768
+],
   "geometry": {"coordinates":[-73.404371,40.904768],"type":"Point"}
 }

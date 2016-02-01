@@ -2,13 +2,14 @@
   "id": 387815641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.242457,42.096111,-79.242457,42.096111",
     "geom:latitude":42.096111,
     "geom:longitude":-79.242457,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"19 W 3rd St",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817873,
+        102191575,
+        404521959,
         85633793,
+        85980155,
         102081811,
-        85817873
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"062a0ccf04f062001744c8ace79387d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081811,
-            "locality_id":-1,
+            "localadmin_id":404521959,
+            "locality_id":85980155,
             "neighbourhood_id":85817873,
             "region_id":85688543,
             "venue_id":387815641
         }
     ],
     "wof:id":387815641,
-    "wof:lastmodified":1449057946,
+    "wof:lastmodified":1454129857,
     "wof:name":"Downtown Jamestown Dev",
     "wof:parent_id":85817873,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.242457,42.096111,-79.242457,42.096111],
+  "bbox": [
+    -79.242457,
+    42.096111,
+    -79.242457,
+    42.096111
+],
   "geometry": {"coordinates":[-79.242457,42.096111],"type":"Point"}
 }

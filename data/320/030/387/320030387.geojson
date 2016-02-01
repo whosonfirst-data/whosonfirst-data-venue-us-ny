@@ -2,13 +2,14 @@
   "id": 320030387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.55368,40.862646,-72.55368,40.862646",
     "geom:latitude":40.862646,
     "geom:longitude":-72.55368,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"64 Bellows Ter",
     "sg:city":"Hampton Bays",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530041,
+        102191575,
+        404522671,
         85633793,
-        85979703,
-        102082395
+        85979791,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"ac83f01d72da377dba949e838cad12ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979703,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522671,
+            "locality_id":85979791,
+            "neighbourhood_id":420530041,
             "region_id":85688543,
             "venue_id":320030387
         }
     ],
     "wof:id":320030387,
-    "wof:lastmodified":1449012652,
+    "wof:lastmodified":1454124988,
     "wof:name":"Maryann Strecker Cleaning Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530041,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-72.55368,40.862646,-72.55368,40.862646],
+  "bbox": [
+    -72.55368,
+    40.862646,
+    -72.55368,
+    40.862646
+],
   "geometry": {"coordinates":[-72.55368,40.862646],"type":"Point"}
 }

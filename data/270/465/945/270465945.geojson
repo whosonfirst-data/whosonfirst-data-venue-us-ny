@@ -2,13 +2,14 @@
   "id": 270465945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.175848,43.063064,-76.175848,43.063064",
     "geom:latitude":43.063064,
     "geom:longitude":-76.175848,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"650 Hiawatha Blvd W",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881247,
+        102191575,
+        404522851,
         85633793,
+        85977785,
         102082351,
-        85881247
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"5195e4b34228c53b7f79a6f0ff042896",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
-            "locality_id":-1,
+            "localadmin_id":404522851,
+            "locality_id":85977785,
             "neighbourhood_id":85881247,
             "region_id":85688543,
             "venue_id":270465945
         }
     ],
     "wof:id":270465945,
-    "wof:lastmodified":1449010309,
+    "wof:lastmodified":1454124616,
     "wof:name":"Environmental Engineering",
     "wof:parent_id":85881247,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-76.175848,43.063064,-76.175848,43.063064],
+  "bbox": [
+    -76.175848,
+    43.063064,
+    -76.175848,
+    43.063064
+],
   "geometry": {"coordinates":[-76.175848,43.063064],"type":"Point"}
 }

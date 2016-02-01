@@ -2,13 +2,14 @@
   "id": 370161255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.23751,40.82569,-73.23751,40.82569",
     "geom:latitude":40.82569,
     "geom:longitude":-73.23751,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"Veterans Memorial Highway",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -25,7 +26,12 @@
     "sg:website":"www.co.suffolk.ny.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420530007,
+        102191575,
+        404522517,
         85633793,
+        85979693,
+        102082395,
         85688543
     ],
     "wof:breaches":[],
@@ -36,23 +42,30 @@
     "wof:geomhash":"6463a38d07de9ae9e2bd61c057b40fd0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082395,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":370161255
         }
     ],
     "wof:id":370161255,
-    "wof:lastmodified":1449030421,
+    "wof:lastmodified":1454127706,
     "wof:name":"Blydenburgh Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.23751,40.82569,-73.23751,40.82569],
+  "bbox": [
+    -73.23751,
+    40.82569,
+    -73.23751,
+    40.82569
+],
   "geometry": {"coordinates":[-73.23751,40.82569],"type":"Point"}
 }

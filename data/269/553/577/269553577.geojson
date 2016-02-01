@@ -2,13 +2,14 @@
   "id": 269553577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.05115,40.738274,-73.05115,40.738274",
     "geom:latitude":40.738274,
     "geom:longitude":-73.05115,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"597 Middle Rd",
     "sg:city":"Bayport",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"2d7b6068c01fc3d1e07a70f813e204d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":269553577
         }
     ],
     "wof:id":269553577,
-    "wof:lastmodified":1449036164,
+    "wof:lastmodified":1454128467,
     "wof:name":"Country Junque",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "durable"
     ]
 },
-  "bbox": [-73.05115,40.738274,-73.05115,40.738274],
-  "geometry": {"coordinates":[-73.05115,40.738274],"type":"Point"}
+  "bbox": [
+    -73.05115,
+    40.738274,
+    -73.05115,
+    40.738274
+],
+  "geometry": {"coordinates":[-73.05115000000001,40.738274],"type":"Point"}
 }

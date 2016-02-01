@@ -2,13 +2,14 @@
   "id": 353378669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.189086,40.73491,-73.189086,40.73491",
     "geom:latitude":40.73491,
     "geom:longitude":-73.189086,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"47 Division Ave",
     "sg:city":"East Islip",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892813,
+        102191575,
+        404522517,
         85633793,
-        85979827,
-        102082395
+        85979775,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"fc0d449e70e4f48f962e500d3ca27d6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979827,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979775,
+            "neighbourhood_id":85892813,
             "region_id":85688543,
             "venue_id":353378669
         }
     ],
     "wof:id":353378669,
-    "wof:lastmodified":1449019964,
+    "wof:lastmodified":1454126446,
     "wof:name":"Real Estate Plus Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892813,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.189086,40.73491,-73.189086,40.73491],
+  "bbox": [
+    -73.189086,
+    40.73491,
+    -73.189086,
+    40.73491
+],
   "geometry": {"coordinates":[-73.189086,40.73491],"type":"Point"}
 }

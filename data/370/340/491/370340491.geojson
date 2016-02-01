@@ -2,13 +2,14 @@
   "id": 370340491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.859377,40.787488,-72.859377,40.787488",
     "geom:latitude":40.787488,
     "geom:longitude":-72.859377,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"111 Lexington Rd Ste A",
     "sg:city":"Shirley",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892903,
+        102191575,
+        404521441,
         85633793,
+        85978437,
         102082395,
-        85892903
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"1549a9dac867da0125ec2b7f93a8b3e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85978437,
             "neighbourhood_id":85892903,
             "region_id":85688543,
             "venue_id":370340491
         }
     ],
     "wof:id":370340491,
-    "wof:lastmodified":1449031713,
+    "wof:lastmodified":1454128085,
     "wof:name":"William Floyd School District",
     "wof:parent_id":85892903,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "elementary"
     ]
 },
-  "bbox": [-72.859377,40.787488,-72.859377,40.787488],
-  "geometry": {"coordinates":[-72.859377,40.787488],"type":"Point"}
+  "bbox": [
+    -72.859377,
+    40.787488,
+    -72.859377,
+    40.787488
+],
+  "geometry": {"coordinates":[-72.85937699999999,40.787488],"type":"Point"}
 }

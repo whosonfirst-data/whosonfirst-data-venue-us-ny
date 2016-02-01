@@ -2,13 +2,14 @@
   "id": 320430301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.656545,40.777789,-73.656545,40.777789",
     "geom:latitude":40.777789,
     "geom:longitude":-73.656545,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"98 Crescent Dr",
     "sg:city":"Albertson",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847583,
+        102191575,
+        404522729,
         85633793,
-        85979177,
+        85977733,
         102082371,
-        85847583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"62eb57101116f7cac35bf6c4e683143b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979177,
+            "localadmin_id":404522729,
+            "locality_id":85977733,
             "neighbourhood_id":85847583,
             "region_id":85688543,
             "venue_id":320430301
         }
     ],
     "wof:id":320430301,
-    "wof:lastmodified":1449013639,
+    "wof:lastmodified":1454125148,
     "wof:name":"Williams Lea",
     "wof:parent_id":85847583,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.656545,40.777789,-73.656545,40.777789],
-  "geometry": {"coordinates":[-73.656545,40.777789],"type":"Point"}
+  "bbox": [
+    -73.656545,
+    40.777789,
+    -73.656545,
+    40.777789
+],
+  "geometry": {"coordinates":[-73.65654499999999,40.777789],"type":"Point"}
 }

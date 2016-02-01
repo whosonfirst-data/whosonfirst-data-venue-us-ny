@@ -2,13 +2,14 @@
   "id": 354206977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.720889,40.633424,-73.720889,40.633424",
     "geom:latitude":40.633424,
     "geom:longitude":-73.720889,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"823 Fiske St",
     "sg:city":"Woodmere",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893091,
+        102191575,
+        404521473,
         85633793,
         85979053,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"0e16ec966ece907eeab7163a844a0373",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979053,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85893091,
             "region_id":85688543,
             "venue_id":354206977
         }
     ],
     "wof:id":354206977,
-    "wof:lastmodified":1449067142,
+    "wof:lastmodified":1454131139,
     "wof:name":"Randy D Makovsky",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "physician"
     ]
 },
-  "bbox": [-73.720889,40.633424,-73.720889,40.633424],
+  "bbox": [
+    -73.720889,
+    40.633424,
+    -73.720889,
+    40.633424
+],
   "geometry": {"coordinates":[-73.720889,40.633424],"type":"Point"}
 }

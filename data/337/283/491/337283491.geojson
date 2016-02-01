@@ -2,13 +2,14 @@
   "id": 337283491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993334,40.682702,-73.993334,40.682702",
     "geom:latitude":40.682702,
     "geom:longitude":-73.993334,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"268 Smith St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -35,10 +36,14 @@
     "sg:website":"www.smithstreetplumbingandheatin...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892915,
+        102191575,
+        102147495,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +53,21 @@
     "wof:geomhash":"656eec800f51f09b9fc074e9c5f4f11c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "macrohood_id":102147495,
+            "neighbourhood_id":85892915,
             "region_id":85688543,
             "venue_id":337283491
         }
     ],
     "wof:id":337283491,
-    "wof:lastmodified":1449027180,
+    "wof:lastmodified":1454126963,
     "wof:name":"Smith Street Plumbing and Heating",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +77,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-73.993334,40.682702,-73.993334,40.682702],
+  "bbox": [
+    -73.993334,
+    40.682702,
+    -73.993334,
+    40.682702
+],
   "geometry": {"coordinates":[-73.993334,40.682702],"type":"Point"}
 }

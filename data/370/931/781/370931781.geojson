@@ -2,13 +2,14 @@
   "id": 370931781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.142109,40.542995,-74.142109,40.542995",
     "geom:latitude":40.542995,
     "geom:longitude":-74.142109,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"222 Mansion Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85822683,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85822683
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"808ced950651d2a0908baa989cf470c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85822683,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370931781,
-    "wof:lastmodified":1449032169,
+    "wof:lastmodified":1454128222,
     "wof:name":"Seaview Alarm Corp",
     "wof:parent_id":85822683,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-74.142109,40.542995,-74.142109,40.542995],
+  "bbox": [
+    -74.142109,
+    40.542995,
+    -74.142109,
+    40.542995
+],
   "geometry": {"coordinates":[-74.142109,40.542995],"type":"Point"}
 }

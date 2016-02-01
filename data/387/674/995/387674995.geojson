@@ -2,13 +2,14 @@
   "id": 387674995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.867359,41.684702,-73.867359,41.684702",
     "geom:latitude":41.684702,
     "geom:longitude":-73.867359,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"287 Manchester Rd",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -24,8 +25,11 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85979281,
+        102082363,
+        85892987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +39,28 @@
     "wof:geomhash":"7bf9279b435b4717c131b4aa5867b3f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "locality_id":85979281,
+            "neighbourhood_id":85892987,
             "region_id":85688543,
             "venue_id":387674995
         }
     ],
     "wof:id":387674995,
-    "wof:lastmodified":1449058954,
+    "wof:lastmodified":1454130034,
     "wof:name":"Poughkeepsie Speedway",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892987,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.867359,41.684702,-73.867359,41.684702],
-  "geometry": {"coordinates":[-73.867359,41.684702],"type":"Point"}
+  "bbox": [
+    -73.867359,
+    41.684702,
+    -73.867359,
+    41.684702
+],
+  "geometry": {"coordinates":[-73.86735899999999,41.684702],"type":"Point"}
 }

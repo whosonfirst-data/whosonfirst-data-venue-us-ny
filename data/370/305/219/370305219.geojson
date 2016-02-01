@@ -2,13 +2,14 @@
   "id": 370305219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.317119,40.932038,-72.317119,40.932038",
     "geom:latitude":40.932038,
     "geom:longitude":-72.317119,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2044 Montauk Hwy",
     "sg:city":"Bridgehampton",
     "sg:classifiers":[
@@ -49,11 +50,13 @@
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000308049899",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824365,
+        102191575,
+        404522671,
         85633793,
         85979849,
         102082395,
-        85824365
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,9 +66,10 @@
     "wof:geomhash":"3b107be50662aa226e681c993c08b886",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522671,
             "locality_id":85979849,
             "neighbourhood_id":85824365,
             "region_id":85688543,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":370305219,
-    "wof:lastmodified":1449029605,
+    "wof:lastmodified":1454127466,
     "wof:name":"T-Mobile",
     "wof:parent_id":85824365,
     "wof:placetype":"venue",
@@ -89,6 +93,11 @@
         "cellular"
     ]
 },
-  "bbox": [-72.317119,40.932038,-72.317119,40.932038],
-  "geometry": {"coordinates":[-72.317119,40.932038],"type":"Point"}
+  "bbox": [
+    -72.317119,
+    40.932038,
+    -72.317119,
+    40.932038
+],
+  "geometry": {"coordinates":[-72.31711900000001,40.932038],"type":"Point"}
 }

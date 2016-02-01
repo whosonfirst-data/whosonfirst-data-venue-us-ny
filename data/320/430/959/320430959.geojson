@@ -2,13 +2,14 @@
   "id": 320430959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.092725,40.730305,-73.092725,40.730305",
     "geom:latitude":40.730305,
     "geom:longitude":-73.092725,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"59 Main St",
     "sg:city":"West Sayville",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"9171600cff1ec9ee1f116285e712fbcc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":320430959
         }
     ],
     "wof:id":320430959,
-    "wof:lastmodified":1449013645,
+    "wof:lastmodified":1454125148,
     "wof:name":"Dutch Door Realty",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.092725,40.730305,-73.092725,40.730305],
+  "bbox": [
+    -73.092725,
+    40.730305,
+    -73.092725,
+    40.730305
+],
   "geometry": {"coordinates":[-73.092725,40.730305],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354321989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.530788,40.724525,-73.530788,40.724525",
     "geom:latitude":40.724525,
     "geom:longitude":-73.530788,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2870 Hempstead Tpke",
     "sg:city":"Levittown",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.islandhearingandbalance.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +61,18 @@
     "wof:geomhash":"02d566a6f0e72117cfd616ebdc0436bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":354321989
         }
     ],
     "wof:id":354321989,
-    "wof:lastmodified":1449065977,
+    "wof:lastmodified":1454130783,
     "wof:name":"Island Hearing & Balance Center LLC",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -84,6 +88,11 @@
         "audiologists"
     ]
 },
-  "bbox": [-73.530788,40.724525,-73.530788,40.724525],
+  "bbox": [
+    -73.530788,
+    40.724525,
+    -73.530788,
+    40.724525
+],
   "geometry": {"coordinates":[-73.530788,40.724525],"type":"Point"}
 }

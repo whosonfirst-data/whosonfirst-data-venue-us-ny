@@ -2,13 +2,14 @@
   "id": 387561365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.961568,40.615319,-73.961568,40.615319",
     "geom:latitude":40.615319,
     "geom:longitude":-73.961568,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1220 Avenue N",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865583,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"221e5f2ba6b9e13c33933e950a710b93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865583,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387561365,
-    "wof:lastmodified":1449058804,
+    "wof:lastmodified":1454130010,
     "wof:name":"Pinchas Kahn",
     "wof:parent_id":85865583,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "clergy"
     ]
 },
-  "bbox": [-73.961568,40.615319,-73.961568,40.615319],
+  "bbox": [
+    -73.961568,
+    40.615319,
+    -73.961568,
+    40.615319
+],
   "geometry": {"coordinates":[-73.961568,40.615319],"type":"Point"}
 }

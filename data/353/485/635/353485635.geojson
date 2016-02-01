@@ -2,13 +2,14 @@
   "id": 353485635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.90416,40.753759,-73.90416,40.753759",
     "geom:latitude":40.753759,
     "geom:longitude":-73.90416,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"56-15 Northern Blvd.",
     "sg:city":"Queens",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85859007,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85859007
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"3d40815ed1bd5389cad3fdf6da57419a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85859007,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353485635,
-    "wof:lastmodified":1449019833,
+    "wof:lastmodified":1454126407,
     "wof:name":"Mayor Auto Mall",
     "wof:parent_id":85859007,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-73.90416,40.753759,-73.90416,40.753759],
+  "bbox": [
+    -73.90416,
+    40.753759,
+    -73.90416,
+    40.753759
+],
   "geometry": {"coordinates":[-73.90416,40.753759],"type":"Point"}
 }

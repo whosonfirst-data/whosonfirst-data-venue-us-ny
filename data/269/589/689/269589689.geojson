@@ -2,13 +2,14 @@
   "id": 269589689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.757938,41.025977,-73.757938,41.025977",
     "geom:latitude":41.025977,
     "geom:longitude":-73.757938,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Bloomingdale Rd",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.cheesecakefactory.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420559399,
+        102191575,
+        404523395,
         85633793,
         85978761,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"ff3524ca4fbeb7666e5b854a66e82669",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523395,
             "locality_id":85978761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420559399,
             "region_id":85688543,
             "venue_id":269589689
         }
     ],
     "wof:id":269589689,
-    "wof:lastmodified":1449037419,
+    "wof:lastmodified":1454128654,
     "wof:name":"Cheesecake Factory",
-    "wof:parent_id":-1,
+    "wof:parent_id":420559399,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.757938,41.025977,-73.757938,41.025977],
+  "bbox": [
+    -73.757938,
+    41.025977,
+    -73.757938,
+    41.025977
+],
   "geometry": {"coordinates":[-73.757938,41.025977],"type":"Point"}
 }

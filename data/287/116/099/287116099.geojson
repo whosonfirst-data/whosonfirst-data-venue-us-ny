@@ -2,13 +2,14 @@
   "id": 287116099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.052157,40.847183,-73.052157,40.847183",
     "geom:latitude":40.847183,
     "geom:longitude":-73.052157,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"498 College Rd",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85892863,
+        102191575,
+        404522517,
         85633793,
+        85979689,
+        102082395,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"37cfdd06f3524e7de89a46f608e9f060",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082395,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
+            "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":287116099
         }
     ],
     "wof:id":287116099,
-    "wof:lastmodified":1449000788,
+    "wof:lastmodified":1454123781,
     "wof:name":"Michael Aliquo DC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892863,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-73.052157,40.847183,-73.052157,40.847183],
-  "geometry": {"coordinates":[-73.052157,40.847183],"type":"Point"}
+  "bbox": [
+    -73.052157,
+    40.847183,
+    -73.052157,
+    40.847183
+],
+  "geometry": {"coordinates":[-73.05215699999999,40.847183],"type":"Point"}
 }

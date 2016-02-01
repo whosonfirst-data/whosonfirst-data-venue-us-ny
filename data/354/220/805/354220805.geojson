@@ -2,13 +2,14 @@
   "id": 354220805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.025646,40.815985,-73.025646,40.815985",
     "geom:latitude":40.815985,
     "geom:longitude":-73.025646,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"323 Long Island Ave",
     "sg:city":"Holtsville",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"a19df1e6e582527b23e05dbbc3e6fe91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354220805
         }
     ],
     "wof:id":354220805,
-    "wof:lastmodified":1449067611,
+    "wof:lastmodified":1454131291,
     "wof:name":"Realtime Media Management",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "services-household"
     ]
 },
-  "bbox": [-73.025646,40.815985,-73.025646,40.815985],
-  "geometry": {"coordinates":[-73.025646,40.815985],"type":"Point"}
+  "bbox": [
+    -73.025646,
+    40.815985,
+    -73.025646,
+    40.815985
+],
+  "geometry": {"coordinates":[-73.02564599999999,40.815985],"type":"Point"}
 }

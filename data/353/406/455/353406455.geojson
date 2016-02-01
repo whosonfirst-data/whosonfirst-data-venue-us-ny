@@ -2,13 +2,14 @@
   "id": 353406455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.845454,40.720167,-73.845454,40.720167",
     "geom:latitude":40.720167,
     "geom:longitude":-73.845454,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"70-50 Austin St 113 Lower Level",
     "sg:city":"Forest Hills",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"mjpilateswellness.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819875,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819875
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"1db0d847c5dd8cc6b3de39143c0d7f4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819875,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":353406455,
-    "wof:lastmodified":1449019633,
+    "wof:lastmodified":1454126348,
     "wof:name":"MJ Pilates & Wellness",
     "wof:parent_id":85819875,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "pilate"
     ]
 },
-  "bbox": [-73.845454,40.720167,-73.845454,40.720167],
+  "bbox": [
+    -73.845454,
+    40.720167,
+    -73.845454,
+    40.720167
+],
   "geometry": {"coordinates":[-73.845454,40.720167],"type":"Point"}
 }

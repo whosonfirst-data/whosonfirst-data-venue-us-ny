@@ -2,13 +2,14 @@
   "id": 403975933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.618918,43.047069,-77.618918,43.047069",
     "geom:latitude":43.047069,
     "geom:longitude":-77.618918,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3831 E Henrietta Rd",
     "sg:city":"Henrietta",
     "sg:classifiers":[
@@ -32,8 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85833773,
+        102081815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,17 @@
     "wof:geomhash":"96a003ff4a7ecaceeda58d829aa98909",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "neighbourhood_id":85833773,
             "region_id":85688543,
             "venue_id":403975933
         }
     ],
     "wof:id":403975933,
-    "wof:lastmodified":1449055783,
+    "wof:lastmodified":1454129487,
     "wof:name":"Brentland Woods",
-    "wof:parent_id":-1,
+    "wof:parent_id":85833773,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +69,11 @@
         "senior"
     ]
 },
-  "bbox": [-77.618918,43.047069,-77.618918,43.047069],
-  "geometry": {"coordinates":[-77.618918,43.047069],"type":"Point"}
+  "bbox": [
+    -77.618918,
+    43.047069,
+    -77.618918,
+    43.047069
+],
+  "geometry": {"coordinates":[-77.61891799999999,43.047069],"type":"Point"}
 }

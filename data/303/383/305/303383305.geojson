@@ -2,13 +2,14 @@
   "id": 303383305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.986057,40.718764,-73.986057,40.718764",
     "geom:latitude":40.718764,
     "geom:longitude":-73.986057,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"102 Suffolk St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831563,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85831563
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"1fc76d89c7dae3d7ea141d77080853f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85831563,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303383305,
-    "wof:lastmodified":1448999153,
+    "wof:lastmodified":1454123334,
     "wof:name":"Duh Nyc",
     "wof:parent_id":85831563,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.986057,40.718764,-73.986057,40.718764],
+  "bbox": [
+    -73.986057,
+    40.718764,
+    -73.986057,
+    40.718764
+],
   "geometry": {"coordinates":[-73.986057,40.718764],"type":"Point"}
 }

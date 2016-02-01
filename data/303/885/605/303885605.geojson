@@ -2,13 +2,14 @@
   "id": 303885605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.15515,40.904107,-73.15515,40.904107",
     "geom:latitude":40.904107,
     "geom:longitude":-73.15515,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3 Nadia Ct",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824457,
+        102191575,
+        404521441,
         85633793,
-        85978487,
+        85979927,
         102082395,
-        85824457
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"0ca54685685aa1dde1d81b8c0fb8f8ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978487,
+            "localadmin_id":404521441,
+            "locality_id":85979927,
             "neighbourhood_id":85824457,
             "region_id":85688543,
             "venue_id":303885605
         }
     ],
     "wof:id":303885605,
-    "wof:lastmodified":1448999421,
+    "wof:lastmodified":1454123410,
     "wof:name":"Cedar Hill Estates Inc",
     "wof:parent_id":85824457,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.15515,40.904107,-73.15515,40.904107],
-  "geometry": {"coordinates":[-73.15515,40.904107],"type":"Point"}
+  "bbox": [
+    -73.15515,
+    40.904107,
+    -73.15515,
+    40.904107
+],
+  "geometry": {"coordinates":[-73.15515000000001,40.904107],"type":"Point"}
 }

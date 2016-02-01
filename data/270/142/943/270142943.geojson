@@ -2,13 +2,14 @@
   "id": 270142943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.095734,43.06046,-76.095734,43.06046",
     "geom:latitude":43.06046,
     "geom:longitude":-76.095734,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2900 Burnet Ave",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881263,
+        102191575,
+        404521501,
         85633793,
-        85977785,
-        102082351
+        85977799,
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"fbea4735f80d26f34f74b98ec06b71cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
-            "locality_id":85977785,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521501,
+            "locality_id":85977799,
+            "neighbourhood_id":85881263,
             "region_id":85688543,
             "venue_id":270142943
         }
     ],
     "wof:id":270142943,
-    "wof:lastmodified":1449010575,
+    "wof:lastmodified":1454124656,
     "wof:name":"C-O Plumbing & Heating Supply",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881263,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.095734,43.06046,-76.095734,43.06046],
-  "geometry": {"coordinates":[-76.095734,43.06046],"type":"Point"}
+  "bbox": [
+    -76.095734,
+    43.06046,
+    -76.095734,
+    43.06046
+],
+  "geometry": {"coordinates":[-76.09573399999999,43.06046],"type":"Point"}
 }

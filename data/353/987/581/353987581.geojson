@@ -2,13 +2,14 @@
   "id": 353987581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.920611,40.866758,-73.920611,40.866758",
     "geom:latitude":40.866758,
     "geom:longitude":-73.920611,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"611 W 207th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826989,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85826989
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"b0c95521586637cb6255ba997d21b51a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85826989,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":353987581,
-    "wof:lastmodified":1449019680,
+    "wof:lastmodified":1454126361,
     "wof:name":"ATM Cash Expess Inc",
     "wof:parent_id":85826989,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "automated"
     ]
 },
-  "bbox": [-73.920611,40.866758,-73.920611,40.866758],
-  "geometry": {"coordinates":[-73.920611,40.866758],"type":"Point"}
+  "bbox": [
+    -73.920611,
+    40.866758,
+    -73.920611,
+    40.866758
+],
+  "geometry": {"coordinates":[-73.92061099999999,40.866758],"type":"Point"}
 }

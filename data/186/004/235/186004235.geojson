@@ -2,13 +2,14 @@
   "id": 186004235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.963946,40.618321,-73.963946,40.618321",
     "geom:latitude":40.618321,
     "geom:longitude":-73.963946,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1618 Coney Island Ave # 1",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.charm-tex.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865583,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"5b7793c9dde64053bfaf18f11c0f6ef1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865583,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":186004235,
-    "wof:lastmodified":1449051363,
+    "wof:lastmodified":1454129306,
     "wof:name":"Charm-Tex, Inc.",
     "wof:parent_id":85865583,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.963946,40.618321,-73.963946,40.618321],
-  "geometry": {"coordinates":[-73.963946,40.618321],"type":"Point"}
+  "bbox": [
+    -73.963946,
+    40.618321,
+    -73.963946,
+    40.618321
+],
+  "geometry": {"coordinates":[-73.96394600000001,40.618321],"type":"Point"}
 }

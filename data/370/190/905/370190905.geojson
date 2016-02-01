@@ -2,13 +2,14 @@
   "id": 370190905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.8395,40.856426,-73.8395,40.856426",
     "geom:latitude":40.856426,
     "geom:longitude":-73.8395,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1410 Pelham Pkwy S",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892795,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85892795
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"05ffa612e8245eb3ea2b75018d56eef6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892795,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":370190905,
-    "wof:lastmodified":1449032251,
+    "wof:lastmodified":1454128246,
     "wof:name":"Dept of Pediatrics",
     "wof:parent_id":85892795,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "out"
     ]
 },
-  "bbox": [-73.8395,40.856426,-73.8395,40.856426],
+  "bbox": [
+    -73.8395,
+    40.856426,
+    -73.8395,
+    40.856426
+],
   "geometry": {"coordinates":[-73.8395,40.856426],"type":"Point"}
 }

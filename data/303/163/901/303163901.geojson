@@ -2,13 +2,14 @@
   "id": 303163901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.417041,40.875158,-73.417041,40.875158",
     "geom:latitude":40.875158,
     "geom:longitude":-73.417041,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"475 W Main St",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.windmillphotography.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820109,
+        102191575,
+        404522515,
         85633793,
-        85979675,
+        85979787,
         102082395,
-        85820109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"3e93865c1ce872b13fc33fba15225c8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979675,
+            "localadmin_id":404522515,
+            "locality_id":85979787,
             "neighbourhood_id":85820109,
             "region_id":85688543,
             "venue_id":303163901
         }
     ],
     "wof:id":303163901,
-    "wof:lastmodified":1449000512,
+    "wof:lastmodified":1454123710,
     "wof:name":"Windmill Photography",
     "wof:parent_id":85820109,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "photographer"
     ]
 },
-  "bbox": [-73.417041,40.875158,-73.417041,40.875158],
+  "bbox": [
+    -73.417041,
+    40.875158,
+    -73.417041,
+    40.875158
+],
   "geometry": {"coordinates":[-73.417041,40.875158],"type":"Point"}
 }

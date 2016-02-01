@@ -2,13 +2,14 @@
   "id": 303258023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.04085,41.129079,-74.04085,41.129079",
     "geom:latitude":41.129079,
     "geom:longitude":-74.04085,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"285 N Main St",
     "sg:city":"Spring Valley",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"52746f97b1bd9024dce73838bbb5ca7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":303258023
         }
     ],
     "wof:id":303258023,
-    "wof:lastmodified":1449000063,
+    "wof:lastmodified":1454123584,
     "wof:name":"Cresthill Wines & Liquors Inc",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.04085,41.129079,-74.04085,41.129079],
-  "geometry": {"coordinates":[-74.04085,41.129079],"type":"Point"}
+  "bbox": [
+    -74.04085,
+    41.129079,
+    -74.04085,
+    41.129079
+],
+  "geometry": {"coordinates":[-74.04085000000001,41.129079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404078395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.892215,40.810705,-73.892215,40.810705",
     "geom:latitude":40.810705,
     "geom:longitude":-73.892215,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"528 Craven St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826591,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85826591
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"d147d44e36d7581811cce82dc6bd2fd2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85826591,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":404078395,
-    "wof:lastmodified":1449040137,
+    "wof:lastmodified":1454128945,
     "wof:name":"Diamond Mechanical Corporation",
     "wof:parent_id":85826591,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.892215,40.810705,-73.892215,40.810705],
-  "geometry": {"coordinates":[-73.892215,40.810705],"type":"Point"}
+  "bbox": [
+    -73.892215,
+    40.810705,
+    -73.892215,
+    40.810705
+],
+  "geometry": {"coordinates":[-73.89221499999999,40.810705],"type":"Point"}
 }

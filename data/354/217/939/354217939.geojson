@@ -2,13 +2,14 @@
   "id": 354217939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.083162,40.770889,-73.083162,40.770889",
     "geom:latitude":40.770889,
     "geom:longitude":-73.083162,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"921 Lincoln Ave Ste 3",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"1659749d029aab6e464dd975b96fba41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":354217939
         }
     ],
     "wof:id":354217939,
-    "wof:lastmodified":1449067572,
+    "wof:lastmodified":1454131276,
     "wof:name":"Marx Auto",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.083162,40.770889,-73.083162,40.770889],
+  "bbox": [
+    -73.083162,
+    40.770889,
+    -73.083162,
+    40.770889
+],
   "geometry": {"coordinates":[-73.083162,40.770889],"type":"Point"}
 }

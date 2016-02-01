@@ -2,13 +2,14 @@
   "id": 370490387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.533723,40.693045,-73.533723,40.693045",
     "geom:latitude":40.693045,
     "geom:longitude":-73.533723,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1088 Bellmore Rd",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"007c2ea667fb341fcfb8f7275c23e31d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":370490387
         }
     ],
     "wof:id":370490387,
-    "wof:lastmodified":1449032133,
+    "wof:lastmodified":1454128210,
     "wof:name":"Spg Mechanical Inc",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.533723,40.693045,-73.533723,40.693045],
-  "geometry": {"coordinates":[-73.533723,40.693045],"type":"Point"}
+  "bbox": [
+    -73.533723,
+    40.693045,
+    -73.533723,
+    40.693045
+],
+  "geometry": {"coordinates":[-73.53372299999999,40.693045],"type":"Point"}
 }

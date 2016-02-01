@@ -2,13 +2,14 @@
   "id": 387008387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.607905,43.203105,-77.607905,43.203105",
     "geom:latitude":43.203105,
     "geom:longitude":-77.607905,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"205 Northfield Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880401,
+        102191575,
+        404522639,
         85633793,
         85979035,
         102081815,
-        85880401
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"e4db4efa6aaa73b69535040637ef80a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404522639,
             "locality_id":85979035,
             "neighbourhood_id":85880401,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":387008387,
-    "wof:lastmodified":1449057294,
+    "wof:lastmodified":1454129741,
     "wof:name":"Sead Stonework Masonry",
     "wof:parent_id":85880401,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.607905,43.203105,-77.607905,43.203105],
+  "bbox": [
+    -77.607905,
+    43.203105,
+    -77.607905,
+    43.203105
+],
   "geometry": {"coordinates":[-77.607905,43.203105],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354046819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.911182,40.898034,-73.911182,40.898034",
     "geom:latitude":40.898034,
     "geom:longitude":-73.911182,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5000 Independence Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844897,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85844897
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"099d77507b9523fc5884b1783d14c71d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844897,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":354046819,
-    "wof:lastmodified":1449066885,
+    "wof:lastmodified":1454131062,
     "wof:name":"Living Pulpit Inc",
     "wof:parent_id":85844897,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "related"
     ]
 },
-  "bbox": [-73.911182,40.898034,-73.911182,40.898034],
+  "bbox": [
+    -73.911182,
+    40.898034,
+    -73.911182,
+    40.898034
+],
   "geometry": {"coordinates":[-73.911182,40.898034],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386958505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.018019,41.444558,-74.018019,41.444558",
     "geom:latitude":41.444558,
     "geom:longitude":-74.018019,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"290 Hudson St",
     "sg:city":"Cornwall On Hudson",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812353,
+        102191575,
+        404522801,
         85633793,
+        85978241,
         102083061,
-        85812353
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"dc45686098ce80cd4faf9a7503fbdfcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":-1,
+            "localadmin_id":404522801,
+            "locality_id":85978241,
             "neighbourhood_id":85812353,
             "region_id":85688543,
             "venue_id":386958505
         }
     ],
     "wof:id":386958505,
-    "wof:lastmodified":1449028881,
+    "wof:lastmodified":1454127258,
     "wof:name":"Yung S Choi MD",
     "wof:parent_id":85812353,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "medical"
     ]
 },
-  "bbox": [-74.018019,41.444558,-74.018019,41.444558],
+  "bbox": [
+    -74.018019,
+    41.444558,
+    -74.018019,
+    41.444558
+],
   "geometry": {"coordinates":[-74.018019,41.444558],"type":"Point"}
 }

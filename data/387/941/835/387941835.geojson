@@ -2,13 +2,14 @@
   "id": 387941835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.6707,43.105144,-78.6707,43.105144",
     "geom:latitude":43.105144,
     "geom:longitude":-78.6707,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6435 Bartz Rd",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529193,
+        102191575,
+        404522737,
         85633793,
+        85979541,
+        102081767,
         85688543
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"bc15a80a9303d5f0985d0f1d56b3a7ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081767,
+            "localadmin_id":404522737,
+            "locality_id":85979541,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":387941835
         }
     ],
     "wof:id":387941835,
-    "wof:lastmodified":1449058377,
+    "wof:lastmodified":1454129937,
     "wof:name":"All County Electric Constr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.6707,43.105144,-78.6707,43.105144],
+  "bbox": [
+    -78.6707,
+    43.105144,
+    -78.6707,
+    43.105144
+],
   "geometry": {"coordinates":[-78.6707,43.105144],"type":"Point"}
 }

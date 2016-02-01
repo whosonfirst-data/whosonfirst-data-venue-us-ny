@@ -2,13 +2,14 @@
   "id": 287176847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.828718,40.982312,-73.828718,40.982312",
     "geom:latitude":40.982312,
     "geom:longitude":-73.828718,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12 Young Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805227,
+        102191575,
+        404523359,
         85633793,
-        85978759,
+        85980063,
         102082373,
-        85805227
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"ccc746a095bba23cf4d88bf33f827cac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978759,
+            "localadmin_id":404523359,
+            "locality_id":85980063,
             "neighbourhood_id":85805227,
             "region_id":85688543,
             "venue_id":287176847
         }
     ],
     "wof:id":287176847,
-    "wof:lastmodified":1449001266,
+    "wof:lastmodified":1454123894,
     "wof:name":"Goldenberg Monuments Inc",
     "wof:parent_id":85805227,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-73.828718,40.982312,-73.828718,40.982312],
-  "geometry": {"coordinates":[-73.828718,40.982312],"type":"Point"}
+  "bbox": [
+    -73.828718,
+    40.982312,
+    -73.828718,
+    40.982312
+],
+  "geometry": {"coordinates":[-73.82871799999999,40.982312],"type":"Point"}
 }

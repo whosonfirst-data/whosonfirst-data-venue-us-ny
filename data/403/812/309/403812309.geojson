@@ -2,13 +2,14 @@
   "id": 403812309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.873083,41.01588,-73.873083,41.01588",
     "geom:latitude":41.01588,
     "geom:longitude":-73.873083,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"41 Cedar St",
     "sg:city":"Dobbs Ferry",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85849177,
+        102191575,
+        404523359,
         85633793,
-        102082385,
-        85849177
+        85978743,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"06690b2ec0e5e42d1b85edc4c598821f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082385,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523359,
+            "locality_id":85978743,
             "neighbourhood_id":85849177,
             "region_id":85688543,
             "venue_id":403812309
         }
     ],
     "wof:id":403812309,
-    "wof:lastmodified":1449054658,
+    "wof:lastmodified":1454129326,
     "wof:name":"Riverview Creations",
     "wof:parent_id":85849177,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "dealer"
     ]
 },
-  "bbox": [-73.873083,41.01588,-73.873083,41.01588],
-  "geometry": {"coordinates":[-73.873083,41.01588],"type":"Point"}
+  "bbox": [
+    -73.873083,
+    41.01588,
+    -73.873083,
+    41.01588
+],
+  "geometry": {"coordinates":[-73.87308299999999,41.01588],"type":"Point"}
 }

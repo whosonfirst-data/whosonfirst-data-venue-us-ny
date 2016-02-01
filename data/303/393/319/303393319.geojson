@@ -2,13 +2,14 @@
   "id": 303393319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.83116,40.895986,-73.83116,40.895986",
     "geom:latitude":40.895986,
     "geom:longitude":-73.83116,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"628 S 4th Ave",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840705,
+        102191575,
+        404523371,
         85633793,
         85978721,
         102082373,
-        85840705
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"bd5e3255ede4c7855f0c689cb71391f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
             "neighbourhood_id":85840705,
             "region_id":85688543,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":303393319,
-    "wof:lastmodified":1448998884,
+    "wof:lastmodified":1454123257,
     "wof:name":"Pace Environmental Systems",
     "wof:parent_id":85840705,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "refrigerator"
     ]
 },
-  "bbox": [-73.83116,40.895986,-73.83116,40.895986],
+  "bbox": [
+    -73.83116,
+    40.895986,
+    -73.83116,
+    40.895986
+],
   "geometry": {"coordinates":[-73.83116,40.895986],"type":"Point"}
 }

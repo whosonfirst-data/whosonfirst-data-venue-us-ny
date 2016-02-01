@@ -2,13 +2,14 @@
   "id": 370830965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.23856,42.099468,-79.23856,42.099468",
     "geom:latitude":42.099468,
     "geom:longitude":-79.23856,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"509 Prendergast Ave",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817873,
+        102191575,
+        404521959,
         85633793,
+        85980155,
         102081811,
-        85817873
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"92471a7d9d7e2a37fbd84a0968878adf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081811,
-            "locality_id":-1,
+            "localadmin_id":404521959,
+            "locality_id":85980155,
             "neighbourhood_id":85817873,
             "region_id":85688543,
             "venue_id":370830965
         }
     ],
     "wof:id":370830965,
-    "wof:lastmodified":1449029814,
+    "wof:lastmodified":1454127528,
     "wof:name":"A Childrens Place Day Care",
     "wof:parent_id":85817873,
     "wof:placetype":"venue",
@@ -65,6 +70,11 @@
         "day"
     ]
 },
-  "bbox": [-79.23856,42.099468,-79.23856,42.099468],
-  "geometry": {"coordinates":[-79.23856,42.099468],"type":"Point"}
+  "bbox": [
+    -79.23856,
+    42.099468,
+    -79.23856,
+    42.099468
+],
+  "geometry": {"coordinates":[-79.23856000000001,42.099468],"type":"Point"}
 }

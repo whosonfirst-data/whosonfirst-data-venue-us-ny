@@ -2,13 +2,14 @@
   "id": 370835085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.463081,43.218201,-75.463081,43.218201",
     "geom:latitude":43.218201,
     "geom:longitude":-75.463081,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"501 W Embargo St",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.roscoinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831745,
+        102191575,
+        404522697,
         85633793,
         85978369,
         102083149,
-        85831745
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c4755dd9ebc53bd34e5d6141adc7fb66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083149,
+            "localadmin_id":404522697,
             "locality_id":85978369,
             "neighbourhood_id":85831745,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370835085,
-    "wof:lastmodified":1449029576,
+    "wof:lastmodified":1454127458,
     "wof:name":"Rosco Div",
     "wof:parent_id":85831745,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-75.463081,43.218201,-75.463081,43.218201],
+  "bbox": [
+    -75.463081,
+    43.218201,
+    -75.463081,
+    43.218201
+],
   "geometry": {"coordinates":[-75.463081,43.218201],"type":"Point"}
 }

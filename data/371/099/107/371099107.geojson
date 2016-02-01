@@ -2,13 +2,14 @@
   "id": 371099107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.89279,41.207577,-73.89279,41.207577",
     "geom:latitude":41.207577,
     "geom:longitude":-73.89279,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Farrington Rd",
     "sg:city":"Brewster",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85813053,
+        102191575,
+        404523355,
         85633793,
         85978745,
         102082373,
-        85813053
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"50cec9862a865b3a8b6f31982175eeb4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523355,
             "locality_id":85978745,
             "neighbourhood_id":85813053,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":371099107,
-    "wof:lastmodified":1449049736,
+    "wof:lastmodified":1454129200,
     "wof:name":"ABB Inc",
     "wof:parent_id":85813053,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "instrument"
     ]
 },
-  "bbox": [-73.89279,41.207577,-73.89279,41.207577],
-  "geometry": {"coordinates":[-73.89279,41.207577],"type":"Point"}
+  "bbox": [
+    -73.89279,
+    41.207577,
+    -73.89279,
+    41.207577
+],
+  "geometry": {"coordinates":[-73.89279000000001,41.207577],"type":"Point"}
 }

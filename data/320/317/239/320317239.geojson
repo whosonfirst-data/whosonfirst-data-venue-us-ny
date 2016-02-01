@@ -2,13 +2,14 @@
   "id": 320317239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.603989,43.171479,-77.603989,43.171479",
     "geom:latitude":43.171479,
     "geom:longitude":-77.603989,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"524 Upper Falls Blvd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529057,
+        102191575,
+        404521467,
         85633793,
         85977591,
-        102081815
+        102081815,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"27fcc811053a305ce2b74a9f91ca308c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529057,
             "region_id":85688543,
             "venue_id":320317239
         }
     ],
     "wof:id":320317239,
-    "wof:lastmodified":1449012957,
+    "wof:lastmodified":1454125037,
     "wof:name":"Upper Falls Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.603989,43.171479,-77.603989,43.171479],
+  "bbox": [
+    -77.603989,
+    43.171479,
+    -77.603989,
+    43.171479
+],
   "geometry": {"coordinates":[-77.603989,43.171479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386927483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.587105,40.666824,-73.587105,40.666824",
     "geom:latitude":40.666824,
     "geom:longitude":-73.587105,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"310 N Main St",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529155,
+        102191575,
+        404521473,
         85633793,
         85977679,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"bab625898e1425abdc78178fe9b9792e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977679,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529155,
             "region_id":85688543,
             "venue_id":386927483
         }
     ],
     "wof:id":386927483,
-    "wof:lastmodified":1449028942,
+    "wof:lastmodified":1454127276,
     "wof:name":"Mt Vernon Zacks Deli",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529155,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-73.587105,40.666824,-73.587105,40.666824],
-  "geometry": {"coordinates":[-73.587105,40.666824],"type":"Point"}
+  "bbox": [
+    -73.587105,
+    40.666824,
+    -73.587105,
+    40.666824
+],
+  "geometry": {"coordinates":[-73.58710499999999,40.666824],"type":"Point"}
 }

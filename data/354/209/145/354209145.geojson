@@ -2,13 +2,14 @@
   "id": 354209145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.984549,40.640783,-73.984549,40.640783",
     "geom:latitude":40.640783,
     "geom:longitude":-73.984549,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1365 38th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"9b0798ea35094d8e2f1a6c1ff950d8d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":354209145
         }
     ],
     "wof:id":354209145,
-    "wof:lastmodified":1449067490,
+    "wof:lastmodified":1454131250,
     "wof:name":"Infinity Hosiery",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.984549,40.640783,-73.984549,40.640783],
+  "bbox": [
+    -73.984549,
+    40.640783,
+    -73.984549,
+    40.640783
+],
   "geometry": {"coordinates":[-73.984549,40.640783],"type":"Point"}
 }

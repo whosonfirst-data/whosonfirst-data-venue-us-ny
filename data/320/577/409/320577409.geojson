@@ -2,13 +2,14 @@
   "id": 320577409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.884948,41.200205,-73.884948,41.200205",
     "geom:latitude":41.200205,
     "geom:longitude":-73.884948,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Hudson River Rd",
     "sg:city":"Croton On Hudson",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.maxfinkelstein.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85813053,
+        102191575,
+        404523355,
         85633793,
         85978745,
         102082373,
-        85813053
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"d93bdb63d4adaac7b8361d4be56f831f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523355,
             "locality_id":85978745,
             "neighbourhood_id":85813053,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":320577409,
-    "wof:lastmodified":1449015075,
+    "wof:lastmodified":1454125381,
     "wof:name":"Max Finkelstein Inc",
     "wof:parent_id":85813053,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "tire"
     ]
 },
-  "bbox": [-73.884948,41.200205,-73.884948,41.200205],
-  "geometry": {"coordinates":[-73.884948,41.200205],"type":"Point"}
+  "bbox": [
+    -73.884948,
+    41.200205,
+    -73.884948,
+    41.200205
+],
+  "geometry": {"coordinates":[-73.88494799999999,41.200205],"type":"Point"}
 }

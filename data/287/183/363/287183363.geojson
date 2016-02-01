@@ -2,13 +2,14 @@
   "id": 287183363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.698309,40.703268,-73.698309,40.703268",
     "geom:latitude":40.703268,
     "geom:longitude":-73.698309,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"176 Benson Ave",
     "sg:city":"Elmont",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420559871,
+        102191575,
+        404521473,
         85633793,
         85979137,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"7f86171e839a8d3b5f4211b1ae628cea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979137,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420559871,
             "region_id":85688543,
             "venue_id":287183363
         }
     ],
     "wof:id":287183363,
-    "wof:lastmodified":1449001147,
+    "wof:lastmodified":1454123866,
     "wof:name":"Commas International Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420559871,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "editorial"
     ]
 },
-  "bbox": [-73.698309,40.703268,-73.698309,40.703268],
-  "geometry": {"coordinates":[-73.698309,40.703268],"type":"Point"}
+  "bbox": [
+    -73.698309,
+    40.703268,
+    -73.698309,
+    40.703268
+],
+  "geometry": {"coordinates":[-73.69830899999999,40.703268],"type":"Point"}
 }

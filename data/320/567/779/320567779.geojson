@@ -2,13 +2,14 @@
   "id": 320567779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.527597,40.85159,-73.527597,40.85159",
     "geom:latitude":40.85159,
     "geom:longitude":-73.527597,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"55 Highwood Rd",
     "sg:city":"Oyster Bay",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529173,
+        102191575,
+        404521475,
         85633793,
+        85977645,
+        102082371,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"b36731459239e5e2ffa5394dbbb0dd95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85977645,
+            "neighbourhood_id":420529173,
             "region_id":85688543,
             "venue_id":320567779
         }
     ],
     "wof:id":320567779,
-    "wof:lastmodified":1449014996,
+    "wof:lastmodified":1454125369,
     "wof:name":"Phil Baldino & Sons Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529173,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-73.527597,40.85159,-73.527597,40.85159],
+  "bbox": [
+    -73.527597,
+    40.85159,
+    -73.527597,
+    40.85159
+],
   "geometry": {"coordinates":[-73.527597,40.85159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252899587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.106589,41.352937,-74.106589,41.352937",
     "geom:latitude":41.352937,
     "geom:longitude":-74.106589,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9 Skyline Dr",
     "sg:city":"Highland Mills",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529451,
+        102191575,
+        404522927,
         85633793,
         85978219,
-        102083061
+        102083061,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"1347cbb0674d13c539ac3273d8f5f508",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
+            "localadmin_id":404522927,
             "locality_id":85978219,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529451,
             "region_id":85688543,
             "venue_id":252899587
         }
     ],
     "wof:id":252899587,
-    "wof:lastmodified":1449006444,
+    "wof:lastmodified":1454124124,
     "wof:name":"Skyline Chimney Sweep",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529451,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "chimney"
     ]
 },
-  "bbox": [-74.106589,41.352937,-74.106589,41.352937],
+  "bbox": [
+    -74.106589,
+    41.352937,
+    -74.106589,
+    41.352937
+],
   "geometry": {"coordinates":[-74.106589,41.352937],"type":"Point"}
 }

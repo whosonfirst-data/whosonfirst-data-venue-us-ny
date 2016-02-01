@@ -2,13 +2,14 @@
   "id": 252854923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.150489,43.001766,-76.150489,43.001766",
     "geom:latitude":43.001766,
     "geom:longitude":-76.150489,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"290 W Seneca Tpke",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.giddingsgarden.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529355,
+        102191575,
+        404522851,
         85633793,
         85977785,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"c1926a8ef7dd14911b7826d3d4e5e6b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529355,
             "region_id":85688543,
             "venue_id":252854923
         }
     ],
     "wof:id":252854923,
-    "wof:lastmodified":1449006463,
+    "wof:lastmodified":1454124127,
     "wof:name":"Giddings Garden B & B",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529355,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "bed"
     ]
 },
-  "bbox": [-76.150489,43.001766,-76.150489,43.001766],
-  "geometry": {"coordinates":[-76.150489,43.001766],"type":"Point"}
+  "bbox": [
+    -76.150489,
+    43.001766,
+    -76.150489,
+    43.001766
+],
+  "geometry": {"coordinates":[-76.15048899999999,43.001766],"type":"Point"}
 }

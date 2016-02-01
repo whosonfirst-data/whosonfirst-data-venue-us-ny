@@ -2,13 +2,14 @@
   "id": 303376679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.943081,40.745375,-73.943081,40.745375",
     "geom:latitude":40.745375,
     "geom:longitude":-73.943081,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"45 Court Sq",
     "sg:city":"Long Island City",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865631,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865631
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"f7c0de00b71102b0fafd2a35c86dc138",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865631,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":303376679,
-    "wof:lastmodified":1448998952,
+    "wof:lastmodified":1454123281,
     "wof:name":"Trane Co",
     "wof:parent_id":85865631,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.943081,40.745375,-73.943081,40.745375],
-  "geometry": {"coordinates":[-73.943081,40.745375],"type":"Point"}
+  "bbox": [
+    -73.943081,
+    40.745375,
+    -73.943081,
+    40.745375
+],
+  "geometry": {"coordinates":[-73.94308100000001,40.745375],"type":"Point"}
 }

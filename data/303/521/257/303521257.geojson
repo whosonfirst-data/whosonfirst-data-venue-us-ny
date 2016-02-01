@@ -2,13 +2,14 @@
   "id": 303521257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.094035,40.783142,-73.094035,40.783142",
     "geom:latitude":40.783142,
     "geom:longitude":-73.094035,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"70 Air Park Dr",
     "sg:city":"Ronkonkoma",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +54,18 @@
     "wof:geomhash":"80546a8e54d06fb369ddec9a4db477b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":303521257
         }
     ],
     "wof:id":303521257,
-    "wof:lastmodified":1449000445,
+    "wof:lastmodified":1454123689,
     "wof:name":"Vosky Precision Machining Corp",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "stampings"
     ]
 },
-  "bbox": [-73.094035,40.783142,-73.094035,40.783142],
-  "geometry": {"coordinates":[-73.094035,40.783142],"type":"Point"}
+  "bbox": [
+    -73.094035,
+    40.783142,
+    -73.094035,
+    40.783142
+],
+  "geometry": {"coordinates":[-73.09403500000001,40.783142],"type":"Point"}
 }

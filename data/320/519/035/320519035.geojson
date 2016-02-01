@@ -2,13 +2,14 @@
   "id": 320519035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.393299,40.891597,-73.393299,40.891597",
     "geom:latitude":40.891597,
     "geom:longitude":-73.393299,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Charleston Dr",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826545,
+        102191575,
+        404522515,
         85633793,
-        85979823,
+        85978425,
         102082395,
-        85826545
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"11876dc3a77d074c92542aec63651fe8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979823,
+            "localadmin_id":404522515,
+            "locality_id":85978425,
             "neighbourhood_id":85826545,
             "region_id":85688543,
             "venue_id":320519035
         }
     ],
     "wof:id":320519035,
-    "wof:lastmodified":1449014713,
+    "wof:lastmodified":1454125323,
     "wof:name":"Greenery Inc",
     "wof:parent_id":85826545,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-73.393299,40.891597,-73.393299,40.891597],
+  "bbox": [
+    -73.393299,
+    40.891597,
+    -73.393299,
+    40.891597
+],
   "geometry": {"coordinates":[-73.393299,40.891597],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336784627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.91062,41.413408,-73.91062,41.413408",
     "geom:latitude":41.413408,
     "geom:longitude":-73.91062,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1123 Old Albany Post Rd",
     "sg:city":"Garrison",
     "sg:classifiers":[
@@ -34,8 +35,10 @@
     "sg:website":"www.thebirdandbottleinn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85836471,
+        102083007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +48,17 @@
     "wof:geomhash":"2aba7a594eb402ec311f92787a05fab1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083007,
+            "neighbourhood_id":85836471,
             "region_id":85688543,
             "venue_id":336784627
         }
     ],
     "wof:id":336784627,
-    "wof:lastmodified":1448997652,
+    "wof:lastmodified":1454122840,
     "wof:name":"Bird & Bottle Inn  The",
-    "wof:parent_id":-1,
+    "wof:parent_id":85836471,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +67,11 @@
         "bar"
     ]
 },
-  "bbox": [-73.91062,41.413408,-73.91062,41.413408],
-  "geometry": {"coordinates":[-73.91062,41.413408],"type":"Point"}
+  "bbox": [
+    -73.91062,
+    41.413408,
+    -73.91062,
+    41.413408
+],
+  "geometry": {"coordinates":[-73.91061999999999,41.413408],"type":"Point"}
 }

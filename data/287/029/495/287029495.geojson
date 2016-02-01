@@ -2,13 +2,14 @@
   "id": 287029495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.786667,43.073378,-73.786667,43.073378",
     "geom:latitude":43.073378,
     "geom:longitude":-73.786667,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"48 Lincoln Ave",
     "sg:city":"Saratoga Springs",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817281,
+        102191575,
+        404522373,
         85633793,
         85977919,
-        102082413
+        102082413,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"b68327ca1a6c2267cbe5d43ee946ae9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082413,
+            "localadmin_id":404522373,
             "locality_id":85977919,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85817281,
             "region_id":85688543,
             "venue_id":287029495
         }
     ],
     "wof:id":287029495,
-    "wof:lastmodified":1449001042,
+    "wof:lastmodified":1454123839,
     "wof:name":"A J's Wash & Dry Cleaning",
-    "wof:parent_id":-1,
+    "wof:parent_id":85817281,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-73.786667,43.073378,-73.786667,43.073378],
-  "geometry": {"coordinates":[-73.786667,43.073378],"type":"Point"}
+  "bbox": [
+    -73.786667,
+    43.073378,
+    -73.786667,
+    43.073378
+],
+  "geometry": {"coordinates":[-73.78666699999999,43.073378],"type":"Point"}
 }

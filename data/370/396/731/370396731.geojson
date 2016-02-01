@@ -2,13 +2,14 @@
   "id": 370396731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.778335,41.012777,-73.778335,41.012777",
     "geom:latitude":41.012777,
     "geom:longitude":-73.778335,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Fairview Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893085,
+        102191575,
+        404523395,
         85633793,
-        85978767,
-        102082373
+        85978761,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"fa23b69610e8a0f810a85cfc61e4347f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978767,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523395,
+            "locality_id":85978761,
+            "neighbourhood_id":85893085,
             "region_id":85688543,
             "venue_id":370396731
         }
     ],
     "wof:id":370396731,
-    "wof:lastmodified":1449031299,
+    "wof:lastmodified":1454127966,
     "wof:name":"Graffiti Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893085,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.778335,41.012777,-73.778335,41.012777],
+  "bbox": [
+    -73.778335,
+    41.012777,
+    -73.778335,
+    41.012777
+],
   "geometry": {"coordinates":[-73.778335,41.012777],"type":"Point"}
 }

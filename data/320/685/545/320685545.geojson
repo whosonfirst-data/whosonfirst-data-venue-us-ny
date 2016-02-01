@@ -2,13 +2,14 @@
   "id": 320685545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.933067,40.584134,-73.933067,40.584134",
     "geom:latitude":40.584134,
     "geom:longitude":-73.933067,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2790 Bragg St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848121,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85848121
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"9ce003650c06bd7dae7872e32cc44c3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85848121,
             "region_id":85688543,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":320685545,
-    "wof:lastmodified":1449014874,
+    "wof:lastmodified":1454125351,
     "wof:name":"Nautilus Leasing",
     "wof:parent_id":85848121,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "physical"
     ]
 },
-  "bbox": [-73.933067,40.584134,-73.933067,40.584134],
-  "geometry": {"coordinates":[-73.933067,40.584134],"type":"Point"}
+  "bbox": [
+    -73.933067,
+    40.584134,
+    -73.933067,
+    40.584134
+],
+  "geometry": {"coordinates":[-73.93306699999999,40.584134],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353955847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.651766,40.634652,-73.651766,40.634652",
     "geom:latitude":40.634652,
     "geom:longitude":-73.651766,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"362 Perkins Ave",
     "sg:city":"Oceanside",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865343,
+        102191575,
+        404521473,
         85633793,
         85979143,
         102082371,
-        85865343
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"32a9ecd18ea107da69f6df8fde48434f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979143,
             "neighbourhood_id":85865343,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":353955847,
-    "wof:lastmodified":1449020010,
+    "wof:lastmodified":1454126457,
     "wof:name":"Gms Productions",
     "wof:parent_id":85865343,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "exchange"
     ]
 },
-  "bbox": [-73.651766,40.634652,-73.651766,40.634652],
-  "geometry": {"coordinates":[-73.651766,40.634652],"type":"Point"}
+  "bbox": [
+    -73.651766,
+    40.634652,
+    -73.651766,
+    40.634652
+],
+  "geometry": {"coordinates":[-73.65176599999999,40.634652],"type":"Point"}
 }

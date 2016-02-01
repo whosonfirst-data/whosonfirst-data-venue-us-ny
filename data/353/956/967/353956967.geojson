@@ -2,13 +2,14 @@
   "id": 353956967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993564,40.624988,-73.993564,40.624988",
     "geom:latitude":40.624988,
     "geom:longitude":-73.993564,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1556 61st St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"d0089770caf3ca6929161bcfd966ce67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":353956967
         }
     ],
     "wof:id":353956967,
-    "wof:lastmodified":1449018677,
+    "wof:lastmodified":1454126072,
     "wof:name":"Blue Sky Trading Warehouse",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "importer"
     ]
 },
-  "bbox": [-73.993564,40.624988,-73.993564,40.624988],
-  "geometry": {"coordinates":[-73.993564,40.624988],"type":"Point"}
+  "bbox": [
+    -73.993564,
+    40.624988,
+    -73.993564,
+    40.624988
+],
+  "geometry": {"coordinates":[-73.99356400000001,40.624988],"type":"Point"}
 }

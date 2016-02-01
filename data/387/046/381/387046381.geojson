@@ -2,13 +2,14 @@
   "id": 387046381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.42443,43.848698,-73.42443,43.848698",
     "geom:latitude":43.848698,
     "geom:longitude":-73.42443,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"156 Montcalm St",
     "sg:city":"Ticonderoga",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820233,
+        102191575,
+        404522389,
         85633793,
+        85978885,
         102082405,
-        85820233
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"7575d9601deb509d1929e78642a2468d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082405,
-            "locality_id":-1,
+            "localadmin_id":404522389,
+            "locality_id":85978885,
             "neighbourhood_id":85820233,
             "region_id":85688543,
             "venue_id":387046381
         }
     ],
     "wof:id":387046381,
-    "wof:lastmodified":1449058219,
+    "wof:lastmodified":1454129907,
     "wof:name":"Gunning Agency",
     "wof:parent_id":85820233,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.42443,43.848698,-73.42443,43.848698],
+  "bbox": [
+    -73.42443,
+    43.848698,
+    -73.42443,
+    43.848698
+],
   "geometry": {"coordinates":[-73.42443,43.848698],"type":"Point"}
 }

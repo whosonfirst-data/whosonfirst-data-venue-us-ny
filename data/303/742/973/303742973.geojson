@@ -2,13 +2,14 @@
   "id": 303742973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.825462,40.897151,-73.825462,40.897151",
     "geom:latitude":40.897151,
     "geom:longitude":-73.825462,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"620 S Fulton Ave",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.royalcaribbeanbakery.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840705,
+        102191575,
+        404523371,
         85633793,
         85978721,
         102082373,
-        85840705
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"e5ccfc52209de9b59c3d695b83222424",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
             "neighbourhood_id":85840705,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":303742973,
-    "wof:lastmodified":1448998281,
+    "wof:lastmodified":1454123041,
     "wof:name":"Royal Caribbean Bakery",
     "wof:parent_id":85840705,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "baker"
     ]
 },
-  "bbox": [-73.825462,40.897151,-73.825462,40.897151],
+  "bbox": [
+    -73.825462,
+    40.897151,
+    -73.825462,
+    40.897151
+],
   "geometry": {"coordinates":[-73.825462,40.897151],"type":"Point"}
 }

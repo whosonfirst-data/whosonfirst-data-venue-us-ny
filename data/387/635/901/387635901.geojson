@@ -2,13 +2,14 @@
   "id": 387635901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.822274,40.910505,-73.822274,40.910505",
     "geom:latitude":40.910505,
     "geom:longitude":-73.822274,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"211 S Columbus Ave",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840705,
+        102191575,
+        404523371,
         85633793,
         85978721,
         102082373,
-        85840705
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"efc50d8c1fdff67f1e6df21557c6d444",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
             "neighbourhood_id":85840705,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387635901,
-    "wof:lastmodified":1449057756,
+    "wof:lastmodified":1454129821,
     "wof:name":"City Limits Carwash & Lube",
     "wof:parent_id":85840705,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "carwash"
     ]
 },
-  "bbox": [-73.822274,40.910505,-73.822274,40.910505],
-  "geometry": {"coordinates":[-73.822274,40.910505],"type":"Point"}
+  "bbox": [
+    -73.822274,
+    40.910505,
+    -73.822274,
+    40.910505
+],
+  "geometry": {"coordinates":[-73.82227399999999,40.910505],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320418343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.619671,40.793487,-73.619671,40.793487",
     "geom:latitude":40.793487,
     "geom:longitude":-73.619671,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 West St",
     "sg:city":"Mineola",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85847583,
+        102191575,
+        404522729,
         85633793,
+        85977733,
+        102082371,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"6cb7c9cbfec14a7b03fff18123aba286",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082371,
+            "localadmin_id":404522729,
+            "locality_id":85977733,
+            "neighbourhood_id":85847583,
             "region_id":85688543,
             "venue_id":320418343
         }
     ],
     "wof:id":320418343,
-    "wof:lastmodified":1449014158,
+    "wof:lastmodified":1454125232,
     "wof:name":"County Executives Press Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":85847583,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-73.619671,40.793487,-73.619671,40.793487],
+  "bbox": [
+    -73.619671,
+    40.793487,
+    -73.619671,
+    40.793487
+],
   "geometry": {"coordinates":[-73.619671,40.793487],"type":"Point"}
 }

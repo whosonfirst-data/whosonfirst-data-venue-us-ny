@@ -2,13 +2,14 @@
   "id": 253015175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.009505,40.715213,-74.009505,40.715213",
     "geom:latitude":40.715213,
     "geom:longitude":-74.009505,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"90 W Broadway",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.northforkbank.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865713,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865713
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"e3a4376ebb9427eb1820a004e659ff2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865713,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":253015175,
-    "wof:lastmodified":1449063485,
+    "wof:lastmodified":1454130355,
     "wof:name":"North Fork Bank",
     "wof:parent_id":85865713,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "commercial"
     ]
 },
-  "bbox": [-74.009505,40.715213,-74.009505,40.715213],
+  "bbox": [
+    -74.009505,
+    40.715213,
+    -74.009505,
+    40.715213
+],
   "geometry": {"coordinates":[-74.009505,40.715213],"type":"Point"}
 }

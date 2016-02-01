@@ -2,13 +2,14 @@
   "id": 404193955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.998924,40.863505,-72.998924,40.863505",
     "geom:latitude":40.863505,
     "geom:longitude":-72.998924,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3665 Rte 112",
     "sg:city":"Coram",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"7455f23c9fe0cd23c951d337ffde54b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":404193955
         }
     ],
     "wof:id":404193955,
-    "wof:lastmodified":1449039211,
+    "wof:lastmodified":1454128850,
     "wof:name":"Pepperidge Farm Inc",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "baker"
     ]
 },
-  "bbox": [-72.998924,40.863505,-72.998924,40.863505],
+  "bbox": [
+    -72.998924,
+    40.863505,
+    -72.998924,
+    40.863505
+],
   "geometry": {"coordinates":[-72.998924,40.863505],"type":"Point"}
 }

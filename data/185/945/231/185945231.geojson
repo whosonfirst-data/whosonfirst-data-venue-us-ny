@@ -2,13 +2,14 @@
   "id": 185945231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.951699,40.648154,-73.951699,40.648154",
     "geom:latitude":40.648154,
     "geom:longitude":-73.951699,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2707 Albemarle Road",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816313,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85816313
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"150acc028bd0ebe99dd9fc69af7aa7e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85816313,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":185945231,
-    "wof:lastmodified":1449006741,
+    "wof:lastmodified":1454124162,
     "wof:name":"N Y City of",
     "wof:parent_id":85816313,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "elementary"
     ]
 },
-  "bbox": [-73.951699,40.648154,-73.951699,40.648154],
+  "bbox": [
+    -73.951699,
+    40.648154,
+    -73.951699,
+    40.648154
+],
   "geometry": {"coordinates":[-73.951699,40.648154],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353815547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.622082,40.689959,-73.622082,40.689959",
     "geom:latitude":40.689959,
     "geom:longitude":-73.622082,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 E Marshall St",
     "sg:city":"Hempstead",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892743,
+        102191575,
+        404521473,
         85633793,
-        85979175,
+        85977663,
         102082371,
-        85892743
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"eef8e0de4150ba76df9ce0f4c32e29aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979175,
+            "localadmin_id":404521473,
+            "locality_id":85977663,
             "neighbourhood_id":85892743,
             "region_id":85688543,
             "venue_id":353815547
         }
     ],
     "wof:id":353815547,
-    "wof:lastmodified":1449019502,
+    "wof:lastmodified":1454126310,
     "wof:name":"Hempstead Union Free School District",
     "wof:parent_id":85892743,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "elementary"
     ]
 },
-  "bbox": [-73.622082,40.689959,-73.622082,40.689959],
-  "geometry": {"coordinates":[-73.622082,40.689959],"type":"Point"}
+  "bbox": [
+    -73.622082,
+    40.689959,
+    -73.622082,
+    40.689959
+],
+  "geometry": {"coordinates":[-73.62208200000001,40.689959],"type":"Point"}
 }

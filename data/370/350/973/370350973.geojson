@@ -2,13 +2,14 @@
   "id": 370350973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.39286,40.88739,-72.39286,40.88739",
     "geom:latitude":40.88739,
     "geom:longitude":-72.39286,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"135 Windmill Ln",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"16c87d762b77238635033bddfc12f994",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":370350973
         }
     ],
     "wof:id":370350973,
-    "wof:lastmodified":1449030808,
+    "wof:lastmodified":1454127820,
     "wof:name":"Jetson Automation Corporation",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "automation"
     ]
 },
-  "bbox": [-72.39286,40.88739,-72.39286,40.88739],
+  "bbox": [
+    -72.39286,
+    40.88739,
+    -72.39286,
+    40.88739
+],
   "geometry": {"coordinates":[-72.39286,40.88739],"type":"Point"}
 }

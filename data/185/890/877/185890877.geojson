@@ -2,13 +2,14 @@
   "id": 185890877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.9608,40.5919,-73.9608,40.5919",
     "geom:latitude":40.5919,
     "geom:longitude":-73.9608,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2660 Coney Island Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.thepaintstoreny.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848121,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85848121
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"9f01e25ec686c491bbcd3e9f4abcaffb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85848121,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":185890877,
-    "wof:lastmodified":1449006976,
+    "wof:lastmodified":1454124190,
     "wof:name":"Loconsolo Jack & Co",
     "wof:parent_id":85848121,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "shade"
     ]
 },
-  "bbox": [-73.9608,40.5919,-73.9608,40.5919],
-  "geometry": {"coordinates":[-73.9608,40.5919],"type":"Point"}
+  "bbox": [
+    -73.9608,
+    40.5919,
+    -73.9608,
+    40.5919
+],
+  "geometry": {"coordinates":[-73.96080000000001,40.5919],"type":"Point"}
 }

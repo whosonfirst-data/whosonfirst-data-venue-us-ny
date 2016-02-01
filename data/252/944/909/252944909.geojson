@@ -2,13 +2,14 @@
   "id": 252944909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.821045,42.895271,-78.821045,42.895271",
     "geom:latitude":42.895271,
     "geom:longitude":-78.821045,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Swinburne St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528547,
+        102191575,
+        404522329,
         85633793,
         85978023,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"e988d8122742f802f8aa5def7764ffb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528547,
             "region_id":85688543,
             "venue_id":252944909
         }
     ],
     "wof:id":252944909,
-    "wof:lastmodified":1449005962,
+    "wof:lastmodified":1454124057,
     "wof:name":"St John Kantys Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528547,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "church"
     ]
 },
-  "bbox": [-78.821045,42.895271,-78.821045,42.895271],
+  "bbox": [
+    -78.821045,
+    42.895271,
+    -78.821045,
+    42.895271
+],
   "geometry": {"coordinates":[-78.821045,42.895271],"type":"Point"}
 }

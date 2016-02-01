@@ -2,13 +2,14 @@
   "id": 269875509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.978001,40.759514,-73.978001,40.759514",
     "geom:latitude":40.759514,
     "geom:longitude":-73.978001,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"45 Rockefeller Plz",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869487,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85869487
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"f6c3e7ea1162e68196aa8f1583322896",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869487,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":269875509,
-    "wof:lastmodified":1449038103,
+    "wof:lastmodified":1454128726,
     "wof:name":"First Commercial Mortgage",
     "wof:parent_id":85869487,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-73.978001,40.759514,-73.978001,40.759514],
-  "geometry": {"coordinates":[-73.978001,40.759514],"type":"Point"}
+  "bbox": [
+    -73.978001,
+    40.759514,
+    -73.978001,
+    40.759514
+],
+  "geometry": {"coordinates":[-73.97800100000001,40.759514],"type":"Point"}
 }

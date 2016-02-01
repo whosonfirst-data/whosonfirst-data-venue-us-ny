@@ -2,13 +2,14 @@
   "id": 354278059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.02101,41.93586,-74.02101,41.93586",
     "geom:latitude":41.93586,
     "geom:longitude":-74.02101,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"289 Stockade Dr",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.hhs.gov",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865367,
+        102191575,
+        404523249,
         85633793,
         85977505,
         102081775,
-        85865367
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"683d17e9d66d149efc43845cb68be55d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
+            "localadmin_id":404523249,
             "locality_id":85977505,
             "neighbourhood_id":85865367,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":354278059,
-    "wof:lastmodified":1449066883,
+    "wof:lastmodified":1454131061,
     "wof:name":"US Health & Human Svc Dept",
     "wof:parent_id":85865367,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "program"
     ]
 },
-  "bbox": [-74.02101,41.93586,-74.02101,41.93586],
+  "bbox": [
+    -74.02101,
+    41.93586,
+    -74.02101,
+    41.93586
+],
   "geometry": {"coordinates":[-74.02101,41.93586],"type":"Point"}
 }

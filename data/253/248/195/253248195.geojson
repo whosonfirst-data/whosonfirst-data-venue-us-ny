@@ -2,13 +2,14 @@
   "id": 253248195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.810441,40.961474,-72.810441,40.961474",
     "geom:latitude":40.961474,
     "geom:longitude":-72.810441,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Park St",
     "sg:city":"Wading River",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979901,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"957fc00fb7c377abe983499146702cc8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979901,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":253248195
         }
     ],
     "wof:id":253248195,
-    "wof:lastmodified":1449064453,
+    "wof:lastmodified":1454130517,
     "wof:name":"Suffolk Computer Systems Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.810441,40.961474,-72.810441,40.961474],
+  "bbox": [
+    -72.810441,
+    40.961474,
+    -72.810441,
+    40.961474
+],
   "geometry": {"coordinates":[-72.810441,40.961474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387423501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.647907,40.658052,-73.647907,40.658052",
     "geom:latitude":40.658052,
     "geom:longitude":-73.647907,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 N Village Ave",
     "sg:city":"Rockville Centre",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529139,
+        102191575,
+        404521473,
         85633793,
         85977629,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"2b39363ef6cd291793a2daf133f3c5e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977629,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529139,
             "region_id":85688543,
             "venue_id":387423501
         }
     ],
     "wof:id":387423501,
-    "wof:lastmodified":1449056734,
+    "wof:lastmodified":1454129639,
     "wof:name":"Advent Religious Supplies Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529139,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-73.647907,40.658052,-73.647907,40.658052],
+  "bbox": [
+    -73.647907,
+    40.658052,
+    -73.647907,
+    40.658052
+],
   "geometry": {"coordinates":[-73.647907,40.658052],"type":"Point"}
 }

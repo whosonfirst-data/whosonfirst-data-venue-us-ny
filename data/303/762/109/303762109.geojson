@@ -2,13 +2,14 @@
   "id": 303762109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.164308,40.592045,-74.164308,40.592045",
     "geom:latitude":40.592045,
     "geom:longitude":-74.164308,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2305 Richmond Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836751,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85836751
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"34e5a103e72184e674c045ef03ec8af1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85836751,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":303762109,
-    "wof:lastmodified":1448999844,
+    "wof:lastmodified":1454123526,
     "wof:name":"Growing Pains",
     "wof:parent_id":85836751,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-74.164308,40.592045,-74.164308,40.592045],
-  "geometry": {"coordinates":[-74.164308,40.592045],"type":"Point"}
+  "bbox": [
+    -74.164308,
+    40.592045,
+    -74.164308,
+    40.592045
+],
+  "geometry": {"coordinates":[-74.16430800000001,40.592045],"type":"Point"}
 }

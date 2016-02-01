@@ -2,13 +2,14 @@
   "id": 387895403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.805191,40.976811,-73.805191,40.976811",
     "geom:latitude":40.976811,
     "geom:longitude":-73.805191,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"130 Brook St",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530449,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"e8e08c1d9883d3a76528507d34f67a74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530449,
             "region_id":85688543,
             "venue_id":387895403
         }
     ],
     "wof:id":387895403,
-    "wof:lastmodified":1449057720,
+    "wof:lastmodified":1454129814,
     "wof:name":"Salon Medo",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530449,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.805191,40.976811,-73.805191,40.976811],
-  "geometry": {"coordinates":[-73.805191,40.976811],"type":"Point"}
+  "bbox": [
+    -73.805191,
+    40.976811,
+    -73.805191,
+    40.976811
+],
+  "geometry": {"coordinates":[-73.80519099999999,40.976811],"type":"Point"}
 }

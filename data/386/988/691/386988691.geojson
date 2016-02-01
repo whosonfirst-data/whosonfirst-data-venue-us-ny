@@ -2,13 +2,14 @@
   "id": 386988691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.703071,43.169864,-77.703071,43.169864",
     "geom:latitude":43.169864,
     "geom:longitude":-77.703071,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"525 Spencerport Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     "sg:website":"http://www.cvs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837647,
+        102191575,
+        404522629,
         85633793,
         85979031,
         102081815,
-        85837647
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"c20de3ea7a7d2b244d12702540ccfa0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404522629,
             "locality_id":85979031,
             "neighbourhood_id":85837647,
             "region_id":85688543,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":386988691,
-    "wof:lastmodified":1449028730,
+    "wof:lastmodified":1454127217,
     "wof:name":"CVS/pharmacy",
     "wof:parent_id":85837647,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "supply"
     ]
 },
-  "bbox": [-77.703071,43.169864,-77.703071,43.169864],
-  "geometry": {"coordinates":[-77.703071,43.169864],"type":"Point"}
+  "bbox": [
+    -77.703071,
+    43.169864,
+    -77.703071,
+    43.169864
+],
+  "geometry": {"coordinates":[-77.70307099999999,43.169864],"type":"Point"}
 }

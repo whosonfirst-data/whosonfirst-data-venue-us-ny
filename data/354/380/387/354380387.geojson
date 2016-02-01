@@ -2,13 +2,14 @@
   "id": 354380387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.994667,40.771468,-72.994667,40.771468",
     "geom:latitude":40.771468,
     "geom:longitude":-72.994667,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"80 Swan Lake Dr",
     "sg:city":"Patchogue",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.brailleplus.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823455,
+        102191575,
+        404521441,
         85633793,
         85979769,
         102082395,
-        85823455
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"8a4fcdf5d4a72a114468dc086083e72e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979769,
             "neighbourhood_id":85823455,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":354380387,
-    "wof:lastmodified":1449066709,
+    "wof:lastmodified":1454131010,
     "wof:name":"Braile Transcription Service Inc",
     "wof:parent_id":85823455,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "bureau"
     ]
 },
-  "bbox": [-72.994667,40.771468,-72.994667,40.771468],
-  "geometry": {"coordinates":[-72.994667,40.771468],"type":"Point"}
+  "bbox": [
+    -72.994667,
+    40.771468,
+    -72.994667,
+    40.771468
+],
+  "geometry": {"coordinates":[-72.99466700000001,40.771468],"type":"Point"}
 }

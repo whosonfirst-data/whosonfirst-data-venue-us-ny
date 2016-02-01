@@ -2,13 +2,14 @@
   "id": 371016039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.677478,43.208957,-78.677478,43.208957",
     "geom:latitude":43.208957,
     "geom:longitude":-78.677478,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4089 Lake Ave",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -24,8 +25,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85844525,
+        102081767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +38,27 @@
     "wof:geomhash":"0191bc4db778931a7e9773464d484978",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081767,
+            "neighbourhood_id":85844525,
             "region_id":85688543,
             "venue_id":371016039
         }
     ],
     "wof:id":371016039,
-    "wof:lastmodified":1449049223,
+    "wof:lastmodified":1454129080,
     "wof:name":"Wrights Corner Animal Care Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844525,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.677478,43.208957,-78.677478,43.208957],
-  "geometry": {"coordinates":[-78.677478,43.208957],"type":"Point"}
+  "bbox": [
+    -78.677478,
+    43.208957,
+    -78.677478,
+    43.208957
+],
+  "geometry": {"coordinates":[-78.67747799999999,43.208957],"type":"Point"}
 }

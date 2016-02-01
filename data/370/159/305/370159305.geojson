@@ -2,13 +2,14 @@
   "id": 370159305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.906639,40.950989,-72.906639,40.950989",
     "geom:latitude":40.950989,
     "geom:longitude":-72.906639,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Dickerson Dr",
     "sg:city":"Shoreham",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85978447,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"9e64cccc7b0078fde4d0e8fa97e9807f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978447,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":370159305
         }
     ],
     "wof:id":370159305,
-    "wof:lastmodified":1449029492,
+    "wof:lastmodified":1454127434,
     "wof:name":"Naso Realty Group Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-72.906639,40.950989,-72.906639,40.950989],
+  "bbox": [
+    -72.906639,
+    40.950989,
+    -72.906639,
+    40.950989
+],
   "geometry": {"coordinates":[-72.906639,40.950989],"type":"Point"}
 }

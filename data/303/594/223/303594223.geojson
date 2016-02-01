@@ -2,13 +2,14 @@
   "id": 303594223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.78978,40.802125,-72.78978,40.802125",
     "geom:latitude":40.802125,
     "geom:longitude":-72.78978,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"43 Railroad Ave",
     "sg:city":"Center Moriches",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"147d4fac8e7e6586c8e4d27bef68a24c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":303594223
         }
     ],
     "wof:id":303594223,
-    "wof:lastmodified":1448998468,
+    "wof:lastmodified":1454123107,
     "wof:name":"NSJ Heating",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "cleaning"
     ]
 },
-  "bbox": [-72.78978,40.802125,-72.78978,40.802125],
-  "geometry": {"coordinates":[-72.78978,40.802125],"type":"Point"}
+  "bbox": [
+    -72.78978,
+    40.802125,
+    -72.78978,
+    40.802125
+],
+  "geometry": {"coordinates":[-72.78977999999999,40.802125],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354024377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.715897,40.633301,-73.715897,40.633301",
     "geom:latitude":40.633301,
     "geom:longitude":-73.715897,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"Cedar Ln",
     "sg:city":"Woodmere",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893095,
+        102191575,
+        404521473,
         85633793,
         85979053,
         102082371,
-        85893095
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"ae385bb534c9cece17b4ba92e4e2e36a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979053,
             "neighbourhood_id":85893095,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":354024377,
-    "wof:lastmodified":1449066733,
+    "wof:lastmodified":1454131016,
     "wof:name":"Woodmere Taxi Stand",
     "wof:parent_id":85893095,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "airport"
     ]
 },
-  "bbox": [-73.715897,40.633301,-73.715897,40.633301],
+  "bbox": [
+    -73.715897,
+    40.633301,
+    -73.715897,
+    40.633301
+],
   "geometry": {"coordinates":[-73.715897,40.633301],"type":"Point"}
 }

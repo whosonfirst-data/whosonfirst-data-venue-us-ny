@@ -2,13 +2,14 @@
   "id": 354043983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.81342,40.585843,-73.81342,40.585843",
     "geom:latitude":40.585843,
     "geom:longitude":-73.81342,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"90-10 Holland Ave",
     "sg:city":"Queens",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.bhlocksmith.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865515,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865515
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"121535a3fb5a373350be53a810962743",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865515,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":354043983,
-    "wof:lastmodified":1449067230,
+    "wof:lastmodified":1454131171,
     "wof:name":"Rockaway Armor Locksmith",
     "wof:parent_id":85865515,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "key"
     ]
 },
-  "bbox": [-73.81342,40.585843,-73.81342,40.585843],
-  "geometry": {"coordinates":[-73.81342,40.585843],"type":"Point"}
+  "bbox": [
+    -73.81342,
+    40.585843,
+    -73.81342,
+    40.585843
+],
+  "geometry": {"coordinates":[-73.81341999999999,40.585843],"type":"Point"}
 }

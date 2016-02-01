@@ -2,13 +2,14 @@
   "id": 286393877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.503742,40.810216,-73.503742,40.810216",
     "geom:latitude":40.810216,
     "geom:longitude":-73.503742,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"345 Jericho Tpke",
     "sg:city":"Syosset",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529175,
+        102191575,
+        404521475,
         85633793,
         85979075,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"8d127cd500e747ae8178bfbfff65cf6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979075,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529175,
             "region_id":85688543,
             "venue_id":286393877
         }
     ],
     "wof:id":286393877,
-    "wof:lastmodified":1449016103,
+    "wof:lastmodified":1454125561,
     "wof:name":"Jang Mee Video",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529175,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "tape"
     ]
 },
-  "bbox": [-73.503742,40.810216,-73.503742,40.810216],
+  "bbox": [
+    -73.503742,
+    40.810216,
+    -73.503742,
+    40.810216
+],
   "geometry": {"coordinates":[-73.503742,40.810216],"type":"Point"}
 }

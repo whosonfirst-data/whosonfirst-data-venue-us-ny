@@ -2,13 +2,14 @@
   "id": 387053151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.29154,40.775562,-73.29154,40.775562",
     "geom:latitude":40.775562,
     "geom:longitude":-73.29154,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Executive Dr",
     "sg:city":"Edgewood",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.ups-mi.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892809,
+        102191575,
+        404522517,
         85633793,
         85979867,
         102082395,
-        85892809
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"d3d0dfd60257ae3045583383feec269b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979867,
             "neighbourhood_id":85892809,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387053151,
-    "wof:lastmodified":1449056817,
+    "wof:lastmodified":1454129656,
     "wof:name":"UPS",
     "wof:parent_id":85892809,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "shipping"
     ]
 },
-  "bbox": [-73.29154,40.775562,-73.29154,40.775562],
+  "bbox": [
+    -73.29154,
+    40.775562,
+    -73.29154,
+    40.775562
+],
   "geometry": {"coordinates":[-73.29154,40.775562],"type":"Point"}
 }

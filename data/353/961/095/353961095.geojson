@@ -2,13 +2,14 @@
   "id": 353961095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.596573,40.675286,-73.596573,40.675286",
     "geom:latitude":40.675286,
     "geom:longitude":-73.596573,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"216 W Fulton Ave",
     "sg:city":"Roosevelt",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529133,
+        102191575,
+        404521473,
         85633793,
-        85979183,
-        102082371
+        85979173,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"f1ed31757753d4dc536bc44d10b95d86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979183,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979173,
+            "neighbourhood_id":420529133,
             "region_id":85688543,
             "venue_id":353961095
         }
     ],
     "wof:id":353961095,
-    "wof:lastmodified":1449020724,
+    "wof:lastmodified":1454126664,
     "wof:name":"E Cook Home Impro Reliance Me",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529133,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.596573,40.675286,-73.596573,40.675286],
-  "geometry": {"coordinates":[-73.596573,40.675286],"type":"Point"}
+  "bbox": [
+    -73.596573,
+    40.675286,
+    -73.596573,
+    40.675286
+],
+  "geometry": {"coordinates":[-73.59657300000001,40.675286],"type":"Point"}
 }

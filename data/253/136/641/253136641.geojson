@@ -2,13 +2,14 @@
   "id": 253136641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.243314,40.811537,-73.243314,40.811537",
     "geom:latitude":40.811537,
     "geom:longitude":-73.243314,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 Plant Ave",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"fc7bc44c690da321831c81ba53e45585",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":253136641
         }
     ],
     "wof:id":253136641,
-    "wof:lastmodified":1449065764,
+    "wof:lastmodified":1454130736,
     "wof:name":"Surgical Post Manufacturing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "distributes"
     ]
 },
-  "bbox": [-73.243314,40.811537,-73.243314,40.811537],
+  "bbox": [
+    -73.243314,
+    40.811537,
+    -73.243314,
+    40.811537
+],
   "geometry": {"coordinates":[-73.243314,40.811537],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370220765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.145798,40.914799,-73.145798,40.914799",
     "geom:latitude":40.914799,
     "geom:longitude":-73.145798,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"83 Main St",
     "sg:city":"Stony Brook",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824457,
+        102191575,
+        404521441,
         85633793,
-        85978487,
+        85979927,
         102082395,
-        85824457
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"f6829e43ca336b210936029b940be0ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978487,
+            "localadmin_id":404521441,
+            "locality_id":85979927,
             "neighbourhood_id":85824457,
             "region_id":85688543,
             "venue_id":370220765
         }
     ],
     "wof:id":370220765,
-    "wof:lastmodified":1449032351,
+    "wof:lastmodified":1454128278,
     "wof:name":"Van Heusen Factory Outlet",
     "wof:parent_id":85824457,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "outlet"
     ]
 },
-  "bbox": [-73.145798,40.914799,-73.145798,40.914799],
+  "bbox": [
+    -73.145798,
+    40.914799,
+    -73.145798,
+    40.914799
+],
   "geometry": {"coordinates":[-73.145798,40.914799],"type":"Point"}
 }

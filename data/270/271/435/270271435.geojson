@@ -2,13 +2,14 @@
   "id": 270271435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.92819,41.714403,-73.92819,41.714403",
     "geom:latitude":41.714403,
     "geom:longitude":-73.92819,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"27 Clark St",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892991,
+        102191575,
+        404522305,
         85633793,
         85977835,
-        102082363
+        102082363,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"981a948b73d39f0521a9addc1ddd8414",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
+            "localadmin_id":404522305,
             "locality_id":85977835,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892991,
             "region_id":85688543,
             "venue_id":270271435
         }
     ],
     "wof:id":270271435,
-    "wof:lastmodified":1449009927,
+    "wof:lastmodified":1454124555,
     "wof:name":"E A Rizzo Home Remodeling",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892991,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "improvement"
     ]
 },
-  "bbox": [-73.92819,41.714403,-73.92819,41.714403],
+  "bbox": [
+    -73.92819,
+    41.714403,
+    -73.92819,
+    41.714403
+],
   "geometry": {"coordinates":[-73.92819,41.714403],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403826901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.646761,40.830441,-72.646761,40.830441",
     "geom:latitude":40.830441,
     "geom:longitude":-72.646761,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"130 Old Riverhead Rd",
     "sg:city":"Westhampton Bch",
     "sg:classifiers":[
@@ -29,9 +30,12 @@
     "sg:website":"www.lijet.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102526981,
         85688543,
+        102191575,
+        404522671,
         85633793,
-        85978441,
+        85979877,
         102082395
     ],
     "wof:breaches":[],
@@ -42,19 +46,20 @@
     "wof:geomhash":"3894da9410c9b9a928707b17735b0cdb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102526981,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978441,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522671,
+            "locality_id":85979877,
             "region_id":85688543,
             "venue_id":403826901
         }
     ],
     "wof:id":403826901,
-    "wof:lastmodified":1449055577,
+    "wof:lastmodified":1454129457,
     "wof:name":"Long Island Jet Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":102526981,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-72.646761,40.830441,-72.646761,40.830441],
+  "bbox": [
+    -72.646761,
+    40.830441,
+    -72.646761,
+    40.830441
+],
   "geometry": {"coordinates":[-72.646761,40.830441],"type":"Point"}
 }

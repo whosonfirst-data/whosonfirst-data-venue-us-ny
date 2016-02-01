@@ -2,13 +2,14 @@
   "id": 253322349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.687433,40.820695,-73.687433,40.820695",
     "geom:latitude":40.820695,
     "geom:longitude":-73.687433,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"137 Haven Ave",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529165,
+        102191575,
+        404522729,
         85633793,
         85979185,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"3a34a308eef282df6dfa6a45ea40becb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979185,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529165,
             "region_id":85688543,
             "venue_id":253322349
         }
     ],
     "wof:id":253322349,
-    "wof:lastmodified":1449062793,
+    "wof:lastmodified":1454130238,
     "wof:name":"Northern Electric",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529165,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.687433,40.820695,-73.687433,40.820695],
+  "bbox": [
+    -73.687433,
+    40.820695,
+    -73.687433,
+    40.820695
+],
   "geometry": {"coordinates":[-73.687433,40.820695],"type":"Point"}
 }

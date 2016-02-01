@@ -2,13 +2,14 @@
   "id": 337405757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.045672,40.820409,-73.045672,40.820409",
     "geom:latitude":40.820409,
     "geom:longitude":-73.045672,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1111 Waverly Ave",
     "sg:city":"Holtsville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"9baf6f2d42365d24cabd78f7b02825a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":337405757
         }
     ],
     "wof:id":337405757,
-    "wof:lastmodified":1449027668,
+    "wof:lastmodified":1454127155,
     "wof:name":"Sachem Youth Soccer League",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "soccer"
     ]
 },
-  "bbox": [-73.045672,40.820409,-73.045672,40.820409],
+  "bbox": [
+    -73.045672,
+    40.820409,
+    -73.045672,
+    40.820409
+],
   "geometry": {"coordinates":[-73.045672,40.820409],"type":"Point"}
 }

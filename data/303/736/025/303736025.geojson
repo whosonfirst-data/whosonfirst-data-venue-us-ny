@@ -2,13 +2,14 @@
   "id": 303736025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.314444,44.222226,-74.314444,44.222226",
     "geom:latitude":44.222226,
     "geom:longitude":-74.314444,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Coreys Rd",
     "sg:city":"Tupper Lake",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85804115,
+        102081817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,17 @@
     "wof:geomhash":"ce70b85964386fa4d60d363d45bc6bdc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081817,
+            "neighbourhood_id":85804115,
             "region_id":85688543,
             "venue_id":303736025
         }
     ],
     "wof:id":303736025,
-    "wof:lastmodified":1449000539,
+    "wof:lastmodified":1454123717,
     "wof:name":"Healing Woods Counseling Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85804115,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +63,11 @@
         "family"
     ]
 },
-  "bbox": [-74.314444,44.222226,-74.314444,44.222226],
-  "geometry": {"coordinates":[-74.314444,44.222226],"type":"Point"}
+  "bbox": [
+    -74.314444,
+    44.222226,
+    -74.314444,
+    44.222226
+],
+  "geometry": {"coordinates":[-74.31444399999999,44.222226],"type":"Point"}
 }

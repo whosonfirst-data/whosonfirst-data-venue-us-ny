@@ -2,13 +2,14 @@
   "id": 303247659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.791863,40.970677,-73.791863,40.970677",
     "geom:latitude":40.970677,
     "geom:longitude":-73.791863,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Retiro Ln",
     "sg:city":"New Rochelle",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530387,
+        102191575,
+        404523375,
         85633793,
         85978749,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"56afca7cfd3b7ce65bcbe44b323be8ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523375,
             "locality_id":85978749,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530387,
             "region_id":85688543,
             "venue_id":303247659
         }
     ],
     "wof:id":303247659,
-    "wof:lastmodified":1448999553,
+    "wof:lastmodified":1454123443,
     "wof:name":"Theresa Bellin Edith Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530387,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "banking"
     ]
 },
-  "bbox": [-73.791863,40.970677,-73.791863,40.970677],
-  "geometry": {"coordinates":[-73.791863,40.970677],"type":"Point"}
+  "bbox": [
+    -73.791863,
+    40.970677,
+    -73.791863,
+    40.970677
+],
+  "geometry": {"coordinates":[-73.79186300000001,40.970677],"type":"Point"}
 }

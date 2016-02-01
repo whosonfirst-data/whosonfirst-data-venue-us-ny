@@ -2,13 +2,14 @@
   "id": 370429675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.731252,42.638782,-73.731252,42.638782",
     "geom:latitude":42.638782,
     "geom:longitude":-73.731252,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3 Valley View Ave Apt 412",
     "sg:city":"Rensselaer",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85843203,
+        102191575,
+        404523079,
         85633793,
+        85978343,
         102081773,
-        85843203
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"258dafd525ef5f3fe0ea1a3c9dbd8243",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081773,
-            "locality_id":-1,
+            "localadmin_id":404523079,
+            "locality_id":85978343,
             "neighbourhood_id":85843203,
             "region_id":85688543,
             "venue_id":370429675
         }
     ],
     "wof:id":370429675,
-    "wof:lastmodified":1449032284,
+    "wof:lastmodified":1454128258,
     "wof:name":"Allan Court Reporting Svs",
     "wof:parent_id":85843203,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "reporters-court"
     ]
 },
-  "bbox": [-73.731252,42.638782,-73.731252,42.638782],
+  "bbox": [
+    -73.731252,
+    42.638782,
+    -73.731252,
+    42.638782
+],
   "geometry": {"coordinates":[-73.731252,42.638782],"type":"Point"}
 }

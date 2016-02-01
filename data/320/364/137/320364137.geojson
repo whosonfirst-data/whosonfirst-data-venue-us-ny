@@ -2,13 +2,14 @@
   "id": 320364137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.199048,41.309433,-74.199048,41.309433",
     "geom:latitude":41.309433,
     "geom:longitude":-74.199048,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"53 Peter Bush Dr",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832781,
+        102191575,
+        404522907,
         85633793,
+        85979523,
         102083061,
-        85832781
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"4fd8df34636ec493312b3ecfd634e3ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":-1,
+            "localadmin_id":404522907,
+            "locality_id":85979523,
             "neighbourhood_id":85832781,
             "region_id":85688543,
             "venue_id":320364137
         }
     ],
     "wof:id":320364137,
-    "wof:lastmodified":1449013358,
+    "wof:lastmodified":1454125104,
     "wof:name":"Command Computing",
     "wof:parent_id":85832781,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-74.199048,41.309433,-74.199048,41.309433],
+  "bbox": [
+    -74.199048,
+    41.309433,
+    -74.199048,
+    41.309433
+],
   "geometry": {"coordinates":[-74.199048,41.309433],"type":"Point"}
 }

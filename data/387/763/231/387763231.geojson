@@ -2,13 +2,14 @@
   "id": 387763231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.776536,40.753316,-73.776536,40.753316",
     "geom:latitude":40.753316,
     "geom:longitude":-73.776536,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"47 Rocky Hill Rd",
     "sg:city":"Bayside",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85804927,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85804927
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"0b94066951868857a04d5fafe65b2c08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85804927,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387763231,
-    "wof:lastmodified":1449059906,
+    "wof:lastmodified":1454130208,
     "wof:name":"Olympiacos Athletic Club of NY",
     "wof:parent_id":85804927,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "facility"
     ]
 },
-  "bbox": [-73.776536,40.753316,-73.776536,40.753316],
-  "geometry": {"coordinates":[-73.776536,40.753316],"type":"Point"}
+  "bbox": [
+    -73.776536,
+    40.753316,
+    -73.776536,
+    40.753316
+],
+  "geometry": {"coordinates":[-73.77653599999999,40.753316],"type":"Point"}
 }

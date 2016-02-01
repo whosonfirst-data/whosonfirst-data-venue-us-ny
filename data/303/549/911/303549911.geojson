@@ -2,13 +2,14 @@
   "id": 303549911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.007133,41.929559,-74.007133,41.929559",
     "geom:latitude":41.929559,
     "geom:longitude":-74.007133,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"22 Van Deuson St",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857693,
+        102191575,
+        404523249,
         85633793,
+        85977505,
         102081775,
-        85857693
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"ec28902a00967073b1c28c3559cc31b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
-            "locality_id":-1,
+            "localadmin_id":404523249,
+            "locality_id":85977505,
             "neighbourhood_id":85857693,
             "region_id":85688543,
             "venue_id":303549911
         }
     ],
     "wof:id":303549911,
-    "wof:lastmodified":1448998786,
+    "wof:lastmodified":1454123221,
     "wof:name":"De Cicco's Cabinetry",
     "wof:parent_id":85857693,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-74.007133,41.929559,-74.007133,41.929559],
+  "bbox": [
+    -74.007133,
+    41.929559,
+    -74.007133,
+    41.929559
+],
   "geometry": {"coordinates":[-74.007133,41.929559],"type":"Point"}
 }

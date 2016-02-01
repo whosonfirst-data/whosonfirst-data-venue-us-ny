@@ -2,13 +2,14 @@
   "id": 269562107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.243318,40.82984,-73.243318,40.82984",
     "geom:latitude":40.82984,
     "geom:longitude":-73.243318,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12 Holly Dr",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
-        85979919,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"99dd2c8d733915705e8988bf6dcc22fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":269562107
         }
     ],
     "wof:id":269562107,
-    "wof:lastmodified":1449037402,
+    "wof:lastmodified":1454128651,
     "wof:name":"Mc Products Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.243318,40.82984,-73.243318,40.82984],
+  "bbox": [
+    -73.243318,
+    40.82984,
+    -73.243318,
+    40.82984
+],
   "geometry": {"coordinates":[-73.243318,40.82984],"type":"Point"}
 }

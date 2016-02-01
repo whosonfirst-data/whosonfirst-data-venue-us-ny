@@ -2,13 +2,14 @@
   "id": 336803749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.986071,40.582381,-73.986071,40.582381",
     "geom:latitude":40.582381,
     "geom:longitude":-73.986071,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2955 Cropsey Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85822643,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85822643
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"46d2846c1e711a8dec838128c6138ee4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85822643,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":336803749,
-    "wof:lastmodified":1448998025,
+    "wof:lastmodified":1454122955,
     "wof:name":"Central Rentals",
     "wof:parent_id":85822643,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "rental"
     ]
 },
-  "bbox": [-73.986071,40.582381,-73.986071,40.582381],
+  "bbox": [
+    -73.986071,
+    40.582381,
+    -73.986071,
+    40.582381
+],
   "geometry": {"coordinates":[-73.986071,40.582381],"type":"Point"}
 }

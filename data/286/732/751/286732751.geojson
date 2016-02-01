@@ -2,13 +2,14 @@
   "id": 286732751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.305234,43.153701,-76.305234,43.153701",
     "geom:latitude":43.153701,
     "geom:longitude":-76.305234,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2979 Cold Springs Rd",
     "sg:city":"Baldwinsville",
     "sg:classifiers":[
@@ -31,7 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85865349,
+        102191575,
+        404522855,
         85633793,
+        85979201,
+        102082351,
         85688543
     ],
     "wof:breaches":[],
@@ -42,18 +48,20 @@
     "wof:geomhash":"3b0a46b56d0983432a224b716ce68ed8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "localadmin_id":404522855,
+            "locality_id":85979201,
+            "neighbourhood_id":85865349,
             "region_id":85688543,
             "venue_id":286732751
         }
     ],
     "wof:id":286732751,
-    "wof:lastmodified":1449018183,
+    "wof:lastmodified":1454125930,
     "wof:name":"Genes Snowplowing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865349,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +73,11 @@
         "landscape"
     ]
 },
-  "bbox": [-76.305234,43.153701,-76.305234,43.153701],
+  "bbox": [
+    -76.305234,
+    43.153701,
+    -76.305234,
+    43.153701
+],
   "geometry": {"coordinates":[-76.305234,43.153701],"type":"Point"}
 }

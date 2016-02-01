@@ -2,13 +2,14 @@
   "id": 253598381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.8508,43.045002,-74.8508,43.045002",
     "geom:latitude":43.045002,
     "geom:longitude":-74.8508,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"76 Burwell St",
     "sg:city":"Little Falls",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528839,
+        102191575,
+        404521885,
         85633793,
         85977757,
-        102081877
+        102081877,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"75329288ea47eb958db0ffa1a27a851f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081877,
+            "localadmin_id":404521885,
             "locality_id":85977757,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528839,
             "region_id":85688543,
             "venue_id":253598381
         }
     ],
     "wof:id":253598381,
-    "wof:lastmodified":1449062974,
+    "wof:lastmodified":1454130267,
     "wof:name":"David J Wiecek Trucking",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528839,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "arrangement"
     ]
 },
-  "bbox": [-74.8508,43.045002,-74.8508,43.045002],
-  "geometry": {"coordinates":[-74.8508,43.045002],"type":"Point"}
+  "bbox": [
+    -74.8508,
+    43.045002,
+    -74.8508,
+    43.045002
+],
+  "geometry": {"coordinates":[-74.85080000000001,43.045002],"type":"Point"}
 }

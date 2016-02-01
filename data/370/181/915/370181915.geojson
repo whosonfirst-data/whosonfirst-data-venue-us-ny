@@ -2,13 +2,14 @@
   "id": 370181915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.256008,40.846714,-73.256008,40.846714",
     "geom:latitude":40.846714,
     "geom:longitude":-73.256008,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1050 W Jericho Tpke Ste B",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"http://www.epainc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530033,
+        102191575,
+        404522669,
         85633793,
-        85979919,
-        102082395
+        85979805,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"9d504cfbba413eec80d22ec087db56a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522669,
+            "locality_id":85979805,
+            "neighbourhood_id":420530033,
             "region_id":85688543,
             "venue_id":370181915
         }
     ],
     "wof:id":370181915,
-    "wof:lastmodified":1449031166,
+    "wof:lastmodified":1454127926,
     "wof:name":"Economic Planning Associates Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530033,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "analysis"
     ]
 },
-  "bbox": [-73.256008,40.846714,-73.256008,40.846714],
-  "geometry": {"coordinates":[-73.256008,40.846714],"type":"Point"}
+  "bbox": [
+    -73.256008,
+    40.846714,
+    -73.256008,
+    40.846714
+],
+  "geometry": {"coordinates":[-73.25600799999999,40.846714],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387485545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.638597,43.204988,-77.638597,43.204988",
     "geom:latitude":43.204988,
     "geom:longitude":-77.638597,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2040 Dewey Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85882033,
+        102191575,
+        404521467,
         85633793,
+        85977591,
         102081815,
-        85882033
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"9177aee5e66faaedd51e5a5bb0710f55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":-1,
+            "localadmin_id":404521467,
+            "locality_id":85977591,
             "neighbourhood_id":85882033,
             "region_id":85688543,
             "venue_id":387485545
         }
     ],
     "wof:id":387485545,
-    "wof:lastmodified":1449058420,
+    "wof:lastmodified":1454129943,
     "wof:name":"J J Construction",
     "wof:parent_id":85882033,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.638597,43.204988,-77.638597,43.204988],
+  "bbox": [
+    -77.638597,
+    43.204988,
+    -77.638597,
+    43.204988
+],
   "geometry": {"coordinates":[-77.638597,43.204988],"type":"Point"}
 }

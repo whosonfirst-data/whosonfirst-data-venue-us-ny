@@ -2,13 +2,14 @@
   "id": 353977473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.710174,40.678096,-73.710174,40.678096",
     "geom:latitude":40.678096,
     "geom:longitude":-73.710174,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"502 N Central Ave",
     "sg:city":"Valley Stream",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529147,
+        102191575,
+        404521473,
         85633793,
         85979041,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"1eb98ef68b17e14d82ec0a1b23d36f0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979041,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529147,
             "region_id":85688543,
             "venue_id":353977473
         }
     ],
     "wof:id":353977473,
-    "wof:lastmodified":1449020873,
+    "wof:lastmodified":1454126708,
     "wof:name":"Gateway World Christian Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529147,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.710174,40.678096,-73.710174,40.678096],
-  "geometry": {"coordinates":[-73.710174,40.678096],"type":"Point"}
+  "bbox": [
+    -73.710174,
+    40.678096,
+    -73.710174,
+    40.678096
+],
+  "geometry": {"coordinates":[-73.71017399999999,40.678096],"type":"Point"}
 }

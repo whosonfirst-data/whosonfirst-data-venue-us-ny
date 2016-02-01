@@ -2,13 +2,14 @@
   "id": 370169999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.175903,40.842701,-73.175903,40.842701",
     "geom:latitude":40.842701,
     "geom:longitude":-73.175903,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"719 Smithtown Byp",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.roslyn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530053,
+        102191575,
+        404522517,
         85633793,
-        85979919,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"09abfed93eb7e106b601b4bc4c14d4e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530053,
             "region_id":85688543,
             "venue_id":370169999
         }
     ],
     "wof:id":370169999,
-    "wof:lastmodified":1449031177,
+    "wof:lastmodified":1454127930,
     "wof:name":"Roslyn Savings Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.175903,40.842701,-73.175903,40.842701],
-  "geometry": {"coordinates":[-73.175903,40.842701],"type":"Point"}
+  "bbox": [
+    -73.175903,
+    40.842701,
+    -73.175903,
+    40.842701
+],
+  "geometry": {"coordinates":[-73.17590300000001,40.842701],"type":"Point"}
 }

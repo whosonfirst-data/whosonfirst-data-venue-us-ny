@@ -2,13 +2,14 @@
   "id": 337460241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.862396,40.7467,-73.862396,40.7467",
     "geom:latitude":40.7467,
     "geom:longitude":-73.862396,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10205 44th Ave",
     "sg:city":"Corona",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812357,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85812357
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"c4aa2d9a1b0f516616693545521af96d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85812357,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":337460241,
-    "wof:lastmodified":1449027694,
+    "wof:lastmodified":1454127164,
     "wof:name":"Quesito El Paso",
     "wof:parent_id":85812357,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "product"
     ]
 },
-  "bbox": [-73.862396,40.7467,-73.862396,40.7467],
+  "bbox": [
+    -73.862396,
+    40.7467,
+    -73.862396,
+    40.7467
+],
   "geometry": {"coordinates":[-73.862396,40.7467],"type":"Point"}
 }

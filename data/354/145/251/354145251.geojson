@@ -2,13 +2,14 @@
   "id": 354145251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.3004,40.833302,-73.3004,40.833302",
     "geom:latitude":40.833302,
     "geom:longitude":-73.3004,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"124 Wicks Rd",
     "sg:city":"Commack",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530047,
+        102191575,
+        404522515,
         85633793,
-        85979805,
-        102082395
+        85979779,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"6ae3ead39c11de7e6630a07749964cbc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979805,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522515,
+            "locality_id":85979779,
+            "neighbourhood_id":420530047,
             "region_id":85688543,
             "venue_id":354145251
         }
     ],
     "wof:id":354145251,
-    "wof:lastmodified":1449066421,
+    "wof:lastmodified":1454130919,
     "wof:name":"R H Contracting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530047,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.3004,40.833302,-73.3004,40.833302],
+  "bbox": [
+    -73.3004,
+    40.833302,
+    -73.3004,
+    40.833302
+],
   "geometry": {"coordinates":[-73.3004,40.833302],"type":"Point"}
 }

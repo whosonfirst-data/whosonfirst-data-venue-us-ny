@@ -2,13 +2,14 @@
   "id": 370714955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.526376,40.69173,-73.526376,40.69173",
     "geom:latitude":40.69173,
     "geom:longitude":-73.526376,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2819 Jerusalem Ave",
     "sg:city":"Wantagh",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893061,
+        102191575,
+        404521473,
         85633793,
-        85979065,
+        85979059,
         102082371,
-        85893061
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"65cdb358bc4636c44185e93185040bf8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979065,
+            "localadmin_id":404521473,
+            "locality_id":85979059,
             "neighbourhood_id":85893061,
             "region_id":85688543,
             "venue_id":370714955
         }
     ],
     "wof:id":370714955,
-    "wof:lastmodified":1449030750,
+    "wof:lastmodified":1454127803,
     "wof:name":"Plaza Deli",
     "wof:parent_id":85893061,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.526376,40.69173,-73.526376,40.69173],
+  "bbox": [
+    -73.526376,
+    40.69173,
+    -73.526376,
+    40.69173
+],
   "geometry": {"coordinates":[-73.526376,40.69173],"type":"Point"}
 }

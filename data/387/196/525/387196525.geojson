@@ -2,13 +2,14 @@
   "id": 387196525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.838901,40.85638,-73.838901,40.85638",
     "geom:latitude":40.85638,
     "geom:longitude":-73.838901,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1631 Stillwell Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892795,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85892795
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"8b9c6da3117bf3f7473d95981da16f02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892795,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387196525,
-    "wof:lastmodified":1449056965,
+    "wof:lastmodified":1454129681,
     "wof:name":"Hudson News",
     "wof:parent_id":85892795,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "newsstand"
     ]
 },
-  "bbox": [-73.838901,40.85638,-73.838901,40.85638],
-  "geometry": {"coordinates":[-73.838901,40.85638],"type":"Point"}
+  "bbox": [
+    -73.838901,
+    40.85638,
+    -73.838901,
+    40.85638
+],
+  "geometry": {"coordinates":[-73.83890100000001,40.85638],"type":"Point"}
 }

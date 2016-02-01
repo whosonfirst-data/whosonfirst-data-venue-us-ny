@@ -2,13 +2,14 @@
   "id": 270339071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.885076,40.842568,-73.885076,40.842568",
     "geom:latitude":40.842568,
     "geom:longitude":-73.885076,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"897 E Tremont Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816865,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85816865
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"4346597f04be3605863ab83c8fafbe86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85816865,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":270339071,
-    "wof:lastmodified":1449009727,
+    "wof:lastmodified":1454124525,
     "wof:name":"AND Signs & Awnings",
     "wof:parent_id":85816865,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "sign"
     ]
 },
-  "bbox": [-73.885076,40.842568,-73.885076,40.842568],
+  "bbox": [
+    -73.885076,
+    40.842568,
+    -73.885076,
+    40.842568
+],
   "geometry": {"coordinates":[-73.885076,40.842568],"type":"Point"}
 }

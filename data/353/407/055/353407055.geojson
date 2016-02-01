@@ -2,13 +2,14 @@
   "id": 353407055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.836812,40.718024,-73.836812,40.718024",
     "geom:latitude":40.718024,
     "geom:longitude":-73.836812,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"116-06 Queens Blvd",
     "sg:city":"Forest Hills",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.gnc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819875,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819875
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"02826ea4a4f7e38f110213418bac4a88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819875,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":353407055,
-    "wof:lastmodified":1449019672,
+    "wof:lastmodified":1454126359,
     "wof:name":"GNC",
     "wof:parent_id":85819875,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "drugstore"
     ]
 },
-  "bbox": [-73.836812,40.718024,-73.836812,40.718024],
-  "geometry": {"coordinates":[-73.836812,40.718024],"type":"Point"}
+  "bbox": [
+    -73.836812,
+    40.718024,
+    -73.836812,
+    40.718024
+],
+  "geometry": {"coordinates":[-73.83681199999999,40.718024],"type":"Point"}
 }

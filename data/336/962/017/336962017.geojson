@@ -2,13 +2,14 @@
   "id": 336962017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.411782,43.178035,-77.411782,43.178035",
     "geom:latitude":43.178035,
     "geom:longitude":-77.411782,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1374 Allen Rd",
     "sg:city":"Penfield",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     "sg:website":"www.ccpetsitters.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85845997,
+        102081815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +45,17 @@
     "wof:geomhash":"42251272d533c1ccbd189035b81135d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "neighbourhood_id":85845997,
             "region_id":85688543,
             "venue_id":336962017
         }
     ],
     "wof:id":336962017,
-    "wof:lastmodified":1448997575,
+    "wof:lastmodified":1454122816,
     "wof:name":"Creature Comfort Pet Sitters",
-    "wof:parent_id":-1,
+    "wof:parent_id":85845997,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +66,11 @@
         "specialty"
     ]
 },
-  "bbox": [-77.411782,43.178035,-77.411782,43.178035],
+  "bbox": [
+    -77.411782,
+    43.178035,
+    -77.411782,
+    43.178035
+],
   "geometry": {"coordinates":[-77.411782,43.178035],"type":"Point"}
 }

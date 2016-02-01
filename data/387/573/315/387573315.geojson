@@ -2,13 +2,14 @@
   "id": 387573315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.831265,41.151171,-73.831265,41.151171",
     "geom:latitude":41.151171,
     "geom:longitude":-73.831265,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1192 Pleasantville Rd",
     "sg:city":"Briarcliff Manor",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"www.thompson-bender.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85808267,
+        102191575,
+        404523379,
         85633793,
         85978753,
         102082373,
-        85808267
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"49373d77cee014f7df22ebb4ba5bf1f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523379,
             "locality_id":85978753,
             "neighbourhood_id":85808267,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":387573315,
-    "wof:lastmodified":1449058915,
+    "wof:lastmodified":1454130029,
     "wof:name":"Thompson & Bender Inc",
     "wof:parent_id":85808267,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "advertising"
     ]
 },
-  "bbox": [-73.831265,41.151171,-73.831265,41.151171],
+  "bbox": [
+    -73.831265,
+    41.151171,
+    -73.831265,
+    41.151171
+],
   "geometry": {"coordinates":[-73.831265,41.151171],"type":"Point"}
 }

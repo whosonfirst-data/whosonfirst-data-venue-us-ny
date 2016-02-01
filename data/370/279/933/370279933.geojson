@@ -2,13 +2,14 @@
   "id": 370279933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.523773,40.76297,-73.523773,40.76297",
     "geom:latitude":40.76297,
     "geom:longitude":-73.523773,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"111 W Old Country Rd",
     "sg:city":"Hicksville",
     "sg:classifiers":[
@@ -63,11 +64,13 @@
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a10288205%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892883,
+        102191575,
+        404521475,
         85633793,
         85979093,
         102082371,
-        85892883
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,9 +80,10 @@
     "wof:geomhash":"49c4b8779574ab91e4f010ef6607a291",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979093,
             "neighbourhood_id":85892883,
             "region_id":85688543,
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":370279933,
-    "wof:lastmodified":1449030652,
+    "wof:lastmodified":1454127773,
     "wof:name":"Assisted Living at Home, Inc.",
     "wof:parent_id":85892883,
     "wof:placetype":"venue",
@@ -107,6 +111,11 @@
         "homes-intermediate"
     ]
 },
-  "bbox": [-73.523773,40.76297,-73.523773,40.76297],
-  "geometry": {"coordinates":[-73.523773,40.76297],"type":"Point"}
+  "bbox": [
+    -73.523773,
+    40.76297,
+    -73.523773,
+    40.76297
+],
+  "geometry": {"coordinates":[-73.52377300000001,40.76297],"type":"Point"}
 }

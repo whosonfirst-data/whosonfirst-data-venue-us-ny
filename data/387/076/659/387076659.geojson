@@ -2,13 +2,14 @@
   "id": 387076659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.500946,42.442879,-76.500946,42.442879",
     "geom:latitude":42.442879,
     "geom:longitude":-76.500946,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"417 N Geneva St",
     "sg:city":"Ithaca",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85878363,
+        102191575,
+        404523231,
         85633793,
         85978779,
         102082355,
-        85878363
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"8e9514f95f458ac42a5622a96684c83b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082355,
+            "localadmin_id":404523231,
             "locality_id":85978779,
             "neighbourhood_id":85878363,
             "region_id":85688543,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":387076659,
-    "wof:lastmodified":1449059091,
+    "wof:lastmodified":1454130060,
     "wof:name":"O'Connor S Painting",
     "wof:parent_id":85878363,
     "wof:placetype":"venue",
@@ -82,6 +86,11 @@
         "patio"
     ]
 },
-  "bbox": [-76.500946,42.442879,-76.500946,42.442879],
+  "bbox": [
+    -76.500946,
+    42.442879,
+    -76.500946,
+    42.442879
+],
   "geometry": {"coordinates":[-76.500946,42.442879],"type":"Point"}
 }

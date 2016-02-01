@@ -2,13 +2,14 @@
   "id": 303408237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.215673,43.061402,-76.215673,43.061402",
     "geom:latitude":43.061402,
     "geom:longitude":-76.215673,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 1st St",
     "sg:city":"Solvay",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85818613,
+        102191575,
+        404522819,
         85633793,
-        85977787,
-        102082351
+        85979217,
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"b8d3e02ea82acd2915d0ede4708c3c9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
-            "locality_id":85977787,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522819,
+            "locality_id":85979217,
+            "neighbourhood_id":85818613,
             "region_id":85688543,
             "venue_id":303408237
         }
     ],
     "wof:id":303408237,
-    "wof:lastmodified":1448998419,
+    "wof:lastmodified":1454123092,
     "wof:name":"De Spirito Lumber & Mason Supl",
-    "wof:parent_id":-1,
+    "wof:parent_id":85818613,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.215673,43.061402,-76.215673,43.061402],
+  "bbox": [
+    -76.215673,
+    43.061402,
+    -76.215673,
+    43.061402
+],
   "geometry": {"coordinates":[-76.215673,43.061402],"type":"Point"}
 }

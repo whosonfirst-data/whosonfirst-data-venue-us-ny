@@ -2,13 +2,14 @@
   "id": 269560097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.847433,40.815874,-73.847433,40.815874",
     "geom:latitude":40.815874,
     "geom:longitude":-73.847433,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"449 Castle Hill Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528055,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"494bf6cf69bee222b4d9089be2a40545",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528055,
             "region_id":85688543,
             "venue_id":269560097
         }
     ],
     "wof:id":269560097,
-    "wof:lastmodified":1449038242,
+    "wof:lastmodified":1454128735,
     "wof:name":"A G Waterproofing Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528055,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.847433,40.815874,-73.847433,40.815874],
+  "bbox": [
+    -73.847433,
+    40.815874,
+    -73.847433,
+    40.815874
+],
   "geometry": {"coordinates":[-73.847433,40.815874],"type":"Point"}
 }

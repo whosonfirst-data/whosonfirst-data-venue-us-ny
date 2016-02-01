@@ -2,13 +2,14 @@
   "id": 336720155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.884251,40.65003,-73.884251,40.65003",
     "geom:latitude":40.65003,
     "geom:longitude":-73.884251,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1230 Pennsylvania Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869421,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869421
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"458f584dd05cf13de0756e4036b124eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869421,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":336720155,
-    "wof:lastmodified":1448997208,
+    "wof:lastmodified":1454122472,
     "wof:name":"Grenadier Realty Corp",
     "wof:parent_id":85869421,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-73.884251,40.65003,-73.884251,40.65003],
-  "geometry": {"coordinates":[-73.884251,40.65003],"type":"Point"}
+  "bbox": [
+    -73.884251,
+    40.65003,
+    -73.884251,
+    40.65003
+],
+  "geometry": {"coordinates":[-73.88425100000001,40.65003],"type":"Point"}
 }

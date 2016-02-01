@@ -2,13 +2,14 @@
   "id": 320003537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.831968,40.906526,-73.831968,40.906526",
     "geom:latitude":40.906526,
     "geom:longitude":-73.831968,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"263 S 1st Ave",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"4d0a532c19a7700349feff23b522d77f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":320003537
         }
     ],
     "wof:id":320003537,
-    "wof:lastmodified":1449014669,
+    "wof:lastmodified":1454125317,
     "wof:name":"Mike's Painting & Decorating",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "wallpaper"
     ]
 },
-  "bbox": [-73.831968,40.906526,-73.831968,40.906526],
+  "bbox": [
+    -73.831968,
+    40.906526,
+    -73.831968,
+    40.906526
+],
   "geometry": {"coordinates":[-73.831968,40.906526],"type":"Point"}
 }

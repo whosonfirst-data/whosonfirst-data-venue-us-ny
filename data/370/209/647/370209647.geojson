@@ -2,13 +2,14 @@
   "id": 370209647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.155383,43.061214,-76.155383,43.061214",
     "geom:latitude":43.061214,
     "geom:longitude":-76.155383,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1001 N State St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881255,
+        102191575,
+        404522851,
         85633793,
         85977785,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"06a9673a6a08db5cff4d6640a2836be0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881255,
             "region_id":85688543,
             "venue_id":370209647
         }
     ],
     "wof:id":370209647,
-    "wof:lastmodified":1449032116,
+    "wof:lastmodified":1454128205,
     "wof:name":"County Wide Appliance & TV Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881255,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "household"
     ]
 },
-  "bbox": [-76.155383,43.061214,-76.155383,43.061214],
+  "bbox": [
+    -76.155383,
+    43.061214,
+    -76.155383,
+    43.061214
+],
   "geometry": {"coordinates":[-76.155383,43.061214],"type":"Point"}
 }

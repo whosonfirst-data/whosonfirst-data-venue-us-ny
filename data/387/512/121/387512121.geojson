@@ -2,13 +2,14 @@
   "id": 387512121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.462319,40.797918,-73.462319,40.797918",
     "geom:latitude":40.797918,
     "geom:longitude":-73.462319,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 Dupont St",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.fibrematerials.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
-        85979191,
-        102082371
+        85979055,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"b052e54efc0335c2da0cd4317a497300",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979191,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85979055,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":387512121
         }
     ],
     "wof:id":387512121,
-    "wof:lastmodified":1449058878,
+    "wof:lastmodified":1454130023,
     "wof:name":"Fibre Materials Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.462319,40.797918,-73.462319,40.797918],
-  "geometry": {"coordinates":[-73.462319,40.797918],"type":"Point"}
+  "bbox": [
+    -73.462319,
+    40.797918,
+    -73.462319,
+    40.797918
+],
+  "geometry": {"coordinates":[-73.46231899999999,40.797918],"type":"Point"}
 }

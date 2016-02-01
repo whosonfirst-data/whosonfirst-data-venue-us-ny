@@ -2,13 +2,14 @@
   "id": 270473435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.81018,40.987157,-73.81018,40.987157",
     "geom:latitude":40.987157,
     "geom:longitude":-73.81018,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 Garth Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     "sg:website":"www.photobureau.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530443,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"28d108a7429bf086c9fc5ed360ea0b55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530443,
             "region_id":85688543,
             "venue_id":270473435
         }
     ],
     "wof:id":270473435,
-    "wof:lastmodified":1449009141,
+    "wof:lastmodified":1454124439,
     "wof:name":"Photo Bureau Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530443,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +75,11 @@
         "commercial"
     ]
 },
-  "bbox": [-73.81018,40.987157,-73.81018,40.987157],
+  "bbox": [
+    -73.81018,
+    40.987157,
+    -73.81018,
+    40.987157
+],
   "geometry": {"coordinates":[-73.81018,40.987157],"type":"Point"}
 }

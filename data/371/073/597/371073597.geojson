@@ -2,13 +2,14 @@
   "id": 371073597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.870392,42.911199,-78.870392,42.911199",
     "geom:latitude":42.911199,
     "geom:longitude":-78.870392,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"999 Delaware Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://www.mhaec.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872925,
+        102191575,
+        404522329,
         85633793,
         85978023,
         102082387,
-        85872925
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"df3b0ff775c1bcce8d39cf3125b2531d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
             "neighbourhood_id":85872925,
             "region_id":85688543,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":371073597,
-    "wof:lastmodified":1449049169,
+    "wof:lastmodified":1454129067,
     "wof:name":"Mental Health Association Of Erie County Inc",
     "wof:parent_id":85872925,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "counseling"
     ]
 },
-  "bbox": [-78.870392,42.911199,-78.870392,42.911199],
+  "bbox": [
+    -78.870392,
+    42.911199,
+    -78.870392,
+    42.911199
+],
   "geometry": {"coordinates":[-78.870392,42.911199],"type":"Point"}
 }

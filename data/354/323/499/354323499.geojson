@@ -2,13 +2,14 @@
   "id": 354323499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.527702,40.7244,-73.527702,40.7244",
     "geom:latitude":40.7244,
     "geom:longitude":-73.527702,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2936 Hempstead Tpke",
     "sg:city":"Levittown",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"bdc2edd85b0f5e3a8080d4074fe4aafa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":354323499
         }
     ],
     "wof:id":354323499,
-    "wof:lastmodified":1449066072,
+    "wof:lastmodified":1454130812,
     "wof:name":"King's Wok",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.527702,40.7244,-73.527702,40.7244],
-  "geometry": {"coordinates":[-73.527702,40.7244],"type":"Point"}
+  "bbox": [
+    -73.527702,
+    40.7244,
+    -73.527702,
+    40.7244
+],
+  "geometry": {"coordinates":[-73.52770200000001,40.7244],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320335995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.635491,40.849954,-73.635491,40.849954",
     "geom:latitude":40.849954,
     "geom:longitude":-73.635491,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"195 Glen Cove Ave",
     "sg:city":"Sea Cliff",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
         85977597,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"a1c3bc72f5d4ec12eda1ec3ed012e33d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85977597,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":320335995
         }
     ],
     "wof:id":320335995,
-    "wof:lastmodified":1449013734,
+    "wof:lastmodified":1454125164,
     "wof:name":"R & G Supply Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.635491,40.849954,-73.635491,40.849954],
+  "bbox": [
+    -73.635491,
+    40.849954,
+    -73.635491,
+    40.849954
+],
   "geometry": {"coordinates":[-73.635491,40.849954],"type":"Point"}
 }

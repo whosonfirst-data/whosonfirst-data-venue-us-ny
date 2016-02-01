@@ -2,13 +2,14 @@
   "id": 270223131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.063322,40.612389,-74.063322,40.612389",
     "geom:latitude":40.612389,
     "geom:longitude":-74.063322,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"70 New Ln",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865875,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85865875
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"d11afbf620c5402a515619f477b1ef79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865875,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":270223131,
-    "wof:lastmodified":1449008818,
+    "wof:lastmodified":1454124392,
     "wof:name":"New Lane Senior Center",
     "wof:parent_id":85865875,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "welfare"
     ]
 },
-  "bbox": [-74.063322,40.612389,-74.063322,40.612389],
+  "bbox": [
+    -74.063322,
+    40.612389,
+    -74.063322,
+    40.612389
+],
   "geometry": {"coordinates":[-74.063322,40.612389],"type":"Point"}
 }

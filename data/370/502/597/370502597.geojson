@@ -2,13 +2,14 @@
   "id": 370502597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.699136,43.267529,-78.699136,43.267529",
     "geom:latitude":43.267529,
     "geom:longitude":-78.699136,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3039 Lockport Olcott Rd",
     "sg:city":"Newfane",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529205,
+        102191575,
+        404522741,
         85633793,
         85979549,
-        102081767
+        102081767,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"738959e986a626a10f9871ce3f351299",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
+            "localadmin_id":404522741,
             "locality_id":85979549,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529205,
             "region_id":85688543,
             "venue_id":370502597
         }
     ],
     "wof:id":370502597,
-    "wof:lastmodified":1449030650,
+    "wof:lastmodified":1454127772,
     "wof:name":"Elizabeth Zastrow DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529205,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-78.699136,43.267529,-78.699136,43.267529],
+  "bbox": [
+    -78.699136,
+    43.267529,
+    -78.699136,
+    43.267529
+],
   "geometry": {"coordinates":[-78.699136,43.267529],"type":"Point"}
 }

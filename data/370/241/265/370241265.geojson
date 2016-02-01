@@ -2,13 +2,14 @@
   "id": 370241265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.17341,40.735045,-73.17341,40.735045",
     "geom:latitude":40.735045,
     "geom:longitude":-73.17341,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"391 E Main St",
     "sg:city":"East Islip",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837663,
+        102191575,
+        404522517,
         85633793,
-        85979697,
+        85979705,
         102082395,
-        85837663
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"929ef39f2d002d7e8283b03090a74c43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979697,
+            "localadmin_id":404522517,
+            "locality_id":85979705,
             "neighbourhood_id":85837663,
             "region_id":85688543,
             "venue_id":370241265
         }
     ],
     "wof:id":370241265,
-    "wof:lastmodified":1449032376,
+    "wof:lastmodified":1454128287,
     "wof:name":"Christian Reformed Church",
     "wof:parent_id":85837663,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-73.17341,40.735045,-73.17341,40.735045],
+  "bbox": [
+    -73.17341,
+    40.735045,
+    -73.17341,
+    40.735045
+],
   "geometry": {"coordinates":[-73.17341,40.735045],"type":"Point"}
 }

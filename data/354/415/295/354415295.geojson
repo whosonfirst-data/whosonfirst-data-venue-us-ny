@@ -2,13 +2,14 @@
   "id": 354415295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.663112,40.640577,-73.663112,40.640577",
     "geom:latitude":40.640577,
     "geom:longitude":-73.663112,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"58 Main St",
     "sg:city":"East Rockaway",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865343,
+        102191575,
+        404521473,
         85633793,
         85979143,
         102082371,
-        85865343
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"25e5d8a2b32d6fc5836012c0ea82b7a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979143,
             "neighbourhood_id":85865343,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":354415295,
-    "wof:lastmodified":1449067185,
+    "wof:lastmodified":1454131156,
     "wof:name":"East Rockway Pediatrics",
     "wof:parent_id":85865343,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.663112,40.640577,-73.663112,40.640577],
+  "bbox": [
+    -73.663112,
+    40.640577,
+    -73.663112,
+    40.640577
+],
   "geometry": {"coordinates":[-73.663112,40.640577],"type":"Point"}
 }

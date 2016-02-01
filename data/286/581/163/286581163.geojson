@@ -2,13 +2,14 @@
   "id": 286581163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.034483,40.861622,-73.034483,40.861622",
     "geom:latitude":40.861622,
     "geom:longitude":-73.034483,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"63 Blue Point Rd",
     "sg:city":"Selden",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"63bf0deeaff1489cbf0e8a77c338e4ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":286581163
         }
     ],
     "wof:id":286581163,
-    "wof:lastmodified":1449015791,
+    "wof:lastmodified":1454125505,
     "wof:name":"Grime Buster's Cleaning Svc",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "janitor"
     ]
 },
-  "bbox": [-73.034483,40.861622,-73.034483,40.861622],
-  "geometry": {"coordinates":[-73.034483,40.861622],"type":"Point"}
+  "bbox": [
+    -73.034483,
+    40.861622,
+    -73.034483,
+    40.861622
+],
+  "geometry": {"coordinates":[-73.03448299999999,40.861622],"type":"Point"}
 }

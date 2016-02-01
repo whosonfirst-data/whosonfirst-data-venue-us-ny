@@ -2,13 +2,14 @@
   "id": 370279703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.532997,40.760601,-73.532997,40.760601",
     "geom:latitude":40.760601,
     "geom:longitude":-73.532997,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"178 W Old Country Rd",
     "sg:city":"Hicksville",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892883,
+        102191575,
+        404521475,
         85633793,
         85979093,
         102082371,
-        85892883
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"ebedb1bf31952eec7e5b5530594814af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979093,
             "neighbourhood_id":85892883,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":370279703,
-    "wof:lastmodified":1449030652,
+    "wof:lastmodified":1454127773,
     "wof:name":"Hicksville Bp",
     "wof:parent_id":85892883,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.532997,40.760601,-73.532997,40.760601],
-  "geometry": {"coordinates":[-73.532997,40.760601],"type":"Point"}
+  "bbox": [
+    -73.532997,
+    40.760601,
+    -73.532997,
+    40.760601
+],
+  "geometry": {"coordinates":[-73.53299699999999,40.760601],"type":"Point"}
 }

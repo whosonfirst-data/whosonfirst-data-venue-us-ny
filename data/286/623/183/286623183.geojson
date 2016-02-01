@@ -2,13 +2,14 @@
   "id": 286623183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.554377,40.669469,-73.554377,40.669469",
     "geom:latitude":40.669469,
     "geom:longitude":-73.554377,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2025 Merrick Ave",
     "sg:city":"Merrick",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529153,
+        102191575,
+        404521473,
         85633793,
-        85979125,
-        102082371
+        85979047,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"3e9c0cb687048057081557675b33dbc8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979125,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979047,
+            "neighbourhood_id":420529153,
             "region_id":85688543,
             "venue_id":286623183
         }
     ],
     "wof:id":286623183,
-    "wof:lastmodified":1449017250,
+    "wof:lastmodified":1454125760,
     "wof:name":"J Nauheim MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529153,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.554377,40.669469,-73.554377,40.669469],
+  "bbox": [
+    -73.554377,
+    40.669469,
+    -73.554377,
+    40.669469
+],
   "geometry": {"coordinates":[-73.554377,40.669469],"type":"Point"}
 }

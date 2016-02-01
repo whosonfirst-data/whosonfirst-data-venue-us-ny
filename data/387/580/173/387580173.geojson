@@ -2,13 +2,14 @@
   "id": 387580173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.611537,43.251161,-77.611537,43.251161",
     "geom:latitude":43.251161,
     "geom:longitude":-77.611537,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"70 Lighthouse St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851377,
+        102191575,
+        404522639,
         85633793,
+        85979035,
         102081815,
-        85851377
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"30c34a851178d727fa04faec17e0297d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":-1,
+            "localadmin_id":404522639,
+            "locality_id":85979035,
             "neighbourhood_id":85851377,
             "region_id":85688543,
             "venue_id":387580173
         }
     ],
     "wof:id":387580173,
-    "wof:lastmodified":1449058669,
+    "wof:lastmodified":1454129990,
     "wof:name":"Charlotte Genesee Lighthouse",
     "wof:parent_id":85851377,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.611537,43.251161,-77.611537,43.251161],
+  "bbox": [
+    -77.611537,
+    43.251161,
+    -77.611537,
+    43.251161
+],
   "geometry": {"coordinates":[-77.611537,43.251161],"type":"Point"}
 }

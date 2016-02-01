@@ -2,13 +2,14 @@
   "id": 303732705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.998244,40.754203,-73.998244,40.754203",
     "geom:latitude":40.754203,
     "geom:longitude":-73.998244,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"433 W 34th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810589,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"cd0bace9821f78e6c662df7bd33617c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85810589,
             "region_id":85688543,
             "venue_id":303732705
         }
     ],
     "wof:id":303732705,
-    "wof:lastmodified":1449000647,
+    "wof:lastmodified":1454123747,
     "wof:name":"Image Maker Photo Lab",
-    "wof:parent_id":-1,
+    "wof:parent_id":85810589,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "processing"
     ]
 },
-  "bbox": [-73.998244,40.754203,-73.998244,40.754203],
+  "bbox": [
+    -73.998244,
+    40.754203,
+    -73.998244,
+    40.754203
+],
   "geometry": {"coordinates":[-73.998244,40.754203],"type":"Point"}
 }

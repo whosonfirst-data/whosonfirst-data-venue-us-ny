@@ -2,13 +2,14 @@
   "id": 270522167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.929589,40.83263,-73.929589,40.83263",
     "geom:latitude":40.83263,
     "geom:longitude":-73.929589,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"979 Ogden Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869335,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869335
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"3534c04a7f517fcfb3ebe7a22de866e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869335,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":270522167,
-    "wof:lastmodified":1449009803,
+    "wof:lastmodified":1454124538,
     "wof:name":"Highbridge Community Life Ctr",
     "wof:parent_id":85869335,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "community"
     ]
 },
-  "bbox": [-73.929589,40.83263,-73.929589,40.83263],
-  "geometry": {"coordinates":[-73.929589,40.83263],"type":"Point"}
+  "bbox": [
+    -73.929589,
+    40.83263,
+    -73.929589,
+    40.83263
+],
+  "geometry": {"coordinates":[-73.92958900000001,40.83263],"type":"Point"}
 }

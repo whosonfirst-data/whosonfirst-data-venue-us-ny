@@ -2,13 +2,14 @@
   "id": 370683551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.819988,40.901548,-73.819988,40.901548",
     "geom:latitude":40.901548,
     "geom:longitude":-73.819988,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 E Sandford Blvd",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840705,
+        102191575,
+        404523371,
         85633793,
         85978721,
         102082373,
-        85840705
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"231673e10f8f437e4bd4e21dfb3fef5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
             "neighbourhood_id":85840705,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":370683551,
-    "wof:lastmodified":1449030329,
+    "wof:lastmodified":1454127680,
     "wof:name":"Great Wall Chinese Restaurant",
     "wof:parent_id":85840705,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.819988,40.901548,-73.819988,40.901548],
+  "bbox": [
+    -73.819988,
+    40.901548,
+    -73.819988,
+    40.901548
+],
   "geometry": {"coordinates":[-73.819988,40.901548],"type":"Point"}
 }

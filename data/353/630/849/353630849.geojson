@@ -2,13 +2,14 @@
   "id": 353630849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.812609,40.691579,-73.812609,40.691579",
     "geom:latitude":40.691579,
     "geom:longitude":-73.812609,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13413 Liberty Ave",
     "sg:city":"South Richmond Hill",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844441,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844441
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"557120132a4eebbda29f25f18a210558",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844441,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":353630849,
-    "wof:lastmodified":1449019159,
+    "wof:lastmodified":1454126213,
     "wof:name":"Devin Wine & Liquor",
     "wof:parent_id":85844441,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "wine"
     ]
 },
-  "bbox": [-73.812609,40.691579,-73.812609,40.691579],
-  "geometry": {"coordinates":[-73.812609,40.691579],"type":"Point"}
+  "bbox": [
+    -73.812609,
+    40.691579,
+    -73.812609,
+    40.691579
+],
+  "geometry": {"coordinates":[-73.81260899999999,40.691579],"type":"Point"}
 }

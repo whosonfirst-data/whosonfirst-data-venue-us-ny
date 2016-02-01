@@ -2,13 +2,14 @@
   "id": 370244409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.832603,40.944801,-72.832603,40.944801",
     "geom:latitude":40.944801,
     "geom:longitude":-72.832603,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6298 Route 25A",
     "sg:city":"Wading River",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979901,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"e0d06e9411b80a6f8f1bde4a40e00399",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979901,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":370244409
         }
     ],
     "wof:id":370244409,
-    "wof:lastmodified":1449030430,
+    "wof:lastmodified":1454127708,
     "wof:name":"Shea Maureen Psychlogist",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "mental"
     ]
 },
-  "bbox": [-72.832603,40.944801,-72.832603,40.944801],
-  "geometry": {"coordinates":[-72.832603,40.944801],"type":"Point"}
+  "bbox": [
+    -72.832603,
+    40.944801,
+    -72.832603,
+    40.944801
+],
+  "geometry": {"coordinates":[-72.83260300000001,40.944801],"type":"Point"}
 }

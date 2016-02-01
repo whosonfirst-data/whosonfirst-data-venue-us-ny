@@ -2,13 +2,14 @@
   "id": 270361307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.156146,40.5785,-74.156146,40.5785",
     "geom:latitude":40.5785,
     "geom:longitude":-74.156146,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"117 Pierpont Pl",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85822553,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"7a81d2917843fd86dbb61e103e15dc3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85822553,
             "region_id":85688543,
             "venue_id":270361307
         }
     ],
     "wof:id":270361307,
-    "wof:lastmodified":1449010437,
+    "wof:lastmodified":1454124635,
     "wof:name":"Stuart Beitelman & Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85822553,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-74.156146,40.5785,-74.156146,40.5785],
-  "geometry": {"coordinates":[-74.156146,40.5785],"type":"Point"}
+  "bbox": [
+    -74.156146,
+    40.5785,
+    -74.156146,
+    40.5785
+],
+  "geometry": {"coordinates":[-74.15614600000001,40.5785],"type":"Point"}
 }

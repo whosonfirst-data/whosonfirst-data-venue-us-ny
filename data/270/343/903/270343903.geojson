@@ -2,13 +2,14 @@
   "id": 270343903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.528171,40.860774,-72.528171,40.860774",
     "geom:latitude":40.860774,
     "geom:longitude":-72.528171,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 Rampasture Rd",
     "sg:city":"Hampton Bays",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85843729,
+        102191575,
+        404522671,
         85633793,
         85979703,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"b5297319f1166bbcc2aced73c319b3e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522671,
             "locality_id":85979703,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85843729,
             "region_id":85688543,
             "venue_id":270343903
         }
     ],
     "wof:id":270343903,
-    "wof:lastmodified":1449010385,
+    "wof:lastmodified":1454124627,
     "wof:name":"Avionics",
-    "wof:parent_id":-1,
+    "wof:parent_id":85843729,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "holding"
     ]
 },
-  "bbox": [-72.528171,40.860774,-72.528171,40.860774],
+  "bbox": [
+    -72.528171,
+    40.860774,
+    -72.528171,
+    40.860774
+],
   "geometry": {"coordinates":[-72.528171,40.860774],"type":"Point"}
 }

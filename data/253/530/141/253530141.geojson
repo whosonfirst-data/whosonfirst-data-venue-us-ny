@@ -2,13 +2,14 @@
   "id": 253530141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.162374,43.130022,-76.162374,43.130022",
     "geom:latitude":43.130022,
     "geom:longitude":-76.162374,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7444 Buckley Rd",
     "sg:city":"North Syracuse",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85842079,
+        102082351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,18 +44,17 @@
     "wof:geomhash":"a2e3284b3e9fb6e244772d2a96c5743c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "neighbourhood_id":85842079,
             "region_id":85688543,
             "venue_id":253530141
         }
     ],
     "wof:id":253530141,
-    "wof:lastmodified":1449064401,
+    "wof:lastmodified":1454130509,
     "wof:name":"Northminister Nursery School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842079,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-76.162374,43.130022,-76.162374,43.130022],
+  "bbox": [
+    -76.162374,
+    43.130022,
+    -76.162374,
+    43.130022
+],
   "geometry": {"coordinates":[-76.162374,43.130022],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371161519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.503852,40.813047,-73.503852,40.813047",
     "geom:latitude":40.813047,
     "geom:longitude":-73.503852,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Dorcas Ave",
     "sg:city":"Syosset",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529175,
+        102191575,
+        404521475,
         85633793,
         85979075,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"695c3c60872a5815ce5182abc3dacf2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979075,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529175,
             "region_id":85688543,
             "venue_id":371161519
         }
     ],
     "wof:id":371161519,
-    "wof:lastmodified":1449049440,
+    "wof:lastmodified":1454129132,
     "wof:name":"BEST Dental",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529175,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.503852,40.813047,-73.503852,40.813047],
-  "geometry": {"coordinates":[-73.503852,40.813047],"type":"Point"}
+  "bbox": [
+    -73.503852,
+    40.813047,
+    -73.503852,
+    40.813047
+],
+  "geometry": {"coordinates":[-73.50385199999999,40.813047],"type":"Point"}
 }

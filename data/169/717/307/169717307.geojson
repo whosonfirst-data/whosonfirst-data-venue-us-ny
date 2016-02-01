@@ -2,13 +2,14 @@
   "id": 169717307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.948716,40.710202,-73.948716,40.710202",
     "geom:latitude":40.710202,
     "geom:longitude":-73.948716,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"442 Lorimer Street Ste D",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"www.tigerlilyexpress.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857853,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85857853
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"6d08fe2223bfceefabd17bf50e72b3f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85857853,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":169717307,
-    "wof:lastmodified":1449032770,
+    "wof:lastmodified":1454128351,
     "wof:name":"Tiger Lily Express / USPS",
     "wof:parent_id":85857853,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "shipping"
     ]
 },
-  "bbox": [-73.948716,40.710202,-73.948716,40.710202],
+  "bbox": [
+    -73.948716,
+    40.710202,
+    -73.948716,
+    40.710202
+],
   "geometry": {"coordinates":[-73.948716,40.710202],"type":"Point"}
 }

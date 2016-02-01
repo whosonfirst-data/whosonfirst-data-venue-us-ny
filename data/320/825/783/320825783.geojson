@@ -2,13 +2,14 @@
   "id": 320825783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.917116,40.856742,-73.917116,40.856742",
     "geom:latitude":40.856742,
     "geom:longitude":-73.917116,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1976 Cedar Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853135,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85853135
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"2587250a186178da6a1cefa1d69df528",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853135,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":320825783,
-    "wof:lastmodified":1449011403,
+    "wof:lastmodified":1454124784,
     "wof:name":"Pair A Deez",
     "wof:parent_id":85853135,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.917116,40.856742,-73.917116,40.856742],
-  "geometry": {"coordinates":[-73.917116,40.856742],"type":"Point"}
+  "bbox": [
+    -73.917116,
+    40.856742,
+    -73.917116,
+    40.856742
+],
+  "geometry": {"coordinates":[-73.91711599999999,40.856742],"type":"Point"}
 }

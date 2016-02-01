@@ -2,13 +2,14 @@
   "id": 354319271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.933866,40.885208,-72.933866,40.885208",
     "geom:latitude":40.885208,
     "geom:longitude":-72.933866,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1031 Middle Country Rd",
     "sg:city":"Middle Island",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.asfc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979955,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"8c9d1e34bf5e9e067a2d3ae6f19881e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979955,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":354319271
         }
     ],
     "wof:id":354319271,
-    "wof:lastmodified":1449066611,
+    "wof:lastmodified":1454130980,
     "wof:name":"Astoria Federal Savings & Loan",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "association"
     ]
 },
-  "bbox": [-72.933866,40.885208,-72.933866,40.885208],
-  "geometry": {"coordinates":[-72.933866,40.885208],"type":"Point"}
+  "bbox": [
+    -72.933866,
+    40.885208,
+    -72.933866,
+    40.885208
+],
+  "geometry": {"coordinates":[-72.93386599999999,40.885208],"type":"Point"}
 }

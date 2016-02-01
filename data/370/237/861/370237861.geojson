@@ -2,13 +2,14 @@
   "id": 370237861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.512581,40.80981,-73.512581,40.80981",
     "geom:latitude":40.80981,
     "geom:longitude":-73.512581,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"52 W. Jericho Tpk.",
     "sg:city":"Syosset",
     "sg:classifiers":[
@@ -55,10 +56,13 @@
     "sg:website":"http://www.ilfornellodeli.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
-        85979075,
-        102082371
+        85979055,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,19 +72,20 @@
     "wof:geomhash":"f707e7c15f497efcb1a692d6760bf177",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979075,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85979055,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":370237861
         }
     ],
     "wof:id":370237861,
-    "wof:lastmodified":1449029151,
+    "wof:lastmodified":1454127333,
     "wof:name":"Il Fornello Gourmet Deli & Caterer",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -95,6 +100,11 @@
         "italian"
     ]
 },
-  "bbox": [-73.512581,40.80981,-73.512581,40.80981],
+  "bbox": [
+    -73.512581,
+    40.80981,
+    -73.512581,
+    40.80981
+],
   "geometry": {"coordinates":[-73.512581,40.80981],"type":"Point"}
 }

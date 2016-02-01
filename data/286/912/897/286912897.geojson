@@ -2,13 +2,14 @@
   "id": 286912897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.202671,41.520616,-74.202671,41.520616",
     "geom:latitude":41.520616,
     "geom:longitude":-74.202671,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Bracken Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85835327,
+        102191575,
+        404522909,
         85633793,
+        85978237,
+        102083061,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"19c91d33e4f56147b1aafda71a5cf5e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083061,
+            "localadmin_id":404522909,
+            "locality_id":85978237,
+            "neighbourhood_id":85835327,
             "region_id":85688543,
             "venue_id":286912897
         }
     ],
     "wof:id":286912897,
-    "wof:lastmodified":1449016643,
+    "wof:lastmodified":1454125655,
     "wof:name":"Nugent and Haeussler",
-    "wof:parent_id":-1,
+    "wof:parent_id":85835327,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "accountant"
     ]
 },
-  "bbox": [-74.202671,41.520616,-74.202671,41.520616],
+  "bbox": [
+    -74.202671,
+    41.520616,
+    -74.202671,
+    41.520616
+],
   "geometry": {"coordinates":[-74.202671,41.520616],"type":"Point"}
 }

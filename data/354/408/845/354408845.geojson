@@ -2,13 +2,14 @@
   "id": 354408845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.80256,40.976965,-73.80256,40.976965",
     "geom:latitude":40.976965,
     "geom:longitude":-73.80256,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"165 Summerfield St",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530449,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"8f31cc2160dab60074ee5b4a571e886f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530449,
             "region_id":85688543,
             "venue_id":354408845
         }
     ],
     "wof:id":354408845,
-    "wof:lastmodified":1449066150,
+    "wof:lastmodified":1454130838,
     "wof:name":"Tony Casale Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530449,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "garden"
     ]
 },
-  "bbox": [-73.80256,40.976965,-73.80256,40.976965],
+  "bbox": [
+    -73.80256,
+    40.976965,
+    -73.80256,
+    40.976965
+],
   "geometry": {"coordinates":[-73.80256,40.976965],"type":"Point"}
 }

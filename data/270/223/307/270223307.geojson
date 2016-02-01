@@ -2,13 +2,14 @@
   "id": 270223307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.379927,40.678931,-73.379927,40.678931",
     "geom:latitude":40.678931,
     "geom:longitude":-73.379927,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"346 S 11th St",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
         85978477,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"db404e1c3e1ab99945d4da069d658f3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522513,
             "locality_id":85978477,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":270223307
         }
     ],
     "wof:id":270223307,
-    "wof:lastmodified":1449008819,
+    "wof:lastmodified":1454124392,
     "wof:name":"Riteway Swimming Pool Svc Sons",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "swimming"
     ]
 },
-  "bbox": [-73.379927,40.678931,-73.379927,40.678931],
+  "bbox": [
+    -73.379927,
+    40.678931,
+    -73.379927,
+    40.678931
+],
   "geometry": {"coordinates":[-73.379927,40.678931],"type":"Point"}
 }

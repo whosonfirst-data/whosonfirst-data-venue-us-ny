@@ -2,13 +2,14 @@
   "id": 354245739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.424527,40.873637,-73.424527,40.873637",
     "geom:latitude":40.873637,
     "geom:longitude":-73.424527,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"56 Stewart Ave",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"www.bin56.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820109,
+        102191575,
+        404522515,
         85633793,
-        85979675,
+        85979787,
         102082395,
-        85820109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"6beeeb283de346c2deda4d88d693de74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979675,
+            "localadmin_id":404522515,
+            "locality_id":85979787,
             "neighbourhood_id":85820109,
             "region_id":85688543,
             "venue_id":354245739
         }
     ],
     "wof:id":354245739,
-    "wof:lastmodified":1449067621,
+    "wof:lastmodified":1454131294,
     "wof:name":"Bin 56",
     "wof:parent_id":85820109,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "tapas/small"
     ]
 },
-  "bbox": [-73.424527,40.873637,-73.424527,40.873637],
+  "bbox": [
+    -73.424527,
+    40.873637,
+    -73.424527,
+    40.873637
+],
   "geometry": {"coordinates":[-73.424527,40.873637],"type":"Point"}
 }

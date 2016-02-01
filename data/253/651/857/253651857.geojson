@@ -2,13 +2,14 @@
   "id": 253651857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.792453,40.800312,-72.792453,40.800312",
     "geom:latitude":40.800312,
     "geom:longitude":-72.792453,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"333 Main St",
     "sg:city":"Center Moriches",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"d5e47ebe4724bd6919aaba4b1a62d742",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":253651857
         }
     ],
     "wof:id":253651857,
-    "wof:lastmodified":1449063402,
+    "wof:lastmodified":1454130342,
     "wof:name":"Super Sport Cards",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "memorabilia"
     ]
 },
-  "bbox": [-72.792453,40.800312,-72.792453,40.800312],
-  "geometry": {"coordinates":[-72.792453,40.800312],"type":"Point"}
+  "bbox": [
+    -72.792453,
+    40.800312,
+    -72.792453,
+    40.800312
+],
+  "geometry": {"coordinates":[-72.79245299999999,40.800312],"type":"Point"}
 }

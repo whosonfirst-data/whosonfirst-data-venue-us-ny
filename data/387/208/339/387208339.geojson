@@ -2,13 +2,14 @@
   "id": 387208339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.93846,40.803918,-73.93846,40.803918",
     "geom:latitude":40.803918,
     "geom:longitude":-73.93846,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 E 124th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865689,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865689
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"d345469d6117d58af4531d38602b41a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865689,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387208339,
-    "wof:lastmodified":1449056552,
+    "wof:lastmodified":1454129608,
     "wof:name":"Osco Holdings Inc",
     "wof:parent_id":85865689,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "holding"
     ]
 },
-  "bbox": [-73.93846,40.803918,-73.93846,40.803918],
-  "geometry": {"coordinates":[-73.93846,40.803918],"type":"Point"}
+  "bbox": [
+    -73.93846,
+    40.803918,
+    -73.93846,
+    40.803918
+],
+  "geometry": {"coordinates":[-73.93846000000001,40.803918],"type":"Point"}
 }

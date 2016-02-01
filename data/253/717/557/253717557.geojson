@@ -2,13 +2,14 @@
   "id": 253717557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.301747,40.981685,-72.301747,40.981685",
     "geom:latitude":40.981685,
     "geom:longitude":-72.301747,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1742 Bhampton Sag Harbor Tpke",
     "sg:city":"Sag Harbor",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844167,
+        102191575,
+        404521445,
         85633793,
+        85978453,
         102082395,
-        85844167
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"62ffdbcbd58a17e1969ed87ec0a45363",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521445,
+            "locality_id":85978453,
             "neighbourhood_id":85844167,
             "region_id":85688543,
             "venue_id":253717557
         }
     ],
     "wof:id":253717557,
-    "wof:lastmodified":1449062904,
+    "wof:lastmodified":1454130255,
     "wof:name":"Bay Burger",
     "wof:parent_id":85844167,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.301747,40.981685,-72.301747,40.981685],
-  "geometry": {"coordinates":[-72.301747,40.981685],"type":"Point"}
+  "bbox": [
+    -72.301747,
+    40.981685,
+    -72.301747,
+    40.981685
+],
+  "geometry": {"coordinates":[-72.30174700000001,40.981685],"type":"Point"}
 }

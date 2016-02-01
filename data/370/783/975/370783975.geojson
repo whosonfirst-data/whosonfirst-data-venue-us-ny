@@ -2,13 +2,14 @@
   "id": 370783975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.145537,43.04861,-76.145537,43.04861",
     "geom:latitude":43.04861,
     "geom:longitude":-76.145537,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"504 E Fayette St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"http://www.parkcentralchurch.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881241,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881241
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"098793b70b2d00d0cfb28e70b9fbf5da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881241,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":370783975,
-    "wof:lastmodified":1449029174,
+    "wof:lastmodified":1454127342,
     "wof:name":"Park Central Presbyterian Church",
     "wof:parent_id":85881241,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "churches-presbyterian"
     ]
 },
-  "bbox": [-76.145537,43.04861,-76.145537,43.04861],
+  "bbox": [
+    -76.145537,
+    43.04861,
+    -76.145537,
+    43.04861
+],
   "geometry": {"coordinates":[-76.145537,43.04861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386985113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.599601,43.157508,-77.599601,43.157508",
     "geom:latitude":43.157508,
     "geom:longitude":-77.599601,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"50 Scio St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -41,11 +42,13 @@
     "sg:website":"http://www.speedyscleaners.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867091,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85867091
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,9 +58,10 @@
     "wof:geomhash":"7b46024e71e67e5cce85bc901cc7bf04",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85867091,
             "region_id":85688543,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":386985113,
-    "wof:lastmodified":1449028778,
+    "wof:lastmodified":1454127229,
     "wof:name":"Speedy's Service",
     "wof:parent_id":85867091,
     "wof:placetype":"venue",
@@ -83,6 +87,11 @@
         "coin"
     ]
 },
-  "bbox": [-77.599601,43.157508,-77.599601,43.157508],
-  "geometry": {"coordinates":[-77.599601,43.157508],"type":"Point"}
+  "bbox": [
+    -77.599601,
+    43.157508,
+    -77.599601,
+    43.157508
+],
+  "geometry": {"coordinates":[-77.59960100000001,43.157508],"type":"Point"}
 }

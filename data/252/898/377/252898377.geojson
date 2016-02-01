@@ -2,13 +2,14 @@
   "id": 252898377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.749502,41.000598,-73.749502,41.000598",
     "geom:latitude":41.000598,
     "geom:longitude":-73.749502,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Chesley Rd",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845959,
+        102191575,
+        404523395,
         85633793,
-        85978735,
+        85978761,
         102082373,
-        85845959
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"d91bd99ead1d9c1cc94de5a29d0a433c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978735,
+            "localadmin_id":404523395,
+            "locality_id":85978761,
             "neighbourhood_id":85845959,
             "region_id":85688543,
             "venue_id":252898377
         }
     ],
     "wof:id":252898377,
-    "wof:lastmodified":1449005381,
+    "wof:lastmodified":1454123979,
     "wof:name":"Hagop Hamparsoumian DDS",
     "wof:parent_id":85845959,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.749502,41.000598,-73.749502,41.000598],
-  "geometry": {"coordinates":[-73.749502,41.000598],"type":"Point"}
+  "bbox": [
+    -73.749502,
+    41.000598,
+    -73.749502,
+    41.000598
+],
+  "geometry": {"coordinates":[-73.74950200000001,41.000598],"type":"Point"}
 }

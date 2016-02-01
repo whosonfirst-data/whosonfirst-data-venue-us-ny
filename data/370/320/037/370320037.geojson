@@ -2,13 +2,14 @@
   "id": 370320037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.812202,40.842999,-72.812202,40.842999",
     "geom:latitude":40.842999,
     "geom:longitude":-72.812202,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"285 Wading River Rd",
     "sg:city":"Manorville",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530021,
+        102191575,
+        404521441,
         85633793,
         85979761,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"eb72ab4fbff85dfe4cc59e5516cafdd0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530021,
             "region_id":85688543,
             "venue_id":370320037
         }
     ],
     "wof:id":370320037,
-    "wof:lastmodified":1449029954,
+    "wof:lastmodified":1454127567,
     "wof:name":"Godfather's Pizza",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530021,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "pizza"
     ]
 },
-  "bbox": [-72.812202,40.842999,-72.812202,40.842999],
+  "bbox": [
+    -72.812202,
+    40.842999,
+    -72.812202,
+    40.842999
+],
   "geometry": {"coordinates":[-72.812202,40.842999],"type":"Point"}
 }

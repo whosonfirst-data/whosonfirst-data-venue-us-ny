@@ -2,13 +2,14 @@
   "id": 336816683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.907175,41.697171,-73.907175,41.697171",
     "geom:latitude":41.697171,
     "geom:longitude":-73.907175,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"736 Main St",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892989,
+        102191575,
+        404522305,
         85633793,
+        85977835,
         102082363,
-        85892989
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"694547e91311ccb3da27f563383b195f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
-            "locality_id":-1,
+            "localadmin_id":404522305,
+            "locality_id":85977835,
             "neighbourhood_id":85892989,
             "region_id":85688543,
             "venue_id":336816683
         }
     ],
     "wof:id":336816683,
-    "wof:lastmodified":1448997565,
+    "wof:lastmodified":1454122813,
     "wof:name":"Town & Country Cleaners",
     "wof:parent_id":85892989,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-73.907175,41.697171,-73.907175,41.697171],
+  "bbox": [
+    -73.907175,
+    41.697171,
+    -73.907175,
+    41.697171
+],
   "geometry": {"coordinates":[-73.907175,41.697171],"type":"Point"}
 }

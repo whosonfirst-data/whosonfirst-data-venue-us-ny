@@ -2,13 +2,14 @@
   "id": 387717577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.15197,43.057637,-76.15197,43.057637",
     "geom:latitude":43.057637,
     "geom:longitude":-76.15197,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"460 N Salina St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.seiaarons.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881255,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881255
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"8ef1fd175ba90a7f4e71f0b084455a2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881255,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387717577,
-    "wof:lastmodified":1449056222,
+    "wof:lastmodified":1454129552,
     "wof:name":"Aaron's Rental Purchase",
     "wof:parent_id":85881255,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "furniture"
     ]
 },
-  "bbox": [-76.15197,43.057637,-76.15197,43.057637],
-  "geometry": {"coordinates":[-76.15197,43.057637],"type":"Point"}
+  "bbox": [
+    -76.15197,
+    43.057637,
+    -76.15197,
+    43.057637
+],
+  "geometry": {"coordinates":[-76.15197000000001,43.057637],"type":"Point"}
 }

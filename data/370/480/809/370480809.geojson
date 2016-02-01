@@ -2,13 +2,14 @@
   "id": 370480809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.878723,41.010891,-73.878723,41.010891",
     "geom:latitude":41.010891,
     "geom:longitude":-73.878723,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Livingston Ave",
     "sg:city":"Dobbs Ferry",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85849177,
+        102191575,
+        404523359,
         85633793,
-        102082385,
-        85849177
+        85978743,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"d70a1e4b9b8094c1bbc63805f11e9325",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082385,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523359,
+            "locality_id":85978743,
             "neighbourhood_id":85849177,
             "region_id":85688543,
             "venue_id":370480809
         }
     ],
     "wof:id":370480809,
-    "wof:lastmodified":1449030199,
+    "wof:lastmodified":1454127642,
     "wof:name":"American Express",
     "wof:parent_id":85849177,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.878723,41.010891,-73.878723,41.010891],
-  "geometry": {"coordinates":[-73.878723,41.010891],"type":"Point"}
+  "bbox": [
+    -73.878723,
+    41.010891,
+    -73.878723,
+    41.010891
+],
+  "geometry": {"coordinates":[-73.87872299999999,41.010891],"type":"Point"}
 }

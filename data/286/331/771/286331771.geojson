@@ -2,13 +2,14 @@
   "id": 286331771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.557303,43.156857,-77.557303,43.156857",
     "geom:latitude":43.156857,
     "geom:longitude":-77.557303,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"946 Atlantic Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880405,
+        102191575,
+        404521467,
         85633793,
-        85979035,
+        85977591,
         102081815,
-        85880405
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"9bd3a8c4327a9a11a8609db90f31c931",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85979035,
+            "localadmin_id":404521467,
+            "locality_id":85977591,
             "neighbourhood_id":85880405,
             "region_id":85688543,
             "venue_id":286331771
         }
     ],
     "wof:id":286331771,
-    "wof:lastmodified":1449016992,
+    "wof:lastmodified":1454125718,
     "wof:name":"Brandt Heating & AC",
     "wof:parent_id":85880405,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "chimney"
     ]
 },
-  "bbox": [-77.557303,43.156857,-77.557303,43.156857],
+  "bbox": [
+    -77.557303,
+    43.156857,
+    -77.557303,
+    43.156857
+],
   "geometry": {"coordinates":[-77.557303,43.156857],"type":"Point"}
 }

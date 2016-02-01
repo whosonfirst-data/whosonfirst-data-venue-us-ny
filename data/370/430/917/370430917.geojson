@@ -2,13 +2,14 @@
   "id": 370430917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.741998,42.634155,-73.741998,42.634155",
     "geom:latitude":42.634155,
     "geom:longitude":-73.741998,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"24 Ring St",
     "sg:city":"Rensselaer",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85843203,
+        102191575,
+        404523079,
         85633793,
+        85978343,
         102081773,
-        85843203
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"fc8a6f895df51144e74d1be329ce68ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081773,
-            "locality_id":-1,
+            "localadmin_id":404523079,
+            "locality_id":85978343,
             "neighbourhood_id":85843203,
             "region_id":85688543,
             "venue_id":370430917
         }
     ],
     "wof:id":370430917,
-    "wof:lastmodified":1449031233,
+    "wof:lastmodified":1454127947,
     "wof:name":"Black Beauty Sealcoating",
     "wof:parent_id":85843203,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "compound"
     ]
 },
-  "bbox": [-73.741998,42.634155,-73.741998,42.634155],
+  "bbox": [
+    -73.741998,
+    42.634155,
+    -73.741998,
+    42.634155
+],
   "geometry": {"coordinates":[-73.741998,42.634155],"type":"Point"}
 }

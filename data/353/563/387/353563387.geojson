@@ -2,13 +2,14 @@
   "id": 353563387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.251793,40.847632,-73.251793,40.847632",
     "geom:latitude":40.847632,
     "geom:longitude":-73.251793,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1008 W Jericho Tpke",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530033,
+        102191575,
+        404522669,
         85633793,
         85979805,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"d8b5620e2722093df7873e3cdfadcaea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979805,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530033,
             "region_id":85688543,
             "venue_id":353563387
         }
     ],
     "wof:id":353563387,
-    "wof:lastmodified":1449018296,
+    "wof:lastmodified":1454125961,
     "wof:name":"Wig Salon LTD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530033,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "replacement"
     ]
 },
-  "bbox": [-73.251793,40.847632,-73.251793,40.847632],
-  "geometry": {"coordinates":[-73.251793,40.847632],"type":"Point"}
+  "bbox": [
+    -73.251793,
+    40.847632,
+    -73.251793,
+    40.847632
+],
+  "geometry": {"coordinates":[-73.25179300000001,40.847632],"type":"Point"}
 }

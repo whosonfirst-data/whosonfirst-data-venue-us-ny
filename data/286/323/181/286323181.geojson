@@ -2,13 +2,14 @@
   "id": 286323181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.995613,40.690616,-73.995613,40.690616",
     "geom:latitude":40.690616,
     "geom:longitude":-73.995613,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"150 Atlantic Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807925,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85807925
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"e0e41f7214610b7c0f2ff9b52c676cf2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85807925,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":286323181,
-    "wof:lastmodified":1449015440,
+    "wof:lastmodified":1454125445,
     "wof:name":"Modell Loan Brokers",
     "wof:parent_id":85807925,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-73.995613,40.690616,-73.995613,40.690616],
-  "geometry": {"coordinates":[-73.995613,40.690616],"type":"Point"}
+  "bbox": [
+    -73.995613,
+    40.690616,
+    -73.995613,
+    40.690616
+],
+  "geometry": {"coordinates":[-73.99561300000001,40.690616],"type":"Point"}
 }

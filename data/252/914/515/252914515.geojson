@@ -2,13 +2,14 @@
   "id": 252914515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.013681,40.678578,-74.013681,40.678578",
     "geom:latitude":40.678578,
     "geom:longitude":-74.013681,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"165 Conover St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844047,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85844047
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"ae8202dc8d7e81c4ce30cb8a386b4689",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844047,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":252914515,
-    "wof:lastmodified":1449005818,
+    "wof:lastmodified":1454124037,
     "wof:name":"Food First",
     "wof:parent_id":85844047,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "welfare"
     ]
 },
-  "bbox": [-74.013681,40.678578,-74.013681,40.678578],
-  "geometry": {"coordinates":[-74.013681,40.678578],"type":"Point"}
+  "bbox": [
+    -74.013681,
+    40.678578,
+    -74.013681,
+    40.678578
+],
+  "geometry": {"coordinates":[-74.01368100000001,40.678578],"type":"Point"}
 }

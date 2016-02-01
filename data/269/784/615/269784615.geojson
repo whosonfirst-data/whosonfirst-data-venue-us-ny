@@ -2,13 +2,14 @@
   "id": 269784615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.814929,40.951208,-73.814929,40.951208",
     "geom:latitude":40.951208,
     "geom:longitude":-73.814929,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 Duluth Pl",
     "sg:city":"Eastchester",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530381,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"5ce364b40041abce37cf8e977fb44e9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530381,
             "region_id":85688543,
             "venue_id":269784615
         }
     ],
     "wof:id":269784615,
-    "wof:lastmodified":1449037720,
+    "wof:lastmodified":1454128699,
     "wof:name":"Multi Micro Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530381,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "consultant"
     ]
 },
-  "bbox": [-73.814929,40.951208,-73.814929,40.951208],
-  "geometry": {"coordinates":[-73.814929,40.951208],"type":"Point"}
+  "bbox": [
+    -73.814929,
+    40.951208,
+    -73.814929,
+    40.951208
+],
+  "geometry": {"coordinates":[-73.81492900000001,40.951208],"type":"Point"}
 }

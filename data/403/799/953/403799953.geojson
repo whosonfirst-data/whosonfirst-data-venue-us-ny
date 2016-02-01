@@ -2,13 +2,14 @@
   "id": 403799953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.82911,40.981911,-73.82911,40.981911",
     "geom:latitude":40.981911,
     "geom:longitude":-73.82911,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2455 Central Park Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.sleepys.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805227,
+        102191575,
+        404523359,
         85633793,
-        85978759,
+        85980063,
         102082373,
-        85805227
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"b8af49db6f00fa2e64011bcc03b09683",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978759,
+            "localadmin_id":404523359,
+            "locality_id":85980063,
             "neighbourhood_id":85805227,
             "region_id":85688543,
             "venue_id":403799953
         }
     ],
     "wof:id":403799953,
-    "wof:lastmodified":1449055965,
+    "wof:lastmodified":1454129513,
     "wof:name":"Sleepy's",
     "wof:parent_id":85805227,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "mattress"
     ]
 },
-  "bbox": [-73.82911,40.981911,-73.82911,40.981911],
+  "bbox": [
+    -73.82911,
+    40.981911,
+    -73.82911,
+    40.981911
+],
   "geometry": {"coordinates":[-73.82911,40.981911],"type":"Point"}
 }

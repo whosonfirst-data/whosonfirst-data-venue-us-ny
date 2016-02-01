@@ -2,13 +2,14 @@
   "id": 353503321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.90834,40.71825,-73.90834,40.71825",
     "geom:latitude":40.71825,
     "geom:longitude":-73.90834,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5736 59th St",
     "sg:city":"Maspeth",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832845,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85832845
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"7143f18e8cb8aa4ee9ce551eaf42a6d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85832845,
             "region_id":85688543,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":353503321,
-    "wof:lastmodified":1449020796,
+    "wof:lastmodified":1454126686,
     "wof:name":"Satnet Communication Co",
     "wof:parent_id":85832845,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "engineer"
     ]
 },
-  "bbox": [-73.90834,40.71825,-73.90834,40.71825],
+  "bbox": [
+    -73.90834,
+    40.71825,
+    -73.90834,
+    40.71825
+],
   "geometry": {"coordinates":[-73.90834,40.71825],"type":"Point"}
 }

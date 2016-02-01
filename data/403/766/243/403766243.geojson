@@ -2,13 +2,14 @@
   "id": 403766243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.812851,40.943233,-73.812851,40.943233",
     "geom:latitude":40.943233,
     "geom:longitude":-73.812851,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"103 Middle Rd",
     "sg:city":"Eastchester",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530381,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"4ced2cdb12281bf89147f984d854265b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530381,
             "region_id":85688543,
             "venue_id":403766243
         }
     ],
     "wof:id":403766243,
-    "wof:lastmodified":1449054610,
+    "wof:lastmodified":1454129319,
     "wof:name":"Craft Fence Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530381,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "fence"
     ]
 },
-  "bbox": [-73.812851,40.943233,-73.812851,40.943233],
-  "geometry": {"coordinates":[-73.812851,40.943233],"type":"Point"}
+  "bbox": [
+    -73.812851,
+    40.943233,
+    -73.812851,
+    40.943233
+],
+  "geometry": {"coordinates":[-73.81285099999999,40.943233],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371071859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.858977,42.915286,-78.858977,42.915286",
     "geom:latitude":42.915286,
     "geom:longitude":-78.858977,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"141 E Ferry St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872929,
+        102191575,
+        404522329,
         85633793,
         85978023,
         102082387,
-        85872873
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +45,20 @@
     "wof:geomhash":"f96e2ba13430135d31c4f3b8bf0e9a12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
-            "neighbourhood_id":85872873,
+            "neighbourhood_id":85872929,
             "region_id":85688543,
             "venue_id":371071859
         }
     ],
     "wof:id":371071859,
-    "wof:lastmodified":1449049705,
+    "wof:lastmodified":1454129192,
     "wof:name":"United Black Students Association",
-    "wof:parent_id":85872873,
+    "wof:parent_id":85872929,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +67,11 @@
         "private"
     ]
 },
-  "bbox": [-78.858977,42.915286,-78.858977,42.915286],
+  "bbox": [
+    -78.858977,
+    42.915286,
+    -78.858977,
+    42.915286
+],
   "geometry": {"coordinates":[-78.858977,42.915286],"type":"Point"}
 }

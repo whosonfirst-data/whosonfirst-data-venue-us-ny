@@ -2,13 +2,14 @@
   "id": 353673705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.988568,40.712843,-73.988568,40.712843",
     "geom:latitude":40.712843,
     "geom:longitude":-73.988568,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"26 Jefferson St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831563,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85831563
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"3ae5516696fdaff3e0f612287a0c1ef7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85831563,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":353673705,
-    "wof:lastmodified":1449019257,
+    "wof:lastmodified":1454126238,
     "wof:name":"M & T Golden Trading Inc",
     "wof:parent_id":85831563,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "trading"
     ]
 },
-  "bbox": [-73.988568,40.712843,-73.988568,40.712843],
+  "bbox": [
+    -73.988568,
+    40.712843,
+    -73.988568,
+    40.712843
+],
   "geometry": {"coordinates":[-73.988568,40.712843],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370657371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.878349,41.74556,-73.878349,41.74556",
     "geom:latitude":41.74556,
     "geom:longitude":-73.878349,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"269 Cream St",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -56,11 +57,13 @@
     "sg:website":"http://www.jonesseptic.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865327,
+        102191575,
+        404522295,
         85633793,
         85979267,
         102082363,
-        85865327
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,9 +73,10 @@
     "wof:geomhash":"d467364fb6136c351f83286bacba5772",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
+            "localadmin_id":404522295,
             "locality_id":85979267,
             "neighbourhood_id":85865327,
             "region_id":85688543,
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":370657371,
-    "wof:lastmodified":1449029467,
+    "wof:lastmodified":1454127427,
     "wof:name":"Jones Septic Service",
     "wof:parent_id":85865327,
     "wof:placetype":"venue",
@@ -98,6 +102,11 @@
         "drilling"
     ]
 },
-  "bbox": [-73.878349,41.74556,-73.878349,41.74556],
+  "bbox": [
+    -73.878349,
+    41.74556,
+    -73.878349,
+    41.74556
+],
   "geometry": {"coordinates":[-73.878349,41.74556],"type":"Point"}
 }

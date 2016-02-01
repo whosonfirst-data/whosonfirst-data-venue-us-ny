@@ -2,13 +2,14 @@
   "id": 387761567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.675851,43.085345,-78.675851,43.085345",
     "geom:latitude":43.085345,
     "geom:longitude":-78.675851,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6461 Tonawanda Creek Rd",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529193,
+        102191575,
+        404522737,
         85633793,
+        85979541,
+        102081767,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"c0cf552196d393f389df25637c8a1e8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081767,
+            "localadmin_id":404522737,
+            "locality_id":85979541,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":387761567
         }
     ],
     "wof:id":387761567,
-    "wof:lastmodified":1449059006,
+    "wof:lastmodified":1454130045,
     "wof:name":"Creative Renovations",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-78.675851,43.085345,-78.675851,43.085345],
-  "geometry": {"coordinates":[-78.675851,43.085345],"type":"Point"}
+  "bbox": [
+    -78.675851,
+    43.085345,
+    -78.675851,
+    43.085345
+],
+  "geometry": {"coordinates":[-78.67585099999999,43.085345],"type":"Point"}
 }

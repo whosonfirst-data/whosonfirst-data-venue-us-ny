@@ -2,13 +2,14 @@
   "id": 287270709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.23037,42.838339,-77.23037,42.838339",
     "geom:latitude":42.838339,
     "geom:longitude":-77.23037,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3961 Middle Rd",
     "sg:city":"Canandaigua",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85823071,
+        102082359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"e07211e1b248b3f7a73a2793b4951b45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082359,
+            "neighbourhood_id":85823071,
             "region_id":85688543,
             "venue_id":287270709
         }
     ],
     "wof:id":287270709,
-    "wof:lastmodified":1449000824,
+    "wof:lastmodified":1454123788,
     "wof:name":"Canandaigua Concrete Pumping",
-    "wof:parent_id":-1,
+    "wof:parent_id":85823071,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.23037,42.838339,-77.23037,42.838339],
-  "geometry": {"coordinates":[-77.23037,42.838339],"type":"Point"}
+  "bbox": [
+    -77.23037,
+    42.838339,
+    -77.23037,
+    42.838339
+],
+  "geometry": {"coordinates":[-77.23036999999999,42.838339],"type":"Point"}
 }

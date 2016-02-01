@@ -2,13 +2,14 @@
   "id": 404201891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.938284,40.850909,-73.938284,40.850909",
     "geom:latitude":40.850909,
     "geom:longitude":-73.938284,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"728 W 181st St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85854625,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85854625
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"e89bf93f3b3ce6b218b762bdfd3b1538",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85854625,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":404201891,
-    "wof:lastmodified":1449040163,
+    "wof:lastmodified":1454128948,
     "wof:name":"Sunny Card Shop",
     "wof:parent_id":85854625,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "greeting"
     ]
 },
-  "bbox": [-73.938284,40.850909,-73.938284,40.850909],
+  "bbox": [
+    -73.938284,
+    40.850909,
+    -73.938284,
+    40.850909
+],
   "geometry": {"coordinates":[-73.938284,40.850909],"type":"Point"}
 }

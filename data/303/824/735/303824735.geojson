@@ -2,13 +2,14 @@
   "id": 303824735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.645826,40.657388,-73.645826,40.657388",
     "geom:latitude":40.657388,
     "geom:longitude":-73.645826,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"276 Sunrise Hwy",
     "sg:city":"Rockville Centre",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892745,
+        102191575,
+        404521473,
         85633793,
         85979131,
         102082371,
-        85892745
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"e489b62ead418b6ae3985fb809662161",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979131,
             "neighbourhood_id":85892745,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":303824735,
-    "wof:lastmodified":1448998991,
+    "wof:lastmodified":1454123291,
     "wof:name":"GNC",
     "wof:parent_id":85892745,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "diet"
     ]
 },
-  "bbox": [-73.645826,40.657388,-73.645826,40.657388],
+  "bbox": [
+    -73.645826,
+    40.657388,
+    -73.645826,
+    40.657388
+],
   "geometry": {"coordinates":[-73.645826,40.657388],"type":"Point"}
 }

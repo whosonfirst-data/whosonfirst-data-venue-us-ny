@@ -2,13 +2,14 @@
   "id": 320713563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.35545,40.681107,-73.35545,40.681107",
     "geom:latitude":40.681107,
     "geom:longitude":-73.35545,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Deauville Pkwy",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
-        85979895,
-        102082395
+        85978477,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"dcc1a5a85c8c5e246566e90344b71eec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979895,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522513,
+            "locality_id":85978477,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":320713563
         }
     ],
     "wof:id":320713563,
-    "wof:lastmodified":1449014612,
+    "wof:lastmodified":1454125304,
     "wof:name":"Vispol Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "motion"
     ]
 },
-  "bbox": [-73.35545,40.681107,-73.35545,40.681107],
+  "bbox": [
+    -73.35545,
+    40.681107,
+    -73.35545,
+    40.681107
+],
   "geometry": {"coordinates":[-73.35545,40.681107],"type":"Point"}
 }

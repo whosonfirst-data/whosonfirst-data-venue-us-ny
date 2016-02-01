@@ -2,13 +2,14 @@
   "id": 403804987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.131508,40.877457,-73.131508,40.877457",
     "geom:latitude":40.877457,
     "geom:longitude":-73.131508,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"37 Millbrook Dr",
     "sg:city":"Stony Brook",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893017,
+        102191575,
+        404522669,
         85633793,
-        85979773,
+        85979839,
         102082395,
-        85893017
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"fc816bd19b85099d4b7e3bdac1d01b54",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522669,
+            "locality_id":85979839,
             "neighbourhood_id":85893017,
             "region_id":85688543,
             "venue_id":403804987
         }
     ],
     "wof:id":403804987,
-    "wof:lastmodified":1449055535,
+    "wof:lastmodified":1454129451,
     "wof:name":"All In One Home Improvements",
     "wof:parent_id":85893017,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "improvement"
     ]
 },
-  "bbox": [-73.131508,40.877457,-73.131508,40.877457],
+  "bbox": [
+    -73.131508,
+    40.877457,
+    -73.131508,
+    40.877457
+],
   "geometry": {"coordinates":[-73.131508,40.877457],"type":"Point"}
 }

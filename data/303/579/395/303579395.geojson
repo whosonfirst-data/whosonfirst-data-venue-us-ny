@@ -2,13 +2,14 @@
   "id": 303579395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.926906,40.864927,-73.926906,40.864927",
     "geom:latitude":40.864927,
     "geom:longitude":-73.926906,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"209 Dyckman St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826989,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85826989
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"c206f10085600573852daf1ad9714dea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85826989,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":303579395,
-    "wof:lastmodified":1448998894,
+    "wof:lastmodified":1454123261,
     "wof:name":"Dyckman Radio & Television Shp",
     "wof:parent_id":85826989,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "radio"
     ]
 },
-  "bbox": [-73.926906,40.864927,-73.926906,40.864927],
+  "bbox": [
+    -73.926906,
+    40.864927,
+    -73.926906,
+    40.864927
+],
   "geometry": {"coordinates":[-73.926906,40.864927],"type":"Point"}
 }

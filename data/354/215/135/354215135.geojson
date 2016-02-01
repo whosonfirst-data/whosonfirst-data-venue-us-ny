@@ -2,13 +2,14 @@
   "id": 354215135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.084271,40.783365,-73.084271,40.783365",
     "geom:latitude":40.783365,
     "geom:longitude":-73.084271,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1337 Lincoln Ave",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +55,18 @@
     "wof:geomhash":"a9db4c4ecc18a49c127c06a6e39238a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":354215135
         }
     ],
     "wof:id":354215135,
-    "wof:lastmodified":1449067347,
+    "wof:lastmodified":1454131207,
     "wof:name":"Total Air Comfort",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -78,6 +82,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-73.084271,40.783365,-73.084271,40.783365],
+  "bbox": [
+    -73.084271,
+    40.783365,
+    -73.084271,
+    40.783365
+],
   "geometry": {"coordinates":[-73.084271,40.783365],"type":"Point"}
 }

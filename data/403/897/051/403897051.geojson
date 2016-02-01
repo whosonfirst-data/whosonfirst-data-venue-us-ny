@@ -2,13 +2,14 @@
   "id": 403897051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.533715,40.698497,-73.533715,40.698497",
     "geom:latitude":40.698497,
     "geom:longitude":-73.533715,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2666 Bellmore Rd",
     "sg:city":"North Bellmore",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"d126330f1df72f0e1d0d49740967cbce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":403897051
         }
     ],
     "wof:id":403897051,
-    "wof:lastmodified":1449055760,
+    "wof:lastmodified":1454129484,
     "wof:name":"Ajax Sewer Cleaning Corp",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "sewer"
     ]
 },
-  "bbox": [-73.533715,40.698497,-73.533715,40.698497],
+  "bbox": [
+    -73.533715,
+    40.698497,
+    -73.533715,
+    40.698497
+],
   "geometry": {"coordinates":[-73.533715,40.698497],"type":"Point"}
 }

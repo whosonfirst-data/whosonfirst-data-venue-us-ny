@@ -2,13 +2,14 @@
   "id": 354317479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.10998,40.859497,-73.10998,40.859497",
     "geom:latitude":40.859497,
     "geom:longitude":-73.10998,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2777 Middle Country Rd Long Island Academy of Dance",
     "sg:city":"Lake Grove",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.dramakids.com/ny6",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892999,
+        102191575,
+        404521441,
         85633793,
         85979825,
         102082395,
-        85892999
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"c2060bd360eafa65c5fa4904addbba4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979825,
             "neighbourhood_id":85892999,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":354317479,
-    "wof:lastmodified":1449066688,
+    "wof:lastmodified":1454131003,
     "wof:name":"Drama Kids",
     "wof:parent_id":85892999,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "specialty"
     ]
 },
-  "bbox": [-73.10998,40.859497,-73.10998,40.859497],
-  "geometry": {"coordinates":[-73.10998,40.859497],"type":"Point"}
+  "bbox": [
+    -73.10998,
+    40.859497,
+    -73.10998,
+    40.859497
+],
+  "geometry": {"coordinates":[-73.10997999999999,40.859497],"type":"Point"}
 }

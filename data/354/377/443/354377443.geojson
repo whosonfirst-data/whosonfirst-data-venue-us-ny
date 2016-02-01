@@ -2,13 +2,14 @@
   "id": 354377443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.000358,40.72484,-74.000358,40.72484",
     "geom:latitude":40.72484,
     "geom:longitude":-74.000358,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"108 Wooster St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865687,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865687
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"c02c9009e5b7d442d3a98ccc11dbc322",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865687,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":354377443,
-    "wof:lastmodified":1449066557,
+    "wof:lastmodified":1454130962,
     "wof:name":"Bell Fitness LLC",
     "wof:parent_id":85865687,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-74.000358,40.72484,-74.000358,40.72484],
-  "geometry": {"coordinates":[-74.000358,40.72484],"type":"Point"}
+  "bbox": [
+    -74.000358,
+    40.72484,
+    -74.000358,
+    40.72484
+],
+  "geometry": {"coordinates":[-74.00035800000001,40.72484],"type":"Point"}
 }

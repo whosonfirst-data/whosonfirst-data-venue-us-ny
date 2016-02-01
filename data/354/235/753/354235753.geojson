@@ -2,13 +2,14 @@
   "id": 354235753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.73396,40.782843,-73.73396,40.782843",
     "geom:latitude":40.782843,
     "geom:longitude":-73.73396,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"127 Cuttermill Rd",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.rtlab.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865341,
+        102191575,
+        404522729,
         85633793,
         85977683,
         102082371,
-        85865341
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"55af99e6b8d988a4088dd24382b27860",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85977683,
             "neighbourhood_id":85865341,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":354235753,
-    "wof:lastmodified":1449066226,
+    "wof:lastmodified":1454130862,
     "wof:name":"Research Testing Labs",
     "wof:parent_id":85865341,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-73.73396,40.782843,-73.73396,40.782843],
+  "bbox": [
+    -73.73396,
+    40.782843,
+    -73.73396,
+    40.782843
+],
   "geometry": {"coordinates":[-73.73396,40.782843],"type":"Point"}
 }

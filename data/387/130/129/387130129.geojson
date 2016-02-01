@@ -2,13 +2,14 @@
   "id": 387130129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.857243,40.901309,-72.857243,40.901309",
     "geom:latitude":40.901309,
     "geom:longitude":-72.857243,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"125 Gull Dip Rd",
     "sg:city":"Ridge",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979861,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"1ce043be769b5073c94024ff4681d153",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979861,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":387130129
         }
     ],
     "wof:id":387130129,
-    "wof:lastmodified":1449057408,
+    "wof:lastmodified":1454129761,
     "wof:name":"Ranel Sportswear",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "an"
     ]
 },
-  "bbox": [-72.857243,40.901309,-72.857243,40.901309],
+  "bbox": [
+    -72.857243,
+    40.901309,
+    -72.857243,
+    40.901309
+],
   "geometry": {"coordinates":[-72.857243,40.901309],"type":"Point"}
 }

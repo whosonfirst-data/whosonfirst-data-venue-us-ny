@@ -2,13 +2,14 @@
   "id": 320250889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.863095,41.07615,-73.863095,41.07615",
     "geom:latitude":41.07615,
     "geom:longitude":-73.863095,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Depot Plz",
     "sg:city":"Bedford Hills",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893037,
+        102191575,
+        404523359,
         85633793,
         85978765,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"61ff1d469a3c2dceabc0020db0a80e9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523359,
             "locality_id":85978765,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85893037,
             "region_id":85688543,
             "venue_id":320250889
         }
     ],
     "wof:id":320250889,
-    "wof:lastmodified":1449013383,
+    "wof:lastmodified":1454125108,
     "wof:name":"Marks Time",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893037,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "watch"
     ]
 },
-  "bbox": [-73.863095,41.07615,-73.863095,41.07615],
+  "bbox": [
+    -73.863095,
+    41.07615,
+    -73.863095,
+    41.07615
+],
   "geometry": {"coordinates":[-73.863095,41.07615],"type":"Point"}
 }

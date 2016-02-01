@@ -2,13 +2,14 @@
   "id": 303792967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.852775,40.842593,-73.852775,40.842593",
     "geom:latitude":40.842593,
     "geom:longitude":-73.852775,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2429 E Tremont Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.voa.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840627,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85840627
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"3fcce240524bb31bee0ae7f4624681c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85840627,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303792967,
-    "wof:lastmodified":1448998640,
+    "wof:lastmodified":1454123169,
     "wof:name":"Volunteers Of America",
     "wof:parent_id":85840627,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "special"
     ]
 },
-  "bbox": [-73.852775,40.842593,-73.852775,40.842593],
-  "geometry": {"coordinates":[-73.852775,40.842593],"type":"Point"}
+  "bbox": [
+    -73.852775,
+    40.842593,
+    -73.852775,
+    40.842593
+],
+  "geometry": {"coordinates":[-73.85277499999999,40.842593],"type":"Point"}
 }

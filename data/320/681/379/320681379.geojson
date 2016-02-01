@@ -2,13 +2,14 @@
   "id": 320681379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.906449,40.854622,-73.906449,40.854622",
     "geom:latitude":40.854622,
     "geom:longitude":-73.906449,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2111 Jerome Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819763,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85819763
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"93edefcb1589915ff185414e44c42e8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819763,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":320681379,
-    "wof:lastmodified":1449013534,
+    "wof:lastmodified":1454125133,
     "wof:name":"Marc After School Program",
     "wof:parent_id":85819763,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "center"
     ]
 },
-  "bbox": [-73.906449,40.854622,-73.906449,40.854622],
-  "geometry": {"coordinates":[-73.906449,40.854622],"type":"Point"}
+  "bbox": [
+    -73.906449,
+    40.854622,
+    -73.906449,
+    40.854622
+],
+  "geometry": {"coordinates":[-73.90644899999999,40.854622],"type":"Point"}
 }

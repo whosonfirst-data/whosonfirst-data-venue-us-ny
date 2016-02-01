@@ -2,13 +2,14 @@
   "id": 370444751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.788908,42.848097,-78.788908,42.848097",
     "geom:latitude":42.848097,
     "geom:longitude":-78.788908,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"24 N Seneca St",
     "sg:city":"West Seneca",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872913,
+        102191575,
+        404522269,
         85633793,
-        85978009,
+        85979415,
         102082387,
-        85872913
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"729c1c8cd202e1aeea14f3e967f7adc3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":85978009,
+            "localadmin_id":404522269,
+            "locality_id":85979415,
             "neighbourhood_id":85872913,
             "region_id":85688543,
             "venue_id":370444751
         }
     ],
     "wof:id":370444751,
-    "wof:lastmodified":1449032003,
+    "wof:lastmodified":1454128176,
     "wof:name":"Renovator II",
     "wof:parent_id":85872913,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "improvement"
     ]
 },
-  "bbox": [-78.788908,42.848097,-78.788908,42.848097],
-  "geometry": {"coordinates":[-78.788908,42.848097],"type":"Point"}
+  "bbox": [
+    -78.788908,
+    42.848097,
+    -78.788908,
+    42.848097
+],
+  "geometry": {"coordinates":[-78.78890800000001,42.848097],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303724141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.805042,40.978396,-73.805042,40.978396",
     "geom:latitude":40.978396,
     "geom:longitude":-73.805042,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"131 Montgomery Ave",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530441,
+        102191575,
+        404523391,
         85633793,
-        85980071,
-        102082373
+        85978767,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"1151212f84599af83a39ee27f105cc7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523391,
+            "locality_id":85978767,
+            "neighbourhood_id":420530441,
             "region_id":85688543,
             "venue_id":303724141
         }
     ],
     "wof:id":303724141,
-    "wof:lastmodified":1449000516,
+    "wof:lastmodified":1454123711,
     "wof:name":"Charlie's Auto Body Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530441,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "painting"
     ]
 },
-  "bbox": [-73.805042,40.978396,-73.805042,40.978396],
+  "bbox": [
+    -73.805042,
+    40.978396,
+    -73.805042,
+    40.978396
+],
   "geometry": {"coordinates":[-73.805042,40.978396],"type":"Point"}
 }

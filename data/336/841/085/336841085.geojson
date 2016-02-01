@@ -2,13 +2,14 @@
   "id": 336841085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.099756,43.099152,-76.099756,43.099152",
     "geom:latitude":43.099152,
     "geom:longitude":-76.099756,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6010 E Molloy Rd",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85817149,
+        102082351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +45,17 @@
     "wof:geomhash":"77d49173c5691674d4b5890b3da76311",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "neighbourhood_id":85817149,
             "region_id":85688543,
             "venue_id":336841085
         }
     ],
     "wof:id":336841085,
-    "wof:lastmodified":1448997174,
+    "wof:lastmodified":1454122446,
     "wof:name":"Commonwealth Place",
-    "wof:parent_id":-1,
+    "wof:parent_id":85817149,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +67,11 @@
         "drug"
     ]
 },
-  "bbox": [-76.099756,43.099152,-76.099756,43.099152],
+  "bbox": [
+    -76.099756,
+    43.099152,
+    -76.099756,
+    43.099152
+],
   "geometry": {"coordinates":[-76.099756,43.099152],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253217159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.838054,40.858773,-73.838054,40.858773",
     "geom:latitude":40.858773,
     "geom:longitude":-73.838054,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2220 Tiemann Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825625,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85825625
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f209e25e9fdb0d1218a9554f355e588f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85825625,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":253217159,
-    "wof:lastmodified":1449065614,
+    "wof:lastmodified":1454130712,
     "wof:name":"Sunrise Medical Labs Inc",
     "wof:parent_id":85825625,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-73.838054,40.858773,-73.838054,40.858773],
+  "bbox": [
+    -73.838054,
+    40.858773,
+    -73.838054,
+    40.858773
+],
   "geometry": {"coordinates":[-73.838054,40.858773],"type":"Point"}
 }

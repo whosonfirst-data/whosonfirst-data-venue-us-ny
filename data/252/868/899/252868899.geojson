@@ -2,13 +2,14 @@
   "id": 252868899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.247334,42.099931,-79.247334,42.099931",
     "geom:latitude":42.099931,
     "geom:longitude":-79.247334,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"408 W 8th St",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817873,
+        102191575,
+        404521959,
         85633793,
+        85980155,
         102081811,
-        85817873
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"414a01ed7af47f63611144b48f16a1d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081811,
-            "locality_id":-1,
+            "localadmin_id":404521959,
+            "locality_id":85980155,
             "neighbourhood_id":85817873,
             "region_id":85688543,
             "venue_id":252868899
         }
     ],
     "wof:id":252868899,
-    "wof:lastmodified":1449005448,
+    "wof:lastmodified":1454123988,
     "wof:name":"Lightening Cab",
     "wof:parent_id":85817873,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "taxicab"
     ]
 },
-  "bbox": [-79.247334,42.099931,-79.247334,42.099931],
+  "bbox": [
+    -79.247334,
+    42.099931,
+    -79.247334,
+    42.099931
+],
   "geometry": {"coordinates":[-79.247334,42.099931],"type":"Point"}
 }

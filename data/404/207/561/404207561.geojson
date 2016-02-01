@@ -2,13 +2,14 @@
   "id": 404207561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.833079,40.975508,-73.833079,40.975508",
     "geom:latitude":40.975508,
     "geom:longitude":-73.833079,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2221 Central Park Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805227,
+        102191575,
+        404523359,
         85633793,
-        85978759,
+        85980063,
         102082373,
-        85805227
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"0a94098b1ea072eba159e8ba620453eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978759,
+            "localadmin_id":404523359,
+            "locality_id":85980063,
             "neighbourhood_id":85805227,
             "region_id":85688543,
             "venue_id":404207561
         }
     ],
     "wof:id":404207561,
-    "wof:lastmodified":1449039968,
+    "wof:lastmodified":1454128921,
     "wof:name":"Central Nails",
     "wof:parent_id":85805227,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "manicurist"
     ]
 },
-  "bbox": [-73.833079,40.975508,-73.833079,40.975508],
+  "bbox": [
+    -73.833079,
+    40.975508,
+    -73.833079,
+    40.975508
+],
   "geometry": {"coordinates":[-73.833079,40.975508],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370760617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.630964,40.671037,-73.630964,40.671037",
     "geom:latitude":40.671037,
     "geom:longitude":-73.630964,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"68 Oxford Rd",
     "sg:city":"Rockville Centre",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529139,
+        102191575,
+        404521473,
         85633793,
         85977629,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"df4ab939963e5cf0219cfcf496c32b3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977629,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529139,
             "region_id":85688543,
             "venue_id":370760617
         }
     ],
     "wof:id":370760617,
-    "wof:lastmodified":1449032344,
+    "wof:lastmodified":1454128274,
     "wof:name":"De Sena Nancy Fox",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529139,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.630964,40.671037,-73.630964,40.671037],
-  "geometry": {"coordinates":[-73.630964,40.671037],"type":"Point"}
+  "bbox": [
+    -73.630964,
+    40.671037,
+    -73.630964,
+    40.671037
+],
+  "geometry": {"coordinates":[-73.63096400000001,40.671037],"type":"Point"}
 }

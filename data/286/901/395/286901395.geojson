@@ -2,13 +2,14 @@
   "id": 286901395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.89169,40.815931,-73.89169,40.815931",
     "geom:latitude":40.815931,
     "geom:longitude":-73.89169,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"830 Barry St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826591,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85826591
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"fb784b38aa14057db7ac18a0094f70fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85826591,
             "region_id":85688543,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":286901395,
-    "wof:lastmodified":1449016412,
+    "wof:lastmodified":1454125614,
     "wof:name":"Mayor Wood Working Corporation",
     "wof:parent_id":85826591,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "woodworker"
     ]
 },
-  "bbox": [-73.89169,40.815931,-73.89169,40.815931],
+  "bbox": [
+    -73.89169,
+    40.815931,
+    -73.89169,
+    40.815931
+],
   "geometry": {"coordinates":[-73.89169,40.815931],"type":"Point"}
 }

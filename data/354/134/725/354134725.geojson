@@ -2,13 +2,14 @@
   "id": 354134725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.193449,40.799746,-73.193449,40.799746",
     "geom:latitude":40.799746,
     "geom:longitude":-73.193449,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Half Mile Rd",
     "sg:city":"Central Islip",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
-        85979813,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"be4e6e14e93b09e486af6ff1c21d323a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979813,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":354134725
         }
     ],
     "wof:id":354134725,
-    "wof:lastmodified":1449067576,
+    "wof:lastmodified":1454131280,
     "wof:name":"Central Islip Union Free School District",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "elementary"
     ]
 },
-  "bbox": [-73.193449,40.799746,-73.193449,40.799746],
+  "bbox": [
+    -73.193449,
+    40.799746,
+    -73.193449,
+    40.799746
+],
   "geometry": {"coordinates":[-73.193449,40.799746],"type":"Point"}
 }

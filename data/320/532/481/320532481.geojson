@@ -2,13 +2,14 @@
   "id": 320532481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.808579,40.913123,-73.808579,40.913123",
     "geom:latitude":40.913123,
     "geom:longitude":-73.808579,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"150 5th Ave",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840705,
+        102191575,
+        404523371,
         85633793,
         85978721,
         102082373,
-        85840705
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"15a4a7441a9f8f8f38a1b7408cc0c63a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
             "neighbourhood_id":85840705,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":320532481,
-    "wof:lastmodified":1449012529,
+    "wof:lastmodified":1454124967,
     "wof:name":"Ralph's Fifth Avenue Hair Cut",
     "wof:parent_id":85840705,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.808579,40.913123,-73.808579,40.913123],
-  "geometry": {"coordinates":[-73.808579,40.913123],"type":"Point"}
+  "bbox": [
+    -73.808579,
+    40.913123,
+    -73.808579,
+    40.913123
+],
+  "geometry": {"coordinates":[-73.80857899999999,40.913123],"type":"Point"}
 }

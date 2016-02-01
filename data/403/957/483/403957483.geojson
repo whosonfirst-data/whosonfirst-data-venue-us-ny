@@ -2,13 +2,14 @@
   "id": 403957483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.627132,40.833583,-73.627132,40.833583",
     "geom:latitude":40.833583,
     "geom:longitude":-73.627132,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"36 Glen Head Rd",
     "sg:city":"Glen Head",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85979159,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"fb6855a3e67c8734e8c063e91af10510",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979159,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":403957483
         }
     ],
     "wof:id":403957483,
-    "wof:lastmodified":1449055777,
+    "wof:lastmodified":1454129486,
     "wof:name":"North Shore Cafe Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.627132,40.833583,-73.627132,40.833583],
+  "bbox": [
+    -73.627132,
+    40.833583,
+    -73.627132,
+    40.833583
+],
   "geometry": {"coordinates":[-73.627132,40.833583],"type":"Point"}
 }

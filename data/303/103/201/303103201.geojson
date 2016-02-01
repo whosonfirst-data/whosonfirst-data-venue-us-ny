@@ -2,13 +2,14 @@
   "id": 303103201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.964173,40.61944,-73.964173,40.61944",
     "geom:latitude":40.61944,
     "geom:longitude":-73.964173,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1600 Coney Island Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865583,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"5c8196efd0a01e555b45a3bb1bd4e93a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865583,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":303103201,
-    "wof:lastmodified":1448999648,
+    "wof:lastmodified":1454123470,
     "wof:name":"B & F Johnstone Inc",
     "wof:parent_id":85865583,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "motor"
     ]
 },
-  "bbox": [-73.964173,40.61944,-73.964173,40.61944],
+  "bbox": [
+    -73.964173,
+    40.61944,
+    -73.964173,
+    40.61944
+],
   "geometry": {"coordinates":[-73.964173,40.61944],"type":"Point"}
 }

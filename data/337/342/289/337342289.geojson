@@ -2,13 +2,14 @@
   "id": 337342289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.673013,42.552983,-73.673013,42.552983",
     "geom:latitude":42.552983,
     "geom:longitude":-73.673013,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1800 E Schodack Rd",
     "sg:city":"Castleton On Hudson",
     "sg:classifiers":[
@@ -32,8 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85807023,
+        102081773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,17 @@
     "wof:geomhash":"67ec3e61553607a2b46be34685630aaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081773,
+            "neighbourhood_id":85807023,
             "region_id":85688543,
             "venue_id":337342289
         }
     ],
     "wof:id":337342289,
-    "wof:lastmodified":1449027677,
+    "wof:lastmodified":1454127159,
     "wof:name":"Southern Tier Senior Svc Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807023,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +64,11 @@
         "executive"
     ]
 },
-  "bbox": [-73.673013,42.552983,-73.673013,42.552983],
+  "bbox": [
+    -73.673013,
+    42.552983,
+    -73.673013,
+    42.552983
+],
   "geometry": {"coordinates":[-73.673013,42.552983],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403844603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.896428,40.931519,-73.896428,40.931519",
     "geom:latitude":40.931519,
     "geom:longitude":-73.896428,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"72 Radford Pl",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881887,
+        102191575,
+        404523397,
         85633793,
         85978759,
         102082373,
-        85881887
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f966bf26052690c906ec0a18163bda3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
             "neighbourhood_id":85881887,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403844603,
-    "wof:lastmodified":1449055202,
+    "wof:lastmodified":1454129403,
     "wof:name":"KGT Food Corp",
     "wof:parent_id":85881887,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "product"
     ]
 },
-  "bbox": [-73.896428,40.931519,-73.896428,40.931519],
+  "bbox": [
+    -73.896428,
+    40.931519,
+    -73.896428,
+    40.931519
+],
   "geometry": {"coordinates":[-73.896428,40.931519],"type":"Point"}
 }

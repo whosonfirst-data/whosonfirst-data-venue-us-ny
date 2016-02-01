@@ -2,13 +2,14 @@
   "id": 320681861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.256373,40.762145,-73.256373,40.762145",
     "geom:latitude":40.762145,
     "geom:longitude":-73.256373,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"41 Wisconsin Ave",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841665,
+        102191575,
+        404522517,
         85633793,
-        85979883,
+        85979867,
         102082395,
-        85841665
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"29b5b48bca5873604725b70302056040",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979883,
+            "localadmin_id":404522517,
+            "locality_id":85979867,
             "neighbourhood_id":85841665,
             "region_id":85688543,
             "venue_id":320681861
         }
     ],
     "wof:id":320681861,
-    "wof:lastmodified":1449013537,
+    "wof:lastmodified":1454125133,
     "wof:name":"Alex Concrete",
     "wof:parent_id":85841665,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.256373,40.762145,-73.256373,40.762145],
+  "bbox": [
+    -73.256373,
+    40.762145,
+    -73.256373,
+    40.762145
+],
   "geometry": {"coordinates":[-73.256373,40.762145],"type":"Point"}
 }

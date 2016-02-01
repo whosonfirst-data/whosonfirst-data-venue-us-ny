@@ -2,13 +2,14 @@
   "id": 337403487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.835567,40.786376,-73.835567,40.786376",
     "geom:latitude":40.786376,
     "geom:longitude":-73.835567,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13215A 14th Avenue",
     "sg:city":"College Point",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"www.generalfitnesscenter.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85811813,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85811813
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"a4f00dbf65ec6551ab90d72fd2d91288",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85811813,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":337403487,
-    "wof:lastmodified":1449027633,
+    "wof:lastmodified":1454127141,
     "wof:name":"General Fitness Center",
     "wof:parent_id":85811813,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "performing"
     ]
 },
-  "bbox": [-73.835567,40.786376,-73.835567,40.786376],
+  "bbox": [
+    -73.835567,
+    40.786376,
+    -73.835567,
+    40.786376
+],
   "geometry": {"coordinates":[-73.835567,40.786376],"type":"Point"}
 }

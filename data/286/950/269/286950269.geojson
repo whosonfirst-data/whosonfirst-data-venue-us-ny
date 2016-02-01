@@ -2,13 +2,14 @@
   "id": 286950269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.865754,40.878155,-73.865754,40.878155",
     "geom:latitude":40.878155,
     "geom:longitude":-73.865754,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3546 White Plains Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869805,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869805
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"3a80f12c2fe206c268ff05e6d5c52f0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869805,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":286950269,
-    "wof:lastmodified":1449016332,
+    "wof:lastmodified":1454125601,
     "wof:name":"Sow Fashion",
     "wof:parent_id":85869805,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.865754,40.878155,-73.865754,40.878155],
+  "bbox": [
+    -73.865754,
+    40.878155,
+    -73.865754,
+    40.878155
+],
   "geometry": {"coordinates":[-73.865754,40.878155],"type":"Point"}
 }

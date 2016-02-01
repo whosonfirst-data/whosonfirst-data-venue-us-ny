@@ -2,13 +2,14 @@
   "id": 370304701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.667816,40.934584,-72.667816,40.934584",
     "geom:latitude":40.934584,
     "geom:longitude":-72.667816,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"769 OLD COUNTRY RD",
     "sg:city":"RIVERHEAD",
     "sg:classifiers":[
@@ -48,11 +49,13 @@
     "sg:website":"http://www.rentacenter.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841881,
+        102191575,
+        404522671,
         85633793,
-        85979841,
+        85979909,
         102082395,
-        85841881
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +65,18 @@
     "wof:geomhash":"0d6ff8e89a7d8a1c1274f1aca51387d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979841,
+            "localadmin_id":404522671,
+            "locality_id":85979909,
             "neighbourhood_id":85841881,
             "region_id":85688543,
             "venue_id":370304701
         }
     ],
     "wof:id":370304701,
-    "wof:lastmodified":1449031616,
+    "wof:lastmodified":1454128059,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":85841881,
     "wof:placetype":"venue",
@@ -87,6 +91,11 @@
         "rental"
     ]
 },
-  "bbox": [-72.667816,40.934584,-72.667816,40.934584],
+  "bbox": [
+    -72.667816,
+    40.934584,
+    -72.667816,
+    40.934584
+],
   "geometry": {"coordinates":[-72.667816,40.934584],"type":"Point"}
 }

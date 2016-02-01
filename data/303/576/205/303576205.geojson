@@ -2,13 +2,14 @@
   "id": 303576205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.005451,40.749744,-74.005451,40.749744",
     "geom:latitude":40.749744,
     "geom:longitude":-74.005451,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"530 W 25th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810589,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810589
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"fba45b92b4882402f33624a0c2c25f4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810589,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303576205,
-    "wof:lastmodified":1448999997,
+    "wof:lastmodified":1454123567,
     "wof:name":"Larissa Goldston Gallery",
     "wof:parent_id":85810589,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "information"
     ]
 },
-  "bbox": [-74.005451,40.749744,-74.005451,40.749744],
-  "geometry": {"coordinates":[-74.005451,40.749744],"type":"Point"}
+  "bbox": [
+    -74.005451,
+    40.749744,
+    -74.005451,
+    40.749744
+],
+  "geometry": {"coordinates":[-74.00545099999999,40.749744],"type":"Point"}
 }

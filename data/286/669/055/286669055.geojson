@@ -2,13 +2,14 @@
   "id": 286669055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.509111,40.868159,-73.509111,40.868159",
     "geom:latitude":40.868159,
     "geom:longitude":-73.509111,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Highwood Cir",
     "sg:city":"Oyster Bay",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529173,
+        102191575,
+        404521475,
         85633793,
         85977645,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"401f2033667dfd4e9762b0866a909f5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85977645,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529173,
             "region_id":85688543,
             "venue_id":286669055
         }
     ],
     "wof:id":286669055,
-    "wof:lastmodified":1449015510,
+    "wof:lastmodified":1454125459,
     "wof:name":"Shaklee",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529173,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-73.509111,40.868159,-73.509111,40.868159],
+  "bbox": [
+    -73.509111,
+    40.868159,
+    -73.509111,
+    40.868159
+],
   "geometry": {"coordinates":[-73.509111,40.868159],"type":"Point"}
 }

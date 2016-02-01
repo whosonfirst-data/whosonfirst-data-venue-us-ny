@@ -2,13 +2,14 @@
   "id": 252967573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.716041,40.672647,-73.716041,40.672647",
     "geom:latitude":40.672647,
     "geom:longitude":-73.716041,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"102 Shaw Ave",
     "sg:city":"Valley Stream",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529147,
+        102191575,
+        404521473,
         85633793,
-        85977737,
-        102082371
+        85979041,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"4c330da25f81f0863f7ac2306d272c3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977737,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979041,
+            "neighbourhood_id":420529147,
             "region_id":85688543,
             "venue_id":252967573
         }
     ],
     "wof:id":252967573,
-    "wof:lastmodified":1449006433,
+    "wof:lastmodified":1454124123,
     "wof:name":"Milsoria Landscaping",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529147,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-73.716041,40.672647,-73.716041,40.672647],
+  "bbox": [
+    -73.716041,
+    40.672647,
+    -73.716041,
+    40.672647
+],
   "geometry": {"coordinates":[-73.716041,40.672647],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286753867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.05683,40.824773,-73.05683,40.824773",
     "geom:latitude":40.824773,
     "geom:longitude":-73.05683,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 Hollyhock Ct",
     "sg:city":"Holtsville",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"4dabf5b7520e48c02aaacea685aa283f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":286753867
         }
     ],
     "wof:id":286753867,
-    "wof:lastmodified":1449015518,
+    "wof:lastmodified":1454125460,
     "wof:name":"KBM Construction Inc",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "construction"
     ]
 },
-  "bbox": [-73.05683,40.824773,-73.05683,40.824773],
-  "geometry": {"coordinates":[-73.05683,40.824773],"type":"Point"}
+  "bbox": [
+    -73.05683,
+    40.824773,
+    -73.05683,
+    40.824773
+],
+  "geometry": {"coordinates":[-73.05683000000001,40.824773],"type":"Point"}
 }

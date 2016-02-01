@@ -2,13 +2,14 @@
   "id": 286872323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.578494,42.953055,-77.578494,42.953055",
     "geom:latitude":42.953055,
     "geom:longitude":-77.578494,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 Rodney Dr",
     "sg:city":"Honeoye Falls",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837385,
+        102191575,
+        404521463,
         85633793,
+        85977581,
         102081815,
-        85837385
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"355d6c4bf612fc098ee821d6b798f8f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":-1,
+            "localadmin_id":404521463,
+            "locality_id":85977581,
             "neighbourhood_id":85837385,
             "region_id":85688543,
             "venue_id":286872323
         }
     ],
     "wof:id":286872323,
-    "wof:lastmodified":1449015446,
+    "wof:lastmodified":1454125446,
     "wof:name":"Gary M Russotti MD",
     "wof:parent_id":85837385,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-77.578494,42.953055,-77.578494,42.953055],
-  "geometry": {"coordinates":[-77.578494,42.953055],"type":"Point"}
+  "bbox": [
+    -77.578494,
+    42.953055,
+    -77.578494,
+    42.953055
+],
+  "geometry": {"coordinates":[-77.57849400000001,42.953055],"type":"Point"}
 }

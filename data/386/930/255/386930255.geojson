@@ -2,13 +2,14 @@
   "id": 386930255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.085907,40.831506,-73.085907,40.831506",
     "geom:latitude":40.831506,
     "geom:longitude":-73.085907,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"624 Portion Rd",
     "sg:city":"Ronkonkoma",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893001,
+        102191575,
+        404521441,
         85633793,
         85979667,
         102082395,
-        85893001
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"c5a6f92c634b23039df4d495bd0c71af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979667,
             "neighbourhood_id":85893001,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":386930255,
-    "wof:lastmodified":1449028717,
+    "wof:lastmodified":1454127215,
     "wof:name":"Columbia Energy",
     "wof:parent_id":85893001,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "petroleum"
     ]
 },
-  "bbox": [-73.085907,40.831506,-73.085907,40.831506],
-  "geometry": {"coordinates":[-73.085907,40.831506],"type":"Point"}
+  "bbox": [
+    -73.085907,
+    40.831506,
+    -73.085907,
+    40.831506
+],
+  "geometry": {"coordinates":[-73.08590700000001,40.831506],"type":"Point"}
 }

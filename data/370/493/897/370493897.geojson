@@ -2,13 +2,14 @@
   "id": 370493897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.578696,40.694189,-73.578696,40.694189",
     "geom:latitude":40.694189,
     "geom:longitude":-73.578696,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1117 Jerusalem Ave",
     "sg:city":"Uniondale",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.radioshack.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893051,
+        102191575,
+        404521473,
         85633793,
         85979073,
         102082371,
-        85893051
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"5d94b9284a5708d7c9cc337b8d7c38c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979073,
             "neighbourhood_id":85893051,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":370493897,
-    "wof:lastmodified":1449030173,
+    "wof:lastmodified":1454127634,
     "wof:name":"Radio Shack",
     "wof:parent_id":85893051,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.578696,40.694189,-73.578696,40.694189],
-  "geometry": {"coordinates":[-73.578696,40.694189],"type":"Point"}
+  "bbox": [
+    -73.578696,
+    40.694189,
+    -73.578696,
+    40.694189
+],
+  "geometry": {"coordinates":[-73.57869599999999,40.694189],"type":"Point"}
 }

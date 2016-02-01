@@ -2,13 +2,14 @@
   "id": 336825251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.276024,42.119776,-79.276024,42.119776",
     "geom:latitude":42.119776,
     "geom:longitude":-79.276024,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3316 Fluvanna Ave Exd",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817873,
+        102191575,
+        404521959,
         85633793,
+        85980155,
         102081811,
-        85817873
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"a26f455a3e5aea4f503547b46e478a4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081811,
-            "locality_id":-1,
+            "localadmin_id":404521959,
+            "locality_id":85980155,
             "neighbourhood_id":85817873,
             "region_id":85688543,
             "venue_id":336825251
         }
     ],
     "wof:id":336825251,
-    "wof:lastmodified":1448996953,
+    "wof:lastmodified":1454122344,
     "wof:name":"Fountain Bowl Bowling",
     "wof:parent_id":85817873,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-79.276024,42.119776,-79.276024,42.119776],
-  "geometry": {"coordinates":[-79.276024,42.119776],"type":"Point"}
+  "bbox": [
+    -79.276024,
+    42.119776,
+    -79.276024,
+    42.119776
+],
+  "geometry": {"coordinates":[-79.27602400000001,42.119776],"type":"Point"}
 }

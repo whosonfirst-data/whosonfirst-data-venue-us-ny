@@ -2,13 +2,14 @@
   "id": 371143893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.752968,40.612277,-73.752968,40.612277",
     "geom:latitude":40.612277,
     "geom:longitude":-73.752968,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 Sheridan Blvd",
     "sg:city":"Inwood",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85818909,
+        102191575,
+        404521473,
         85633793,
         85977631,
         102082371,
-        85818909
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"8c2228c67edeb6d001a9ffe648874d51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977631,
             "neighbourhood_id":85818909,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":371143893,
-    "wof:lastmodified":1449049939,
+    "wof:lastmodified":1454129248,
     "wof:name":"Hunter Ambulette Ambulance",
     "wof:parent_id":85818909,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "ambulance"
     ]
 },
-  "bbox": [-73.752968,40.612277,-73.752968,40.612277],
+  "bbox": [
+    -73.752968,
+    40.612277,
+    -73.752968,
+    40.612277
+],
   "geometry": {"coordinates":[-73.752968,40.612277],"type":"Point"}
 }

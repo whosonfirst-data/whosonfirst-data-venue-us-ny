@@ -2,13 +2,14 @@
   "id": 403934567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.847298,40.876733,-73.847298,40.876733",
     "geom:latitude":40.876733,
     "geom:longitude":-73.847298,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3460 Boston Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85804885,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"b8300697e5552ab07b32c75a4589b87b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85804885,
             "region_id":85688543,
             "venue_id":403934567
         }
     ],
     "wof:id":403934567,
-    "wof:lastmodified":1449054695,
+    "wof:lastmodified":1454129331,
     "wof:name":"A Plus Candy & Grocery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85804885,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.847298,40.876733,-73.847298,40.876733],
-  "geometry": {"coordinates":[-73.847298,40.876733],"type":"Point"}
+  "bbox": [
+    -73.847298,
+    40.876733,
+    -73.847298,
+    40.876733
+],
+  "geometry": {"coordinates":[-73.84729799999999,40.876733],"type":"Point"}
 }

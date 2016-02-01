@@ -2,13 +2,14 @@
   "id": 370535321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.334162,42.025025,-78.334162,42.025025",
     "geom:latitude":42.025025,
     "geom:longitude":-78.334162,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"463 Anderson Rd",
     "sg:city":"Portville",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528135,
+        102191575,
+        404521793,
         85633793,
+        85977545,
+        102081853,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"0d01a876de0731cda5f29ac5f7daef4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081853,
+            "localadmin_id":404521793,
+            "locality_id":85977545,
+            "neighbourhood_id":420528135,
             "region_id":85688543,
             "venue_id":370535321
         }
     ],
     "wof:id":370535321,
-    "wof:lastmodified":1449029702,
+    "wof:lastmodified":1454127495,
     "wof:name":"North Towing & Recovery",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528135,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "wrecker"
     ]
 },
-  "bbox": [-78.334162,42.025025,-78.334162,42.025025],
-  "geometry": {"coordinates":[-78.334162,42.025025],"type":"Point"}
+  "bbox": [
+    -78.334162,
+    42.025025,
+    -78.334162,
+    42.025025
+],
+  "geometry": {"coordinates":[-78.33416200000001,42.025025],"type":"Point"}
 }

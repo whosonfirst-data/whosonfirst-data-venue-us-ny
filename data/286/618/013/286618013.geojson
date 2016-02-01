@@ -2,13 +2,14 @@
   "id": 286618013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.828696,40.852261,-73.828696,40.852261",
     "geom:latitude":40.852261,
     "geom:longitude":-73.828696,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3227 Westchester Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865663,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865663
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c901c74ac736c254d922abeeff30fa88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865663,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":286618013,
-    "wof:lastmodified":1449017034,
+    "wof:lastmodified":1454125725,
     "wof:name":"San Remo Cleaners Inc",
     "wof:parent_id":85865663,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-73.828696,40.852261,-73.828696,40.852261],
-  "geometry": {"coordinates":[-73.828696,40.852261],"type":"Point"}
+  "bbox": [
+    -73.828696,
+    40.852261,
+    -73.828696,
+    40.852261
+],
+  "geometry": {"coordinates":[-73.82869599999999,40.852261],"type":"Point"}
 }

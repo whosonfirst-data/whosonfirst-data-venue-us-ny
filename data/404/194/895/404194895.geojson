@@ -2,13 +2,14 @@
   "id": 404194895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.955939,40.777251,-73.955939,40.777251",
     "geom:latitude":40.777251,
     "geom:longitude":-73.955939,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"165 E 83rd St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865691,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865691
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"013744d12a6f1a2f7cae21f16261cbba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865691,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":404194895,
-    "wof:lastmodified":1449040141,
+    "wof:lastmodified":1454128946,
     "wof:name":"Lawrence Wolfson Design",
     "wof:parent_id":85865691,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "designer"
     ]
 },
-  "bbox": [-73.955939,40.777251,-73.955939,40.777251],
+  "bbox": [
+    -73.955939,
+    40.777251,
+    -73.955939,
+    40.777251
+],
   "geometry": {"coordinates":[-73.955939,40.777251],"type":"Point"}
 }

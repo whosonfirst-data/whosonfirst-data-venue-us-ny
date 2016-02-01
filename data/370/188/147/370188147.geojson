@@ -2,13 +2,14 @@
   "id": 370188147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.193802,40.855099,-73.193802,40.855099",
     "geom:latitude":40.855099,
     "geom:longitude":-73.193802,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 E Main St",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853877,
+        102191575,
+        404522669,
         85633793,
-        85979919,
+        85978443,
         102082395,
-        85853877
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"3eccd769c7af8238a657c68f7d9621f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
+            "localadmin_id":404522669,
+            "locality_id":85978443,
             "neighbourhood_id":85853877,
             "region_id":85688543,
             "venue_id":370188147
         }
     ],
     "wof:id":370188147,
-    "wof:lastmodified":1449030759,
+    "wof:lastmodified":1454127805,
     "wof:name":"Smithtown Center For the Performing Arts",
     "wof:parent_id":85853877,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "performing"
     ]
 },
-  "bbox": [-73.193802,40.855099,-73.193802,40.855099],
-  "geometry": {"coordinates":[-73.193802,40.855099],"type":"Point"}
+  "bbox": [
+    -73.193802,
+    40.855099,
+    -73.193802,
+    40.855099
+],
+  "geometry": {"coordinates":[-73.19380200000001,40.855099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320355917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.714543,40.695528,-73.714543,40.695528",
     "geom:latitude":40.695528,
     "geom:longitude":-73.714543,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14 Village Ave",
     "sg:city":"Elmont",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529145,
+        102191575,
+        404521473,
         85633793,
         85979137,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"6ab7861611c2ea1d36a8169395197461",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979137,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529145,
             "region_id":85688543,
             "venue_id":320355917
         }
     ],
     "wof:id":320355917,
-    "wof:lastmodified":1449012302,
+    "wof:lastmodified":1454124929,
     "wof:name":"Monte Sinai Church Of God",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529145,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.714543,40.695528,-73.714543,40.695528],
-  "geometry": {"coordinates":[-73.714543,40.695528],"type":"Point"}
+  "bbox": [
+    -73.714543,
+    40.695528,
+    -73.714543,
+    40.695528
+],
+  "geometry": {"coordinates":[-73.71454300000001,40.695528],"type":"Point"}
 }

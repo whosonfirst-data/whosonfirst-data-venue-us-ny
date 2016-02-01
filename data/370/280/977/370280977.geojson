@@ -2,13 +2,14 @@
   "id": 370280977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.510609,40.757087,-73.510609,40.757087",
     "geom:latitude":40.757087,
     "geom:longitude":-73.510609,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"485 S Broadway Ste 29",
     "sg:city":"Hicksville",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.myknobs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892759,
+        102191575,
+        404521475,
         85633793,
         85979165,
         102082371,
-        85892759
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"5883938226c8ac825b450ea7dffee18a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979165,
             "neighbourhood_id":85892759,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370280977,
-    "wof:lastmodified":1449030745,
+    "wof:lastmodified":1454127802,
     "wof:name":"My Knobs",
     "wof:parent_id":85892759,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "kitchen"
     ]
 },
-  "bbox": [-73.510609,40.757087,-73.510609,40.757087],
+  "bbox": [
+    -73.510609,
+    40.757087,
+    -73.510609,
+    40.757087
+],
   "geometry": {"coordinates":[-73.510609,40.757087],"type":"Point"}
 }

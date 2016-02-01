@@ -2,13 +2,14 @@
   "id": 270411177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.957535,40.711608,-73.957535,40.711608",
     "geom:latitude":40.711608,
     "geom:longitude":-73.957535,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"132 Havemeyer St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865603,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865603
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"47fb62c5becefbe7d8ad2d1853d32c4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865603,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":270411177,
-    "wof:lastmodified":1449008794,
+    "wof:lastmodified":1454124389,
     "wof:name":"Studio Iodyne LLC",
     "wof:parent_id":85865603,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "datum"
     ]
 },
-  "bbox": [-73.957535,40.711608,-73.957535,40.711608],
-  "geometry": {"coordinates":[-73.957535,40.711608],"type":"Point"}
+  "bbox": [
+    -73.957535,
+    40.711608,
+    -73.957535,
+    40.711608
+],
+  "geometry": {"coordinates":[-73.95753499999999,40.711608],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320222239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.899784,42.911555,-78.899784,42.911555",
     "geom:latitude":42.911555,
     "geom:longitude":-78.899784,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1073 Niagara St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872927,
+        102191575,
+        404522329,
         85633793,
         85978023,
         102082387,
-        85872927
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"9e761a93e0b03338c081f9cd9e9cc405",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
             "neighbourhood_id":85872927,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":320222239,
-    "wof:lastmodified":1449013768,
+    "wof:lastmodified":1454125169,
     "wof:name":"Niagara Fargo Sunoco",
     "wof:parent_id":85872927,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-78.899784,42.911555,-78.899784,42.911555],
+  "bbox": [
+    -78.899784,
+    42.911555,
+    -78.899784,
+    42.911555
+],
   "geometry": {"coordinates":[-78.899784,42.911555],"type":"Point"}
 }

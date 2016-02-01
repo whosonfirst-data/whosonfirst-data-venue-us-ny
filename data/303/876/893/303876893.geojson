@@ -2,13 +2,14 @@
   "id": 303876893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.004971,40.617165,-74.004971,40.617165",
     "geom:latitude":40.617165,
     "geom:longitude":-74.004971,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1447 77th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805771,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85805771
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"56f90f24b4a99370fd3ff766f37f4abd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85805771,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":303876893,
-    "wof:lastmodified":1448998610,
+    "wof:lastmodified":1454123159,
     "wof:name":"Chase Masonry Contracting Corp",
     "wof:parent_id":85805771,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "fencing"
     ]
 },
-  "bbox": [-74.004971,40.617165,-74.004971,40.617165],
+  "bbox": [
+    -74.004971,
+    40.617165,
+    -74.004971,
+    40.617165
+],
   "geometry": {"coordinates":[-74.004971,40.617165],"type":"Point"}
 }

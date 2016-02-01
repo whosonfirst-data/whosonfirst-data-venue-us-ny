@@ -2,13 +2,14 @@
   "id": 286748167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.983116,40.731749,-73.983116,40.731749",
     "geom:latitude":40.731749,
     "geom:longitude":-73.983116,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"333 E 14 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865705,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865705
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"19c79f254bbd26ad1d36dbfd06418bf8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865705,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":286748167,
-    "wof:lastmodified":1449017388,
+    "wof:lastmodified":1454125786,
     "wof:name":"Mizerek Design",
     "wof:parent_id":85865705,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "design"
     ]
 },
-  "bbox": [-73.983116,40.731749,-73.983116,40.731749],
+  "bbox": [
+    -73.983116,
+    40.731749,
+    -73.983116,
+    40.731749
+],
   "geometry": {"coordinates":[-73.983116,40.731749],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370353169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.387942,40.887423,-72.387942,40.887423",
     "geom:latitude":40.887423,
     "geom:longitude":-72.387942,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"45 Hampton Rd",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -43,11 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +60,18 @@
     "wof:geomhash":"fa63962d1c1c6c4c85384772ac81b5cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":370353169
         }
     ],
     "wof:id":370353169,
-    "wof:lastmodified":1449030083,
+    "wof:lastmodified":1454127606,
     "wof:name":"Peconic Pool Guy",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -78,6 +82,11 @@
         "supply"
     ]
 },
-  "bbox": [-72.387942,40.887423,-72.387942,40.887423],
+  "bbox": [
+    -72.387942,
+    40.887423,
+    -72.387942,
+    40.887423
+],
   "geometry": {"coordinates":[-72.387942,40.887423],"type":"Point"}
 }

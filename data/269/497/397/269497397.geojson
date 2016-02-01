@@ -2,13 +2,14 @@
   "id": 269497397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.48124,40.887175,-72.48124,40.887175",
     "geom:latitude":40.887175,
     "geom:longitude":-72.48124,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Peconic Rd",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85809289,
+        102191575,
+        404522671,
         85633793,
+        85979703,
+        102082395,
         85688543
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"7cce997f372ec65effe15bfd1ea17ae3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082395,
+            "localadmin_id":404522671,
+            "locality_id":85979703,
+            "neighbourhood_id":85809289,
             "region_id":85688543,
             "venue_id":269497397
         }
     ],
     "wof:id":269497397,
-    "wof:lastmodified":1449038912,
+    "wof:lastmodified":1454128808,
     "wof:name":"Eastern Marine Distributors",
-    "wof:parent_id":-1,
+    "wof:parent_id":85809289,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.48124,40.887175,-72.48124,40.887175],
+  "bbox": [
+    -72.48124,
+    40.887175,
+    -72.48124,
+    40.887175
+],
   "geometry": {"coordinates":[-72.48124,40.887175],"type":"Point"}
 }

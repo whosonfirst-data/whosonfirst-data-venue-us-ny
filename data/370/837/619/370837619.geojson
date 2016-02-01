@@ -2,13 +2,14 @@
   "id": 370837619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.505761,42.447301,-76.505761,42.447301",
     "geom:latitude":42.447301,
     "geom:longitude":-76.505761,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"309 3rd St",
     "sg:city":"Ithaca",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.ithacayc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85878371,
+        102191575,
+        404523231,
         85633793,
         85978779,
         102082355,
-        85878371
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"891b66802e54aea1f948449224b212a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082355,
+            "localadmin_id":404523231,
             "locality_id":85978779,
             "neighbourhood_id":85878371,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370837619,
-    "wof:lastmodified":1449029615,
+    "wof:lastmodified":1454127468,
     "wof:name":"Ithaca Yacht Club",
     "wof:parent_id":85878371,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "club"
     ]
 },
-  "bbox": [-76.505761,42.447301,-76.505761,42.447301],
-  "geometry": {"coordinates":[-76.505761,42.447301],"type":"Point"}
+  "bbox": [
+    -76.505761,
+    42.447301,
+    -76.505761,
+    42.447301
+],
+  "geometry": {"coordinates":[-76.50576100000001,42.447301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185646815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.982849,40.667629,-73.982849,40.667629",
     "geom:latitude":40.667629,
     "geom:longitude":-73.982849,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"389 9th Street",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://www.dineenconstruction.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840609,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85840609
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"8c2eca204b65d668da67280dc7dbe10b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85840609,
             "region_id":85688543,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":185646815,
-    "wof:lastmodified":1449006560,
+    "wof:lastmodified":1454124140,
     "wof:name":"Dineen Construction Corporation",
     "wof:parent_id":85840609,
     "wof:placetype":"venue",
@@ -81,6 +85,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-73.982849,40.667629,-73.982849,40.667629],
+  "bbox": [
+    -73.982849,
+    40.667629,
+    -73.982849,
+    40.667629
+],
   "geometry": {"coordinates":[-73.982849,40.667629],"type":"Point"}
 }

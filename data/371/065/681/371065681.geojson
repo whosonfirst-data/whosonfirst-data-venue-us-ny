@@ -2,13 +2,14 @@
   "id": 371065681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.432099,40.891617,-72.432099,40.891617",
     "geom:latitude":40.891617,
     "geom:longitude":-72.432099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"929 Co Rd 39",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848429,
+        102191575,
+        404522671,
         85633793,
-        85979807,
-        102082395
+        85979821,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"8465d7755289d670377c8b537d10de4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522671,
+            "locality_id":85979821,
+            "neighbourhood_id":85848429,
             "region_id":85688543,
             "venue_id":371065681
         }
     ],
     "wof:id":371065681,
-    "wof:lastmodified":1449050131,
+    "wof:lastmodified":1454129294,
     "wof:name":"Little Pinks Lawn/Maintenance",
-    "wof:parent_id":-1,
+    "wof:parent_id":85848429,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "grounds"
     ]
 },
-  "bbox": [-72.432099,40.891617,-72.432099,40.891617],
-  "geometry": {"coordinates":[-72.432099,40.891617],"type":"Point"}
+  "bbox": [
+    -72.432099,
+    40.891617,
+    -72.432099,
+    40.891617
+],
+  "geometry": {"coordinates":[-72.43209899999999,40.891617],"type":"Point"}
 }

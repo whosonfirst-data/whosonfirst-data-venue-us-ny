@@ -2,13 +2,14 @@
   "id": 403957023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.260941,40.780437,-73.260941,40.780437",
     "geom:latitude":40.780437,
     "geom:longitude":-73.260941,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"75 Wicks Rd",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841665,
+        102191575,
+        404522517,
         85633793,
-        85979883,
+        85979867,
         102082395,
-        85841665
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"058615a0cc5e585136cb790b6e906c99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979883,
+            "localadmin_id":404522517,
+            "locality_id":85979867,
             "neighbourhood_id":85841665,
             "region_id":85688543,
             "venue_id":403957023
         }
     ],
     "wof:id":403957023,
-    "wof:lastmodified":1449055779,
+    "wof:lastmodified":1454129486,
     "wof:name":"Ultimate Cards & Gifts",
     "wof:parent_id":85841665,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "gift"
     ]
 },
-  "bbox": [-73.260941,40.780437,-73.260941,40.780437],
+  "bbox": [
+    -73.260941,
+    40.780437,
+    -73.260941,
+    40.780437
+],
   "geometry": {"coordinates":[-73.260941,40.780437],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270302837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.983261,41.918856,-73.983261,41.918856",
     "geom:latitude":41.918856,
     "geom:longitude":-73.983261,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"32 Broadway",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845827,
+        102191575,
+        404523249,
         85633793,
         85977505,
         102081775,
-        85845827
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"7ffa37d6c99790b24503566b258613d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
+            "localadmin_id":404523249,
             "locality_id":85977505,
             "neighbourhood_id":85845827,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":270302837,
-    "wof:lastmodified":1449009453,
+    "wof:lastmodified":1454124485,
     "wof:name":"Coffee & Stuff",
     "wof:parent_id":85845827,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "coffee"
     ]
 },
-  "bbox": [-73.983261,41.918856,-73.983261,41.918856],
+  "bbox": [
+    -73.983261,
+    41.918856,
+    -73.983261,
+    41.918856
+],
   "geometry": {"coordinates":[-73.983261,41.918856],"type":"Point"}
 }

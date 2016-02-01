@@ -2,13 +2,14 @@
   "id": 269484269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.027402,41.139235,-74.027402,41.139235",
     "geom:latitude":41.139235,
     "geom:longitude":-74.027402,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Jefferson Ave",
     "sg:city":"Spring Valley",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"50a28a0a015ef779b65b4f6a98d99e2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":269484269
         }
     ],
     "wof:id":269484269,
-    "wof:lastmodified":1449038834,
+    "wof:lastmodified":1454128796,
     "wof:name":"David Twersky",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "clergy"
     ]
 },
-  "bbox": [-74.027402,41.139235,-74.027402,41.139235],
+  "bbox": [
+    -74.027402,
+    41.139235,
+    -74.027402,
+    41.139235
+],
   "geometry": {"coordinates":[-74.027402,41.139235],"type":"Point"}
 }

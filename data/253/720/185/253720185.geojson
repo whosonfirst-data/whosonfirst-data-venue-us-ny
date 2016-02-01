@@ -2,13 +2,14 @@
   "id": 253720185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.855826,40.811295,-73.855826,40.811295",
     "geom:latitude":40.811295,
     "geom:longitude":-73.855826,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"219 White Plains Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865667,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865667
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"2ee56e82a65d30ea22df61afc102b6b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865667,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":253720185,
-    "wof:lastmodified":1449063522,
+    "wof:lastmodified":1454130363,
     "wof:name":"Kwan Hing Restaurant",
     "wof:parent_id":85865667,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.855826,40.811295,-73.855826,40.811295],
-  "geometry": {"coordinates":[-73.855826,40.811295],"type":"Point"}
+  "bbox": [
+    -73.855826,
+    40.811295,
+    -73.855826,
+    40.811295
+],
+  "geometry": {"coordinates":[-73.85582599999999,40.811295],"type":"Point"}
 }

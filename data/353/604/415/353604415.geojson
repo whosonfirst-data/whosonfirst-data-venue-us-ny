@@ -2,13 +2,14 @@
   "id": 353604415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.845709,40.680957,-73.845709,40.680957",
     "geom:latitude":40.680957,
     "geom:longitude":-73.845709,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"93-25 Rockaway Blvd",
     "sg:city":"Ozone Park",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"www.titanmotorgroup.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529701,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"0eccb77f500f3fe4c63479c19eedd62f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529701,
             "region_id":85688543,
             "venue_id":353604415
         }
     ],
     "wof:id":353604415,
-    "wof:lastmodified":1449020509,
+    "wof:lastmodified":1454126601,
     "wof:name":"Titan Motor Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "part"
     ]
 },
-  "bbox": [-73.845709,40.680957,-73.845709,40.680957],
+  "bbox": [
+    -73.845709,
+    40.680957,
+    -73.845709,
+    40.680957
+],
   "geometry": {"coordinates":[-73.845709,40.680957],"type":"Point"}
 }

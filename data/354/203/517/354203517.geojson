@@ -2,13 +2,14 @@
   "id": 354203517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.062401,40.834999,-73.062401,40.834999",
     "geom:latitude":40.834999,
     "geom:longitude":-73.062401,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1070 Portion Rd",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"3ed4ae149ac944b0b511afd7327af89c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":354203517
         }
     ],
     "wof:id":354203517,
-    "wof:lastmodified":1449066668,
+    "wof:lastmodified":1454130996,
     "wof:name":"Faith of God's Word Ministry",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-73.062401,40.834999,-73.062401,40.834999],
-  "geometry": {"coordinates":[-73.062401,40.834999],"type":"Point"}
+  "bbox": [
+    -73.062401,
+    40.834999,
+    -73.062401,
+    40.834999
+],
+  "geometry": {"coordinates":[-73.06240099999999,40.834999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337463941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.862082,40.749927,-73.862082,40.749927",
     "geom:latitude":40.749927,
     "geom:longitude":-73.862082,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"103-14 Roosevelt Ave",
     "sg:city":"Corona",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.walgreens.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812357,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85812357
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"147a5cdd66900f064fb3f0e7607e85e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85812357,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":337463941,
-    "wof:lastmodified":1449027514,
+    "wof:lastmodified":1454127094,
     "wof:name":"Walgreens",
     "wof:parent_id":85812357,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "store"
     ]
 },
-  "bbox": [-73.862082,40.749927,-73.862082,40.749927],
+  "bbox": [
+    -73.862082,
+    40.749927,
+    -73.862082,
+    40.749927
+],
   "geometry": {"coordinates":[-73.862082,40.749927],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286694555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.002568,42.781694,-74.002568,42.781694",
     "geom:latitude":42.781694,
     "geom:longitude":-74.002568,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1400 Dunnsville Rd",
     "sg:city":"Schenectady",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"www.arc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85850057,
+        102191575,
+        404522519,
         85633793,
         85979289,
         102081765,
-        85850057
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"8cff0768d19e4879676d097eb4acfb87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081765,
+            "localadmin_id":404522519,
             "locality_id":85979289,
             "neighbourhood_id":85850057,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":286694555,
-    "wof:lastmodified":1449016019,
+    "wof:lastmodified":1454125545,
     "wof:name":"Ridge Transportation Svc",
     "wof:parent_id":85850057,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "dev"
     ]
 },
-  "bbox": [-74.002568,42.781694,-74.002568,42.781694],
+  "bbox": [
+    -74.002568,
+    42.781694,
+    -74.002568,
+    42.781694
+],
   "geometry": {"coordinates":[-74.002568,42.781694],"type":"Point"}
 }

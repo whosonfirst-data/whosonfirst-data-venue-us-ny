@@ -2,13 +2,14 @@
   "id": 337411211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.812545,40.789141,-73.812545,40.789141",
     "geom:latitude":40.789141,
     "geom:longitude":-73.812545,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"150-33 14th Ave",
     "sg:city":"Queens",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857567,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85857567
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"505b0aa450b4a10c0c25065f19c3df4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85857567,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":337411211,
-    "wof:lastmodified":1449026976,
+    "wof:lastmodified":1454126881,
     "wof:name":"1176 Studios",
     "wof:parent_id":85857567,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "studio"
     ]
 },
-  "bbox": [-73.812545,40.789141,-73.812545,40.789141],
+  "bbox": [
+    -73.812545,
+    40.789141,
+    -73.812545,
+    40.789141
+],
   "geometry": {"coordinates":[-73.812545,40.789141],"type":"Point"}
 }

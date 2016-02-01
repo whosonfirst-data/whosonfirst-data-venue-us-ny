@@ -2,13 +2,14 @@
   "id": 404188795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.705024,40.638242,-73.705024,40.638242",
     "geom:latitude":40.638242,
     "geom:longitude":-73.705024,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1216 W Broadway",
     "sg:city":"Hewlett",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85893091,
+        102191575,
+        404521473,
         85633793,
+        85979053,
+        102082371,
         85688543
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"5f3f842e6543b38a14155d853cf35680",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082371,
+            "localadmin_id":404521473,
+            "locality_id":85979053,
+            "neighbourhood_id":85893091,
             "region_id":85688543,
             "venue_id":404188795
         }
     ],
     "wof:id":404188795,
-    "wof:lastmodified":1449039666,
+    "wof:lastmodified":1454128893,
     "wof:name":"Bottom Line Realty Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.705024,40.638242,-73.705024,40.638242],
-  "geometry": {"coordinates":[-73.705024,40.638242],"type":"Point"}
+  "bbox": [
+    -73.705024,
+    40.638242,
+    -73.705024,
+    40.638242
+],
+  "geometry": {"coordinates":[-73.70502399999999,40.638242],"type":"Point"}
 }

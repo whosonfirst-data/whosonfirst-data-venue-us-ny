@@ -2,13 +2,14 @@
   "id": 304073413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.508564,40.689834,-73.508564,40.689834",
     "geom:latitude":40.689834,
     "geom:longitude":-73.508564,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1259 Wantagh Ave",
     "sg:city":"Wantagh",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529177,
+        102191575,
+        404521473,
         85633793,
         85979065,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"bcd005184a6721359556073b945695bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979065,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529177,
             "region_id":85688543,
             "venue_id":304073413
         }
     ],
     "wof:id":304073413,
-    "wof:lastmodified":1449043628,
+    "wof:lastmodified":1454128977,
     "wof:name":"Robert H Clark MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529177,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.508564,40.689834,-73.508564,40.689834],
-  "geometry": {"coordinates":[-73.508564,40.689834],"type":"Point"}
+  "bbox": [
+    -73.508564,
+    40.689834,
+    -73.508564,
+    40.689834
+],
+  "geometry": {"coordinates":[-73.50856400000001,40.689834],"type":"Point"}
 }

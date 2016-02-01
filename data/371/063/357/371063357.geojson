@@ -2,13 +2,14 @@
   "id": 371063357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.78873,42.884444,-78.78873,42.884444",
     "geom:latitude":42.884444,
     "geom:longitude":-78.78873,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2210 William St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -45,11 +46,13 @@
     "sg:website":"http://www.centralheatingandcooling.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85815155,
+        102191575,
+        404522333,
         85633793,
         85979431,
         102082387,
-        85815155
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,9 +62,10 @@
     "wof:geomhash":"746356c6fba98e32282f1d10b63fc1db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522333,
             "locality_id":85979431,
             "neighbourhood_id":85815155,
             "region_id":85688543,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":371063357,
-    "wof:lastmodified":1449049115,
+    "wof:lastmodified":1454129055,
     "wof:name":"Central Heating and Cooling",
     "wof:parent_id":85815155,
     "wof:placetype":"venue",
@@ -86,6 +90,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-78.78873,42.884444,-78.78873,42.884444],
+  "bbox": [
+    -78.78873,
+    42.884444,
+    -78.78873,
+    42.884444
+],
   "geometry": {"coordinates":[-78.78873,42.884444],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370605473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.981719,40.757176,-73.981719,40.757176",
     "geom:latitude":40.757176,
     "geom:longitude":-73.981719,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 W 46 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869487,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85869487
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c1bd4b16c94c0869ed2b702fc277aabf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869487,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370605473,
-    "wof:lastmodified":1449030740,
+    "wof:lastmodified":1454127800,
     "wof:name":"IJM Casting",
     "wof:parent_id":85869487,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "casting"
     ]
 },
-  "bbox": [-73.981719,40.757176,-73.981719,40.757176],
+  "bbox": [
+    -73.981719,
+    40.757176,
+    -73.981719,
+    40.757176
+],
   "geometry": {"coordinates":[-73.981719,40.757176],"type":"Point"}
 }

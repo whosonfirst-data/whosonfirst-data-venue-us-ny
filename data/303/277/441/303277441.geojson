@@ -2,13 +2,14 @@
   "id": 303277441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.846777,40.789459,-73.846777,40.789459",
     "geom:latitude":40.789459,
     "geom:longitude":-73.846777,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 College Pl",
     "sg:city":"College Point",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85811813,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85811813
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"5656e830404252cea7c94b1ce5ab5b5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85811813,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303277441,
-    "wof:lastmodified":1448998395,
+    "wof:lastmodified":1454123082,
     "wof:name":"Kai Ying Chinese Kitchen",
     "wof:parent_id":85811813,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.846777,40.789459,-73.846777,40.789459],
+  "bbox": [
+    -73.846777,
+    40.789459,
+    -73.846777,
+    40.789459
+],
   "geometry": {"coordinates":[-73.846777,40.789459],"type":"Point"}
 }

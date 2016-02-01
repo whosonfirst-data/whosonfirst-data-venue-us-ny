@@ -2,13 +2,14 @@
   "id": 387935317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.785973,40.792518,-72.785973,40.792518",
     "geom:latitude":40.792518,
     "geom:longitude":-72.785973,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"38 Orchard Neck Rd",
     "sg:city":"Center Moriches",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"d9755b2d557acae939c29ba6fed75ea3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":387935317
         }
     ],
     "wof:id":387935317,
-    "wof:lastmodified":1449059244,
+    "wof:lastmodified":1454130089,
     "wof:name":"Russ-Rio Business Machines",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "business"
     ]
 },
-  "bbox": [-72.785973,40.792518,-72.785973,40.792518],
+  "bbox": [
+    -72.785973,
+    40.792518,
+    -72.785973,
+    40.792518
+],
   "geometry": {"coordinates":[-72.785973,40.792518],"type":"Point"}
 }

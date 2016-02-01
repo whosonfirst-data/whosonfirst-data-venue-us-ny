@@ -2,13 +2,14 @@
   "id": 253396923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.999353,41.927666,-73.999353,41.927666",
     "geom:latitude":41.927666,
     "geom:longitude":-73.999353,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"478 Broadway",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845827,
+        102191575,
+        404523249,
         85633793,
         85977505,
         102081775,
-        85845827
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"dd8600b3032a8c49ed8751c8a7513734",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
+            "localadmin_id":404523249,
             "locality_id":85977505,
             "neighbourhood_id":85845827,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":253396923,
-    "wof:lastmodified":1449064780,
+    "wof:lastmodified":1454130575,
     "wof:name":"Monkey Joe Roasting Co Inc",
     "wof:parent_id":85845827,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "roasted"
     ]
 },
-  "bbox": [-73.999353,41.927666,-73.999353,41.927666],
+  "bbox": [
+    -73.999353,
+    41.927666,
+    -73.999353,
+    41.927666
+],
   "geometry": {"coordinates":[-73.999353,41.927666],"type":"Point"}
 }

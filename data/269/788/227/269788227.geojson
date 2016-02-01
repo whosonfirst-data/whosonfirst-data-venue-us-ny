@@ -2,13 +2,14 @@
   "id": 269788227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.857201,40.816939,-73.857201,40.816939",
     "geom:latitude":40.816939,
     "geom:longitude":-73.857201,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"539 White Plains Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865667,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865667
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"51ea92c2cc3807963bab31b9e4e73a00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865667,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":269788227,
-    "wof:lastmodified":1449037379,
+    "wof:lastmodified":1454128648,
     "wof:name":"1045 Grant Ave Realty Corp",
     "wof:parent_id":85865667,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-73.857201,40.816939,-73.857201,40.816939],
+  "bbox": [
+    -73.857201,
+    40.816939,
+    -73.857201,
+    40.816939
+],
   "geometry": {"coordinates":[-73.857201,40.816939],"type":"Point"}
 }

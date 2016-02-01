@@ -2,13 +2,14 @@
   "id": 370860585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.594483,40.655879,-73.594483,40.655879",
     "geom:latitude":40.655879,
     "geom:longitude":-73.594483,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 W Sunrise Hwy",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529137,
+        102191575,
+        404521473,
         85633793,
         85977679,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"abdbb1c623e209c2b3ebf2ccdc019b08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977679,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529137,
             "region_id":85688543,
             "venue_id":370860585
         }
     ],
     "wof:id":370860585,
-    "wof:lastmodified":1449030601,
+    "wof:lastmodified":1454127760,
     "wof:name":"Mortgage Professional",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529137,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-73.594483,40.655879,-73.594483,40.655879],
+  "bbox": [
+    -73.594483,
+    40.655879,
+    -73.594483,
+    40.655879
+],
   "geometry": {"coordinates":[-73.594483,40.655879],"type":"Point"}
 }

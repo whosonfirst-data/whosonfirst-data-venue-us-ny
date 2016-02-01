@@ -2,13 +2,14 @@
   "id": 387661615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.245935,40.761354,-73.245935,40.761354",
     "geom:latitude":40.761354,
     "geom:longitude":-73.245935,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1610 Brentwood Rd",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841665,
+        102191575,
+        404522517,
         85633793,
-        85979883,
-        102082395
+        85979867,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"d81f2b1b03220aa1c2bb7761692c6316",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979883,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979867,
+            "neighbourhood_id":85841665,
             "region_id":85688543,
             "venue_id":387661615
         }
     ],
     "wof:id":387661615,
-    "wof:lastmodified":1449059502,
+    "wof:lastmodified":1454130134,
     "wof:name":"Drew's Dog Training",
-    "wof:parent_id":-1,
+    "wof:parent_id":85841665,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.245935,40.761354,-73.245935,40.761354],
+  "bbox": [
+    -73.245935,
+    40.761354,
+    -73.245935,
+    40.761354
+],
   "geometry": {"coordinates":[-73.245935,40.761354],"type":"Point"}
 }

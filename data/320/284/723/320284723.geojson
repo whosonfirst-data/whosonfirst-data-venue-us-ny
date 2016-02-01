@@ -2,13 +2,14 @@
   "id": 320284723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.220668,40.811685,-73.220668,40.811685",
     "geom:latitude":40.811685,
     "geom:longitude":-73.220668,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 Nicon Ct",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     "sg:website":"www.betatronix.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"d6ae0954c68c07535d09bb2fedf64d9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":320284723
         }
     ],
     "wof:id":320284723,
-    "wof:lastmodified":1449013572,
+    "wof:lastmodified":1454125138,
     "wof:name":"Betatronix Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -71,6 +76,11 @@
         "resistor"
     ]
 },
-  "bbox": [-73.220668,40.811685,-73.220668,40.811685],
+  "bbox": [
+    -73.220668,
+    40.811685,
+    -73.220668,
+    40.811685
+],
   "geometry": {"coordinates":[-73.220668,40.811685],"type":"Point"}
 }

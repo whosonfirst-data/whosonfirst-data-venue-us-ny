@@ -2,13 +2,14 @@
   "id": 353987381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.719032,40.725695,-73.719032,40.725695",
     "geom:latitude":40.725695,
     "geom:longitude":-73.719032,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"24502 Jericho Tpke",
     "sg:city":"Floral Park",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805483,
+        102191575,
+        404521473,
         85633793,
-        85977709,
+        85977689,
         102082371,
-        85805483
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"874dd1a40743743674b0a1f397261f90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977709,
+            "localadmin_id":404521473,
+            "locality_id":85977689,
             "neighbourhood_id":85805483,
             "region_id":85688543,
             "venue_id":353987381
         }
     ],
     "wof:id":353987381,
-    "wof:lastmodified":1449019680,
+    "wof:lastmodified":1454126361,
     "wof:name":"Bell Rose Legal Svc",
     "wof:parent_id":85805483,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "attorney"
     ]
 },
-  "bbox": [-73.719032,40.725695,-73.719032,40.725695],
+  "bbox": [
+    -73.719032,
+    40.725695,
+    -73.719032,
+    40.725695
+],
   "geometry": {"coordinates":[-73.719032,40.725695],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253372065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.711884,43.268574,-78.711884,43.268574",
     "geom:latitude":43.268574,
     "geom:longitude":-78.711884,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3051 Ewings Rd",
     "sg:city":"Newfane",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529205,
+        102191575,
+        404522741,
         85633793,
+        85979549,
+        102081767,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"adfa8921f184a6c574fa7d0789bba6dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081767,
+            "localadmin_id":404522741,
+            "locality_id":85979549,
+            "neighbourhood_id":420529205,
             "region_id":85688543,
             "venue_id":253372065
         }
     ],
     "wof:id":253372065,
-    "wof:lastmodified":1449064604,
+    "wof:lastmodified":1454130544,
     "wof:name":"Charles Bracey Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529205,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "topsoil"
     ]
 },
-  "bbox": [-78.711884,43.268574,-78.711884,43.268574],
+  "bbox": [
+    -78.711884,
+    43.268574,
+    -78.711884,
+    43.268574
+],
   "geometry": {"coordinates":[-78.711884,43.268574],"type":"Point"}
 }

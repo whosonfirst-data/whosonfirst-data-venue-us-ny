@@ -2,13 +2,14 @@
   "id": 185674423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.979918,40.660503,-73.979918,40.660503",
     "geom:latitude":40.660503,
     "geom:longitude":-73.979918,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"207 Prospect Park W Ste 1",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -52,11 +53,13 @@
     "sg:website":"www.keenemurraytherapy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869821,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85869821
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,9 +69,10 @@
     "wof:geomhash":"5907d2c07d78ec41164b88fde2eb6211",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869821,
             "region_id":85688543,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":185674423,
-    "wof:lastmodified":1449007804,
+    "wof:lastmodified":1454124299,
     "wof:name":"Keene Murray Therapy",
     "wof:parent_id":85869821,
     "wof:placetype":"venue",
@@ -95,6 +99,11 @@
         "counselor"
     ]
 },
-  "bbox": [-73.979918,40.660503,-73.979918,40.660503],
+  "bbox": [
+    -73.979918,
+    40.660503,
+    -73.979918,
+    40.660503
+],
   "geometry": {"coordinates":[-73.979918,40.660503],"type":"Point"}
 }

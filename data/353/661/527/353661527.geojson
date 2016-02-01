@@ -2,13 +2,14 @@
   "id": 353661527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.124539,41.007103,-72.124539,41.007103",
     "geom:latitude":41.007103,
     "geom:longitude":-72.124539,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Beachway",
     "sg:city":"East Hampton",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85804575,
+        102191575,
+        404521445,
         85633793,
-        85979915,
-        102082395
+        85979941,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"01daf5442dc72285296b7aee9d79b695",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979915,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521445,
+            "locality_id":85979941,
+            "neighbourhood_id":85804575,
             "region_id":85688543,
             "venue_id":353661527
         }
     ],
     "wof:id":353661527,
-    "wof:lastmodified":1449020535,
+    "wof:lastmodified":1454126607,
     "wof:name":"Hollywood Shoe Polish Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85804575,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "shining"
     ]
 },
-  "bbox": [-72.124539,41.007103,-72.124539,41.007103],
+  "bbox": [
+    -72.124539,
+    41.007103,
+    -72.124539,
+    41.007103
+],
   "geometry": {"coordinates":[-72.124539,41.007103],"type":"Point"}
 }

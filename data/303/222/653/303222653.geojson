@@ -2,13 +2,14 @@
   "id": 303222653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.459582,42.077128,-78.459582,42.077128",
     "geom:latitude":42.077128,
     "geom:longitude":-78.459582,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2622 W State St",
     "sg:city":"Olean",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528133,
+        102191575,
+        404521783,
         85633793,
         85977543,
-        102081853
+        102081853,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"1c65dd8d2641a5a35526732e9752b444",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081853,
+            "localadmin_id":404521783,
             "locality_id":85977543,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528133,
             "region_id":85688543,
             "venue_id":303222653
         }
     ],
     "wof:id":303222653,
-    "wof:lastmodified":1448999751,
+    "wof:lastmodified":1454123500,
     "wof:name":"Walker Business & Staffing Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528133,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "opportunity"
     ]
 },
-  "bbox": [-78.459582,42.077128,-78.459582,42.077128],
+  "bbox": [
+    -78.459582,
+    42.077128,
+    -78.459582,
+    42.077128
+],
   "geometry": {"coordinates":[-78.459582,42.077128],"type":"Point"}
 }

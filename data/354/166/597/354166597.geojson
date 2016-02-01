@@ -2,13 +2,14 @@
   "id": 354166597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.998799,40.863534,-72.998799,40.863534",
     "geom:latitude":40.863534,
     "geom:longitude":-72.998799,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3663 Route 112",
     "sg:city":"Coram",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"c798b1e1cf0df96b0cfe1bb9589d33c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354166597
         }
     ],
     "wof:id":354166597,
-    "wof:lastmodified":1449066904,
+    "wof:lastmodified":1454131066,
     "wof:name":"B & G Warehouse",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-72.998799,40.863534,-72.998799,40.863534],
-  "geometry": {"coordinates":[-72.998799,40.863534],"type":"Point"}
+  "bbox": [
+    -72.998799,
+    40.863534,
+    -72.998799,
+    40.863534
+],
+  "geometry": {"coordinates":[-72.99879900000001,40.863534],"type":"Point"}
 }

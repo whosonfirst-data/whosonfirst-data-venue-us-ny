@@ -2,13 +2,14 @@
   "id": 286920249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.848245,40.723284,-73.848245,40.723284",
     "geom:latitude":40.723284,
     "geom:longitude":-73.848245,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"64 Queens Blvd",
     "sg:city":"Forest Hills",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819875,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819875
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"1a69b43841a9cb5c1b48ca565ce74243",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819875,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":286920249,
-    "wof:lastmodified":1449017460,
+    "wof:lastmodified":1454125800,
     "wof:name":"Coach Luxtury Trnsp Corp",
     "wof:parent_id":85819875,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "ground"
     ]
 },
-  "bbox": [-73.848245,40.723284,-73.848245,40.723284],
-  "geometry": {"coordinates":[-73.848245,40.723284],"type":"Point"}
+  "bbox": [
+    -73.848245,
+    40.723284,
+    -73.848245,
+    40.723284
+],
+  "geometry": {"coordinates":[-73.84824500000001,40.723284],"type":"Point"}
 }

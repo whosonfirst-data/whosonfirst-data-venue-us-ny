@@ -2,13 +2,14 @@
   "id": 370290017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.089566,40.732385,-73.089566,40.732385",
     "geom:latitude":40.732385,
     "geom:longitude":-73.089566,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"297 W Main St",
     "sg:city":"Sayville",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"8eb0a5b1ac4c55ad9ae3c011bf934785",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":370290017
         }
     ],
     "wof:id":370290017,
-    "wof:lastmodified":1449030541,
+    "wof:lastmodified":1454127740,
     "wof:name":"Alfonso Tan PC",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.089566,40.732385,-73.089566,40.732385],
+  "bbox": [
+    -73.089566,
+    40.732385,
+    -73.089566,
+    40.732385
+],
   "geometry": {"coordinates":[-73.089566,40.732385],"type":"Point"}
 }

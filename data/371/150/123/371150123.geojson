@@ -2,13 +2,14 @@
   "id": 371150123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.372633,40.684128,-73.372633,40.684128",
     "geom:latitude":40.684128,
     "geom:longitude":-73.372633,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"152 S 2nd St",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
         85978477,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"0b11fb7039d350dd3e01e6eb23b4052a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522513,
             "locality_id":85978477,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":371150123
         }
     ],
     "wof:id":371150123,
-    "wof:lastmodified":1449049087,
+    "wof:lastmodified":1454129048,
     "wof:name":"Timber & Tile Construction Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "house"
     ]
 },
-  "bbox": [-73.372633,40.684128,-73.372633,40.684128],
-  "geometry": {"coordinates":[-73.372633,40.684128],"type":"Point"}
+  "bbox": [
+    -73.372633,
+    40.684128,
+    -73.372633,
+    40.684128
+],
+  "geometry": {"coordinates":[-73.37263299999999,40.684128],"type":"Point"}
 }

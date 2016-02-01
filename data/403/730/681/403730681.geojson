@@ -2,13 +2,14 @@
   "id": 403730681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.62189,42.855692,-78.62189,42.855692",
     "geom:latitude":42.855692,
     "geom:longitude":-78.62189,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7400 Clinton St",
     "sg:city":"Elma",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528593,
+        102191575,
+        404521341,
         85633793,
+        85979437,
+        102082387,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"80c0b2def753b222425910b57210cb40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082387,
+            "localadmin_id":404521341,
+            "locality_id":85979437,
+            "neighbourhood_id":420528593,
             "region_id":85688543,
             "venue_id":403730681
         }
     ],
     "wof:id":403730681,
-    "wof:lastmodified":1449055765,
+    "wof:lastmodified":1454129484,
     "wof:name":"Watroba Photography",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528593,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "photographer"
     ]
 },
-  "bbox": [-78.62189,42.855692,-78.62189,42.855692],
-  "geometry": {"coordinates":[-78.62189,42.855692],"type":"Point"}
+  "bbox": [
+    -78.62189,
+    42.855692,
+    -78.62189,
+    42.855692
+],
+  "geometry": {"coordinates":[-78.62188999999999,42.855692],"type":"Point"}
 }

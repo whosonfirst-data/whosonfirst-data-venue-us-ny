@@ -2,13 +2,14 @@
   "id": 303132579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.626027,40.833692,-73.626027,40.833692",
     "geom:latitude":40.833692,
     "geom:longitude":-73.626027,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"36 Railroad Ave",
     "sg:city":"Glen Head",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857339,
+        102191575,
+        404521475,
         85633793,
-        85977647,
+        85977655,
         102082371,
-        85857339
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"59b0dd303790b1cc3028e9b6f261e4ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977647,
+            "localadmin_id":404521475,
+            "locality_id":85977655,
             "neighbourhood_id":85857339,
             "region_id":85688543,
             "venue_id":303132579
         }
     ],
     "wof:id":303132579,
-    "wof:lastmodified":1448999314,
+    "wof:lastmodified":1454123382,
     "wof:name":"F Rieger & Son",
     "wof:parent_id":85857339,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "buyer"
     ]
 },
-  "bbox": [-73.626027,40.833692,-73.626027,40.833692],
-  "geometry": {"coordinates":[-73.626027,40.833692],"type":"Point"}
+  "bbox": [
+    -73.626027,
+    40.833692,
+    -73.626027,
+    40.833692
+],
+  "geometry": {"coordinates":[-73.62602699999999,40.833692],"type":"Point"}
 }

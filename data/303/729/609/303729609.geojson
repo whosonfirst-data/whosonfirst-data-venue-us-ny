@@ -2,13 +2,14 @@
   "id": 303729609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.569506,40.775949,-73.569506,40.775949",
     "geom:latitude":40.775949,
     "geom:longitude":-73.569506,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"26 Greentree Cir",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893073,
+        102191575,
+        404521475,
         85633793,
         85979085,
         102082371,
-        85893073
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"46dbb6fb993cae1daac80ab00a1887a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979085,
             "neighbourhood_id":85893073,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":303729609,
-    "wof:lastmodified":1448999350,
+    "wof:lastmodified":1454123392,
     "wof:name":"Source International Unlimited",
     "wof:parent_id":85893073,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "producer"
     ]
 },
-  "bbox": [-73.569506,40.775949,-73.569506,40.775949],
+  "bbox": [
+    -73.569506,
+    40.775949,
+    -73.569506,
+    40.775949
+],
   "geometry": {"coordinates":[-73.569506,40.775949],"type":"Point"}
 }

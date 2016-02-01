@@ -2,13 +2,14 @@
   "id": 303058747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.479879,43.7818,-75.479879,43.7818",
     "geom:latitude":43.7818,
     "geom:longitude":-75.479879,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5590 River St",
     "sg:city":"Lowville",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528889,
+        102191575,
+        404521859,
         85633793,
         85978145,
-        102085867
+        102085867,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"d1b85ac0d6712f373d8aca197e222a5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085867,
+            "localadmin_id":404521859,
             "locality_id":85978145,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528889,
             "region_id":85688543,
             "venue_id":303058747
         }
     ],
     "wof:id":303058747,
-    "wof:lastmodified":1448998477,
+    "wof:lastmodified":1454123110,
     "wof:name":"Valley View Court",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528889,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-75.479879,43.7818,-75.479879,43.7818],
+  "bbox": [
+    -75.479879,
+    43.7818,
+    -75.479879,
+    43.7818
+],
   "geometry": {"coordinates":[-75.479879,43.7818],"type":"Point"}
 }

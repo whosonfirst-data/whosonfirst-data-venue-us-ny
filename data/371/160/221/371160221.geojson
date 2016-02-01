@@ -2,13 +2,14 @@
   "id": 371160221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.822521,42.989334,-78.822521,42.989334",
     "geom:latitude":42.989334,
     "geom:longitude":-78.822521,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1281 Niagara Falls Blvd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"http://www.christopherandbanks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837253,
+        102191575,
+        404522321,
         85633793,
+        85979411,
         102082387,
-        85837253
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"2a88a14ab0bcb699959a9b02b19cd8b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979411,
             "neighbourhood_id":85837253,
             "region_id":85688543,
             "venue_id":371160221
         }
     ],
     "wof:id":371160221,
-    "wof:lastmodified":1449049957,
+    "wof:lastmodified":1454129251,
     "wof:name":"Christopher & Banks",
     "wof:parent_id":85837253,
     "wof:placetype":"venue",
@@ -63,6 +68,11 @@
         "women's"
     ]
 },
-  "bbox": [-78.822521,42.989334,-78.822521,42.989334],
-  "geometry": {"coordinates":[-78.822521,42.989334],"type":"Point"}
+  "bbox": [
+    -78.822521,
+    42.989334,
+    -78.822521,
+    42.989334
+],
+  "geometry": {"coordinates":[-78.82252099999999,42.989334],"type":"Point"}
 }

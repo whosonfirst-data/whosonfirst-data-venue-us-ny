@@ -2,13 +2,14 @@
   "id": 387494717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.983122,40.734846,-73.983122,40.734846",
     "geom:latitude":40.734846,
     "geom:longitude":-73.983122,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"211 E 18 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865705,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865705
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a17e37e7a2d522867db955809cf7451a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865705,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387494717,
-    "wof:lastmodified":1449059495,
+    "wof:lastmodified":1454130132,
     "wof:name":"Precision Technology",
     "wof:parent_id":85865705,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "industrial"
     ]
 },
-  "bbox": [-73.983122,40.734846,-73.983122,40.734846],
-  "geometry": {"coordinates":[-73.983122,40.734846],"type":"Point"}
+  "bbox": [
+    -73.983122,
+    40.734846,
+    -73.983122,
+    40.734846
+],
+  "geometry": {"coordinates":[-73.98312199999999,40.734846],"type":"Point"}
 }

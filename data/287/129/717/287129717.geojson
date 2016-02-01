@@ -2,13 +2,14 @@
   "id": 287129717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.957905,42.115945,-75.957905,42.115945",
     "geom:latitude":42.115945,
     "geom:longitude":-75.957905,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"307 Main St",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.usps.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892885,
+        102191575,
+        404521829,
         85633793,
         85977983,
         102081755,
-        85892885
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"e264c460824c8331aa8e47e9f0101e69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
+            "localadmin_id":404521829,
             "locality_id":85977983,
             "neighbourhood_id":85892885,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":287129717,
-    "wof:lastmodified":1449001379,
+    "wof:lastmodified":1454123921,
     "wof:name":"US Post Office",
     "wof:parent_id":85892885,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "us"
     ]
 },
-  "bbox": [-75.957905,42.115945,-75.957905,42.115945],
+  "bbox": [
+    -75.957905,
+    42.115945,
+    -75.957905,
+    42.115945
+],
   "geometry": {"coordinates":[-75.957905,42.115945],"type":"Point"}
 }

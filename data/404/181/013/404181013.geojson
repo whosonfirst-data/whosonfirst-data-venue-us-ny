@@ -2,13 +2,14 @@
   "id": 404181013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.464231,40.695143,-73.464231,40.695143",
     "geom:latitude":40.695143,
     "geom:longitude":-73.464231,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"830 N Broadway",
     "sg:city":"Massapequa",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85806127,
+        102191575,
+        404521475,
         85633793,
         85979069,
         102082371,
-        85806127
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"11d974a1fd53f9bff0ffe90b2c7a11c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979069,
             "neighbourhood_id":85806127,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":404181013,
-    "wof:lastmodified":1449039843,
+    "wof:lastmodified":1454128907,
     "wof:name":"Get The Scoop",
     "wof:parent_id":85806127,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "cream"
     ]
 },
-  "bbox": [-73.464231,40.695143,-73.464231,40.695143],
+  "bbox": [
+    -73.464231,
+    40.695143,
+    -73.464231,
+    40.695143
+],
   "geometry": {"coordinates":[-73.464231,40.695143],"type":"Point"}
 }

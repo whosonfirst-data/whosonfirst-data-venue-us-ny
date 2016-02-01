@@ -2,13 +2,14 @@
   "id": 386929231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.613273,40.97355,-72.613273,40.97355",
     "geom:latitude":40.97355,
     "geom:longitude":-72.613273,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5506 Sound Ave",
     "sg:city":"Riverhead",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85838351,
+        102191575,
+        404522663,
         85633793,
-        85979879,
+        85979671,
         102082395,
-        85838351
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"673629c75712dd609e99eb72670abc0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979879,
+            "localadmin_id":404522663,
+            "locality_id":85979671,
             "neighbourhood_id":85838351,
             "region_id":85688543,
             "venue_id":386929231
         }
     ],
     "wof:id":386929231,
-    "wof:lastmodified":1449028747,
+    "wof:lastmodified":1454127221,
     "wof:name":"Taste Of Country",
     "wof:parent_id":85838351,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "produce"
     ]
 },
-  "bbox": [-72.613273,40.97355,-72.613273,40.97355],
-  "geometry": {"coordinates":[-72.613273,40.97355],"type":"Point"}
+  "bbox": [
+    -72.613273,
+    40.97355,
+    -72.613273,
+    40.97355
+],
+  "geometry": {"coordinates":[-72.61327300000001,40.97355],"type":"Point"}
 }

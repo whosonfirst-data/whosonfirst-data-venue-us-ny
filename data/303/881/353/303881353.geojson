@@ -2,13 +2,14 @@
   "id": 303881353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.388121,42.078568,-78.388121,42.078568",
     "geom:latitude":42.078568,
     "geom:longitude":-78.388121,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1556 Goodrich Ave",
     "sg:city":"Olean",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528145,
+        102191575,
+        404521793,
         85633793,
         85979021,
-        102081853
+        102081853,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"affdcf7531b4fb9bb40ee7d2055316f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081853,
+            "localadmin_id":404521793,
             "locality_id":85979021,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528145,
             "region_id":85688543,
             "venue_id":303881353
         }
     ],
     "wof:id":303881353,
-    "wof:lastmodified":1448999540,
+    "wof:lastmodified":1454123440,
     "wof:name":"Victor Builders",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528145,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-78.388121,42.078568,-78.388121,42.078568],
+  "bbox": [
+    -78.388121,
+    42.078568,
+    -78.388121,
+    42.078568
+],
   "geometry": {"coordinates":[-78.388121,42.078568],"type":"Point"}
 }

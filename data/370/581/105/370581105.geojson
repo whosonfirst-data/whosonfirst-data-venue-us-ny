@@ -2,13 +2,14 @@
   "id": 370581105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.020198,41.444299,-74.020198,41.444299",
     "geom:latitude":41.444299,
     "geom:longitude":-74.020198,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"311 Hudson St",
     "sg:city":"Cornwall On Hdsn",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812353,
+        102191575,
+        404522801,
         85633793,
+        85978241,
         102083061,
-        85812353
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"38048793ddd7cc2a258d74147c8d5b3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":-1,
+            "localadmin_id":404522801,
+            "locality_id":85978241,
             "neighbourhood_id":85812353,
             "region_id":85688543,
             "venue_id":370581105
         }
     ],
     "wof:id":370581105,
-    "wof:lastmodified":1449029807,
+    "wof:lastmodified":1454127526,
     "wof:name":"Two Alices Coffee Lounge",
     "wof:parent_id":85812353,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "coffee"
     ]
 },
-  "bbox": [-74.020198,41.444299,-74.020198,41.444299],
-  "geometry": {"coordinates":[-74.020198,41.444299],"type":"Point"}
+  "bbox": [
+    -74.020198,
+    41.444299,
+    -74.020198,
+    41.444299
+],
+  "geometry": {"coordinates":[-74.02019799999999,41.444299],"type":"Point"}
 }

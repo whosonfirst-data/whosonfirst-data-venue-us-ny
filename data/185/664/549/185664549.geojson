@@ -2,13 +2,14 @@
   "id": 185664549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.983678,40.664003,-73.983678,40.664003",
     "geom:latitude":40.664003,
     "geom:longitude":-73.983678,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"417 7th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.nikibistudio.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892961,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85892961
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"1d8a78ff661f04c6d58d05e0e87e8e23",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892961,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":185664549,
-    "wof:lastmodified":1449007197,
+    "wof:lastmodified":1454124220,
     "wof:name":"Nikibi Studio",
     "wof:parent_id":85892961,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "store"
     ]
 },
-  "bbox": [-73.983678,40.664003,-73.983678,40.664003],
+  "bbox": [
+    -73.983678,
+    40.664003,
+    -73.983678,
+    40.664003
+],
   "geometry": {"coordinates":[-73.983678,40.664003],"type":"Point"}
 }

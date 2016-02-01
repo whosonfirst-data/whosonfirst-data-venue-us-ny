@@ -2,13 +2,14 @@
   "id": 320340781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.730285,40.775546,-73.730285,40.775546",
     "geom:latitude":40.775546,
     "geom:longitude":-73.730285,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"136 Northern Blvd",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"www.blockbuster.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85830971,
+        102191575,
+        404522729,
         85633793,
-        85977539,
-        102082377,
-        85830971
+        85977727,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,18 @@
     "wof:geomhash":"469bba43f5bebfaf5b5c25b7933e5c03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404522729,
+            "locality_id":85977727,
             "neighbourhood_id":85830971,
             "region_id":85688543,
             "venue_id":320340781
         }
     ],
     "wof:id":320340781,
-    "wof:lastmodified":1449014118,
+    "wof:lastmodified":1454125225,
     "wof:name":"Blockbuster Video",
     "wof:parent_id":85830971,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "tape"
     ]
 },
-  "bbox": [-73.730285,40.775546,-73.730285,40.775546],
-  "geometry": {"coordinates":[-73.730285,40.775546],"type":"Point"}
+  "bbox": [
+    -73.730285,
+    40.775546,
+    -73.730285,
+    40.775546
+],
+  "geometry": {"coordinates":[-73.73028499999999,40.775546],"type":"Point"}
 }

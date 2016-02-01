@@ -2,13 +2,14 @@
   "id": 336910881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.710585,40.679274,-73.710585,40.679274",
     "geom:latitude":40.679274,
     "geom:longitude":-73.710585,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"445 N Central Ave",
     "sg:city":"Valley Stream",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529147,
+        102191575,
+        404521473,
         85633793,
         85979041,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"7b1875cff2e872919388a4d5ac2f1ec6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979041,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529147,
             "region_id":85688543,
             "venue_id":336910881
         }
     ],
     "wof:id":336910881,
-    "wof:lastmodified":1448997392,
+    "wof:lastmodified":1454122699,
     "wof:name":"NYC Credit Consulting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529147,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "counseling"
     ]
 },
-  "bbox": [-73.710585,40.679274,-73.710585,40.679274],
-  "geometry": {"coordinates":[-73.710585,40.679274],"type":"Point"}
+  "bbox": [
+    -73.710585,
+    40.679274,
+    -73.710585,
+    40.679274
+],
+  "geometry": {"coordinates":[-73.71058499999999,40.679274],"type":"Point"}
 }

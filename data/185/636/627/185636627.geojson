@@ -2,13 +2,14 @@
   "id": 185636627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.98597,40.605862,-73.98597,40.605862",
     "geom:latitude":40.605862,
     "geom:longitude":-73.98597,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2855 Cropsey Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.gymequipmentcompany.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85822643,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85822643
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +61,10 @@
     "wof:geomhash":"b8003fb7eeb4883d1e091c98652557a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85822643,
             "region_id":85688543,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":185636627,
-    "wof:lastmodified":1449007259,
+    "wof:lastmodified":1454124228,
     "wof:name":"Gym Equipment Company",
     "wof:parent_id":85822643,
     "wof:placetype":"venue",
@@ -84,6 +88,11 @@
         "gymnasiums-equipment"
     ]
 },
-  "bbox": [-73.98597,40.605862,-73.98597,40.605862],
-  "geometry": {"coordinates":[-73.98597,40.605862],"type":"Point"}
+  "bbox": [
+    -73.98597,
+    40.605862,
+    -73.98597,
+    40.605862
+],
+  "geometry": {"coordinates":[-73.98596999999999,40.605862],"type":"Point"}
 }

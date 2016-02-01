@@ -2,13 +2,14 @@
   "id": 303199311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.893068,40.875254,-73.893068,40.875254",
     "geom:latitude":40.875254,
     "geom:longitude":-73.893068,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 Bedford Park Blvd W",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85828377,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85828377
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"710a7060532ba5de3790b801113ff9dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85828377,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":303199311,
-    "wof:lastmodified":1448998373,
+    "wof:lastmodified":1454123074,
     "wof:name":"Park Health Food Ctr",
     "wof:parent_id":85828377,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "diet"
     ]
 },
-  "bbox": [-73.893068,40.875254,-73.893068,40.875254],
+  "bbox": [
+    -73.893068,
+    40.875254,
+    -73.893068,
+    40.875254
+],
   "geometry": {"coordinates":[-73.893068,40.875254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354322183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.497517,40.7255,-73.497517,40.7255",
     "geom:latitude":40.7255,
     "geom:longitude":-73.497517,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3750 Hempstead Tpke",
     "sg:city":"Levittown",
     "sg:classifiers":[
@@ -52,11 +53,13 @@
     "sg:website":"http://www.floodcontroller.com/FloodControlLevittownNY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892759,
+        102191575,
+        404521475,
         85633793,
         85979165,
         102082371,
-        85892759
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,9 +69,10 @@
     "wof:geomhash":"015db0ffa6be3dec80a48115588a7449",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979165,
             "neighbourhood_id":85892759,
             "region_id":85688543,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":354322183,
-    "wof:lastmodified":1449065914,
+    "wof:lastmodified":1454130764,
     "wof:name":"Flood Control",
     "wof:parent_id":85892759,
     "wof:placetype":"venue",
@@ -95,6 +99,11 @@
         "recovery"
     ]
 },
-  "bbox": [-73.497517,40.7255,-73.497517,40.7255],
+  "bbox": [
+    -73.497517,
+    40.7255,
+    -73.497517,
+    40.7255
+],
   "geometry": {"coordinates":[-73.497517,40.7255],"type":"Point"}
 }

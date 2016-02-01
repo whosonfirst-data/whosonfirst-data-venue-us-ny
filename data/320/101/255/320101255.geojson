@@ -2,13 +2,14 @@
   "id": 320101255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.591035,40.658466,-73.591035,40.658466",
     "geom:latitude":40.658466,
     "geom:longitude":-73.591035,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 N Long Beach Ave",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529155,
+        102191575,
+        404521473,
         85633793,
         85977679,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"a9ae169e1feaef918ecbbdd04d24f5aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977679,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529155,
             "region_id":85688543,
             "venue_id":320101255
         }
     ],
     "wof:id":320101255,
-    "wof:lastmodified":1449013222,
+    "wof:lastmodified":1454125082,
     "wof:name":"Edmund C Neuhaus",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529155,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.591035,40.658466,-73.591035,40.658466],
-  "geometry": {"coordinates":[-73.591035,40.658466],"type":"Point"}
+  "bbox": [
+    -73.591035,
+    40.658466,
+    -73.591035,
+    40.658466
+],
+  "geometry": {"coordinates":[-73.59103500000001,40.658466],"type":"Point"}
 }

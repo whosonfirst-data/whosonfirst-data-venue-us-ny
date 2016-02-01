@@ -2,13 +2,14 @@
   "id": 253171659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.692028,42.560204,-77.692028,42.560204",
     "geom:latitude":42.560204,
     "geom:longitude":-77.692028,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 Chestnut Ave",
     "sg:city":"Dansville",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85813231,
+        102191575,
+        404521993,
         85633793,
-        85979605,
+        85978299,
         102082381,
-        85813231
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"92f7cf96e6bf3cbf353503a3460cf48a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082381,
-            "locality_id":85979605,
+            "localadmin_id":404521993,
+            "locality_id":85978299,
             "neighbourhood_id":85813231,
             "region_id":85688543,
             "venue_id":253171659
         }
     ],
     "wof:id":253171659,
-    "wof:lastmodified":1449065819,
+    "wof:lastmodified":1454130745,
     "wof:name":"Chestnut Properties",
     "wof:parent_id":85813231,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-77.692028,42.560204,-77.692028,42.560204],
-  "geometry": {"coordinates":[-77.692028,42.560204],"type":"Point"}
+  "bbox": [
+    -77.692028,
+    42.560204,
+    -77.692028,
+    42.560204
+],
+  "geometry": {"coordinates":[-77.69202799999999,42.560204],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386986973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.657609,43.164644,-77.657609,43.164644",
     "geom:latitude":43.164644,
     "geom:longitude":-77.657609,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1225 Lyell Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"http://www.midtowntaxicab.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868839,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85868839
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"175c527cb7db7ea09f463cbd5a237994",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85868839,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":386986973,
-    "wof:lastmodified":1449028887,
+    "wof:lastmodified":1454127260,
     "wof:name":"Midtown Cab",
     "wof:parent_id":85868839,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "delivery"
     ]
 },
-  "bbox": [-77.657609,43.164644,-77.657609,43.164644],
-  "geometry": {"coordinates":[-77.657609,43.164644],"type":"Point"}
+  "bbox": [
+    -77.657609,
+    43.164644,
+    -77.657609,
+    43.164644
+],
+  "geometry": {"coordinates":[-77.65760899999999,43.164644],"type":"Point"}
 }

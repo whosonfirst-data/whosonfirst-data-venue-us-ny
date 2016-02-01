@@ -2,13 +2,14 @@
   "id": 320204483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.859772,40.83477,-73.859772,40.83477",
     "geom:latitude":40.83477,
     "geom:longitude":-73.859772,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1922 McGraw Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840627,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85840627
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"13eae7ab4fd0114557cb9a49ea2688e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85840627,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":320204483,
-    "wof:lastmodified":1449015071,
+    "wof:lastmodified":1454125381,
     "wof:name":"David Sohn MD",
     "wof:parent_id":85840627,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "medical"
     ]
 },
-  "bbox": [-73.859772,40.83477,-73.859772,40.83477],
-  "geometry": {"coordinates":[-73.859772,40.83477],"type":"Point"}
+  "bbox": [
+    -73.859772,
+    40.83477,
+    -73.859772,
+    40.83477
+],
+  "geometry": {"coordinates":[-73.85977200000001,40.83477],"type":"Point"}
 }

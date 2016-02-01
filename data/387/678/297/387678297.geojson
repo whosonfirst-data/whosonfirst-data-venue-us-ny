@@ -2,13 +2,14 @@
   "id": 387678297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.871512,41.186143,-73.871512,41.186143",
     "geom:latitude":41.186143,
     "geom:longitude":-73.871512,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Stanley Ave",
     "sg:city":"Ossining",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85832435,
+        102191575,
+        404523379,
         85633793,
+        85978717,
+        102082373,
         85688543
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"9c21a76e04220e1f50136dcfb1130dc6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523379,
+            "locality_id":85978717,
+            "neighbourhood_id":85832435,
             "region_id":85688543,
             "venue_id":387678297
         }
     ],
     "wof:id":387678297,
-    "wof:lastmodified":1449057938,
+    "wof:lastmodified":1454129855,
     "wof:name":"Peter Colucci Plumbing & Htg",
-    "wof:parent_id":-1,
+    "wof:parent_id":85832435,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.871512,41.186143,-73.871512,41.186143],
+  "bbox": [
+    -73.871512,
+    41.186143,
+    -73.871512,
+    41.186143
+],
   "geometry": {"coordinates":[-73.871512,41.186143],"type":"Point"}
 }

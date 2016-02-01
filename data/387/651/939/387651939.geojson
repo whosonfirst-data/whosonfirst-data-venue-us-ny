@@ -2,13 +2,14 @@
   "id": 387651939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.67775,40.817645,-73.67775,40.817645",
     "geom:latitude":40.817645,
     "geom:longitude":-73.67775,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Winthrop Rd",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529165,
+        102191575,
+        404522729,
         85633793,
         85979185,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"fbf4d3ed04c7a53792d64b7ab7c9152f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979185,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529165,
             "region_id":85688543,
             "venue_id":387651939
         }
     ],
     "wof:id":387651939,
-    "wof:lastmodified":1449056853,
+    "wof:lastmodified":1454129662,
     "wof:name":"North Shore Photographic LTD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529165,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "photographer"
     ]
 },
-  "bbox": [-73.67775,40.817645,-73.67775,40.817645],
+  "bbox": [
+    -73.67775,
+    40.817645,
+    -73.67775,
+    40.817645
+],
   "geometry": {"coordinates":[-73.67775,40.817645],"type":"Point"}
 }

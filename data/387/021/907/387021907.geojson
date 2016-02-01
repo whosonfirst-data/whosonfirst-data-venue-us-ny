@@ -2,13 +2,14 @@
   "id": 387021907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.631125,43.097827,-77.631125,43.097827",
     "geom:latitude":43.097827,
     "geom:longitude":-77.631125,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2643 W Henrietta Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -43,11 +44,13 @@
     "sg:website":"http://ad.doubleclick.net/clk;221862232;45455595;j?http://www.carquest.com/carquest/store_locator.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85835353,
+        102191575,
+        404522623,
         85633793,
         85979039,
         102081815,
-        85835353
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,9 +60,10 @@
     "wof:geomhash":"147ba949999b744617216177727e0f69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404522623,
             "locality_id":85979039,
             "neighbourhood_id":85835353,
             "region_id":85688543,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":387021907,
-    "wof:lastmodified":1449058507,
+    "wof:lastmodified":1454129961,
     "wof:name":"CARQUEST Auto Parts",
     "wof:parent_id":85835353,
     "wof:placetype":"venue",
@@ -82,6 +86,11 @@
         "engines-supplies"
     ]
 },
-  "bbox": [-77.631125,43.097827,-77.631125,43.097827],
+  "bbox": [
+    -77.631125,
+    43.097827,
+    -77.631125,
+    43.097827
+],
   "geometry": {"coordinates":[-77.631125,43.097827],"type":"Point"}
 }

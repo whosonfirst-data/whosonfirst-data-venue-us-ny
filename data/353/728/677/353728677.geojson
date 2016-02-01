@@ -2,13 +2,14 @@
   "id": 353728677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.677008,40.833,-73.677008,40.833",
     "geom:latitude":40.833,
     "geom:longitude":-73.677008,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"41 Orchard Farm Rd",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529161,
+        102191575,
+        404522729,
         85633793,
         85979185,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"d3da72e1c680fa239bd2ce5883f91198",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979185,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529161,
             "region_id":85688543,
             "venue_id":353728677
         }
     ],
     "wof:id":353728677,
-    "wof:lastmodified":1449018845,
+    "wof:lastmodified":1454126120,
     "wof:name":"Tanker Pacific Management Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529161,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-73.677008,40.833,-73.677008,40.833],
+  "bbox": [
+    -73.677008,
+    40.833,
+    -73.677008,
+    40.833
+],
   "geometry": {"coordinates":[-73.677008,40.833],"type":"Point"}
 }

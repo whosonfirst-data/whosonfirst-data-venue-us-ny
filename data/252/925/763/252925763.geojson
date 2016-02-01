@@ -2,13 +2,14 @@
   "id": 252925763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.470952,40.781754,-73.470952,40.781754",
     "geom:latitude":40.781754,
     "geom:longitude":-73.470952,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23 Elmwood Ct",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"6a9d9ec2ba1cade74ef277a1002d9846",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":252925763
         }
     ],
     "wof:id":252925763,
-    "wof:lastmodified":1449005417,
+    "wof:lastmodified":1454123984,
     "wof:name":"Mel Newman",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.470952,40.781754,-73.470952,40.781754],
+  "bbox": [
+    -73.470952,
+    40.781754,
+    -73.470952,
+    40.781754
+],
   "geometry": {"coordinates":[-73.470952,40.781754],"type":"Point"}
 }

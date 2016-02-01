@@ -2,13 +2,14 @@
   "id": 337322059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.997118,40.714422,-73.997118,40.714422",
     "geom:latitude":40.714422,
     "geom:longitude":-73.997118,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 Bowery",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810885,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810885
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"1b4423d0c05e365c839e645e60dce6e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810885,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":337322059,
-    "wof:lastmodified":1449026919,
+    "wof:lastmodified":1454126857,
     "wof:name":"Elite Hong Kong Corp",
     "wof:parent_id":85810885,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "plaque"
     ]
 },
-  "bbox": [-73.997118,40.714422,-73.997118,40.714422],
+  "bbox": [
+    -73.997118,
+    40.714422,
+    -73.997118,
+    40.714422
+],
   "geometry": {"coordinates":[-73.997118,40.714422],"type":"Point"}
 }

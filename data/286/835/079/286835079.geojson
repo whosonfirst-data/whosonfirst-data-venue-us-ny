@@ -2,13 +2,14 @@
   "id": 286835079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.411521,40.848396,-73.411521,40.848396",
     "geom:latitude":40.848396,
     "geom:longitude":-73.411521,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"32 Co Rd 11",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820109,
+        102191575,
+        404522515,
         85633793,
-        85979675,
+        85979787,
         102082395,
-        85820109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"54d1362b30b634e6e5b99d4cb597cca2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979675,
+            "localadmin_id":404522515,
+            "locality_id":85979787,
             "neighbourhood_id":85820109,
             "region_id":85688543,
             "venue_id":286835079
         }
     ],
     "wof:id":286835079,
-    "wof:lastmodified":1449015592,
+    "wof:lastmodified":1454125472,
     "wof:name":"Spiffy",
     "wof:parent_id":85820109,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.411521,40.848396,-73.411521,40.848396],
-  "geometry": {"coordinates":[-73.411521,40.848396],"type":"Point"}
+  "bbox": [
+    -73.411521,
+    40.848396,
+    -73.411521,
+    40.848396
+],
+  "geometry": {"coordinates":[-73.41152099999999,40.848396],"type":"Point"}
 }

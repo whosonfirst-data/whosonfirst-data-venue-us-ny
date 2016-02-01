@@ -2,13 +2,14 @@
   "id": 270288731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.37569,40.678194,-73.37569,40.678194",
     "geom:latitude":40.678194,
     "geom:longitude":-73.37569,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"456 S 6th St",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
         85978477,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"cd1a9bc988cb9c82b7401e0a091f52fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522513,
             "locality_id":85978477,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":270288731
         }
     ],
     "wof:id":270288731,
-    "wof:lastmodified":1449008905,
+    "wof:lastmodified":1454124405,
     "wof:name":"Total Fitness Training Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "facility"
     ]
 },
-  "bbox": [-73.37569,40.678194,-73.37569,40.678194],
-  "geometry": {"coordinates":[-73.37569,40.678194],"type":"Point"}
+  "bbox": [
+    -73.37569,
+    40.678194,
+    -73.37569,
+    40.678194
+],
+  "geometry": {"coordinates":[-73.37569000000001,40.678194],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353609137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.841335,40.680919,-73.841335,40.680919",
     "geom:latitude":40.680919,
     "geom:longitude":-73.841335,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9801 Liberty Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"www.ihop.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529701,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"70f9c12b286d8e522fb6c57ccbbb5f69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529701,
             "region_id":85688543,
             "venue_id":353609137
         }
     ],
     "wof:id":353609137,
-    "wof:lastmodified":1449019213,
+    "wof:lastmodified":1454126228,
     "wof:name":"IHOP",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "diner"
     ]
 },
-  "bbox": [-73.841335,40.680919,-73.841335,40.680919],
+  "bbox": [
+    -73.841335,
+    40.680919,
+    -73.841335,
+    40.680919
+],
   "geometry": {"coordinates":[-73.841335,40.680919],"type":"Point"}
 }

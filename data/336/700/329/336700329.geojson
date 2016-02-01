@@ -2,13 +2,14 @@
   "id": 336700329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.066752,41.925543,-74.066752,41.925543",
     "geom:latitude":41.925543,
     "geom:longitude":-74.066752,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Wamsley Pl",
     "sg:city":"Hurley",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.hurleycountrystore.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845721,
+        102191575,
+        404523247,
         85633793,
         85978943,
         102081775,
-        85845721
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"babba399f894b775faa6fd7c61e783cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
+            "localadmin_id":404523247,
             "locality_id":85978943,
             "neighbourhood_id":85845721,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":336700329,
-    "wof:lastmodified":1448997924,
+    "wof:lastmodified":1454122923,
     "wof:name":"Hurley Country Store",
     "wof:parent_id":85845721,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-74.066752,41.925543,-74.066752,41.925543],
-  "geometry": {"coordinates":[-74.066752,41.925543],"type":"Point"}
+  "bbox": [
+    -74.066752,
+    41.925543,
+    -74.066752,
+    41.925543
+],
+  "geometry": {"coordinates":[-74.06675199999999,41.925543],"type":"Point"}
 }

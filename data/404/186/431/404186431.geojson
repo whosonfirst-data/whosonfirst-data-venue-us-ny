@@ -2,13 +2,14 @@
   "id": 404186431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.107869,40.817775,-73.107869,40.817775",
     "geom:latitude":40.817775,
     "geom:longitude":-73.107869,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"115 Church St",
     "sg:city":"Ronkonkoma",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829285,
+        102191575,
+        404522517,
         85633793,
-        85979667,
-        102082395
+        85979793,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"ff81bc62d462fa1ef6d4a74f4e41eab2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979667,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979793,
+            "neighbourhood_id":85829285,
             "region_id":85688543,
             "venue_id":404186431
         }
     ],
     "wof:id":404186431,
-    "wof:lastmodified":1449040027,
+    "wof:lastmodified":1454128932,
     "wof:name":"Post 155",
-    "wof:parent_id":-1,
+    "wof:parent_id":85829285,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.107869,40.817775,-73.107869,40.817775],
-  "geometry": {"coordinates":[-73.107869,40.817775],"type":"Point"}
+  "bbox": [
+    -73.107869,
+    40.817775,
+    -73.107869,
+    40.817775
+],
+  "geometry": {"coordinates":[-73.10786899999999,40.817775],"type":"Point"}
 }

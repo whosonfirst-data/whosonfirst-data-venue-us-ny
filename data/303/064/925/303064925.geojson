@@ -2,13 +2,14 @@
   "id": 303064925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.96042,40.818017,-73.96042,40.818017",
     "geom:latitude":40.818017,
     "geom:longitude":-73.96042,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2276 12 Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869509,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"5b417b09c2a55f4ef53c536f7e78432d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85869509,
             "region_id":85688543,
             "venue_id":303064925
         }
     ],
     "wof:id":303064925,
-    "wof:lastmodified":1448998979,
+    "wof:lastmodified":1454123288,
     "wof:name":"Cairo Flat Fix Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869509,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "tire"
     ]
 },
-  "bbox": [-73.96042,40.818017,-73.96042,40.818017],
+  "bbox": [
+    -73.96042,
+    40.818017,
+    -73.96042,
+    40.818017
+],
   "geometry": {"coordinates":[-73.96042,40.818017],"type":"Point"}
 }

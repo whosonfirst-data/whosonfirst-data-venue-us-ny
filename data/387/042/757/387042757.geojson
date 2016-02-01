@@ -2,13 +2,14 @@
   "id": 387042757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.214931,41.55233,-74.214931,41.55233",
     "geom:latitude":41.55233,
     "geom:longitude":-74.214931,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7 E Searsville Rd",
     "sg:city":"Montgomery",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85847447,
+        102083061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"48798c772eb97e6e310f694eeb1b2ed6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083061,
+            "neighbourhood_id":85847447,
             "region_id":85688543,
             "venue_id":387042757
         }
     ],
     "wof:id":387042757,
-    "wof:lastmodified":1449058992,
+    "wof:lastmodified":1454130043,
     "wof:name":"Peter Bitts Excavating",
-    "wof:parent_id":-1,
+    "wof:parent_id":85847447,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.214931,41.55233,-74.214931,41.55233],
-  "geometry": {"coordinates":[-74.214931,41.55233],"type":"Point"}
+  "bbox": [
+    -74.214931,
+    41.55233,
+    -74.214931,
+    41.55233
+],
+  "geometry": {"coordinates":[-74.21493100000001,41.55233],"type":"Point"}
 }

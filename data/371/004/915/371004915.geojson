@@ -2,13 +2,14 @@
   "id": 371004915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.169821,40.838683,-73.169821,40.838683",
     "geom:latitude":40.838683,
     "geom:longitude":-73.169821,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Ridgeley Rd",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816389,
+        102191575,
+        404522517,
         85633793,
-        85979773,
+        85979693,
         102082395,
-        85816389
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"f40bc21264ffd7d901a27cf9cb549814",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
             "neighbourhood_id":85816389,
             "region_id":85688543,
             "venue_id":371004915
         }
     ],
     "wof:id":371004915,
-    "wof:lastmodified":1449049398,
+    "wof:lastmodified":1454129121,
     "wof:name":"Emergency Locksmith",
     "wof:parent_id":85816389,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-73.169821,40.838683,-73.169821,40.838683],
+  "bbox": [
+    -73.169821,
+    40.838683,
+    -73.169821,
+    40.838683
+],
   "geometry": {"coordinates":[-73.169821,40.838683],"type":"Point"}
 }

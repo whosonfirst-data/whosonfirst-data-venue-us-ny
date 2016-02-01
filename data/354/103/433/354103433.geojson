@@ -2,13 +2,14 @@
   "id": 354103433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.101706,40.774552,-73.101706,40.774552",
     "geom:latitude":40.774552,
     "geom:longitude":-73.101706,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"75 Orville Dr Ste 3",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +54,18 @@
     "wof:geomhash":"c2ad85a4591e6bb21dc41e5080b55ece",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":354103433
         }
     ],
     "wof:id":354103433,
-    "wof:lastmodified":1449067011,
+    "wof:lastmodified":1454131100,
     "wof:name":"Best Climate Control Corp",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-73.101706,40.774552,-73.101706,40.774552],
-  "geometry": {"coordinates":[-73.101706,40.774552],"type":"Point"}
+  "bbox": [
+    -73.101706,
+    40.774552,
+    -73.101706,
+    40.774552
+],
+  "geometry": {"coordinates":[-73.10170599999999,40.774552],"type":"Point"}
 }

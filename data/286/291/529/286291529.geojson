@@ -2,13 +2,14 @@
   "id": 286291529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.806772,40.919123,-73.806772,40.919123",
     "geom:latitude":40.919123,
     "geom:longitude":-73.806772,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"69 6th St",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892799,
+        102191575,
+        404523383,
         85633793,
-        85978721,
+        85978711,
         102082373,
-        85892799
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"e6b554a472075f7e8f35562d2ad2e017",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978721,
+            "localadmin_id":404523383,
+            "locality_id":85978711,
             "neighbourhood_id":85892799,
             "region_id":85688543,
             "venue_id":286291529
         }
     ],
     "wof:id":286291529,
-    "wof:lastmodified":1449016094,
+    "wof:lastmodified":1454125559,
     "wof:name":"Pelham Karate Ctr",
     "wof:parent_id":85892799,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "instruction"
     ]
 },
-  "bbox": [-73.806772,40.919123,-73.806772,40.919123],
+  "bbox": [
+    -73.806772,
+    40.919123,
+    -73.806772,
+    40.919123
+],
   "geometry": {"coordinates":[-73.806772,40.919123],"type":"Point"}
 }

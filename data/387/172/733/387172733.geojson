@@ -2,13 +2,14 @@
   "id": 387172733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.084068,40.636019,-74.084068,40.636019",
     "geom:latitude":40.636019,
     "geom:longitude":-74.084068,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"539 Jersey St",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846655,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85846655
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"c349c33cdeac69f28764e18bcb1f2bda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85846655,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387172733,
-    "wof:lastmodified":1449057636,
+    "wof:lastmodified":1454129801,
     "wof:name":"Department of Sanitation Dist",
     "wof:parent_id":85846655,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-74.084068,40.636019,-74.084068,40.636019],
+  "bbox": [
+    -74.084068,
+    40.636019,
+    -74.084068,
+    40.636019
+],
   "geometry": {"coordinates":[-74.084068,40.636019],"type":"Point"}
 }

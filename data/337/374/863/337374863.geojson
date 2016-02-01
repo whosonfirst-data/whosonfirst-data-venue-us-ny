@@ -2,13 +2,14 @@
   "id": 337374863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.833178,40.754814,-73.833178,40.754814",
     "geom:latitude":40.754814,
     "geom:longitude":-73.833178,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4156 College Point Blvd",
     "sg:city":"Flushing",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819703,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819703
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"9b48dbab1a079704d319729f15f868f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819703,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":337374863,
-    "wof:lastmodified":1449027292,
+    "wof:lastmodified":1454127008,
     "wof:name":"Sunlit Glass",
     "wof:parent_id":85819703,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-73.833178,40.754814,-73.833178,40.754814],
+  "bbox": [
+    -73.833178,
+    40.754814,
+    -73.833178,
+    40.754814
+],
   "geometry": {"coordinates":[-73.833178,40.754814],"type":"Point"}
 }

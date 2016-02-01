@@ -2,13 +2,14 @@
   "id": 387688121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.951184,40.749726,-73.951184,40.749726",
     "geom:latitude":40.749726,
     "geom:longitude":-73.951184,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 44th Rd",
     "sg:city":"Long Island City",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865631,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865631
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a4ec316e485fc2f751b2c48369b4af1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865631,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387688121,
-    "wof:lastmodified":1449057528,
+    "wof:lastmodified":1454129783,
     "wof:name":"ABC Wine Selection Inc",
     "wof:parent_id":85865631,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "imported"
     ]
 },
-  "bbox": [-73.951184,40.749726,-73.951184,40.749726],
+  "bbox": [
+    -73.951184,
+    40.749726,
+    -73.951184,
+    40.749726
+],
   "geometry": {"coordinates":[-73.951184,40.749726],"type":"Point"}
 }

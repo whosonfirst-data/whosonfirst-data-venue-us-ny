@@ -2,13 +2,14 @@
   "id": 304086775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.996772,40.843348,-72.996772,40.843348",
     "geom:latitude":40.843348,
     "geom:longitude":-72.996772,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3417 Rte 112",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"666349a59425d7759ca4d6156425e205",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":304086775
         }
     ],
     "wof:id":304086775,
-    "wof:lastmodified":1449043992,
+    "wof:lastmodified":1454129019,
     "wof:name":"Bata International Corp",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "oil"
     ]
 },
-  "bbox": [-72.996772,40.843348,-72.996772,40.843348],
-  "geometry": {"coordinates":[-72.996772,40.843348],"type":"Point"}
+  "bbox": [
+    -72.996772,
+    40.843348,
+    -72.996772,
+    40.843348
+],
+  "geometry": {"coordinates":[-72.99677200000001,40.843348],"type":"Point"}
 }

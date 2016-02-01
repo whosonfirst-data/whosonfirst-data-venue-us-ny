@@ -2,13 +2,14 @@
   "id": 253185085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.000529,43.074215,-76.000529,43.074215",
     "geom:latitude":43.074215,
     "geom:longitude":-76.000529,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"332 Costello Pkwy",
     "sg:city":"Minoa",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529409,
+        102191575,
+        404522837,
         85633793,
+        85977793,
+        102082351,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"2f403267c6d644b494f2f7d5d08e3ce8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "localadmin_id":404522837,
+            "locality_id":85977793,
+            "neighbourhood_id":420529409,
             "region_id":85688543,
             "venue_id":253185085
         }
     ],
     "wof:id":253185085,
-    "wof:lastmodified":1449063299,
+    "wof:lastmodified":1454130326,
     "wof:name":"Parkway Pizza Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529409,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "pizzeria"
     ]
 },
-  "bbox": [-76.000529,43.074215,-76.000529,43.074215],
+  "bbox": [
+    -76.000529,
+    43.074215,
+    -76.000529,
+    43.074215
+],
   "geometry": {"coordinates":[-76.000529,43.074215],"type":"Point"}
 }

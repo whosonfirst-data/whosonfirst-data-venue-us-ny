@@ -2,13 +2,14 @@
   "id": 370701699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.263481,43.041408,-76.263481,43.041408",
     "geom:latitude":43.041408,
     "geom:longitude":-76.263481,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5111 W Genesee St",
     "sg:city":"Camillus",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529339,
+        102191575,
+        404522819,
         85633793,
         85979217,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"340150fc4f012d2dac2c621dab4044bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522819,
             "locality_id":85979217,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529339,
             "region_id":85688543,
             "venue_id":370701699
         }
     ],
     "wof:id":370701699,
-    "wof:lastmodified":1449031771,
+    "wof:lastmodified":1454128104,
     "wof:name":"Perimeter Paper Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529339,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "paper"
     ]
 },
-  "bbox": [-76.263481,43.041408,-76.263481,43.041408],
+  "bbox": [
+    -76.263481,
+    43.041408,
+    -76.263481,
+    43.041408
+],
   "geometry": {"coordinates":[-76.263481,43.041408],"type":"Point"}
 }

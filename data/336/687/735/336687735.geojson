@@ -2,13 +2,14 @@
   "id": 336687735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.248065,42.307327,-77.248065,42.307327",
     "geom:latitude":42.307327,
     "geom:longitude":-77.248065,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6220 State Hwy 415",
     "sg:city":"Savona",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85824273,
+        102191575,
+        404522587,
         85633793,
+        85978659,
+        102083115,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"604b1e970e0f369ca425719bf0c1f342",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083115,
+            "localadmin_id":404522587,
+            "locality_id":85978659,
+            "neighbourhood_id":85824273,
             "region_id":85688543,
             "venue_id":336687735
         }
     ],
     "wof:id":336687735,
-    "wof:lastmodified":1448997250,
+    "wof:lastmodified":1454122507,
     "wof:name":"Savona Storage",
-    "wof:parent_id":-1,
+    "wof:parent_id":85824273,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "storage"
     ]
 },
-  "bbox": [-77.248065,42.307327,-77.248065,42.307327],
+  "bbox": [
+    -77.248065,
+    42.307327,
+    -77.248065,
+    42.307327
+],
   "geometry": {"coordinates":[-77.248065,42.307327],"type":"Point"}
 }

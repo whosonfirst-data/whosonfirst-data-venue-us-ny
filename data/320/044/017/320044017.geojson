@@ -2,13 +2,14 @@
   "id": 320044017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.628059,42.751891,-73.628059,42.751891",
     "geom:latitude":42.751891,
     "geom:longitude":-73.628059,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"850 Hoosick Rd",
     "sg:city":"Troy",
     "sg:classifiers":[
@@ -30,8 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85979639,
+        102081773,
+        85817067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,18 +45,18 @@
     "wof:geomhash":"eee67f468c0e70a7ed721fb1485d4060",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081773,
+            "locality_id":85979639,
+            "neighbourhood_id":85817067,
             "region_id":85688543,
             "venue_id":320044017
         }
     ],
     "wof:id":320044017,
-    "wof:lastmodified":1449013206,
+    "wof:lastmodified":1454125079,
     "wof:name":"A & S Commercial Tire",
-    "wof:parent_id":-1,
+    "wof:parent_id":85817067,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.628059,42.751891,-73.628059,42.751891],
-  "geometry": {"coordinates":[-73.628059,42.751891],"type":"Point"}
+  "bbox": [
+    -73.628059,
+    42.751891,
+    -73.628059,
+    42.751891
+],
+  "geometry": {"coordinates":[-73.62805899999999,42.751891],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286675341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.216318,40.543307,-74.216318,40.543307",
     "geom:latitude":40.543307,
     "geom:longitude":-74.216318,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"294 Mason Blvd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846189,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85846189
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"7b28ae0281e01b6a7cc61a66b466d5ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85846189,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":286675341,
-    "wof:lastmodified":1449016694,
+    "wof:lastmodified":1454125663,
     "wof:name":"Island Land Designs",
     "wof:parent_id":85846189,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "supply"
     ]
 },
-  "bbox": [-74.216318,40.543307,-74.216318,40.543307],
+  "bbox": [
+    -74.216318,
+    40.543307,
+    -74.216318,
+    40.543307
+],
   "geometry": {"coordinates":[-74.216318,40.543307],"type":"Point"}
 }

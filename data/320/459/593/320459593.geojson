@@ -2,13 +2,14 @@
   "id": 320459593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.119089,40.634327,-74.119089,40.634327",
     "geom:latitude":40.634327,
     "geom:longitude":-74.119089,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1090 Castleton Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892969,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85892969
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"e848265b98db8749980b965009c1ab8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892969,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":320459593,
-    "wof:lastmodified":1449012788,
+    "wof:lastmodified":1454125009,
     "wof:name":"West Brighton Pharmacy Inc",
     "wof:parent_id":85892969,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-74.119089,40.634327,-74.119089,40.634327],
+  "bbox": [
+    -74.119089,
+    40.634327,
+    -74.119089,
+    40.634327
+],
   "geometry": {"coordinates":[-74.119089,40.634327],"type":"Point"}
 }

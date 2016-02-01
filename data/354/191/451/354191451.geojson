@@ -2,13 +2,14 @@
   "id": 354191451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.445725,40.73294,-73.445725,40.73294",
     "geom:latitude":40.73294,
     "geom:longitude":-73.445725,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"398 Conklin Street",
     "sg:city":"Farmingdale",
     "sg:classifiers":[
@@ -54,11 +55,13 @@
     "sg:website":"http://existmobile.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892759,
+        102191575,
+        404521475,
         85633793,
         85979165,
         102082371,
-        85892759
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,9 +71,10 @@
     "wof:geomhash":"3c3e446fed5e1f6c30d2fb8b09a015b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979165,
             "neighbourhood_id":85892759,
             "region_id":85688543,
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":354191451,
-    "wof:lastmodified":1449066968,
+    "wof:lastmodified":1454131088,
     "wof:name":"Metro Pcs",
     "wof:parent_id":85892759,
     "wof:placetype":"venue",
@@ -94,6 +98,11 @@
         "cellular"
     ]
 },
-  "bbox": [-73.445725,40.73294,-73.445725,40.73294],
+  "bbox": [
+    -73.445725,
+    40.73294,
+    -73.445725,
+    40.73294
+],
   "geometry": {"coordinates":[-73.445725,40.73294],"type":"Point"}
 }

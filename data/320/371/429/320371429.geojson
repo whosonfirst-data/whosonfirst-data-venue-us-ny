@@ -2,13 +2,14 @@
   "id": 320371429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.010348,40.715226,-74.010348,40.715226",
     "geom:latitude":40.715226,
     "geom:longitude":-74.010348,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"86 Warren St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865713,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865713
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"c9559ac5075b6ac9c999751fdffa50ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865713,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":320371429,
-    "wof:lastmodified":1449014136,
+    "wof:lastmodified":1454125229,
     "wof:name":"KATZ Parking System Inc",
     "wof:parent_id":85865713,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "garage"
     ]
 },
-  "bbox": [-74.010348,40.715226,-74.010348,40.715226],
-  "geometry": {"coordinates":[-74.010348,40.715226],"type":"Point"}
+  "bbox": [
+    -74.010348,
+    40.715226,
+    -74.010348,
+    40.715226
+],
+  "geometry": {"coordinates":[-74.01034799999999,40.715226],"type":"Point"}
 }

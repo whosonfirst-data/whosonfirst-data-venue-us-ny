@@ -2,13 +2,14 @@
   "id": 320801305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.070873,42.098242,-76.070873,42.098242",
     "geom:latitude":42.098242,
     "geom:longitude":-76.070873,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"314 Maple St",
     "sg:city":"Endicott",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"www.evansmech.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868465,
+        102191575,
+        404521829,
         85633793,
         85977985,
         102081755,
-        85868465
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"54ee508ed1a56ba04166c6e05de60b70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
+            "localadmin_id":404521829,
             "locality_id":85977985,
             "neighbourhood_id":85868465,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":320801305,
-    "wof:lastmodified":1449014310,
+    "wof:lastmodified":1454125256,
     "wof:name":"Evans Mechanical Inc",
     "wof:parent_id":85868465,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "heating"
     ]
 },
-  "bbox": [-76.070873,42.098242,-76.070873,42.098242],
-  "geometry": {"coordinates":[-76.070873,42.098242],"type":"Point"}
+  "bbox": [
+    -76.070873,
+    42.098242,
+    -76.070873,
+    42.098242
+],
+  "geometry": {"coordinates":[-76.07087300000001,42.098242],"type":"Point"}
 }

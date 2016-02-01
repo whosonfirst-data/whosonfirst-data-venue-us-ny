@@ -2,13 +2,14 @@
   "id": 270375645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.732977,40.633974,-73.732977,40.633974",
     "geom:latitude":40.633974,
     "geom:longitude":-73.732977,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"661 Park Ln",
     "sg:city":"Cedarhurst",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845957,
+        102191575,
+        404521473,
         85633793,
-        85977539,
-        102082377,
-        85845957
+        85979053,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"41abb75a67427df34e2360734e979645",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404521473,
+            "locality_id":85979053,
             "neighbourhood_id":85845957,
             "region_id":85688543,
             "venue_id":270375645
         }
     ],
     "wof:id":270375645,
-    "wof:lastmodified":1449008756,
+    "wof:lastmodified":1454124384,
     "wof:name":"College Advisory Svc",
     "wof:parent_id":85845957,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.732977,40.633974,-73.732977,40.633974],
-  "geometry": {"coordinates":[-73.732977,40.633974],"type":"Point"}
+  "bbox": [
+    -73.732977,
+    40.633974,
+    -73.732977,
+    40.633974
+],
+  "geometry": {"coordinates":[-73.73297700000001,40.633974],"type":"Point"}
 }

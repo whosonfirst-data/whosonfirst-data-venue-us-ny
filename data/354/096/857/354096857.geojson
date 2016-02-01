@@ -2,13 +2,14 @@
   "id": 354096857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.536462,40.706025,-73.536462,40.706025",
     "geom:latitude":40.706025,
     "geom:longitude":-73.536462,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2660 N Jerusalem Rd",
     "sg:city":"North Bellmore",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"cca9c64156079058312e4e8574bb4e92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":354096857
         }
     ],
     "wof:id":354096857,
-    "wof:lastmodified":1449066467,
+    "wof:lastmodified":1454130935,
     "wof:name":"CVS pharmacy",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "drugstore"
     ]
 },
-  "bbox": [-73.536462,40.706025,-73.536462,40.706025],
+  "bbox": [
+    -73.536462,
+    40.706025,
+    -73.536462,
+    40.706025
+],
   "geometry": {"coordinates":[-73.536462,40.706025],"type":"Point"}
 }

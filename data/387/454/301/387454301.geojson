@@ -2,13 +2,14 @@
   "id": 387454301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.712332,40.980432,-73.712332,40.980432",
     "geom:latitude":40.980432,
     "geom:longitude":-73.712332,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"532 Harrison Ave",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892899,
+        102191575,
+        404523361,
         85633793,
-        85978729,
+        85978735,
         102082373,
-        85892899
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"fc6a81dd46c32843603f710b641fa5e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978729,
+            "localadmin_id":404523361,
+            "locality_id":85978735,
             "neighbourhood_id":85892899,
             "region_id":85688543,
             "venue_id":387454301
         }
     ],
     "wof:id":387454301,
-    "wof:lastmodified":1449059555,
+    "wof:lastmodified":1454130144,
     "wof:name":"Topdesk",
     "wof:parent_id":85892899,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "book"
     ]
 },
-  "bbox": [-73.712332,40.980432,-73.712332,40.980432],
+  "bbox": [
+    -73.712332,
+    40.980432,
+    -73.712332,
+    40.980432
+],
   "geometry": {"coordinates":[-73.712332,40.980432],"type":"Point"}
 }

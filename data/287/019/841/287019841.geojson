@@ -2,13 +2,14 @@
   "id": 287019841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.868106,40.847199,-73.868106,40.847199",
     "geom:latitude":40.847199,
     "geom:longitude":-73.868106,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"681 Rhinelander Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853499,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85853499
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"5f418315792c007e7de0f6c3ee05847b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853499,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":287019841,
-    "wof:lastmodified":1449001186,
+    "wof:lastmodified":1454123877,
     "wof:name":"New Creation Tours",
     "wof:parent_id":85853499,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "promoter"
     ]
 },
-  "bbox": [-73.868106,40.847199,-73.868106,40.847199],
+  "bbox": [
+    -73.868106,
+    40.847199,
+    -73.868106,
+    40.847199
+],
   "geometry": {"coordinates":[-73.868106,40.847199],"type":"Point"}
 }

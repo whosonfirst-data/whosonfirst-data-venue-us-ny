@@ -2,13 +2,14 @@
   "id": 403928607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.214626,40.817105,-73.214626,40.817105",
     "geom:latitude":40.817105,
     "geom:longitude":-73.214626,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"595 Wheeler Rd",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"7d4a2c417659d33804c7aa973e11849b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":403928607
         }
     ],
     "wof:id":403928607,
-    "wof:lastmodified":1449055778,
+    "wof:lastmodified":1454129486,
     "wof:name":"Donald Finno Trucking Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -71,6 +76,11 @@
         "trucking"
     ]
 },
-  "bbox": [-73.214626,40.817105,-73.214626,40.817105],
+  "bbox": [
+    -73.214626,
+    40.817105,
+    -73.214626,
+    40.817105
+],
   "geometry": {"coordinates":[-73.214626,40.817105],"type":"Point"}
 }

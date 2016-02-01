@@ -2,13 +2,14 @@
   "id": 303665433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.702419,40.71337,-73.702419,40.71337",
     "geom:latitude":40.71337,
     "geom:longitude":-73.702419,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"383 Roquette Ave",
     "sg:city":"Floral Park",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420559871,
+        102191575,
+        404521473,
         85633793,
-        85977743,
-        102082371
+        85979137,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"c6097755529d969af63ba3e0fb36d517",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977743,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979137,
+            "neighbourhood_id":420559871,
             "region_id":85688543,
             "venue_id":303665433
         }
     ],
     "wof:id":303665433,
-    "wof:lastmodified":1448998864,
+    "wof:lastmodified":1454123251,
     "wof:name":"South Floral Park Village Hall",
-    "wof:parent_id":-1,
+    "wof:parent_id":420559871,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "village"
     ]
 },
-  "bbox": [-73.702419,40.71337,-73.702419,40.71337],
-  "geometry": {"coordinates":[-73.702419,40.71337],"type":"Point"}
+  "bbox": [
+    -73.702419,
+    40.71337,
+    -73.702419,
+    40.71337
+],
+  "geometry": {"coordinates":[-73.70241900000001,40.71337],"type":"Point"}
 }

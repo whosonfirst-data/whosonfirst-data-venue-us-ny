@@ -2,13 +2,14 @@
   "id": 370204691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.258145,40.806501,-73.258145,40.806501",
     "geom:latitude":40.806501,
     "geom:longitude":-73.258145,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"150 Motor Pkwy",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892809,
+        102191575,
+        404522517,
         85633793,
         85979867,
         102082395,
-        85892809
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"2983b8049d226c16a88beb4acca59b4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979867,
             "neighbourhood_id":85892809,
             "region_id":85688543,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":370204691,
-    "wof:lastmodified":1449032579,
+    "wof:lastmodified":1454128344,
     "wof:name":"Curative Health Services",
     "wof:parent_id":85892809,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-73.258145,40.806501,-73.258145,40.806501],
+  "bbox": [
+    -73.258145,
+    40.806501,
+    -73.258145,
+    40.806501
+],
   "geometry": {"coordinates":[-73.258145,40.806501],"type":"Point"}
 }

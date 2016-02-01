@@ -2,13 +2,14 @@
   "id": 337296117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.93404,40.619989,-73.93404,40.619989",
     "geom:latitude":40.619989,
     "geom:longitude":-73.93404,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2036 Flatbush Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.lennyandjohnspizza.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558701,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"ca2463a89abd41bab0ef917577f5c49a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558701,
             "region_id":85688543,
             "venue_id":337296117
         }
     ],
     "wof:id":337296117,
-    "wof:lastmodified":1449027594,
+    "wof:lastmodified":1454127126,
     "wof:name":"Lenny & Johns Pizzeria",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "pizza"
     ]
 },
-  "bbox": [-73.93404,40.619989,-73.93404,40.619989],
+  "bbox": [
+    -73.93404,
+    40.619989,
+    -73.93404,
+    40.619989
+],
   "geometry": {"coordinates":[-73.93404,40.619989],"type":"Point"}
 }

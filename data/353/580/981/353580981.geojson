@@ -2,13 +2,14 @@
   "id": 353580981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.8311,40.708,-73.8311,40.708",
     "geom:latitude":40.708,
     "geom:longitude":-73.8311,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8156 Lefferts Blvd",
     "sg:city":"Kew Gardens",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529695,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"bcadb0c3e501ead9cf58b4edb1f2b3ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529695,
             "region_id":85688543,
             "venue_id":353580981
         }
     ],
     "wof:id":353580981,
-    "wof:lastmodified":1449019963,
+    "wof:lastmodified":1454126446,
     "wof:name":"Kim's Custom Tailor",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529695,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "alteration"
     ]
 },
-  "bbox": [-73.8311,40.708,-73.8311,40.708],
-  "geometry": {"coordinates":[-73.8311,40.708],"type":"Point"}
+  "bbox": [
+    -73.8311,
+    40.708,
+    -73.8311,
+    40.708
+],
+  "geometry": {"coordinates":[-73.83110000000001,40.708],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303659683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.696884,43.125909,-78.696884,43.125909",
     "geom:latitude":43.125909,
     "geom:longitude":-78.696884,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6104 S Transit Rd",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529193,
+        102191575,
+        404522737,
         85633793,
+        85979541,
+        102081767,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"006169848d7e96685825ba341c1512f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081767,
+            "localadmin_id":404522737,
+            "locality_id":85979541,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":303659683
         }
     ],
     "wof:id":303659683,
-    "wof:lastmodified":1448998383,
+    "wof:lastmodified":1454123078,
     "wof:name":"Storage Pros",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "special"
     ]
 },
-  "bbox": [-78.696884,43.125909,-78.696884,43.125909],
+  "bbox": [
+    -78.696884,
+    43.125909,
+    -78.696884,
+    43.125909
+],
   "geometry": {"coordinates":[-78.696884,43.125909],"type":"Point"}
 }

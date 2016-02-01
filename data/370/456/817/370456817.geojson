@@ -2,13 +2,14 @@
   "id": 370456817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.365309,40.704376,-73.365309,40.704376",
     "geom:latitude":40.704376,
     "geom:longitude":-73.365309,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"491 Newark St",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
         85978477,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"73ad94b0e760c4abfeb7ed67d97d87d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522513,
             "locality_id":85978477,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":370456817
         }
     ],
     "wof:id":370456817,
-    "wof:lastmodified":1449030111,
+    "wof:lastmodified":1454127614,
     "wof:name":"Walters West End Supply Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.365309,40.704376,-73.365309,40.704376],
+  "bbox": [
+    -73.365309,
+    40.704376,
+    -73.365309,
+    40.704376
+],
   "geometry": {"coordinates":[-73.365309,40.704376],"type":"Point"}
 }

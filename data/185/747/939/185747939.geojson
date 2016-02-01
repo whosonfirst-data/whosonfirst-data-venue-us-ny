@@ -2,13 +2,14 @@
   "id": 185747939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.988867,40.643993,-73.988867,40.643993",
     "geom:latitude":40.643993,
     "geom:longitude":-73.988867,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1135 37th Street",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -40,10 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +57,20 @@
     "wof:geomhash":"dd4392c1aae52ba39ae8144af2b083e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":185747939
         }
     ],
     "wof:id":185747939,
-    "wof:lastmodified":1449006903,
+    "wof:lastmodified":1454124182,
     "wof:name":"Kosher Wedding Planner Magazine",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -76,6 +81,11 @@
         "guide"
     ]
 },
-  "bbox": [-73.988867,40.643993,-73.988867,40.643993],
+  "bbox": [
+    -73.988867,
+    40.643993,
+    -73.988867,
+    40.643993
+],
   "geometry": {"coordinates":[-73.988867,40.643993],"type":"Point"}
 }

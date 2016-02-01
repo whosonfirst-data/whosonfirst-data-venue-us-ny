@@ -2,13 +2,14 @@
   "id": 371151039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.920426,40.833653,-73.920426,40.833653",
     "geom:latitude":40.833653,
     "geom:longitude":-73.920426,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"85 Mc Clellan St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865669,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865669
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"a4140a4d7461612a3da5058677d78a31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865669,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":371151039,
-    "wof:lastmodified":1449049082,
+    "wof:lastmodified":1454129047,
     "wof:name":"Comida Mexicana",
     "wof:parent_id":85865669,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.920426,40.833653,-73.920426,40.833653],
-  "geometry": {"coordinates":[-73.920426,40.833653],"type":"Point"}
+  "bbox": [
+    -73.920426,
+    40.833653,
+    -73.920426,
+    40.833653
+],
+  "geometry": {"coordinates":[-73.92042600000001,40.833653],"type":"Point"}
 }

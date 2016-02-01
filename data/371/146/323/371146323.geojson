@@ -2,13 +2,14 @@
   "id": 371146323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.631128,40.664135,-73.631128,40.664135",
     "geom:latitude":40.664135,
     "geom:longitude":-73.631128,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"89 Southard Ave",
     "sg:city":"Rockville Centre",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529139,
+        102191575,
+        404521473,
         85633793,
         85977629,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"4590d1f7a2493c768bbaa5356120f1aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977629,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529139,
             "region_id":85688543,
             "venue_id":371146323
         }
     ],
     "wof:id":371146323,
-    "wof:lastmodified":1449049453,
+    "wof:lastmodified":1454129135,
     "wof:name":"Doug Feltkamp Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529139,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.631128,40.664135,-73.631128,40.664135],
+  "bbox": [
+    -73.631128,
+    40.664135,
+    -73.631128,
+    40.664135
+],
   "geometry": {"coordinates":[-73.631128,40.664135],"type":"Point"}
 }

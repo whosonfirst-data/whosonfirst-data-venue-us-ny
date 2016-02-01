@@ -2,13 +2,14 @@
   "id": 336883857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.922906,40.851608,-73.922906,40.851608",
     "geom:latitude":40.851608,
     "geom:longitude":-73.922906,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Richman Plz",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85835319,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85835319
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"328a453bd2d40d4df402a31d69c4f1b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85835319,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":336883857,
-    "wof:lastmodified":1448997777,
+    "wof:lastmodified":1454122877,
     "wof:name":"St Dominics Home",
     "wof:parent_id":85835319,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-73.922906,40.851608,-73.922906,40.851608],
+  "bbox": [
+    -73.922906,
+    40.851608,
+    -73.922906,
+    40.851608
+],
   "geometry": {"coordinates":[-73.922906,40.851608],"type":"Point"}
 }

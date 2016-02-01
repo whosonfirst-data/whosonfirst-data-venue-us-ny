@@ -2,13 +2,14 @@
   "id": 370226237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.50158,40.818203,-73.50158,40.818203",
     "geom:latitude":40.818203,
     "geom:longitude":-73.50158,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"212 Jackson Ave",
     "sg:city":"Syosset",
     "sg:classifiers":[
@@ -37,10 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
-        85979075,
-        102082371
+        85979055,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +54,20 @@
     "wof:geomhash":"cb56120387b5895206c3e447dcf231c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979075,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85979055,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":370226237
         }
     ],
     "wof:id":370226237,
-    "wof:lastmodified":1449031544,
+    "wof:lastmodified":1454128040,
     "wof:name":"William Goldwasser",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -75,6 +80,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.50158,40.818203,-73.50158,40.818203],
+  "bbox": [
+    -73.50158,
+    40.818203,
+    -73.50158,
+    40.818203
+],
   "geometry": {"coordinates":[-73.50158,40.818203],"type":"Point"}
 }

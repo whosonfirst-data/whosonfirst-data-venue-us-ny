@@ -2,13 +2,14 @@
   "id": 303931979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.144247,43.078748,-76.144247,43.078748",
     "geom:latitude":43.078748,
     "geom:longitude":-76.144247,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"127 Loma Ave",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881259,
+        102191575,
+        404522845,
         85633793,
-        85977785,
+        85979211,
         102082351,
-        85881259
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"08fca343846861ccb62ab751b55d82b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
-            "locality_id":85977785,
+            "localadmin_id":404522845,
+            "locality_id":85979211,
             "neighbourhood_id":85881259,
             "region_id":85688543,
             "venue_id":303931979
         }
     ],
     "wof:id":303931979,
-    "wof:lastmodified":1449000347,
+    "wof:lastmodified":1454123663,
     "wof:name":"P C Transcription Svc",
     "wof:parent_id":85881259,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "court"
     ]
 },
-  "bbox": [-76.144247,43.078748,-76.144247,43.078748],
-  "geometry": {"coordinates":[-76.144247,43.078748],"type":"Point"}
+  "bbox": [
+    -76.144247,
+    43.078748,
+    -76.144247,
+    43.078748
+],
+  "geometry": {"coordinates":[-76.14424699999999,43.078748],"type":"Point"}
 }

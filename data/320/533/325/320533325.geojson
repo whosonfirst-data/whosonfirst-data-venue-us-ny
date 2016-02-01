@@ -2,13 +2,14 @@
   "id": 320533325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993924,40.756388,-73.993924,40.756388",
     "geom:latitude":40.756388,
     "geom:longitude":-73.993924,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"306 W 39 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85882233,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85882233
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"1bfee8b31f54cadf0393be73a6093cf2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85882233,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":320533325,
-    "wof:lastmodified":1449011214,
+    "wof:lastmodified":1454124753,
     "wof:name":"Midtown Sewing Machine Corp",
     "wof:parent_id":85882233,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "parts"
     ]
 },
-  "bbox": [-73.993924,40.756388,-73.993924,40.756388],
-  "geometry": {"coordinates":[-73.993924,40.756388],"type":"Point"}
+  "bbox": [
+    -73.993924,
+    40.756388,
+    -73.993924,
+    40.756388
+],
+  "geometry": {"coordinates":[-73.99392400000001,40.756388],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403864297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.078177,40.839104,-73.078177,40.839104",
     "geom:latitude":40.839104,
     "geom:longitude":-73.078177,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"282 Ave B",
     "sg:city":"Ronkonkoma",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"11e84c4cd08fd1adb490f41ac6de4421",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":403864297
         }
     ],
     "wof:id":403864297,
-    "wof:lastmodified":1449055983,
+    "wof:lastmodified":1454129515,
     "wof:name":"Nyc Publishing",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "book"
     ]
 },
-  "bbox": [-73.078177,40.839104,-73.078177,40.839104],
+  "bbox": [
+    -73.078177,
+    40.839104,
+    -73.078177,
+    40.839104
+],
   "geometry": {"coordinates":[-73.078177,40.839104],"type":"Point"}
 }

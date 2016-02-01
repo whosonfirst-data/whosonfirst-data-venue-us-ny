@@ -2,13 +2,14 @@
   "id": 303143509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.901655,40.834916,-73.901655,40.834916",
     "geom:latitude":40.834916,
     "geom:longitude":-73.901655,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1415 Fulton Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892767,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85892767
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ee21ecc9006e9a07847dbce92b3d9a79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892767,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303143509,
-    "wof:lastmodified":1449000147,
+    "wof:lastmodified":1454123608,
     "wof:name":"Phipps Houses",
     "wof:parent_id":85892767,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.901655,40.834916,-73.901655,40.834916],
-  "geometry": {"coordinates":[-73.901655,40.834916],"type":"Point"}
+  "bbox": [
+    -73.901655,
+    40.834916,
+    -73.901655,
+    40.834916
+],
+  "geometry": {"coordinates":[-73.90165500000001,40.834916],"type":"Point"}
 }

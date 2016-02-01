@@ -2,13 +2,14 @@
   "id": 371153435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.784017,42.909237,-78.784017,42.909237",
     "geom:latitude":42.909237,
     "geom:longitude":-78.784017,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2409 Harlem Rd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528623,
+        102191575,
+        404522333,
         85633793,
         85979431,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"134c5ac2d2162e5040a3d5df83b1f1ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522333,
             "locality_id":85979431,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528623,
             "region_id":85688543,
             "venue_id":371153435
         }
     ],
     "wof:id":371153435,
-    "wof:lastmodified":1449049776,
+    "wof:lastmodified":1454129210,
     "wof:name":"Rick Baldwin Office Systems & Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528623,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "repair"
     ]
 },
-  "bbox": [-78.784017,42.909237,-78.784017,42.909237],
-  "geometry": {"coordinates":[-78.784017,42.909237],"type":"Point"}
+  "bbox": [
+    -78.784017,
+    42.909237,
+    -78.784017,
+    42.909237
+],
+  "geometry": {"coordinates":[-78.78401700000001,42.909237],"type":"Point"}
 }

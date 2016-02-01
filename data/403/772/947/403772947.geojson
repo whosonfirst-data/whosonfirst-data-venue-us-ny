@@ -2,13 +2,14 @@
   "id": 403772947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.969692,40.633239,-73.969692,40.633239",
     "geom:latitude":40.633239,
     "geom:longitude":-73.969692,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"256 Webster Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869607,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85869607
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"e9bd093a2b4a53e82efe8b56b6113e16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869607,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":403772947,
-    "wof:lastmodified":1449055230,
+    "wof:lastmodified":1454129409,
     "wof:name":"Hasc Center",
     "wof:parent_id":85869607,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "group"
     ]
 },
-  "bbox": [-73.969692,40.633239,-73.969692,40.633239],
-  "geometry": {"coordinates":[-73.969692,40.633239],"type":"Point"}
+  "bbox": [
+    -73.969692,
+    40.633239,
+    -73.969692,
+    40.633239
+],
+  "geometry": {"coordinates":[-73.96969199999999,40.633239],"type":"Point"}
 }

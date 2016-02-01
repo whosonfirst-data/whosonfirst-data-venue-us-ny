@@ -2,13 +2,14 @@
   "id": 286781439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.761067,40.988129,-73.761067,40.988129",
     "geom:latitude":40.988129,
     "geom:longitude":-73.761067,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"29 Myrtledale Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530411,
+        102191575,
+        404523391,
         85633793,
         85978767,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"fbac9c45242e1c63afdd32a5b2994eb8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523391,
             "locality_id":85978767,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530411,
             "region_id":85688543,
             "venue_id":286781439
         }
     ],
     "wof:id":286781439,
-    "wof:lastmodified":1449015717,
+    "wof:lastmodified":1454125494,
     "wof:name":"234-240 East 25th St Assoc LP",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530411,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "apartment"
     ]
 },
-  "bbox": [-73.761067,40.988129,-73.761067,40.988129],
+  "bbox": [
+    -73.761067,
+    40.988129,
+    -73.761067,
+    40.988129
+],
   "geometry": {"coordinates":[-73.761067,40.988129],"type":"Point"}
 }

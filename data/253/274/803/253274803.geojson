@@ -2,13 +2,14 @@
   "id": 253274803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.724899,40.672358,-73.724899,40.672358",
     "geom:latitude":40.672358,
     "geom:longitude":-73.724899,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"38 Broadway",
     "sg:city":"Valley Stream",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829963,
+        102191575,
+        404521473,
         85633793,
-        85977539,
-        102082377,
-        85829963
+        85977737,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"a93f812ddb04edc6760bba60018beeb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404521473,
+            "locality_id":85977737,
             "neighbourhood_id":85829963,
             "region_id":85688543,
             "venue_id":253274803
         }
     ],
     "wof:id":253274803,
-    "wof:lastmodified":1449063185,
+    "wof:lastmodified":1454130304,
     "wof:name":"Sergio Urra Ldscpg & Gardening",
     "wof:parent_id":85829963,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-73.724899,40.672358,-73.724899,40.672358],
-  "geometry": {"coordinates":[-73.724899,40.672358],"type":"Point"}
+  "bbox": [
+    -73.724899,
+    40.672358,
+    -73.724899,
+    40.672358
+],
+  "geometry": {"coordinates":[-73.72489899999999,40.672358],"type":"Point"}
 }

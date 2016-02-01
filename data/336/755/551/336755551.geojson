@@ -2,13 +2,14 @@
   "id": 336755551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.545487,43.139856,-77.545487,43.139856",
     "geom:latitude":43.139856,
     "geom:longitude":-77.545487,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"150 Pelham Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.wgcaobgyn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868033,
+        102191575,
+        404522623,
         85633793,
         85979039,
         102081815,
-        85868033
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"d98c116ddcc49e6770933f54f808742f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404522623,
             "locality_id":85979039,
             "neighbourhood_id":85868033,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":336755551,
-    "wof:lastmodified":1448997253,
+    "wof:lastmodified":1454122512,
     "wof:name":"Women Gynecology & Childbirth",
     "wof:parent_id":85868033,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-77.545487,43.139856,-77.545487,43.139856],
-  "geometry": {"coordinates":[-77.545487,43.139856],"type":"Point"}
+  "bbox": [
+    -77.545487,
+    43.139856,
+    -77.545487,
+    43.139856
+],
+  "geometry": {"coordinates":[-77.54548699999999,43.139856],"type":"Point"}
 }

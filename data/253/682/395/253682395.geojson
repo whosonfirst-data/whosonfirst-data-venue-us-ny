@@ -2,13 +2,14 @@
   "id": 253682395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.542625,42.537431,-76.542625,42.537431",
     "geom:latitude":42.537431,
     "geom:longitude":-76.542625,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"131 Myers Rd",
     "sg:city":"Lansing",
     "sg:classifiers":[
@@ -24,8 +25,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85836133,
+        102082355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +38,27 @@
     "wof:geomhash":"28ddd3e9f3e7e00f9e7bf40649a03f4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082355,
+            "neighbourhood_id":85836133,
             "region_id":85688543,
             "venue_id":253682395
         }
     ],
     "wof:id":253682395,
-    "wof:lastmodified":1449063335,
+    "wof:lastmodified":1454130331,
     "wof:name":"Barneys Baits",
-    "wof:parent_id":-1,
+    "wof:parent_id":85836133,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.542625,42.537431,-76.542625,42.537431],
+  "bbox": [
+    -76.542625,
+    42.537431,
+    -76.542625,
+    42.537431
+],
   "geometry": {"coordinates":[-76.542625,42.537431],"type":"Point"}
 }

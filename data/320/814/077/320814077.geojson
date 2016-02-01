@@ -2,13 +2,14 @@
   "id": 320814077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.450763,43.28171,-75.450763,43.28171",
     "geom:latitude":43.28171,
     "geom:longitude":-75.450763,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8686 Long Hill Rd",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529303,
+        102191575,
+        404522697,
         85633793,
+        85978369,
+        102083149,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"e9ad3de8fd81f926b60dae54810b5674",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083149,
+            "localadmin_id":404522697,
+            "locality_id":85978369,
+            "neighbourhood_id":420529303,
             "region_id":85688543,
             "venue_id":320814077
         }
     ],
     "wof:id":320814077,
-    "wof:lastmodified":1449011941,
+    "wof:lastmodified":1454124873,
     "wof:name":"Slitters Bladescom",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529303,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-75.450763,43.28171,-75.450763,43.28171],
-  "geometry": {"coordinates":[-75.450763,43.28171],"type":"Point"}
+  "bbox": [
+    -75.450763,
+    43.28171,
+    -75.450763,
+    43.28171
+],
+  "geometry": {"coordinates":[-75.45076299999999,43.28171],"type":"Point"}
 }

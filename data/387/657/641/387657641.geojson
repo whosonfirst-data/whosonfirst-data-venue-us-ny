@@ -2,13 +2,14 @@
   "id": 387657641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.092814,40.730229,-73.092814,40.730229",
     "geom:latitude":40.730229,
     "geom:longitude":-73.092814,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"55 Montauk Hwy",
     "sg:city":"West Sayville",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +53,18 @@
     "wof:geomhash":"bec3f3c7c93b4c5c935b98a5b4e0e4c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":387657641
         }
     ],
     "wof:id":387657641,
-    "wof:lastmodified":1449056537,
+    "wof:lastmodified":1454129606,
     "wof:name":"Sayville Carpet",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "floor"
     ]
 },
-  "bbox": [-73.092814,40.730229,-73.092814,40.730229],
+  "bbox": [
+    -73.092814,
+    40.730229,
+    -73.092814,
+    40.730229
+],
   "geometry": {"coordinates":[-73.092814,40.730229],"type":"Point"}
 }

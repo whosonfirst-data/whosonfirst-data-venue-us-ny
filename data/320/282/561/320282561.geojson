@@ -2,13 +2,14 @@
   "id": 320282561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.842326,40.850405,-72.842326,40.850405",
     "geom:latitude":40.850405,
     "geom:longitude":-72.842326,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"74 Weeks Ave",
     "sg:city":"Manorville",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530021,
+        102191575,
+        404521441,
         85633793,
         85979761,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"8b228d555a56d26de47afa5b809b4cac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530021,
             "region_id":85688543,
             "venue_id":320282561
         }
     ],
     "wof:id":320282561,
-    "wof:lastmodified":1449013592,
+    "wof:lastmodified":1454125141,
     "wof:name":"Island Forklifts",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530021,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "construction"
     ]
 },
-  "bbox": [-72.842326,40.850405,-72.842326,40.850405],
+  "bbox": [
+    -72.842326,
+    40.850405,
+    -72.842326,
+    40.850405
+],
   "geometry": {"coordinates":[-72.842326,40.850405],"type":"Point"}
 }

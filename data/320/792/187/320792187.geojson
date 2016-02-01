@@ -2,13 +2,14 @@
   "id": 320792187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.989112,40.883445,-72.989112,40.883445",
     "geom:latitude":40.883445,
     "geom:longitude":-72.989112,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 American Ave",
     "sg:city":"Coram",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"4dc54988781267eda84c3c745500369a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":320792187
         }
     ],
     "wof:id":320792187,
-    "wof:lastmodified":1449012056,
+    "wof:lastmodified":1454124891,
     "wof:name":"East End Gear",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.989112,40.883445,-72.989112,40.883445],
-  "geometry": {"coordinates":[-72.989112,40.883445],"type":"Point"}
+  "bbox": [
+    -72.989112,
+    40.883445,
+    -72.989112,
+    40.883445
+],
+  "geometry": {"coordinates":[-72.98911200000001,40.883445],"type":"Point"}
 }

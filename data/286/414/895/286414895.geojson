@@ -2,13 +2,14 @@
   "id": 286414895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.882332,40.992614,-73.882332,40.992614",
     "geom:latitude":40.992614,
     "geom:longitude":-73.882332,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"58 Washington Ave",
     "sg:city":"Hastings On Hdsn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.clemandco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85835507,
+        102191575,
+        404523359,
         85633793,
         85978739,
         102082373,
-        85835507
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"06deca02a454d9c1f6d58a11e7233be1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523359,
             "locality_id":85978739,
             "neighbourhood_id":85835507,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":286414895,
-    "wof:lastmodified":1449016562,
+    "wof:lastmodified":1454125642,
     "wof:name":"Clem & Co",
     "wof:parent_id":85835507,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "designer"
     ]
 },
-  "bbox": [-73.882332,40.992614,-73.882332,40.992614],
-  "geometry": {"coordinates":[-73.882332,40.992614],"type":"Point"}
+  "bbox": [
+    -73.882332,
+    40.992614,
+    -73.882332,
+    40.992614
+],
+  "geometry": {"coordinates":[-73.88233200000001,40.992614],"type":"Point"}
 }

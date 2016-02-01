@@ -2,13 +2,14 @@
   "id": 253347473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.687981,40.956004,-72.687981,40.956004",
     "geom:latitude":40.956004,
     "geom:longitude":-72.687981,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"967 Reeves Ave",
     "sg:city":"Riverhead",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.cherrycreeklinks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85838351,
+        102191575,
+        404522663,
         85633793,
-        85979879,
+        85979671,
         102082395,
-        85838351
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"a4dc71ad99b53ff01824e16cc989297f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979879,
+            "localadmin_id":404522663,
+            "locality_id":85979671,
             "neighbourhood_id":85838351,
             "region_id":85688543,
             "venue_id":253347473
         }
     ],
     "wof:id":253347473,
-    "wof:lastmodified":1449064252,
+    "wof:lastmodified":1454130484,
     "wof:name":"Woods Golf Course",
     "wof:parent_id":85838351,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "course"
     ]
 },
-  "bbox": [-72.687981,40.956004,-72.687981,40.956004],
-  "geometry": {"coordinates":[-72.687981,40.956004],"type":"Point"}
+  "bbox": [
+    -72.687981,
+    40.956004,
+    -72.687981,
+    40.956004
+],
+  "geometry": {"coordinates":[-72.68798099999999,40.956004],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370297779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.009404,40.715386,-74.009404,40.715386",
     "geom:latitude":40.715386,
     "geom:longitude":-74.009404,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"84 W Broadway",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865713,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865713
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"bb349e6fd8caa299af8c58a6097e9de5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865713,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":370297779,
-    "wof:lastmodified":1449031224,
+    "wof:lastmodified":1454127945,
     "wof:name":"Concord Stamp Inc",
     "wof:parent_id":85865713,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "engraver"
     ]
 },
-  "bbox": [-74.009404,40.715386,-74.009404,40.715386],
+  "bbox": [
+    -74.009404,
+    40.715386,
+    -74.009404,
+    40.715386
+],
   "geometry": {"coordinates":[-74.009404,40.715386],"type":"Point"}
 }

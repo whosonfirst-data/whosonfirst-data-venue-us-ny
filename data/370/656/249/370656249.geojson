@@ -2,13 +2,14 @@
   "id": 370656249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.925262,41.718239,-73.925262,41.718239",
     "geom:latitude":41.718239,
     "geom:longitude":-73.925262,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Webster Ave Ste 400",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892989,
+        102191575,
+        404522305,
         85633793,
+        85977835,
         102082363,
-        85892989
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"009feedef36bb8e36aaf3f587c173abe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
-            "locality_id":-1,
+            "localadmin_id":404522305,
+            "locality_id":85977835,
             "neighbourhood_id":85892989,
             "region_id":85688543,
             "venue_id":370656249
         }
     ],
     "wof:id":370656249,
-    "wof:lastmodified":1449031276,
+    "wof:lastmodified":1454127960,
     "wof:name":"Hudson River Healthcare, Inc.",
     "wof:parent_id":85892989,
     "wof:placetype":"venue",
@@ -70,6 +75,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.925262,41.718239,-73.925262,41.718239],
+  "bbox": [
+    -73.925262,
+    41.718239,
+    -73.925262,
+    41.718239
+],
   "geometry": {"coordinates":[-73.925262,41.718239],"type":"Point"}
 }

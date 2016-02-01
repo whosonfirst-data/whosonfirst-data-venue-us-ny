@@ -2,13 +2,14 @@
   "id": 253468243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.973931,42.121045,-75.973931,42.121045",
     "geom:latitude":42.121045,
     "geom:longitude":-75.973931,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"627 Field St",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -39,10 +40,13 @@
     "sg:website":"www.innovat.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857073,
+        102191575,
+        404521829,
         85633793,
+        85977983,
         102081755,
-        85857073
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +56,18 @@
     "wof:geomhash":"cf9200c607ffc7d6ac75a8e6f1876c18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
-            "locality_id":-1,
+            "localadmin_id":404521829,
+            "locality_id":85977983,
             "neighbourhood_id":85857073,
             "region_id":85688543,
             "venue_id":253468243
         }
     ],
     "wof:id":253468243,
-    "wof:lastmodified":1449064952,
+    "wof:lastmodified":1454130603,
     "wof:name":"Innovation Associates Inc",
     "wof:parent_id":85857073,
     "wof:placetype":"venue",
@@ -78,6 +83,11 @@
         "electronic"
     ]
 },
-  "bbox": [-75.973931,42.121045,-75.973931,42.121045],
-  "geometry": {"coordinates":[-75.973931,42.121045],"type":"Point"}
+  "bbox": [
+    -75.973931,
+    42.121045,
+    -75.973931,
+    42.121045
+],
+  "geometry": {"coordinates":[-75.97393099999999,42.121045],"type":"Point"}
 }

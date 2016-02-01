@@ -2,13 +2,14 @@
   "id": 320675253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.386868,40.68534,-73.386868,40.68534",
     "geom:latitude":40.68534,
     "geom:longitude":-73.386868,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"217 Cortland St",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
         85978477,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"7c2b3b00d76880542f77f29ff1792182",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522513,
             "locality_id":85978477,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":320675253
         }
     ],
     "wof:id":320675253,
-    "wof:lastmodified":1449013155,
+    "wof:lastmodified":1454125070,
     "wof:name":"Amerequal Enterprises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.386868,40.68534,-73.386868,40.68534],
-  "geometry": {"coordinates":[-73.386868,40.68534],"type":"Point"}
+  "bbox": [
+    -73.386868,
+    40.68534,
+    -73.386868,
+    40.68534
+],
+  "geometry": {"coordinates":[-73.38686800000001,40.68534],"type":"Point"}
 }

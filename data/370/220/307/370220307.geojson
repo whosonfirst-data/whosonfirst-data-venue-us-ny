@@ -2,13 +2,14 @@
   "id": 370220307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.14723,40.919007,-73.14723,40.919007",
     "geom:latitude":40.919007,
     "geom:longitude":-73.14723,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"139 Main St",
     "sg:city":"Stony Brook",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.chicos.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824457,
+        102191575,
+        404521441,
         85633793,
-        85978487,
+        85979927,
         102082395,
-        85824457
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"dcec53700f646a4e7b53ccc43a40a585",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978487,
+            "localadmin_id":404521441,
+            "locality_id":85979927,
             "neighbourhood_id":85824457,
             "region_id":85688543,
             "venue_id":370220307
         }
     ],
     "wof:id":370220307,
-    "wof:lastmodified":1449032351,
+    "wof:lastmodified":1454128277,
     "wof:name":"Chico's Fas Inc",
     "wof:parent_id":85824457,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "women's"
     ]
 },
-  "bbox": [-73.14723,40.919007,-73.14723,40.919007],
-  "geometry": {"coordinates":[-73.14723,40.919007],"type":"Point"}
+  "bbox": [
+    -73.14723,
+    40.919007,
+    -73.14723,
+    40.919007
+],
+  "geometry": {"coordinates":[-73.14722999999999,40.919007],"type":"Point"}
 }

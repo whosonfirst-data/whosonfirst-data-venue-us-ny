@@ -2,13 +2,14 @@
   "id": 387954543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.785461,41.141194,-73.785461,41.141194",
     "geom:latitude":41.141194,
     "geom:longitude":-73.785461,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"32 Eastview Ave",
     "sg:city":"Pleasantville",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85808267,
+        102191575,
+        404523379,
         85633793,
-        85978707,
-        102082373
+        85978753,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"7fb8a45fbe064f05fdb660217c2dca54",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978707,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523379,
+            "locality_id":85978753,
+            "neighbourhood_id":85808267,
             "region_id":85688543,
             "venue_id":387954543
         }
     ],
     "wof:id":387954543,
-    "wof:lastmodified":1449059428,
+    "wof:lastmodified":1454130122,
     "wof:name":"New York State Middle School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85808267,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.785461,41.141194,-73.785461,41.141194],
+  "bbox": [
+    -73.785461,
+    41.141194,
+    -73.785461,
+    41.141194
+],
   "geometry": {"coordinates":[-73.785461,41.141194],"type":"Point"}
 }

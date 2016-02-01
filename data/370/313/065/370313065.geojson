@@ -2,13 +2,14 @@
   "id": 370313065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.760498,40.805401,-72.760498,40.805401",
     "geom:latitude":40.805401,
     "geom:longitude":-72.760498,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"466 Montauk Hwy",
     "sg:city":"East Moriches",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"3b371aab5ad8e1c99099113d457a0783",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":370313065
         }
     ],
     "wof:id":370313065,
-    "wof:lastmodified":1449029168,
+    "wof:lastmodified":1454127340,
     "wof:name":"Tony's Sushi & Chinese Food",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "chinese"
     ]
 },
-  "bbox": [-72.760498,40.805401,-72.760498,40.805401],
+  "bbox": [
+    -72.760498,
+    40.805401,
+    -72.760498,
+    40.805401
+],
   "geometry": {"coordinates":[-72.760498,40.805401],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371157109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.804812,42.963035,-78.804812,42.963035",
     "geom:latitude":42.963035,
     "geom:longitude":-78.804812,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3921 Main St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     "sg:website":"http://www.yext.com/p/superpages/blue-cross-animal-hospital-amherst-new-york.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823285,
+        102191575,
+        404522321,
         85633793,
+        85979407,
         102082387,
-        85823285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"536fbc54db2430be364252a61d704f3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979407,
             "neighbourhood_id":85823285,
             "region_id":85688543,
             "venue_id":371157109
         }
     ],
     "wof:id":371157109,
-    "wof:lastmodified":1449049991,
+    "wof:lastmodified":1454129259,
     "wof:name":"Blue Cross Animal Hospital",
     "wof:parent_id":85823285,
     "wof:placetype":"venue",
@@ -73,6 +78,11 @@
         "referral"
     ]
 },
-  "bbox": [-78.804812,42.963035,-78.804812,42.963035],
+  "bbox": [
+    -78.804812,
+    42.963035,
+    -78.804812,
+    42.963035
+],
   "geometry": {"coordinates":[-78.804812,42.963035],"type":"Point"}
 }

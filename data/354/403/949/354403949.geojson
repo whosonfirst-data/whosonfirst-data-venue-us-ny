@@ -2,13 +2,14 @@
   "id": 354403949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.869173,40.962764,-73.869173,40.962764",
     "geom:latitude":40.962764,
     "geom:longitude":-73.869173,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3 Curtis Ln",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530383,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"9d7667ba1771f5ac4a1b2f968f001392",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530383,
             "region_id":85688543,
             "venue_id":354403949
         }
     ],
     "wof:id":354403949,
-    "wof:lastmodified":1449067425,
+    "wof:lastmodified":1454131231,
     "wof:name":"A Pride Landscaping Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530383,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "removal"
     ]
 },
-  "bbox": [-73.869173,40.962764,-73.869173,40.962764],
+  "bbox": [
+    -73.869173,
+    40.962764,
+    -73.869173,
+    40.962764
+],
   "geometry": {"coordinates":[-73.869173,40.962764],"type":"Point"}
 }

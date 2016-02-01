@@ -2,13 +2,14 @@
   "id": 354344585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.437393,40.678459,-73.437393,40.678459",
     "geom:latitude":40.678459,
     "geom:longitude":-73.437393,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5500 Sunrise Hwy",
     "sg:city":"Massapequa",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836353,
+        102191575,
+        404521475,
         85633793,
         85979153,
         102082371,
-        85836353
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"80851e2f946509a14e3d2693ebe9cdb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979153,
             "neighbourhood_id":85836353,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":354344585,
-    "wof:lastmodified":1449066030,
+    "wof:lastmodified":1454130800,
     "wof:name":"HSBC Bank USA, N.A.",
     "wof:parent_id":85836353,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-73.437393,40.678459,-73.437393,40.678459],
+  "bbox": [
+    -73.437393,
+    40.678459,
+    -73.437393,
+    40.678459
+],
   "geometry": {"coordinates":[-73.437393,40.678459],"type":"Point"}
 }

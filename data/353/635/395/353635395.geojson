@@ -2,13 +2,14 @@
   "id": 353635395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.824995,40.685896,-73.824995,40.685896",
     "geom:latitude":40.685896,
     "geom:longitude":-73.824995,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11802 Liberty Ave",
     "sg:city":"South Richmond Hill",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.t-mobile.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844441,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844441
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"f8afad30a4fd3ba12dee1cf174619e03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844441,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":353635395,
-    "wof:lastmodified":1449019364,
+    "wof:lastmodified":1454126268,
     "wof:name":"T-Mobile",
     "wof:parent_id":85844441,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.824995,40.685896,-73.824995,40.685896],
+  "bbox": [
+    -73.824995,
+    40.685896,
+    -73.824995,
+    40.685896
+],
   "geometry": {"coordinates":[-73.824995,40.685896],"type":"Point"}
 }

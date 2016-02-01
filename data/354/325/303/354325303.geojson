@@ -2,13 +2,14 @@
   "id": 354325303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.515059,40.723439,-73.515059,40.723439",
     "geom:latitude":40.723439,
     "geom:longitude":-73.515059,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"99 Gardiners Ave",
     "sg:city":"Levittown",
     "sg:classifiers":[
@@ -45,11 +46,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,17 +62,18 @@
     "wof:geomhash":"97e4cac2866fff65e22a56f6642dcd93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":354325303
         }
     ],
     "wof:id":354325303,
-    "wof:lastmodified":1449066576,
+    "wof:lastmodified":1454130970,
     "wof:name":"Celtic Appliance & Air Conditioning Inc",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -87,6 +91,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-73.515059,40.723439,-73.515059,40.723439],
-  "geometry": {"coordinates":[-73.515059,40.723439],"type":"Point"}
+  "bbox": [
+    -73.515059,
+    40.723439,
+    -73.515059,
+    40.723439
+],
+  "geometry": {"coordinates":[-73.51505899999999,40.723439],"type":"Point"}
 }

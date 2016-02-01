@@ -2,13 +2,14 @@
   "id": 286408667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.770753,41.042188,-73.770753,41.042188",
     "geom:latitude":41.042188,
     "geom:longitude":-73.770753,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"302 Church St",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530475,
+        102191575,
+        404523395,
         85633793,
         85978761,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"2a58caf94f8bb8c33d1ba56ec9a113df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523395,
             "locality_id":85978761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530475,
             "region_id":85688543,
             "venue_id":286408667
         }
     ],
     "wof:id":286408667,
-    "wof:lastmodified":1449015532,
+    "wof:lastmodified":1454125462,
     "wof:name":"Esca Enterprises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530475,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-73.770753,41.042188,-73.770753,41.042188],
+  "bbox": [
+    -73.770753,
+    41.042188,
+    -73.770753,
+    41.042188
+],
   "geometry": {"coordinates":[-73.770753,41.042188],"type":"Point"}
 }

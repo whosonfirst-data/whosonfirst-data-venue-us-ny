@@ -2,13 +2,14 @@
   "id": 286305865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.097493,43.054193,-76.097493,43.054193",
     "geom:latitude":43.054193,
     "geom:longitude":-76.097493,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2628 Erie Blvd E",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881263,
+        102191575,
+        404521501,
         85633793,
         85977799,
         102082351,
-        85881263
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"6895bc1f1d7d6160356ac6b92f1d86a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404521501,
             "locality_id":85977799,
             "neighbourhood_id":85881263,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":286305865,
-    "wof:lastmodified":1449015614,
+    "wof:lastmodified":1454125475,
     "wof:name":"Upstate Vacuum Stores Inc",
     "wof:parent_id":85881263,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-76.097493,43.054193,-76.097493,43.054193],
+  "bbox": [
+    -76.097493,
+    43.054193,
+    -76.097493,
+    43.054193
+],
   "geometry": {"coordinates":[-76.097493,43.054193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287281763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.917259,40.840038,-73.917259,40.840038",
     "geom:latitude":40.840038,
     "geom:longitude":-73.917259,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"54 E 170th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865561,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865561
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"212fd5d1e0143ce276f1c7b86385e9fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865561,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":287281763,
-    "wof:lastmodified":1449001439,
+    "wof:lastmodified":1454123936,
     "wof:name":"Studio Audio & Camera Inc",
     "wof:parent_id":85865561,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "electronic"
     ]
 },
-  "bbox": [-73.917259,40.840038,-73.917259,40.840038],
+  "bbox": [
+    -73.917259,
+    40.840038,
+    -73.917259,
+    40.840038
+],
   "geometry": {"coordinates":[-73.917259,40.840038],"type":"Point"}
 }

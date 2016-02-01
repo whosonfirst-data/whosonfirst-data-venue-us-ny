@@ -2,13 +2,14 @@
   "id": 337295293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.927917,40.614318,-73.927917,40.614318",
     "geom:latitude":40.614318,
     "geom:longitude":-73.927917,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2282 Flatbush Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     "sg:website":"www.printingmaxny.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558701,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"5f119556435f162791fe83f1b73fe9b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558701,
             "region_id":85688543,
             "venue_id":337295293
         }
     ],
     "wof:id":337295293,
-    "wof:lastmodified":1449027257,
+    "wof:lastmodified":1454126991,
     "wof:name":"Printing Max",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "design"
     ]
 },
-  "bbox": [-73.927917,40.614318,-73.927917,40.614318],
-  "geometry": {"coordinates":[-73.927917,40.614318],"type":"Point"}
+  "bbox": [
+    -73.927917,
+    40.614318,
+    -73.927917,
+    40.614318
+],
+  "geometry": {"coordinates":[-73.92791699999999,40.614318],"type":"Point"}
 }

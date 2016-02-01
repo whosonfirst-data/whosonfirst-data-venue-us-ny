@@ -2,13 +2,14 @@
   "id": 353496571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.895129,40.726055,-73.895129,40.726055",
     "geom:latitude":40.726055,
     "geom:longitude":-73.895129,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6907 Grand Ave",
     "sg:city":"Maspeth",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.joeyspizzaonline.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832845,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85832845
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"a35cce53a2c4427bdb2f5c331c4a95ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85832845,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":353496571,
-    "wof:lastmodified":1449020435,
+    "wof:lastmodified":1454126579,
     "wof:name":"Joey's Pizza",
     "wof:parent_id":85832845,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "pizza"
     ]
 },
-  "bbox": [-73.895129,40.726055,-73.895129,40.726055],
+  "bbox": [
+    -73.895129,
+    40.726055,
+    -73.895129,
+    40.726055
+],
   "geometry": {"coordinates":[-73.895129,40.726055],"type":"Point"}
 }

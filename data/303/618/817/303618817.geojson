@@ -2,13 +2,14 @@
   "id": 303618817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.434586,40.719798,-73.434586,40.719798",
     "geom:latitude":40.719798,
     "geom:longitude":-73.434586,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Lee Dr",
     "sg:city":"Farmingdale",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85833107,
+        102191575,
+        404521475,
         85633793,
-        85979843,
-        102082395,
-        85833107
+        85979161,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"6bab29cb00f4338bdcc4c1de4e0ffc71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979843,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979161,
             "neighbourhood_id":85833107,
             "region_id":85688543,
             "venue_id":303618817
         }
     ],
     "wof:id":303618817,
-    "wof:lastmodified":1448999642,
+    "wof:lastmodified":1454123468,
     "wof:name":"Manhattan Sales Co",
     "wof:parent_id":85833107,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-73.434586,40.719798,-73.434586,40.719798],
+  "bbox": [
+    -73.434586,
+    40.719798,
+    -73.434586,
+    40.719798
+],
   "geometry": {"coordinates":[-73.434586,40.719798],"type":"Point"}
 }

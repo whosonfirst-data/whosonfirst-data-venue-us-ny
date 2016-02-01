@@ -2,13 +2,14 @@
   "id": 286514119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.140853,40.786541,-73.140853,40.786541",
     "geom:latitude":40.786541,
     "geom:longitude":-73.140853,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1600 9 Ave",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837663,
+        102191575,
+        404522517,
         85633793,
-        85979869,
-        102082395
+        85979705,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"2d9ade65e57d37ec1f5007b47e621d74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979869,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979705,
+            "neighbourhood_id":85837663,
             "region_id":85688543,
             "venue_id":286514119
         }
     ],
     "wof:id":286514119,
-    "wof:lastmodified":1449016672,
+    "wof:lastmodified":1454125659,
     "wof:name":"Cary Insulation",
-    "wof:parent_id":-1,
+    "wof:parent_id":85837663,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.140853,40.786541,-73.140853,40.786541],
-  "geometry": {"coordinates":[-73.140853,40.786541],"type":"Point"}
+  "bbox": [
+    -73.140853,
+    40.786541,
+    -73.140853,
+    40.786541
+],
+  "geometry": {"coordinates":[-73.14085300000001,40.786541],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253245057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.872391,40.979228,-73.872391,40.979228",
     "geom:latitude":40.979228,
     "geom:longitude":-73.872391,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 Mariana Dr",
     "sg:city":"Hastings On Hudson",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881889,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"e7f8d74294e13c5a1171f68a5843552b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881889,
             "region_id":85688543,
             "venue_id":253245057
         }
     ],
     "wof:id":253245057,
-    "wof:lastmodified":1449065702,
+    "wof:lastmodified":1454130728,
     "wof:name":"Dpb Communications Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881889,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "communication"
     ]
 },
-  "bbox": [-73.872391,40.979228,-73.872391,40.979228],
-  "geometry": {"coordinates":[-73.872391,40.979228],"type":"Point"}
+  "bbox": [
+    -73.872391,
+    40.979228,
+    -73.872391,
+    40.979228
+],
+  "geometry": {"coordinates":[-73.87239099999999,40.979228],"type":"Point"}
 }

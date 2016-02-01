@@ -2,13 +2,14 @@
   "id": 404125691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.865413,41.661905,-73.865413,41.661905",
     "geom:latitude":41.661905,
     "geom:longitude":-73.865413,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"209 Titusville Rd",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -30,7 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85844073,
+        102191575,
+        404522309,
         85633793,
+        85979255,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -41,18 +47,20 @@
     "wof:geomhash":"2c285c5e6c7a98530db054c0c482494b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522309,
+            "locality_id":85979255,
+            "neighbourhood_id":85844073,
             "region_id":85688543,
             "venue_id":404125691
         }
     ],
     "wof:id":404125691,
-    "wof:lastmodified":1449040281,
+    "wof:lastmodified":1454128964,
     "wof:name":"Glick & Co AC & Refrgrtn",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844073,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +71,11 @@
         "air"
     ]
 },
-  "bbox": [-73.865413,41.661905,-73.865413,41.661905],
+  "bbox": [
+    -73.865413,
+    41.661905,
+    -73.865413,
+    41.661905
+],
   "geometry": {"coordinates":[-73.865413,41.661905],"type":"Point"}
 }

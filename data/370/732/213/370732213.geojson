@@ -2,13 +2,14 @@
   "id": 370732213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.010476,40.880618,-73.010476,40.880618",
     "geom:latitude":40.880618,
     "geom:longitude":-73.010476,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2045 Rte 112",
     "sg:city":"Coram",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"3876a1e06179fc17ec6f8a243c180d6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":370732213
         }
     ],
     "wof:id":370732213,
-    "wof:lastmodified":1449032584,
+    "wof:lastmodified":1454128347,
     "wof:name":"Suffolk County Water Authority",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.010476,40.880618,-73.010476,40.880618],
+  "bbox": [
+    -73.010476,
+    40.880618,
+    -73.010476,
+    40.880618
+],
   "geometry": {"coordinates":[-73.010476,40.880618],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303073213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.07575,40.764013,-73.07575,40.764013",
     "geom:latitude":40.764013,
     "geom:longitude":-73.07575,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"66 Loop Dr",
     "sg:city":"Sayville",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"4e28fda70848801ba8054fd4f5e25908",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":303073213
         }
     ],
     "wof:id":303073213,
-    "wof:lastmodified":1448998454,
+    "wof:lastmodified":1454123103,
     "wof:name":"Inner Light Yoga Ctr",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "yoga"
     ]
 },
-  "bbox": [-73.07575,40.764013,-73.07575,40.764013],
+  "bbox": [
+    -73.07575,
+    40.764013,
+    -73.07575,
+    40.764013
+],
   "geometry": {"coordinates":[-73.07575,40.764013],"type":"Point"}
 }

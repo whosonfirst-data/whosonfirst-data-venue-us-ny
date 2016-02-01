@@ -2,13 +2,14 @@
   "id": 370641769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.052061,41.159912,-74.052061,41.159912",
     "geom:latitude":41.159912,
     "geom:longitude":-74.052061,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"36 Sandy Brook Dr",
     "sg:city":"Spring Valley",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529791,
+        102191575,
+        404523097,
         85633793,
         85978543,
-        102082385
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"a6e6e759f1000ff65537d1dc2d2df61d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523097,
             "locality_id":85978543,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529791,
             "region_id":85688543,
             "venue_id":370641769
         }
     ],
     "wof:id":370641769,
-    "wof:lastmodified":1449031669,
+    "wof:lastmodified":1454128073,
     "wof:name":"Private",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529791,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-74.052061,41.159912,-74.052061,41.159912],
-  "geometry": {"coordinates":[-74.052061,41.159912],"type":"Point"}
+  "bbox": [
+    -74.052061,
+    41.159912,
+    -74.052061,
+    41.159912
+],
+  "geometry": {"coordinates":[-74.05206099999999,41.159912],"type":"Point"}
 }

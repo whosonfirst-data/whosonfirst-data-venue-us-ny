@@ -2,13 +2,14 @@
   "id": 337403671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.8461,40.785,-73.8461,40.785",
     "geom:latitude":40.785,
     "geom:longitude":-73.8461,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12115 14th Rd",
     "sg:city":"College Point",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85811813,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85811813
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"fd6e35c5b3c7be0427fb45ef73542282",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85811813,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":337403671,
-    "wof:lastmodified":1449027630,
+    "wof:lastmodified":1454127141,
     "wof:name":"College Point Wine & Liquor Store",
     "wof:parent_id":85811813,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "wine"
     ]
 },
-  "bbox": [-73.8461,40.785,-73.8461,40.785],
-  "geometry": {"coordinates":[-73.8461,40.785],"type":"Point"}
+  "bbox": [
+    -73.8461,
+    40.785,
+    -73.8461,
+    40.785
+],
+  "geometry": {"coordinates":[-73.84610000000001,40.785],"type":"Point"}
 }

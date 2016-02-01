@@ -2,13 +2,14 @@
   "id": 370576045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.515923,41.956848,-73.515923,41.956848",
     "geom:latitude":41.956848,
     "geom:longitude":-73.515923,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5980 N Elm Ave",
     "sg:city":"Millerton",
     "sg:classifiers":[
@@ -45,10 +46,13 @@
     "sg:website":"http://www.stihlusa.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85850463,
+        102191575,
+        404522299,
         85633793,
+        85977839,
         102082363,
-        85850463
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +62,18 @@
     "wof:geomhash":"e2806b6a46972f7f597381713143e012",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
-            "locality_id":-1,
+            "localadmin_id":404522299,
+            "locality_id":85977839,
             "neighbourhood_id":85850463,
             "region_id":85688543,
             "venue_id":370576045
         }
     ],
     "wof:id":370576045,
-    "wof:lastmodified":1449031703,
+    "wof:lastmodified":1454128082,
     "wof:name":"Millerton Agway Co-op Inc",
     "wof:parent_id":85850463,
     "wof:placetype":"venue",
@@ -85,6 +90,11 @@
         "saw"
     ]
 },
-  "bbox": [-73.515923,41.956848,-73.515923,41.956848],
+  "bbox": [
+    -73.515923,
+    41.956848,
+    -73.515923,
+    41.956848
+],
   "geometry": {"coordinates":[-73.515923,41.956848],"type":"Point"}
 }

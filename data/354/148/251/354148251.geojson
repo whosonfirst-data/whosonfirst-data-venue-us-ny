@@ -2,13 +2,14 @@
   "id": 354148251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.293297,40.829201,-73.293297,40.829201",
     "geom:latitude":40.829201,
     "geom:longitude":-73.293297,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"285 Commack Rd Ste 10",
     "sg:city":"Commack",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530047,
+        102191575,
+        404522515,
         85633793,
-        85979805,
-        102082395
+        85979779,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"bbe187c9916669c4ab9ef7a5854984c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979805,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522515,
+            "locality_id":85979779,
+            "neighbourhood_id":420530047,
             "region_id":85688543,
             "venue_id":354148251
         }
     ],
     "wof:id":354148251,
-    "wof:lastmodified":1449067380,
+    "wof:lastmodified":1454131218,
     "wof:name":"Olson Gary Dr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530047,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.293297,40.829201,-73.293297,40.829201],
+  "bbox": [
+    -73.293297,
+    40.829201,
+    -73.293297,
+    40.829201
+],
   "geometry": {"coordinates":[-73.293297,40.829201],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303724623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.693323,42.559527,-77.693323,42.559527",
     "geom:latitude":42.559527,
     "geom:longitude":-77.693323,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 Chestnut Ave",
     "sg:city":"Dansville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85813231,
+        102191575,
+        404521993,
         85633793,
-        85979605,
+        85978299,
         102082381,
-        85813231
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"0e513169f5c91f49088282552b7e5cbe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082381,
-            "locality_id":85979605,
+            "localadmin_id":404521993,
+            "locality_id":85978299,
             "neighbourhood_id":85813231,
             "region_id":85688543,
             "venue_id":303724623
         }
     ],
     "wof:id":303724623,
-    "wof:lastmodified":1449000516,
+    "wof:lastmodified":1454123711,
     "wof:name":"United Methodist Church",
     "wof:parent_id":85813231,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-77.693323,42.559527,-77.693323,42.559527],
-  "geometry": {"coordinates":[-77.693323,42.559527],"type":"Point"}
+  "bbox": [
+    -77.693323,
+    42.559527,
+    -77.693323,
+    42.559527
+],
+  "geometry": {"coordinates":[-77.69332300000001,42.559527],"type":"Point"}
 }

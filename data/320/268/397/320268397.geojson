@@ -2,13 +2,14 @@
   "id": 320268397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.852836,43.044056,-74.852836,43.044056",
     "geom:latitude":43.044056,
     "geom:longitude":-74.852836,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"763 E Main St",
     "sg:city":"Little Falls",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528839,
+        102191575,
+        404521885,
         85633793,
         85977757,
-        102081877
+        102081877,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"dad9865ea199de2d19acb7702d469c11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081877,
+            "localadmin_id":404521885,
             "locality_id":85977757,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528839,
             "region_id":85688543,
             "venue_id":320268397
         }
     ],
     "wof:id":320268397,
-    "wof:lastmodified":1449013381,
+    "wof:lastmodified":1454125108,
     "wof:name":"Holy Family Parish",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528839,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-74.852836,43.044056,-74.852836,43.044056],
+  "bbox": [
+    -74.852836,
+    43.044056,
+    -74.852836,
+    43.044056
+],
   "geometry": {"coordinates":[-74.852836,43.044056],"type":"Point"}
 }

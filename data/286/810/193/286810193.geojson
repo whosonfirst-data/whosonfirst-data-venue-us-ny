@@ -2,13 +2,14 @@
   "id": 286810193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.366129,42.590697,-76.366129,42.590697",
     "geom:latitude":42.590697,
     "geom:longitude":-76.366129,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"102 E Cortland St",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530161,
+        102191575,
+        404523229,
         85633793,
         85978781,
-        102082355
+        102082355,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"e8de10e39426d8449834d73201bc77c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082355,
+            "localadmin_id":404523229,
             "locality_id":85978781,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530161,
             "region_id":85688543,
             "venue_id":286810193
         }
     ],
     "wof:id":286810193,
-    "wof:lastmodified":1449016046,
+    "wof:lastmodified":1454125549,
     "wof:name":"Groton Hotel & Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530161,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.366129,42.590697,-76.366129,42.590697],
+  "bbox": [
+    -76.366129,
+    42.590697,
+    -76.366129,
+    42.590697
+],
   "geometry": {"coordinates":[-76.366129,42.590697],"type":"Point"}
 }

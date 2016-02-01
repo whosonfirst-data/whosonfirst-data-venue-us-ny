@@ -2,13 +2,14 @@
   "id": 370367147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.191293,42.936856,-74.191293,42.936856",
     "geom:latitude":42.936856,
     "geom:longitude":-74.191293,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Church St",
     "sg:city":"Amsterdam",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85849399,
+        102191575,
+        404522661,
         85633793,
         85978245,
         102082985,
-        85849399
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a7858b6a2f9aa7c01855aca3109b42cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082985,
+            "localadmin_id":404522661,
             "locality_id":85978245,
             "neighbourhood_id":85849399,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370367147,
-    "wof:lastmodified":1449031074,
+    "wof:lastmodified":1454127900,
     "wof:name":"National Rural Letter Carrier",
     "wof:parent_id":85849399,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "benefit"
     ]
 },
-  "bbox": [-74.191293,42.936856,-74.191293,42.936856],
+  "bbox": [
+    -74.191293,
+    42.936856,
+    -74.191293,
+    42.936856
+],
   "geometry": {"coordinates":[-74.191293,42.936856],"type":"Point"}
 }

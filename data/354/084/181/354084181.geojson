@@ -2,13 +2,14 @@
   "id": 354084181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.828947,40.852114,-73.828947,40.852114",
     "geom:latitude":40.852114,
     "geom:longitude":-73.828947,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3239 Westchester Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865663,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865663
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"2e6f539057ae8b65298eed296cfe7cfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865663,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":354084181,
-    "wof:lastmodified":1449066122,
+    "wof:lastmodified":1454130829,
     "wof:name":"North Bronx Paint & Hardware",
     "wof:parent_id":85865663,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "paint"
     ]
 },
-  "bbox": [-73.828947,40.852114,-73.828947,40.852114],
+  "bbox": [
+    -73.828947,
+    40.852114,
+    -73.828947,
+    40.852114
+],
   "geometry": {"coordinates":[-73.828947,40.852114],"type":"Point"}
 }

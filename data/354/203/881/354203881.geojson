@@ -2,13 +2,14 @@
   "id": 354203881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.01246,40.838647,-73.01246,40.838647",
     "geom:latitude":40.838647,
     "geom:longitude":-73.01246,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"166 Granny Rd",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -43,11 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +60,18 @@
     "wof:geomhash":"2fbfd4cf1e905e82223be2d41b7c0d1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354203881
         }
     ],
     "wof:id":354203881,
-    "wof:lastmodified":1449066669,
+    "wof:lastmodified":1454130996,
     "wof:name":"Pediatric Professional",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -83,6 +87,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.01246,40.838647,-73.01246,40.838647],
+  "bbox": [
+    -73.01246,
+    40.838647,
+    -73.01246,
+    40.838647
+],
   "geometry": {"coordinates":[-73.01246,40.838647],"type":"Point"}
 }

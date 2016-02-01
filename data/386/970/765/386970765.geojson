@@ -2,13 +2,14 @@
   "id": 386970765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.610215,43.156259,-77.610215,43.156259",
     "geom:latitude":43.156259,
     "geom:longitude":-77.610215,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"123 Main St E",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.rrcc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880395,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85880395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"f3066cf0d1663be16bee1367205e133d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85880395,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":386970765,
-    "wof:lastmodified":1449028970,
+    "wof:lastmodified":1454127282,
     "wof:name":"Rochester Riverside Convention",
     "wof:parent_id":85880395,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "eating"
     ]
 },
-  "bbox": [-77.610215,43.156259,-77.610215,43.156259],
+  "bbox": [
+    -77.610215,
+    43.156259,
+    -77.610215,
+    43.156259
+],
   "geometry": {"coordinates":[-77.610215,43.156259],"type":"Point"}
 }

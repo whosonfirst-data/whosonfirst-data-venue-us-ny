@@ -2,13 +2,14 @@
   "id": 353520525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.908969,40.703405,-73.908969,40.703405",
     "geom:latitude":40.703405,
     "geom:longitude":-73.908969,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"660 Seneca Avenue",
     "sg:city":"Ridgewood",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"jasienowskistudios.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844581,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844581
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"4cd65ab09c4cad58c73e1cb37a4cc143",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844581,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":353520525,
-    "wof:lastmodified":1449019097,
+    "wof:lastmodified":1454126196,
     "wof:name":"Jasienowski Studio",
     "wof:parent_id":85844581,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "store"
     ]
 },
-  "bbox": [-73.908969,40.703405,-73.908969,40.703405],
+  "bbox": [
+    -73.908969,
+    40.703405,
+    -73.908969,
+    40.703405
+],
   "geometry": {"coordinates":[-73.908969,40.703405],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286623635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.731579,40.777743,-73.731579,40.777743",
     "geom:latitude":40.777743,
     "geom:longitude":-73.731579,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"390 Great Neck Rd",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85830971,
+        102191575,
+        404522729,
         85633793,
-        85977539,
-        102082377,
-        85830971
+        85977727,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"da4a938c99b8cc220c3dce35b53837a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404522729,
+            "locality_id":85977727,
             "neighbourhood_id":85830971,
             "region_id":85688543,
             "venue_id":286623635
         }
     ],
     "wof:id":286623635,
-    "wof:lastmodified":1449017251,
+    "wof:lastmodified":1454125760,
     "wof:name":"Great Neck Auto Ctr",
     "wof:parent_id":85830971,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "automobile"
     ]
 },
-  "bbox": [-73.731579,40.777743,-73.731579,40.777743],
+  "bbox": [
+    -73.731579,
+    40.777743,
+    -73.731579,
+    40.777743
+],
   "geometry": {"coordinates":[-73.731579,40.777743],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353746947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.91764,41.290737,-73.91764,41.290737",
     "geom:latitude":41.290737,
     "geom:longitude":-73.91764,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1045 Park St",
     "sg:city":"Peekskill",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892977,
+        102191575,
+        404523381,
         85633793,
         85978715,
         102082373,
-        85892977
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"0372c221eca56fddefd19f4f0aedf0a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523381,
             "locality_id":85978715,
             "neighbourhood_id":85892977,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":353746947,
-    "wof:lastmodified":1449018236,
+    "wof:lastmodified":1454125943,
     "wof:name":"US Army Recruiting",
     "wof:parent_id":85892977,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "recruiting"
     ]
 },
-  "bbox": [-73.91764,41.290737,-73.91764,41.290737],
-  "geometry": {"coordinates":[-73.91764,41.290737],"type":"Point"}
+  "bbox": [
+    -73.91764,
+    41.290737,
+    -73.91764,
+    41.290737
+],
+  "geometry": {"coordinates":[-73.91764000000001,41.290737],"type":"Point"}
 }

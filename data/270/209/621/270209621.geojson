@@ -2,13 +2,14 @@
   "id": 270209621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.994166,40.749123,-73.994166,40.749123",
     "geom:latitude":40.749123,
     "geom:longitude":-73.994166,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"251 W 30 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810589,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810589
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"8302e1d97e3598ef7ac41924ee72bf5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810589,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":270209621,
-    "wof:lastmodified":1449010830,
+    "wof:lastmodified":1454124694,
     "wof:name":"Down Time",
     "wof:parent_id":85810589,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "drinking"
     ]
 },
-  "bbox": [-73.994166,40.749123,-73.994166,40.749123],
-  "geometry": {"coordinates":[-73.994166,40.749123],"type":"Point"}
+  "bbox": [
+    -73.994166,
+    40.749123,
+    -73.994166,
+    40.749123
+],
+  "geometry": {"coordinates":[-73.99416600000001,40.749123],"type":"Point"}
 }

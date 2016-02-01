@@ -2,13 +2,14 @@
   "id": 370170737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.249908,40.853771,-73.249908,40.853771",
     "geom:latitude":40.853771,
     "geom:longitude":-73.249908,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Charter Ln",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530033,
+        102191575,
+        404522669,
         85633793,
         85979805,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"452cc8828e86f7c6c59fdc98bf6f284c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979805,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530033,
             "region_id":85688543,
             "venue_id":370170737
         }
     ],
     "wof:id":370170737,
-    "wof:lastmodified":1449029405,
+    "wof:lastmodified":1454127411,
     "wof:name":"Labella Products",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530033,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.249908,40.853771,-73.249908,40.853771],
+  "bbox": [
+    -73.249908,
+    40.853771,
+    -73.249908,
+    40.853771
+],
   "geometry": {"coordinates":[-73.249908,40.853771],"type":"Point"}
 }

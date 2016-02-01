@@ -2,13 +2,14 @@
   "id": 370278023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.013478,40.640973,-74.013478,40.640973",
     "geom:latitude":40.640973,
     "geom:longitude":-74.013478,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"579 57th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851575,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85851575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"36962dccb915b362a04da148e040dd41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85851575,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370278023,
-    "wof:lastmodified":1449030939,
+    "wof:lastmodified":1454127859,
     "wof:name":"Lincoln Home Loan & Realty",
     "wof:parent_id":85851575,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "broker"
     ]
 },
-  "bbox": [-74.013478,40.640973,-74.013478,40.640973],
-  "geometry": {"coordinates":[-74.013478,40.640973],"type":"Point"}
+  "bbox": [
+    -74.013478,
+    40.640973,
+    -74.013478,
+    40.640973
+],
+  "geometry": {"coordinates":[-74.01347800000001,40.640973],"type":"Point"}
 }

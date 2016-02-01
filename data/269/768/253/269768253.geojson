@@ -2,13 +2,14 @@
   "id": 269768253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.841952,40.956484,-73.841952,40.956484",
     "geom:latitude":40.956484,
     "geom:longitude":-73.841952,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1761 Central Park Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530419,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"8f3196a54038c7b0a0f97b377f272a22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530419,
             "region_id":85688543,
             "venue_id":269768253
         }
     ],
     "wof:id":269768253,
-    "wof:lastmodified":1449037074,
+    "wof:lastmodified":1454128599,
     "wof:name":"Liquor Fellers Liquor Town",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530419,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-73.841952,40.956484,-73.841952,40.956484],
-  "geometry": {"coordinates":[-73.841952,40.956484],"type":"Point"}
+  "bbox": [
+    -73.841952,
+    40.956484,
+    -73.841952,
+    40.956484
+],
+  "geometry": {"coordinates":[-73.84195200000001,40.956484],"type":"Point"}
 }

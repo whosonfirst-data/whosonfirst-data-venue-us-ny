@@ -2,13 +2,14 @@
   "id": 186000403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.950681,40.601794,-73.950681,40.601794",
     "geom:latitude":40.601794,
     "geom:longitude":-73.950681,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2165 E 21st Street",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848121,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85848121
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"78d55bdcd92007f1032ce49182ac8f47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85848121,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":186000403,
-    "wof:lastmodified":1449050843,
+    "wof:lastmodified":1454129304,
     "wof:name":"Worldwide Surgical Equipment",
     "wof:parent_id":85848121,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "care"
     ]
 },
-  "bbox": [-73.950681,40.601794,-73.950681,40.601794],
+  "bbox": [
+    -73.950681,
+    40.601794,
+    -73.950681,
+    40.601794
+],
   "geometry": {"coordinates":[-73.950681,40.601794],"type":"Point"}
 }

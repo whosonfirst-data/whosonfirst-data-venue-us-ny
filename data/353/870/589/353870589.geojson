@@ -2,13 +2,14 @@
   "id": 353870589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.738652,40.632561,-73.738652,40.632561",
     "geom:latitude":40.632561,
     "geom:longitude":-73.738652,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"636 Rockaway Tpke",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -24,12 +25,15 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865647,
-        85845957
+        102082361,
+        85688543,
+        85865647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,33 +43,42 @@
     "wof:geomhash":"61b9485057c3c88da12f3acd5ccb1523",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85865647,
+            "neighbourhood_id":85823673,
             "region_id":85688543,
             "venue_id":353870589
         },
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85845957,
+            "neighbourhood_id":85865647,
             "region_id":85688543,
             "venue_id":353870589
         }
     ],
     "wof:id":353870589,
-    "wof:lastmodified":1449018932,
+    "wof:lastmodified":1454126146,
     "wof:name":"Worldwide Beepers & Cellular PhoneS",
-    "wof:parent_id":-1,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.738652,40.632561,-73.738652,40.632561],
+  "bbox": [
+    -73.738652,
+    40.632561,
+    -73.738652,
+    40.632561
+],
   "geometry": {"coordinates":[-73.738652,40.632561],"type":"Point"}
 }

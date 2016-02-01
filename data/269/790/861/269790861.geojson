@@ -2,13 +2,14 @@
   "id": 269790861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.836209,40.865198,-73.836209,40.865198",
     "geom:latitude":40.865198,
     "geom:longitude":-73.836209,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1738 E Gun Hill Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825625,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85825625
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ed87c8e16578c065f6494553e4f4f9a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85825625,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":269790861,
-    "wof:lastmodified":1449038265,
+    "wof:lastmodified":1454128737,
     "wof:name":"Kuldip Kumar",
     "wof:parent_id":85825625,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "oil"
     ]
 },
-  "bbox": [-73.836209,40.865198,-73.836209,40.865198],
+  "bbox": [
+    -73.836209,
+    40.865198,
+    -73.836209,
+    40.865198
+],
   "geometry": {"coordinates":[-73.836209,40.865198],"type":"Point"}
 }

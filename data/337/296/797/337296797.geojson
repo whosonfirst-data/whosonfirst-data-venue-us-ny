@@ -2,13 +2,14 @@
   "id": 337296797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.933408,40.61903,-73.933408,40.61903",
     "geom:latitude":40.61903,
     "geom:longitude":-73.933408,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2076 Flatbush Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     "sg:website":"www.marineplumbingandheating.info",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558701,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"d4630c3fe8c10622f0ff25a701f5c755",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558701,
             "region_id":85688543,
             "venue_id":337296797
         }
     ],
     "wof:id":337296797,
-    "wof:lastmodified":1449027596,
+    "wof:lastmodified":1454127126,
     "wof:name":"Marine Plumbing and Heating",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +75,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-73.933408,40.61903,-73.933408,40.61903],
+  "bbox": [
+    -73.933408,
+    40.61903,
+    -73.933408,
+    40.61903
+],
   "geometry": {"coordinates":[-73.933408,40.61903],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303822301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.887277,40.909609,-73.887277,40.909609",
     "geom:latitude":40.909609,
     "geom:longitude":-73.887277,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"330 McLean Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85830571,
+        102191575,
+        404523397,
         85633793,
-        85977539,
-        102083063,
-        85830571
+        85978759,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"8e4b7c4e4404fc2caaed07b55db0d3d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
-            "locality_id":85977539,
+            "county_id":102082373,
+            "localadmin_id":404523397,
+            "locality_id":85978759,
             "neighbourhood_id":85830571,
             "region_id":85688543,
             "venue_id":303822301
         }
     ],
     "wof:id":303822301,
-    "wof:lastmodified":1449000491,
+    "wof:lastmodified":1454123704,
     "wof:name":"AAA Farm Market",
     "wof:parent_id":85830571,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "market"
     ]
 },
-  "bbox": [-73.887277,40.909609,-73.887277,40.909609],
+  "bbox": [
+    -73.887277,
+    40.909609,
+    -73.887277,
+    40.909609
+],
   "geometry": {"coordinates":[-73.887277,40.909609],"type":"Point"}
 }

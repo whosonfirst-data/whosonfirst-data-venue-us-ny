@@ -2,13 +2,14 @@
   "id": 370154347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.034859,40.863674,-73.034859,40.863674",
     "geom:latitude":40.863674,
     "geom:longitude":-73.034859,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"29 Blue Point Rd",
     "sg:city":"Selden",
     "sg:classifiers":[
@@ -60,11 +61,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,17 +77,18 @@
     "wof:geomhash":"a14750a31f174a70af5341299b329b45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":370154347
         }
     ],
     "wof:id":370154347,
-    "wof:lastmodified":1449032523,
+    "wof:lastmodified":1454128329,
     "wof:name":"Metro National Plumbing & Htg",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -107,6 +111,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-73.034859,40.863674,-73.034859,40.863674],
+  "bbox": [
+    -73.034859,
+    40.863674,
+    -73.034859,
+    40.863674
+],
   "geometry": {"coordinates":[-73.034859,40.863674],"type":"Point"}
 }

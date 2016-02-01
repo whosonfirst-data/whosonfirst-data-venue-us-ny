@@ -2,13 +2,14 @@
   "id": 270361867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.124619,41.128144,-74.124619,41.128144",
     "geom:latitude":41.128144,
     "geom:longitude":-74.124619,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Mayer Dr",
     "sg:city":"Suffern",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529777,
+        102191575,
+        404523097,
         85633793,
         85978545,
-        102082385
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"c935caf4bc9d5a8ae1ab4b969c51e5f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523097,
             "locality_id":85978545,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529777,
             "region_id":85688543,
             "venue_id":270361867
         }
     ],
     "wof:id":270361867,
-    "wof:lastmodified":1449010438,
+    "wof:lastmodified":1454124635,
     "wof:name":"Blue Hill Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529777,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "corporate"
     ]
 },
-  "bbox": [-74.124619,41.128144,-74.124619,41.128144],
+  "bbox": [
+    -74.124619,
+    41.128144,
+    -74.124619,
+    41.128144
+],
   "geometry": {"coordinates":[-74.124619,41.128144],"type":"Point"}
 }

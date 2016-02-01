@@ -2,13 +2,14 @@
   "id": 269743297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.056432,43.063334,-76.056432,43.063334",
     "geom:latitude":43.063334,
     "geom:longitude":-76.056432,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6000 Galster Rd",
     "sg:city":"East Syracuse",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85881263,
+        102191575,
+        404521501,
         85633793,
+        85977799,
+        102082351,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"f8b3d79cffea0ba2904b611403373b9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "localadmin_id":404521501,
+            "locality_id":85977799,
+            "neighbourhood_id":85881263,
             "region_id":85688543,
             "venue_id":269743297
         }
     ],
     "wof:id":269743297,
-    "wof:lastmodified":1449038943,
+    "wof:lastmodified":1454128812,
     "wof:name":"E F Thresh Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881263,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-76.056432,43.063334,-76.056432,43.063334],
+  "bbox": [
+    -76.056432,
+    43.063334,
+    -76.056432,
+    43.063334
+],
   "geometry": {"coordinates":[-76.056432,43.063334],"type":"Point"}
 }

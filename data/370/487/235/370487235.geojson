@@ -2,13 +2,14 @@
   "id": 370487235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.87059,40.960049,-73.87059,40.960049",
     "geom:latitude":40.960049,
     "geom:longitude":-73.87059,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"711 Saw Mill River Rd",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836493,
+        102191575,
+        404523397,
         85633793,
         85978759,
         102082373,
-        85836493
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"dd897c2face48b120624371c2a5e4bf0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
             "neighbourhood_id":85836493,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":370487235,
-    "wof:lastmodified":1449030201,
+    "wof:lastmodified":1454127642,
     "wof:name":"Central Bus Svc Tours",
     "wof:parent_id":85836493,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "rental"
     ]
 },
-  "bbox": [-73.87059,40.960049,-73.87059,40.960049],
-  "geometry": {"coordinates":[-73.87059,40.960049],"type":"Point"}
+  "bbox": [
+    -73.87059,
+    40.960049,
+    -73.87059,
+    40.960049
+],
+  "geometry": {"coordinates":[-73.87059000000001,40.960049],"type":"Point"}
 }

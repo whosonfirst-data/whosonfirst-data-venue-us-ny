@@ -2,13 +2,14 @@
   "id": 353622219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.840302,40.695499,-73.840302,40.695499",
     "geom:latitude":40.695499,
     "geom:longitude":-73.840302,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10705 Jamaica Ave",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844441,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844441
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"d2a3e485618373c00cf9437414e41f4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844441,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353622219,
-    "wof:lastmodified":1449020364,
+    "wof:lastmodified":1454126559,
     "wof:name":"Charter Electric Inc",
     "wof:parent_id":85844441,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "electrician"
     ]
 },
-  "bbox": [-73.840302,40.695499,-73.840302,40.695499],
-  "geometry": {"coordinates":[-73.840302,40.695499],"type":"Point"}
+  "bbox": [
+    -73.840302,
+    40.695499,
+    -73.840302,
+    40.695499
+],
+  "geometry": {"coordinates":[-73.84030199999999,40.695499],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371129181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.935668,40.801237,-73.935668,40.801237",
     "geom:latitude":40.801237,
     "geom:longitude":-73.935668,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"221 E 122nd St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865689,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865689
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"cf8571730a73dc0f4c0f8e3e5f249979",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865689,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":371129181,
-    "wof:lastmodified":1449049888,
+    "wof:lastmodified":1454129237,
     "wof:name":"Carmine Associates",
     "wof:parent_id":85865689,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.935668,40.801237,-73.935668,40.801237],
-  "geometry": {"coordinates":[-73.935668,40.801237],"type":"Point"}
+  "bbox": [
+    -73.935668,
+    40.801237,
+    -73.935668,
+    40.801237
+],
+  "geometry": {"coordinates":[-73.93566800000001,40.801237],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387343469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.862173,41.038685,-73.862173,41.038685",
     "geom:latitude":41.038685,
     "geom:longitude":-73.862173,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"133 Fieldpoint Dr",
     "sg:city":"Irvington",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85859125,
+        102191575,
+        404523359,
         85633793,
+        85978733,
         102082373,
-        85859125
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"8140874912e705abd82fe087712d5afa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":-1,
+            "localadmin_id":404523359,
+            "locality_id":85978733,
             "neighbourhood_id":85859125,
             "region_id":85688543,
             "venue_id":387343469
         }
     ],
     "wof:id":387343469,
-    "wof:lastmodified":1449058812,
+    "wof:lastmodified":1454130011,
     "wof:name":"Apex Consulting Inc",
     "wof:parent_id":85859125,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-73.862173,41.038685,-73.862173,41.038685],
+  "bbox": [
+    -73.862173,
+    41.038685,
+    -73.862173,
+    41.038685
+],
   "geometry": {"coordinates":[-73.862173,41.038685],"type":"Point"}
 }

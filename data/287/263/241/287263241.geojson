@@ -2,13 +2,14 @@
   "id": 287263241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.563143,40.85144,-72.563143,40.85144",
     "geom:latitude":40.85144,
     "geom:longitude":-72.563143,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9 Beach St",
     "sg:city":"East Quogue",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530041,
+        102191575,
+        404522671,
         85633793,
         85979791,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"b9599491b441a28eb0c104ed433f1955",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522671,
             "locality_id":85979791,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530041,
             "region_id":85688543,
             "venue_id":287263241
         }
     ],
     "wof:id":287263241,
-    "wof:lastmodified":1449001565,
+    "wof:lastmodified":1454123964,
     "wof:name":"Daddy Long Legs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530041,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "music"
     ]
 },
-  "bbox": [-72.563143,40.85144,-72.563143,40.85144],
+  "bbox": [
+    -72.563143,
+    40.85144,
+    -72.563143,
+    40.85144
+],
   "geometry": {"coordinates":[-72.563143,40.85144],"type":"Point"}
 }

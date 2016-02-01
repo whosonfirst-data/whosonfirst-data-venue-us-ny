@@ -2,13 +2,14 @@
   "id": 270482915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.840893,43.015468,-78.840893,43.015468",
     "geom:latitude":43.015468,
     "geom:longitude":-78.840893,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 Paradise Ln",
     "sg:city":"Tonawanda",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85822783,
+        102191575,
+        404522265,
         85633793,
         85979419,
         102082387,
-        85822783
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"2ac1ce4254e550f01123d5e49d059ebb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522265,
             "locality_id":85979419,
             "neighbourhood_id":85822783,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":270482915,
-    "wof:lastmodified":1449009520,
+    "wof:lastmodified":1454124496,
     "wof:name":"Tonawanda Florist",
     "wof:parent_id":85822783,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.840893,43.015468,-78.840893,43.015468],
-  "geometry": {"coordinates":[-78.840893,43.015468],"type":"Point"}
+  "bbox": [
+    -78.840893,
+    43.015468,
+    -78.840893,
+    43.015468
+],
+  "geometry": {"coordinates":[-78.84089299999999,43.015468],"type":"Point"}
 }

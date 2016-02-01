@@ -2,13 +2,14 @@
   "id": 270401811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.813559,40.818884,-73.813559,40.818884",
     "geom:latitude":40.818884,
     "geom:longitude":-73.813559,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"268 Throgs Neck Blvd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852219,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85852219
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ccc8a4a0c4fde799dc99ce935fbfb371",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85852219,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":270401811,
-    "wof:lastmodified":1449010716,
+    "wof:lastmodified":1454124675,
     "wof:name":"Triptych Press Inc",
     "wof:parent_id":85852219,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "publishing"
     ]
 },
-  "bbox": [-73.813559,40.818884,-73.813559,40.818884],
+  "bbox": [
+    -73.813559,
+    40.818884,
+    -73.813559,
+    40.818884
+],
   "geometry": {"coordinates":[-73.813559,40.818884],"type":"Point"}
 }

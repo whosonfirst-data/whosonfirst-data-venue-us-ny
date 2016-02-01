@@ -2,13 +2,14 @@
   "id": 303401147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.989067,41.150237,-73.989067,41.150237",
     "geom:latitude":41.150237,
     "geom:longitude":-73.989067,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"64 N Main St",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.davidsbagels.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85808111,
+        102191575,
+        404523091,
         85633793,
         85979971,
         102082385,
-        85808111
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"041e5f21c0b75d59a24c4d4d45ab3f16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523091,
             "locality_id":85979971,
             "neighbourhood_id":85808111,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":303401147,
-    "wof:lastmodified":1449000201,
+    "wof:lastmodified":1454123623,
     "wof:name":"David's Bagels",
     "wof:parent_id":85808111,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "cafe"
     ]
 },
-  "bbox": [-73.989067,41.150237,-73.989067,41.150237],
-  "geometry": {"coordinates":[-73.989067,41.150237],"type":"Point"}
+  "bbox": [
+    -73.989067,
+    41.150237,
+    -73.989067,
+    41.150237
+],
+  "geometry": {"coordinates":[-73.98906700000001,41.150237],"type":"Point"}
 }

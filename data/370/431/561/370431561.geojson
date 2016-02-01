@@ -2,13 +2,14 @@
   "id": 370431561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.790365,40.976191,-73.790365,40.976191",
     "geom:latitude":40.976191,
     "geom:longitude":-73.790365,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Ivy Cir",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530387,
+        102191575,
+        404523375,
         85633793,
         85978749,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"a1cbc46388b74ebabb7170e6f658cf2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523375,
             "locality_id":85978749,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530387,
             "region_id":85688543,
             "venue_id":370431561
         }
     ],
     "wof:id":370431561,
-    "wof:lastmodified":1449029552,
+    "wof:lastmodified":1454127451,
     "wof:name":"Regional Reporting Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530387,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.790365,40.976191,-73.790365,40.976191],
-  "geometry": {"coordinates":[-73.790365,40.976191],"type":"Point"}
+  "bbox": [
+    -73.790365,
+    40.976191,
+    -73.790365,
+    40.976191
+],
+  "geometry": {"coordinates":[-73.79036499999999,40.976191],"type":"Point"}
 }

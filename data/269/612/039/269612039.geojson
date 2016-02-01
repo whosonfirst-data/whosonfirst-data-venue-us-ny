@@ -2,13 +2,14 @@
   "id": 269612039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.938098,40.720503,-73.938098,40.720503",
     "geom:latitude":40.720503,
     "geom:longitude":-73.938098,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"473 Morgan Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823059,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85823059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"4eea81021f0f0b8a68c6d3ef18b30e37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85823059,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":269612039,
-    "wof:lastmodified":1449037200,
+    "wof:lastmodified":1454128618,
     "wof:name":"Morgan Check Cashing Co",
     "wof:parent_id":85823059,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "check"
     ]
 },
-  "bbox": [-73.938098,40.720503,-73.938098,40.720503],
+  "bbox": [
+    -73.938098,
+    40.720503,
+    -73.938098,
+    40.720503
+],
   "geometry": {"coordinates":[-73.938098,40.720503],"type":"Point"}
 }

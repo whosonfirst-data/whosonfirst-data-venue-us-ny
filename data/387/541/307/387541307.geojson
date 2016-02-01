@@ -2,13 +2,14 @@
   "id": 387541307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.141067,40.610825,-74.141067,40.610825",
     "geom:latitude":40.610825,
     "geom:longitude":-74.141067,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"539 Woolley Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892919,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85892919
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"2d5aa8c7c33f57d8b36732aab4ff588c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892919,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387541307,
-    "wof:lastmodified":1449056527,
+    "wof:lastmodified":1454129604,
     "wof:name":"Lincoln Moving Corp",
     "wof:parent_id":85892919,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-74.141067,40.610825,-74.141067,40.610825],
-  "geometry": {"coordinates":[-74.141067,40.610825],"type":"Point"}
+  "bbox": [
+    -74.141067,
+    40.610825,
+    -74.141067,
+    40.610825
+],
+  "geometry": {"coordinates":[-74.14106700000001,40.610825],"type":"Point"}
 }

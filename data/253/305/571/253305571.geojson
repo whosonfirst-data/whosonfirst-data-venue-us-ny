@@ -2,13 +2,14 @@
   "id": 253305571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.482487,42.479105,-76.482487,42.479105",
     "geom:latitude":42.479105,
     "geom:longitude":-76.482487,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2309 N Triphammer Rd",
     "sg:city":"Ithaca",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85833289,
+        102191575,
+        404523235,
         85633793,
         85978777,
         102082355,
-        85833289
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"f1256b1ef8488cbd83e06ae68e4a5b08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082355,
+            "localadmin_id":404523235,
             "locality_id":85978777,
             "neighbourhood_id":85833289,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":253305571,
-    "wof:lastmodified":1449063270,
+    "wof:lastmodified":1454130318,
     "wof:name":"Real Deals",
     "wof:parent_id":85833289,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.482487,42.479105,-76.482487,42.479105],
-  "geometry": {"coordinates":[-76.482487,42.479105],"type":"Point"}
+  "bbox": [
+    -76.482487,
+    42.479105,
+    -76.482487,
+    42.479105
+],
+  "geometry": {"coordinates":[-76.48248700000001,42.479105],"type":"Point"}
 }

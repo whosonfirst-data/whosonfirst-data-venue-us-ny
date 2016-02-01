@@ -2,13 +2,14 @@
   "id": 387798677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.658014,40.683004,-73.658014,40.683004",
     "geom:latitude":40.683004,
     "geom:longitude":-73.658014,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"564 Emerson Dr",
     "sg:city":"West Hempstead",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829437,
+        102191575,
+        404521473,
         85633793,
-        85979129,
+        85979057,
         102082371,
-        85829437
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"43c548d1da43eb7a659a2a7442d3d899",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979129,
+            "localadmin_id":404521473,
+            "locality_id":85979057,
             "neighbourhood_id":85829437,
             "region_id":85688543,
             "venue_id":387798677
         }
     ],
     "wof:id":387798677,
-    "wof:lastmodified":1449056805,
+    "wof:lastmodified":1454129653,
     "wof:name":"Salon Magazine Svc",
     "wof:parent_id":85829437,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "agent"
     ]
 },
-  "bbox": [-73.658014,40.683004,-73.658014,40.683004],
-  "geometry": {"coordinates":[-73.658014,40.683004],"type":"Point"}
+  "bbox": [
+    -73.658014,
+    40.683004,
+    -73.658014,
+    40.683004
+],
+  "geometry": {"coordinates":[-73.65801399999999,40.683004],"type":"Point"}
 }

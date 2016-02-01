@@ -2,13 +2,14 @@
   "id": 270164483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.907594,40.835586,-73.907594,40.835586",
     "geom:latitude":40.835586,
     "geom:longitude":-73.907594,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1368 Webster Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892767,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85892767
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"5ac39b915c0eb18e4f3260b4ab3ce89b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892767,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":270164483,
-    "wof:lastmodified":1449008939,
+    "wof:lastmodified":1454124409,
     "wof:name":"Gilmore",
     "wof:parent_id":85892767,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.907594,40.835586,-73.907594,40.835586],
+  "bbox": [
+    -73.907594,
+    40.835586,
+    -73.907594,
+    40.835586
+],
   "geometry": {"coordinates":[-73.907594,40.835586],"type":"Point"}
 }

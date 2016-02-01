@@ -2,13 +2,14 @@
   "id": 371058025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.873655,42.885921,-78.873655,42.885921",
     "geom:latitude":42.885921,
     "geom:longitude":-78.873655,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"31 Lafayette Sq",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://www.hrblock.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867085,
+        102191575,
+        404522329,
         85633793,
         85978023,
         102082387,
-        85867085
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"6cf17509930dbfa1257f167190f705b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
             "neighbourhood_id":85867085,
             "region_id":85688543,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":371058025,
-    "wof:lastmodified":1449049183,
+    "wof:lastmodified":1454129070,
     "wof:name":"H&R Block",
     "wof:parent_id":85867085,
     "wof:placetype":"venue",
@@ -81,6 +85,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-78.873655,42.885921,-78.873655,42.885921],
+  "bbox": [
+    -78.873655,
+    42.885921,
+    -78.873655,
+    42.885921
+],
   "geometry": {"coordinates":[-78.873655,42.885921],"type":"Point"}
 }

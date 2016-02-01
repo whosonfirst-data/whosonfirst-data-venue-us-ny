@@ -2,13 +2,14 @@
   "id": 370816757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.700573,43.149051,-77.700573,43.149051",
     "geom:latitude":43.149051,
     "geom:longitude":-77.700573,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"75 Bermar Park",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.rochester.traderpub.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85821235,
+        102191575,
+        404522629,
         85633793,
         85979033,
         102081815,
-        85821235
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"a434b748a6328da7cce579f00a990c13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404522629,
             "locality_id":85979033,
             "neighbourhood_id":85821235,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":370816757,
-    "wof:lastmodified":1449031047,
+    "wof:lastmodified":1454127892,
     "wof:name":"Swap Sheet Auto Trader",
     "wof:parent_id":85821235,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "publication"
     ]
 },
-  "bbox": [-77.700573,43.149051,-77.700573,43.149051],
-  "geometry": {"coordinates":[-77.700573,43.149051],"type":"Point"}
+  "bbox": [
+    -77.700573,
+    43.149051,
+    -77.700573,
+    43.149051
+],
+  "geometry": {"coordinates":[-77.70057300000001,43.149051],"type":"Point"}
 }

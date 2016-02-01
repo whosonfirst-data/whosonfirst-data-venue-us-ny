@@ -2,13 +2,14 @@
   "id": 387701187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.004629,41.164846,-74.004629,41.164846",
     "geom:latitude":41.164846,
     "geom:longitude":-74.004629,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"180 Phillips Hill Rd",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529785,
+        102191575,
+        404523091,
         85633793,
         85979971,
-        102082385
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"ba3b9733afe92f34a3d94712e5d6be0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523091,
             "locality_id":85979971,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529785,
             "region_id":85688543,
             "venue_id":387701187
         }
     ],
     "wof:id":387701187,
-    "wof:lastmodified":1449059113,
+    "wof:lastmodified":1454130064,
     "wof:name":"New City Medical Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529785,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-74.004629,41.164846,-74.004629,41.164846],
-  "geometry": {"coordinates":[-74.004629,41.164846],"type":"Point"}
+  "bbox": [
+    -74.004629,
+    41.164846,
+    -74.004629,
+    41.164846
+],
+  "geometry": {"coordinates":[-74.00462899999999,41.164846],"type":"Point"}
 }

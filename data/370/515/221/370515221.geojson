@@ -2,13 +2,14 @@
   "id": 370515221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.377446,41.755539,-74.377446,41.755539",
     "geom:latitude":41.755539,
     "geom:longitude":-74.377446,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"216 Continental Rd",
     "sg:city":"Napanoch",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816913,
+        102191575,
+        404523275,
         85633793,
-        85978959,
+        85977503,
         102081775,
-        85816913
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"5662a59a06aa8322fdb48b27faf6e706",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
-            "locality_id":85978959,
+            "localadmin_id":404523275,
+            "locality_id":85977503,
             "neighbourhood_id":85816913,
             "region_id":85688543,
             "venue_id":370515221
         }
     ],
     "wof:id":370515221,
-    "wof:lastmodified":1449029876,
+    "wof:lastmodified":1454127545,
     "wof:name":"Ray Tartakoff Lcsw",
     "wof:parent_id":85816913,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "physical"
     ]
 },
-  "bbox": [-74.377446,41.755539,-74.377446,41.755539],
-  "geometry": {"coordinates":[-74.377446,41.755539],"type":"Point"}
+  "bbox": [
+    -74.377446,
+    41.755539,
+    -74.377446,
+    41.755539
+],
+  "geometry": {"coordinates":[-74.37744600000001,41.755539],"type":"Point"}
 }

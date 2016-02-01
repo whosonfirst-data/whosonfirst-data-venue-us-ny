@@ -2,13 +2,14 @@
   "id": 370452895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.47443,40.778558,-73.47443,40.778558",
     "geom:latitude":40.778558,
     "geom:longitude":-73.47443,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"109 Grace St",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"d2327b4519edf0d81740d47b5bfdd6a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":370452895
         }
     ],
     "wof:id":370452895,
-    "wof:lastmodified":1449029887,
+    "wof:lastmodified":1454127548,
     "wof:name":"Barry Siegel Tax Consultants",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "filing"
     ]
 },
-  "bbox": [-73.47443,40.778558,-73.47443,40.778558],
+  "bbox": [
+    -73.47443,
+    40.778558,
+    -73.47443,
+    40.778558
+],
   "geometry": {"coordinates":[-73.47443,40.778558],"type":"Point"}
 }

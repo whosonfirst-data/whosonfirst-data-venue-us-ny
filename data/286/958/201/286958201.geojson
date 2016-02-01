@@ -2,13 +2,14 @@
   "id": 286958201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.513229,41.948872,-73.513229,41.948872",
     "geom:latitude":41.948872,
     "geom:longitude":-73.513229,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5600 State Hwy 22",
     "sg:city":"Millerton",
     "sg:classifiers":[
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85850463,
+        102191575,
+        404522299,
         85633793,
+        85977839,
         102082363,
-        85850463
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +53,18 @@
     "wof:geomhash":"74af99984b68018f1a6026b277bf6eb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
-            "locality_id":-1,
+            "localadmin_id":404522299,
+            "locality_id":85977839,
             "neighbourhood_id":85850463,
             "region_id":85688543,
             "venue_id":286958201
         }
     ],
     "wof:id":286958201,
-    "wof:lastmodified":1449017484,
+    "wof:lastmodified":1454125806,
     "wof:name":"Millerton Nursery & Garden Sp",
     "wof:parent_id":85850463,
     "wof:placetype":"venue",
@@ -73,6 +78,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.513229,41.948872,-73.513229,41.948872],
+  "bbox": [
+    -73.513229,
+    41.948872,
+    -73.513229,
+    41.948872
+],
   "geometry": {"coordinates":[-73.513229,41.948872],"type":"Point"}
 }

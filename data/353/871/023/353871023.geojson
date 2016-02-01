@@ -2,13 +2,14 @@
   "id": 353871023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.016151,40.710619,-74.016151,40.710619",
     "geom:latitude":40.710619,
     "geom:longitude":-74.016151,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"365 S End Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85804741,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85804741
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"84beb4bce9b87aac9ffd45c7e67c9486",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85804741,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":353871023,
-    "wof:lastmodified":1449019092,
+    "wof:lastmodified":1454126195,
     "wof:name":"Art Vue Inc",
     "wof:parent_id":85804741,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "art"
     ]
 },
-  "bbox": [-74.016151,40.710619,-74.016151,40.710619],
-  "geometry": {"coordinates":[-74.016151,40.710619],"type":"Point"}
+  "bbox": [
+    -74.016151,
+    40.710619,
+    -74.016151,
+    40.710619
+],
+  "geometry": {"coordinates":[-74.01615099999999,40.710619],"type":"Point"}
 }

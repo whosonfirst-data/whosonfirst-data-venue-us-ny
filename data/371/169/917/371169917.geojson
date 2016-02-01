@@ -2,13 +2,14 @@
   "id": 371169917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.052201,41.448183,-74.052201,41.448183",
     "geom:latitude":41.448183,
     "geom:longitude":-74.052201,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 S Jacqueline St",
     "sg:city":"New Windsor",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85979525,
+        102083061,
+        85853333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +43,18 @@
     "wof:geomhash":"0b815057c3118448b2555bfd3f2d0dd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083061,
+            "locality_id":85979525,
+            "neighbourhood_id":85853333,
             "region_id":85688543,
             "venue_id":371169917
         }
     ],
     "wof:id":371169917,
-    "wof:lastmodified":1449049680,
+    "wof:lastmodified":1454129186,
     "wof:name":"Quality Homes By R Tedaldi Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853333,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +63,11 @@
         "builder"
     ]
 },
-  "bbox": [-74.052201,41.448183,-74.052201,41.448183],
+  "bbox": [
+    -74.052201,
+    41.448183,
+    -74.052201,
+    41.448183
+],
   "geometry": {"coordinates":[-74.052201,41.448183],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387220091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.797053,40.899646,-73.797053,40.899646",
     "geom:latitude":40.899646,
     "geom:longitude":-73.797053,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"989 Main St",
     "sg:city":"New Rochelle",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85885399,
+        102191575,
+        404523383,
         85633793,
         85978709,
         102082373,
-        85885399
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"7d80977acfb88c481f19fbac3ab7cc52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523383,
             "locality_id":85978709,
             "neighbourhood_id":85885399,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387220091,
-    "wof:lastmodified":1449059779,
+    "wof:lastmodified":1454130185,
     "wof:name":"Remis Place",
     "wof:parent_id":85885399,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.797053,40.899646,-73.797053,40.899646],
-  "geometry": {"coordinates":[-73.797053,40.899646],"type":"Point"}
+  "bbox": [
+    -73.797053,
+    40.899646,
+    -73.797053,
+    40.899646
+],
+  "geometry": {"coordinates":[-73.79705300000001,40.899646],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354200903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.775182,42.832454,-78.775182,42.832454",
     "geom:latitude":42.832454,
     "geom:longitude":-78.775182,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3330 Seneca St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817191,
+        102191575,
+        404522269,
         85633793,
         85979415,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"645a03b7df62a59593f8c0e9c5474125",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522269,
             "locality_id":85979415,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85817191,
             "region_id":85688543,
             "venue_id":354200903
         }
     ],
     "wof:id":354200903,
-    "wof:lastmodified":1449066598,
+    "wof:lastmodified":1454130976,
     "wof:name":"West Senior High School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85817191,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.775182,42.832454,-78.775182,42.832454],
+  "bbox": [
+    -78.775182,
+    42.832454,
+    -78.775182,
+    42.832454
+],
   "geometry": {"coordinates":[-78.775182,42.832454],"type":"Point"}
 }

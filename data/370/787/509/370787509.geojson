@@ -2,13 +2,14 @@
   "id": 370787509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.658504,40.814979,-73.658504,40.814979",
     "geom:latitude":40.814979,
     "geom:longitude":-73.658504,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"50 Seaview Blvd",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.bachknives.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819663,
+        102191575,
+        404522729,
         85633793,
-        85977681,
+        85977685,
         102082371,
-        85819663
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"fba54217ae83c6cb360a56ef364bfddd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977681,
+            "localadmin_id":404522729,
+            "locality_id":85977685,
             "neighbourhood_id":85819663,
             "region_id":85688543,
             "venue_id":370787509
         }
     ],
     "wof:id":370787509,
-    "wof:lastmodified":1449030626,
+    "wof:lastmodified":1454127765,
     "wof:name":"Bach & Co",
     "wof:parent_id":85819663,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "knife"
     ]
 },
-  "bbox": [-73.658504,40.814979,-73.658504,40.814979],
-  "geometry": {"coordinates":[-73.658504,40.814979],"type":"Point"}
+  "bbox": [
+    -73.658504,
+    40.814979,
+    -73.658504,
+    40.814979
+],
+  "geometry": {"coordinates":[-73.65850399999999,40.814979],"type":"Point"}
 }

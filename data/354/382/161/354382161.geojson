@@ -2,13 +2,14 @@
   "id": 354382161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.00719,40.778965,-73.00719,40.778965",
     "geom:latitude":40.778965,
     "geom:longitude":-73.00719,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"371 N Service Rd",
     "sg:city":"Patchogue",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     "sg:website":"http://www.starbuckscoffee.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840885,
+        102191575,
+        404521441,
         85633793,
         85978461,
         102082395,
-        85840885
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"cadcad18b858baebd80b9692a373bc4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85978461,
             "neighbourhood_id":85840885,
             "region_id":85688543,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":354382161,
-    "wof:lastmodified":1449066363,
+    "wof:lastmodified":1454130902,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":85840885,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "restaurant"
     ]
 },
-  "bbox": [-73.00719,40.778965,-73.00719,40.778965],
-  "geometry": {"coordinates":[-73.00719,40.778965],"type":"Point"}
+  "bbox": [
+    -73.00719,
+    40.778965,
+    -73.00719,
+    40.778965
+],
+  "geometry": {"coordinates":[-73.00718999999999,40.778965],"type":"Point"}
 }

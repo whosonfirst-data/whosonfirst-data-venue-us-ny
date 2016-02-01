@@ -2,13 +2,14 @@
   "id": 303852981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.060917,40.839183,-73.060917,40.839183",
     "geom:latitude":40.839183,
     "geom:longitude":-73.060917,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23 Firwood Dr",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"d099622fda8196af92b32c385d462d99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":303852981
         }
     ],
     "wof:id":303852981,
-    "wof:lastmodified":1449000147,
+    "wof:lastmodified":1454123608,
     "wof:name":"Repair Long Island",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "related"
     ]
 },
-  "bbox": [-73.060917,40.839183,-73.060917,40.839183],
+  "bbox": [
+    -73.060917,
+    40.839183,
+    -73.060917,
+    40.839183
+],
   "geometry": {"coordinates":[-73.060917,40.839183],"type":"Point"}
 }

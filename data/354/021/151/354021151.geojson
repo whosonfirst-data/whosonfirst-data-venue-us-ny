@@ -2,13 +2,14 @@
   "id": 354021151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.82355,40.919084,-73.82355,40.919084",
     "geom:latitude":40.919084,
     "geom:longitude":-73.82355,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Park Ln",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840705,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"cbe966ce46d8a55581b977fcfab74079",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85840705,
             "region_id":85688543,
             "venue_id":354021151
         }
     ],
     "wof:id":354021151,
-    "wof:lastmodified":1449067032,
+    "wof:lastmodified":1454131106,
     "wof:name":"Morris Funding Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":85840705,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-73.82355,40.919084,-73.82355,40.919084],
+  "bbox": [
+    -73.82355,
+    40.919084,
+    -73.82355,
+    40.919084
+],
   "geometry": {"coordinates":[-73.82355,40.919084],"type":"Point"}
 }

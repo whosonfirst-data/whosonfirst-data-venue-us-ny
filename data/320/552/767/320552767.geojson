@@ -2,13 +2,14 @@
   "id": 320552767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.139572,43.213539,-74.139572,43.213539",
     "geom:latitude":43.213539,
     "geom:longitude":-74.139572,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"320 Co Rd 113",
     "sg:city":"Northville",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528689,
+        102191575,
+        404522443,
         85633793,
+        85978037,
+        102081813,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"6c33d89f0cfc1ea572f0faa3b9b16a52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081813,
+            "localadmin_id":404522443,
+            "locality_id":85978037,
+            "neighbourhood_id":420528689,
             "region_id":85688543,
             "venue_id":320552767
         }
     ],
     "wof:id":320552767,
-    "wof:lastmodified":1449012822,
+    "wof:lastmodified":1454125017,
     "wof:name":"Hampton North Transfer Station",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528689,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "executive"
     ]
 },
-  "bbox": [-74.139572,43.213539,-74.139572,43.213539],
+  "bbox": [
+    -74.139572,
+    43.213539,
+    -74.139572,
+    43.213539
+],
   "geometry": {"coordinates":[-74.139572,43.213539],"type":"Point"}
 }

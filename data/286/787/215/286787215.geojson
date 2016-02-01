@@ -2,13 +2,14 @@
   "id": 286787215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.173333,40.845526,-73.173333,40.845526",
     "geom:latitude":40.845526,
     "geom:longitude":-73.173333,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"525 Smithtown Byp",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530053,
+        102191575,
+        404522517,
         85633793,
-        85979919,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"623761467e47a9ff234d662246b0a37d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530053,
             "region_id":85688543,
             "venue_id":286787215
         }
     ],
     "wof:id":286787215,
-    "wof:lastmodified":1449016520,
+    "wof:lastmodified":1454125635,
     "wof:name":"Hidden Pond Diner",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.173333,40.845526,-73.173333,40.845526],
+  "bbox": [
+    -73.173333,
+    40.845526,
+    -73.173333,
+    40.845526
+],
   "geometry": {"coordinates":[-73.173333,40.845526],"type":"Point"}
 }

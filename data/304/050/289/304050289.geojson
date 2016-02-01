@@ -2,13 +2,14 @@
   "id": 304050289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.849668,40.74763,-72.849668,40.74763",
     "geom:latitude":40.74763,
     "geom:longitude":-72.849668,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Violet Rd",
     "sg:city":"Mastic Beach",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892903,
+        102191575,
+        404521441,
         85633793,
+        85978437,
         102082395,
-        85892903
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"649acc032cd43722536d773ecbdc65cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85978437,
             "neighbourhood_id":85892903,
             "region_id":85688543,
             "venue_id":304050289
         }
     ],
     "wof:id":304050289,
-    "wof:lastmodified":1449043926,
+    "wof:lastmodified":1454129011,
     "wof:name":"M & W Holdings Corp",
     "wof:parent_id":85892903,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "holding"
     ]
 },
-  "bbox": [-72.849668,40.74763,-72.849668,40.74763],
-  "geometry": {"coordinates":[-72.849668,40.74763],"type":"Point"}
+  "bbox": [
+    -72.849668,
+    40.74763,
+    -72.849668,
+    40.74763
+],
+  "geometry": {"coordinates":[-72.84966799999999,40.74763],"type":"Point"}
 }

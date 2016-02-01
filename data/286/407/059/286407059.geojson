@@ -2,13 +2,14 @@
   "id": 286407059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.222712,40.743744,-73.222712,40.743744",
     "geom:latitude":40.743744,
     "geom:longitude":-73.222712,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"76 Brook St",
     "sg:city":"Islip",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892813,
+        102191575,
+        404522517,
         85633793,
         85979775,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"a5ed0785e552b0539658f7c654d289b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979775,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892813,
             "region_id":85688543,
             "venue_id":286407059
         }
     ],
     "wof:id":286407059,
-    "wof:lastmodified":1449016811,
+    "wof:lastmodified":1454125686,
     "wof:name":"Terri Associates Landscapes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892813,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.222712,40.743744,-73.222712,40.743744],
+  "bbox": [
+    -73.222712,
+    40.743744,
+    -73.222712,
+    40.743744
+],
   "geometry": {"coordinates":[-73.222712,40.743744],"type":"Point"}
 }

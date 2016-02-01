@@ -2,13 +2,14 @@
   "id": 303058221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.858789,40.805278,-72.858789,40.805278",
     "geom:latitude":40.805278,
     "geom:longitude":-72.858789,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Curtis Ct",
     "sg:city":"Mastic",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892903,
+        102191575,
+        404521441,
         85633793,
+        85978437,
         102082395,
-        85892903
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"049629cb72c775df8289061258e6d38d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85978437,
             "neighbourhood_id":85892903,
             "region_id":85688543,
             "venue_id":303058221
         }
     ],
     "wof:id":303058221,
-    "wof:lastmodified":1448998477,
+    "wof:lastmodified":1454123110,
     "wof:name":"Tyra Inc",
     "wof:parent_id":85892903,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.858789,40.805278,-72.858789,40.805278],
+  "bbox": [
+    -72.858789,
+    40.805278,
+    -72.858789,
+    40.805278
+],
   "geometry": {"coordinates":[-72.858789,40.805278],"type":"Point"}
 }

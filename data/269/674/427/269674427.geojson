@@ -2,13 +2,14 @@
   "id": 269674427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.955019,40.640086,-73.955019,40.640086",
     "geom:latitude":40.640086,
     "geom:longitude":-73.955019,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1239 Flatbush Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869833,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85869833
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"c41574fff39c5854472826d7e9937c03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869833,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":269674427,
-    "wof:lastmodified":1449038138,
+    "wof:lastmodified":1454128728,
     "wof:name":"Digital Records Inc",
     "wof:parent_id":85869833,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "record"
     ]
 },
-  "bbox": [-73.955019,40.640086,-73.955019,40.640086],
-  "geometry": {"coordinates":[-73.955019,40.640086],"type":"Point"}
+  "bbox": [
+    -73.955019,
+    40.640086,
+    -73.955019,
+    40.640086
+],
+  "geometry": {"coordinates":[-73.95501899999999,40.640086],"type":"Point"}
 }

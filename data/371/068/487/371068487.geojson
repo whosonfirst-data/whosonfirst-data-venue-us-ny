@@ -2,13 +2,14 @@
   "id": 371068487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.725518,40.617166,-73.725518,40.617166",
     "geom:latitude":40.617166,
     "geom:longitude":-73.725518,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"379 Broadway",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85893091,
+        102191575,
+        404521473,
         85633793,
+        85979053,
+        102082371,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"4bee4c9e615b71b63981b6cb2080b1ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082371,
+            "localadmin_id":404521473,
+            "locality_id":85979053,
+            "neighbourhood_id":85893091,
             "region_id":85688543,
             "venue_id":371068487
         }
     ],
     "wof:id":371068487,
-    "wof:lastmodified":1449049567,
+    "wof:lastmodified":1454129160,
     "wof:name":"Dienstag Deborah MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-73.725518,40.617166,-73.725518,40.617166],
-  "geometry": {"coordinates":[-73.725518,40.617166],"type":"Point"}
+  "bbox": [
+    -73.725518,
+    40.617166,
+    -73.725518,
+    40.617166
+],
+  "geometry": {"coordinates":[-73.72551799999999,40.617166],"type":"Point"}
 }

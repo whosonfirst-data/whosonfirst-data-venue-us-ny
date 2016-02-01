@@ -2,13 +2,14 @@
   "id": 404114945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.904643,40.887073,-73.904643,40.887073",
     "geom:latitude":40.887073,
     "geom:longitude":-73.904643,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"452 W 238th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869385,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869385
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"870f81a54086f54d75e213329ec65daa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869385,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":404114945,
-    "wof:lastmodified":1449039536,
+    "wof:lastmodified":1454128883,
     "wof:name":"Greystone Market",
     "wof:parent_id":85869385,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-73.904643,40.887073,-73.904643,40.887073],
-  "geometry": {"coordinates":[-73.904643,40.887073],"type":"Point"}
+  "bbox": [
+    -73.904643,
+    40.887073,
+    -73.904643,
+    40.887073
+],
+  "geometry": {"coordinates":[-73.90464299999999,40.887073],"type":"Point"}
 }

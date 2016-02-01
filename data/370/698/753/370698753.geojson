@@ -2,13 +2,14 @@
   "id": 370698753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.258099,40.765477,-73.258099,40.765477",
     "geom:latitude":40.765477,
     "geom:longitude":-73.258099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1723 Stein Dr",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841665,
+        102191575,
+        404522517,
         85633793,
-        85979883,
+        85979867,
         102082395,
-        85841665
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"50a174ddd7dfd9db4406b24a0fc5ccfd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979883,
+            "localadmin_id":404522517,
+            "locality_id":85979867,
             "neighbourhood_id":85841665,
             "region_id":85688543,
             "venue_id":370698753
         }
     ],
     "wof:id":370698753,
-    "wof:lastmodified":1449032258,
+    "wof:lastmodified":1454128250,
     "wof:name":"S&S Concrete Inc",
     "wof:parent_id":85841665,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.258099,40.765477,-73.258099,40.765477],
+  "bbox": [
+    -73.258099,
+    40.765477,
+    -73.258099,
+    40.765477
+],
   "geometry": {"coordinates":[-73.258099,40.765477],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252993571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.738419,41.048278,-73.738419,41.048278",
     "geom:latitude":41.048278,
     "geom:longitude":-73.738419,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"22 Highridge Rd",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"www.west-fair.qpg.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816925,
+        102191575,
+        404523361,
         85633793,
         85978735,
         102082373,
-        85816925
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"d7ca76df4d82f21492032e353df6a419",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523361,
             "locality_id":85978735,
             "neighbourhood_id":85816925,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":252993571,
-    "wof:lastmodified":1449005890,
+    "wof:lastmodified":1454124048,
     "wof:name":"West-Fair Oak Floor Corp",
     "wof:parent_id":85816925,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.738419,41.048278,-73.738419,41.048278],
-  "geometry": {"coordinates":[-73.738419,41.048278],"type":"Point"}
+  "bbox": [
+    -73.738419,
+    41.048278,
+    -73.738419,
+    41.048278
+],
+  "geometry": {"coordinates":[-73.73841899999999,41.048278],"type":"Point"}
 }

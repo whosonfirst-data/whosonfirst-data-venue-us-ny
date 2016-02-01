@@ -2,13 +2,14 @@
   "id": 286871843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.867666,40.853199,-73.867666,40.853199",
     "geom:latitude":40.853199,
     "geom:longitude":-73.867666,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2084 White Plains Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807771,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85807771
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"d1d2d98e11a7dd3e3f8a9c0e304c5476",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85807771,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":286871843,
-    "wof:lastmodified":1449016145,
+    "wof:lastmodified":1454125569,
     "wof:name":"Paramount Beauty Supply",
     "wof:parent_id":85807771,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "beauty"
     ]
 },
-  "bbox": [-73.867666,40.853199,-73.867666,40.853199],
+  "bbox": [
+    -73.867666,
+    40.853199,
+    -73.867666,
+    40.853199
+],
   "geometry": {"coordinates":[-73.867666,40.853199],"type":"Point"}
 }

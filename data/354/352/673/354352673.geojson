@@ -2,13 +2,14 @@
   "id": 354352673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.017921,40.810163,-73.017921,40.810163",
     "geom:latitude":40.810163,
     "geom:longitude":-73.017921,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1529 N Ocean Ave",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.medfordhamlet.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +42,18 @@
     "wof:geomhash":"895d12923cf16ea7da1e518c5af68ada",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354352673
         }
     ],
     "wof:id":354352673,
-    "wof:lastmodified":1449066981,
+    "wof:lastmodified":1454131093,
     "wof:name":"The Medford Hamlet",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.017921,40.810163,-73.017921,40.810163],
+  "bbox": [
+    -73.017921,
+    40.810163,
+    -73.017921,
+    40.810163
+],
   "geometry": {"coordinates":[-73.017921,40.810163],"type":"Point"}
 }

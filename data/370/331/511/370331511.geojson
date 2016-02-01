@@ -2,13 +2,14 @@
   "id": 370331511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.509455,40.998857,-72.509455,40.998857",
     "geom:latitude":40.998857,
     "geom:longitude":-72.509455,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20105 Main Rd",
     "sg:city":"Mattituck",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://www.noelgaines.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848547,
+        102191575,
+        404523179,
         85633793,
         85979743,
         102082395,
-        85848547
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"482298c2d513e3a996a57debd11e7d81",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404523179,
             "locality_id":85979743,
             "neighbourhood_id":85848547,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":370331511,
-    "wof:lastmodified":1449031141,
+    "wof:lastmodified":1454127920,
     "wof:name":"Gaines' Construction",
     "wof:parent_id":85848547,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "contractors-commercial"
     ]
 },
-  "bbox": [-72.509455,40.998857,-72.509455,40.998857],
+  "bbox": [
+    -72.509455,
+    40.998857,
+    -72.509455,
+    40.998857
+],
   "geometry": {"coordinates":[-72.509455,40.998857],"type":"Point"}
 }

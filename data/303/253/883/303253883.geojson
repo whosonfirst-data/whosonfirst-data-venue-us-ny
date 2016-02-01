@@ -2,13 +2,14 @@
   "id": 303253883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.138846,40.744091,-73.138846,40.744091",
     "geom:latitude":40.744091,
     "geom:longitude":-73.138846,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1540 Montauk Hwy",
     "sg:city":"Oakdale",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.7-eleven.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837663,
+        102191575,
+        404522517,
         85633793,
-        85979697,
+        85979705,
         102082395,
-        85837663
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +42,18 @@
     "wof:geomhash":"238f6ff4f8b3d1ad734712f27942735b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979697,
+            "localadmin_id":404522517,
+            "locality_id":85979705,
             "neighbourhood_id":85837663,
             "region_id":85688543,
             "venue_id":303253883
         }
     ],
     "wof:id":303253883,
-    "wof:lastmodified":1449000266,
+    "wof:lastmodified":1454123643,
     "wof:name":"7-Eleven",
     "wof:parent_id":85837663,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.138846,40.744091,-73.138846,40.744091],
+  "bbox": [
+    -73.138846,
+    40.744091,
+    -73.138846,
+    40.744091
+],
   "geometry": {"coordinates":[-73.138846,40.744091],"type":"Point"}
 }

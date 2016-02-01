@@ -2,13 +2,14 @@
   "id": 370166691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.243806,40.860293,-73.243806,40.860293",
     "geom:latitude":40.860293,
     "geom:longitude":-73.243806,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"150 Plymouth Blvd",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -48,11 +49,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846945,
+        102191575,
+        404522669,
         85633793,
         85979669,
         102082395,
-        85846945
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,9 +65,10 @@
     "wof:geomhash":"6275e025aadb439272135c9d903b0c18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979669,
             "neighbourhood_id":85846945,
             "region_id":85688543,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":370166691,
-    "wof:lastmodified":1449030957,
+    "wof:lastmodified":1454127864,
     "wof:name":"Erikson Pressure Washing",
     "wof:parent_id":85846945,
     "wof:placetype":"venue",
@@ -88,6 +92,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-73.243806,40.860293,-73.243806,40.860293],
-  "geometry": {"coordinates":[-73.243806,40.860293],"type":"Point"}
+  "bbox": [
+    -73.243806,
+    40.860293,
+    -73.243806,
+    40.860293
+],
+  "geometry": {"coordinates":[-73.24380600000001,40.860293],"type":"Point"}
 }

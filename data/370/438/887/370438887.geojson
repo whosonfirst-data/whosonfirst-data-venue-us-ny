@@ -2,13 +2,14 @@
   "id": 370438887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.323512,40.872817,-73.323512,40.872817",
     "geom:latitude":40.872817,
     "geom:longitude":-73.323512,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"277 Larkfield Rd",
     "sg:city":"East Northport",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892803,
+        102191575,
+        404522669,
         85633793,
         85979805,
         102082395,
-        85892803
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"39dc1fba17b9234887918c539aa43350",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979805,
             "neighbourhood_id":85892803,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":370438887,
-    "wof:lastmodified":1449030247,
+    "wof:lastmodified":1454127656,
     "wof:name":"A Little Bit of Italy",
     "wof:parent_id":85892803,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.323512,40.872817,-73.323512,40.872817],
-  "geometry": {"coordinates":[-73.323512,40.872817],"type":"Point"}
+  "bbox": [
+    -73.323512,
+    40.872817,
+    -73.323512,
+    40.872817
+],
+  "geometry": {"coordinates":[-73.32351199999999,40.872817],"type":"Point"}
 }

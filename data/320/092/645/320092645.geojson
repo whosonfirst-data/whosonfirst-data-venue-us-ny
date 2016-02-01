@@ -2,13 +2,14 @@
   "id": 320092645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.955896,42.115421,-75.955896,42.115421",
     "geom:latitude":42.115421,
     "geom:longitude":-75.955896,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"233 Main St",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892885,
+        102191575,
+        404521829,
         85633793,
         85977983,
-        102081755
+        102081755,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"88a9e6b868ad6356edd1b96f5d2e94c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
+            "localadmin_id":404521829,
             "locality_id":85977983,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892885,
             "region_id":85688543,
             "venue_id":320092645
         }
     ],
     "wof:id":320092645,
-    "wof:lastmodified":1449014262,
+    "wof:lastmodified":1454125249,
     "wof:name":"260 Washington LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892885,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-75.955896,42.115421,-75.955896,42.115421],
+  "bbox": [
+    -75.955896,
+    42.115421,
+    -75.955896,
+    42.115421
+],
   "geometry": {"coordinates":[-75.955896,42.115421],"type":"Point"}
 }

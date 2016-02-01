@@ -2,13 +2,14 @@
   "id": 253469113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.668818,40.992563,-73.668818,40.992563",
     "geom:latitude":40.992563,
     "geom:longitude":-73.668818,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"102 Midland Ave",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530421,
+        102191575,
+        404523389,
         85633793,
         85978705,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"2767b0dee0a5553ec75d45dbdf0b5a3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523389,
             "locality_id":85978705,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530421,
             "region_id":85688543,
             "venue_id":253469113
         }
     ],
     "wof:id":253469113,
-    "wof:lastmodified":1449065871,
+    "wof:lastmodified":1454130756,
     "wof:name":"American Water Services  Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530421,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.668818,40.992563,-73.668818,40.992563],
+  "bbox": [
+    -73.668818,
+    40.992563,
+    -73.668818,
+    40.992563
+],
   "geometry": {"coordinates":[-73.668818,40.992563],"type":"Point"}
 }

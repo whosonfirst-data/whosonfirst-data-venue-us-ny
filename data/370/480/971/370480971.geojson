@@ -2,13 +2,14 @@
   "id": 370480971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.944537,42.785301,-73.944537,42.785301",
     "geom:latitude":42.785301,
     "geom:longitude":-73.944537,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1400 Altamont Ave",
     "sg:city":"Schenectady",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.trustcobank.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85811681,
+        102191575,
+        404522519,
         85633793,
         85979289,
         102081765,
-        85811681
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"dc8fe499a2a7cb4fb64fe043b68259e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081765,
+            "localadmin_id":404522519,
             "locality_id":85979289,
             "neighbourhood_id":85811681,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370480971,
-    "wof:lastmodified":1449030199,
+    "wof:lastmodified":1454127641,
     "wof:name":"Trustco Bank",
     "wof:parent_id":85811681,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "commercial"
     ]
 },
-  "bbox": [-73.944537,42.785301,-73.944537,42.785301],
+  "bbox": [
+    -73.944537,
+    42.785301,
+    -73.944537,
+    42.785301
+],
   "geometry": {"coordinates":[-73.944537,42.785301],"type":"Point"}
 }

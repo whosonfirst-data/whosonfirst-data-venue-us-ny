@@ -2,13 +2,14 @@
   "id": 253741119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.830062,42.866303,-78.830062,42.866303",
     "geom:latitude":42.866303,
     "geom:longitude":-78.830062,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"35 Dole St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528549,
+        102191575,
+        404522329,
         85633793,
         85978023,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"c75b79f83c07ecb79f8c85a19ef87df7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528549,
             "region_id":85688543,
             "venue_id":253741119
         }
     ],
     "wof:id":253741119,
-    "wof:lastmodified":1449062979,
+    "wof:lastmodified":1454130269,
     "wof:name":"Specialty Fiberglass Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528549,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "fiber"
     ]
 },
-  "bbox": [-78.830062,42.866303,-78.830062,42.866303],
+  "bbox": [
+    -78.830062,
+    42.866303,
+    -78.830062,
+    42.866303
+],
   "geometry": {"coordinates":[-78.830062,42.866303],"type":"Point"}
 }

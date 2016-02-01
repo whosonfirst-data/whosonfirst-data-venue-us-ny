@@ -2,13 +2,14 @@
   "id": 286621595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.808718,42.9227,-78.808718,42.9227",
     "geom:latitude":42.9227,
     "geom:longitude":-78.808718,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1283 E Delavan Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872871,
+        102191575,
+        404522329,
         85633793,
         85978023,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"7297dc1682b2264d211a3cb38e1bc2ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85872871,
             "region_id":85688543,
             "venue_id":286621595
         }
     ],
     "wof:id":286621595,
-    "wof:lastmodified":1449017755,
+    "wof:lastmodified":1454125853,
     "wof:name":"Dot's Kitchen",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872871,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-78.808718,42.9227,-78.808718,42.9227],
+  "bbox": [
+    -78.808718,
+    42.9227,
+    -78.808718,
+    42.9227
+],
   "geometry": {"coordinates":[-78.808718,42.9227],"type":"Point"}
 }

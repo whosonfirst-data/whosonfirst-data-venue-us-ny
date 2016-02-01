@@ -2,13 +2,14 @@
   "id": 371055919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.807015,40.988945,-73.807015,40.988945",
     "geom:latitude":40.988945,
     "geom:longitude":-73.807015,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Chase Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.lackenbachsiegel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893013,
+        102191575,
+        404523391,
         85633793,
         85978767,
         102082373,
-        85893013
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"86486df6871c60de98ebf9bda2ec784d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523391,
             "locality_id":85978767,
             "neighbourhood_id":85893013,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":371055919,
-    "wof:lastmodified":1449049271,
+    "wof:lastmodified":1454129090,
     "wof:name":"Lackenbach Siegel LLP",
     "wof:parent_id":85893013,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "attorney"
     ]
 },
-  "bbox": [-73.807015,40.988945,-73.807015,40.988945],
-  "geometry": {"coordinates":[-73.807015,40.988945],"type":"Point"}
+  "bbox": [
+    -73.807015,
+    40.988945,
+    -73.807015,
+    40.988945
+],
+  "geometry": {"coordinates":[-73.80701500000001,40.988945],"type":"Point"}
 }

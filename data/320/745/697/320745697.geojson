@@ -2,13 +2,14 @@
   "id": 320745697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.84136,42.826825,-78.84136,42.826825",
     "geom:latitude":42.826825,
     "geom:longitude":-78.84136,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"253 Ridge Rd",
     "sg:city":"Lackawanna",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528559,
+        102191575,
+        404522349,
         85633793,
         85978009,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"b94385d99ab435009952c8cde7a328d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522349,
             "locality_id":85978009,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528559,
             "region_id":85688543,
             "venue_id":320745697
         }
     ],
     "wof:id":320745697,
-    "wof:lastmodified":1449014796,
+    "wof:lastmodified":1454125336,
     "wof:name":"St Hyacinth Church Rectory",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528559,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-78.84136,42.826825,-78.84136,42.826825],
-  "geometry": {"coordinates":[-78.84136,42.826825],"type":"Point"}
+  "bbox": [
+    -78.84136,
+    42.826825,
+    -78.84136,
+    42.826825
+],
+  "geometry": {"coordinates":[-78.84135999999999,42.826825],"type":"Point"}
 }

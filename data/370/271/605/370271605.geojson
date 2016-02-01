@@ -2,13 +2,14 @@
   "id": 370271605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.525067,40.770721,-73.525067,40.770721",
     "geom:latitude":40.770721,
     "geom:longitude":-73.525067,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Foran Pl",
     "sg:city":"Hicksville",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"www.indianswad.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892883,
+        102191575,
+        404521475,
         85633793,
         85979093,
         102082371,
-        85892883
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"105e3846cc71779b864e00c61a39b1fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979093,
             "neighbourhood_id":85892883,
             "region_id":85688543,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":370271605,
-    "wof:lastmodified":1449030855,
+    "wof:lastmodified":1454127833,
     "wof:name":"Indian Swad",
     "wof:parent_id":85892883,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "do-it-yourself"
     ]
 },
-  "bbox": [-73.525067,40.770721,-73.525067,40.770721],
-  "geometry": {"coordinates":[-73.525067,40.770721],"type":"Point"}
+  "bbox": [
+    -73.525067,
+    40.770721,
+    -73.525067,
+    40.770721
+],
+  "geometry": {"coordinates":[-73.52506700000001,40.770721],"type":"Point"}
 }

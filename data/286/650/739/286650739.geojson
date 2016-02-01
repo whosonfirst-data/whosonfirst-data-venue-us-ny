@@ -2,13 +2,14 @@
   "id": 286650739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.550369,40.785512,-73.550369,40.785512",
     "geom:latitude":40.785512,
     "geom:longitude":-73.550369,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"131 Jericho Tpke",
     "sg:city":"Jericho",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529157,
+        102191575,
+        404521475,
         85633793,
         85979085,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"8b547db61e5d929e7feb3ca123ce8ada",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979085,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529157,
             "region_id":85688543,
             "venue_id":286650739
         }
     ],
     "wof:id":286650739,
-    "wof:lastmodified":1449016997,
+    "wof:lastmodified":1454125719,
     "wof:name":"Garnet Management Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529157,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-73.550369,40.785512,-73.550369,40.785512],
+  "bbox": [
+    -73.550369,
+    40.785512,
+    -73.550369,
+    40.785512
+],
   "geometry": {"coordinates":[-73.550369,40.785512],"type":"Point"}
 }

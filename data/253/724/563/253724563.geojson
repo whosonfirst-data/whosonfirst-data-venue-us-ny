@@ -2,13 +2,14 @@
   "id": 253724563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.696812,43.091514,-78.696812,43.091514",
     "geom:latitude":43.091514,
     "geom:longitude":-78.696812,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6845 S Transit Rd",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529193,
+        102191575,
+        404522737,
         85633793,
+        85979541,
+        102081767,
         85688543
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"6fa4b0a3e6bdf595ac82936a8a60b00e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081767,
+            "localadmin_id":404522737,
+            "locality_id":85979541,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":253724563
         }
     ],
     "wof:id":253724563,
-    "wof:lastmodified":1449065744,
+    "wof:lastmodified":1454130734,
     "wof:name":"Mullins Landscaping",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.696812,43.091514,-78.696812,43.091514],
-  "geometry": {"coordinates":[-78.696812,43.091514],"type":"Point"}
+  "bbox": [
+    -78.696812,
+    43.091514,
+    -78.696812,
+    43.091514
+],
+  "geometry": {"coordinates":[-78.69681199999999,43.091514],"type":"Point"}
 }

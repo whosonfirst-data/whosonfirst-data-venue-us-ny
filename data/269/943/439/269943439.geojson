@@ -2,13 +2,14 @@
   "id": 269943439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.08453,42.630036,-79.08453,42.630036",
     "geom:latitude":42.630036,
     "geom:longitude":-79.08453,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9456 Lake Shore Rd",
     "sg:city":"Angola",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528601,
+        102191575,
+        404522341,
         85633793,
         85979425,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"8d2e536dd23b29383a570693d0f6f165",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522341,
             "locality_id":85979425,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528601,
             "region_id":85688543,
             "venue_id":269943439
         }
     ],
     "wof:id":269943439,
-    "wof:lastmodified":1449036791,
+    "wof:lastmodified":1454128557,
     "wof:name":"Larson Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528601,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "communications"
     ]
 },
-  "bbox": [-79.08453,42.630036,-79.08453,42.630036],
+  "bbox": [
+    -79.08453,
+    42.630036,
+    -79.08453,
+    42.630036
+],
   "geometry": {"coordinates":[-79.08453,42.630036],"type":"Point"}
 }

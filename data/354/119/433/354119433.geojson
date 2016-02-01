@@ -2,13 +2,14 @@
   "id": 354119433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.210716,40.76638,-73.210716,40.76638",
     "geom:latitude":40.76638,
     "geom:longitude":-73.210716,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1032 Islip Ave",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530029,
+        102191575,
+        404522517,
         85633793,
-        85979813,
-        102082395
+        85979775,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"80472cbc85371435d00285cac8a2660e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979813,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979775,
+            "neighbourhood_id":420530029,
             "region_id":85688543,
             "venue_id":354119433
         }
     ],
     "wof:id":354119433,
-    "wof:lastmodified":1449067173,
+    "wof:lastmodified":1454131153,
     "wof:name":"Continental Realty T & C Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530029,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "management"
     ]
 },
-  "bbox": [-73.210716,40.76638,-73.210716,40.76638],
-  "geometry": {"coordinates":[-73.210716,40.76638],"type":"Point"}
+  "bbox": [
+    -73.210716,
+    40.76638,
+    -73.210716,
+    40.76638
+],
+  "geometry": {"coordinates":[-73.21071600000001,40.76638],"type":"Point"}
 }

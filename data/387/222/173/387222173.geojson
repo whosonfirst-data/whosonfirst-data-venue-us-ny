@@ -2,13 +2,14 @@
   "id": 387222173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.370217,40.667525,-73.370217,40.667525",
     "geom:latitude":40.667525,
     "geom:longitude":-73.370217,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"803 S 7th St",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
         85978477,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"12b969678ab35485c4a6371d67e19a5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522513,
             "locality_id":85978477,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":387222173
         }
     ],
     "wof:id":387222173,
-    "wof:lastmodified":1449058652,
+    "wof:lastmodified":1454129987,
     "wof:name":"CDM Contracting of LI Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.370217,40.667525,-73.370217,40.667525],
+  "bbox": [
+    -73.370217,
+    40.667525,
+    -73.370217,
+    40.667525
+],
   "geometry": {"coordinates":[-73.370217,40.667525],"type":"Point"}
 }

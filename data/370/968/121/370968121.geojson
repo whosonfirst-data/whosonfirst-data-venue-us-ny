@@ -2,13 +2,14 @@
   "id": 370968121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.318536,42.432969,-79.318536,42.432969",
     "geom:latitude":42.432969,
     "geom:longitude":-79.318536,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"159 Liberty St",
     "sg:city":"Fredonia",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812293,
+        102191575,
+        404522089,
         85633793,
         85978829,
         102081811,
-        85812293
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"28de13665d020a2102c1fc4870dfb85d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081811,
+            "localadmin_id":404522089,
             "locality_id":85978829,
             "neighbourhood_id":85812293,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370968121,
-    "wof:lastmodified":1449029298,
+    "wof:lastmodified":1454127377,
     "wof:name":"Liberty Air Inc",
     "wof:parent_id":85812293,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-79.318536,42.432969,-79.318536,42.432969],
-  "geometry": {"coordinates":[-79.318536,42.432969],"type":"Point"}
+  "bbox": [
+    -79.318536,
+    42.432969,
+    -79.318536,
+    42.432969
+],
+  "geometry": {"coordinates":[-79.31853599999999,42.432969],"type":"Point"}
 }

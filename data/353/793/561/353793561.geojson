@@ -2,13 +2,14 @@
   "id": 353793561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.833278,40.909901,-73.833278,40.909901",
     "geom:latitude":40.909901,
     "geom:longitude":-73.833278,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9 S 1st Ave",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"7c69a634a6dea9ecfb317e8bbc75fbab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":353793561
         }
     ],
     "wof:id":353793561,
-    "wof:lastmodified":1449019668,
+    "wof:lastmodified":1454126357,
     "wof:name":"Senior Programs & Svc 9s",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.833278,40.909901,-73.833278,40.909901],
-  "geometry": {"coordinates":[-73.833278,40.909901],"type":"Point"}
+  "bbox": [
+    -73.833278,
+    40.909901,
+    -73.833278,
+    40.909901
+],
+  "geometry": {"coordinates":[-73.83327800000001,40.909901],"type":"Point"}
 }

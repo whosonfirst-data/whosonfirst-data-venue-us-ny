@@ -2,13 +2,14 @@
   "id": 387507045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.905905,40.882971,-73.905905,40.882971",
     "geom:latitude":40.882971,
     "geom:longitude":-73.905905,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3242 Tibbett Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85828377,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85828377
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"88c5bbd1a199a79080a52692817e7ec7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85828377,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387507045,
-    "wof:lastmodified":1449058063,
+    "wof:lastmodified":1454129877,
     "wof:name":"Rsy Foundation For Medica",
     "wof:parent_id":85828377,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "research"
     ]
 },
-  "bbox": [-73.905905,40.882971,-73.905905,40.882971],
+  "bbox": [
+    -73.905905,
+    40.882971,
+    -73.905905,
+    40.882971
+],
   "geometry": {"coordinates":[-73.905905,40.882971],"type":"Point"}
 }

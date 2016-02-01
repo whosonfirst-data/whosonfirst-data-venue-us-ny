@@ -2,13 +2,14 @@
   "id": 370497875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.017047,41.936611,-74.017047,41.936611",
     "geom:latitude":41.936611,
     "geom:longitude":-74.017047,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"201 Plaza Rd",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -89,11 +90,13 @@
     "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865367,
+        102191575,
+        404523249,
         85633793,
         85977505,
         102081775,
-        85865367
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,9 +106,10 @@
     "wof:geomhash":"5b95d6b40d09025e21d3155f9160c326",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
+            "localadmin_id":404523249,
             "locality_id":85977505,
             "neighbourhood_id":85865367,
             "region_id":85688543,
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":370497875,
-    "wof:lastmodified":1449032419,
+    "wof:lastmodified":1454128298,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85865367,
     "wof:placetype":"venue",
@@ -134,6 +138,11 @@
         "consumer"
     ]
 },
-  "bbox": [-74.017047,41.936611,-74.017047,41.936611],
-  "geometry": {"coordinates":[-74.017047,41.936611],"type":"Point"}
+  "bbox": [
+    -74.017047,
+    41.936611,
+    -74.017047,
+    41.936611
+],
+  "geometry": {"coordinates":[-74.01704700000001,41.936611],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303543961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.695439,43.421521,-73.695439,43.421521",
     "geom:latitude":43.421521,
     "geom:longitude":-73.695439,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3828 State Hwy 9l",
     "sg:city":"Lake George",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85820685,
+        102081791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"814af9e3fa6ed8184ae88a53d10cffb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081791,
+            "neighbourhood_id":85820685,
             "region_id":85688543,
             "venue_id":303543961
         }
     ],
     "wof:id":303543961,
-    "wof:lastmodified":1448998594,
+    "wof:lastmodified":1454123153,
     "wof:name":"Adirondack School Portraits",
-    "wof:parent_id":-1,
+    "wof:parent_id":85820685,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "photo"
     ]
 },
-  "bbox": [-73.695439,43.421521,-73.695439,43.421521],
-  "geometry": {"coordinates":[-73.695439,43.421521],"type":"Point"}
+  "bbox": [
+    -73.695439,
+    43.421521,
+    -73.695439,
+    43.421521
+],
+  "geometry": {"coordinates":[-73.69543899999999,43.421521],"type":"Point"}
 }

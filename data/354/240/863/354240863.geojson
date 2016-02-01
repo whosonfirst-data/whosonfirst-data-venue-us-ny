@@ -2,13 +2,14 @@
   "id": 354240863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.505417,40.748216,-73.505417,40.748216",
     "geom:latitude":40.748216,
     "geom:longitude":-73.505417,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 Bloomingdale Rd",
     "sg:city":"Hicksville",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892759,
+        102191575,
+        404521475,
         85633793,
         85979165,
         102082371,
-        85892759
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"df16641584b4a4939fd9a6b0b7f5d82a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979165,
             "neighbourhood_id":85892759,
             "region_id":85688543,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":354240863,
-    "wof:lastmodified":1449066109,
+    "wof:lastmodified":1454130826,
     "wof:name":"Power House Sheet Metal Co",
     "wof:parent_id":85892759,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "fabricator"
     ]
 },
-  "bbox": [-73.505417,40.748216,-73.505417,40.748216],
-  "geometry": {"coordinates":[-73.505417,40.748216],"type":"Point"}
+  "bbox": [
+    -73.505417,
+    40.748216,
+    -73.505417,
+    40.748216
+],
+  "geometry": {"coordinates":[-73.50541699999999,40.748216],"type":"Point"}
 }

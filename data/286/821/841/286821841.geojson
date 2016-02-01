@@ -2,13 +2,14 @@
   "id": 286821841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.841843,41.392102,-73.841843,41.392102",
     "geom:latitude":41.392102,
     "geom:longitude":-73.841843,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"124 Eastern Rd",
     "sg:city":"Putnam Valley",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85839895,
+        102083007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"0d4eb6633deebf6e8bb3b610e97fa8dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083007,
+            "neighbourhood_id":85839895,
             "region_id":85688543,
             "venue_id":286821841
         }
     ],
     "wof:id":286821841,
-    "wof:lastmodified":1449016782,
+    "wof:lastmodified":1454125681,
     "wof:name":"Moonlight Contracting Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839895,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.841843,41.392102,-73.841843,41.392102],
+  "bbox": [
+    -73.841843,
+    41.392102,
+    -73.841843,
+    41.392102
+],
   "geometry": {"coordinates":[-73.841843,41.392102],"type":"Point"}
 }

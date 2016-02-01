@@ -2,13 +2,14 @@
   "id": 303377311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.856734,40.907681,-73.856734,40.907681",
     "geom:latitude":40.907681,
     "geom:longitude":-73.856734,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"165 Bronx River Rd",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85854163,
+        102191575,
+        404523397,
         85633793,
-        85978721,
+        85978759,
         102082373,
-        85854163
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"bab6d3c0acdfbc2c5cd017f6deb76815",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978721,
+            "localadmin_id":404523397,
+            "locality_id":85978759,
             "neighbourhood_id":85854163,
             "region_id":85688543,
             "venue_id":303377311
         }
     ],
     "wof:id":303377311,
-    "wof:lastmodified":1448999036,
+    "wof:lastmodified":1454123302,
     "wof:name":"Taste of Italy Deli & Catering",
     "wof:parent_id":85854163,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.856734,40.907681,-73.856734,40.907681],
+  "bbox": [
+    -73.856734,
+    40.907681,
+    -73.856734,
+    40.907681
+],
   "geometry": {"coordinates":[-73.856734,40.907681],"type":"Point"}
 }

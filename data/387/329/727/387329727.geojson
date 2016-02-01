@@ -2,13 +2,14 @@
   "id": 387329727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.996997,40.72522,-73.996997,40.72522",
     "geom:latitude":40.72522,
     "geom:longitude":-73.996997,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"577 Broadway",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865687,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865687
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"35caea2219d13d40cd58cf5fc6793928",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865687,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387329727,
-    "wof:lastmodified":1449057156,
+    "wof:lastmodified":1454129716,
     "wof:name":"577 Broadway Real Estate",
     "wof:parent_id":85865687,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.996997,40.72522,-73.996997,40.72522],
-  "geometry": {"coordinates":[-73.996997,40.72522],"type":"Point"}
+  "bbox": [
+    -73.996997,
+    40.72522,
+    -73.996997,
+    40.72522
+],
+  "geometry": {"coordinates":[-73.99699699999999,40.72522],"type":"Point"}
 }

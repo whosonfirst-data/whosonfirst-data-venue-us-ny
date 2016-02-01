@@ -2,13 +2,14 @@
   "id": 354377821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.015032,40.769018,-73.015032,40.769018",
     "geom:latitude":40.769018,
     "geom:longitude":-73.015032,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"162 N Ocean Ave",
     "sg:city":"Patchogue",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840885,
+        102191575,
+        404521441,
         85633793,
         85978461,
         102082395,
-        85840885
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"5f08830a580340f851bec4d4ff72d860",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85978461,
             "neighbourhood_id":85840885,
             "region_id":85688543,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":354377821,
-    "wof:lastmodified":1449066558,
+    "wof:lastmodified":1454130961,
     "wof:name":"Angelo Capobianco Inc",
     "wof:parent_id":85840885,
     "wof:placetype":"venue",
@@ -78,6 +82,11 @@
         "mason"
     ]
 },
-  "bbox": [-73.015032,40.769018,-73.015032,40.769018],
-  "geometry": {"coordinates":[-73.015032,40.769018],"type":"Point"}
+  "bbox": [
+    -73.015032,
+    40.769018,
+    -73.015032,
+    40.769018
+],
+  "geometry": {"coordinates":[-73.01503200000001,40.769018],"type":"Point"}
 }

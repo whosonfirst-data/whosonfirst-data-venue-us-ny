@@ -2,13 +2,14 @@
   "id": 354015409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.560204,40.754398,-73.560204,40.754398",
     "geom:latitude":40.754398,
     "geom:longitude":-73.560204,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"966 Old Country Rd",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85856711,
+        102191575,
+        404521475,
         85633793,
-        85979063,
+        85979093,
         102082371,
-        85856711
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"26167dfe07720564b8f9528d513f42da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979063,
+            "localadmin_id":404521475,
+            "locality_id":85979093,
             "neighbourhood_id":85856711,
             "region_id":85688543,
             "venue_id":354015409
         }
     ],
     "wof:id":354015409,
-    "wof:lastmodified":1449066316,
+    "wof:lastmodified":1454130887,
     "wof:name":"Old Country Liquors",
     "wof:parent_id":85856711,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "wine"
     ]
 },
-  "bbox": [-73.560204,40.754398,-73.560204,40.754398],
+  "bbox": [
+    -73.560204,
+    40.754398,
+    -73.560204,
+    40.754398
+],
   "geometry": {"coordinates":[-73.560204,40.754398],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269781169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.597028,42.954302,-77.597028,42.954302",
     "geom:latitude":42.954302,
     "geom:longitude":-77.597028,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 Norton St",
     "sg:city":"Honeoye Falls",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837385,
+        102191575,
+        404521463,
         85633793,
+        85977581,
         102081815,
-        85837385
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +47,18 @@
     "wof:geomhash":"68de16b1335e3b8aefc2548073f14392",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":-1,
+            "localadmin_id":404521463,
+            "locality_id":85977581,
             "neighbourhood_id":85837385,
             "region_id":85688543,
             "venue_id":269781169
         }
     ],
     "wof:id":269781169,
-    "wof:lastmodified":1449036592,
+    "wof:lastmodified":1454128528,
     "wof:name":"Lehigh Valley Floor Coverings",
     "wof:parent_id":85837385,
     "wof:placetype":"venue",
@@ -66,6 +71,11 @@
         "floor"
     ]
 },
-  "bbox": [-77.597028,42.954302,-77.597028,42.954302],
-  "geometry": {"coordinates":[-77.597028,42.954302],"type":"Point"}
+  "bbox": [
+    -77.597028,
+    42.954302,
+    -77.597028,
+    42.954302
+],
+  "geometry": {"coordinates":[-77.59702799999999,42.954302],"type":"Point"}
 }

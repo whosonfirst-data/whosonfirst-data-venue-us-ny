@@ -2,13 +2,14 @@
   "id": 286723345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.358494,40.859141,-73.358494,40.859141",
     "geom:latitude":40.859141,
     "geom:longitude":-73.358494,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Kipling Dr",
     "sg:city":"Greenlawn",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85830997,
+        102191575,
+        404522515,
         85633793,
         85979695,
         102082395,
-        85830997
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"30503395c712ed14e4e0c05ad8e703f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85979695,
             "neighbourhood_id":85830997,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":286723345,
-    "wof:lastmodified":1449016915,
+    "wof:lastmodified":1454125705,
     "wof:name":"R H S Inc",
     "wof:parent_id":85830997,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.358494,40.859141,-73.358494,40.859141],
-  "geometry": {"coordinates":[-73.358494,40.859141],"type":"Point"}
+  "bbox": [
+    -73.358494,
+    40.859141,
+    -73.358494,
+    40.859141
+],
+  "geometry": {"coordinates":[-73.35849399999999,40.859141],"type":"Point"}
 }

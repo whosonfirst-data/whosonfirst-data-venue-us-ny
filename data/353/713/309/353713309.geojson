@@ -2,13 +2,14 @@
   "id": 353713309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.808882,40.701714,-73.808882,40.701714",
     "geom:latitude":40.701714,
     "geom:longitude":-73.808882,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14614 Jamaica Avenue",
     "sg:city":"Jamaica",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85827297,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85827297
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"3ba9a8319b9b47976fbd988f12abd695",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85827297,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353713309,
-    "wof:lastmodified":1449020569,
+    "wof:lastmodified":1454126616,
     "wof:name":"Queens Drugs & Surgical",
     "wof:parent_id":85827297,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "drugstore"
     ]
 },
-  "bbox": [-73.808882,40.701714,-73.808882,40.701714],
+  "bbox": [
+    -73.808882,
+    40.701714,
+    -73.808882,
+    40.701714
+],
   "geometry": {"coordinates":[-73.808882,40.701714],"type":"Point"}
 }

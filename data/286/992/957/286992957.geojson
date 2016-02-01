@@ -2,13 +2,14 @@
   "id": 286992957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.880641,40.882275,-73.880641,40.882275",
     "geom:latitude":40.882275,
     "geom:longitude":-73.880641,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8 E Gun Hill Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869557,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869557
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"a743f40b795ca242b0fdff1c142ee69a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869557,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":286992957,
-    "wof:lastmodified":1449016575,
+    "wof:lastmodified":1454125644,
     "wof:name":"Park Gift World",
     "wof:parent_id":85869557,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "accessory"
     ]
 },
-  "bbox": [-73.880641,40.882275,-73.880641,40.882275],
+  "bbox": [
+    -73.880641,
+    40.882275,
+    -73.880641,
+    40.882275
+],
   "geometry": {"coordinates":[-73.880641,40.882275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370584911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.036499,41.511902,-74.036499,41.511902",
     "geom:latitude":41.511902,
     "geom:longitude":-74.036499,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"106 Pierces Rd",
     "sg:city":"Newburgh",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.hudsonvalleylighting.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85821091,
+        102191575,
+        404522913,
         85633793,
         85979519,
         102083061,
-        85821091
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"6279d56122a0658f3633d5032beb3e4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
+            "localadmin_id":404522913,
             "locality_id":85979519,
             "neighbourhood_id":85821091,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":370584911,
-    "wof:lastmodified":1449029459,
+    "wof:lastmodified":1454127425,
     "wof:name":"Hudson Valley Lighting Inc",
     "wof:parent_id":85821091,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "lighting"
     ]
 },
-  "bbox": [-74.036499,41.511902,-74.036499,41.511902],
-  "geometry": {"coordinates":[-74.036499,41.511902],"type":"Point"}
+  "bbox": [
+    -74.036499,
+    41.511902,
+    -74.036499,
+    41.511902
+],
+  "geometry": {"coordinates":[-74.03649900000001,41.511902],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354063225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.237154,40.746696,-73.237154,40.746696",
     "geom:latitude":40.746696,
     "geom:longitude":-73.237154,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"210 S Denver Ave",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530029,
+        102191575,
+        404522517,
         85633793,
         85979775,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"ad39e1834141810b7a24e716a3d511d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979775,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530029,
             "region_id":85688543,
             "venue_id":354063225
         }
     ],
     "wof:id":354063225,
-    "wof:lastmodified":1449066077,
+    "wof:lastmodified":1454130814,
     "wof:name":"Islip Town of",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530029,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "store"
     ]
 },
-  "bbox": [-73.237154,40.746696,-73.237154,40.746696],
+  "bbox": [
+    -73.237154,
+    40.746696,
+    -73.237154,
+    40.746696
+],
   "geometry": {"coordinates":[-73.237154,40.746696],"type":"Point"}
 }

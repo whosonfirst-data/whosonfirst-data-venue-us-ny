@@ -2,13 +2,14 @@
   "id": 270253381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.797997,40.976243,-73.797997,40.976243",
     "geom:latitude":40.976243,
     "geom:longitude":-73.797997,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Lyons Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530449,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"a21712001ae64df186f71f56c0910428",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530449,
             "region_id":85688543,
             "venue_id":270253381
         }
     ],
     "wof:id":270253381,
-    "wof:lastmodified":1449010787,
+    "wof:lastmodified":1454124688,
     "wof:name":"Calamari Distributors",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530449,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "industrial"
     ]
 },
-  "bbox": [-73.797997,40.976243,-73.797997,40.976243],
+  "bbox": [
+    -73.797997,
+    40.976243,
+    -73.797997,
+    40.976243
+],
   "geometry": {"coordinates":[-73.797997,40.976243],"type":"Point"}
 }

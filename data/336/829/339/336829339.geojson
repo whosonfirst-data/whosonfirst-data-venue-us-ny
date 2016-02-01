@@ -2,13 +2,14 @@
   "id": 336829339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.785669,42.753311,-78.785669,42.753311",
     "geom:latitude":42.753311,
     "geom:longitude":-78.785669,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4899 Bussendorfer Rd",
     "sg:city":"Orchard Park",
     "sg:classifiers":[
@@ -24,8 +25,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85806085,
+        102082387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +38,27 @@
     "wof:geomhash":"c5ae179197dd852e85de55f14fb06eda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082387,
+            "neighbourhood_id":85806085,
             "region_id":85688543,
             "venue_id":336829339
         }
     ],
     "wof:id":336829339,
-    "wof:lastmodified":1448997939,
+    "wof:lastmodified":1454122929,
     "wof:name":"Pasnik Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":85806085,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.785669,42.753311,-78.785669,42.753311],
+  "bbox": [
+    -78.785669,
+    42.753311,
+    -78.785669,
+    42.753311
+],
   "geometry": {"coordinates":[-78.785669,42.753311],"type":"Point"}
 }

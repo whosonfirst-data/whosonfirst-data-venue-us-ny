@@ -2,13 +2,14 @@
   "id": 320420009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.845486,42.135891,-75.845486,42.135891",
     "geom:latitude":42.135891,
     "geom:longitude":-75.845486,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"745 Old State Rd",
     "sg:city":"Binghamton",
     "sg:classifiers":[
@@ -24,8 +25,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85828561,
+        102081755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +38,27 @@
     "wof:geomhash":"1f9bdc7e74d8d541296afc3410c57b82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081755,
+            "neighbourhood_id":85828561,
             "region_id":85688543,
             "venue_id":320420009
         }
     ],
     "wof:id":320420009,
-    "wof:lastmodified":1449013043,
+    "wof:lastmodified":1454125053,
     "wof:name":"Enviro Carpet Cleaning",
-    "wof:parent_id":-1,
+    "wof:parent_id":85828561,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.845486,42.135891,-75.845486,42.135891],
-  "geometry": {"coordinates":[-75.845486,42.135891],"type":"Point"}
+  "bbox": [
+    -75.845486,
+    42.135891,
+    -75.845486,
+    42.135891
+],
+  "geometry": {"coordinates":[-75.84548599999999,42.135891],"type":"Point"}
 }

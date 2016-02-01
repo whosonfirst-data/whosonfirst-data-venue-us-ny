@@ -2,13 +2,14 @@
   "id": 269607477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.838885,40.926706,-73.838885,40.926706",
     "geom:latitude":40.926706,
     "geom:longitude":-73.838885,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"695 Locust St",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530461,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"330f1c141029365b173f7807b9316d8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530461,
             "region_id":85688543,
             "venue_id":269607477
         }
     ],
     "wof:id":269607477,
-    "wof:lastmodified":1449036456,
+    "wof:lastmodified":1454128510,
     "wof:name":"Best Paw Forward",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530461,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.838885,40.926706,-73.838885,40.926706],
+  "bbox": [
+    -73.838885,
+    40.926706,
+    -73.838885,
+    40.926706
+],
   "geometry": {"coordinates":[-73.838885,40.926706],"type":"Point"}
 }

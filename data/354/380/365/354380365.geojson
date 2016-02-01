@@ -2,13 +2,14 @@
   "id": 354380365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.110014,40.620688,-74.110014,40.620688",
     "geom:latitude":40.620688,
     "geom:longitude":-74.110014,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1100 Clove Rd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892919,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85865883
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +44,20 @@
     "wof:geomhash":"a6fd14aa2d11e105df7ad585df079ff9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85865883,
+            "neighbourhood_id":85892919,
             "region_id":85688543,
             "venue_id":354380365
         }
     ],
     "wof:id":354380365,
-    "wof:lastmodified":1449066708,
+    "wof:lastmodified":1454131009,
     "wof:name":"Robert Zaplin DDS",
-    "wof:parent_id":85865883,
+    "wof:parent_id":85892919,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-74.110014,40.620688,-74.110014,40.620688],
-  "geometry": {"coordinates":[-74.110014,40.620688],"type":"Point"}
+  "bbox": [
+    -74.110014,
+    40.620688,
+    -74.110014,
+    40.620688
+],
+  "geometry": {"coordinates":[-74.11001400000001,40.620688],"type":"Point"}
 }

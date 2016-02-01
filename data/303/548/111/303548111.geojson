@@ -2,13 +2,14 @@
   "id": 303548111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.084222,40.735271,-73.084222,40.735271",
     "geom:latitude":40.735271,
     "geom:longitude":-73.084222,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"91 Main St",
     "sg:city":"Sayville",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"50940963df7a8744d04ed56fefac7e6f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":303548111
         }
     ],
     "wof:id":303548111,
-    "wof:lastmodified":1448999810,
+    "wof:lastmodified":1454123518,
     "wof:name":"Four Star The Home Store",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "sales"
     ]
 },
-  "bbox": [-73.084222,40.735271,-73.084222,40.735271],
+  "bbox": [
+    -73.084222,
+    40.735271,
+    -73.084222,
+    40.735271
+],
   "geometry": {"coordinates":[-73.084222,40.735271],"type":"Point"}
 }

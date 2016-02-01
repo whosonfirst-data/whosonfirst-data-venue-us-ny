@@ -2,13 +2,14 @@
   "id": 253270589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.070377,40.757484,-73.070377,40.757484",
     "geom:latitude":40.757484,
     "geom:longitude":-73.070377,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"287 Wyandanch Rd",
     "sg:city":"Sayville",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.fra.dot.gov",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"53995174e1300737a70c2d23d730cd75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":253270589
         }
     ],
     "wof:id":253270589,
-    "wof:lastmodified":1449063347,
+    "wof:lastmodified":1454130333,
     "wof:name":"US Federal Railroad Adm",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "federal"
     ]
 },
-  "bbox": [-73.070377,40.757484,-73.070377,40.757484],
-  "geometry": {"coordinates":[-73.070377,40.757484],"type":"Point"}
+  "bbox": [
+    -73.070377,
+    40.757484,
+    -73.070377,
+    40.757484
+],
+  "geometry": {"coordinates":[-73.07037699999999,40.757484],"type":"Point"}
 }

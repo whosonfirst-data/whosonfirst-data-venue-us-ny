@@ -2,13 +2,14 @@
   "id": 253702897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.18454,43.611042,-76.18454,43.611042",
     "geom:latitude":43.611042,
     "geom:longitude":-76.18454,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"198 Rainbow Shores Rd",
     "sg:city":"Pulaski",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85847721,
+        102081783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"4f98d37c9eee91d97086229ee4d89114",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081783,
+            "neighbourhood_id":85847721,
             "region_id":85688543,
             "venue_id":253702897
         }
     ],
     "wof:id":253702897,
-    "wof:lastmodified":1449064308,
+    "wof:lastmodified":1454130493,
     "wof:name":"Pat's Needle & Thread",
-    "wof:parent_id":-1,
+    "wof:parent_id":85847721,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.18454,43.611042,-76.18454,43.611042],
+  "bbox": [
+    -76.18454,
+    43.611042,
+    -76.18454,
+    43.611042
+],
   "geometry": {"coordinates":[-76.18454,43.611042],"type":"Point"}
 }

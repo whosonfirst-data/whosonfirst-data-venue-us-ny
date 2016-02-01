@@ -2,13 +2,14 @@
   "id": 387043365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.168187,42.065087,-78.168187,42.065087",
     "geom:latitude":42.065087,
     "geom:longitude":-78.168187,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13 Liberty St",
     "sg:city":"Bolivar",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528043,
+        102191575,
+        404521741,
         85633793,
         85977937,
-        102082403
+        102082403,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"e6e452028ebb8d9714f3656c641d619b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082403,
+            "localadmin_id":404521741,
             "locality_id":85977937,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528043,
             "region_id":85688543,
             "venue_id":387043365
         }
     ],
     "wof:id":387043365,
-    "wof:lastmodified":1449058949,
+    "wof:lastmodified":1454130033,
     "wof:name":"Town Of Bolivar",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528043,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "village"
     ]
 },
-  "bbox": [-78.168187,42.065087,-78.168187,42.065087],
+  "bbox": [
+    -78.168187,
+    42.065087,
+    -78.168187,
+    42.065087
+],
   "geometry": {"coordinates":[-78.168187,42.065087],"type":"Point"}
 }

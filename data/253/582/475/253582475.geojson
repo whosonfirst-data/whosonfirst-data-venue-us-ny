@@ -2,13 +2,14 @@
   "id": 253582475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.51207,41.954198,-73.51207,41.954198",
     "geom:latitude":41.954198,
     "geom:longitude":-73.51207,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"52 N Center St",
     "sg:city":"Millerton",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85850463,
+        102191575,
+        404522299,
         85633793,
+        85977839,
         102082363,
-        85850463
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"ec0deaf2686f2fc27e4d94541ef86b51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
-            "locality_id":-1,
+            "localadmin_id":404522299,
+            "locality_id":85977839,
             "neighbourhood_id":85850463,
             "region_id":85688543,
             "venue_id":253582475
         }
     ],
     "wof:id":253582475,
-    "wof:lastmodified":1449064422,
+    "wof:lastmodified":1454130512,
     "wof:name":"Quinn Renovations LLC",
     "wof:parent_id":85850463,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-73.51207,41.954198,-73.51207,41.954198],
-  "geometry": {"coordinates":[-73.51207,41.954198],"type":"Point"}
+  "bbox": [
+    -73.51207,
+    41.954198,
+    -73.51207,
+    41.954198
+],
+  "geometry": {"coordinates":[-73.51206999999999,41.954198],"type":"Point"}
 }

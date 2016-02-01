@@ -2,13 +2,14 @@
   "id": 303623053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.580362,43.211264,-77.580362,43.211264",
     "geom:latitude":43.211264,
     "geom:longitude":-77.580362,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1300 Titus Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.irondequoit.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880401,
+        102191575,
+        404522639,
         85633793,
         85979035,
         102081815,
-        85880401
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"d275152bee30431ca01bcd5d0d3cf5f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404522639,
             "locality_id":85979035,
             "neighbourhood_id":85880401,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":303623053,
-    "wof:lastmodified":1448999833,
+    "wof:lastmodified":1454123523,
     "wof:name":"Irondequoit Police Dept",
     "wof:parent_id":85880401,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "department"
     ]
 },
-  "bbox": [-77.580362,43.211264,-77.580362,43.211264],
-  "geometry": {"coordinates":[-77.580362,43.211264],"type":"Point"}
+  "bbox": [
+    -77.580362,
+    43.211264,
+    -77.580362,
+    43.211264
+],
+  "geometry": {"coordinates":[-77.58036199999999,43.211264],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336894027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.935591,40.849993,-73.935591,40.849993",
     "geom:latitude":40.849993,
     "geom:longitude":-73.935591,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"658 W 181st St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85854625,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85854625
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"f6c9af92c424d62d51409fc7b921e524",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85854625,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":336894027,
-    "wof:lastmodified":1448997389,
+    "wof:lastmodified":1454122694,
     "wof:name":"King Of Washington Electronics",
     "wof:parent_id":85854625,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.935591,40.849993,-73.935591,40.849993],
+  "bbox": [
+    -73.935591,
+    40.849993,
+    -73.935591,
+    40.849993
+],
   "geometry": {"coordinates":[-73.935591,40.849993],"type":"Point"}
 }

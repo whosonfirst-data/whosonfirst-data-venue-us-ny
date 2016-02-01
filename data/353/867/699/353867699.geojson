@@ -2,13 +2,14 @@
   "id": 353867699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.659276,40.700435,-73.659276,40.700435",
     "geom:latitude":40.700435,
     "geom:longitude":-73.659276,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"502 Lee Ct",
     "sg:city":"West Hempstead",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829437,
+        102191575,
+        404521473,
         85633793,
-        85979129,
+        85979057,
         102082371,
-        85829437
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"2760dfa19cb1752b0130ab650a2a0cc0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979129,
+            "localadmin_id":404521473,
+            "locality_id":85979057,
             "neighbourhood_id":85829437,
             "region_id":85688543,
             "venue_id":353867699
         }
     ],
     "wof:id":353867699,
-    "wof:lastmodified":1449019354,
+    "wof:lastmodified":1454126266,
     "wof:name":"Construtech Association Corp",
     "wof:parent_id":85829437,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "construction"
     ]
 },
-  "bbox": [-73.659276,40.700435,-73.659276,40.700435],
-  "geometry": {"coordinates":[-73.659276,40.700435],"type":"Point"}
+  "bbox": [
+    -73.659276,
+    40.700435,
+    -73.659276,
+    40.700435
+],
+  "geometry": {"coordinates":[-73.65927600000001,40.700435],"type":"Point"}
 }

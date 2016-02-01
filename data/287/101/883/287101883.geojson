@@ -2,13 +2,14 @@
   "id": 287101883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.775076,41.02721,-73.775076,41.02721",
     "geom:latitude":41.02721,
     "geom:longitude":-73.775076,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"129 Fisher Ave",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530469,
+        102191575,
+        404523395,
         85633793,
         85978761,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"f87e4db1e6f77bd34f215cf66840f5e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523395,
             "locality_id":85978761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530469,
             "region_id":85688543,
             "venue_id":287101883
         }
     ],
     "wof:id":287101883,
-    "wof:lastmodified":1449001135,
+    "wof:lastmodified":1454123864,
     "wof:name":"J R Building Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530469,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-73.775076,41.02721,-73.775076,41.02721],
+  "bbox": [
+    -73.775076,
+    41.02721,
+    -73.775076,
+    41.02721
+],
   "geometry": {"coordinates":[-73.775076,41.02721],"type":"Point"}
 }

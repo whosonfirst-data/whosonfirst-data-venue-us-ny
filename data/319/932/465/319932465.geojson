@@ -2,13 +2,14 @@
   "id": 319932465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.227441,41.313383,-74.227441,41.313383",
     "geom:latitude":41.313383,
     "geom:longitude":-74.227441,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 Monroe St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"www.dunkindonuts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832781,
+        102191575,
+        404522907,
         85633793,
+        85979523,
         102083061,
-        85832781
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"aae94afe76fb6728b3c09c5446696537",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":-1,
+            "localadmin_id":404522907,
+            "locality_id":85979523,
             "neighbourhood_id":85832781,
             "region_id":85688543,
             "venue_id":319932465
         }
     ],
     "wof:id":319932465,
-    "wof:lastmodified":1449024366,
+    "wof:lastmodified":1454126763,
     "wof:name":"Dunkin' Donuts",
     "wof:parent_id":85832781,
     "wof:placetype":"venue",
@@ -61,6 +66,11 @@
         "doughnut"
     ]
 },
-  "bbox": [-74.227441,41.313383,-74.227441,41.313383],
+  "bbox": [
+    -74.227441,
+    41.313383,
+    -74.227441,
+    41.313383
+],
   "geometry": {"coordinates":[-74.227441,41.313383],"type":"Point"}
 }

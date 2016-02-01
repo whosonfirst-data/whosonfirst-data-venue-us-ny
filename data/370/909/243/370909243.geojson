@@ -2,13 +2,14 @@
   "id": 370909243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.661701,40.99311,-73.661701,40.99311",
     "geom:latitude":40.99311,
     "geom:longitude":-73.661701,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"80 Fox Island Rd",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530421,
+        102191575,
+        404523389,
         85633793,
         85978705,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"ae04e0d4017b3f55966d5a28239499ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523389,
             "locality_id":85978705,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530421,
             "region_id":85688543,
             "venue_id":370909243
         }
     ],
     "wof:id":370909243,
-    "wof:lastmodified":1449031642,
+    "wof:lastmodified":1454128067,
     "wof:name":"Giorgi Roofing & Masonry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530421,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.661701,40.99311,-73.661701,40.99311],
-  "geometry": {"coordinates":[-73.661701,40.99311],"type":"Point"}
+  "bbox": [
+    -73.661701,
+    40.99311,
+    -73.661701,
+    40.99311
+],
+  "geometry": {"coordinates":[-73.66170099999999,40.99311],"type":"Point"}
 }

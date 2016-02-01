@@ -2,13 +2,14 @@
   "id": 303165971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.994521,40.667425,-73.994521,40.667425",
     "geom:latitude":40.667425,
     "geom:longitude":-73.994521,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"576 3rd Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865587,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865587
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"41000013064265d1936c471414b7f55a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865587,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303165971,
-    "wof:lastmodified":1449000570,
+    "wof:lastmodified":1454123725,
     "wof:name":"A Ko Window & Door Design",
     "wof:parent_id":85865587,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "door"
     ]
 },
-  "bbox": [-73.994521,40.667425,-73.994521,40.667425],
-  "geometry": {"coordinates":[-73.994521,40.667425],"type":"Point"}
+  "bbox": [
+    -73.994521,
+    40.667425,
+    -73.994521,
+    40.667425
+],
+  "geometry": {"coordinates":[-73.99452100000001,40.667425],"type":"Point"}
 }

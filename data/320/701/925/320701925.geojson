@@ -2,13 +2,14 @@
   "id": 320701925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.91596,40.833971,-73.91596,40.833971",
     "geom:latitude":40.833971,
     "geom:longitude":-73.91596,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"205 E 167th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892793,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85892793
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"30d4af3c248d47a73bd0d15b10cdc1f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892793,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":320701925,
-    "wof:lastmodified":1449014180,
+    "wof:lastmodified":1454125236,
     "wof:name":"Sheridan Records",
     "wof:parent_id":85892793,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "tape"
     ]
 },
-  "bbox": [-73.91596,40.833971,-73.91596,40.833971],
+  "bbox": [
+    -73.91596,
+    40.833971,
+    -73.91596,
+    40.833971
+],
   "geometry": {"coordinates":[-73.91596,40.833971],"type":"Point"}
 }

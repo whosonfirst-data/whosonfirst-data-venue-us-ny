@@ -2,13 +2,14 @@
   "id": 286801067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.638799,43.977573,-75.638799,43.977573",
     "geom:latitude":43.977573,
     "geom:longitude":-75.638799,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"36788 State St",
     "sg:city":"Carthage",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826571,
+        102191575,
+        404521927,
         85633793,
-        85978073,
+        85979489,
         102082357,
-        85826571
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"44fd7b2d51aa9c5c87e3e320e5e27e85",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082357,
-            "locality_id":85978073,
+            "localadmin_id":404521927,
+            "locality_id":85979489,
             "neighbourhood_id":85826571,
             "region_id":85688543,
             "venue_id":286801067
         }
     ],
     "wof:id":286801067,
-    "wof:lastmodified":1449017606,
+    "wof:lastmodified":1454125825,
     "wof:name":"Action Importers",
     "wof:parent_id":85826571,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "importer"
     ]
 },
-  "bbox": [-75.638799,43.977573,-75.638799,43.977573],
-  "geometry": {"coordinates":[-75.638799,43.977573],"type":"Point"}
+  "bbox": [
+    -75.638799,
+    43.977573,
+    -75.638799,
+    43.977573
+],
+  "geometry": {"coordinates":[-75.63879900000001,43.977573],"type":"Point"}
 }

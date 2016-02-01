@@ -2,13 +2,14 @@
   "id": 270494121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.785884,40.809911,-72.785884,40.809911",
     "geom:latitude":40.809911,
     "geom:longitude":-72.785884,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"54 Bernstein Blvd",
     "sg:city":"Center Moriches",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"503d8bc9530cce58c149bb8d4cd4e93d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":270494121
         }
     ],
     "wof:id":270494121,
-    "wof:lastmodified":1449010824,
+    "wof:lastmodified":1454124692,
     "wof:name":"Computerized Bus Solutions",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.785884,40.809911,-72.785884,40.809911],
+  "bbox": [
+    -72.785884,
+    40.809911,
+    -72.785884,
+    40.809911
+],
   "geometry": {"coordinates":[-72.785884,40.809911],"type":"Point"}
 }

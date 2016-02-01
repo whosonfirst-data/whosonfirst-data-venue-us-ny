@@ -2,13 +2,14 @@
   "id": 303817093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.772414,43.092539,-73.772414,43.092539",
     "geom:latitude":43.092539,
     "geom:longitude":-73.772414,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"29 Ave C",
     "sg:city":"Saratoga Springs",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85859279,
+        102191575,
+        404522373,
         85633793,
         85977919,
         102082413,
-        85859279
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"3da174355726b4ee170dd619efcb20b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082413,
+            "localadmin_id":404522373,
             "locality_id":85977919,
             "neighbourhood_id":85859279,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":303817093,
-    "wof:lastmodified":1449000087,
+    "wof:lastmodified":1454123593,
     "wof:name":"Adirondack Cancer Care",
     "wof:parent_id":85859279,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.772414,43.092539,-73.772414,43.092539],
+  "bbox": [
+    -73.772414,
+    43.092539,
+    -73.772414,
+    43.092539
+],
   "geometry": {"coordinates":[-73.772414,43.092539],"type":"Point"}
 }

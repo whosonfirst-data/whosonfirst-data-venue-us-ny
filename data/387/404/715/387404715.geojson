@@ -2,13 +2,14 @@
   "id": 387404715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.665961,43.133002,-77.665961,43.133002",
     "geom:latitude":43.133002,
     "geom:longitude":-77.665961,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"381 Buell Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -29,11 +30,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102528361,
+        85880411,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85880411
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +47,11 @@
     "wof:geomhash":"5a593995f42902000be0c723bf24f82d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102528361,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85880411,
             "region_id":85688543,
@@ -53,9 +59,9 @@
         }
     ],
     "wof:id":387404715,
-    "wof:lastmodified":1449058640,
+    "wof:lastmodified":1454129985,
     "wof:name":"Buell Automatics Inc",
-    "wof:parent_id":85880411,
+    "wof:parent_id":102528361,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +71,11 @@
         "product"
     ]
 },
-  "bbox": [-77.665961,43.133002,-77.665961,43.133002],
+  "bbox": [
+    -77.665961,
+    43.133002,
+    -77.665961,
+    43.133002
+],
   "geometry": {"coordinates":[-77.665961,43.133002],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304066823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.202748,40.530204,-74.202748,40.530204",
     "geom:latitude":40.530204,
     "geom:longitude":-74.202748,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"112 Foster Rd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85869599
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"e7514c72b90233af88e74b9acbad3abd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869599,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":304066823,
-    "wof:lastmodified":1449043734,
+    "wof:lastmodified":1454128990,
     "wof:name":"Matthew T Scaffa DDS",
     "wof:parent_id":85869599,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-74.202748,40.530204,-74.202748,40.530204],
+  "bbox": [
+    -74.202748,
+    40.530204,
+    -74.202748,
+    40.530204
+],
   "geometry": {"coordinates":[-74.202748,40.530204],"type":"Point"}
 }

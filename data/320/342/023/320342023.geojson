@@ -2,13 +2,14 @@
   "id": 320342023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.56335,40.67706,-73.56335,40.67706",
     "geom:latitude":40.67706,
     "geom:longitude":-73.56335,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"53 Richard Ave",
     "sg:city":"Merrick",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529153,
+        102191575,
+        404521473,
         85633793,
-        85979125,
-        102082371
+        85979047,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"7116ea21669935085c1716654d20dbd0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979125,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979047,
+            "neighbourhood_id":420529153,
             "region_id":85688543,
             "venue_id":320342023
         }
     ],
     "wof:id":320342023,
-    "wof:lastmodified":1449014697,
+    "wof:lastmodified":1454125321,
     "wof:name":"A-1 Maintenance Masters",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529153,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "marking"
     ]
 },
-  "bbox": [-73.56335,40.67706,-73.56335,40.67706],
+  "bbox": [
+    -73.56335,
+    40.67706,
+    -73.56335,
+    40.67706
+],
   "geometry": {"coordinates":[-73.56335,40.67706],"type":"Point"}
 }

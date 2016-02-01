@@ -2,13 +2,14 @@
   "id": 387832891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.021459,40.648182,-74.021459,40.648182",
     "geom:latitude":40.648182,
     "geom:longitude":-74.021459,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5301 1st Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851575,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85851575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"c064e307032b72ec79de4a798a661548",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85851575,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387832891,
-    "wof:lastmodified":1449056133,
+    "wof:lastmodified":1454129536,
     "wof:name":"Aero Deluxe Shipping",
     "wof:parent_id":85851575,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "packaging"
     ]
 },
-  "bbox": [-74.021459,40.648182,-74.021459,40.648182],
-  "geometry": {"coordinates":[-74.021459,40.648182],"type":"Point"}
+  "bbox": [
+    -74.021459,
+    40.648182,
+    -74.021459,
+    40.648182
+],
+  "geometry": {"coordinates":[-74.02145899999999,40.648182],"type":"Point"}
 }

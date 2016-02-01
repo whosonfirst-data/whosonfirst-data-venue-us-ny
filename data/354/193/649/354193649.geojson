@@ -2,13 +2,14 @@
   "id": 354193649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.183974,42.620729,-76.183974,42.620729",
     "geom:latitude":42.620729,
     "geom:longitude":-76.183974,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"201 N Homer Ave",
     "sg:city":"Cortland",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528395,
+        102191575,
+        404522255,
         85633793,
+        85978519,
+        102083011,
         85688543
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"77c9427be4e0e50f4899a0f4f8740275",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083011,
+            "localadmin_id":404522255,
+            "locality_id":85978519,
+            "neighbourhood_id":420528395,
             "region_id":85688543,
             "venue_id":354193649
         }
     ],
     "wof:id":354193649,
-    "wof:lastmodified":1449066214,
+    "wof:lastmodified":1454130856,
     "wof:name":"Cortland Wholesale Electric",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528395,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.183974,42.620729,-76.183974,42.620729],
-  "geometry": {"coordinates":[-76.183974,42.620729],"type":"Point"}
+  "bbox": [
+    -76.183974,
+    42.620729,
+    -76.183974,
+    42.620729
+],
+  "geometry": {"coordinates":[-76.18397400000001,42.620729],"type":"Point"}
 }

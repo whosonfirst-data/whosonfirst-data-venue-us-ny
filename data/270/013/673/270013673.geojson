@@ -2,13 +2,14 @@
   "id": 270013673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.822322,43.0005,-78.822322,43.0005",
     "geom:latitude":43.0005,
     "geom:longitude":-78.822322,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1703 Niagara Falls Blvd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.starbucks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85822783,
+        102191575,
+        404522265,
         85633793,
         85979419,
         102082387,
-        85822783
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"ca8d28ca51d903b43e678a6a9900c702",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522265,
             "locality_id":85979419,
             "neighbourhood_id":85822783,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":270013673,
-    "wof:lastmodified":1449010319,
+    "wof:lastmodified":1454124618,
     "wof:name":"Starbucks",
     "wof:parent_id":85822783,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "eating"
     ]
 },
-  "bbox": [-78.822322,43.0005,-78.822322,43.0005],
+  "bbox": [
+    -78.822322,
+    43.0005,
+    -78.822322,
+    43.0005
+],
   "geometry": {"coordinates":[-78.822322,43.0005],"type":"Point"}
 }

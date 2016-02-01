@@ -2,13 +2,14 @@
   "id": 320412451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.897914,40.670175,-73.897914,40.670175",
     "geom:latitude":40.670175,
     "geom:longitude":-73.897914,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"330 Belmont Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.belmontmetals.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869421,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869421
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"2608c66300414707596ba5645767a87a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869421,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":320412451,
-    "wof:lastmodified":1449012020,
+    "wof:lastmodified":1454124885,
     "wof:name":"Belmont Metals Inc",
     "wof:parent_id":85869421,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "nonferrous"
     ]
 },
-  "bbox": [-73.897914,40.670175,-73.897914,40.670175],
+  "bbox": [
+    -73.897914,
+    40.670175,
+    -73.897914,
+    40.670175
+],
   "geometry": {"coordinates":[-73.897914,40.670175],"type":"Point"}
 }

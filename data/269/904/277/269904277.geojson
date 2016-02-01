@@ -2,13 +2,14 @@
   "id": 269904277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.689116,40.718402,-73.689116,40.718402",
     "geom:latitude":40.718402,
     "geom:longitude":-73.689116,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Covert Ave",
     "sg:city":"Garden City",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892843,
+        102191575,
+        404521473,
         85633793,
-        85977667,
+        85977689,
         102082371,
-        85892843
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"df5ba2f1497d7cb06c9d4e40a9f1bfb8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977667,
+            "localadmin_id":404521473,
+            "locality_id":85977689,
             "neighbourhood_id":85892843,
             "region_id":85688543,
             "venue_id":269904277
         }
     ],
     "wof:id":269904277,
-    "wof:lastmodified":1449039039,
+    "wof:lastmodified":1454128826,
     "wof:name":"Stewart Manor Village Clerk",
     "wof:parent_id":85892843,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "village"
     ]
 },
-  "bbox": [-73.689116,40.718402,-73.689116,40.718402],
+  "bbox": [
+    -73.689116,
+    40.718402,
+    -73.689116,
+    40.718402
+],
   "geometry": {"coordinates":[-73.689116,40.718402],"type":"Point"}
 }

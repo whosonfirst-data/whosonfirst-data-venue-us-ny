@@ -2,13 +2,14 @@
   "id": 286596137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.611379,43.254295,-77.611379,43.254295",
     "geom:latitude":43.254295,
     "geom:longitude":-77.611379,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4560 Lake Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851377,
+        102191575,
+        404522639,
         85633793,
+        85979035,
         102081815,
-        85851377
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"3eb1f10f07bcfb5b6c37f8f51823c904",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":-1,
+            "localadmin_id":404522639,
+            "locality_id":85979035,
             "neighbourhood_id":85851377,
             "region_id":85688543,
             "venue_id":286596137
         }
     ],
     "wof:id":286596137,
-    "wof:lastmodified":1449016703,
+    "wof:lastmodified":1454125665,
     "wof:name":"Suss Service",
     "wof:parent_id":85851377,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-77.611379,43.254295,-77.611379,43.254295],
+  "bbox": [
+    -77.611379,
+    43.254295,
+    -77.611379,
+    43.254295
+],
   "geometry": {"coordinates":[-77.611379,43.254295],"type":"Point"}
 }

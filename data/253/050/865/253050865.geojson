@@ -2,13 +2,14 @@
   "id": 253050865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.004942,40.718555,-74.004942,40.718555",
     "geom:latitude":40.718555,
     "geom:longitude":-74.004942,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"273 Church St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865713,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865713
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"170fb6ac19b5700b946ee6dad39131c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865713,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":253050865,
-    "wof:lastmodified":1449064458,
+    "wof:lastmodified":1454130518,
     "wof:name":"New England H V A/C Service",
     "wof:parent_id":85865713,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "heating"
     ]
 },
-  "bbox": [-74.004942,40.718555,-74.004942,40.718555],
+  "bbox": [
+    -74.004942,
+    40.718555,
+    -74.004942,
+    40.718555
+],
   "geometry": {"coordinates":[-74.004942,40.718555],"type":"Point"}
 }

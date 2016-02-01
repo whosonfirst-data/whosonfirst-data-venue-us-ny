@@ -2,13 +2,14 @@
   "id": 303099563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.65259,40.922638,-72.65259,40.922638",
     "geom:latitude":40.922638,
     "geom:longitude":-72.65259,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"810 E Main St",
     "sg:city":"Riverhead",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841881,
+        102191575,
+        404522671,
         85633793,
-        85979841,
+        85979909,
         102082395,
-        85841881
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"c095dc958fc151a18203659c38bf4705",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979841,
+            "localadmin_id":404522671,
+            "locality_id":85979909,
             "neighbourhood_id":85841881,
             "region_id":85688543,
             "venue_id":303099563
         }
     ],
     "wof:id":303099563,
-    "wof:lastmodified":1448999707,
+    "wof:lastmodified":1454123487,
     "wof:name":"Donno Kramer",
     "wof:parent_id":85841881,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "family"
     ]
 },
-  "bbox": [-72.65259,40.922638,-72.65259,40.922638],
+  "bbox": [
+    -72.65259,
+    40.922638,
+    -72.65259,
+    40.922638
+],
   "geometry": {"coordinates":[-72.65259,40.922638],"type":"Point"}
 }

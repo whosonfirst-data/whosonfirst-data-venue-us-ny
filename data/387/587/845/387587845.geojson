@@ -2,13 +2,14 @@
   "id": 387587845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.55615,43.176483,-77.55615,43.176483",
     "geom:latitude":43.176483,
     "geom:longitude":-77.55615,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"34 Empire Blvd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868843,
+        102191575,
+        404522639,
         85633793,
-        85977591,
+        85979035,
         102081815,
-        85868843
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,18 @@
     "wof:geomhash":"dc0bf2c758d64c9e224a8b1b71f87bdf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85977591,
+            "localadmin_id":404522639,
+            "locality_id":85979035,
             "neighbourhood_id":85868843,
             "region_id":85688543,
             "venue_id":387587845
         }
     ],
     "wof:id":387587845,
-    "wof:lastmodified":1449057401,
+    "wof:lastmodified":1454129760,
     "wof:name":"Alco Paving Inc",
     "wof:parent_id":85868843,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "paving"
     ]
 },
-  "bbox": [-77.55615,43.176483,-77.55615,43.176483],
+  "bbox": [
+    -77.55615,
+    43.176483,
+    -77.55615,
+    43.176483
+],
   "geometry": {"coordinates":[-77.55615,43.176483],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286402489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.744124,42.931846,-78.744124,42.931846",
     "geom:latitude":42.931846,
     "geom:longitude":-78.744124,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"132 Cayuga Rd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -30,6 +31,7 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102528321,
         85688543,
         85633793,
         102082387,
@@ -43,19 +45,18 @@
     "wof:geomhash":"588ce1be69983ace8fa0310a8264ef2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102528321,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
             "neighbourhood_id":85811327,
             "region_id":85688543,
             "venue_id":286402489
         }
     ],
     "wof:id":286402489,
-    "wof:lastmodified":1449016128,
+    "wof:lastmodified":1454125566,
     "wof:name":"Greenwich Mortgage Corp",
-    "wof:parent_id":85811327,
+    "wof:parent_id":102528321,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-78.744124,42.931846,-78.744124,42.931846],
+  "bbox": [
+    -78.744124,
+    42.931846,
+    -78.744124,
+    42.931846
+],
   "geometry": {"coordinates":[-78.744124,42.931846],"type":"Point"}
 }

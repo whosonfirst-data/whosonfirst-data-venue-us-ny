@@ -2,13 +2,14 @@
   "id": 370491679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.931392,42.824564,-73.931392,42.824564",
     "geom:latitude":42.824564,
     "geom:longitude":-73.931392,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1710 Erie Blvd",
     "sg:city":"Schenectady",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     "sg:website":"http://www.martin-env.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85835631,
+        102191575,
+        404522521,
         85633793,
         85977841,
         102081765,
-        85835631
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"e74534e056f428a0efb44df2c4826ac0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081765,
+            "localadmin_id":404522521,
             "locality_id":85977841,
             "neighbourhood_id":85835631,
             "region_id":85688543,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":370491679,
-    "wof:lastmodified":1449029013,
+    "wof:lastmodified":1454127293,
     "wof:name":"Martin Environmental Services Inc",
     "wof:parent_id":85835631,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "ecological"
     ]
 },
-  "bbox": [-73.931392,42.824564,-73.931392,42.824564],
+  "bbox": [
+    -73.931392,
+    42.824564,
+    -73.931392,
+    42.824564
+],
   "geometry": {"coordinates":[-73.931392,42.824564],"type":"Point"}
 }

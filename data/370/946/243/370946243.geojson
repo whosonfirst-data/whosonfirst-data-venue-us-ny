@@ -2,13 +2,14 @@
   "id": 370946243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.802474,40.976937,-73.802474,40.976937",
     "geom:latitude":40.976937,
     "geom:longitude":-73.802474,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"157 Summerfield St",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530449,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"047948bbd258563b1fbcdc86ea2665f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530449,
             "region_id":85688543,
             "venue_id":370946243
         }
     ],
     "wof:id":370946243,
-    "wof:lastmodified":1449032066,
+    "wof:lastmodified":1454128191,
     "wof:name":"Priscilla M Rivera Msw Csw",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530449,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "worker"
     ]
 },
-  "bbox": [-73.802474,40.976937,-73.802474,40.976937],
+  "bbox": [
+    -73.802474,
+    40.976937,
+    -73.802474,
+    40.976937
+],
   "geometry": {"coordinates":[-73.802474,40.976937],"type":"Point"}
 }

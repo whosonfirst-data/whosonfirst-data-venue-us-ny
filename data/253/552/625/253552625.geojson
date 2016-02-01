@@ -2,13 +2,14 @@
   "id": 253552625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.797874,40.987809,-73.797874,40.987809",
     "geom:latitude":40.987809,
     "geom:longitude":-73.797874,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"134 Popham Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530439,
+        102191575,
+        404523391,
         85633793,
         85978767,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"bb7fbfc5ac2981f0dce83b3655afedf1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523391,
             "locality_id":85978767,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530439,
             "region_id":85688543,
             "venue_id":253552625
         }
     ],
     "wof:id":253552625,
-    "wof:lastmodified":1449064064,
+    "wof:lastmodified":1454130452,
     "wof:name":"Orbi Properties Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530439,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-73.797874,40.987809,-73.797874,40.987809],
-  "geometry": {"coordinates":[-73.797874,40.987809],"type":"Point"}
+  "bbox": [
+    -73.797874,
+    40.987809,
+    -73.797874,
+    40.987809
+],
+  "geometry": {"coordinates":[-73.79787399999999,40.987809],"type":"Point"}
 }

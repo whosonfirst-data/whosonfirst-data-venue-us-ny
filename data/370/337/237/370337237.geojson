@@ -2,13 +2,14 @@
   "id": 370337237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.906792,40.894661,-72.906792,40.894661",
     "geom:latitude":40.894661,
     "geom:longitude":-72.906792,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"38 Woodlot Rd",
     "sg:city":"Ridge",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979861,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"c635fb2ef477e7c2f48cf2d00ba61a13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979861,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":370337237
         }
     ],
     "wof:id":370337237,
-    "wof:lastmodified":1449030676,
+    "wof:lastmodified":1454127780,
     "wof:name":"David Burns Painting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-72.906792,40.894661,-72.906792,40.894661],
+  "bbox": [
+    -72.906792,
+    40.894661,
+    -72.906792,
+    40.894661
+],
   "geometry": {"coordinates":[-72.906792,40.894661],"type":"Point"}
 }

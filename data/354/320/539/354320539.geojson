@@ -2,13 +2,14 @@
   "id": 354320539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.53167,40.730162,-73.53167,40.730162",
     "geom:latitude":40.730162,
     "geom:longitude":-73.53167,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Schoolhouse Rd.",
     "sg:city":"Levittown",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"WWW.Levittownbowling.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"82bc6097da6bcecd2674fb08ea924b0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":354320539
         }
     ],
     "wof:id":354320539,
-    "wof:lastmodified":1449066344,
+    "wof:lastmodified":1454130897,
     "wof:name":"North Levittown Lanes",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "event"
     ]
 },
-  "bbox": [-73.53167,40.730162,-73.53167,40.730162],
-  "geometry": {"coordinates":[-73.53167,40.730162],"type":"Point"}
+  "bbox": [
+    -73.53167,
+    40.730162,
+    -73.53167,
+    40.730162
+],
+  "geometry": {"coordinates":[-73.53167000000001,40.730162],"type":"Point"}
 }

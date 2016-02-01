@@ -2,13 +2,14 @@
   "id": 354072643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.616025,40.696965,-73.616025,40.696965",
     "geom:latitude":40.696965,
     "geom:longitude":-73.616025,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"29 Willow Ave",
     "sg:city":"Hempstead",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892743,
+        102191575,
+        404521473,
         85633793,
-        85979175,
+        85977663,
         102082371,
-        85892743
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"5e1f2b417c6d8d8aa81b781e890820f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979175,
+            "localadmin_id":404521473,
+            "locality_id":85977663,
             "neighbourhood_id":85892743,
             "region_id":85688543,
             "venue_id":354072643
         }
     ],
     "wof:id":354072643,
-    "wof:lastmodified":1449066843,
+    "wof:lastmodified":1454131050,
     "wof:name":"Miracle Polishing Co",
     "wof:parent_id":85892743,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "product"
     ]
 },
-  "bbox": [-73.616025,40.696965,-73.616025,40.696965],
-  "geometry": {"coordinates":[-73.616025,40.696965],"type":"Point"}
+  "bbox": [
+    -73.616025,
+    40.696965,
+    -73.616025,
+    40.696965
+],
+  "geometry": {"coordinates":[-73.61602499999999,40.696965],"type":"Point"}
 }

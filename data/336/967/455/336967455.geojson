@@ -2,13 +2,14 @@
   "id": 336967455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.3927,40.885976,-72.3927,40.885976",
     "geom:latitude":40.885976,
     "geom:longitude":-72.3927,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Windmill Ln",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"0b41e0966f94b03a5a2e3dc5c1098880",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":336967455
         }
     ],
     "wof:id":336967455,
-    "wof:lastmodified":1448997938,
+    "wof:lastmodified":1454122929,
     "wof:name":"What's Your Point",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "needlework"
     ]
 },
-  "bbox": [-72.3927,40.885976,-72.3927,40.885976],
+  "bbox": [
+    -72.3927,
+    40.885976,
+    -72.3927,
+    40.885976
+],
   "geometry": {"coordinates":[-72.3927,40.885976],"type":"Point"}
 }

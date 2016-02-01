@@ -2,13 +2,14 @@
   "id": 353677093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.804444,40.707319,-73.804444,40.707319",
     "geom:latitude":40.707319,
     "geom:longitude":-73.804444,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15333 Hillside Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865653,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865653
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"029c31effa0fa6efa43cab5f3bfcb9a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865653,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":353677093,
-    "wof:lastmodified":1449019170,
+    "wof:lastmodified":1454126215,
     "wof:name":"Natives Restaurant",
     "wof:parent_id":85865653,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "spanish"
     ]
 },
-  "bbox": [-73.804444,40.707319,-73.804444,40.707319],
+  "bbox": [
+    -73.804444,
+    40.707319,
+    -73.804444,
+    40.707319
+],
   "geometry": {"coordinates":[-73.804444,40.707319],"type":"Point"}
 }

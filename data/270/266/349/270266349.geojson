@@ -2,13 +2,14 @@
   "id": 270266349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.255606,43.036323,-76.255606,43.036323",
     "geom:latitude":43.036323,
     "geom:longitude":-76.255606,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"109 Fernpark Dr",
     "sg:city":"Camillus",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529339,
+        102191575,
+        404522819,
         85633793,
         85979217,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"50344ef422c667a651a0e3c469d7b645",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522819,
             "locality_id":85979217,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529339,
             "region_id":85688543,
             "venue_id":270266349
         }
     ],
     "wof:id":270266349,
-    "wof:lastmodified":1449008749,
+    "wof:lastmodified":1454124382,
     "wof:name":"Gridleys Cupon Accounting Firm",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529339,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "redemption"
     ]
 },
-  "bbox": [-76.255606,43.036323,-76.255606,43.036323],
+  "bbox": [
+    -76.255606,
+    43.036323,
+    -76.255606,
+    43.036323
+],
   "geometry": {"coordinates":[-76.255606,43.036323],"type":"Point"}
 }

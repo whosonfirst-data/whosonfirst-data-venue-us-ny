@@ -2,13 +2,14 @@
   "id": 387199893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.696936,43.022963,-78.696936,43.022963",
     "geom:latitude":43.022963,
     "geom:longitude":-78.696936,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9170 Transit Rd",
     "sg:city":"East Amherst",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85859049,
+        102082387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"816d59648f841cf620900f8adc54b761",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082387,
+            "neighbourhood_id":85859049,
             "region_id":85688543,
             "venue_id":387199893
         }
     ],
     "wof:id":387199893,
-    "wof:lastmodified":1449056504,
+    "wof:lastmodified":1454129599,
     "wof:name":"Jurek Lumber Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859049,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "lumber"
     ]
 },
-  "bbox": [-78.696936,43.022963,-78.696936,43.022963],
-  "geometry": {"coordinates":[-78.696936,43.022963],"type":"Point"}
+  "bbox": [
+    -78.696936,
+    43.022963,
+    -78.696936,
+    43.022963
+],
+  "geometry": {"coordinates":[-78.69693599999999,43.022963],"type":"Point"}
 }

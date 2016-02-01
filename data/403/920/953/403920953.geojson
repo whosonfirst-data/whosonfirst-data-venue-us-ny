@@ -2,13 +2,14 @@
   "id": 403920953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.945074,41.044885,-73.945074,41.044885",
     "geom:latitude":41.044885,
     "geom:longitude":-73.945074,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 State Hwy 340",
     "sg:city":"Orangeburg",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.co.rockland.ny.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836399,
+        102191575,
+        404523095,
         85633793,
         85980003,
         102082385,
-        85836399
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"b55a3a5118961d22c3f5cbf5aeaccab2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523095,
             "locality_id":85980003,
             "neighbourhood_id":85836399,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":403920953,
-    "wof:lastmodified":1449055662,
+    "wof:lastmodified":1454129469,
     "wof:name":"Sewer Commission",
     "wof:parent_id":85836399,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.945074,41.044885,-73.945074,41.044885],
-  "geometry": {"coordinates":[-73.945074,41.044885],"type":"Point"}
+  "bbox": [
+    -73.945074,
+    41.044885,
+    -73.945074,
+    41.044885
+],
+  "geometry": {"coordinates":[-73.94507400000001,41.044885],"type":"Point"}
 }

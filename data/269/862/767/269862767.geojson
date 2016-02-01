@@ -2,13 +2,14 @@
   "id": 269862767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.943751,40.799508,-73.943751,40.799508",
     "geom:latitude":40.799508,
     "geom:longitude":-73.943751,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"70 E 116th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865689,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865689
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"7c4579cb3961bf88300718394c14fc2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865689,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":269862767,
-    "wof:lastmodified":1449039052,
+    "wof:lastmodified":1454128830,
     "wof:name":"99 Cent Store",
     "wof:parent_id":85865689,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "variety"
     ]
 },
-  "bbox": [-73.943751,40.799508,-73.943751,40.799508],
-  "geometry": {"coordinates":[-73.943751,40.799508],"type":"Point"}
+  "bbox": [
+    -73.943751,
+    40.799508,
+    -73.943751,
+    40.799508
+],
+  "geometry": {"coordinates":[-73.94375100000001,40.799508],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354097667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.540199,40.6833,-73.540199,40.6833",
     "geom:latitude":40.6833,
     "geom:longitude":-73.540199,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1534 Newbridge Rd",
     "sg:city":"North Bellmore",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529153,
+        102191575,
+        404521473,
         85633793,
-        85979059,
-        102082371
+        85979047,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"7417507297c8b5f8cea6afb20088b15e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979059,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979047,
+            "neighbourhood_id":420529153,
             "region_id":85688543,
             "venue_id":354097667
         }
     ],
     "wof:id":354097667,
-    "wof:lastmodified":1449066582,
+    "wof:lastmodified":1454130972,
     "wof:name":"Peking Gourmet",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529153,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "chinese"
     ]
 },
-  "bbox": [-73.540199,40.6833,-73.540199,40.6833],
+  "bbox": [
+    -73.540199,
+    40.6833,
+    -73.540199,
+    40.6833
+],
   "geometry": {"coordinates":[-73.540199,40.6833],"type":"Point"}
 }

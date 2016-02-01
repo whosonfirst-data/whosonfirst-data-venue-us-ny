@@ -2,13 +2,14 @@
   "id": 286751705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.18696,40.786858,-73.18696,40.786858",
     "geom:latitude":40.786858,
     "geom:longitude":-73.18696,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"35 E Locust St",
     "sg:city":"Central Islip",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
-        85979813,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"30dfd3385e4359237a472fe1eb7e7199",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979813,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":286751705
         }
     ],
     "wof:id":286751705,
-    "wof:lastmodified":1449015339,
+    "wof:lastmodified":1454125428,
     "wof:name":"Smooth Auto Detailing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "clean"
     ]
 },
-  "bbox": [-73.18696,40.786858,-73.18696,40.786858],
+  "bbox": [
+    -73.18696,
+    40.786858,
+    -73.18696,
+    40.786858
+],
   "geometry": {"coordinates":[-73.18696,40.786858],"type":"Point"}
 }

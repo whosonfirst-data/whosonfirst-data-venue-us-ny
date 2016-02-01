@@ -2,13 +2,14 @@
   "id": 303785341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.357931,40.709434,-73.357931,40.709434",
     "geom:latitude":40.709434,
     "geom:longitude":-73.357931,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"260 Rte 109",
     "sg:city":"West Babylon",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
-        85979895,
-        102082395
+        85978477,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"7c36069b8da2f289d4ccd9f192261299",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979895,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522513,
+            "locality_id":85978477,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":303785341
         }
     ],
     "wof:id":303785341,
-    "wof:lastmodified":1449000145,
+    "wof:lastmodified":1454123608,
     "wof:name":"Babylon Motor Truck Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "truck"
     ]
 },
-  "bbox": [-73.357931,40.709434,-73.357931,40.709434],
-  "geometry": {"coordinates":[-73.357931,40.709434],"type":"Point"}
+  "bbox": [
+    -73.357931,
+    40.709434,
+    -73.357931,
+    40.709434
+],
+  "geometry": {"coordinates":[-73.35793099999999,40.709434],"type":"Point"}
 }

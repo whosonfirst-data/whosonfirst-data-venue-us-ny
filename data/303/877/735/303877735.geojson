@@ -2,13 +2,14 @@
   "id": 303877735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.867573,41.037395,-73.867573,41.037395",
     "geom:latitude":41.037395,
     "geom:longitude":-73.867573,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"36 Jaffray Park",
     "sg:city":"Irvington",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893041,
+        102191575,
+        404523359,
         85633793,
         85978765,
         102082373,
-        85893041
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"d5222af41ca9416da5354ad93ac1e65d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523359,
             "locality_id":85978765,
             "neighbourhood_id":85893041,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":303877735,
-    "wof:lastmodified":1448999835,
+    "wof:lastmodified":1454123525,
     "wof:name":"Flourish",
     "wof:parent_id":85893041,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.867573,41.037395,-73.867573,41.037395],
-  "geometry": {"coordinates":[-73.867573,41.037395],"type":"Point"}
+  "bbox": [
+    -73.867573,
+    41.037395,
+    -73.867573,
+    41.037395
+],
+  "geometry": {"coordinates":[-73.86757299999999,41.037395],"type":"Point"}
 }

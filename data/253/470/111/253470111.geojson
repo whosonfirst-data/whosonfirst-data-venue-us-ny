@@ -2,13 +2,14 @@
   "id": 253470111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.470728,40.779385,-73.470728,40.779385",
     "geom:latitude":40.779385,
     "geom:longitude":-73.470728,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"73 Victor St",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"338de70079f4e2853f73760a30e5c606",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":253470111
         }
     ],
     "wof:id":253470111,
-    "wof:lastmodified":1449063531,
+    "wof:lastmodified":1454130365,
     "wof:name":"Cheshire Technology",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "related"
     ]
 },
-  "bbox": [-73.470728,40.779385,-73.470728,40.779385],
-  "geometry": {"coordinates":[-73.470728,40.779385],"type":"Point"}
+  "bbox": [
+    -73.470728,
+    40.779385,
+    -73.470728,
+    40.779385
+],
+  "geometry": {"coordinates":[-73.47072799999999,40.779385],"type":"Point"}
 }

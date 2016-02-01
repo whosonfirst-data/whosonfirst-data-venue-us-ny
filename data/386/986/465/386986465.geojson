@@ -2,13 +2,14 @@
   "id": 386986465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.590543,43.160663,-77.590543,43.160663",
     "geom:latitude":43.160663,
     "geom:longitude":-77.590543,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"834 E Main St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -51,11 +52,13 @@
     "sg:website":"http://www.midas.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880407,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85880407
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,9 +68,10 @@
     "wof:geomhash":"f6db9f3421fce39c520adb3b5cf42763",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85880407,
             "region_id":85688543,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":386986465,
-    "wof:lastmodified":1449028888,
+    "wof:lastmodified":1454127260,
     "wof:name":"Midas Auto Svc Experts",
     "wof:parent_id":85880407,
     "wof:placetype":"venue",
@@ -98,6 +102,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-77.590543,43.160663,-77.590543,43.160663],
+  "bbox": [
+    -77.590543,
+    43.160663,
+    -77.590543,
+    43.160663
+],
   "geometry": {"coordinates":[-77.590543,43.160663],"type":"Point"}
 }

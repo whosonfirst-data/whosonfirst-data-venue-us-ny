@@ -2,13 +2,14 @@
   "id": 371108275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.855003,42.947714,-78.855003,42.947714",
     "geom:latitude":42.947714,
     "geom:longitude":-78.855003,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1430 Hertel Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.berthasdiner.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872923,
+        102191575,
+        404522329,
         85633793,
         85978023,
         102082387,
-        85872923
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"3963e6856c2ed3a8a69cd9c8bf8b5209",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
             "neighbourhood_id":85872923,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":371108275,
-    "wof:lastmodified":1449049090,
+    "wof:lastmodified":1454129049,
     "wof:name":"Bertha's Diner",
     "wof:parent_id":85872923,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "diner"
     ]
 },
-  "bbox": [-78.855003,42.947714,-78.855003,42.947714],
+  "bbox": [
+    -78.855003,
+    42.947714,
+    -78.855003,
+    42.947714
+],
   "geometry": {"coordinates":[-78.855003,42.947714],"type":"Point"}
 }

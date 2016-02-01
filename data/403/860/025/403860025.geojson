@@ -2,13 +2,14 @@
   "id": 403860025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.072831,42.044756,-74.072831,42.044756",
     "geom:latitude":42.044756,
     "geom:longitude":-74.072831,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"589 Old Rte 212",
     "sg:city":"Saugerties",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848631,
+        102191575,
+        404521657,
         85633793,
+        85978919,
         102081775,
-        85848631
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"67e8fb94ca41667e5b2dc5884924008e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
-            "locality_id":-1,
+            "localadmin_id":404521657,
+            "locality_id":85978919,
             "neighbourhood_id":85848631,
             "region_id":85688543,
             "venue_id":403860025
         }
     ],
     "wof:id":403860025,
-    "wof:lastmodified":1449055228,
+    "wof:lastmodified":1454129408,
     "wof:name":"Steves Repair",
     "wof:parent_id":85848631,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "garden"
     ]
 },
-  "bbox": [-74.072831,42.044756,-74.072831,42.044756],
-  "geometry": {"coordinates":[-74.072831,42.044756],"type":"Point"}
+  "bbox": [
+    -74.072831,
+    42.044756,
+    -74.072831,
+    42.044756
+],
+  "geometry": {"coordinates":[-74.07283099999999,42.044756],"type":"Point"}
 }

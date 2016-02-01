@@ -2,13 +2,14 @@
   "id": 387818623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.809429,40.98495,-73.809429,40.98495",
     "geom:latitude":40.98495,
     "geom:longitude":-73.809429,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"809 Scarsdale Ave",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530443,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"60c0cb55ac76b2c90a09f5f8880eef77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530443,
             "region_id":85688543,
             "venue_id":387818623
         }
     ],
     "wof:id":387818623,
-    "wof:lastmodified":1449057948,
+    "wof:lastmodified":1454129857,
     "wof:name":"C & F Plumbing & Heating Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530443,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.809429,40.98495,-73.809429,40.98495],
-  "geometry": {"coordinates":[-73.809429,40.98495],"type":"Point"}
+  "bbox": [
+    -73.809429,
+    40.98495,
+    -73.809429,
+    40.98495
+],
+  "geometry": {"coordinates":[-73.80942899999999,40.98495],"type":"Point"}
 }

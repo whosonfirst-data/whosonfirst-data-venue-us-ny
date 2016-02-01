@@ -2,13 +2,14 @@
   "id": 336607287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.633356,40.742953,-73.633356,40.742953",
     "geom:latitude":40.742953,
     "geom:longitude":-73.633356,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"255 E 2nd St",
     "sg:city":"Mineola",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893069,
+        102191575,
+        404522729,
         85633793,
-        85977735,
+        85979163,
         102082371,
-        85893069
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"2eabf2cefae78c1f04bdd1a722798d3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977735,
+            "localadmin_id":404522729,
+            "locality_id":85979163,
             "neighbourhood_id":85893069,
             "region_id":85688543,
             "venue_id":336607287
         }
     ],
     "wof:id":336607287,
-    "wof:lastmodified":1448997071,
+    "wof:lastmodified":1454122393,
     "wof:name":"Precision Disc Grinding",
     "wof:parent_id":85893069,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "grinding"
     ]
 },
-  "bbox": [-73.633356,40.742953,-73.633356,40.742953],
-  "geometry": {"coordinates":[-73.633356,40.742953],"type":"Point"}
+  "bbox": [
+    -73.633356,
+    40.742953,
+    -73.633356,
+    40.742953
+],
+  "geometry": {"coordinates":[-73.63335600000001,40.742953],"type":"Point"}
 }

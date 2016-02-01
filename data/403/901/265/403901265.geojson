@@ -2,13 +2,14 @@
   "id": 403901265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.648887,40.849607,-73.648887,40.849607",
     "geom:latitude":40.849607,
     "geom:longitude":-73.648887,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"76 Summit Ave",
     "sg:city":"Sea Cliff",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
         85977597,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"56993225aa5b1b6494139e4f79d1cb48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85977597,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":403901265
         }
     ],
     "wof:id":403901265,
-    "wof:lastmodified":1449055186,
+    "wof:lastmodified":1454129400,
     "wof:name":"Pilgrim Electric Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.648887,40.849607,-73.648887,40.849607],
+  "bbox": [
+    -73.648887,
+    40.849607,
+    -73.648887,
+    40.849607
+],
   "geometry": {"coordinates":[-73.648887,40.849607],"type":"Point"}
 }

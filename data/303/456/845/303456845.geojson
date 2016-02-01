@@ -2,13 +2,14 @@
   "id": 303456845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.832731,40.975908,-73.832731,40.975908",
     "geom:latitude":40.975908,
     "geom:longitude":-73.832731,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2205 Central Park Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805227,
+        102191575,
+        404523359,
         85633793,
-        85978759,
+        85980063,
         102082373,
-        85805227
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"7cec2e143e83e8978c2f9e401fbb03c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978759,
+            "localadmin_id":404523359,
+            "locality_id":85980063,
             "neighbourhood_id":85805227,
             "region_id":85688543,
             "venue_id":303456845
         }
     ],
     "wof:id":303456845,
-    "wof:lastmodified":1448998840,
+    "wof:lastmodified":1454123241,
     "wof:name":"Hsbc Bank USA National Assn",
     "wof:parent_id":85805227,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "commercial"
     ]
 },
-  "bbox": [-73.832731,40.975908,-73.832731,40.975908],
+  "bbox": [
+    -73.832731,
+    40.975908,
+    -73.832731,
+    40.975908
+],
   "geometry": {"coordinates":[-73.832731,40.975908],"type":"Point"}
 }

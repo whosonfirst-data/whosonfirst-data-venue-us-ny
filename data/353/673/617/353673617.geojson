@@ -2,13 +2,14 @@
   "id": 353673617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.804214,40.66291,-73.804214,40.66291",
     "geom:latitude":40.66291,
     "geom:longitude":-73.804214,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"JFK INTERNATIONAL AIRPORT",
     "sg:city":"Jamaica",
     "sg:classifiers":[
@@ -41,12 +42,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865645,
-        85823673
+        102082361,
+        85688543,
+        85865647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,28 +60,32 @@
     "wof:geomhash":"677dfedfff0b0be30dc3d45a55f2a90a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85865645,
+            "neighbourhood_id":85823673,
             "region_id":85688543,
             "venue_id":353673617
         },
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85823673,
+            "neighbourhood_id":85865647,
             "region_id":85688543,
             "venue_id":353673617
         }
     ],
     "wof:id":353673617,
-    "wof:lastmodified":1449019250,
+    "wof:lastmodified":1454126237,
     "wof:name":"Computer Repair - Open 24/7",
-    "wof:parent_id":-1,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -94,6 +102,11 @@
         "network"
     ]
 },
-  "bbox": [-73.804214,40.66291,-73.804214,40.66291],
+  "bbox": [
+    -73.804214,
+    40.66291,
+    -73.804214,
+    40.66291
+],
   "geometry": {"coordinates":[-73.804214,40.66291],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286771139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.234625,40.80956,-73.234625,40.80956",
     "geom:latitude":40.80956,
     "geom:longitude":-73.234625,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"730 Old Willets Path",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"c47f2ef6c899968d3f2c4b6ebe88906f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":286771139
         }
     ],
     "wof:id":286771139,
-    "wof:lastmodified":1449016775,
+    "wof:lastmodified":1454125680,
     "wof:name":"Storage USA",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "storage"
     ]
 },
-  "bbox": [-73.234625,40.80956,-73.234625,40.80956],
-  "geometry": {"coordinates":[-73.234625,40.80956],"type":"Point"}
+  "bbox": [
+    -73.234625,
+    40.80956,
+    -73.234625,
+    40.80956
+],
+  "geometry": {"coordinates":[-73.23462499999999,40.80956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320213081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.901403,40.884854,-73.901403,40.884854",
     "geom:latitude":40.884854,
     "geom:longitude":-73.901403,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3657 Kingsbridge Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85828377,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85828377
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"93b37455b48961d274d68592d9a85696",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85828377,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":320213081,
-    "wof:lastmodified":1449011299,
+    "wof:lastmodified":1454124768,
     "wof:name":"283 Food Corp",
     "wof:parent_id":85828377,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "product"
     ]
 },
-  "bbox": [-73.901403,40.884854,-73.901403,40.884854],
+  "bbox": [
+    -73.901403,
+    40.884854,
+    -73.901403,
+    40.884854
+],
   "geometry": {"coordinates":[-73.901403,40.884854],"type":"Point"}
 }

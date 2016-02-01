@@ -2,13 +2,14 @@
   "id": 354382891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.930244,40.907184,-72.930244,40.907184",
     "geom:latitude":40.907184,
     "geom:longitude":-72.930244,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Currans Rd",
     "sg:city":"Middle Island",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979955,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"a7d53c0936078d5a27f5493820651bbe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979955,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":354382891
         }
     ],
     "wof:id":354382891,
-    "wof:lastmodified":1449066363,
+    "wof:lastmodified":1454130902,
     "wof:name":"Otter House",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-72.930244,40.907184,-72.930244,40.907184],
+  "bbox": [
+    -72.930244,
+    40.907184,
+    -72.930244,
+    40.907184
+],
   "geometry": {"coordinates":[-72.930244,40.907184],"type":"Point"}
 }

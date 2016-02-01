@@ -2,13 +2,14 @@
   "id": 353645877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.814902,40.682208,-73.814902,40.682208",
     "geom:latitude":40.682208,
     "geom:longitude":-73.814902,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12606 111th Avenue",
     "sg:city":"South Ozone Park",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844441,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844441
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ee6665b01419386eb3f4ab85ef0d7e5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844441,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353645877,
-    "wof:lastmodified":1449018516,
+    "wof:lastmodified":1454126026,
     "wof:name":"Earlybird Car Service",
     "wof:parent_id":85844441,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "limo"
     ]
 },
-  "bbox": [-73.814902,40.682208,-73.814902,40.682208],
+  "bbox": [
+    -73.814902,
+    40.682208,
+    -73.814902,
+    40.682208
+],
   "geometry": {"coordinates":[-73.814902,40.682208],"type":"Point"}
 }

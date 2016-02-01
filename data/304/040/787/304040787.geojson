@@ -2,13 +2,14 @@
   "id": 304040787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.094794,40.730962,-73.094794,40.730962",
     "geom:latitude":40.730962,
     "geom:longitude":-73.094794,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"38 Cherry Ave",
     "sg:city":"West Sayville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"2e38f6ff7681ec91e9a6d0bd8f75fa5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":304040787
         }
     ],
     "wof:id":304040787,
-    "wof:lastmodified":1449044139,
+    "wof:lastmodified":1454129036,
     "wof:name":"St Mary's Malankara Orthodox",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-73.094794,40.730962,-73.094794,40.730962],
-  "geometry": {"coordinates":[-73.094794,40.730962],"type":"Point"}
+  "bbox": [
+    -73.094794,
+    40.730962,
+    -73.094794,
+    40.730962
+],
+  "geometry": {"coordinates":[-73.09479399999999,40.730962],"type":"Point"}
 }

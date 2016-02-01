@@ -2,13 +2,14 @@
   "id": 303074735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.727441,40.641676,-73.727441,40.641676",
     "geom:latitude":40.641676,
     "geom:longitude":-73.727441,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"699 Golf Dr",
     "sg:city":"Valley Stream",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845957,
+        102191575,
+        404521473,
         85633793,
-        85977539,
-        102082377,
-        85845957
+        85979053,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"a24d1bde62bc5a937699aae11ce4da77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404521473,
+            "locality_id":85979053,
             "neighbourhood_id":85845957,
             "region_id":85688543,
             "venue_id":303074735
         }
     ],
     "wof:id":303074735,
-    "wof:lastmodified":1448999441,
+    "wof:lastmodified":1454123417,
     "wof:name":"Artistic Sausage Corp",
     "wof:parent_id":85845957,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.727441,40.641676,-73.727441,40.641676],
+  "bbox": [
+    -73.727441,
+    40.641676,
+    -73.727441,
+    40.641676
+],
   "geometry": {"coordinates":[-73.727441,40.641676],"type":"Point"}
 }

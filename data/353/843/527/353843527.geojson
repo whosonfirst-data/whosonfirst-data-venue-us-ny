@@ -2,13 +2,14 @@
   "id": 353843527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.98981,41.142143,-73.98981,41.142143",
     "geom:latitude":41.142143,
     "geom:longitude":-73.98981,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 3rd St",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"62be5dc14339c50f4e23d1bba3b6cf74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":353843527
         }
     ],
     "wof:id":353843527,
-    "wof:lastmodified":1449018479,
+    "wof:lastmodified":1454126013,
     "wof:name":"Selena's",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.98981,41.142143,-73.98981,41.142143],
-  "geometry": {"coordinates":[-73.98981,41.142143],"type":"Point"}
+  "bbox": [
+    -73.98981,
+    41.142143,
+    -73.98981,
+    41.142143
+],
+  "geometry": {"coordinates":[-73.98981000000001,41.142143],"type":"Point"}
 }

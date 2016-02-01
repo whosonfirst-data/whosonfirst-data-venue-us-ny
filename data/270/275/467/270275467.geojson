@@ -2,13 +2,14 @@
   "id": 270275467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.809917,42.980133,-78.809917,42.980133",
     "geom:latitude":42.980133,
     "geom:longitude":-78.809917,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3356 Sheridan Dr",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823285,
+        102191575,
+        404522321,
         85633793,
+        85979407,
         102082387,
-        85823285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +48,18 @@
     "wof:geomhash":"181b2f3c8c8f57c030e0546bf7a16987",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979407,
             "neighbourhood_id":85823285,
             "region_id":85688543,
             "venue_id":270275467
         }
     ],
     "wof:id":270275467,
-    "wof:lastmodified":1449009410,
+    "wof:lastmodified":1454124480,
     "wof:name":"Sally Beauty Supply 724",
     "wof:parent_id":85823285,
     "wof:placetype":"venue",
@@ -68,6 +73,11 @@
         "beauty"
     ]
 },
-  "bbox": [-78.809917,42.980133,-78.809917,42.980133],
+  "bbox": [
+    -78.809917,
+    42.980133,
+    -78.809917,
+    42.980133
+],
   "geometry": {"coordinates":[-78.809917,42.980133],"type":"Point"}
 }

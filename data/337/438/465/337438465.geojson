@@ -2,13 +2,14 @@
   "id": 337438465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.841468,40.96932,-73.841468,40.96932",
     "geom:latitude":40.96932,
     "geom:longitude":-73.841468,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"111 Round Hill Dr",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530405,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"bf2d00a96ccca125f5fef0bedcf18db9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530405,
             "region_id":85688543,
             "venue_id":337438465
         }
     ],
     "wof:id":337438465,
-    "wof:lastmodified":1449027217,
+    "wof:lastmodified":1454126978,
     "wof:name":"Timan Landscaping",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530405,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.841468,40.96932,-73.841468,40.96932],
-  "geometry": {"coordinates":[-73.841468,40.96932],"type":"Point"}
+  "bbox": [
+    -73.841468,
+    40.96932,
+    -73.841468,
+    40.96932
+],
+  "geometry": {"coordinates":[-73.84146800000001,40.96932],"type":"Point"}
 }

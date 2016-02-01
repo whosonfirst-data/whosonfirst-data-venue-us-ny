@@ -2,13 +2,14 @@
   "id": 370837743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.447247,43.255548,-75.447247,43.255548",
     "geom:latitude":43.255548,
     "geom:longitude":-75.447247,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8120 Buena Vista Dr",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     "sg:website":"http://www.aalimousinerome.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529303,
+        102191575,
+        404522697,
         85633793,
         85978369,
-        102083149
+        102083149,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"d1fba51ee99bbd548f8ca59a52d416c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083149,
+            "localadmin_id":404522697,
             "locality_id":85978369,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529303,
             "region_id":85688543,
             "venue_id":370837743
         }
     ],
     "wof:id":370837743,
-    "wof:lastmodified":1449029619,
+    "wof:lastmodified":1454127469,
     "wof:name":"All American Limousine",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529303,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "limousine"
     ]
 },
-  "bbox": [-75.447247,43.255548,-75.447247,43.255548],
+  "bbox": [
+    -75.447247,
+    43.255548,
+    -75.447247,
+    43.255548
+],
   "geometry": {"coordinates":[-75.447247,43.255548],"type":"Point"}
 }

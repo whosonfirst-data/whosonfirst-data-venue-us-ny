@@ -2,13 +2,14 @@
   "id": 354134499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.205697,40.767876,-73.205697,40.767876",
     "geom:latitude":40.767876,
     "geom:longitude":-73.205697,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"668 Wilson Blvd",
     "sg:city":"Central Islip",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530029,
+        102191575,
+        404522517,
         85633793,
-        85979813,
-        102082395
+        85979775,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"80813f99351d32c2f4c4b64b92fee6ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979813,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979775,
+            "neighbourhood_id":420530029,
             "region_id":85688543,
             "venue_id":354134499
         }
     ],
     "wof:id":354134499,
-    "wof:lastmodified":1449067577,
+    "wof:lastmodified":1454131280,
     "wof:name":"All Points Sanitation",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530029,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-73.205697,40.767876,-73.205697,40.767876],
+  "bbox": [
+    -73.205697,
+    40.767876,
+    -73.205697,
+    40.767876
+],
   "geometry": {"coordinates":[-73.205697,40.767876],"type":"Point"}
 }

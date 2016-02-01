@@ -2,13 +2,14 @@
   "id": 169851747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.946728,40.711376,-73.946728,40.711376",
     "geom:latitude":40.711376,
     "geom:longitude":-73.946728,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"638 Grand St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.blueangelwines.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857853,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85857853
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"d6d6e0972af109af87e1077dbe63905f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85857853,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":169851747,
-    "wof:lastmodified":1449034860,
+    "wof:lastmodified":1454128417,
     "wof:name":"Blue Angel Wines",
     "wof:parent_id":85857853,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "wine"
     ]
 },
-  "bbox": [-73.946728,40.711376,-73.946728,40.711376],
-  "geometry": {"coordinates":[-73.946728,40.711376],"type":"Point"}
+  "bbox": [
+    -73.946728,
+    40.711376,
+    -73.946728,
+    40.711376
+],
+  "geometry": {"coordinates":[-73.94672799999999,40.711376],"type":"Point"}
 }

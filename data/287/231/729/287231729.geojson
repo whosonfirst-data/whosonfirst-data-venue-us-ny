@@ -2,13 +2,14 @@
   "id": 287231729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.107493,40.581771,-74.107493,40.581771",
     "geom:latitude":40.581771,
     "geom:longitude":-74.107493,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"72 Bedford Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85822553,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85822553
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"f0a31c13be6d28a5ef1dc5c17bf6c32c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85822553,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":287231729,
-    "wof:lastmodified":1449001113,
+    "wof:lastmodified":1454123859,
     "wof:name":"Is Marine Repair",
     "wof:parent_id":85822553,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "repair"
     ]
 },
-  "bbox": [-74.107493,40.581771,-74.107493,40.581771],
-  "geometry": {"coordinates":[-74.107493,40.581771],"type":"Point"}
+  "bbox": [
+    -74.107493,
+    40.581771,
+    -74.107493,
+    40.581771
+],
+  "geometry": {"coordinates":[-74.10749300000001,40.581771],"type":"Point"}
 }

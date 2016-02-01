@@ -2,13 +2,14 @@
   "id": 371009807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.162838,40.803386,-73.162838,40.803386",
     "geom:latitude":40.803386,
     "geom:longitude":-73.162838,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"141 Johnson Ave",
     "sg:city":"Islandia",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816389,
+        102191575,
+        404522517,
         85633793,
-        85979773,
+        85979693,
         102082395,
-        85816389
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"e5c518cfa9842adbc6f88761f38e72cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
             "neighbourhood_id":85816389,
             "region_id":85688543,
             "venue_id":371009807
         }
     ],
     "wof:id":371009807,
-    "wof:lastmodified":1449050120,
+    "wof:lastmodified":1454129291,
     "wof:name":"Accurate Degree AC & Heating",
     "wof:parent_id":85816389,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.162838,40.803386,-73.162838,40.803386],
-  "geometry": {"coordinates":[-73.162838,40.803386],"type":"Point"}
+  "bbox": [
+    -73.162838,
+    40.803386,
+    -73.162838,
+    40.803386
+],
+  "geometry": {"coordinates":[-73.16283799999999,40.803386],"type":"Point"}
 }

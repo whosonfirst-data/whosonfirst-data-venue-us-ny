@@ -2,13 +2,14 @@
   "id": 270205489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.153543,40.858245,-73.153543,40.858245",
     "geom:latitude":40.858245,
     "geom:longitude":-73.153543,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"80 Lake Ave S",
     "sg:city":"Nesconset",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893017,
+        102191575,
+        404522669,
         85633793,
-        85979773,
+        85979839,
         102082395,
-        85893017
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"4ef92603ae216c4b24061fd088d0c058",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522669,
+            "locality_id":85979839,
             "neighbourhood_id":85893017,
             "region_id":85688543,
             "venue_id":270205489
         }
     ],
     "wof:id":270205489,
-    "wof:lastmodified":1449010111,
+    "wof:lastmodified":1454124585,
     "wof:name":"Florence Construction Corp",
     "wof:parent_id":85893017,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.153543,40.858245,-73.153543,40.858245],
+  "bbox": [
+    -73.153543,
+    40.858245,
+    -73.153543,
+    40.858245
+],
   "geometry": {"coordinates":[-73.153543,40.858245],"type":"Point"}
 }

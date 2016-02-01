@@ -2,13 +2,14 @@
   "id": 320268309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.860857,40.875721,-73.860857,40.875721",
     "geom:latitude":40.875721,
     "geom:longitude":-73.860857,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"831 E Gun Hill Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869805,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869805
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c20f5e453cdbd0ec53bb4858efe8f762",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869805,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":320268309,
-    "wof:lastmodified":1449013380,
+    "wof:lastmodified":1454125108,
     "wof:name":"West Manor Music",
     "wof:parent_id":85869805,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [-73.860857,40.875721,-73.860857,40.875721],
+  "bbox": [
+    -73.860857,
+    40.875721,
+    -73.860857,
+    40.875721
+],
   "geometry": {"coordinates":[-73.860857,40.875721],"type":"Point"}
 }

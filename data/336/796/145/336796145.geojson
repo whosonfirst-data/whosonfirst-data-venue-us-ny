@@ -2,13 +2,14 @@
   "id": 336796145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.829815,40.892197,-73.829815,40.892197",
     "geom:latitude":40.892197,
     "geom:longitude":-73.829815,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"155 E Kingsbridge Rd",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892777,
+        102191575,
+        404523371,
         85633793,
-        85977539,
-        102083063,
-        85892777
+        85978721,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"bbab0af48804c65f93573baa8b7e42f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
-            "locality_id":85977539,
+            "county_id":102082373,
+            "localadmin_id":404523371,
+            "locality_id":85978721,
             "neighbourhood_id":85892777,
             "region_id":85688543,
             "venue_id":336796145
         }
     ],
     "wof:id":336796145,
-    "wof:lastmodified":1448997457,
+    "wof:lastmodified":1454122779,
     "wof:name":"Hvac Contractors/Suppliers",
     "wof:parent_id":85892777,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.829815,40.892197,-73.829815,40.892197],
+  "bbox": [
+    -73.829815,
+    40.892197,
+    -73.829815,
+    40.892197
+],
   "geometry": {"coordinates":[-73.829815,40.892197],"type":"Point"}
 }

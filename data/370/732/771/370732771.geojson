@@ -2,13 +2,14 @@
   "id": 370732771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.498834,40.658259,-73.498834,40.658259",
     "geom:latitude":40.658259,
     "geom:longitude":-73.498834,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3501 Bayview St",
     "sg:city":"Seaford",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893065,
+        102191575,
+        404521473,
         85633793,
-        85979147,
-        102082371
+        85979065,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"3491f254548e0f7b2ccf3b944db425e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979147,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979065,
+            "neighbourhood_id":85893065,
             "region_id":85688543,
             "venue_id":370732771
         }
     ],
     "wof:id":370732771,
-    "wof:lastmodified":1449032604,
+    "wof:lastmodified":1454128347,
     "wof:name":"Seaford Public School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893065,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.498834,40.658259,-73.498834,40.658259],
+  "bbox": [
+    -73.498834,
+    40.658259,
+    -73.498834,
+    40.658259
+],
   "geometry": {"coordinates":[-73.498834,40.658259],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303249039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.180068,42.595589,-76.180068,42.595589",
     "geom:latitude":42.595589,
     "geom:longitude":-76.180068,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"165 S Main St",
     "sg:city":"Cortland",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528395,
+        102191575,
+        404522255,
         85633793,
-        85978513,
-        102083011
+        85978519,
+        102083011,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"d2a6d0da51507f6d1e6b9535a3782788",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083011,
-            "locality_id":85978513,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522255,
+            "locality_id":85978519,
+            "neighbourhood_id":420528395,
             "region_id":85688543,
             "venue_id":303249039
         }
     ],
     "wof:id":303249039,
-    "wof:lastmodified":1448998245,
+    "wof:lastmodified":1454123030,
     "wof:name":"Cortland Realty LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528395,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "rental"
     ]
 },
-  "bbox": [-76.180068,42.595589,-76.180068,42.595589],
-  "geometry": {"coordinates":[-76.180068,42.595589],"type":"Point"}
+  "bbox": [
+    -76.180068,
+    42.595589,
+    -76.180068,
+    42.595589
+],
+  "geometry": {"coordinates":[-76.18006800000001,42.595589],"type":"Point"}
 }

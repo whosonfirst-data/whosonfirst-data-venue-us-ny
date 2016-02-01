@@ -2,13 +2,14 @@
   "id": 270311711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.092644,40.572061,-74.092644,40.572061",
     "geom:latitude":40.572061,
     "geom:longitude":-74.092644,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"608 Midland Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85834041,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85834041
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"412308c3453710970ff06e27bcbb1cd5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85834041,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":270311711,
-    "wof:lastmodified":1449009208,
+    "wof:lastmodified":1454124449,
     "wof:name":"Brewer Betsy",
     "wof:parent_id":85834041,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-74.092644,40.572061,-74.092644,40.572061],
-  "geometry": {"coordinates":[-74.092644,40.572061],"type":"Point"}
+  "bbox": [
+    -74.092644,
+    40.572061,
+    -74.092644,
+    40.572061
+],
+  "geometry": {"coordinates":[-74.09264400000001,40.572061],"type":"Point"}
 }

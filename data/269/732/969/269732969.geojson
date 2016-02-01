@@ -2,13 +2,14 @@
   "id": 269732969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.517146,40.692716,-73.517146,40.692716",
     "geom:latitude":40.692716,
     "geom:longitude":-73.517146,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9 Stanford Ct",
     "sg:city":"Wantagh",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529135,
+        102191575,
+        404521473,
         85633793,
         85979195,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"8276400f198d80c38c3bd507dad47977",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979195,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529135,
             "region_id":85688543,
             "venue_id":269732969
         }
     ],
     "wof:id":269732969,
-    "wof:lastmodified":1449039066,
+    "wof:lastmodified":1454128832,
     "wof:name":"A F A Computer Services Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529135,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "program"
     ]
 },
-  "bbox": [-73.517146,40.692716,-73.517146,40.692716],
+  "bbox": [
+    -73.517146,
+    40.692716,
+    -73.517146,
+    40.692716
+],
   "geometry": {"coordinates":[-73.517146,40.692716],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320017255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.839049,40.922486,-72.839049,40.922486",
     "geom:latitude":40.922486,
     "geom:longitude":-72.839049,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"172 Hidden Pond Path",
     "sg:city":"Wading River",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979901,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"79147cd139d98a7d0b558a2edb6c2e32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979901,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":320017255
         }
     ],
     "wof:id":320017255,
-    "wof:lastmodified":1449013248,
+    "wof:lastmodified":1454125085,
     "wof:name":"Remodeling Creative Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-72.839049,40.922486,-72.839049,40.922486],
+  "bbox": [
+    -72.839049,
+    40.922486,
+    -72.839049,
+    40.922486
+],
   "geometry": {"coordinates":[-72.839049,40.922486],"type":"Point"}
 }

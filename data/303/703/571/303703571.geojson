@@ -2,13 +2,14 @@
   "id": 303703571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.077845,40.810354,-73.077845,40.810354",
     "geom:latitude":40.810354,
     "geom:longitude":-73.077845,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1063 Main St",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"3b52c807cf84fa92cd2c9e31ab395da6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":303703571
         }
     ],
     "wof:id":303703571,
-    "wof:lastmodified":1448998859,
+    "wof:lastmodified":1454123249,
     "wof:name":"Holbrook Laundry",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "coin"
     ]
 },
-  "bbox": [-73.077845,40.810354,-73.077845,40.810354],
+  "bbox": [
+    -73.077845,
+    40.810354,
+    -73.077845,
+    40.810354
+],
   "geometry": {"coordinates":[-73.077845,40.810354],"type":"Point"}
 }

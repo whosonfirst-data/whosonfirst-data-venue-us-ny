@@ -2,13 +2,14 @@
   "id": 303349849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.687627,40.664233,-73.687627,40.664233",
     "geom:latitude":40.664233,
     "geom:longitude":-73.687627,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"68 Whitehall St",
     "sg:city":"Lynbrook",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     "sg:website":"www.etnapt.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893053,
+        102191575,
+        404521473,
         85633793,
         85977737,
         102082371,
-        85893053
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"7ed427257f0f15b57d040a1d583e9a31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977737,
             "neighbourhood_id":85893053,
             "region_id":85688543,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":303349849,
-    "wof:lastmodified":1448999040,
+    "wof:lastmodified":1454123303,
     "wof:name":"Etna Prestige Technology Inc",
     "wof:parent_id":85893053,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.687627,40.664233,-73.687627,40.664233],
-  "geometry": {"coordinates":[-73.687627,40.664233],"type":"Point"}
+  "bbox": [
+    -73.687627,
+    40.664233,
+    -73.687627,
+    40.664233
+],
+  "geometry": {"coordinates":[-73.68762700000001,40.664233],"type":"Point"}
 }

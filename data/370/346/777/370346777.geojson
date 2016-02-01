@@ -2,13 +2,14 @@
   "id": 370346777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.856141,40.781736,-72.856141,40.781736",
     "geom:latitude":40.781736,
     "geom:longitude":-72.856141,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"237 Floyd Rd",
     "sg:city":"Shirley",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"www.briterinnovations.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892903,
+        102191575,
+        404521441,
         85633793,
+        85978437,
         102082395,
-        85892903
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"b56370c2e1a9355e0b5d8672da695875",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85978437,
             "neighbourhood_id":85892903,
             "region_id":85688543,
             "venue_id":370346777
         }
     ],
     "wof:id":370346777,
-    "wof:lastmodified":1449029047,
+    "wof:lastmodified":1454127303,
     "wof:name":"Briter Innovations Inc",
     "wof:parent_id":85892903,
     "wof:placetype":"venue",
@@ -61,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-72.856141,40.781736,-72.856141,40.781736],
-  "geometry": {"coordinates":[-72.856141,40.781736],"type":"Point"}
+  "bbox": [
+    -72.856141,
+    40.781736,
+    -72.856141,
+    40.781736
+],
+  "geometry": {"coordinates":[-72.85614099999999,40.781736],"type":"Point"}
 }

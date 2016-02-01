@@ -2,13 +2,14 @@
   "id": 370365575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.966576,40.772334,-73.966576,40.772334",
     "geom:latitude":40.772334,
     "geom:longitude":-73.966576,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"22 E 72 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865691,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865691
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"76d1a118d1c265f21de6b16c65817525",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865691,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":370365575,
-    "wof:lastmodified":1449029628,
+    "wof:lastmodified":1454127472,
     "wof:name":"Ealanta Exercise LLC",
     "wof:parent_id":85865691,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-73.966576,40.772334,-73.966576,40.772334],
+  "bbox": [
+    -73.966576,
+    40.772334,
+    -73.966576,
+    40.772334
+],
   "geometry": {"coordinates":[-73.966576,40.772334],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403728623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.431911,40.71091,-73.431911,40.71091",
     "geom:latitude":40.71091,
     "geom:longitude":-73.431911,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Stephen Dr",
     "sg:city":"Farmingdale",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85833107,
+        102191575,
+        404521475,
         85633793,
-        85979843,
-        102082395,
-        85833107
+        85979161,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"07ff1e98f2631835cdcfc06bc61cfdab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979843,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979161,
             "neighbourhood_id":85833107,
             "region_id":85688543,
             "venue_id":403728623
         }
     ],
     "wof:id":403728623,
-    "wof:lastmodified":1449054953,
+    "wof:lastmodified":1454129370,
     "wof:name":"Johnnys Painting",
     "wof:parent_id":85833107,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.431911,40.71091,-73.431911,40.71091],
+  "bbox": [
+    -73.431911,
+    40.71091,
+    -73.431911,
+    40.71091
+],
   "geometry": {"coordinates":[-73.431911,40.71091],"type":"Point"}
 }

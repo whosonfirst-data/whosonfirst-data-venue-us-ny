@@ -2,13 +2,14 @@
   "id": 370566725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.18685,43.133312,-76.18685,43.133312",
     "geom:latitude":43.133312,
     "geom:longitude":-76.18685,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4760 Glencrest Ave",
     "sg:city":"Liverpool",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85842079,
+        102082351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"07f75f72e99f97c31e9786f8dbcd3835",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "neighbourhood_id":85842079,
             "region_id":85688543,
             "venue_id":370566725
         }
     ],
     "wof:id":370566725,
-    "wof:lastmodified":1449029135,
+    "wof:lastmodified":1454127328,
     "wof:name":"John Volz",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842079,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "telecommunication"
     ]
 },
-  "bbox": [-76.18685,43.133312,-76.18685,43.133312],
-  "geometry": {"coordinates":[-76.18685,43.133312],"type":"Point"}
+  "bbox": [
+    -76.18685,
+    43.133312,
+    -76.18685,
+    43.133312
+],
+  "geometry": {"coordinates":[-76.18685000000001,43.133312],"type":"Point"}
 }

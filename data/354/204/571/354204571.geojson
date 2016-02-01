@@ -2,13 +2,14 @@
   "id": 354204571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.03414,40.83254,-73.03414,40.83254",
     "geom:latitude":40.83254,
     "geom:longitude":-73.03414,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"465 Blue Point Rd Ste B",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"77bd70508614e1bc135585e17a4e8a9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354204571
         }
     ],
     "wof:id":354204571,
-    "wof:lastmodified":1449067697,
+    "wof:lastmodified":1454131319,
     "wof:name":"South Shore Chiropractic PC",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "trainer"
     ]
 },
-  "bbox": [-73.03414,40.83254,-73.03414,40.83254],
-  "geometry": {"coordinates":[-73.03414,40.83254],"type":"Point"}
+  "bbox": [
+    -73.03414,
+    40.83254,
+    -73.03414,
+    40.83254
+],
+  "geometry": {"coordinates":[-73.03413999999999,40.83254],"type":"Point"}
 }

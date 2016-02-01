@@ -2,13 +2,14 @@
   "id": 354075967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.235009,40.740226,-73.235009,40.740226",
     "geom:latitude":40.740226,
     "geom:longitude":-73.235009,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1881 Sunrise Hwy #1211",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530029,
+        102191575,
+        404522517,
         85633793,
-        85979719,
-        102082395
+        85979775,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"27aa0f09f2262f1b046c1bcf84944750",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979775,
+            "neighbourhood_id":420530029,
             "region_id":85688543,
             "venue_id":354075967
         }
     ],
     "wof:id":354075967,
-    "wof:lastmodified":1449066870,
+    "wof:lastmodified":1454131057,
     "wof:name":"Home Depot",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530029,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.235009,40.740226,-73.235009,40.740226],
-  "geometry": {"coordinates":[-73.235009,40.740226],"type":"Point"}
+  "bbox": [
+    -73.235009,
+    40.740226,
+    -73.235009,
+    40.740226
+],
+  "geometry": {"coordinates":[-73.23500900000001,40.740226],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286521805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.247821,40.7985,-73.247821,40.7985",
     "geom:latitude":40.7985,
     "geom:longitude":-73.247821,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"329 Washington Ave",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.7-eleven.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892809,
+        102191575,
+        404522517,
         85633793,
         85979867,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"cea1ca8b3cf48d022cb74469ce760b99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979867,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892809,
             "region_id":85688543,
             "venue_id":286521805
         }
     ],
     "wof:id":286521805,
-    "wof:lastmodified":1449017945,
+    "wof:lastmodified":1454125887,
     "wof:name":"7-Eleven",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892809,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.247821,40.7985,-73.247821,40.7985],
+  "bbox": [
+    -73.247821,
+    40.7985,
+    -73.247821,
+    40.7985
+],
   "geometry": {"coordinates":[-73.247821,40.7985],"type":"Point"}
 }

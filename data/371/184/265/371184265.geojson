@@ -2,13 +2,14 @@
   "id": 371184265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.680034,42.546945,-77.680034,42.546945",
     "geom:latitude":42.546945,
     "geom:longitude":-77.680034,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9976 Main St",
     "sg:city":"Dansville",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.budgettruck.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85813231,
+        102191575,
+        404521993,
         85633793,
-        85979605,
+        85978299,
         102082381,
-        85813231
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +61,18 @@
     "wof:geomhash":"b13dd471db264a81e098458b3b594c93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082381,
-            "locality_id":85979605,
+            "localadmin_id":404521993,
+            "locality_id":85978299,
             "neighbourhood_id":85813231,
             "region_id":85688543,
             "venue_id":371184265
         }
     ],
     "wof:id":371184265,
-    "wof:lastmodified":1449049217,
+    "wof:lastmodified":1454129078,
     "wof:name":"Budget Truck Rental",
     "wof:parent_id":85813231,
     "wof:placetype":"venue",
@@ -84,6 +88,11 @@
         "trailer"
     ]
 },
-  "bbox": [-77.680034,42.546945,-77.680034,42.546945],
-  "geometry": {"coordinates":[-77.680034,42.546945],"type":"Point"}
+  "bbox": [
+    -77.680034,
+    42.546945,
+    -77.680034,
+    42.546945
+],
+  "geometry": {"coordinates":[-77.68003400000001,42.546945],"type":"Point"}
 }

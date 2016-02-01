@@ -2,13 +2,14 @@
   "id": 336937991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993991,40.749025,-73.993991,40.749025",
     "geom:latitude":40.749025,
     "geom:longitude":-73.993991,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"259 W 30 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810589,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810589
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"91f5b276342cf3724871b38cae571e63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810589,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":336937991,
-    "wof:lastmodified":1448997156,
+    "wof:lastmodified":1454122435,
     "wof:name":"Vindigo Inc",
     "wof:parent_id":85810589,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "software"
     ]
 },
-  "bbox": [-73.993991,40.749025,-73.993991,40.749025],
-  "geometry": {"coordinates":[-73.993991,40.749025],"type":"Point"}
+  "bbox": [
+    -73.993991,
+    40.749025,
+    -73.993991,
+    40.749025
+],
+  "geometry": {"coordinates":[-73.99399099999999,40.749025],"type":"Point"}
 }

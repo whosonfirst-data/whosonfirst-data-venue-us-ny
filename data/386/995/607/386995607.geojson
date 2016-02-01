@@ -2,13 +2,14 @@
   "id": 386995607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.546101,43.155174,-77.546101,43.155174",
     "geom:latitude":43.155174,
     "geom:longitude":-77.546101,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"64 Windemere Road",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://hillcommsvc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880405,
+        102191575,
+        404521467,
         85633793,
-        85979035,
+        85977591,
         102081815,
-        85880405
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"149a14527a1ab746dcc007ddc173e955",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85979035,
+            "localadmin_id":404521467,
+            "locality_id":85977591,
             "neighbourhood_id":85880405,
             "region_id":85688543,
             "venue_id":386995607
         }
     ],
     "wof:id":386995607,
-    "wof:lastmodified":1449028937,
+    "wof:lastmodified":1454127274,
     "wof:name":"Hill Communication Services",
     "wof:parent_id":85880405,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "system"
     ]
 },
-  "bbox": [-77.546101,43.155174,-77.546101,43.155174],
-  "geometry": {"coordinates":[-77.546101,43.155174],"type":"Point"}
+  "bbox": [
+    -77.546101,
+    43.155174,
+    -77.546101,
+    43.155174
+],
+  "geometry": {"coordinates":[-77.54610099999999,43.155174],"type":"Point"}
 }

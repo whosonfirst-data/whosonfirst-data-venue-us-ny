@@ -2,13 +2,14 @@
   "id": 387447677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.991114,40.733214,-73.991114,40.733214",
     "geom:latitude":40.733214,
     "geom:longitude":-73.991114,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"840 Broadway",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816887,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"b04f1e77bb6c35245e7068a42dfb20e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85816887,
             "region_id":85688543,
             "venue_id":387447677
         }
     ],
     "wof:id":387447677,
-    "wof:lastmodified":1449058790,
+    "wof:lastmodified":1454130007,
     "wof:name":"Moldovan Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816887,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "strategic"
     ]
 },
-  "bbox": [-73.991114,40.733214,-73.991114,40.733214],
+  "bbox": [
+    -73.991114,
+    40.733214,
+    -73.991114,
+    40.733214
+],
   "geometry": {"coordinates":[-73.991114,40.733214],"type":"Point"}
 }

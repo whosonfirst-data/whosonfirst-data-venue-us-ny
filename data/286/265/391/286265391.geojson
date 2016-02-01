@@ -2,13 +2,14 @@
   "id": 286265391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.865552,41.743064,-73.865552,41.743064",
     "geom:latitude":41.743064,
     "geom:longitude":-73.865552,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 Boces Rd",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528481,
+        102191575,
+        404522303,
         85633793,
+        85979257,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"2a35c97dc0b64c6016ee942a92aef888",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522303,
+            "locality_id":85979257,
+            "neighbourhood_id":420528481,
             "region_id":85688543,
             "venue_id":286265391
         }
     ],
     "wof:id":286265391,
-    "wof:lastmodified":1449016188,
+    "wof:lastmodified":1454125576,
     "wof:name":"Astor Headstart Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528481,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.865552,41.743064,-73.865552,41.743064],
-  "geometry": {"coordinates":[-73.865552,41.743064],"type":"Point"}
+  "bbox": [
+    -73.865552,
+    41.743064,
+    -73.865552,
+    41.743064
+],
+  "geometry": {"coordinates":[-73.86555199999999,41.743064],"type":"Point"}
 }

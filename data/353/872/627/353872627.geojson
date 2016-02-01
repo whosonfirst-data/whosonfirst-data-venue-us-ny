@@ -2,13 +2,14 @@
   "id": 353872627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.738503,40.631302,-73.738503,40.631302",
     "geom:latitude":40.631302,
     "geom:longitude":-73.738503,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"636 Rockaway Tpke",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -24,11 +25,15 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85845957
+        102082361,
+        85688543,
+        85865647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +43,42 @@
     "wof:geomhash":"675baa8bfb681ab78087df62cb1176fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85845957,
+            "neighbourhood_id":85823673,
+            "region_id":85688543,
+            "venue_id":353872627
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":85865647,
             "region_id":85688543,
             "venue_id":353872627
         }
     ],
     "wof:id":353872627,
-    "wof:lastmodified":1449018488,
+    "wof:lastmodified":1454126015,
     "wof:name":"Lucky Boy Restrnt",
-    "wof:parent_id":85845957,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.738503,40.631302,-73.738503,40.631302],
-  "geometry": {"coordinates":[-73.738503,40.631302],"type":"Point"}
+  "bbox": [
+    -73.738503,
+    40.631302,
+    -73.738503,
+    40.631302
+],
+  "geometry": {"coordinates":[-73.73850299999999,40.631302],"type":"Point"}
 }

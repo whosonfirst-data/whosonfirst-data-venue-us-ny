@@ -2,13 +2,14 @@
   "id": 371154919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.803461,42.954157,-78.803461,42.954157",
     "geom:latitude":42.954157,
     "geom:longitude":-78.803461,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"19 Argyle Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823285,
+        102191575,
+        404522321,
         85633793,
+        85979407,
         102082387,
-        85823285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"a62515a0bd850d9ebe9b45bf8dfe513b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979407,
             "neighbourhood_id":85823285,
             "region_id":85688543,
             "venue_id":371154919
         }
     ],
     "wof:id":371154919,
-    "wof:lastmodified":1449050158,
+    "wof:lastmodified":1454129299,
     "wof:name":"Ellas Of Wny",
     "wof:parent_id":85823285,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "hotels-apartment"
     ]
 },
-  "bbox": [-78.803461,42.954157,-78.803461,42.954157],
+  "bbox": [
+    -78.803461,
+    42.954157,
+    -78.803461,
+    42.954157
+],
   "geometry": {"coordinates":[-78.803461,42.954157],"type":"Point"}
 }

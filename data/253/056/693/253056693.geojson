@@ -2,13 +2,14 @@
   "id": 253056693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.024768,40.813652,-73.024768,40.813652",
     "geom:latitude":40.813652,
     "geom:longitude":-73.024768,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Voyages Ct",
     "sg:city":"Holtsville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"63b96823a8a12632a4c007db5a88fcb6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":253056693
         }
     ],
     "wof:id":253056693,
-    "wof:lastmodified":1449063654,
+    "wof:lastmodified":1454130385,
     "wof:name":"Dun-Rite Lawn Sprinklers",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.024768,40.813652,-73.024768,40.813652],
-  "geometry": {"coordinates":[-73.024768,40.813652],"type":"Point"}
+  "bbox": [
+    -73.024768,
+    40.813652,
+    -73.024768,
+    40.813652
+],
+  "geometry": {"coordinates":[-73.02476799999999,40.813652],"type":"Point"}
 }

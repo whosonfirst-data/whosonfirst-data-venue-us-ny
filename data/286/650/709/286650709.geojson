@@ -2,13 +2,14 @@
   "id": 286650709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.174619,40.770486,-73.174619,40.770486",
     "geom:latitude":40.770486,
     "geom:longitude":-73.174619,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"932 Connetquot Ave",
     "sg:city":"Central Islip",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837663,
+        102191575,
+        404522517,
         85633793,
-        85979697,
+        85979705,
         102082395,
-        85837663
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"854137c814858a025d2366c9b8dbd0ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979697,
+            "localadmin_id":404522517,
+            "locality_id":85979705,
             "neighbourhood_id":85837663,
             "region_id":85688543,
             "venue_id":286650709
         }
     ],
     "wof:id":286650709,
-    "wof:lastmodified":1449016997,
+    "wof:lastmodified":1454125719,
     "wof:name":"Landscaping By Chris Pratt",
     "wof:parent_id":85837663,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-73.174619,40.770486,-73.174619,40.770486],
-  "geometry": {"coordinates":[-73.174619,40.770486],"type":"Point"}
+  "bbox": [
+    -73.174619,
+    40.770486,
+    -73.174619,
+    40.770486
+],
+  "geometry": {"coordinates":[-73.17461900000001,40.770486],"type":"Point"}
 }

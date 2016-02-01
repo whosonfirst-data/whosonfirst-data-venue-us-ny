@@ -2,13 +2,14 @@
   "id": 253554415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.546187,40.788942,-73.546187,40.788942",
     "geom:latitude":40.788942,
     "geom:longitude":-73.546187,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Club Dr S",
     "sg:city":"Jericho",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529157,
+        102191575,
+        404521475,
         85633793,
         85979085,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"014758afb4bdfc278dd306f7bcce7aa5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979085,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529157,
             "region_id":85688543,
             "venue_id":253554415
         }
     ],
     "wof:id":253554415,
-    "wof:lastmodified":1449063425,
+    "wof:lastmodified":1454130346,
     "wof:name":"Fred Hart Investment",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529157,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "investor"
     ]
 },
-  "bbox": [-73.546187,40.788942,-73.546187,40.788942],
+  "bbox": [
+    -73.546187,
+    40.788942,
+    -73.546187,
+    40.788942
+],
   "geometry": {"coordinates":[-73.546187,40.788942],"type":"Point"}
 }

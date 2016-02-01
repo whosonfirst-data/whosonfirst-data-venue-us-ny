@@ -2,13 +2,14 @@
   "id": 370637333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.821926,40.949754,-73.821926,40.949754",
     "geom:latitude":40.949754,
     "geom:longitude":-73.821926,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Marbledale Rd",
     "sg:city":"Tuckahoe",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893047,
+        102191575,
+        404523357,
         85633793,
         85978763,
         102082373,
-        85893047
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"e765dde704acf1b6f0c2d5c8bc6256e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85978763,
             "neighbourhood_id":85893047,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370637333,
-    "wof:lastmodified":1449029069,
+    "wof:lastmodified":1454127310,
     "wof:name":"Highway Dept",
     "wof:parent_id":85893047,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "parking"
     ]
 },
-  "bbox": [-73.821926,40.949754,-73.821926,40.949754],
+  "bbox": [
+    -73.821926,
+    40.949754,
+    -73.821926,
+    40.949754
+],
   "geometry": {"coordinates":[-73.821926,40.949754],"type":"Point"}
 }

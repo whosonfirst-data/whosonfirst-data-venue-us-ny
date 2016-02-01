@@ -2,13 +2,14 @@
   "id": 185936241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.950792,40.662409,-73.950792,40.662409",
     "geom:latitude":40.662409,
     "geom:longitude":-73.950792,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1053 Nostrand Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -53,11 +54,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816313,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85816313
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,9 +70,10 @@
     "wof:geomhash":"305890699278a81603912426e3d8087e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85816313,
             "region_id":85688543,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":185936241,
-    "wof:lastmodified":1449007135,
+    "wof:lastmodified":1454124210,
     "wof:name":"Nostrand Lefferts Housewares",
     "wof:parent_id":85816313,
     "wof:placetype":"venue",
@@ -93,6 +97,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.950792,40.662409,-73.950792,40.662409],
-  "geometry": {"coordinates":[-73.950792,40.662409],"type":"Point"}
+  "bbox": [
+    -73.950792,
+    40.662409,
+    -73.950792,
+    40.662409
+],
+  "geometry": {"coordinates":[-73.95079200000001,40.662409],"type":"Point"}
 }

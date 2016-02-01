@@ -2,13 +2,14 @@
   "id": 303785555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.753154,40.993363,-73.753154,40.993363",
     "geom:latitude":40.993363,
     "geom:longitude":-73.753154,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"223 Saxon Wood Rd",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420560041,
+        102191575,
+        404523395,
         85633793,
         85978761,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"79bcbb4fd5340b177c8e119a02d5b30e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523395,
             "locality_id":85978761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420560041,
             "region_id":85688543,
             "venue_id":303785555
         }
     ],
     "wof:id":303785555,
-    "wof:lastmodified":1449000145,
+    "wof:lastmodified":1454123607,
     "wof:name":"Magni Star Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":420560041,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.753154,40.993363,-73.753154,40.993363],
-  "geometry": {"coordinates":[-73.753154,40.993363],"type":"Point"}
+  "bbox": [
+    -73.753154,
+    40.993363,
+    -73.753154,
+    40.993363
+],
+  "geometry": {"coordinates":[-73.75315399999999,40.993363],"type":"Point"}
 }

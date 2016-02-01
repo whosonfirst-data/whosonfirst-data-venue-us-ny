@@ -2,13 +2,14 @@
   "id": 353643537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.803398,40.675301,-73.803398,40.675301",
     "geom:latitude":40.675301,
     "geom:longitude":-73.803398,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12025 135th St",
     "sg:city":"South Ozone Park",
     "sg:classifiers":[
@@ -28,12 +29,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865645,
-        85865467
+        102082361,
+        85688543,
+        85865647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,28 +47,32 @@
     "wof:geomhash":"44329b3fdf29627cf0ff0161b16bd1b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85865645,
+            "neighbourhood_id":85823673,
             "region_id":85688543,
             "venue_id":353643537
         },
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85865467,
+            "neighbourhood_id":85865647,
             "region_id":85688543,
             "venue_id":353643537
         }
     ],
     "wof:id":353643537,
-    "wof:lastmodified":1449020466,
+    "wof:lastmodified":1454126590,
     "wof:name":"Ricco's Billiard Parlor",
-    "wof:parent_id":-1,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -73,6 +81,11 @@
         "pool"
     ]
 },
-  "bbox": [-73.803398,40.675301,-73.803398,40.675301],
+  "bbox": [
+    -73.803398,
+    40.675301,
+    -73.803398,
+    40.675301
+],
   "geometry": {"coordinates":[-73.803398,40.675301],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353429943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.804852,42.853466,-78.804852,42.853466",
     "geom:latitude":42.853466,
     "geom:longitude":-78.804852,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"65 Buffum St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528553,
+        102191575,
+        404522269,
         85633793,
-        85978023,
-        102082387
+        85979415,
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"3ff43f2bc4c5f5964c97484c18fa2730",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522269,
+            "locality_id":85979415,
+            "neighbourhood_id":420528553,
             "region_id":85688543,
             "venue_id":353429943
         }
     ],
     "wof:id":353429943,
-    "wof:lastmodified":1449020653,
+    "wof:lastmodified":1454126643,
     "wof:name":"Dunn Right Home Improvement",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528553,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-78.804852,42.853466,-78.804852,42.853466],
+  "bbox": [
+    -78.804852,
+    42.853466,
+    -78.804852,
+    42.853466
+],
   "geometry": {"coordinates":[-78.804852,42.853466],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371003433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.998784,40.719508,-73.998784,40.719508",
     "geom:latitude":40.719508,
     "geom:longitude":-73.998784,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"211 Centre St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85830947,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85830947
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"668e8281869e5f9d88c75cc32ae2a6f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85830947,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":371003433,
-    "wof:lastmodified":1449050062,
+    "wof:lastmodified":1454129277,
     "wof:name":"Strongarm Clothing & Supply Co",
     "wof:parent_id":85830947,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.998784,40.719508,-73.998784,40.719508],
+  "bbox": [
+    -73.998784,
+    40.719508,
+    -73.998784,
+    40.719508
+],
   "geometry": {"coordinates":[-73.998784,40.719508],"type":"Point"}
 }

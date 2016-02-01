@@ -2,13 +2,14 @@
   "id": 286576097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.111838,40.568602,-74.111838,40.568602",
     "geom:latitude":40.568602,
     "geom:longitude":-74.111838,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2595 Hylan Blvd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.mynycb.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529771,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"eac8447ed0201ab047b6b98615b72b19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529771,
             "region_id":85688543,
             "venue_id":286576097
         }
     ],
     "wof:id":286576097,
-    "wof:lastmodified":1449017450,
+    "wof:lastmodified":1454125799,
     "wof:name":"Richmond County Savings Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529771,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.111838,40.568602,-74.111838,40.568602],
-  "geometry": {"coordinates":[-74.111838,40.568602],"type":"Point"}
+  "bbox": [
+    -74.111838,
+    40.568602,
+    -74.111838,
+    40.568602
+],
+  "geometry": {"coordinates":[-74.11183800000001,40.568602],"type":"Point"}
 }

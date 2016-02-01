@@ -2,13 +2,14 @@
   "id": 303138253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.803869,40.973012,-73.803869,40.973012",
     "geom:latitude":40.973012,
     "geom:longitude":-73.803869,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"764 White Plains Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892825,
+        102191575,
+        404523357,
         85633793,
         85980071,
         102082373,
-        85892825
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"01cbc7f984a3fb51ef6740835c5010d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
             "neighbourhood_id":85892825,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303138253,
-    "wof:lastmodified":1448998820,
+    "wof:lastmodified":1454123234,
     "wof:name":"Greenpoint",
     "wof:parent_id":85892825,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "chartered"
     ]
 },
-  "bbox": [-73.803869,40.973012,-73.803869,40.973012],
-  "geometry": {"coordinates":[-73.803869,40.973012],"type":"Point"}
+  "bbox": [
+    -73.803869,
+    40.973012,
+    -73.803869,
+    40.973012
+],
+  "geometry": {"coordinates":[-73.80386900000001,40.973012],"type":"Point"}
 }

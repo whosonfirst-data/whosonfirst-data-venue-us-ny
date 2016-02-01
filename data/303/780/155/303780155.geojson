@@ -2,13 +2,14 @@
   "id": 303780155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.617319,40.836485,-73.617319,40.836485",
     "geom:latitude":40.836485,
     "geom:longitude":-73.617319,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"240 Glen Head Rd",
     "sg:city":"Glen Head",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857339,
+        102191575,
+        404521475,
         85633793,
-        85977647,
+        85977655,
         102082371,
-        85857339
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"9ecbc14764899f1131aa04af78e198b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977647,
+            "localadmin_id":404521475,
+            "locality_id":85977655,
             "neighbourhood_id":85857339,
             "region_id":85688543,
             "venue_id":303780155
         }
     ],
     "wof:id":303780155,
-    "wof:lastmodified":1448999953,
+    "wof:lastmodified":1454123556,
     "wof:name":"Caggiano's",
     "wof:parent_id":85857339,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-73.617319,40.836485,-73.617319,40.836485],
-  "geometry": {"coordinates":[-73.617319,40.836485],"type":"Point"}
+  "bbox": [
+    -73.617319,
+    40.836485,
+    -73.617319,
+    40.836485
+],
+  "geometry": {"coordinates":[-73.61731899999999,40.836485],"type":"Point"}
 }

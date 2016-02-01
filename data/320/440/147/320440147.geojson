@@ -2,13 +2,14 @@
   "id": 320440147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.978965,40.765788,-73.978965,40.765788",
     "geom:latitude":40.765788,
     "geom:longitude":-73.978965,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"128 W 58th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"www.hsny.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869487,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85869487
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"4f0846bb67c96cccbc9d9cff3c20be71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869487,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":320440147,
-    "wof:lastmodified":1449012598,
+    "wof:lastmodified":1454124980,
     "wof:name":"Horticultural Society Of Ny",
     "wof:parent_id":85869487,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "show"
     ]
 },
-  "bbox": [-73.978965,40.765788,-73.978965,40.765788],
+  "bbox": [
+    -73.978965,
+    40.765788,
+    -73.978965,
+    40.765788
+],
   "geometry": {"coordinates":[-73.978965,40.765788],"type":"Point"}
 }

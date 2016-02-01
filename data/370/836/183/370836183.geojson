@@ -2,13 +2,14 @@
   "id": 370836183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.766077,40.927459,-72.766077,40.927459",
     "geom:latitude":40.927459,
     "geom:longitude":-72.766077,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3853 Middle Country Rd",
     "sg:city":"Calverton",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530021,
+        102191575,
+        404521441,
         85633793,
-        85979845,
-        102082395
+        85979761,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"1236884808c3232250698a605abf1363",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979845,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979761,
+            "neighbourhood_id":420530021,
             "region_id":85688543,
             "venue_id":370836183
         }
     ],
     "wof:id":370836183,
-    "wof:lastmodified":1449031312,
+    "wof:lastmodified":1454127971,
     "wof:name":"Stoves & Stone Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530021,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "burning"
     ]
 },
-  "bbox": [-72.766077,40.927459,-72.766077,40.927459],
+  "bbox": [
+    -72.766077,
+    40.927459,
+    -72.766077,
+    40.927459
+],
   "geometry": {"coordinates":[-72.766077,40.927459],"type":"Point"}
 }

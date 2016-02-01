@@ -2,13 +2,14 @@
   "id": 387757857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.090919,40.570273,-74.090919,40.570273",
     "geom:latitude":40.570273,
     "geom:longitude":-74.090919,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1111 Father Capodanno Blvd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85834041,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85834041
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"924744ed2b2b0a8f993fffacd37f5f63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85834041,
             "region_id":85688543,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":387757857,
-    "wof:lastmodified":1449058254,
+    "wof:lastmodified":1454129913,
     "wof:name":"Ambassador Inc",
     "wof:parent_id":85834041,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "food"
     ]
 },
-  "bbox": [-74.090919,40.570273,-74.090919,40.570273],
+  "bbox": [
+    -74.090919,
+    40.570273,
+    -74.090919,
+    40.570273
+],
   "geometry": {"coordinates":[-74.090919,40.570273],"type":"Point"}
 }

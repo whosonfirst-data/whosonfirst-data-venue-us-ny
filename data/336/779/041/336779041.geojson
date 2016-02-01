@@ -2,13 +2,14 @@
   "id": 336779041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.005509,40.87071,-73.005509,40.87071",
     "geom:latitude":40.87071,
     "geom:longitude":-73.005509,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2164 Rte 112",
     "sg:city":"Coram",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.friendlys.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"edcfdf8dcf66bb9ce39fbd7ae98d9f08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":336779041
         }
     ],
     "wof:id":336779041,
-    "wof:lastmodified":1448997105,
+    "wof:lastmodified":1454122409,
     "wof:name":"Friendly's Ice Cream Shop",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "cream"
     ]
 },
-  "bbox": [-73.005509,40.87071,-73.005509,40.87071],
+  "bbox": [
+    -73.005509,
+    40.87071,
+    -73.005509,
+    40.87071
+],
   "geometry": {"coordinates":[-73.005509,40.87071],"type":"Point"}
 }

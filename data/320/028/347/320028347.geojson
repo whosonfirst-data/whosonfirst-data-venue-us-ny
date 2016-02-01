@@ -2,13 +2,14 @@
   "id": 320028347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.001258,41.145242,-74.001258,41.145242",
     "geom:latitude":41.145242,
     "geom:longitude":-74.001258,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"24 Glenwood Rd",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"6a83d7f12bc520c803ee4464e91e4258",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":320028347
         }
     ],
     "wof:id":320028347,
-    "wof:lastmodified":1449013282,
+    "wof:lastmodified":1454125094,
     "wof:name":"Tranquility Camp",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "camp"
     ]
 },
-  "bbox": [-74.001258,41.145242,-74.001258,41.145242],
-  "geometry": {"coordinates":[-74.001258,41.145242],"type":"Point"}
+  "bbox": [
+    -74.001258,
+    41.145242,
+    -74.001258,
+    41.145242
+],
+  "geometry": {"coordinates":[-74.00125800000001,41.145242],"type":"Point"}
 }

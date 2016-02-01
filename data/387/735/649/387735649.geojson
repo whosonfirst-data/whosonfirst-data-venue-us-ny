@@ -2,13 +2,14 @@
   "id": 387735649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.69624,40.706979,-73.69624,40.706979",
     "geom:latitude":40.706979,
     "geom:longitude":-73.69624,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1483 Hempstead Tpke",
     "sg:city":"Elmont",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420559871,
+        102191575,
+        404521473,
         85633793,
         85979137,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"d09973e9f4bab9a0ee7f4ed8a41bca50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979137,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420559871,
             "region_id":85688543,
             "venue_id":387735649
         }
     ],
     "wof:id":387735649,
-    "wof:lastmodified":1449059834,
+    "wof:lastmodified":1454130194,
     "wof:name":"Elmont Medical Office PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420559871,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "clinic"
     ]
 },
-  "bbox": [-73.69624,40.706979,-73.69624,40.706979],
+  "bbox": [
+    -73.69624,
+    40.706979,
+    -73.69624,
+    40.706979
+],
   "geometry": {"coordinates":[-73.69624,40.706979],"type":"Point"}
 }

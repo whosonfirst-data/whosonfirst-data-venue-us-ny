@@ -2,13 +2,14 @@
   "id": 303930031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.483154,42.442337,-76.483154,42.442337",
     "geom:latitude":42.442337,
     "geom:longitude":-76.483154,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"116 Summit Ave",
     "sg:city":"Ithaca",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.cascadillaschool.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85878349,
+        102191575,
+        404523231,
         85633793,
         85978779,
         102082355,
-        85878349
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"b47a4aab34229db37578c7e6b9826ff0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082355,
+            "localadmin_id":404523231,
             "locality_id":85978779,
             "neighbourhood_id":85878349,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":303930031,
-    "wof:lastmodified":1448998896,
+    "wof:lastmodified":1454123261,
     "wof:name":"Cascadilla School",
     "wof:parent_id":85878349,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.483154,42.442337,-76.483154,42.442337],
+  "bbox": [
+    -76.483154,
+    42.442337,
+    -76.483154,
+    42.442337
+],
   "geometry": {"coordinates":[-76.483154,42.442337],"type":"Point"}
 }

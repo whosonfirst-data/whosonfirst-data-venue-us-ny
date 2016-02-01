@@ -2,13 +2,14 @@
   "id": 337360951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.829758,40.759115,-73.829758,40.759115",
     "geom:latitude":40.759115,
     "geom:longitude":-73.829758,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4013 Main Street",
     "sg:city":"Flushing",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.footlocker.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819703,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819703
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"bb6793e81981713a5b8e6f6407f3377a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819703,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":337360951,
-    "wof:lastmodified":1449027561,
+    "wof:lastmodified":1454127113,
     "wof:name":"Footlocker",
     "wof:parent_id":85819703,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-73.829758,40.759115,-73.829758,40.759115],
+  "bbox": [
+    -73.829758,
+    40.759115,
+    -73.829758,
+    40.759115
+],
   "geometry": {"coordinates":[-73.829758,40.759115],"type":"Point"}
 }

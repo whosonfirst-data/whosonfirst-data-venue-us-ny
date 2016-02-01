@@ -2,13 +2,14 @@
   "id": 370172733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.194804,40.838183,-73.194804,40.838183",
     "geom:latitude":40.838183,
     "geom:longitude":-73.194804,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 Maple Ave",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"www.montespizzeria.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530053,
+        102191575,
+        404522517,
         85633793,
-        85979919,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"f311da2809fef32ccee4fb657bf628eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530053,
             "region_id":85688543,
             "venue_id":370172733
         }
     ],
     "wof:id":370172733,
-    "wof:lastmodified":1449030445,
+    "wof:lastmodified":1454127713,
     "wof:name":"MONTE'S PIZZERIA",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "pizza"
     ]
 },
-  "bbox": [-73.194804,40.838183,-73.194804,40.838183],
+  "bbox": [
+    -73.194804,
+    40.838183,
+    -73.194804,
+    40.838183
+],
   "geometry": {"coordinates":[-73.194804,40.838183],"type":"Point"}
 }

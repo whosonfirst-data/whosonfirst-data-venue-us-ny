@@ -2,13 +2,14 @@
   "id": 404010577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993887,40.695496,-73.993887,40.695496",
     "geom:latitude":40.695496,
     "geom:longitude":-73.993887,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"161 Henry St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     "sg:website":"www.blackfly.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807925,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85807925
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"f5cf1d1225a128be0245f8911a45e517",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85807925,
             "region_id":85688543,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":404010577,
-    "wof:lastmodified":1449039860,
+    "wof:lastmodified":1454128909,
     "wof:name":"Blackfly",
     "wof:parent_id":85807925,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "internet"
     ]
 },
-  "bbox": [-73.993887,40.695496,-73.993887,40.695496],
+  "bbox": [
+    -73.993887,
+    40.695496,
+    -73.993887,
+    40.695496
+],
   "geometry": {"coordinates":[-73.993887,40.695496],"type":"Point"}
 }

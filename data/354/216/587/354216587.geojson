@@ -2,13 +2,14 @@
   "id": 354216587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.909405,41.654645,-73.909405,41.654645",
     "geom:latitude":41.654645,
     "geom:longitude":-73.909405,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"42 Hagan Dr",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865331,
+        102191575,
+        404522309,
         85633793,
         85979261,
         102082363,
-        85865331
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"db2943b7da2e6d83d21d54635c0b6420",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
+            "localadmin_id":404522309,
             "locality_id":85979261,
             "neighbourhood_id":85865331,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":354216587,
-    "wof:lastmodified":1449067476,
+    "wof:lastmodified":1454131246,
     "wof:name":"Hagan Elementary School",
     "wof:parent_id":85865331,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.909405,41.654645,-73.909405,41.654645],
-  "geometry": {"coordinates":[-73.909405,41.654645],"type":"Point"}
+  "bbox": [
+    -73.909405,
+    41.654645,
+    -73.909405,
+    41.654645
+],
+  "geometry": {"coordinates":[-73.90940500000001,41.654645],"type":"Point"}
 }

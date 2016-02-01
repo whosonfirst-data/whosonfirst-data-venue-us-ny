@@ -2,13 +2,14 @@
   "id": 387188409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.46504,40.797943,-73.46504,40.797943",
     "geom:latitude":40.797943,
     "geom:longitude":-73.46504,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"151 Dupont St",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
-        85979191,
-        102082371
+        85979055,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"a210241d9bc0e07be44655cbf3c7fcf8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979191,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85979055,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":387188409
         }
     ],
     "wof:id":387188409,
-    "wof:lastmodified":1449057994,
+    "wof:lastmodified":1454129866,
     "wof:name":"Wonder Years Nursery School",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.46504,40.797943,-73.46504,40.797943],
+  "bbox": [
+    -73.46504,
+    40.797943,
+    -73.46504,
+    40.797943
+],
   "geometry": {"coordinates":[-73.46504,40.797943],"type":"Point"}
 }

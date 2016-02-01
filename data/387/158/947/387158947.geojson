@@ -2,13 +2,14 @@
   "id": 387158947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.715312,41.4047,-74.715312,41.4047",
     "geom:latitude":41.4047,
     "geom:longitude":-74.715312,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"60 Upper Brook Rd",
     "sg:city":"Sparrow Bush",
     "sg:classifiers":[
@@ -29,8 +30,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85978189,
+        102083061,
+        85821391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,18 @@
     "wof:geomhash":"949dca0304bc43c8ff3e2f2e153ca7fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083061,
+            "locality_id":85978189,
+            "neighbourhood_id":85821391,
             "region_id":85688543,
             "venue_id":387158947
         }
     ],
     "wof:id":387158947,
-    "wof:lastmodified":1449058647,
+    "wof:lastmodified":1454129986,
     "wof:name":"Custom Constructs",
-    "wof:parent_id":-1,
+    "wof:parent_id":85821391,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.715312,41.4047,-74.715312,41.4047],
+  "bbox": [
+    -74.715312,
+    41.4047,
+    -74.715312,
+    41.4047
+],
   "geometry": {"coordinates":[-74.715312,41.4047],"type":"Point"}
 }

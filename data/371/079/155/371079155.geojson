@@ -2,13 +2,14 @@
   "id": 371079155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.859265,42.857461,-78.859265,42.857461",
     "geom:latitude":42.857461,
     "geom:longitude":-78.859265,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"60 Katherine St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     "sg:website":"http://www.safety-kleen.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872919,
+        102191575,
+        404522329,
         85633793,
         85978023,
         102082387,
-        85872919
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"27507642b6c68445c45f4fc5c8ebd598",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
             "neighbourhood_id":85872919,
             "region_id":85688543,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":371079155,
-    "wof:lastmodified":1449049945,
+    "wof:lastmodified":1454129249,
     "wof:name":"Safety-Kleen",
     "wof:parent_id":85872919,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "removal"
     ]
 },
-  "bbox": [-78.859265,42.857461,-78.859265,42.857461],
-  "geometry": {"coordinates":[-78.859265,42.857461],"type":"Point"}
+  "bbox": [
+    -78.859265,
+    42.857461,
+    -78.859265,
+    42.857461
+],
+  "geometry": {"coordinates":[-78.85926499999999,42.857461],"type":"Point"}
 }

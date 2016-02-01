@@ -2,13 +2,14 @@
   "id": 370367659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.870063,41.015166,-73.870063,41.015166",
     "geom:latitude":41.015166,
     "geom:longitude":-73.870063,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"397 Broadway",
     "sg:city":"Dobbs Ferry",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85849177,
+        102191575,
+        404523359,
         85633793,
-        102082385,
-        85849177
+        85978743,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"27395d2c59a78908d82913a5156de72e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082385,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523359,
+            "locality_id":85978743,
             "neighbourhood_id":85849177,
             "region_id":85688543,
             "venue_id":370367659
         }
     ],
     "wof:id":370367659,
-    "wof:lastmodified":1449031071,
+    "wof:lastmodified":1454127900,
     "wof:name":"397 Broadway Corp",
     "wof:parent_id":85849177,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.870063,41.015166,-73.870063,41.015166],
+  "bbox": [
+    -73.870063,
+    41.015166,
+    -73.870063,
+    41.015166
+],
   "geometry": {"coordinates":[-73.870063,41.015166],"type":"Point"}
 }

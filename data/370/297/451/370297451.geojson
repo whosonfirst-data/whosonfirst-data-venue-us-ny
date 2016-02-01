@@ -2,13 +2,14 @@
   "id": 370297451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.655899,40.946301,-72.655899,40.946301",
     "geom:latitude":40.946301,
     "geom:longitude":-72.655899,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"608 Northville Tpke",
     "sg:city":"Riverhead",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85838351,
+        102191575,
+        404522663,
         85633793,
-        85979879,
+        85979671,
         102082395,
-        85838351
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"f348ea182b17b20c5199c6e0d45c88b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979879,
+            "localadmin_id":404522663,
+            "locality_id":85979671,
             "neighbourhood_id":85838351,
             "region_id":85688543,
             "venue_id":370297451
         }
     ],
     "wof:id":370297451,
-    "wof:lastmodified":1449031227,
+    "wof:lastmodified":1454127945,
     "wof:name":"Mac Albert Bank & Co",
     "wof:parent_id":85838351,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "accountant"
     ]
 },
-  "bbox": [-72.655899,40.946301,-72.655899,40.946301],
-  "geometry": {"coordinates":[-72.655899,40.946301],"type":"Point"}
+  "bbox": [
+    -72.655899,
+    40.946301,
+    -72.655899,
+    40.946301
+],
+  "geometry": {"coordinates":[-72.65589900000001,40.946301],"type":"Point"}
 }

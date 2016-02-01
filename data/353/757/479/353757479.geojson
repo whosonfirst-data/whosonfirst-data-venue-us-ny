@@ -2,13 +2,14 @@
   "id": 353757479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.736063,40.625992,-73.736063,40.625992",
     "geom:latitude":40.625992,
     "geom:longitude":-73.736063,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"316 Rockaway Tpke",
     "sg:city":"Cedarhurst",
     "sg:classifiers":[
@@ -50,11 +51,13 @@
     "sg:website":"http://www.att.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85818909,
+        102191575,
+        404521473,
         85633793,
         85977631,
         102082371,
-        85818909
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,9 +67,10 @@
     "wof:geomhash":"8dd19c966595f281f2d7ed008d2215dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977631,
             "neighbourhood_id":85818909,
             "region_id":85688543,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":353757479,
-    "wof:lastmodified":1449019692,
+    "wof:lastmodified":1454126364,
     "wof:name":"AT&T",
     "wof:parent_id":85818909,
     "wof:placetype":"venue",
@@ -91,6 +95,11 @@
         "provider"
     ]
 },
-  "bbox": [-73.736063,40.625992,-73.736063,40.625992],
+  "bbox": [
+    -73.736063,
+    40.625992,
+    -73.736063,
+    40.625992
+],
   "geometry": {"coordinates":[-73.736063,40.625992],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336876007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.975185,40.787223,-73.975185,40.787223",
     "geom:latitude":40.787223,
     "geom:longitude":-73.975185,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"531 Amsterdam Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853285,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85853285
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"02f63c0421cd03c7b173a746e29a8429",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853285,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":336876007,
-    "wof:lastmodified":1448997168,
+    "wof:lastmodified":1454122442,
     "wof:name":"Fine Cleaners",
     "wof:parent_id":85853285,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "clean"
     ]
 },
-  "bbox": [-73.975185,40.787223,-73.975185,40.787223],
+  "bbox": [
+    -73.975185,
+    40.787223,
+    -73.975185,
+    40.787223
+],
   "geometry": {"coordinates":[-73.975185,40.787223],"type":"Point"}
 }

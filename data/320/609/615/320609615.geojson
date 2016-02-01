@@ -2,13 +2,14 @@
   "id": 320609615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.087525,40.639053,-74.087525,40.639053",
     "geom:latitude":40.639053,
     "geom:longitude":-74.087525,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 Jersey St",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836569,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85836569
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"17c3cbafc44423d5c3bcecc9e27d6cde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85836569,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":320609615,
-    "wof:lastmodified":1449012670,
+    "wof:lastmodified":1454124991,
     "wof:name":"Fatimedo Braiding",
     "wof:parent_id":85836569,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.087525,40.639053,-74.087525,40.639053],
+  "bbox": [
+    -74.087525,
+    40.639053,
+    -74.087525,
+    40.639053
+],
   "geometry": {"coordinates":[-74.087525,40.639053],"type":"Point"}
 }

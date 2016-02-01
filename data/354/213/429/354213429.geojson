@@ -2,13 +2,14 @@
   "id": 354213429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.081754,40.802796,-73.081754,40.802796",
     "geom:latitude":40.802796,
     "geom:longitude":-73.081754,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"119 Giller Ave",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"f73577386b9e99a3b7e3d32bf09f8866",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":354213429
         }
     ],
     "wof:id":354213429,
-    "wof:lastmodified":1449065949,
+    "wof:lastmodified":1454130775,
     "wof:name":"Giller Collection Management",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "agency"
     ]
 },
-  "bbox": [-73.081754,40.802796,-73.081754,40.802796],
+  "bbox": [
+    -73.081754,
+    40.802796,
+    -73.081754,
+    40.802796
+],
   "geometry": {"coordinates":[-73.081754,40.802796],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353630923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.831703,40.684601,-73.831703,40.684601",
     "geom:latitude":40.684601,
     "geom:longitude":-73.831703,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11005 Liberty Ave",
     "sg:city":"South Richmond Hill",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844441,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844441
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f73960ca39d0b9692fbb67a33e86e006",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844441,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353630923,
-    "wof:lastmodified":1449019167,
+    "wof:lastmodified":1454126214,
     "wof:name":"Rising Stars Dance Studio",
     "wof:parent_id":85844441,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "performing"
     ]
 },
-  "bbox": [-73.831703,40.684601,-73.831703,40.684601],
+  "bbox": [
+    -73.831703,
+    40.684601,
+    -73.831703,
+    40.684601
+],
   "geometry": {"coordinates":[-73.831703,40.684601],"type":"Point"}
 }

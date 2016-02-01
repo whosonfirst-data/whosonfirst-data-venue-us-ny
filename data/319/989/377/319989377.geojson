@@ -2,13 +2,14 @@
   "id": 319989377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.569527,43.165704,-77.569527,43.165704",
     "geom:latitude":43.165704,
     "geom:longitude":-77.569527,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"345 Parsells Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880405,
+        102191575,
+        404521467,
         85633793,
-        85979035,
+        85977591,
         102081815,
-        85880405
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"8973b1146317d83112f234628280cba1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85979035,
+            "localadmin_id":404521467,
+            "locality_id":85977591,
             "neighbourhood_id":85880405,
             "region_id":85688543,
             "venue_id":319989377
         }
     ],
     "wof:id":319989377,
-    "wof:lastmodified":1449024658,
+    "wof:lastmodified":1454126812,
     "wof:name":"Parsells Ave Community Church",
     "wof:parent_id":85880405,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-77.569527,43.165704,-77.569527,43.165704],
-  "geometry": {"coordinates":[-77.569527,43.165704],"type":"Point"}
+  "bbox": [
+    -77.569527,
+    43.165704,
+    -77.569527,
+    43.165704
+],
+  "geometry": {"coordinates":[-77.56952699999999,43.165704],"type":"Point"}
 }

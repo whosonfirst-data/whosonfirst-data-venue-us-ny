@@ -2,13 +2,14 @@
   "id": 253244629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.784846,41.034969,-73.784846,41.034969",
     "geom:latitude":41.034969,
     "geom:longitude":-73.784846,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Fulton St",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893077,
+        102191575,
+        404523395,
         85633793,
+        85978761,
         102082373,
-        85893077
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +48,18 @@
     "wof:geomhash":"646722157d6310ebd3fca6caf14642f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":-1,
+            "localadmin_id":404523395,
+            "locality_id":85978761,
             "neighbourhood_id":85893077,
             "region_id":85688543,
             "venue_id":253244629
         }
     ],
     "wof:id":253244629,
-    "wof:lastmodified":1449064004,
+    "wof:lastmodified":1454130442,
     "wof:name":"Al's Moving & Storage",
     "wof:parent_id":85893077,
     "wof:placetype":"venue",
@@ -68,6 +73,11 @@
         "local"
     ]
 },
-  "bbox": [-73.784846,41.034969,-73.784846,41.034969],
+  "bbox": [
+    -73.784846,
+    41.034969,
+    -73.784846,
+    41.034969
+],
   "geometry": {"coordinates":[-73.784846,41.034969],"type":"Point"}
 }

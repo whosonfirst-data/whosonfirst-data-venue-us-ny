@@ -2,13 +2,14 @@
   "id": 303900623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.880929,40.90683,-73.880929,40.90683",
     "geom:latitude":40.90683,
     "geom:longitude":-73.880929,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"59 Sherman Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528049,
+        102191575,
+        404521211,
         85633793,
+        85977539,
+        102082361,
         85688543
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"9be285f06b5c69c4cfd42d644a1e849d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":420528049,
             "region_id":85688543,
             "venue_id":303900623
         }
     ],
     "wof:id":303900623,
-    "wof:lastmodified":1448999173,
+    "wof:lastmodified":1454123342,
     "wof:name":"Gus Georgioudakis",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528049,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.880929,40.90683,-73.880929,40.90683],
-  "geometry": {"coordinates":[-73.880929,40.90683],"type":"Point"}
+  "bbox": [
+    -73.880929,
+    40.90683,
+    -73.880929,
+    40.90683
+],
+  "geometry": {"coordinates":[-73.88092899999999,40.90683],"type":"Point"}
 }

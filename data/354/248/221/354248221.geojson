@@ -2,13 +2,14 @@
   "id": 354248221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.427101,40.8703,-73.427101,40.8703",
     "geom:latitude":40.8703,
     "geom:longitude":-73.427101,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13 New St",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820109,
+        102191575,
+        404522515,
         85633793,
-        85979675,
+        85979787,
         102082395,
-        85820109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"486f2d656bd7f02c125cef8fb2bca12c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979675,
+            "localadmin_id":404522515,
+            "locality_id":85979787,
             "neighbourhood_id":85820109,
             "region_id":85688543,
             "venue_id":354248221
         }
     ],
     "wof:id":354248221,
-    "wof:lastmodified":1449066874,
+    "wof:lastmodified":1454131059,
     "wof:name":"Bergers Wholesale Meat Co",
     "wof:parent_id":85820109,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.427101,40.8703,-73.427101,40.8703],
-  "geometry": {"coordinates":[-73.427101,40.8703],"type":"Point"}
+  "bbox": [
+    -73.427101,
+    40.8703,
+    -73.427101,
+    40.8703
+],
+  "geometry": {"coordinates":[-73.42710099999999,40.8703],"type":"Point"}
 }

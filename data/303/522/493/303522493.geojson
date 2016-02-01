@@ -2,13 +2,14 @@
   "id": 303522493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.938993,42.840764,-73.938993,42.840764",
     "geom:latitude":42.840764,
     "geom:longitude":-73.938993,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"118 Freemans Bridge Rd",
     "sg:city":"Scotia",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85835631,
+        102191575,
+        404522521,
         85633793,
-        85979301,
-        102081765
+        85977841,
+        102081765,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"89857a03f060ca54d69798f29244001a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081765,
-            "locality_id":85979301,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522521,
+            "locality_id":85977841,
+            "neighbourhood_id":85835631,
             "region_id":85688543,
             "venue_id":303522493
         }
     ],
     "wof:id":303522493,
-    "wof:lastmodified":1448999284,
+    "wof:lastmodified":1454123372,
     "wof:name":"Pahl's Septic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85835631,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "septic"
     ]
 },
-  "bbox": [-73.938993,42.840764,-73.938993,42.840764],
+  "bbox": [
+    -73.938993,
+    42.840764,
+    -73.938993,
+    42.840764
+],
   "geometry": {"coordinates":[-73.938993,42.840764],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252914187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.850673,40.806615,-73.850673,40.806615",
     "geom:latitude":40.806615,
     "geom:longitude":-73.850673,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3 Soundview Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865667,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865667
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"007d7e5e35d626c8d554a1ea907eb070",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865667,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":252914187,
-    "wof:lastmodified":1449005817,
+    "wof:lastmodified":1454124037,
     "wof:name":"Point Yacht Club Inc",
     "wof:parent_id":85865667,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "membership"
     ]
 },
-  "bbox": [-73.850673,40.806615,-73.850673,40.806615],
+  "bbox": [
+    -73.850673,
+    40.806615,
+    -73.850673,
+    40.806615
+],
   "geometry": {"coordinates":[-73.850673,40.806615],"type":"Point"}
 }

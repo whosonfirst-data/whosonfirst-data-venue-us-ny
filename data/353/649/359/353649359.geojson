@@ -2,13 +2,14 @@
   "id": 353649359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.852885,40.693512,-73.852885,40.693512",
     "geom:latitude":40.693512,
     "geom:longitude":-73.852885,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9211 Jamaica Avenue",
     "sg:city":"Woodhaven",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.radioshack.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85858649,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85858649
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"6a5fcb4dc255f6adf62d51f00363176d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85858649,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":353649359,
-    "wof:lastmodified":1449019976,
+    "wof:lastmodified":1454126448,
     "wof:name":"Radioshack",
     "wof:parent_id":85858649,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.852885,40.693512,-73.852885,40.693512],
+  "bbox": [
+    -73.852885,
+    40.693512,
+    -73.852885,
+    40.693512
+],
   "geometry": {"coordinates":[-73.852885,40.693512],"type":"Point"}
 }

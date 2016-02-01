@@ -2,13 +2,14 @@
   "id": 336927419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.853153,40.859494,-73.853153,40.859494",
     "geom:latitude":40.859494,
     "geom:longitude":-73.853153,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2221 Tenbroeck Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528059,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"cac4b53d875f9e348c77d7eb330b9200",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528059,
             "region_id":85688543,
             "venue_id":336927419
         }
     ],
     "wof:id":336927419,
-    "wof:lastmodified":1448997905,
+    "wof:lastmodified":1454122917,
     "wof:name":"Painter With A Touch of Class",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528059,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.853153,40.859494,-73.853153,40.859494],
-  "geometry": {"coordinates":[-73.853153,40.859494],"type":"Point"}
+  "bbox": [
+    -73.853153,
+    40.859494,
+    -73.853153,
+    40.859494
+],
+  "geometry": {"coordinates":[-73.85315300000001,40.859494],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386990077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.597076,43.149994,-77.597076,43.149994",
     "geom:latitude":43.149994,
     "geom:longitude":-77.597076,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"224 Alexander St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867103,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85867103
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"76aaf71f6ac1040f50adaf1371c9693d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85867103,
             "region_id":85688543,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":386990077,
-    "wof:lastmodified":1449028825,
+    "wof:lastmodified":1454127244,
     "wof:name":"Rochester General Hospital",
     "wof:parent_id":85867103,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "medical"
     ]
 },
-  "bbox": [-77.597076,43.149994,-77.597076,43.149994],
+  "bbox": [
+    -77.597076,
+    43.149994,
+    -77.597076,
+    43.149994
+],
   "geometry": {"coordinates":[-77.597076,43.149994],"type":"Point"}
 }

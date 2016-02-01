@@ -2,13 +2,14 @@
   "id": 270398777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.795998,41.027949,-73.795998,41.027949",
     "geom:latitude":41.027949,
     "geom:longitude":-73.795998,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"33 Dalewood Dr",
     "sg:city":"Hartsdale",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85893077,
+        102191575,
+        404523395,
         85633793,
+        85978761,
+        102082373,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"ce9b0b5ee65e8c096394eefc4c07edfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523395,
+            "locality_id":85978761,
+            "neighbourhood_id":85893077,
             "region_id":85688543,
             "venue_id":270398777
         }
     ],
     "wof:id":270398777,
-    "wof:lastmodified":1449008848,
+    "wof:lastmodified":1454124396,
     "wof:name":"Martin Krauss DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893077,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.795998,41.027949,-73.795998,41.027949],
+  "bbox": [
+    -73.795998,
+    41.027949,
+    -73.795998,
+    41.027949
+],
   "geometry": {"coordinates":[-73.795998,41.027949],"type":"Point"}
 }

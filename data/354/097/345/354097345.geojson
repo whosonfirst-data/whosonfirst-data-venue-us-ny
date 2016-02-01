@@ -2,13 +2,14 @@
   "id": 354097345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.525727,40.648411,-73.525727,40.648411",
     "geom:latitude":40.648411,
     "geom:longitude":-73.525727,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3000 Lee Pl",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529141,
+        102191575,
+        404521473,
         85633793,
         85979167,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"8e5fc0c3d3eef7260e41e8589640f3ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979167,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529141,
             "region_id":85688543,
             "venue_id":354097345
         }
     ],
     "wof:id":354097345,
-    "wof:lastmodified":1449066584,
+    "wof:lastmodified":1454130972,
     "wof:name":"Douglas A Kydd Jr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529141,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-73.525727,40.648411,-73.525727,40.648411],
+  "bbox": [
+    -73.525727,
+    40.648411,
+    -73.525727,
+    40.648411
+],
   "geometry": {"coordinates":[-73.525727,40.648411],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270124873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.770178,43.115032,-73.770178,43.115032",
     "geom:latitude":43.115032,
     "geom:longitude":-73.770178,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"615 Maple Ave",
     "sg:city":"Saratoga Springs",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85859279,
+        102191575,
+        404522373,
         85633793,
+        85977919,
+        102082413,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"2b0b6e8f2a1683e75d969cc21a42e4f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082413,
+            "localadmin_id":404522373,
+            "locality_id":85977919,
+            "neighbourhood_id":85859279,
             "region_id":85688543,
             "venue_id":270124873
         }
     ],
     "wof:id":270124873,
-    "wof:lastmodified":1449010912,
+    "wof:lastmodified":1454124707,
     "wof:name":"Maple Avenue Fire Co No 4",
-    "wof:parent_id":-1,
+    "wof:parent_id":85859279,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "department"
     ]
 },
-  "bbox": [-73.770178,43.115032,-73.770178,43.115032],
+  "bbox": [
+    -73.770178,
+    43.115032,
+    -73.770178,
+    43.115032
+],
   "geometry": {"coordinates":[-73.770178,43.115032],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303402953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.472026,40.776028,-73.472026,40.776028",
     "geom:latitude":40.776028,
     "geom:longitude":-73.472026,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1032 Old Country Rd",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.triohardware.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +42,18 @@
     "wof:geomhash":"e0984529b8ca43029a2addc662b7b051",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":303402953
         }
     ],
     "wof:id":303402953,
-    "wof:lastmodified":1448998900,
+    "wof:lastmodified":1454123262,
     "wof:name":"Trio Hardware",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.472026,40.776028,-73.472026,40.776028],
+  "bbox": [
+    -73.472026,
+    40.776028,
+    -73.472026,
+    40.776028
+],
   "geometry": {"coordinates":[-73.472026,40.776028],"type":"Point"}
 }

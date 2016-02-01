@@ -2,13 +2,14 @@
   "id": 354130215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.375409,40.88548,-73.375409,40.88548",
     "geom:latitude":40.88548,
     "geom:longitude":-73.375409,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"410 E Main St",
     "sg:city":"Centerport",
     "sg:classifiers":[
@@ -47,11 +48,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826545,
+        102191575,
+        404522515,
         85633793,
-        85979823,
+        85978425,
         102082395,
-        85826545
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,17 +64,18 @@
     "wof:geomhash":"8625c06678a48e65a0c2aa090628e220",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979823,
+            "localadmin_id":404522515,
+            "locality_id":85978425,
             "neighbourhood_id":85826545,
             "region_id":85688543,
             "venue_id":354130215
         }
     ],
     "wof:id":354130215,
-    "wof:lastmodified":1449066501,
+    "wof:lastmodified":1454130945,
     "wof:name":"Invisible Fence",
     "wof:parent_id":85826545,
     "wof:placetype":"venue",
@@ -86,6 +90,11 @@
         "fence-sales"
     ]
 },
-  "bbox": [-73.375409,40.88548,-73.375409,40.88548],
+  "bbox": [
+    -73.375409,
+    40.88548,
+    -73.375409,
+    40.88548
+],
   "geometry": {"coordinates":[-73.375409,40.88548],"type":"Point"}
 }

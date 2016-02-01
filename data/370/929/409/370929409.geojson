@@ -2,13 +2,14 @@
   "id": 370929409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.072896,40.729532,-73.072896,40.729532",
     "geom:latitude":40.729532,
     "geom:longitude":-73.072896,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"74 Willow St",
     "sg:city":"Sayville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"8e049262949853e6b4f81508e86f1a7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":370929409
         }
     ],
     "wof:id":370929409,
-    "wof:lastmodified":1449030380,
+    "wof:lastmodified":1454127697,
     "wof:name":"Annie's Country Store",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "indian"
     ]
 },
-  "bbox": [-73.072896,40.729532,-73.072896,40.729532],
+  "bbox": [
+    -73.072896,
+    40.729532,
+    -73.072896,
+    40.729532
+],
   "geometry": {"coordinates":[-73.072896,40.729532],"type":"Point"}
 }

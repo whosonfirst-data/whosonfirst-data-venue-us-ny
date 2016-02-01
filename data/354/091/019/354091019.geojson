@@ -2,13 +2,14 @@
   "id": 354091019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.544403,40.6996,-73.544403,40.6996",
     "geom:latitude":40.6996,
     "geom:longitude":-73.544403,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"903 Newbridge Rd",
     "sg:city":"N Bellmore",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"a8084b3a6a0a1cbedd15aa218452080b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":354091019
         }
     ],
     "wof:id":354091019,
-    "wof:lastmodified":1449066098,
+    "wof:lastmodified":1454130823,
     "wof:name":"Servicio Espanol De Limousine",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "limo"
     ]
 },
-  "bbox": [-73.544403,40.6996,-73.544403,40.6996],
+  "bbox": [
+    -73.544403,
+    40.6996,
+    -73.544403,
+    40.6996
+],
   "geometry": {"coordinates":[-73.544403,40.6996],"type":"Point"}
 }

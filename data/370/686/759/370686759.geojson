@@ -2,13 +2,14 @@
   "id": 370686759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.090544,42.024536,-74.090544,42.024536",
     "geom:latitude":42.024536,
     "geom:longitude":-74.090544,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Whitney Dr",
     "sg:city":"Woodstock",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848631,
+        102191575,
+        404521657,
         85633793,
+        85978919,
         102081775,
-        85848631
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"cd4b7f8a622e69f355741ddc39cd269b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
-            "locality_id":-1,
+            "localadmin_id":404521657,
+            "locality_id":85978919,
             "neighbourhood_id":85848631,
             "region_id":85688543,
             "venue_id":370686759
         }
     ],
     "wof:id":370686759,
-    "wof:lastmodified":1449031659,
+    "wof:lastmodified":1454128072,
     "wof:name":"Atlas Construction Svc Inc",
     "wof:parent_id":85848631,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.090544,42.024536,-74.090544,42.024536],
-  "geometry": {"coordinates":[-74.090544,42.024536],"type":"Point"}
+  "bbox": [
+    -74.090544,
+    42.024536,
+    -74.090544,
+    42.024536
+],
+  "geometry": {"coordinates":[-74.09054399999999,42.024536],"type":"Point"}
 }

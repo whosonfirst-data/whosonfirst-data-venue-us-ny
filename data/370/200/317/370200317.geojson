@@ -2,13 +2,14 @@
   "id": 370200317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.198502,40.8298,-73.198502,40.8298",
     "geom:latitude":40.8298,
     "geom:longitude":-73.198502,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"503 Route 111",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"6381f8b61789d838d897f3160a5d1d5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":370200317
         }
     ],
     "wof:id":370200317,
-    "wof:lastmodified":1449030438,
+    "wof:lastmodified":1454127711,
     "wof:name":"Feeney Gayoso & Fitzpatrick Llp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.198502,40.8298,-73.198502,40.8298],
+  "bbox": [
+    -73.198502,
+    40.8298,
+    -73.198502,
+    40.8298
+],
   "geometry": {"coordinates":[-73.198502,40.8298],"type":"Point"}
 }

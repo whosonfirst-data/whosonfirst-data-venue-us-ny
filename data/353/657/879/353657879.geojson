@@ -2,13 +2,14 @@
   "id": 353657879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.740371,40.636088,-73.740371,40.636088",
     "geom:latitude":40.636088,
     "geom:longitude":-73.740371,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25300 Rockaway Boulevard",
     "sg:city":"Jamaica",
     "sg:classifiers":[
@@ -28,10 +29,14 @@
     "sg:website":"www.simmons.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
+        102082361,
+        85688543,
         85865647
     ],
     "wof:breaches":[],
@@ -42,9 +47,22 @@
     "wof:geomhash":"717c37a92601d3bf0d6cea75325af507",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":85823673,
+            "region_id":85688543,
+            "venue_id":353657879
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865647,
             "region_id":85688543,
@@ -52,9 +70,9 @@
         }
     ],
     "wof:id":353657879,
-    "wof:lastmodified":1449018538,
+    "wof:lastmodified":1454126030,
     "wof:name":"Simmons Furniture",
-    "wof:parent_id":85865647,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +80,11 @@
         "store"
     ]
 },
-  "bbox": [-73.740371,40.636088,-73.740371,40.636088],
+  "bbox": [
+    -73.740371,
+    40.636088,
+    -73.740371,
+    40.636088
+],
   "geometry": {"coordinates":[-73.740371,40.636088],"type":"Point"}
 }

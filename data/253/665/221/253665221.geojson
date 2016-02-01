@@ -2,13 +2,14 @@
   "id": 253665221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.913817,40.884322,-73.913817,40.884322",
     "geom:latitude":40.884322,
     "geom:longitude":-73.913817,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3103 Fairfield Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85850825,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85850825
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"6e79a41a1d35341c829a0dac3b210797",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85850825,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":253665221,
-    "wof:lastmodified":1449063722,
+    "wof:lastmodified":1454130394,
     "wof:name":"Riverdale Assoc For Psychother",
     "wof:parent_id":85850825,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "psychotherapist"
     ]
 },
-  "bbox": [-73.913817,40.884322,-73.913817,40.884322],
-  "geometry": {"coordinates":[-73.913817,40.884322],"type":"Point"}
+  "bbox": [
+    -73.913817,
+    40.884322,
+    -73.913817,
+    40.884322
+],
+  "geometry": {"coordinates":[-73.91381699999999,40.884322],"type":"Point"}
 }

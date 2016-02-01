@@ -2,13 +2,14 @@
   "id": 269865893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.715688,40.675784,-73.715688,40.675784",
     "geom:latitude":40.675784,
     "geom:longitude":-73.715688,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Ella St",
     "sg:city":"Valley Stream",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529147,
+        102191575,
+        404521473,
         85633793,
-        85977737,
-        102082371
+        85979041,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"46f88d1a031d1b283a1eb7a209e1590a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977737,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979041,
+            "neighbourhood_id":420529147,
             "region_id":85688543,
             "venue_id":269865893
         }
     ],
     "wof:id":269865893,
-    "wof:lastmodified":1449038206,
+    "wof:lastmodified":1454128732,
     "wof:name":"AMC Communications",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529147,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.715688,40.675784,-73.715688,40.675784],
+  "bbox": [
+    -73.715688,
+    40.675784,
+    -73.715688,
+    40.675784
+],
   "geometry": {"coordinates":[-73.715688,40.675784],"type":"Point"}
 }

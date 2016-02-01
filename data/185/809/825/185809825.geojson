@@ -2,13 +2,14 @@
   "id": 185809825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.004467,40.640039,-74.004467,40.640039",
     "geom:latitude":40.640039,
     "geom:longitude":-74.004467,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5117 8th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"7bf7acc6d57f2c324e16abcb37828a32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":185809825
         }
     ],
     "wof:id":185809825,
-    "wof:lastmodified":1449007940,
+    "wof:lastmodified":1454124315,
     "wof:name":"Fanny Crystal Jewelry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.004467,40.640039,-74.004467,40.640039],
-  "geometry": {"coordinates":[-74.004467,40.640039],"type":"Point"}
+  "bbox": [
+    -74.004467,
+    40.640039,
+    -74.004467,
+    40.640039
+],
+  "geometry": {"coordinates":[-74.00446700000001,40.640039],"type":"Point"}
 }

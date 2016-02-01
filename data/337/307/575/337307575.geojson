@@ -2,13 +2,14 @@
   "id": 337307575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.904045,40.766246,-73.904045,40.766246",
     "geom:latitude":40.766246,
     "geom:longitude":-73.904045,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2382 Brooklyn Queens Expy W",
     "sg:city":"Long Island City",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.centennialelevator.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85803821,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85803821
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"1e9ed32e63c3a4516355e8f1f522afd4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85803821,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":337307575,
-    "wof:lastmodified":1449027140,
+    "wof:lastmodified":1454126948,
     "wof:name":"Centennial Elevator Mntnc Corp",
     "wof:parent_id":85803821,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "elevator"
     ]
 },
-  "bbox": [-73.904045,40.766246,-73.904045,40.766246],
+  "bbox": [
+    -73.904045,
+    40.766246,
+    -73.904045,
+    40.766246
+],
   "geometry": {"coordinates":[-73.904045,40.766246],"type":"Point"}
 }

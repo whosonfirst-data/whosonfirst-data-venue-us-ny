@@ -2,13 +2,14 @@
   "id": 370153375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.028603,40.867401,-73.028603,40.867401",
     "geom:latitude":40.867401,
     "geom:longitude":-73.028603,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"291 Middle Country Rd",
     "sg:city":"Selden",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"3675c0d95fbe5d3e4c668ab7959022aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":370153375
         }
     ],
     "wof:id":370153375,
-    "wof:lastmodified":1449031406,
+    "wof:lastmodified":1454127999,
     "wof:name":"Game Crazy",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "video"
     ]
 },
-  "bbox": [-73.028603,40.867401,-73.028603,40.867401],
+  "bbox": [
+    -73.028603,
+    40.867401,
+    -73.028603,
+    40.867401
+],
   "geometry": {"coordinates":[-73.028603,40.867401],"type":"Point"}
 }

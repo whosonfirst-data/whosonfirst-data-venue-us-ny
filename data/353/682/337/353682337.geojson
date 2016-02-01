@@ -2,13 +2,14 @@
   "id": 353682337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.800396,40.712944,-73.800396,40.712944",
     "geom:latitude":40.712944,
     "geom:longitude":-73.800396,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16527 85th Ave",
     "sg:city":"Jamaica",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865567,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865567
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"821c800dc0903041c3170e313f16ac34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865567,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":353682337,
-    "wof:lastmodified":1449018687,
+    "wof:lastmodified":1454126074,
     "wof:name":"God First International Housing Corp.",
     "wof:parent_id":85865567,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "denomination"
     ]
 },
-  "bbox": [-73.800396,40.712944,-73.800396,40.712944],
-  "geometry": {"coordinates":[-73.800396,40.712944],"type":"Point"}
+  "bbox": [
+    -73.800396,
+    40.712944,
+    -73.800396,
+    40.712944
+],
+  "geometry": {"coordinates":[-73.80039600000001,40.712944],"type":"Point"}
 }

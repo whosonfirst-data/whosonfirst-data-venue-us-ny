@@ -2,13 +2,14 @@
   "id": 387033393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.833255,40.843606,-73.833255,40.843606",
     "geom:latitude":40.843606,
     "geom:longitude":-73.833255,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2881 Middletown Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865663,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865663
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"527a45f82e878ec7bf901d7898a3cd74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865663,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387033393,
-    "wof:lastmodified":1449056880,
+    "wof:lastmodified":1454129666,
     "wof:name":"Plastodent Inc",
     "wof:parent_id":85865663,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "dental"
     ]
 },
-  "bbox": [-73.833255,40.843606,-73.833255,40.843606],
-  "geometry": {"coordinates":[-73.833255,40.843606],"type":"Point"}
+  "bbox": [
+    -73.833255,
+    40.843606,
+    -73.833255,
+    40.843606
+],
+  "geometry": {"coordinates":[-73.83325499999999,40.843606],"type":"Point"}
 }

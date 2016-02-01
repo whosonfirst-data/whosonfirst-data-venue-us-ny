@@ -2,13 +2,14 @@
   "id": 370978525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.865234,43.03783,-74.865234,43.03783",
     "geom:latitude":43.03783,
     "geom:longitude":-74.865234,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Hansen Is",
     "sg:city":"Little Falls",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528839,
+        102191575,
+        404521885,
         85633793,
         85977757,
-        102081877
+        102081877,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"3ddf19ddd57e1ecbc68738c86dc7acb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081877,
+            "localadmin_id":404521885,
             "locality_id":85977757,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528839,
             "region_id":85688543,
             "venue_id":370978525
         }
     ],
     "wof:id":370978525,
-    "wof:lastmodified":1449031026,
+    "wof:lastmodified":1454127887,
     "wof:name":"Redco Foods Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528839,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-74.865234,43.03783,-74.865234,43.03783],
+  "bbox": [
+    -74.865234,
+    43.03783,
+    -74.865234,
+    43.03783
+],
   "geometry": {"coordinates":[-74.865234,43.03783],"type":"Point"}
 }

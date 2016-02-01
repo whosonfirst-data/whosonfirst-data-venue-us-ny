@@ -2,13 +2,14 @@
   "id": 286614263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.732407,43.161291,-77.732407,43.161291",
     "geom:latitude":43.161291,
     "geom:longitude":-77.732407,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"758 Elmgrove Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -24,8 +25,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85817869,
+        102081815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +38,27 @@
     "wof:geomhash":"f37ed3f39e658a9395b4fc9225e4fd36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "neighbourhood_id":85817869,
             "region_id":85688543,
             "venue_id":286614263
         }
     ],
     "wof:id":286614263,
-    "wof:lastmodified":1449018177,
+    "wof:lastmodified":1454125929,
     "wof:name":"Sam's Hair Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85817869,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.732407,43.161291,-77.732407,43.161291],
-  "geometry": {"coordinates":[-77.732407,43.161291],"type":"Point"}
+  "bbox": [
+    -77.732407,
+    43.161291,
+    -77.732407,
+    43.161291
+],
+  "geometry": {"coordinates":[-77.73240699999999,43.161291],"type":"Point"}
 }

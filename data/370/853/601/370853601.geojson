@@ -2,13 +2,14 @@
   "id": 370853601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.915167,40.833742,-73.915167,40.833742",
     "geom:latitude":40.833742,
     "geom:longitude":-73.915167,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"229 E 167th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892793,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85892793
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"11c2dea2c324a3b3e7708e93e1b5e0f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892793,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":370853601,
-    "wof:lastmodified":1449030453,
+    "wof:lastmodified":1454127714,
     "wof:name":"Golden Scissors",
     "wof:parent_id":85892793,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.915167,40.833742,-73.915167,40.833742],
+  "bbox": [
+    -73.915167,
+    40.833742,
+    -73.915167,
+    40.833742
+],
   "geometry": {"coordinates":[-73.915167,40.833742],"type":"Point"}
 }

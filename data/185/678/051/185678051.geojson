@@ -2,13 +2,14 @@
   "id": 185678051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.996142,40.671416,-73.996142,40.671416",
     "geom:latitude":40.671416,
     "geom:longitude":-73.996142,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 12th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865587,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865587
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"b3e12b4e1eed64f8965df1fca05799ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865587,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":185678051,
-    "wof:lastmodified":1449007401,
+    "wof:lastmodified":1454124245,
     "wof:name":"Roosevelt Savings Bank",
     "wof:parent_id":85865587,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.996142,40.671416,-73.996142,40.671416],
-  "geometry": {"coordinates":[-73.996142,40.671416],"type":"Point"}
+  "bbox": [
+    -73.996142,
+    40.671416,
+    -73.996142,
+    40.671416
+],
+  "geometry": {"coordinates":[-73.99614200000001,40.671416],"type":"Point"}
 }

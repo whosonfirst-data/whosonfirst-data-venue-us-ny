@@ -2,13 +2,14 @@
   "id": 403935893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.076282,40.808996,-73.076282,40.808996",
     "geom:latitude":40.808996,
     "geom:longitude":-73.076282,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1026 Main St",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"ed8a74909c83458f6a802fcde41f7b44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":403935893
         }
     ],
     "wof:id":403935893,
-    "wof:lastmodified":1449055732,
+    "wof:lastmodified":1454129480,
     "wof:name":"Cristal Concrete Corp",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.076282,40.808996,-73.076282,40.808996],
-  "geometry": {"coordinates":[-73.076282,40.808996],"type":"Point"}
+  "bbox": [
+    -73.076282,
+    40.808996,
+    -73.076282,
+    40.808996
+],
+  "geometry": {"coordinates":[-73.07628200000001,40.808996],"type":"Point"}
 }

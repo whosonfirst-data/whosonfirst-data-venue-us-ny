@@ -2,13 +2,14 @@
   "id": 353722003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.740396,40.996822,-73.740396,40.996822",
     "geom:latitude":40.996822,
     "geom:longitude":-73.740396,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 Dellwood Rd",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.solomon-schechter.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845959,
+        102191575,
+        404523395,
         85633793,
-        85978735,
+        85978761,
         102082373,
-        85845959
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"73752f7d612073515ee6284011118f18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978735,
+            "localadmin_id":404523395,
+            "locality_id":85978761,
             "neighbourhood_id":85845959,
             "region_id":85688543,
             "venue_id":353722003
         }
     ],
     "wof:id":353722003,
-    "wof:lastmodified":1449019149,
+    "wof:lastmodified":1454126210,
     "wof:name":"Solomon Schechter School",
     "wof:parent_id":85845959,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "private"
     ]
 },
-  "bbox": [-73.740396,40.996822,-73.740396,40.996822],
+  "bbox": [
+    -73.740396,
+    40.996822,
+    -73.740396,
+    40.996822
+],
   "geometry": {"coordinates":[-73.740396,40.996822],"type":"Point"}
 }

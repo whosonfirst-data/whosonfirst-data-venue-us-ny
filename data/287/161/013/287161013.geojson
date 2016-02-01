@@ -2,13 +2,14 @@
   "id": 287161013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.166615,41.003831,-72.166615,41.003831",
     "geom:latitude":41.003831,
     "geom:longitude":-72.166615,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Cedar St",
     "sg:city":"East Hampton",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85828459,
+        102191575,
+        404521445,
         85633793,
-        85979915,
+        85979941,
         102082395,
-        85828459
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"2d92ffb6a9b38d0eaf386616be60ce1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979915,
+            "localadmin_id":404521445,
+            "locality_id":85979941,
             "neighbourhood_id":85828459,
             "region_id":85688543,
             "venue_id":287161013
         }
     ],
     "wof:id":287161013,
-    "wof:lastmodified":1449001018,
+    "wof:lastmodified":1454123834,
     "wof:name":"East Hampton Vlg Police Dept",
     "wof:parent_id":85828459,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "department"
     ]
 },
-  "bbox": [-72.166615,41.003831,-72.166615,41.003831],
-  "geometry": {"coordinates":[-72.166615,41.003831],"type":"Point"}
+  "bbox": [
+    -72.166615,
+    41.003831,
+    -72.166615,
+    41.003831
+],
+  "geometry": {"coordinates":[-72.16661499999999,41.003831],"type":"Point"}
 }

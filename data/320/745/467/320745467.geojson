@@ -2,13 +2,14 @@
   "id": 320745467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.109492,40.570944,-74.109492,40.570944",
     "geom:latitude":40.570944,
     "geom:longitude":-74.109492,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2477 Hylan Blvd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.7-eleven.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529771,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"b79ec6396fcdc646b019fb5c82139965",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529771,
             "region_id":85688543,
             "venue_id":320745467
         }
     ],
     "wof:id":320745467,
-    "wof:lastmodified":1449014796,
+    "wof:lastmodified":1454125336,
     "wof:name":"7-Eleven",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529771,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.109492,40.570944,-74.109492,40.570944],
+  "bbox": [
+    -74.109492,
+    40.570944,
+    -74.109492,
+    40.570944
+],
   "geometry": {"coordinates":[-74.109492,40.570944],"type":"Point"}
 }

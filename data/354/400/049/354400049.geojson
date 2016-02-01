@@ -2,13 +2,14 @@
   "id": 354400049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.903552,40.615592,-73.903552,40.615592",
     "geom:latitude":40.615592,
     "geom:longitude":-73.903552,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2365 E 70th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865597,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865597
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c1e79954b11a6b84614fe3f4a82eec58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865597,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":354400049,
-    "wof:lastmodified":1449066096,
+    "wof:lastmodified":1454130822,
     "wof:name":"Brooklyn Trading Company",
     "wof:parent_id":85865597,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.903552,40.615592,-73.903552,40.615592],
+  "bbox": [
+    -73.903552,
+    40.615592,
+    -73.903552,
+    40.615592
+],
   "geometry": {"coordinates":[-73.903552,40.615592],"type":"Point"}
 }

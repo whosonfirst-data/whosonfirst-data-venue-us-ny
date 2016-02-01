@@ -2,13 +2,14 @@
   "id": 303761021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.99399,40.686173,-73.99399,40.686173",
     "geom:latitude":40.686173,
     "geom:longitude":-73.99399,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"225 Court St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -24,10 +25,14 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892915,
+        102191575,
+        102147495,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +42,31 @@
     "wof:geomhash":"3b84c512c63d2522067ffc1a4f27f8c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "macrohood_id":102147495,
+            "neighbourhood_id":85892915,
             "region_id":85688543,
             "venue_id":303761021
         }
     ],
     "wof:id":303761021,
-    "wof:lastmodified":1448999983,
+    "wof:lastmodified":1454123563,
     "wof:name":"Alikat NYC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.99399,40.686173,-73.99399,40.686173],
+  "bbox": [
+    -73.99399,
+    40.686173,
+    -73.99399,
+    40.686173
+],
   "geometry": {"coordinates":[-73.99399,40.686173],"type":"Point"}
 }

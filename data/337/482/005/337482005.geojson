@@ -2,13 +2,14 @@
   "id": 337482005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.458514,40.723639,-73.458514,40.723639",
     "geom:latitude":40.723639,
     "geom:longitude":-73.458514,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"182 Merritts Rd",
     "sg:city":"Farmingdale",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892759,
+        102191575,
+        404521475,
         85633793,
         85979165,
         102082371,
-        85892759
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"eff1c409637089f1a59e6bc1eb1c8af3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979165,
             "neighbourhood_id":85892759,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":337482005,
-    "wof:lastmodified":1449027232,
+    "wof:lastmodified":1454126982,
     "wof:name":"Neighborhood Tavern",
     "wof:parent_id":85892759,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "drinking"
     ]
 },
-  "bbox": [-73.458514,40.723639,-73.458514,40.723639],
-  "geometry": {"coordinates":[-73.458514,40.723639],"type":"Point"}
+  "bbox": [
+    -73.458514,
+    40.723639,
+    -73.458514,
+    40.723639
+],
+  "geometry": {"coordinates":[-73.45851399999999,40.723639],"type":"Point"}
 }

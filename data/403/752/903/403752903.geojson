@@ -2,13 +2,14 @@
   "id": 403752903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.496932,42.440446,-76.496932,42.440446",
     "geom:latitude":42.440446,
     "geom:longitude":-76.496932,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"102 N Tioga St",
     "sg:city":"Ithaca",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.stephenhand.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85878347,
+        102191575,
+        404523231,
         85633793,
         85978779,
         102082355,
-        85878347
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"345093ea6841f7459e57d0816eb9d13f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082355,
+            "localadmin_id":404523231,
             "locality_id":85978779,
             "neighbourhood_id":85878347,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":403752903,
-    "wof:lastmodified":1449054852,
+    "wof:lastmodified":1454129355,
     "wof:name":"Stephen O Hand DDS",
     "wof:parent_id":85878347,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "dentist"
     ]
 },
-  "bbox": [-76.496932,42.440446,-76.496932,42.440446],
+  "bbox": [
+    -76.496932,
+    42.440446,
+    -76.496932,
+    42.440446
+],
   "geometry": {"coordinates":[-76.496932,42.440446],"type":"Point"}
 }

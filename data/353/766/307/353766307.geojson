@@ -2,13 +2,14 @@
   "id": 353766307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.581267,40.654115,-73.581267,40.654115",
     "geom:latitude":40.654115,
     "geom:longitude":-73.581267,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"22 W Merrick Rd",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -48,11 +49,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892853,
+        102191575,
+        404521473,
         85633793,
         85977679,
         102082371,
-        85892853
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,9 +65,10 @@
     "wof:geomhash":"9e72aa6590b2ec807a1c370a7395768a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977679,
             "neighbourhood_id":85892853,
             "region_id":85688543,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":353766307,
-    "wof:lastmodified":1449018219,
+    "wof:lastmodified":1454125939,
     "wof:name":"Unitarian Thrift Shop",
     "wof:parent_id":85892853,
     "wof:placetype":"venue",
@@ -88,6 +92,11 @@
         "churches-various"
     ]
 },
-  "bbox": [-73.581267,40.654115,-73.581267,40.654115],
+  "bbox": [
+    -73.581267,
+    40.654115,
+    -73.581267,
+    40.654115
+],
   "geometry": {"coordinates":[-73.581267,40.654115],"type":"Point"}
 }

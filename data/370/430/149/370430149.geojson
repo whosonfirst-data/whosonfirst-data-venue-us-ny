@@ -2,13 +2,14 @@
   "id": 370430149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.719292,42.659729,-73.719292,42.659729",
     "geom:latitude":42.659729,
     "geom:longitude":-73.719292,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"516 Washington Ave",
     "sg:city":"Rensselaer",
     "sg:classifiers":[
@@ -38,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85843203,
+        102191575,
+        404523079,
         85633793,
+        85978343,
         102081773,
-        85843203
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +55,18 @@
     "wof:geomhash":"6064f89a9e7b74a8f9b3ddb19e30d1f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081773,
-            "locality_id":-1,
+            "localadmin_id":404523079,
+            "locality_id":85978343,
             "neighbourhood_id":85843203,
             "region_id":85688543,
             "venue_id":370430149
         }
     ],
     "wof:id":370430149,
-    "wof:lastmodified":1449031231,
+    "wof:lastmodified":1454127946,
     "wof:name":"Taylor, Lucinda S",
     "wof:parent_id":85843203,
     "wof:placetype":"venue",
@@ -77,6 +82,11 @@
         "counselor"
     ]
 },
-  "bbox": [-73.719292,42.659729,-73.719292,42.659729],
+  "bbox": [
+    -73.719292,
+    42.659729,
+    -73.719292,
+    42.659729
+],
   "geometry": {"coordinates":[-73.719292,42.659729],"type":"Point"}
 }

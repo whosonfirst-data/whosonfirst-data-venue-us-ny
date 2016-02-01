@@ -2,13 +2,14 @@
   "id": 353581759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.833429,40.706868,-73.833429,40.706868",
     "geom:latitude":40.706868,
     "geom:longitude":-73.833429,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"118-41 Metropolitan Ave Ste B-3",
     "sg:city":"Kew Gardens",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"PeterKollek.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529695,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"f997e754572c3a965612eae6e777098a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529695,
             "region_id":85688543,
             "venue_id":353581759
         }
     ],
     "wof:id":353581759,
-    "wof:lastmodified":1449018801,
+    "wof:lastmodified":1454126108,
     "wof:name":"Peter Kollek Photography",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529695,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "photographer"
     ]
 },
-  "bbox": [-73.833429,40.706868,-73.833429,40.706868],
+  "bbox": [
+    -73.833429,
+    40.706868,
+    -73.833429,
+    40.706868
+],
   "geometry": {"coordinates":[-73.833429,40.706868],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337522771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.884009,40.74815,-73.884009,40.74815",
     "geom:latitude":40.74815,
     "geom:longitude":-73.884009,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3755 82nd St",
     "sg:city":"Jackson Heights",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85827247,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85827247
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"68ecba6cc16ebb52c7c66111b3d2007d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85827247,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":337522771,
-    "wof:lastmodified":1449027337,
+    "wof:lastmodified":1454127024,
     "wof:name":"La Oficina",
     "wof:parent_id":85827247,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.884009,40.74815,-73.884009,40.74815],
-  "geometry": {"coordinates":[-73.884009,40.74815],"type":"Point"}
+  "bbox": [
+    -73.884009,
+    40.74815,
+    -73.884009,
+    40.74815
+],
+  "geometry": {"coordinates":[-73.88400900000001,40.74815],"type":"Point"}
 }

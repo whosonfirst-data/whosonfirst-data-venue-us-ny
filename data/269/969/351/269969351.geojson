@@ -2,13 +2,14 @@
   "id": 269969351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.690865,40.699004,-73.690865,40.699004",
     "geom:latitude":40.699004,
     "geom:longitude":-73.690865,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"336 Meacham Ave",
     "sg:city":"Elmont",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892829,
+        102191575,
+        404521473,
         85633793,
         85979127,
         102082371,
-        85892829
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"edd6e31eca11e24d5f4bd7f72f2e1913",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979127,
             "neighbourhood_id":85892829,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":269969351,
-    "wof:lastmodified":1449036720,
+    "wof:lastmodified":1454128548,
     "wof:name":"ACME Auto Radiator Corp",
     "wof:parent_id":85892829,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "parts"
     ]
 },
-  "bbox": [-73.690865,40.699004,-73.690865,40.699004],
+  "bbox": [
+    -73.690865,
+    40.699004,
+    -73.690865,
+    40.699004
+],
   "geometry": {"coordinates":[-73.690865,40.699004],"type":"Point"}
 }

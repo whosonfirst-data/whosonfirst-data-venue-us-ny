@@ -2,13 +2,14 @@
   "id": 371146615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.727821,42.932301,-78.727821,42.932301",
     "geom:latitude":42.932301,
     "geom:longitude":-78.727821,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4200 Genesee St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -27,6 +28,7 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102528321,
         85688543,
         85633793,
         102082387,
@@ -40,19 +42,18 @@
     "wof:geomhash":"bc6c5e7f9b750c84d092ceaa440650fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102528321,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
             "neighbourhood_id":85811327,
             "region_id":85688543,
             "venue_id":371146615
         }
     ],
     "wof:id":371146615,
-    "wof:lastmodified":1449049454,
+    "wof:lastmodified":1454129135,
     "wof:name":"Vanderlande Industries",
-    "wof:parent_id":85811327,
+    "wof:parent_id":102528321,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +61,11 @@
         "contract"
     ]
 },
-  "bbox": [-78.727821,42.932301,-78.727821,42.932301],
-  "geometry": {"coordinates":[-78.727821,42.932301],"type":"Point"}
+  "bbox": [
+    -78.727821,
+    42.932301,
+    -78.727821,
+    42.932301
+],
+  "geometry": {"coordinates":[-78.72782100000001,42.932301],"type":"Point"}
 }

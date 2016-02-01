@@ -2,13 +2,14 @@
   "id": 253135141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.99356,40.941143,-72.99356,40.941143",
     "geom:latitude":40.941143,
     "geom:longitude":-72.99356,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"347 Rte 25A",
     "sg:city":"Miller Place",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.bankofsmithtown.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85813109,
+        102191575,
+        404521441,
         85633793,
         85978457,
         102082395,
-        85813109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"d1709de74a9949369b25a8e8f8de0eb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85978457,
             "neighbourhood_id":85813109,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":253135141,
-    "wof:lastmodified":1449063969,
+    "wof:lastmodified":1454130438,
     "wof:name":"Bank Of Smithtown",
     "wof:parent_id":85813109,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.99356,40.941143,-72.99356,40.941143],
+  "bbox": [
+    -72.99356,
+    40.941143,
+    -72.99356,
+    40.941143
+],
   "geometry": {"coordinates":[-72.99356,40.941143],"type":"Point"}
 }

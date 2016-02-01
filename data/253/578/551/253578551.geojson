@@ -2,13 +2,14 @@
   "id": 253578551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.382371,40.890143,-72.382371,40.890143",
     "geom:latitude":40.890143,
     "geom:longitude":-72.382371,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"262 Hampton Rd",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"14f00b163f2d93d4290381e5d1c2057a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":253578551
         }
     ],
     "wof:id":253578551,
-    "wof:lastmodified":1449063562,
+    "wof:lastmodified":1454130369,
     "wof:name":"Southampton Uniform Shoppe",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "uniform"
     ]
 },
-  "bbox": [-72.382371,40.890143,-72.382371,40.890143],
-  "geometry": {"coordinates":[-72.382371,40.890143],"type":"Point"}
+  "bbox": [
+    -72.382371,
+    40.890143,
+    -72.382371,
+    40.890143
+],
+  "geometry": {"coordinates":[-72.38237100000001,40.890143],"type":"Point"}
 }

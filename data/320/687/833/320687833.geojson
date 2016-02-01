@@ -2,13 +2,14 @@
   "id": 320687833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.636061,43.148171,-77.636061,43.148171",
     "geom:latitude":43.148171,
     "geom:longitude":-77.636061,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Genesee St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.universityofrochester.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867087,
+        102191575,
+        404521467,
         85633793,
         85977591,
-        102081815
+        102081815,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"09eb903400e929498073911beaa99140",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85867087,
             "region_id":85688543,
             "venue_id":320687833
         }
     ],
     "wof:id":320687833,
-    "wof:lastmodified":1449012303,
+    "wof:lastmodified":1454124930,
     "wof:name":"Ferguson Hall Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867087,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "grounds"
     ]
 },
-  "bbox": [-77.636061,43.148171,-77.636061,43.148171],
+  "bbox": [
+    -77.636061,
+    43.148171,
+    -77.636061,
+    43.148171
+],
   "geometry": {"coordinates":[-77.636061,43.148171],"type":"Point"}
 }

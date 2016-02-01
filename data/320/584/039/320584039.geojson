@@ -2,13 +2,14 @@
   "id": 320584039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.867096,40.873213,-73.867096,40.873213",
     "geom:latitude":40.873213,
     "geom:longitude":-73.867096,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3201 White Plains Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869805,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"5f7b3d40671f6b20f314ccd4de423ad9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85869805,
             "region_id":85688543,
             "venue_id":320584039
         }
     ],
     "wof:id":320584039,
-    "wof:lastmodified":1449011655,
+    "wof:lastmodified":1454124825,
     "wof:name":"K & F Beauty Supply LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869805,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "perfume"
     ]
 },
-  "bbox": [-73.867096,40.873213,-73.867096,40.873213],
+  "bbox": [
+    -73.867096,
+    40.873213,
+    -73.867096,
+    40.873213
+],
   "geometry": {"coordinates":[-73.867096,40.873213],"type":"Point"}
 }

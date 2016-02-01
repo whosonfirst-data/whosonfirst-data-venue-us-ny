@@ -2,13 +2,14 @@
   "id": 320361573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.219124,40.872596,-73.219124,40.872596",
     "geom:latitude":40.872596,
     "geom:longitude":-73.219124,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3 Daphne Pl",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530055,
+        102191575,
+        404522669,
         85633793,
         85979919,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"717abab7b81d1db8f7d509ff19bdfd21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530055,
             "region_id":85688543,
             "venue_id":320361573
         }
     ],
     "wof:id":320361573,
-    "wof:lastmodified":1449013977,
+    "wof:lastmodified":1454125205,
     "wof:name":"Aries Appraisal Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530055,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.219124,40.872596,-73.219124,40.872596],
-  "geometry": {"coordinates":[-73.219124,40.872596],"type":"Point"}
+  "bbox": [
+    -73.219124,
+    40.872596,
+    -73.219124,
+    40.872596
+],
+  "geometry": {"coordinates":[-73.21912399999999,40.872596],"type":"Point"}
 }

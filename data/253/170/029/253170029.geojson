@@ -2,13 +2,14 @@
   "id": 253170029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.896892,40.895129,-73.896892,40.895129",
     "geom:latitude":40.895129,
     "geom:longitude":-73.896892,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6161 Broadway",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869237,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869237
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ba0e40f5be19b3b2089dbe2772e9880e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869237,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":253170029,
-    "wof:lastmodified":1449063081,
+    "wof:lastmodified":1454130286,
     "wof:name":"Riverdale Service Station Inc",
     "wof:parent_id":85869237,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "oil"
     ]
 },
-  "bbox": [-73.896892,40.895129,-73.896892,40.895129],
-  "geometry": {"coordinates":[-73.896892,40.895129],"type":"Point"}
+  "bbox": [
+    -73.896892,
+    40.895129,
+    -73.896892,
+    40.895129
+],
+  "geometry": {"coordinates":[-73.89689199999999,40.895129],"type":"Point"}
 }

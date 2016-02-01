@@ -2,13 +2,14 @@
   "id": 336701609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.531532,40.780879,-73.531532,40.780879",
     "geom:latitude":40.780879,
     "geom:longitude":-73.531532,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"77 N Broadway",
     "sg:city":"Hicksville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892883,
+        102191575,
+        404521475,
         85633793,
         85979093,
         102082371,
-        85892883
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"95f9d663bc06df6ca8cbc073c797d71b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979093,
             "neighbourhood_id":85892883,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":336701609,
-    "wof:lastmodified":1448997805,
+    "wof:lastmodified":1454122885,
     "wof:name":"Islandwide Taxi Svc",
     "wof:parent_id":85892883,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-73.531532,40.780879,-73.531532,40.780879],
+  "bbox": [
+    -73.531532,
+    40.780879,
+    -73.531532,
+    40.780879
+],
   "geometry": {"coordinates":[-73.531532,40.780879],"type":"Point"}
 }

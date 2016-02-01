@@ -2,13 +2,14 @@
   "id": 353707655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.17128,43.224755,-74.17128,43.224755",
     "geom:latitude":43.224755,
     "geom:longitude":-74.17128,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"202 S Main St",
     "sg:city":"Northville",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528689,
+        102191575,
+        404522443,
         85633793,
         85978037,
-        102081813
+        102081813,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"5b8ee4a201d7b2d835a2ac7fb6306e4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081813,
+            "localadmin_id":404522443,
             "locality_id":85978037,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528689,
             "region_id":85688543,
             "venue_id":353707655
         }
     ],
     "wof:id":353707655,
-    "wof:lastmodified":1449020422,
+    "wof:lastmodified":1454126575,
     "wof:name":"Red Barn",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528689,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "consignment"
     ]
 },
-  "bbox": [-74.17128,43.224755,-74.17128,43.224755],
+  "bbox": [
+    -74.17128,
+    43.224755,
+    -74.17128,
+    43.224755
+],
   "geometry": {"coordinates":[-74.17128,43.224755],"type":"Point"}
 }

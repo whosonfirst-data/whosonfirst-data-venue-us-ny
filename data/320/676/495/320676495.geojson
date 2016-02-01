@@ -2,13 +2,14 @@
   "id": 320676495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.906489,40.831488,-73.906489,40.831488",
     "geom:latitude":40.831488,
     "geom:longitude":-73.906489,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1292 Washington Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420560165,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"4617e7724693d56d83b61d04448dd7de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420560165,
             "region_id":85688543,
             "venue_id":320676495
         }
     ],
     "wof:id":320676495,
-    "wof:lastmodified":1449013659,
+    "wof:lastmodified":1454125151,
     "wof:name":"Patricia's International",
-    "wof:parent_id":-1,
+    "wof:parent_id":420560165,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.906489,40.831488,-73.906489,40.831488],
-  "geometry": {"coordinates":[-73.906489,40.831488],"type":"Point"}
+  "bbox": [
+    -73.906489,
+    40.831488,
+    -73.906489,
+    40.831488
+],
+  "geometry": {"coordinates":[-73.90648899999999,40.831488],"type":"Point"}
 }

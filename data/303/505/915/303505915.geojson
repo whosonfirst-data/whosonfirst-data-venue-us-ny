@@ -2,13 +2,14 @@
   "id": 303505915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.901603,40.854758,-73.901603,40.854758",
     "geom:latitude":40.854758,
     "geom:longitude":-73.901603,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2169 Grand Concourse",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819763,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85819763
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"af760369545b625566904c6e21ba07d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819763,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303505915,
-    "wof:lastmodified":1449000159,
+    "wof:lastmodified":1454123612,
     "wof:name":"Gramercy Foundation Inc",
     "wof:parent_id":85819763,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "child"
     ]
 },
-  "bbox": [-73.901603,40.854758,-73.901603,40.854758],
-  "geometry": {"coordinates":[-73.901603,40.854758],"type":"Point"}
+  "bbox": [
+    -73.901603,
+    40.854758,
+    -73.901603,
+    40.854758
+],
+  "geometry": {"coordinates":[-73.90160299999999,40.854758],"type":"Point"}
 }

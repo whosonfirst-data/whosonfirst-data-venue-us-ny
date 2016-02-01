@@ -2,13 +2,14 @@
   "id": 320309993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.722388,42.786504,-77.722388,42.786504",
     "geom:latitude":42.786504,
     "geom:longitude":-77.722388,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4651 Wadsworth Cove",
     "sg:city":"Geneseo",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528911,
+        102191575,
+        404521223,
         85633793,
         85979593,
-        102082381
+        102082381,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"9dca4e6a55f34307047d1492b4b454f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082381,
+            "localadmin_id":404521223,
             "locality_id":85979593,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528911,
             "region_id":85688543,
             "venue_id":320309993
         }
     ],
     "wof:id":320309993,
-    "wof:lastmodified":1449012085,
+    "wof:lastmodified":1454124895,
     "wof:name":"Mike Zaso",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528911,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-77.722388,42.786504,-77.722388,42.786504],
+  "bbox": [
+    -77.722388,
+    42.786504,
+    -77.722388,
+    42.786504
+],
   "geometry": {"coordinates":[-77.722388,42.786504],"type":"Point"}
 }

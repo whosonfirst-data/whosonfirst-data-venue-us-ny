@@ -2,13 +2,14 @@
   "id": 387385203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.777427,42.991309,-78.777427,42.991309",
     "geom:latitude":42.991309,
     "geom:longitude":-78.777427,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"185 Maple Rd",
     "sg:city":"Williamsville",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837253,
+        102191575,
+        404522321,
         85633793,
+        85979411,
         102082387,
-        85837253
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"4ec74a9298c7744503fe6a2d2085b4e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979411,
             "neighbourhood_id":85837253,
             "region_id":85688543,
             "venue_id":387385203
         }
     ],
     "wof:id":387385203,
-    "wof:lastmodified":1449058367,
+    "wof:lastmodified":1454129935,
     "wof:name":"Lawrence H Taylor DDS",
     "wof:parent_id":85837253,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-78.777427,42.991309,-78.777427,42.991309],
+  "bbox": [
+    -78.777427,
+    42.991309,
+    -78.777427,
+    42.991309
+],
   "geometry": {"coordinates":[-78.777427,42.991309],"type":"Point"}
 }

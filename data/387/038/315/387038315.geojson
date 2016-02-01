@@ -2,13 +2,14 @@
   "id": 387038315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.540013,40.682728,-73.540013,40.682728",
     "geom:latitude":40.682728,
     "geom:longitude":-73.540013,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1551 Newbridge Rd",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893061,
+        102191575,
+        404521473,
         85633793,
-        85979065,
+        85979059,
         102082371,
-        85893061
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"bc858fabcf6de90b6d630d5c3b995d99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979065,
+            "localadmin_id":404521473,
+            "locality_id":85979059,
             "neighbourhood_id":85893061,
             "region_id":85688543,
             "venue_id":387038315
         }
     ],
     "wof:id":387038315,
-    "wof:lastmodified":1449058548,
+    "wof:lastmodified":1454129969,
     "wof:name":"North Bellmore Public Library",
     "wof:parent_id":85893061,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "executive"
     ]
 },
-  "bbox": [-73.540013,40.682728,-73.540013,40.682728],
+  "bbox": [
+    -73.540013,
+    40.682728,
+    -73.540013,
+    40.682728
+],
   "geometry": {"coordinates":[-73.540013,40.682728],"type":"Point"}
 }

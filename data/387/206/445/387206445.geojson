@@ -2,13 +2,14 @@
   "id": 387206445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.900648,40.66795,-73.900648,40.66795",
     "geom:latitude":40.66795,
     "geom:longitude":-73.900648,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"308 Snediker Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869421,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869421
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"2e231b764d0c7167f5480c7905d02fc4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869421,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387206445,
-    "wof:lastmodified":1449058693,
+    "wof:lastmodified":1454129994,
     "wof:name":"Horizon Teck",
     "wof:parent_id":85869421,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "computer"
     ]
 },
-  "bbox": [-73.900648,40.66795,-73.900648,40.66795],
+  "bbox": [
+    -73.900648,
+    40.66795,
+    -73.900648,
+    40.66795
+],
   "geometry": {"coordinates":[-73.900648,40.66795],"type":"Point"}
 }

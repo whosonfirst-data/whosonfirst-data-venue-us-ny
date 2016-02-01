@@ -2,13 +2,14 @@
   "id": 370307933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.793819,40.916716,-72.793819,40.916716",
     "geom:latitude":40.916716,
     "geom:longitude":-72.793819,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 Burman Blvd",
     "sg:city":"Calverton",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530021,
+        102191575,
+        404521441,
         85633793,
-        85979845,
-        102082395
+        85979761,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"6877b23aa2206ee2df244443e8a84b45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979845,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979761,
+            "neighbourhood_id":420530021,
             "region_id":85688543,
             "venue_id":370307933
         }
     ],
     "wof:id":370307933,
-    "wof:lastmodified":1449029971,
+    "wof:lastmodified":1454127572,
     "wof:name":"Thego",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530021,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "dock"
     ]
 },
-  "bbox": [-72.793819,40.916716,-72.793819,40.916716],
+  "bbox": [
+    -72.793819,
+    40.916716,
+    -72.793819,
+    40.916716
+],
   "geometry": {"coordinates":[-72.793819,40.916716],"type":"Point"}
 }

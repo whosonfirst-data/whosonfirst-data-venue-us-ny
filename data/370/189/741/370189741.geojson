@@ -2,13 +2,14 @@
   "id": 370189741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.189859,40.793203,-73.189859,40.793203",
     "geom:latitude":40.793203,
     "geom:longitude":-73.189859,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"166 E Suffolk Ave",
     "sg:city":"Central Islip",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.7-eleven.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
-        85979813,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"a472e8c5595b584ad4681ae746b5b754",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979813,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":370189741
         }
     ],
     "wof:id":370189741,
-    "wof:lastmodified":1449031482,
+    "wof:lastmodified":1454128019,
     "wof:name":"7-Eleven",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.189859,40.793203,-73.189859,40.793203],
+  "bbox": [
+    -73.189859,
+    40.793203,
+    -73.189859,
+    40.793203
+],
   "geometry": {"coordinates":[-73.189859,40.793203],"type":"Point"}
 }

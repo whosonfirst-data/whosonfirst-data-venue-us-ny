@@ -2,13 +2,14 @@
   "id": 370163245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.212881,40.883071,-73.212881,40.883071",
     "geom:latitude":40.883071,
     "geom:longitude":-73.212881,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"495 Landing Ave Ste 3",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -42,11 +43,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846945,
+        102191575,
+        404522669,
         85633793,
         85979669,
         102082395,
-        85846945
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,9 +59,10 @@
     "wof:geomhash":"6d327de56e524a2074ec3968ab332f9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979669,
             "neighbourhood_id":85846945,
             "region_id":85688543,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":370163245,
-    "wof:lastmodified":1449032393,
+    "wof:lastmodified":1454128291,
     "wof:name":"Smithtown Landing",
     "wof:parent_id":85846945,
     "wof:placetype":"venue",
@@ -81,6 +85,11 @@
         "government-city"
     ]
 },
-  "bbox": [-73.212881,40.883071,-73.212881,40.883071],
+  "bbox": [
+    -73.212881,
+    40.883071,
+    -73.212881,
+    40.883071
+],
   "geometry": {"coordinates":[-73.212881,40.883071],"type":"Point"}
 }

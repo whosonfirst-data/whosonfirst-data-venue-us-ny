@@ -2,13 +2,14 @@
   "id": 269989565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.907259,41.700234,-73.907259,41.700234",
     "geom:latitude":41.700234,
     "geom:longitude":-73.907259,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23 Innis Ave",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892989,
+        102191575,
+        404522305,
         85633793,
+        85977835,
         102082363,
-        85892989
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"0aaeeb6f5c45f99980a28499d3cb15d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
-            "locality_id":-1,
+            "localadmin_id":404522305,
+            "locality_id":85977835,
             "neighbourhood_id":85892989,
             "region_id":85688543,
             "venue_id":269989565
         }
     ],
     "wof:id":269989565,
-    "wof:lastmodified":1449038003,
+    "wof:lastmodified":1454128722,
     "wof:name":"Anthony's Taxi",
     "wof:parent_id":85892989,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-73.907259,41.700234,-73.907259,41.700234],
+  "bbox": [
+    -73.907259,
+    41.700234,
+    -73.907259,
+    41.700234
+],
   "geometry": {"coordinates":[-73.907259,41.700234],"type":"Point"}
 }

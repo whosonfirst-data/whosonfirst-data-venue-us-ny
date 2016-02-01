@@ -2,13 +2,14 @@
   "id": 403853937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.120098,43.558844,-76.120098,43.558844",
     "geom:latitude":43.558844,
     "geom:longitude":-76.120098,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3848 US Hwy 13",
     "sg:city":"Pulaski",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805925,
+        102191575,
+        404522871,
         85633793,
+        85978583,
         102081783,
-        85805925
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +47,18 @@
     "wof:geomhash":"cc56e91f3e865043f583e87651beb05c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081783,
-            "locality_id":-1,
+            "localadmin_id":404522871,
+            "locality_id":85978583,
             "neighbourhood_id":85805925,
             "region_id":85688543,
             "venue_id":403853937
         }
     ],
     "wof:id":403853937,
-    "wof:lastmodified":1449055165,
+    "wof:lastmodified":1454129398,
     "wof:name":"Health Works Fitness - Women",
     "wof:parent_id":85805925,
     "wof:placetype":"venue",
@@ -66,6 +71,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-76.120098,43.558844,-76.120098,43.558844],
+  "bbox": [
+    -76.120098,
+    43.558844,
+    -76.120098,
+    43.558844
+],
   "geometry": {"coordinates":[-76.120098,43.558844],"type":"Point"}
 }

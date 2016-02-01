@@ -2,13 +2,14 @@
   "id": 320410555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.678053,40.680497,-73.678053,40.680497",
     "geom:latitude":40.680497,
     "geom:longitude":-73.678053,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 Adair Ct",
     "sg:city":"Malverne",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85838141,
+        102191575,
+        404521473,
         85633793,
-        85979041,
+        85979137,
         102082371,
-        85838141
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"02edd68926b7928dae294690cef9ccaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979041,
+            "localadmin_id":404521473,
+            "locality_id":85979137,
             "neighbourhood_id":85838141,
             "region_id":85688543,
             "venue_id":320410555
         }
     ],
     "wof:id":320410555,
-    "wof:lastmodified":1449011311,
+    "wof:lastmodified":1454124770,
     "wof:name":"G & A Restoration Corp",
     "wof:parent_id":85838141,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.678053,40.680497,-73.678053,40.680497],
-  "geometry": {"coordinates":[-73.678053,40.680497],"type":"Point"}
+  "bbox": [
+    -73.678053,
+    40.680497,
+    -73.678053,
+    40.680497
+],
+  "geometry": {"coordinates":[-73.67805300000001,40.680497],"type":"Point"}
 }

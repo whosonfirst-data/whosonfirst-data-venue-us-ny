@@ -2,13 +2,14 @@
   "id": 353745947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.615432,40.656499,-73.615432,40.656499",
     "geom:latitude":40.656499,
     "geom:longitude":-73.615432,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"560 Sunrise Hwy",
     "sg:city":"Baldwin",
     "sg:classifiers":[
@@ -81,11 +82,13 @@
     "sg:website":"http://www.yext.com/p/superpages/berk-s-complete-auto-repair-baldwin-new-york.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892745,
+        102191575,
+        404521473,
         85633793,
         85979131,
         102082371,
-        85892745
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,9 +98,10 @@
     "wof:geomhash":"f83aabebdf72ef921db3eae5107c3f92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979131,
             "neighbourhood_id":85892745,
             "region_id":85688543,
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":353745947,
-    "wof:lastmodified":1449020674,
+    "wof:lastmodified":1454126648,
     "wof:name":"Berk's Complete Auto Repair",
     "wof:parent_id":85892745,
     "wof:placetype":"venue",
@@ -148,6 +152,11 @@
         "referral"
     ]
 },
-  "bbox": [-73.615432,40.656499,-73.615432,40.656499],
+  "bbox": [
+    -73.615432,
+    40.656499,
+    -73.615432,
+    40.656499
+],
   "geometry": {"coordinates":[-73.615432,40.656499],"type":"Point"}
 }

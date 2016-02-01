@@ -2,13 +2,14 @@
   "id": 286651293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.549562,40.740881,-73.549562,40.740881",
     "geom:latitude":40.740881,
     "geom:longitude":-73.549562,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"50 Fawn Ln",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846785,
+        102191575,
+        404521473,
         85633793,
-        85979093,
+        85979181,
         102082371,
-        85846785
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"e52afbc6973648721f56dbb62db0b59a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979093,
+            "localadmin_id":404521473,
+            "locality_id":85979181,
             "neighbourhood_id":85846785,
             "region_id":85688543,
             "venue_id":286651293
         }
     ],
     "wof:id":286651293,
-    "wof:lastmodified":1449015745,
+    "wof:lastmodified":1454125499,
     "wof:name":"Northstar Remodelers Inc",
     "wof:parent_id":85846785,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-73.549562,40.740881,-73.549562,40.740881],
-  "geometry": {"coordinates":[-73.549562,40.740881],"type":"Point"}
+  "bbox": [
+    -73.549562,
+    40.740881,
+    -73.549562,
+    40.740881
+],
+  "geometry": {"coordinates":[-73.54956199999999,40.740881],"type":"Point"}
 }

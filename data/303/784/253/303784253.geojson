@@ -2,13 +2,14 @@
   "id": 303784253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.254122,40.85818,-73.254122,40.85818",
     "geom:latitude":40.85818,
     "geom:longitude":-73.254122,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Harris Ct",
     "sg:city":"Commack",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846945,
+        102191575,
+        404522669,
         85633793,
-        85979805,
-        102082395
+        85979669,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"4c8d6b7222f4d24736cac84e178486aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979805,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522669,
+            "locality_id":85979669,
+            "neighbourhood_id":85846945,
             "region_id":85688543,
             "venue_id":303784253
         }
     ],
     "wof:id":303784253,
-    "wof:lastmodified":1448999750,
+    "wof:lastmodified":1454123500,
     "wof:name":"Alex & Anthony Izzo",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846945,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "system"
     ]
 },
-  "bbox": [-73.254122,40.85818,-73.254122,40.85818],
+  "bbox": [
+    -73.254122,
+    40.85818,
+    -73.254122,
+    40.85818
+],
   "geometry": {"coordinates":[-73.254122,40.85818],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303548257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.21115,40.72136,-73.21115,40.72136",
     "geom:latitude":40.72136,
     "geom:longitude":-73.21115,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"315 S Bay Ave",
     "sg:city":"Islip",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892815,
+        102191575,
+        404522517,
         85633793,
+        85979775,
         102082395,
-        85892815
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"75ce83d069cea1a9308b24f2561d4bfc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979775,
             "neighbourhood_id":85892815,
             "region_id":85688543,
             "venue_id":303548257
         }
     ],
     "wof:id":303548257,
-    "wof:lastmodified":1448999809,
+    "wof:lastmodified":1454123517,
     "wof:name":"Dynamic Information Systems",
     "wof:parent_id":85892815,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "designer"
     ]
 },
-  "bbox": [-73.21115,40.72136,-73.21115,40.72136],
+  "bbox": [
+    -73.21115,
+    40.72136,
+    -73.21115,
+    40.72136
+],
   "geometry": {"coordinates":[-73.21115,40.72136],"type":"Point"}
 }

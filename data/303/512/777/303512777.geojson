@@ -2,13 +2,14 @@
   "id": 303512777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.639713,40.676364,-73.639713,40.676364",
     "geom:latitude":40.676364,
     "geom:longitude":-73.639713,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"605 N Village Ave",
     "sg:city":"Rockville Centre",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829437,
+        102191575,
+        404521473,
         85633793,
-        85979129,
+        85979057,
         102082371,
-        85829437
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,18 @@
     "wof:geomhash":"f93516210ed3ae1d02fc72e8e2252291",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979129,
+            "localadmin_id":404521473,
+            "locality_id":85979057,
             "neighbourhood_id":85829437,
             "region_id":85688543,
             "venue_id":303512777
         }
     ],
     "wof:id":303512777,
-    "wof:lastmodified":1448999898,
+    "wof:lastmodified":1454123539,
     "wof:name":"Pieper J V & Sprotte Inc",
     "wof:parent_id":85829437,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.639713,40.676364,-73.639713,40.676364],
+  "bbox": [
+    -73.639713,
+    40.676364,
+    -73.639713,
+    40.676364
+],
   "geometry": {"coordinates":[-73.639713,40.676364],"type":"Point"}
 }

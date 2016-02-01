@@ -2,13 +2,14 @@
   "id": 370744681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.645113,40.756308,-73.645113,40.756308",
     "geom:latitude":40.756308,
     "geom:longitude":-73.645113,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"185 Hillside Ave",
     "sg:city":"Williston Park",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847583,
+        102191575,
+        404522729,
         85633793,
-        85979177,
+        85977733,
         102082371,
-        85847583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"bf2bd506c18e98137c53696c4df1bed1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979177,
+            "localadmin_id":404522729,
+            "locality_id":85977733,
             "neighbourhood_id":85847583,
             "region_id":85688543,
             "venue_id":370744681
         }
     ],
     "wof:id":370744681,
-    "wof:lastmodified":1449030309,
+    "wof:lastmodified":1454127674,
     "wof:name":"Solid Films Inc",
     "wof:parent_id":85847583,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "motion"
     ]
 },
-  "bbox": [-73.645113,40.756308,-73.645113,40.756308],
-  "geometry": {"coordinates":[-73.645113,40.756308],"type":"Point"}
+  "bbox": [
+    -73.645113,
+    40.756308,
+    -73.645113,
+    40.756308
+],
+  "geometry": {"coordinates":[-73.64511299999999,40.756308],"type":"Point"}
 }

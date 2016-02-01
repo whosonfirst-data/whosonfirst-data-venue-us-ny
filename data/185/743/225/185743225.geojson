@@ -2,13 +2,14 @@
   "id": 185743225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.980144,40.646488,-73.980144,40.646488",
     "geom:latitude":40.646488,
     "geom:longitude":-73.980144,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"132 Mcdonald Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -43,11 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85828101,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85828101
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,9 +60,10 @@
     "wof:geomhash":"2e7bb9cf4807f0335eac093b0ebfb23f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85828101,
             "region_id":85688543,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":185743225,
-    "wof:lastmodified":1449008192,
+    "wof:lastmodified":1454124350,
     "wof:name":"Tempest Windows, Inc.",
     "wof:parent_id":85828101,
     "wof:placetype":"venue",
@@ -83,6 +87,11 @@
         "replacement"
     ]
 },
-  "bbox": [-73.980144,40.646488,-73.980144,40.646488],
+  "bbox": [
+    -73.980144,
+    40.646488,
+    -73.980144,
+    40.646488
+],
   "geometry": {"coordinates":[-73.980144,40.646488],"type":"Point"}
 }

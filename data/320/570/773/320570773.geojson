@@ -2,13 +2,14 @@
   "id": 320570773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.816617,40.945209,-73.816617,40.945209",
     "geom:latitude":40.945209,
     "geom:longitude":-73.816617,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"47 Rose Ave",
     "sg:city":"Eastchester",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530381,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"f567408f336c848324e071d9e4b19bdf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530381,
             "region_id":85688543,
             "venue_id":320570773
         }
     ],
     "wof:id":320570773,
-    "wof:lastmodified":1449013472,
+    "wof:lastmodified":1454125120,
     "wof:name":"Goodman Plastering Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530381,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.816617,40.945209,-73.816617,40.945209],
-  "geometry": {"coordinates":[-73.816617,40.945209],"type":"Point"}
+  "bbox": [
+    -73.816617,
+    40.945209,
+    -73.816617,
+    40.945209
+],
+  "geometry": {"coordinates":[-73.81661699999999,40.945209],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386986395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.605477,43.16377,-77.605477,43.16377",
     "geom:latitude":43.16377,
     "geom:longitude":-77.605477,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 Ormond St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://www.adflexcorp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867095,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85867095
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"2edd36f83aa3ea9ddafade46f6423bf3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85867095,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":386986395,
-    "wof:lastmodified":1449028893,
+    "wof:lastmodified":1454127260,
     "wof:name":"Adflex Corporation",
     "wof:parent_id":85867095,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "trophies"
     ]
 },
-  "bbox": [-77.605477,43.16377,-77.605477,43.16377],
-  "geometry": {"coordinates":[-77.605477,43.16377],"type":"Point"}
+  "bbox": [
+    -77.605477,
+    43.16377,
+    -77.605477,
+    43.16377
+],
+  "geometry": {"coordinates":[-77.60547699999999,43.16377],"type":"Point"}
 }

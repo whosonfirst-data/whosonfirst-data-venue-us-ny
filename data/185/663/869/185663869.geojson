@@ -2,13 +2,14 @@
   "id": 185663869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.980913,40.676494,-73.980913,40.676494",
     "geom:latitude":40.676494,
     "geom:longitude":-73.980913,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"682 Union St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"www.facebook.com/ParkSlopeEye",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840609,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85840609
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"3ec6b9cc23922f5088e982cdc72f7689",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85840609,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":185663869,
-    "wof:lastmodified":1449007783,
+    "wof:lastmodified":1454124297,
     "wof:name":"Park Slope Eye",
     "wof:parent_id":85840609,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "eyewear"
     ]
 },
-  "bbox": [-73.980913,40.676494,-73.980913,40.676494],
+  "bbox": [
+    -73.980913,
+    40.676494,
+    -73.980913,
+    40.676494
+],
   "geometry": {"coordinates":[-73.980913,40.676494],"type":"Point"}
 }

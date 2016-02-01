@@ -2,13 +2,14 @@
   "id": 253077405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.846708,40.915187,-73.846708,40.915187",
     "geom:latitude":40.915187,
     "geom:longitude":-73.846708,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"149 N Mac Questen Pkwy",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"2294d8d17484e793958238ff87a56d8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":253077405
         }
     ],
     "wof:id":253077405,
-    "wof:lastmodified":1449063286,
+    "wof:lastmodified":1454130324,
     "wof:name":"Gigi's Kitchen",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-73.846708,40.915187,-73.846708,40.915187],
-  "geometry": {"coordinates":[-73.846708,40.915187],"type":"Point"}
+  "bbox": [
+    -73.846708,
+    40.915187,
+    -73.846708,
+    40.915187
+],
+  "geometry": {"coordinates":[-73.84670800000001,40.915187],"type":"Point"}
 }

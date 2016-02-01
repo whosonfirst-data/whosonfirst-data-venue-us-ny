@@ -2,13 +2,14 @@
   "id": 370313619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.750702,40.820599,-72.750702,40.820599",
     "geom:latitude":40.820599,
     "geom:longitude":-72.750702,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"130 Montauk Hwy Unit F",
     "sg:city":"East Moriches",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.touchoflife.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +42,18 @@
     "wof:geomhash":"4cf11be41d032813f04589aacb210772",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":370313619
         }
     ],
     "wof:id":370313619,
-    "wof:lastmodified":1449029163,
+    "wof:lastmodified":1454127339,
     "wof:name":"Touch of Life Chiropractic East",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.750702,40.820599,-72.750702,40.820599],
+  "bbox": [
+    -72.750702,
+    40.820599,
+    -72.750702,
+    40.820599
+],
   "geometry": {"coordinates":[-72.750702,40.820599],"type":"Point"}
 }

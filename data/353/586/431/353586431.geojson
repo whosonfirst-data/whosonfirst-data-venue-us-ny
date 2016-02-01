@@ -2,13 +2,14 @@
   "id": 353586431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.832971,42.894185,-78.832971,42.894185",
     "geom:latitude":42.894185,
     "geom:longitude":-78.832971,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1127 Broadway St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872883,
+        102191575,
+        404522329,
         85633793,
         85978023,
         102082387,
-        85872883
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f1d55cf85c2a5886f496417a4a75dea0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
             "neighbourhood_id":85872883,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353586431,
-    "wof:lastmodified":1449020510,
+    "wof:lastmodified":1454126602,
     "wof:name":"Buffalo Rentals",
     "wof:parent_id":85872883,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "company"
     ]
 },
-  "bbox": [-78.832971,42.894185,-78.832971,42.894185],
+  "bbox": [
+    -78.832971,
+    42.894185,
+    -78.832971,
+    42.894185
+],
   "geometry": {"coordinates":[-78.832971,42.894185],"type":"Point"}
 }

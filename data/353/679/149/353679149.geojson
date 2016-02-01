@@ -2,13 +2,14 @@
   "id": 353679149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.800956,40.722658,-73.800956,40.722658",
     "geom:latitude":40.722658,
     "geom:longitude":-73.800956,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"167 -07 Union Turnpike",
     "sg:city":"Queens",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     "sg:website":"www.lecliquesalon.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865567,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865567
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"3fff74a4f41cc8354614c06d156e4072",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865567,
             "region_id":85688543,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":353679149,
-    "wof:lastmodified":1449019889,
+    "wof:lastmodified":1454126422,
     "wof:name":"Le Clique Salon & Spa",
     "wof:parent_id":85865567,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "hair"
     ]
 },
-  "bbox": [-73.800956,40.722658,-73.800956,40.722658],
+  "bbox": [
+    -73.800956,
+    40.722658,
+    -73.800956,
+    40.722658
+],
   "geometry": {"coordinates":[-73.800956,40.722658],"type":"Point"}
 }

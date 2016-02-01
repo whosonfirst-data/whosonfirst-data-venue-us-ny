@@ -2,13 +2,14 @@
   "id": 169786761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.033334,40.617881,-74.033334,40.617881",
     "geom:latitude":40.617881,
     "geom:longitude":-74.033334,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9408 3rd Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -89,11 +90,13 @@
     "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820107,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85820107
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,9 +106,10 @@
     "wof:geomhash":"136c5072e8a3e811feaae0e32ad18d63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85820107,
             "region_id":85688543,
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":169786761,
-    "wof:lastmodified":1449033114,
+    "wof:lastmodified":1454128365,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85820107,
     "wof:placetype":"venue",
@@ -134,6 +138,11 @@
         "consumer"
     ]
 },
-  "bbox": [-74.033334,40.617881,-74.033334,40.617881],
+  "bbox": [
+    -74.033334,
+    40.617881,
+    -74.033334,
+    40.617881
+],
   "geometry": {"coordinates":[-74.033334,40.617881],"type":"Point"}
 }

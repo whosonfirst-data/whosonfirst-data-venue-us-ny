@@ -2,13 +2,14 @@
   "id": 353559655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.643307,40.793527,-73.643307,40.793527",
     "geom:latitude":40.793527,
     "geom:longitude":-73.643307,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3 Roslyn Rd",
     "sg:city":"Roslyn Heights",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.stericycle.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847583,
+        102191575,
+        404522729,
         85633793,
-        85979177,
+        85977733,
         102082371,
-        85847583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"062065de6a90c2464c788158df281dec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979177,
+            "localadmin_id":404522729,
+            "locality_id":85977733,
             "neighbourhood_id":85847583,
             "region_id":85688543,
             "venue_id":353559655
         }
     ],
     "wof:id":353559655,
-    "wof:lastmodified":1449020270,
+    "wof:lastmodified":1454126531,
     "wof:name":"Stericycle",
     "wof:parent_id":85847583,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "removal"
     ]
 },
-  "bbox": [-73.643307,40.793527,-73.643307,40.793527],
-  "geometry": {"coordinates":[-73.643307,40.793527],"type":"Point"}
+  "bbox": [
+    -73.643307,
+    40.793527,
+    -73.643307,
+    40.793527
+],
+  "geometry": {"coordinates":[-73.64330699999999,40.793527],"type":"Point"}
 }

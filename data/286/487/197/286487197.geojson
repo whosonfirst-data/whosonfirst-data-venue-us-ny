@@ -2,13 +2,14 @@
   "id": 286487197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.931485,40.616881,-73.931485,40.616881",
     "geom:latitude":40.616881,
     "geom:longitude":-73.931485,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1763 Hendrickson St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558701,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +53,20 @@
     "wof:geomhash":"51d9a0fe3b5e76025c39ec4f305311da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558701,
             "region_id":85688543,
             "venue_id":286487197
         }
     ],
     "wof:id":286487197,
-    "wof:lastmodified":1449016141,
+    "wof:lastmodified":1454125568,
     "wof:name":"Silvain Communications Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -73,6 +78,11 @@
         "communications"
     ]
 },
-  "bbox": [-73.931485,40.616881,-73.931485,40.616881],
+  "bbox": [
+    -73.931485,
+    40.616881,
+    -73.931485,
+    40.616881
+],
   "geometry": {"coordinates":[-73.931485,40.616881],"type":"Point"}
 }

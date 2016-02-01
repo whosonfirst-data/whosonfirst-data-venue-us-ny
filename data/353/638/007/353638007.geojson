@@ -2,13 +2,14 @@
   "id": 353638007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.814957,40.696859,-73.814957,40.696859",
     "geom:latitude":40.696859,
     "geom:longitude":-73.814957,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13430 Atlantic Avenue",
     "sg:city":"South Richmond Hill",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.bp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844441,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844441
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"baf6b9d39d6a4c8c1ffb2a9fcebe6eb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844441,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":353638007,
-    "wof:lastmodified":1449018391,
+    "wof:lastmodified":1454125989,
     "wof:name":"Bp Amoco Dro 4590",
     "wof:parent_id":85844441,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.814957,40.696859,-73.814957,40.696859],
-  "geometry": {"coordinates":[-73.814957,40.696859],"type":"Point"}
+  "bbox": [
+    -73.814957,
+    40.696859,
+    -73.814957,
+    40.696859
+],
+  "geometry": {"coordinates":[-73.81495700000001,40.696859],"type":"Point"}
 }

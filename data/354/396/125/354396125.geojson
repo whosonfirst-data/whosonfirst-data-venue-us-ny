@@ -2,13 +2,14 @@
   "id": 354396125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.122688,40.798541,-73.122688,40.798541",
     "geom:latitude":40.798541,
     "geom:longitude":-73.122688,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2127 Lakeland Ave Unit 8",
     "sg:city":"Ronkonkoma",
     "sg:classifiers":[
@@ -41,11 +42,13 @@
     "sg:website":"http://www.uri.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829285,
+        102191575,
+        404522517,
         85633793,
         85979793,
         102082395,
-        85829285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,9 +58,10 @@
     "wof:geomhash":"beffde5a2f1cfb7b13a9e981a70cc459",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979793,
             "neighbourhood_id":85829285,
             "region_id":85688543,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":354396125,
-    "wof:lastmodified":1449067094,
+    "wof:lastmodified":1454131126,
     "wof:name":"U R I F5",
     "wof:parent_id":85829285,
     "wof:placetype":"venue",
@@ -83,6 +87,11 @@
         "radiators-heating"
     ]
 },
-  "bbox": [-73.122688,40.798541,-73.122688,40.798541],
+  "bbox": [
+    -73.122688,
+    40.798541,
+    -73.122688,
+    40.798541
+],
   "geometry": {"coordinates":[-73.122688,40.798541],"type":"Point"}
 }

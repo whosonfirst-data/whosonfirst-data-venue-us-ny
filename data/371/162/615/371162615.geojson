@@ -2,13 +2,14 @@
   "id": 371162615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.822372,42.997509,-78.822372,42.997509",
     "geom:latitude":42.997509,
     "geom:longitude":-78.822372,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1565 Niagara Falls Blvd Ste 400",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"http://www.dressbarn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85822783,
+        102191575,
+        404522265,
         85633793,
         85979419,
         102082387,
-        85822783
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"26ebe094caa5c3584fcadf54282804b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522265,
             "locality_id":85979419,
             "neighbourhood_id":85822783,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":371162615,
-    "wof:lastmodified":1449049972,
+    "wof:lastmodified":1454129255,
     "wof:name":"dressbarn",
     "wof:parent_id":85822783,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "women's"
     ]
 },
-  "bbox": [-78.822372,42.997509,-78.822372,42.997509],
+  "bbox": [
+    -78.822372,
+    42.997509,
+    -78.822372,
+    42.997509
+],
   "geometry": {"coordinates":[-78.822372,42.997509],"type":"Point"}
 }

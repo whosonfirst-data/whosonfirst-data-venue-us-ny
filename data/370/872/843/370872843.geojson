@@ -2,13 +2,14 @@
   "id": 370872843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.556415,40.673991,-73.556415,40.673991",
     "geom:latitude":40.673991,
     "geom:longitude":-73.556415,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1828 Merrick Ave",
     "sg:city":"Merrick",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529153,
+        102191575,
+        404521473,
         85633793,
-        85979125,
-        102082371
+        85979047,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"275740ef95019b25d835c0c91c38336f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979125,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979047,
+            "neighbourhood_id":420529153,
             "region_id":85688543,
             "venue_id":370872843
         }
     ],
     "wof:id":370872843,
-    "wof:lastmodified":1449029386,
+    "wof:lastmodified":1454127407,
     "wof:name":"Boswell's Deli Of Merrick",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529153,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-73.556415,40.673991,-73.556415,40.673991],
+  "bbox": [
+    -73.556415,
+    40.673991,
+    -73.556415,
+    40.673991
+],
   "geometry": {"coordinates":[-73.556415,40.673991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253284343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.053526,40.744668,-73.053526,40.744668",
     "geom:latitude":40.744668,
     "geom:longitude":-73.053526,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"251 Snedecor Ave",
     "sg:city":"Bayport",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.bfd.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"ec6592ac10ec8714616bd44900636d9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":253284343
         }
     ],
     "wof:id":253284343,
-    "wof:lastmodified":1449064651,
+    "wof:lastmodified":1454130553,
     "wof:name":"Bayport Fire Department",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "protection"
     ]
 },
-  "bbox": [-73.053526,40.744668,-73.053526,40.744668],
-  "geometry": {"coordinates":[-73.053526,40.744668],"type":"Point"}
+  "bbox": [
+    -73.053526,
+    40.744668,
+    -73.053526,
+    40.744668
+],
+  "geometry": {"coordinates":[-73.05352600000001,40.744668],"type":"Point"}
 }

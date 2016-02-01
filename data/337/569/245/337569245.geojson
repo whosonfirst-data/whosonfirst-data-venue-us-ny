@@ -2,13 +2,14 @@
   "id": 337569245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.014455,40.710392,-74.014455,40.710392",
     "geom:latitude":40.710392,
     "geom:longitude":-74.014455,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"130 Cedar St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865711,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"d73de3042dbe56e9eb938b9c25abe28e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85865711,
             "region_id":85688543,
             "venue_id":337569245
         }
     ],
     "wof:id":337569245,
-    "wof:lastmodified":1449027720,
+    "wof:lastmodified":1454127176,
     "wof:name":"ADT Security System Link",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865711,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-74.014455,40.710392,-74.014455,40.710392],
+  "bbox": [
+    -74.014455,
+    40.710392,
+    -74.014455,
+    40.710392
+],
   "geometry": {"coordinates":[-74.014455,40.710392],"type":"Point"}
 }

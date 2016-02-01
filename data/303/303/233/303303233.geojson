@@ -2,13 +2,14 @@
   "id": 303303233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.847173,42.943109,-78.847173,42.943109",
     "geom:latitude":42.943109,
     "geom:longitude":-78.847173,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"80 Linden Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872923,
+        102191575,
+        404522329,
         85633793,
         85978023,
         102082387,
-        85872923
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"61cfdf2694509bfc6791e9dc7cc012a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
             "neighbourhood_id":85872923,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":303303233,
-    "wof:lastmodified":1448998142,
+    "wof:lastmodified":1454122995,
     "wof:name":"Kay Ver Group Inc",
     "wof:parent_id":85872923,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "business"
     ]
 },
-  "bbox": [-78.847173,42.943109,-78.847173,42.943109],
+  "bbox": [
+    -78.847173,
+    42.943109,
+    -78.847173,
+    42.943109
+],
   "geometry": {"coordinates":[-78.847173,42.943109],"type":"Point"}
 }

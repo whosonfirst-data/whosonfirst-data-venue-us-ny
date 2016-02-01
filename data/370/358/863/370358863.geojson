@@ -2,13 +2,14 @@
   "id": 370358863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.646532,40.831311,-72.646532,40.831311",
     "geom:latitude":40.831311,
     "geom:longitude":-72.646532,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"136 Riverhead Rd",
     "sg:city":"Westhampton Beach",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102526981,
         85688543,
+        102191575,
+        404522671,
         85633793,
-        85978441,
+        85979877,
         102082395
     ],
     "wof:breaches":[],
@@ -40,19 +44,20 @@
     "wof:geomhash":"59b10680f4fe31f8faacacbbe258d1e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102526981,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978441,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522671,
+            "locality_id":85979877,
             "region_id":85688543,
             "venue_id":370358863
         }
     ],
     "wof:id":370358863,
-    "wof:lastmodified":1449030506,
+    "wof:lastmodified":1454127731,
     "wof:name":"Mexican Hut",
-    "wof:parent_id":-1,
+    "wof:parent_id":102526981,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "mexican"
     ]
 },
-  "bbox": [-72.646532,40.831311,-72.646532,40.831311],
-  "geometry": {"coordinates":[-72.646532,40.831311],"type":"Point"}
+  "bbox": [
+    -72.646532,
+    40.831311,
+    -72.646532,
+    40.831311
+],
+  "geometry": {"coordinates":[-72.64653199999999,40.831311],"type":"Point"}
 }

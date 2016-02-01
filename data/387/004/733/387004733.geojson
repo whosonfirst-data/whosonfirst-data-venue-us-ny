@@ -2,13 +2,14 @@
   "id": 387004733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.640991,43.211078,-77.640991,43.211078",
     "geom:latitude":43.211078,
     "geom:longitude":-77.640991,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9 Culdorf Aly",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -39,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85882033,
+        102191575,
+        404521467,
         85633793,
+        85977591,
         102081815,
-        85882033
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +56,18 @@
     "wof:geomhash":"a27b93fd60dcfabadf184988e47801a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":-1,
+            "localadmin_id":404521467,
+            "locality_id":85977591,
             "neighbourhood_id":85882033,
             "region_id":85688543,
             "venue_id":387004733
         }
     ],
     "wof:id":387004733,
-    "wof:lastmodified":1449057489,
+    "wof:lastmodified":1454129775,
     "wof:name":"Monroe Disposal",
     "wof:parent_id":85882033,
     "wof:placetype":"venue",
@@ -79,6 +84,11 @@
         "waste"
     ]
 },
-  "bbox": [-77.640991,43.211078,-77.640991,43.211078],
+  "bbox": [
+    -77.640991,
+    43.211078,
+    -77.640991,
+    43.211078
+],
   "geometry": {"coordinates":[-77.640991,43.211078],"type":"Point"}
 }

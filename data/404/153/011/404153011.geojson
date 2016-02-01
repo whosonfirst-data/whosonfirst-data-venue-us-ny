@@ -2,13 +2,14 @@
   "id": 404153011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.18888,41.33218,-74.18888,41.33218",
     "geom:latitude":41.33218,
     "geom:longitude":-74.18888,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"206 Elm St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832781,
+        102191575,
+        404522907,
         85633793,
+        85979523,
         102083061,
-        85832781
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"f5ebd88303c05707cf2747ab5d640378",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":-1,
+            "localadmin_id":404522907,
+            "locality_id":85979523,
             "neighbourhood_id":85832781,
             "region_id":85688543,
             "venue_id":404153011
         }
     ],
     "wof:id":404153011,
-    "wof:lastmodified":1449039956,
+    "wof:lastmodified":1454128920,
     "wof:name":"Royale Industries",
     "wof:parent_id":85832781,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "candy"
     ]
 },
-  "bbox": [-74.18888,41.33218,-74.18888,41.33218],
+  "bbox": [
+    -74.18888,
+    41.33218,
+    -74.18888,
+    41.33218
+],
   "geometry": {"coordinates":[-74.18888,41.33218],"type":"Point"}
 }

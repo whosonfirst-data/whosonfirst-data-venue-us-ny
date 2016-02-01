@@ -2,13 +2,14 @@
   "id": 387708181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.032425,41.1677,-74.032425,41.1677",
     "geom:latitude":41.1677,
     "geom:longitude":-74.032425,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7 Medical Park Dr",
     "sg:city":"Pomona",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529791,
+        102191575,
+        404523097,
         85633793,
+        85978543,
+        102082385,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"7229289e8a6491427851ad8aa76b0cf3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082385,
+            "localadmin_id":404523097,
+            "locality_id":85978543,
+            "neighbourhood_id":420529791,
             "region_id":85688543,
             "venue_id":387708181
         }
     ],
     "wof:id":387708181,
-    "wof:lastmodified":1449056699,
+    "wof:lastmodified":1454129633,
     "wof:name":"Richard E Handelsman MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529791,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-74.032425,41.1677,-74.032425,41.1677],
+  "bbox": [
+    -74.032425,
+    41.1677,
+    -74.032425,
+    41.1677
+],
   "geometry": {"coordinates":[-74.032425,41.1677],"type":"Point"}
 }

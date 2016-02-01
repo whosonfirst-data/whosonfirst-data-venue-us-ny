@@ -2,13 +2,14 @@
   "id": 354125665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.047679,40.841232,-73.047679,40.841232",
     "geom:latitude":40.841232,
     "geom:longitude":-73.047679,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Hofstra Dr",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979731,
-        102082395
+        85979689,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"5b7f8c815274d39556cdf1dd6d98b6d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979731,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
+            "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":354125665
         }
     ],
     "wof:id":354125665,
-    "wof:lastmodified":1449067617,
+    "wof:lastmodified":1454131293,
     "wof:name":"Syed Distributors",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892863,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "beauty"
     ]
 },
-  "bbox": [-73.047679,40.841232,-73.047679,40.841232],
+  "bbox": [
+    -73.047679,
+    40.841232,
+    -73.047679,
+    40.841232
+],
   "geometry": {"coordinates":[-73.047679,40.841232],"type":"Point"}
 }

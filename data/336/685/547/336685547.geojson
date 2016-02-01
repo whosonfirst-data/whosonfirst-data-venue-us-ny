@@ -2,13 +2,14 @@
   "id": 336685547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.421501,40.873077,-73.421501,40.873077",
     "geom:latitude":40.873077,
     "geom:longitude":-73.421501,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Main St",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820109,
+        102191575,
+        404522515,
         85633793,
-        85979675,
+        85979787,
         102082395,
-        85820109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"3c3ba96f4ba76381402a44abf29c2e11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979675,
+            "localadmin_id":404522515,
+            "locality_id":85979787,
             "neighbourhood_id":85820109,
             "region_id":85688543,
             "venue_id":336685547
         }
     ],
     "wof:id":336685547,
-    "wof:lastmodified":1448997969,
+    "wof:lastmodified":1454122938,
     "wof:name":"Transprtn Consmr Protctn Cncl",
     "wof:parent_id":85820109,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "interest"
     ]
 },
-  "bbox": [-73.421501,40.873077,-73.421501,40.873077],
-  "geometry": {"coordinates":[-73.421501,40.873077],"type":"Point"}
+  "bbox": [
+    -73.421501,
+    40.873077,
+    -73.421501,
+    40.873077
+],
+  "geometry": {"coordinates":[-73.42150100000001,40.873077],"type":"Point"}
 }

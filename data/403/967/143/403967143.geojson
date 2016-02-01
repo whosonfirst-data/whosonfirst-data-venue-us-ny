@@ -2,13 +2,14 @@
   "id": 403967143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.996466,40.839048,-72.996466,40.839048",
     "geom:latitude":40.839048,
     "geom:longitude":-72.996466,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3240 Rte 112",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"5e510a0610389b952cd4fb959a007a0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":403967143
         }
     ],
     "wof:id":403967143,
-    "wof:lastmodified":1449055867,
+    "wof:lastmodified":1454129497,
     "wof:name":"RJB Industries Inc",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-72.996466,40.839048,-72.996466,40.839048],
+  "bbox": [
+    -72.996466,
+    40.839048,
+    -72.996466,
+    40.839048
+],
   "geometry": {"coordinates":[-72.996466,40.839048],"type":"Point"}
 }

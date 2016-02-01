@@ -2,13 +2,14 @@
   "id": 354263759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.412016,40.844751,-73.412016,40.844751",
     "geom:latitude":40.844751,
     "geom:longitude":-73.412016,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1585 New York Ave",
     "sg:city":"Huntington Station",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820109,
+        102191575,
+        404522515,
         85633793,
-        85979675,
+        85979787,
         102082395,
-        85820109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"8873a30a52aaf83995d74d4cfa3cb9e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979675,
+            "localadmin_id":404522515,
+            "locality_id":85979787,
             "neighbourhood_id":85820109,
             "region_id":85688543,
             "venue_id":354263759
         }
     ],
     "wof:id":354263759,
-    "wof:lastmodified":1449067633,
+    "wof:lastmodified":1454131297,
     "wof:name":"Chateau Creole",
     "wof:parent_id":85820109,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "cajun/creole"
     ]
 },
-  "bbox": [-73.412016,40.844751,-73.412016,40.844751],
-  "geometry": {"coordinates":[-73.412016,40.844751],"type":"Point"}
+  "bbox": [
+    -73.412016,
+    40.844751,
+    -73.412016,
+    40.844751
+],
+  "geometry": {"coordinates":[-73.41201599999999,40.844751],"type":"Point"}
 }

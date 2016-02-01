@@ -2,13 +2,14 @@
   "id": 270414787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.889144,40.816641,-73.889144,40.816641",
     "geom:latitude":40.816641,
     "geom:longitude":-73.889144,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1241 Lafayette Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826591,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85826591
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"b6c5a97200726aed1e9e8eee235487c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85826591,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":270414787,
-    "wof:lastmodified":1449009781,
+    "wof:lastmodified":1454124533,
     "wof:name":"South Bronx Mntal Hlth Council",
     "wof:parent_id":85826591,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "mental"
     ]
 },
-  "bbox": [-73.889144,40.816641,-73.889144,40.816641],
+  "bbox": [
+    -73.889144,
+    40.816641,
+    -73.889144,
+    40.816641
+],
   "geometry": {"coordinates":[-73.889144,40.816641],"type":"Point"}
 }

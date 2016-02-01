@@ -2,13 +2,14 @@
   "id": 303568781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.560527,43.136857,-77.560527,43.136857",
     "geom:latitude":43.136857,
     "geom:longitude":-77.560527,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1870 Highland Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868033,
+        102191575,
+        404522623,
         85633793,
         85979039,
         102081815,
-        85868033
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"3bb816b6a18ed97f423e4167205c7c09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404522623,
             "locality_id":85979039,
             "neighbourhood_id":85868033,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":303568781,
-    "wof:lastmodified":1448998057,
+    "wof:lastmodified":1454122967,
     "wof:name":"Douglas J Sadowski",
     "wof:parent_id":85868033,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.560527,43.136857,-77.560527,43.136857],
-  "geometry": {"coordinates":[-77.560527,43.136857],"type":"Point"}
+  "bbox": [
+    -77.560527,
+    43.136857,
+    -77.560527,
+    43.136857
+],
+  "geometry": {"coordinates":[-77.56052699999999,43.136857],"type":"Point"}
 }

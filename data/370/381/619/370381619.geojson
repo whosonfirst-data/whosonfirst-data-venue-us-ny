@@ -2,13 +2,14 @@
   "id": 370381619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.854381,40.877653,-73.854381,40.877653",
     "geom:latitude":40.877653,
     "geom:longitude":-73.854381,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1034 E 215th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869805,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869805
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"0f03be24e87b71eabd4d407820dadace",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869805,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370381619,
-    "wof:lastmodified":1449029362,
+    "wof:lastmodified":1454127398,
     "wof:name":"SC & D Services LLC",
     "wof:parent_id":85869805,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "managerial"
     ]
 },
-  "bbox": [-73.854381,40.877653,-73.854381,40.877653],
+  "bbox": [
+    -73.854381,
+    40.877653,
+    -73.854381,
+    40.877653
+],
   "geometry": {"coordinates":[-73.854381,40.877653],"type":"Point"}
 }

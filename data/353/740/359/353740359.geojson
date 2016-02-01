@@ -2,13 +2,14 @@
   "id": 353740359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.646103,40.747601,-73.646103,40.747601",
     "geom:latitude":40.747601,
     "geom:longitude":-73.646103,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 Jericho Tpke",
     "sg:city":"Mineola",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847583,
+        102191575,
+        404522729,
         85633793,
-        85979177,
+        85977733,
         102082371,
-        85847583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +56,18 @@
     "wof:geomhash":"f26bec5b9ca2ef9a9c6283f2304bf316",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979177,
+            "localadmin_id":404522729,
+            "locality_id":85977733,
             "neighbourhood_id":85847583,
             "region_id":85688543,
             "venue_id":353740359
         }
     ],
     "wof:id":353740359,
-    "wof:lastmodified":1449019419,
+    "wof:lastmodified":1454126285,
     "wof:name":"Randi's Drive In Cleaners",
     "wof:parent_id":85847583,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "carpet"
     ]
 },
-  "bbox": [-73.646103,40.747601,-73.646103,40.747601],
+  "bbox": [
+    -73.646103,
+    40.747601,
+    -73.646103,
+    40.747601
+],
   "geometry": {"coordinates":[-73.646103,40.747601],"type":"Point"}
 }

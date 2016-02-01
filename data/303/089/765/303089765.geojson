@@ -2,13 +2,14 @@
   "id": 303089765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.790851,40.791118,-72.790851,40.791118",
     "geom:latitude":40.791118,
     "geom:longitude":-72.790851,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"82 Ocean Ave",
     "sg:city":"Center Moriches",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"bd4151ad979603622f66ae6ad8e1fb7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":303089765
         }
     ],
     "wof:id":303089765,
-    "wof:lastmodified":1448998612,
+    "wof:lastmodified":1454123160,
     "wof:name":"New York Sign Exchange",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-72.790851,40.791118,-72.790851,40.791118],
+  "bbox": [
+    -72.790851,
+    40.791118,
+    -72.790851,
+    40.791118
+],
   "geometry": {"coordinates":[-72.790851,40.791118],"type":"Point"}
 }

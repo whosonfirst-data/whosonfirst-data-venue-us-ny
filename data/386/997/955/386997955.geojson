@@ -2,13 +2,14 @@
   "id": 386997955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.968123,42.790296,-73.968123,42.790296",
     "geom:latitude":42.790296,
     "geom:longitude":-73.968123,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2408 Guilderland Ave",
     "sg:city":"Schenectady",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85850057,
+        102191575,
+        404522519,
         85633793,
         85979289,
         102081765,
-        85850057
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"2486cc30bb2efec7f00ca2a06ac62f6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081765,
+            "localadmin_id":404522519,
             "locality_id":85979289,
             "neighbourhood_id":85850057,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":386997955,
-    "wof:lastmodified":1449028901,
+    "wof:lastmodified":1454127262,
     "wof:name":"Michael's Hair Studio",
     "wof:parent_id":85850057,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.968123,42.790296,-73.968123,42.790296],
-  "geometry": {"coordinates":[-73.968123,42.790296],"type":"Point"}
+  "bbox": [
+    -73.968123,
+    42.790296,
+    -73.968123,
+    42.790296
+],
+  "geometry": {"coordinates":[-73.96812300000001,42.790296],"type":"Point"}
 }

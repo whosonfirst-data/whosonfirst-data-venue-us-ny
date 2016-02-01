@@ -2,13 +2,14 @@
   "id": 354000743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.573601,40.7505,-73.573601,40.7505",
     "geom:latitude":40.7505,
     "geom:longitude":-73.573601,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"590 Old Country Rd",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846785,
+        102191575,
+        404521473,
         85633793,
-        85979093,
+        85979181,
         102082371,
-        85846785
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"f4d721b783059d2b0b1a96479578890a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979093,
+            "localadmin_id":404521473,
+            "locality_id":85979181,
             "neighbourhood_id":85846785,
             "region_id":85688543,
             "venue_id":354000743
         }
     ],
     "wof:id":354000743,
-    "wof:lastmodified":1449066205,
+    "wof:lastmodified":1454130854,
     "wof:name":"Pip Printing",
     "wof:parent_id":85846785,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.573601,40.7505,-73.573601,40.7505],
+  "bbox": [
+    -73.573601,
+    40.7505,
+    -73.573601,
+    40.7505
+],
   "geometry": {"coordinates":[-73.573601,40.7505],"type":"Point"}
 }

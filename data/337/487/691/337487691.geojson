@@ -2,13 +2,14 @@
   "id": 337487691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.878555,40.760037,-73.878555,40.760037",
     "geom:latitude":40.760037,
     "geom:longitude":-73.878555,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9001 31st Ave",
     "sg:city":"East Elmhurst",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.eastelmhurstemergencyplumbin...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869091,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869091
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"be48177d346617fbee68c16dc3e53771",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869091,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":337487691,
-    "wof:lastmodified":1449027208,
+    "wof:lastmodified":1454126975,
     "wof:name":"East Elmhurst Emergency Plumbing and Heating",
     "wof:parent_id":85869091,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-73.878555,40.760037,-73.878555,40.760037],
-  "geometry": {"coordinates":[-73.878555,40.760037],"type":"Point"}
+  "bbox": [
+    -73.878555,
+    40.760037,
+    -73.878555,
+    40.760037
+],
+  "geometry": {"coordinates":[-73.87855500000001,40.760037],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270192913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.786896,40.818763,-72.786896,40.818763",
     "geom:latitude":40.818763,
     "geom:longitude":-72.786896,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Trainor Ave",
     "sg:city":"Center Moriches",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"3f81bb4ce8d8b70c161a12716d0dede7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":270192913
         }
     ],
     "wof:id":270192913,
-    "wof:lastmodified":1449010379,
+    "wof:lastmodified":1454124626,
     "wof:name":"Moriches Bay Tackle Co",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "fishing"
     ]
 },
-  "bbox": [-72.786896,40.818763,-72.786896,40.818763],
+  "bbox": [
+    -72.786896,
+    40.818763,
+    -72.786896,
+    40.818763
+],
   "geometry": {"coordinates":[-72.786896,40.818763],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354078591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.243599,40.727402,-73.243599,40.727402",
     "geom:latitude":40.727402,
     "geom:longitude":-73.243599,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1921 Union Blvd",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530027,
+        102191575,
+        404522517,
         85633793,
         85979719,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"5901caad8066780b04e7ffab0953f649",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530027,
             "region_id":85688543,
             "venue_id":354078591
         }
     ],
     "wof:id":354078591,
-    "wof:lastmodified":1449067386,
+    "wof:lastmodified":1454131220,
     "wof:name":"Lords Custom Upholstery",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530027,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -71,6 +76,11 @@
         "furniture"
     ]
 },
-  "bbox": [-73.243599,40.727402,-73.243599,40.727402],
+  "bbox": [
+    -73.243599,
+    40.727402,
+    -73.243599,
+    40.727402
+],
   "geometry": {"coordinates":[-73.243599,40.727402],"type":"Point"}
 }

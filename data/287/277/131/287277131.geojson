@@ -2,13 +2,14 @@
   "id": 287277131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.002721,43.077906,-76.002721,43.077906",
     "geom:latitude":43.077906,
     "geom:longitude":-76.002721,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"107 Edgerton St",
     "sg:city":"Minoa",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529409,
+        102191575,
+        404522837,
         85633793,
         85977793,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"d1cce5afad0ebf613b3e9d63ca9f9f3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522837,
             "locality_id":85977793,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529409,
             "region_id":85688543,
             "venue_id":287277131
         }
     ],
     "wof:id":287277131,
-    "wof:lastmodified":1449000761,
+    "wof:lastmodified":1454123773,
     "wof:name":"C B Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529409,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-76.002721,43.077906,-76.002721,43.077906],
-  "geometry": {"coordinates":[-76.002721,43.077906],"type":"Point"}
+  "bbox": [
+    -76.002721,
+    43.077906,
+    -76.002721,
+    43.077906
+],
+  "geometry": {"coordinates":[-76.00272099999999,43.077906],"type":"Point"}
 }

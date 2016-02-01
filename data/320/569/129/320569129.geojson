@@ -2,13 +2,14 @@
   "id": 320569129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.675851,43.127335,-77.675851,43.127335",
     "geom:latitude":43.127335,
     "geom:longitude":-77.675851,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"220 Airport Way",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -29,11 +30,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102528361,
+        85880411,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85880411
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +47,11 @@
     "wof:geomhash":"3e3eb675d5a475b0c00af50ed650e059",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102528361,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85880411,
             "region_id":85688543,
@@ -53,9 +59,9 @@
         }
     ],
     "wof:id":320569129,
-    "wof:lastmodified":1449014813,
+    "wof:lastmodified":1454125339,
     "wof:name":"Global Crossing North America",
-    "wof:parent_id":85880411,
+    "wof:parent_id":102528361,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +71,11 @@
         "agent"
     ]
 },
-  "bbox": [-77.675851,43.127335,-77.675851,43.127335],
-  "geometry": {"coordinates":[-77.675851,43.127335],"type":"Point"}
+  "bbox": [
+    -77.675851,
+    43.127335,
+    -77.675851,
+    43.127335
+],
+  "geometry": {"coordinates":[-77.67585099999999,43.127335],"type":"Point"}
 }

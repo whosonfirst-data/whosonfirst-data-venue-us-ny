@@ -2,13 +2,14 @@
   "id": 269598853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.009535,40.723433,-74.009535,40.723433",
     "geom:latitude":40.723433,
     "geom:longitude":-74.009535,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"443 Greenwich St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865713,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865713
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"26c9fb10389cdfbbf56af8d44abcc160",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865713,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":269598853,
-    "wof:lastmodified":1449036256,
+    "wof:lastmodified":1454128479,
     "wof:name":"Bucks",
     "wof:parent_id":85865713,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "architectural"
     ]
 },
-  "bbox": [-74.009535,40.723433,-74.009535,40.723433],
+  "bbox": [
+    -74.009535,
+    40.723433,
+    -74.009535,
+    40.723433
+],
   "geometry": {"coordinates":[-74.009535,40.723433],"type":"Point"}
 }

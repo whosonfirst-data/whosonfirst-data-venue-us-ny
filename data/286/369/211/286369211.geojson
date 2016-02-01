@@ -2,13 +2,14 @@
   "id": 286369211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.962488,40.616721,-73.962488,40.616721",
     "geom:latitude":40.616721,
     "geom:longitude":-73.962488,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1391 E 12th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.arielnewtechnologies.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865583,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"9409f3d0172b2a5ac88f6cb47a78dd80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865583,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":286369211,
-    "wof:lastmodified":1449017936,
+    "wof:lastmodified":1454125886,
     "wof:name":"Ariel New Technologies Corp",
     "wof:parent_id":85865583,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "custom"
     ]
 },
-  "bbox": [-73.962488,40.616721,-73.962488,40.616721],
-  "geometry": {"coordinates":[-73.962488,40.616721],"type":"Point"}
+  "bbox": [
+    -73.962488,
+    40.616721,
+    -73.962488,
+    40.616721
+],
+  "geometry": {"coordinates":[-73.96248799999999,40.616721],"type":"Point"}
 }

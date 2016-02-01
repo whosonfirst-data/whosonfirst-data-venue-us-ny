@@ -2,13 +2,14 @@
   "id": 320855783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.785728,40.807736,-72.785728,40.807736",
     "geom:latitude":40.807736,
     "geom:longitude":-72.785728,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"26 Bernstein Blvd",
     "sg:city":"Center Moriches",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"e78257c6280de7ce7b5b5123eca6392f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":320855783
         }
     ],
     "wof:id":320855783,
-    "wof:lastmodified":1449014005,
+    "wof:lastmodified":1454125209,
     "wof:name":"Independent HM Living Program",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "care"
     ]
 },
-  "bbox": [-72.785728,40.807736,-72.785728,40.807736],
-  "geometry": {"coordinates":[-72.785728,40.807736],"type":"Point"}
+  "bbox": [
+    -72.785728,
+    40.807736,
+    -72.785728,
+    40.807736
+],
+  "geometry": {"coordinates":[-72.78572800000001,40.807736],"type":"Point"}
 }

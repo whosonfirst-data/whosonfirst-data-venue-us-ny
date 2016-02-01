@@ -2,13 +2,14 @@
   "id": 336637045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.980707,40.613402,-73.980707,40.613402",
     "geom:latitude":40.613402,
     "geom:longitude":-73.980707,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2275 65th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805771,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"9291212216e62250e6b45d0009f37ebb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85805771,
             "region_id":85688543,
             "venue_id":336637045
         }
     ],
     "wof:id":336637045,
-    "wof:lastmodified":1448996920,
+    "wof:lastmodified":1454122331,
     "wof:name":"Amedica Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85805771,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "surgical"
     ]
 },
-  "bbox": [-73.980707,40.613402,-73.980707,40.613402],
+  "bbox": [
+    -73.980707,
+    40.613402,
+    -73.980707,
+    40.613402
+],
   "geometry": {"coordinates":[-73.980707,40.613402],"type":"Point"}
 }

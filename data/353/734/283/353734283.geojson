@@ -2,13 +2,14 @@
   "id": 353734283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.641602,40.749901,-73.641602,40.749901",
     "geom:latitude":40.749901,
     "geom:longitude":-73.641602,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 Willis Ave",
     "sg:city":"Mineola",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847583,
+        102191575,
+        404522729,
         85633793,
-        85979177,
+        85977733,
         102082371,
-        85847583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"cd5ef5bc7a350a48a5218498753566f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979177,
+            "localadmin_id":404522729,
+            "locality_id":85977733,
             "neighbourhood_id":85847583,
             "region_id":85688543,
             "venue_id":353734283
         }
     ],
     "wof:id":353734283,
-    "wof:lastmodified":1449020486,
+    "wof:lastmodified":1454126596,
     "wof:name":"Willis Hobbies",
     "wof:parent_id":85847583,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-73.641602,40.749901,-73.641602,40.749901],
-  "geometry": {"coordinates":[-73.641602,40.749901],"type":"Point"}
+  "bbox": [
+    -73.641602,
+    40.749901,
+    -73.641602,
+    40.749901
+],
+  "geometry": {"coordinates":[-73.64160200000001,40.749901],"type":"Point"}
 }

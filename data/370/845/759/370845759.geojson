@@ -2,13 +2,14 @@
   "id": 370845759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.228588,40.737303,-73.228588,40.737303",
     "geom:latitude":40.737303,
     "geom:longitude":-73.228588,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"75 Saxon Ave",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420530029,
+        102191575,
+        404522517,
         85633793,
+        85979775,
+        102082395,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"ab08dcb1e78f4733f6a8626b42cb4bde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082395,
+            "localadmin_id":404522517,
+            "locality_id":85979775,
+            "neighbourhood_id":420530029,
             "region_id":85688543,
             "venue_id":370845759
         }
     ],
     "wof:id":370845759,
-    "wof:lastmodified":1449029638,
+    "wof:lastmodified":1454127475,
     "wof:name":"All American Linen Supply",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530029,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.228588,40.737303,-73.228588,40.737303],
+  "bbox": [
+    -73.228588,
+    40.737303,
+    -73.228588,
+    40.737303
+],
   "geometry": {"coordinates":[-73.228588,40.737303],"type":"Point"}
 }

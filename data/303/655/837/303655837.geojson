@@ -2,13 +2,14 @@
   "id": 303655837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.96554,40.755383,-73.96554,40.755383",
     "geom:latitude":40.755383,
     "geom:longitude":-73.96554,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"317 E 52 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.kjerka.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852839,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85852839
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"6b80c3f2c0a14e3eb52d7618423267f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85852839,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":303655837,
-    "wof:lastmodified":1448999527,
+    "wof:lastmodified":1454123436,
     "wof:name":"Norwegian Seamens Church Inc",
     "wof:parent_id":85852839,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "church"
     ]
 },
-  "bbox": [-73.96554,40.755383,-73.96554,40.755383],
+  "bbox": [
+    -73.96554,
+    40.755383,
+    -73.96554,
+    40.755383
+],
   "geometry": {"coordinates":[-73.96554,40.755383],"type":"Point"}
 }

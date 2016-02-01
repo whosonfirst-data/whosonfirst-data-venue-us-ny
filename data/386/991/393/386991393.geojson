@@ -2,13 +2,14 @@
   "id": 386991393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.602829,43.153141,-77.602829,43.153141",
     "geom:latitude":43.153141,
     "geom:longitude":-77.602829,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Manhattan Square Dr",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"http://www.strongmuseum.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529069,
+        102191575,
+        404521467,
         85633793,
         85977591,
-        102081815
+        102081815,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"f1e2b0a4a764bf9232e2c17c3c073475",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529069,
             "region_id":85688543,
             "venue_id":386991393
         }
     ],
     "wof:id":386991393,
-    "wof:lastmodified":1449028713,
+    "wof:lastmodified":1454127213,
     "wof:name":"Strong Museum",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529069,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.602829,43.153141,-77.602829,43.153141],
+  "bbox": [
+    -77.602829,
+    43.153141,
+    -77.602829,
+    43.153141
+],
   "geometry": {"coordinates":[-77.602829,43.153141],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270486699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.523049,40.65468,-73.523049,40.65468",
     "geom:latitude":40.65468,
     "geom:longitude":-73.523049,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2839 Bellmore Ave",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529141,
+        102191575,
+        404521473,
         85633793,
         85979167,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"05c517769a803cf91d995e10b650b2b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979167,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529141,
             "region_id":85688543,
             "venue_id":270486699
         }
     ],
     "wof:id":270486699,
-    "wof:lastmodified":1449010015,
+    "wof:lastmodified":1454124568,
     "wof:name":"Bellmore Medical Supply",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529141,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.523049,40.65468,-73.523049,40.65468],
+  "bbox": [
+    -73.523049,
+    40.65468,
+    -73.523049,
+    40.65468
+],
   "geometry": {"coordinates":[-73.523049,40.65468],"type":"Point"}
 }

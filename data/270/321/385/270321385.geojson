@@ -2,13 +2,14 @@
   "id": 270321385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.069047,40.838347,-73.069047,40.838347",
     "geom:latitude":40.838347,
     "geom:longitude":-73.069047,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"52 Crestwood Ln",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"253fd5e6807ffa8d2ef335455786fb4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":270321385
         }
     ],
     "wof:id":270321385,
-    "wof:lastmodified":1449008723,
+    "wof:lastmodified":1454124379,
     "wof:name":"Balloons A La Mode",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.069047,40.838347,-73.069047,40.838347],
+  "bbox": [
+    -73.069047,
+    40.838347,
+    -73.069047,
+    40.838347
+],
   "geometry": {"coordinates":[-73.069047,40.838347],"type":"Point"}
 }

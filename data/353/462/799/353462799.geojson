@@ -2,13 +2,14 @@
   "id": 353462799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.738946,42.647806,-73.738946,42.647806",
     "geom:latitude":42.647806,
     "geom:longitude":-73.738946,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"959 Broadway Ave",
     "sg:city":"Rensselaer",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85843203,
+        102191575,
+        404523079,
         85633793,
+        85978343,
         102081773,
-        85843203
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"1aad9b4015282db858552faebe959c46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081773,
-            "locality_id":-1,
+            "localadmin_id":404523079,
+            "locality_id":85978343,
             "neighbourhood_id":85843203,
             "region_id":85688543,
             "venue_id":353462799
         }
     ],
     "wof:id":353462799,
-    "wof:lastmodified":1449020681,
+    "wof:lastmodified":1454126651,
     "wof:name":"Rensselaer Fire Dept",
     "wof:parent_id":85843203,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "department"
     ]
 },
-  "bbox": [-73.738946,42.647806,-73.738946,42.647806],
+  "bbox": [
+    -73.738946,
+    42.647806,
+    -73.738946,
+    42.647806
+],
   "geometry": {"coordinates":[-73.738946,42.647806],"type":"Point"}
 }

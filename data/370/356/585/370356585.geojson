@@ -2,13 +2,14 @@
   "id": 370356585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.254021,40.946339,-72.254021,40.946339",
     "geom:latitude":40.946339,
     "geom:longitude":-72.254021,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"405 Montauk Hwy",
     "sg:city":"Wainscott",
     "sg:classifiers":[
@@ -53,11 +54,13 @@
     "sg:website":"http://www.lps-hamptons.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85834027,
+        102191575,
+        404521445,
         85633793,
         85979899,
         102082395,
-        85834027
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,9 +70,10 @@
     "wof:geomhash":"ac5cc6f0c755dd928491dee02573df06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521445,
             "locality_id":85979899,
             "neighbourhood_id":85834027,
             "region_id":85688543,
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":370356585,
-    "wof:lastmodified":1449031874,
+    "wof:lastmodified":1454128134,
     "wof:name":"Land Planning Services Ltd.",
     "wof:parent_id":85834027,
     "wof:placetype":"venue",
@@ -92,6 +96,11 @@
         "planning"
     ]
 },
-  "bbox": [-72.254021,40.946339,-72.254021,40.946339],
-  "geometry": {"coordinates":[-72.254021,40.946339],"type":"Point"}
+  "bbox": [
+    -72.254021,
+    40.946339,
+    -72.254021,
+    40.946339
+],
+  "geometry": {"coordinates":[-72.25402099999999,40.946339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269716247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.936267,40.887312,-72.936267,40.887312",
     "geom:latitude":40.887312,
     "geom:longitude":-72.936267,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Lakeview Dr",
     "sg:city":"Middle Island",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979955,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"8fc6b5306067c3677298d49f69eda7a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979955,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":269716247
         }
     ],
     "wof:id":269716247,
-    "wof:lastmodified":1449036475,
+    "wof:lastmodified":1454128513,
     "wof:name":"Robert Prisco Licensed Elec",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-72.936267,40.887312,-72.936267,40.887312],
+  "bbox": [
+    -72.936267,
+    40.887312,
+    -72.936267,
+    40.887312
+],
   "geometry": {"coordinates":[-72.936267,40.887312],"type":"Point"}
 }

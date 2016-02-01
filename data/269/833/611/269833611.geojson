@@ -2,13 +2,14 @@
   "id": 269833611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.095363,41.371167,-74.095363,41.371167",
     "geom:latitude":41.371167,
     "geom:longitude":-74.095363,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"72 Trout Brook Rd",
     "sg:city":"Highland Mills",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529451,
+        102191575,
+        404522927,
         85633793,
         85978219,
-        102083061
+        102083061,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"5a04e3c9ac22828ea6e5bf92f818b96a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
+            "localadmin_id":404522927,
             "locality_id":85978219,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529451,
             "region_id":85688543,
             "venue_id":269833611
         }
     ],
     "wof:id":269833611,
-    "wof:lastmodified":1449036442,
+    "wof:lastmodified":1454128508,
     "wof:name":"Sonny's Home Improvement",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529451,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "improvement"
     ]
 },
-  "bbox": [-74.095363,41.371167,-74.095363,41.371167],
-  "geometry": {"coordinates":[-74.095363,41.371167],"type":"Point"}
+  "bbox": [
+    -74.095363,
+    41.371167,
+    -74.095363,
+    41.371167
+],
+  "geometry": {"coordinates":[-74.09536300000001,41.371167],"type":"Point"}
 }

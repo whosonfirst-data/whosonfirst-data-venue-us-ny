@@ -2,13 +2,14 @@
   "id": 303469201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.81736,40.986332,-73.81736,40.986332",
     "geom:latitude":40.986332,
     "geom:longitude":-73.81736,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"74 Malvern Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805227,
+        102191575,
+        404523359,
         85633793,
-        85978759,
+        85980063,
         102082373,
-        85805227
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"91bcc0e873677c9ee5f21cec3b03debb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978759,
+            "localadmin_id":404523359,
+            "locality_id":85980063,
             "neighbourhood_id":85805227,
             "region_id":85688543,
             "venue_id":303469201
         }
     ],
     "wof:id":303469201,
-    "wof:lastmodified":1449000630,
+    "wof:lastmodified":1454123744,
     "wof:name":"Music Research Consultant",
     "wof:parent_id":85805227,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-73.81736,40.986332,-73.81736,40.986332],
-  "geometry": {"coordinates":[-73.81736,40.986332],"type":"Point"}
+  "bbox": [
+    -73.81736,
+    40.986332,
+    -73.81736,
+    40.986332
+],
+  "geometry": {"coordinates":[-73.81735999999999,40.986332],"type":"Point"}
 }

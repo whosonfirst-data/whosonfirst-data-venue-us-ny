@@ -2,13 +2,14 @@
   "id": 370733219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.192281,42.615747,-76.192281,42.615747",
     "geom:latitude":42.615747,
     "geom:longitude":-76.192281,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1259 Fisher Ave",
     "sg:city":"Cortland",
     "sg:classifiers":[
@@ -36,7 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528395,
+        102191575,
+        404522255,
         85633793,
+        85978519,
+        102083011,
         85688543
     ],
     "wof:breaches":[],
@@ -47,18 +53,20 @@
     "wof:geomhash":"9c27ceb02abab6084c8f0f2ef061bb7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083011,
+            "localadmin_id":404522255,
+            "locality_id":85978519,
+            "neighbourhood_id":420528395,
             "region_id":85688543,
             "venue_id":370733219
         }
     ],
     "wof:id":370733219,
-    "wof:lastmodified":1449029567,
+    "wof:lastmodified":1454127455,
     "wof:name":"Cortland Health Center - Cindy Johnson MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528395,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -75,6 +83,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-76.192281,42.615747,-76.192281,42.615747],
-  "geometry": {"coordinates":[-76.192281,42.615747],"type":"Point"}
+  "bbox": [
+    -76.192281,
+    42.615747,
+    -76.192281,
+    42.615747
+],
+  "geometry": {"coordinates":[-76.19228099999999,42.615747],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354023573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.708557,40.633308,-73.708557,40.633308",
     "geom:latitude":40.633308,
     "geom:longitude":-73.708557,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"108 Franklin Pl",
     "sg:city":"Woodmere",
     "sg:classifiers":[
@@ -49,11 +50,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893091,
+        102191575,
+        404521473,
         85633793,
         85979053,
         102082371,
-        85893091
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,9 +66,10 @@
     "wof:geomhash":"c327f02a5c8fcde34446deb53f760ca6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979053,
             "neighbourhood_id":85893091,
             "region_id":85688543,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":354023573,
-    "wof:lastmodified":1449067508,
+    "wof:lastmodified":1454131256,
     "wof:name":"Party Source",
     "wof:parent_id":85893091,
     "wof:placetype":"venue",
@@ -90,6 +94,11 @@
         "tent"
     ]
 },
-  "bbox": [-73.708557,40.633308,-73.708557,40.633308],
+  "bbox": [
+    -73.708557,
+    40.633308,
+    -73.708557,
+    40.633308
+],
   "geometry": {"coordinates":[-73.708557,40.633308],"type":"Point"}
 }

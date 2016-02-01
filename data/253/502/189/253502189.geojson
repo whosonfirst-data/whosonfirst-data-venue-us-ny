@@ -2,13 +2,14 @@
   "id": 253502189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.018155,40.645317,-74.018155,40.645317",
     "geom:latitude":40.645317,
     "geom:longitude":-74.018155,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"226 55th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851575,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85851575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"56388e1700b0180814ea0d8b57838947",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85851575,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":253502189,
-    "wof:lastmodified":1449064173,
+    "wof:lastmodified":1454130471,
     "wof:name":"Acme Aluminum",
     "wof:parent_id":85851575,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-74.018155,40.645317,-74.018155,40.645317],
-  "geometry": {"coordinates":[-74.018155,40.645317],"type":"Point"}
+  "bbox": [
+    -74.018155,
+    40.645317,
+    -74.018155,
+    40.645317
+],
+  "geometry": {"coordinates":[-74.01815499999999,40.645317],"type":"Point"}
 }

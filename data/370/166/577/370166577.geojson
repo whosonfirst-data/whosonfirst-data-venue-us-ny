@@ -2,13 +2,14 @@
   "id": 370166577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.253403,40.847301,-73.253403,40.847301",
     "geom:latitude":40.847301,
     "geom:longitude":-73.253403,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1036 W Jericho Tpke",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530033,
+        102191575,
+        404522669,
         85633793,
         85979805,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"b1aa117c01f8d620d24b55b090716458",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979805,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530033,
             "region_id":85688543,
             "venue_id":370166577
         }
     ],
     "wof:id":370166577,
-    "wof:lastmodified":1449030960,
+    "wof:lastmodified":1454127865,
     "wof:name":"Lavorata Carl E DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530033,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "oral"
     ]
 },
-  "bbox": [-73.253403,40.847301,-73.253403,40.847301],
-  "geometry": {"coordinates":[-73.253403,40.847301],"type":"Point"}
+  "bbox": [
+    -73.253403,
+    40.847301,
+    -73.253403,
+    40.847301
+],
+  "geometry": {"coordinates":[-73.25340300000001,40.847301],"type":"Point"}
 }

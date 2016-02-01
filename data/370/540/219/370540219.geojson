@@ -2,13 +2,14 @@
   "id": 370540219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.857925,41.514628,-73.857925,41.514628",
     "geom:latitude":41.514628,
     "geom:longitude":-73.857925,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"419 Van Wyck Lake Rd",
     "sg:city":"Fishkill",
     "sg:classifiers":[
@@ -31,7 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528475,
+        102191575,
+        404522225,
         85633793,
+        85979249,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -42,18 +48,20 @@
     "wof:geomhash":"b3ffd7ae276ce9b9dfe9e195397eceb5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522225,
+            "locality_id":85979249,
+            "neighbourhood_id":420528475,
             "region_id":85688543,
             "venue_id":370540219
         }
     ],
     "wof:id":370540219,
-    "wof:lastmodified":1449030417,
+    "wof:lastmodified":1454127705,
     "wof:name":"Zeller Donald L Ra",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528475,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +73,11 @@
         "architectural"
     ]
 },
-  "bbox": [-73.857925,41.514628,-73.857925,41.514628],
-  "geometry": {"coordinates":[-73.857925,41.514628],"type":"Point"}
+  "bbox": [
+    -73.857925,
+    41.514628,
+    -73.857925,
+    41.514628
+],
+  "geometry": {"coordinates":[-73.85792499999999,41.514628],"type":"Point"}
 }

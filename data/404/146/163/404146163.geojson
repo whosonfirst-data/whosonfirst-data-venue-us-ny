@@ -2,13 +2,14 @@
   "id": 404146163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.190829,40.727798,-73.190829,40.727798",
     "geom:latitude":40.727798,
     "geom:longitude":-73.190829,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Timberpoint Rd",
     "sg:city":"East Islip",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892815,
+        102191575,
+        404522517,
         85633793,
-        85979827,
-        102082395
+        85979775,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"b29e31e16b9fb7b4cd605801b77a5d41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979827,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979775,
+            "neighbourhood_id":85892815,
             "region_id":85688543,
             "venue_id":404146163
         }
     ],
     "wof:id":404146163,
-    "wof:lastmodified":1449039534,
+    "wof:lastmodified":1454128883,
     "wof:name":"Waheng Enterprises Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892815,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.190829,40.727798,-73.190829,40.727798],
-  "geometry": {"coordinates":[-73.190829,40.727798],"type":"Point"}
+  "bbox": [
+    -73.190829,
+    40.727798,
+    -73.190829,
+    40.727798
+],
+  "geometry": {"coordinates":[-73.19082899999999,40.727798],"type":"Point"}
 }

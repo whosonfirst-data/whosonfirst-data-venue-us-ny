@@ -2,13 +2,14 @@
   "id": 353492695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.876086,40.880035,-73.876086,40.880035",
     "geom:latitude":40.880035,
     "geom:longitude":-73.876086,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"237 E Gun Hill Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869557,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869557
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"2daed74e17e05dcadabd7a40d8478250",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869557,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":353492695,
-    "wof:lastmodified":1449018258,
+    "wof:lastmodified":1454125951,
     "wof:name":"Feliz Enterprises",
     "wof:parent_id":85869557,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "bureau"
     ]
 },
-  "bbox": [-73.876086,40.880035,-73.876086,40.880035],
+  "bbox": [
+    -73.876086,
+    40.880035,
+    -73.876086,
+    40.880035
+],
   "geometry": {"coordinates":[-73.876086,40.880035],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370165007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.201914,40.833966,-73.201914,40.833966",
     "geom:latitude":40.833966,
     "geom:longitude":-73.201914,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"175 Brooksite Dr",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
-        85979919,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"70b540c1c1bf3d046f021c80d6eaa4d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":370165007
         }
     ],
     "wof:id":370165007,
-    "wof:lastmodified":1449032477,
+    "wof:lastmodified":1454128314,
     "wof:name":"Simone Electric",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "electrician"
     ]
 },
-  "bbox": [-73.201914,40.833966,-73.201914,40.833966],
+  "bbox": [
+    -73.201914,
+    40.833966,
+    -73.201914,
+    40.833966
+],
   "geometry": {"coordinates":[-73.201914,40.833966],"type":"Point"}
 }

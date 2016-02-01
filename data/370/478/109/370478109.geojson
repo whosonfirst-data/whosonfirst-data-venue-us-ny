@@ -2,13 +2,14 @@
   "id": 370478109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.595835,42.948181,-77.595835,42.948181",
     "geom:latitude":42.948181,
     "geom:longitude":-77.595835,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"26 Stonefield Pl",
     "sg:city":"Honeoye Falls",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837385,
+        102191575,
+        404521463,
         85633793,
+        85977581,
         102081815,
-        85837385
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +47,18 @@
     "wof:geomhash":"c0d6ad952aa813d285a8a2c7e5cac4ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":-1,
+            "localadmin_id":404521463,
+            "locality_id":85977581,
             "neighbourhood_id":85837385,
             "region_id":85688543,
             "venue_id":370478109
         }
     ],
     "wof:id":370478109,
-    "wof:lastmodified":1449029178,
+    "wof:lastmodified":1454127343,
     "wof:name":"Turnblom Pamela Interiors",
     "wof:parent_id":85837385,
     "wof:placetype":"venue",
@@ -66,6 +71,11 @@
         "decorator"
     ]
 },
-  "bbox": [-77.595835,42.948181,-77.595835,42.948181],
-  "geometry": {"coordinates":[-77.595835,42.948181],"type":"Point"}
+  "bbox": [
+    -77.595835,
+    42.948181,
+    -77.595835,
+    42.948181
+],
+  "geometry": {"coordinates":[-77.59583499999999,42.948181],"type":"Point"}
 }

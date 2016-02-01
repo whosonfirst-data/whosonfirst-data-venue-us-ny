@@ -2,13 +2,14 @@
   "id": 286377783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.975425,40.681233,-73.975425,40.681233",
     "geom:latitude":40.681233,
     "geom:longitude":-73.975425,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"202 Flatbush Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.newdirectionsbrooklyn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840609,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85840609
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"2e968624b6b15db89d365f1df0cc724e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85840609,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":286377783,
-    "wof:lastmodified":1449016281,
+    "wof:lastmodified":1454125592,
     "wof:name":"New Directions Alcohol Trtmnt",
     "wof:parent_id":85840609,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "treatment"
     ]
 },
-  "bbox": [-73.975425,40.681233,-73.975425,40.681233],
+  "bbox": [
+    -73.975425,
+    40.681233,
+    -73.975425,
+    40.681233
+],
   "geometry": {"coordinates":[-73.975425,40.681233],"type":"Point"}
 }

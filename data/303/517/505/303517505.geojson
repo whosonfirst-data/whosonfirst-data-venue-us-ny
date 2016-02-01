@@ -2,13 +2,14 @@
   "id": 303517505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.566043,40.762463,-73.566043,40.762463",
     "geom:latitude":40.762463,
     "geom:longitude":-73.566043,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"887 Prospect Ave",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529181,
+        102191575,
+        404522729,
         85633793,
         85979063,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"64310091cfbed011ac0b3aaf8f3f8d01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979063,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529181,
             "region_id":85688543,
             "venue_id":303517505
         }
     ],
     "wof:id":303517505,
-    "wof:lastmodified":1448999520,
+    "wof:lastmodified":1454123435,
     "wof:name":"American Legion",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529181,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "military"
     ]
 },
-  "bbox": [-73.566043,40.762463,-73.566043,40.762463],
-  "geometry": {"coordinates":[-73.566043,40.762463],"type":"Point"}
+  "bbox": [
+    -73.566043,
+    40.762463,
+    -73.566043,
+    40.762463
+],
+  "geometry": {"coordinates":[-73.56604299999999,40.762463],"type":"Point"}
 }

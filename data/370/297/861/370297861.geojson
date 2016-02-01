@@ -2,13 +2,14 @@
   "id": 370297861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.670403,40.928501,-72.670403,40.928501",
     "geom:latitude":40.928501,
     "geom:longitude":-72.670403,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"925 Roanoke Ave",
     "sg:city":"Riverhead",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841881,
+        102191575,
+        404522671,
         85633793,
-        85979841,
+        85979909,
         102082395,
-        85841881
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"58589f40cb81a07986ca45980c70a659",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979841,
+            "localadmin_id":404522671,
+            "locality_id":85979909,
             "neighbourhood_id":85841881,
             "region_id":85688543,
             "venue_id":370297861
         }
     ],
     "wof:id":370297861,
-    "wof:lastmodified":1449031231,
+    "wof:lastmodified":1454127946,
     "wof:name":"Wms Constructio Enterprises Inc",
     "wof:parent_id":85841881,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-72.670403,40.928501,-72.670403,40.928501],
-  "geometry": {"coordinates":[-72.670403,40.928501],"type":"Point"}
+  "bbox": [
+    -72.670403,
+    40.928501,
+    -72.670403,
+    40.928501
+],
+  "geometry": {"coordinates":[-72.67040299999999,40.928501],"type":"Point"}
 }

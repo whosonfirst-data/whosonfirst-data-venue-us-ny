@@ -2,13 +2,14 @@
   "id": 387217045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.519525,40.771648,-73.519525,40.771648",
     "geom:latitude":40.771648,
     "geom:longitude":-73.519525,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Max Ave",
     "sg:city":"Hicksville",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     "sg:website":"www.mbsnetworks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892883,
+        102191575,
+        404521475,
         85633793,
         85979093,
         102082371,
-        85892883
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"b9c2e8eba82bee2c1f279be3638ccd90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979093,
             "neighbourhood_id":85892883,
             "region_id":85688543,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":387217045,
-    "wof:lastmodified":1449059691,
+    "wof:lastmodified":1454130169,
     "wof:name":"Manhattan Business Systems Inc",
     "wof:parent_id":85892883,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.519525,40.771648,-73.519525,40.771648],
+  "bbox": [
+    -73.519525,
+    40.771648,
+    -73.519525,
+    40.771648
+],
   "geometry": {"coordinates":[-73.519525,40.771648],"type":"Point"}
 }

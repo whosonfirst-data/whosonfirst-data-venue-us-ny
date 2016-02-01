@@ -2,13 +2,14 @@
   "id": 303875723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.120694,41.756856,-74.120694,41.756856",
     "geom:latitude":41.756856,
     "geom:longitude":-74.120694,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"33 Butterville Rd",
     "sg:city":"New Paltz",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85830445,
+        102081775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"5df2327c5e7b4f2bd8fd63daeb9cbf03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081775,
+            "neighbourhood_id":85830445,
             "region_id":85688543,
             "venue_id":303875723
         }
     ],
     "wof:id":303875723,
-    "wof:lastmodified":1448999936,
+    "wof:lastmodified":1454123549,
     "wof:name":"Fox H & M",
-    "wof:parent_id":-1,
+    "wof:parent_id":85830445,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "establishment"
     ]
 },
-  "bbox": [-74.120694,41.756856,-74.120694,41.756856],
+  "bbox": [
+    -74.120694,
+    41.756856,
+    -74.120694,
+    41.756856
+],
   "geometry": {"coordinates":[-74.120694,41.756856],"type":"Point"}
 }

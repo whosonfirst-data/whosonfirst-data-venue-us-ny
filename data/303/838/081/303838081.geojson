@@ -2,13 +2,14 @@
   "id": 303838081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.961451,40.616054,-73.961451,40.616054",
     "geom:latitude":40.616054,
     "geom:longitude":-73.961451,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1351 E 13th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865583,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"cb786641b68b70be645023262739d8ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865583,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303838081,
-    "wof:lastmodified":1448998416,
+    "wof:lastmodified":1454123090,
     "wof:name":"Simcha Kaufman",
     "wof:parent_id":85865583,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "clergy"
     ]
 },
-  "bbox": [-73.961451,40.616054,-73.961451,40.616054],
+  "bbox": [
+    -73.961451,
+    40.616054,
+    -73.961451,
+    40.616054
+],
   "geometry": {"coordinates":[-73.961451,40.616054],"type":"Point"}
 }

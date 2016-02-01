@@ -2,13 +2,14 @@
   "id": 320046647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.813749,42.923734,-78.813749,42.923734",
     "geom:latitude":42.923734,
     "geom:longitude":-78.813749,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2564 Bailey Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528541,
+        102191575,
+        404522329,
         85633793,
         85978023,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"9dfa4aa753d20b583a102ed259ab1b7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528541,
             "region_id":85688543,
             "venue_id":320046647
         }
     ],
     "wof:id":320046647,
-    "wof:lastmodified":1449013329,
+    "wof:lastmodified":1454125101,
     "wof:name":"Able Agency All Lines Insur",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528541,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-78.813749,42.923734,-78.813749,42.923734],
+  "bbox": [
+    -78.813749,
+    42.923734,
+    -78.813749,
+    42.923734
+],
   "geometry": {"coordinates":[-78.813749,42.923734],"type":"Point"}
 }

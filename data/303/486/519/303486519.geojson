@@ -2,13 +2,14 @@
   "id": 303486519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.196732,40.800876,-73.196732,40.800876",
     "geom:latitude":40.800876,
     "geom:longitude":-73.196732,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"165 Hawthorne Ave",
     "sg:city":"Central Islip",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
-        85979813,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"eeeb549b9d571b3a76734b4061be3eaa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979813,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":303486519
         }
     ],
     "wof:id":303486519,
-    "wof:lastmodified":1448999485,
+    "wof:lastmodified":1454123427,
     "wof:name":"Hawthorne Vending Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "vending"
     ]
 },
-  "bbox": [-73.196732,40.800876,-73.196732,40.800876],
+  "bbox": [
+    -73.196732,
+    40.800876,
+    -73.196732,
+    40.800876
+],
   "geometry": {"coordinates":[-73.196732,40.800876],"type":"Point"}
 }

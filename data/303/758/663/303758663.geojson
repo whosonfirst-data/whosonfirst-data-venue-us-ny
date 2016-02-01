@@ -2,13 +2,14 @@
   "id": 303758663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.994239,40.725841,-73.994239,40.725841",
     "geom:latitude":40.725841,
     "geom:longitude":-73.994239,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"33 Bleecker St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.buzzzco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816887,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85816887
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"f627fd8c545c90efb3a90f565ec67024",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85816887,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":303758663,
-    "wof:lastmodified":1448998855,
+    "wof:lastmodified":1454123248,
     "wof:name":"Buzzco Associates Inc",
     "wof:parent_id":85816887,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "art"
     ]
 },
-  "bbox": [-73.994239,40.725841,-73.994239,40.725841],
-  "geometry": {"coordinates":[-73.994239,40.725841],"type":"Point"}
+  "bbox": [
+    -73.994239,
+    40.725841,
+    -73.994239,
+    40.725841
+],
+  "geometry": {"coordinates":[-73.99423899999999,40.725841],"type":"Point"}
 }

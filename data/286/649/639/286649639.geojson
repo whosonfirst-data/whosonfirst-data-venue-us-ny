@@ -2,13 +2,14 @@
   "id": 286649639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.635484,40.850119,-73.635484,40.850119",
     "geom:latitude":40.850119,
     "geom:longitude":-73.635484,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"203 Glen Cove Ave",
     "sg:city":"Sea Cliff",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
         85977597,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"4a3aea60c753bf732a43e375f7645752",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85977597,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":286649639
         }
     ],
     "wof:id":286649639,
-    "wof:lastmodified":1449017192,
+    "wof:lastmodified":1454125750,
     "wof:name":"Gehlmeyer Robert",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.635484,40.850119,-73.635484,40.850119],
-  "geometry": {"coordinates":[-73.635484,40.850119],"type":"Point"}
+  "bbox": [
+    -73.635484,
+    40.850119,
+    -73.635484,
+    40.850119
+],
+  "geometry": {"coordinates":[-73.63548400000001,40.850119],"type":"Point"}
 }

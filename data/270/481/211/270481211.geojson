@@ -2,13 +2,14 @@
   "id": 270481211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.722509,41.763373,-74.722509,41.763373",
     "geom:latitude":41.763373,
     "geom:longitude":-74.722509,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"294 Old Monticello Rd",
     "sg:city":"Ferndale",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85977521,
+        102082407,
+        85865365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +43,18 @@
     "wof:geomhash":"e024295a9242b4906a7f4abc6e812860",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082407,
+            "locality_id":85977521,
+            "neighbourhood_id":85865365,
             "region_id":85688543,
             "venue_id":270481211
         }
     ],
     "wof:id":270481211,
-    "wof:lastmodified":1449010773,
+    "wof:lastmodified":1454124686,
     "wof:name":"Sullivan ARC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +63,11 @@
         "group"
     ]
 },
-  "bbox": [-74.722509,41.763373,-74.722509,41.763373],
+  "bbox": [
+    -74.722509,
+    41.763373,
+    -74.722509,
+    41.763373
+],
   "geometry": {"coordinates":[-74.722509,41.763373],"type":"Point"}
 }

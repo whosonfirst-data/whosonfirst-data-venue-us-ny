@@ -2,13 +2,14 @@
   "id": 403840075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.932848,40.848037,-73.932848,40.848037",
     "geom:latitude":40.848037,
     "geom:longitude":-73.932848,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"500 W 180th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85854625,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85854625
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"1eac9ba5b92284eefdcd00c2339168bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85854625,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":403840075,
-    "wof:lastmodified":1449055666,
+    "wof:lastmodified":1454129470,
     "wof:name":"Addiction Research & Treatment",
     "wof:parent_id":85854625,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "treatment"
     ]
 },
-  "bbox": [-73.932848,40.848037,-73.932848,40.848037],
-  "geometry": {"coordinates":[-73.932848,40.848037],"type":"Point"}
+  "bbox": [
+    -73.932848,
+    40.848037,
+    -73.932848,
+    40.848037
+],
+  "geometry": {"coordinates":[-73.93284800000001,40.848037],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403732911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.985802,40.735949,-73.985802,40.735949",
     "geom:latitude":40.735949,
     "geom:longitude":-73.985802,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"150 E 18 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865705,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865705
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"03916b34a96e624fbfb544e2e05c6fca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865705,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403732911,
-    "wof:lastmodified":1449056017,
+    "wof:lastmodified":1454129519,
     "wof:name":"Kamikazi Caterers",
     "wof:parent_id":85865705,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.985802,40.735949,-73.985802,40.735949],
-  "geometry": {"coordinates":[-73.985802,40.735949],"type":"Point"}
+  "bbox": [
+    -73.985802,
+    40.735949,
+    -73.985802,
+    40.735949
+],
+  "geometry": {"coordinates":[-73.98580200000001,40.735949],"type":"Point"}
 }

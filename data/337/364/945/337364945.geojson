@@ -2,13 +2,14 @@
   "id": 337364945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.82729,40.8933,-73.82729,40.8933",
     "geom:latitude":40.8933,
     "geom:longitude":-73.82729,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 S Columbus Ave",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.defoecorp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840705,
+        102191575,
+        404523371,
         85633793,
         85978721,
         102082373,
-        85840705
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"effc2d64f990d84c2c3117357d3d6d68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
             "neighbourhood_id":85840705,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":337364945,
-    "wof:lastmodified":1449027405,
+    "wof:lastmodified":1454127051,
     "wof:name":"Defoe Corp",
     "wof:parent_id":85840705,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "cutting"
     ]
 },
-  "bbox": [-73.82729,40.8933,-73.82729,40.8933],
+  "bbox": [
+    -73.82729,
+    40.8933,
+    -73.82729,
+    40.8933
+],
   "geometry": {"coordinates":[-73.82729,40.8933],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320210093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.882907,40.839603,-73.882907,40.839603",
     "geom:latitude":40.839603,
     "geom:longitude":-73.882907,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1898 Boston Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85855481,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"c5853d9567bf6886285dc44063457075",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85855481,
             "region_id":85688543,
             "venue_id":320210093
         }
     ],
     "wof:id":320210093,
-    "wof:lastmodified":1449012540,
+    "wof:lastmodified":1454124969,
     "wof:name":"Ea Boiler Rpr Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855481,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "boiler"
     ]
 },
-  "bbox": [-73.882907,40.839603,-73.882907,40.839603],
+  "bbox": [
+    -73.882907,
+    40.839603,
+    -73.882907,
+    40.839603
+],
   "geometry": {"coordinates":[-73.882907,40.839603],"type":"Point"}
 }

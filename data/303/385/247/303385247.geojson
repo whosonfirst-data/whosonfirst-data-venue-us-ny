@@ -2,13 +2,14 @@
   "id": 303385247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.254495,40.884501,-73.254495,40.884501",
     "geom:latitude":40.884501,
     "geom:longitude":-73.254495,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 Main St",
     "sg:city":"Kings Park",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820223,
+        102191575,
+        404522515,
         85633793,
         85979713,
         102082395,
-        85820223
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"828ac9951e682d909660be8f4bb31191",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85979713,
             "neighbourhood_id":85820223,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303385247,
-    "wof:lastmodified":1448999574,
+    "wof:lastmodified":1454123450,
     "wof:name":"Kings Park Contracting Inc",
     "wof:parent_id":85820223,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.254495,40.884501,-73.254495,40.884501],
-  "geometry": {"coordinates":[-73.254495,40.884501],"type":"Point"}
+  "bbox": [
+    -73.254495,
+    40.884501,
+    -73.254495,
+    40.884501
+],
+  "geometry": {"coordinates":[-73.25449500000001,40.884501],"type":"Point"}
 }

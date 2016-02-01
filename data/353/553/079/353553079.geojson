@@ -2,13 +2,14 @@
   "id": 353553079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.930504,41.719628,-73.930504,41.719628",
     "geom:latitude":41.719628,
     "geom:longitude":-73.930504,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"68 W Cedar St",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892989,
+        102191575,
+        404522305,
         85633793,
+        85977835,
         102082363,
-        85892989
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"35dbc8a061f1d9af5d276b2eb239389d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
-            "locality_id":-1,
+            "localadmin_id":404522305,
+            "locality_id":85977835,
             "neighbourhood_id":85892989,
             "region_id":85688543,
             "venue_id":353553079
         }
     ],
     "wof:id":353553079,
-    "wof:lastmodified":1449018274,
+    "wof:lastmodified":1454125956,
     "wof:name":"Poughkeepsie Chiropractic",
     "wof:parent_id":85892989,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.930504,41.719628,-73.930504,41.719628],
+  "bbox": [
+    -73.930504,
+    41.719628,
+    -73.930504,
+    41.719628
+],
   "geometry": {"coordinates":[-73.930504,41.719628],"type":"Point"}
 }

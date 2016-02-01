@@ -2,13 +2,14 @@
   "id": 354411041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.164101,40.884399,-73.164101,40.884399",
     "geom:latitude":40.884399,
     "geom:longitude":-73.164101,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"525 Route 25A",
     "sg:city":"Saint James",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.exxon.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893017,
+        102191575,
+        404522669,
         85633793,
-        85979773,
+        85979839,
         102082395,
-        85893017
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +42,18 @@
     "wof:geomhash":"b8b9b25c30222a6ab8e2ff81226585b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522669,
+            "locality_id":85979839,
             "neighbourhood_id":85893017,
             "region_id":85688543,
             "venue_id":354411041
         }
     ],
     "wof:id":354411041,
-    "wof:lastmodified":1449066024,
+    "wof:lastmodified":1454130798,
     "wof:name":"St James Exxon Automotive Center",
     "wof:parent_id":85893017,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.164101,40.884399,-73.164101,40.884399],
+  "bbox": [
+    -73.164101,
+    40.884399,
+    -73.164101,
+    40.884399
+],
   "geometry": {"coordinates":[-73.164101,40.884399],"type":"Point"}
 }

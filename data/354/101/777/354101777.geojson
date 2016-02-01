@@ -2,13 +2,14 @@
   "id": 354101777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.487888,40.725319,-73.487888,40.725319",
     "geom:latitude":40.725319,
     "geom:longitude":-73.487888,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4037 Hempstead Tpke",
     "sg:city":"Bethpage",
     "sg:classifiers":[
@@ -50,11 +51,13 @@
     "sg:website":"http://www.att.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892759,
+        102191575,
+        404521475,
         85633793,
         85979165,
         102082371,
-        85892759
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,9 +67,10 @@
     "wof:geomhash":"77c01be7fbbc5b6a2fbda4ec00a65c95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979165,
             "neighbourhood_id":85892759,
             "region_id":85688543,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":354101777,
-    "wof:lastmodified":1449066836,
+    "wof:lastmodified":1454131049,
     "wof:name":"AT&T",
     "wof:parent_id":85892759,
     "wof:placetype":"venue",
@@ -91,6 +95,11 @@
         "provider"
     ]
 },
-  "bbox": [-73.487888,40.725319,-73.487888,40.725319],
+  "bbox": [
+    -73.487888,
+    40.725319,
+    -73.487888,
+    40.725319
+],
   "geometry": {"coordinates":[-73.487888,40.725319],"type":"Point"}
 }

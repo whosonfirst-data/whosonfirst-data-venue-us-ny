@@ -2,13 +2,14 @@
   "id": 354311003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.559845,40.78544,-73.559845,40.78544",
     "geom:latitude":40.78544,
     "geom:longitude":-73.559845,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"Suite 100 44 Hunt Drive",
     "sg:city":"Jericho",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529157,
+        102191575,
+        404521475,
         85633793,
         85979085,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"b69b6e735a41f3dbb4361a636c3e96b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979085,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529157,
             "region_id":85688543,
             "venue_id":354311003
         }
     ],
     "wof:id":354311003,
-    "wof:lastmodified":1449066330,
+    "wof:lastmodified":1454130891,
     "wof:name":"CCF Inc Interior Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529157,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "design"
     ]
 },
-  "bbox": [-73.559845,40.78544,-73.559845,40.78544],
+  "bbox": [
+    -73.559845,
+    40.78544,
+    -73.559845,
+    40.78544
+],
   "geometry": {"coordinates":[-73.559845,40.78544],"type":"Point"}
 }

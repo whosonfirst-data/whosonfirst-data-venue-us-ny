@@ -2,13 +2,14 @@
   "id": 253241499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.424664,42.945268,-76.424664,42.945268",
     "geom:latitude":42.945268,
     "geom:longitude":-76.424664,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"97 E Genesee St",
     "sg:city":"Skaneateles",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.skanfest.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857947,
+        102191575,
+        404521505,
         85633793,
         85977789,
         102082351,
-        85857947
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"5fd69fc7798ba1b82c797de6f6ba2905",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404521505,
             "locality_id":85977789,
             "neighbourhood_id":85857947,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":253241499,
-    "wof:lastmodified":1449065722,
+    "wof:lastmodified":1454130730,
     "wof:name":"Skaneateles Festival Inc",
     "wof:parent_id":85857947,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "civic"
     ]
 },
-  "bbox": [-76.424664,42.945268,-76.424664,42.945268],
-  "geometry": {"coordinates":[-76.424664,42.945268],"type":"Point"}
+  "bbox": [
+    -76.424664,
+    42.945268,
+    -76.424664,
+    42.945268
+],
+  "geometry": {"coordinates":[-76.42466400000001,42.945268],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286273459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.669646,43.138959,-77.669646,43.138959",
     "geom:latitude":43.138959,
     "geom:longitude":-77.669646,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1160 Chili Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -24,11 +25,14 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102528361,
+        85880411,
+        102191575,
+        404521467,
         85633793,
-        85979033,
+        85977591,
         102081815,
-        85821235
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,31 @@
     "wof:geomhash":"f84b23b7b602d8b2b110b49ea7cd4ef1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102528361,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85979033,
-            "neighbourhood_id":85821235,
+            "localadmin_id":404521467,
+            "locality_id":85977591,
+            "neighbourhood_id":85880411,
             "region_id":85688543,
             "venue_id":286273459
         }
     ],
     "wof:id":286273459,
-    "wof:lastmodified":1449016720,
+    "wof:lastmodified":1454125669,
     "wof:name":"Waldert Optician",
-    "wof:parent_id":85821235,
+    "wof:parent_id":102528361,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.669646,43.138959,-77.669646,43.138959],
+  "bbox": [
+    -77.669646,
+    43.138959,
+    -77.669646,
+    43.138959
+],
   "geometry": {"coordinates":[-77.669646,43.138959],"type":"Point"}
 }

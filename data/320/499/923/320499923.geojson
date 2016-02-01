@@ -2,13 +2,14 @@
   "id": 320499923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.917706,40.83451,-73.917706,40.83451",
     "geom:latitude":40.83451,
     "geom:longitude":-73.917706,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1181 Grand Concourse",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892793,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"870324b8e721a0a951baeaad92b7a10c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892793,
             "region_id":85688543,
             "venue_id":320499923
         }
     ],
     "wof:id":320499923,
-    "wof:lastmodified":1449011971,
+    "wof:lastmodified":1454124878,
     "wof:name":"Hoi-Yat Kam MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892793,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-73.917706,40.83451,-73.917706,40.83451],
+  "bbox": [
+    -73.917706,
+    40.83451,
+    -73.917706,
+    40.83451
+],
   "geometry": {"coordinates":[-73.917706,40.83451],"type":"Point"}
 }

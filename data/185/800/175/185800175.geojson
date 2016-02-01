@@ -2,13 +2,14 @@
   "id": 185800175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.004975,40.63347,-74.004975,40.63347",
     "geom:latitude":40.63347,
     "geom:longitude":-74.004975,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5920 Fort Hamilton Pkwy",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"e65e3f63eb711f4bf707953d131bafbd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":185800175
         }
     ],
     "wof:id":185800175,
-    "wof:lastmodified":1449006734,
+    "wof:lastmodified":1454124161,
     "wof:name":"Kyoto Sushi",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "japanese"
     ]
 },
-  "bbox": [-74.004975,40.63347,-74.004975,40.63347],
+  "bbox": [
+    -74.004975,
+    40.63347,
+    -74.004975,
+    40.63347
+],
   "geometry": {"coordinates":[-74.004975,40.63347],"type":"Point"}
 }

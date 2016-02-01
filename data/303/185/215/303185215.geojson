@@ -2,13 +2,14 @@
   "id": 303185215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.143049,43.264785,-77.143049,43.264785",
     "geom:latitude":43.264785,
     "geom:longitude":-77.143049,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7487 E Townline Rd",
     "sg:city":"Williamson",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420530365,
+        102191575,
+        404521681,
         85633793,
+        85979741,
+        102082409,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"171afe0d1bea76d2bb93aea5f2bc0b6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082409,
+            "localadmin_id":404521681,
+            "locality_id":85979741,
+            "neighbourhood_id":420530365,
             "region_id":85688543,
             "venue_id":303185215
         }
     ],
     "wof:id":303185215,
-    "wof:lastmodified":1448998520,
+    "wof:lastmodified":1454123127,
     "wof:name":"Jmv Remodeling",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-77.143049,43.264785,-77.143049,43.264785],
+  "bbox": [
+    -77.143049,
+    43.264785,
+    -77.143049,
+    43.264785
+],
   "geometry": {"coordinates":[-77.143049,43.264785],"type":"Point"}
 }

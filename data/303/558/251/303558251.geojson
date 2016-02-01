@@ -2,13 +2,14 @@
   "id": 303558251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.246456,40.735906,-73.246456,40.735906",
     "geom:latitude":40.735906,
     "geom:longitude":-73.246456,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2054 Sunrise Hwy",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.bayshorehobbies.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530027,
+        102191575,
+        404522517,
         85633793,
         85979719,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"164e7c5a37fc51b3633cc62fefccb3e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530027,
             "region_id":85688543,
             "venue_id":303558251
         }
     ],
     "wof:id":303558251,
-    "wof:lastmodified":1448998775,
+    "wof:lastmodified":1454123218,
     "wof:name":"Bay Shore Hobbies",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530027,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.246456,40.735906,-73.246456,40.735906],
-  "geometry": {"coordinates":[-73.246456,40.735906],"type":"Point"}
+  "bbox": [
+    -73.246456,
+    40.735906,
+    -73.246456,
+    40.735906
+],
+  "geometry": {"coordinates":[-73.24645599999999,40.735906],"type":"Point"}
 }

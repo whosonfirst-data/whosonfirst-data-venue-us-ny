@@ -2,13 +2,14 @@
   "id": 353672917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.805804,40.666024,-73.805804,40.666024",
     "geom:latitude":40.666024,
     "geom:longitude":-73.805804,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14818 134th St",
     "sg:city":"Jamaica",
     "sg:classifiers":[
@@ -25,12 +26,15 @@
     "sg:website":"www.queensjfkairport.hgi.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865645,
-        85865467
+        102082361,
+        85688543,
+        85865647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,33 +44,42 @@
     "wof:geomhash":"67c3c773bd8c811794c259535c9a47fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85865645,
+            "neighbourhood_id":85823673,
             "region_id":85688543,
             "venue_id":353672917
         },
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85865467,
+            "neighbourhood_id":85865647,
             "region_id":85688543,
             "venue_id":353672917
         }
     ],
     "wof:id":353672917,
-    "wof:lastmodified":1449018424,
+    "wof:lastmodified":1454125997,
     "wof:name":"Hilton Garden Inn",
-    "wof:parent_id":-1,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.805804,40.666024,-73.805804,40.666024],
-  "geometry": {"coordinates":[-73.805804,40.666024],"type":"Point"}
+  "bbox": [
+    -73.805804,
+    40.666024,
+    -73.805804,
+    40.666024
+],
+  "geometry": {"coordinates":[-73.80580399999999,40.666024],"type":"Point"}
 }

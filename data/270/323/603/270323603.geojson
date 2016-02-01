@@ -2,13 +2,14 @@
   "id": 270323603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.437345,43.240502,-75.437345,43.240502",
     "geom:latitude":43.240502,
     "geom:longitude":-75.437345,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2012 N James St",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529303,
+        102191575,
+        404522697,
         85633793,
         85978369,
-        102083149
+        102083149,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"ce284a899a24e4dfc2a4e076e5949bc8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083149,
+            "localadmin_id":404522697,
             "locality_id":85978369,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529303,
             "region_id":85688543,
             "venue_id":270323603
         }
     ],
     "wof:id":270323603,
-    "wof:lastmodified":1449008861,
+    "wof:lastmodified":1454124399,
     "wof:name":"Mazzaferros Meat & Deli",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529303,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.437345,43.240502,-75.437345,43.240502],
-  "geometry": {"coordinates":[-75.437345,43.240502],"type":"Point"}
+  "bbox": [
+    -75.437345,
+    43.240502,
+    -75.437345,
+    43.240502
+],
+  "geometry": {"coordinates":[-75.43734499999999,43.240502],"type":"Point"}
 }

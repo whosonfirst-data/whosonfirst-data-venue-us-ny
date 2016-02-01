@@ -2,13 +2,14 @@
   "id": 387512011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.980404,40.748366,-73.980404,40.748366",
     "geom:latitude":40.748366,
     "geom:longitude":-73.980404,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 E 36th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836095,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85836095
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"90fe8cbc25f9ad3675d9f3a9016a3201",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85836095,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387512011,
-    "wof:lastmodified":1449058878,
+    "wof:lastmodified":1454130023,
     "wof:name":"Beth Walman",
     "wof:parent_id":85836095,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "operates"
     ]
 },
-  "bbox": [-73.980404,40.748366,-73.980404,40.748366],
-  "geometry": {"coordinates":[-73.980404,40.748366],"type":"Point"}
+  "bbox": [
+    -73.980404,
+    40.748366,
+    -73.980404,
+    40.748366
+],
+  "geometry": {"coordinates":[-73.98040399999999,40.748366],"type":"Point"}
 }

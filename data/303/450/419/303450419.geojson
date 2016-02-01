@@ -2,13 +2,14 @@
   "id": 303450419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.131757,43.566519,-76.131757,43.566519",
     "geom:latitude":43.566519,
     "geom:longitude":-76.131757,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Forest Dr",
     "sg:city":"Pulaski",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805925,
+        102191575,
+        404522871,
         85633793,
+        85978583,
         102081783,
-        85805925
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"2f00e574ee8b8757f9c185f662ea3199",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081783,
-            "locality_id":-1,
+            "localadmin_id":404522871,
+            "locality_id":85978583,
             "neighbourhood_id":85805925,
             "region_id":85688543,
             "venue_id":303450419
         }
     ],
     "wof:id":303450419,
-    "wof:lastmodified":1449000187,
+    "wof:lastmodified":1454123620,
     "wof:name":"Baron Construction",
     "wof:parent_id":85805925,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-76.131757,43.566519,-76.131757,43.566519],
-  "geometry": {"coordinates":[-76.131757,43.566519],"type":"Point"}
+  "bbox": [
+    -76.131757,
+    43.566519,
+    -76.131757,
+    43.566519
+],
+  "geometry": {"coordinates":[-76.13175699999999,43.566519],"type":"Point"}
 }

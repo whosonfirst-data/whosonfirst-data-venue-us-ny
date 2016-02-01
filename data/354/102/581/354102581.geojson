@@ -2,13 +2,14 @@
   "id": 354102581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.11065,40.780765,-73.11065,40.780765",
     "geom:latitude":40.780765,
     "geom:longitude":-73.11065,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1500 Smithtown Ave",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"288ae576f914a3f3aa42d552097a09f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":354102581
         }
     ],
     "wof:id":354102581,
-    "wof:lastmodified":1449067547,
+    "wof:lastmodified":1454131269,
     "wof:name":"East End Interiors",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "design"
     ]
 },
-  "bbox": [-73.11065,40.780765,-73.11065,40.780765],
-  "geometry": {"coordinates":[-73.11065,40.780765],"type":"Point"}
+  "bbox": [
+    -73.11065,
+    40.780765,
+    -73.11065,
+    40.780765
+],
+  "geometry": {"coordinates":[-73.11065000000001,40.780765],"type":"Point"}
 }

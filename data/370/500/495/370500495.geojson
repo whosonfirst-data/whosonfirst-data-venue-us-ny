@@ -2,13 +2,14 @@
   "id": 370500495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.999892,41.931257,-73.999892,41.931257",
     "geom:latitude":41.931257,
     "geom:longitude":-73.999892,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"104 Smith Ave",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -45,11 +46,13 @@
     "sg:website":"http://www.stihlusa.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845827,
+        102191575,
+        404523249,
         85633793,
         85977505,
         102081775,
-        85845827
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,9 +62,10 @@
     "wof:geomhash":"8453b03fe0bfdeae95622907791520b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
+            "localadmin_id":404523249,
             "locality_id":85977505,
             "neighbourhood_id":85845827,
             "region_id":85688543,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":370500495,
-    "wof:lastmodified":1449029941,
+    "wof:lastmodified":1454127564,
     "wof:name":"Fowler and Keith",
     "wof:parent_id":85845827,
     "wof:placetype":"venue",
@@ -86,6 +90,11 @@
         "saw"
     ]
 },
-  "bbox": [-73.999892,41.931257,-73.999892,41.931257],
+  "bbox": [
+    -73.999892,
+    41.931257,
+    -73.999892,
+    41.931257
+],
   "geometry": {"coordinates":[-73.999892,41.931257],"type":"Point"}
 }

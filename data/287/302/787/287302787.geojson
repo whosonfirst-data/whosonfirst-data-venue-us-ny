@@ -2,13 +2,14 @@
   "id": 287302787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.009625,40.710063,-74.009625,40.710063",
     "geom:latitude":40.710063,
     "geom:longitude":-74.009625,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"180 Broadway",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865711,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865711
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"940e3ca0eea2ac42cf958f20cbdfc410",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865711,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":287302787,
-    "wof:lastmodified":1449000954,
+    "wof:lastmodified":1454123820,
     "wof:name":"Pentacles Inc",
     "wof:parent_id":85865711,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "software"
     ]
 },
-  "bbox": [-74.009625,40.710063,-74.009625,40.710063],
+  "bbox": [
+    -74.009625,
+    40.710063,
+    -74.009625,
+    40.710063
+],
   "geometry": {"coordinates":[-74.009625,40.710063],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337282275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.997299,40.6791,-73.997299,40.6791",
     "geom:latitude":40.6791,
     "geom:longitude":-73.997299,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"421 Court St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -47,10 +48,14 @@
     "sg:website":"www.serimony.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892915,
+        102191575,
+        102147495,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,19 +65,21 @@
     "wof:geomhash":"63f4383e17371532cb0e79ea1fd34484",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "macrohood_id":102147495,
+            "neighbourhood_id":85892915,
             "region_id":85688543,
             "venue_id":337282275
         }
     ],
     "wof:id":337282275,
-    "wof:lastmodified":1449027463,
+    "wof:lastmodified":1454127075,
     "wof:name":"Serimony",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -84,6 +91,11 @@
         "women's"
     ]
 },
-  "bbox": [-73.997299,40.6791,-73.997299,40.6791],
+  "bbox": [
+    -73.997299,
+    40.6791,
+    -73.997299,
+    40.6791
+],
   "geometry": {"coordinates":[-73.997299,40.6791],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303929167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.780488,41.031817,-73.780488,41.031817",
     "geom:latitude":41.031817,
     "geom:longitude":-73.780488,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"49 Jefferson Ave",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893077,
+        102191575,
+        404523395,
         85633793,
+        85978761,
         102082373,
-        85893077
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"32262d48e2103e518045adf4699f04da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":-1,
+            "localadmin_id":404523395,
+            "locality_id":85978761,
             "neighbourhood_id":85893077,
             "region_id":85688543,
             "venue_id":303929167
         }
     ],
     "wof:id":303929167,
-    "wof:lastmodified":1448999054,
+    "wof:lastmodified":1454123309,
     "wof:name":"Pest Pro Management Inc",
     "wof:parent_id":85893077,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.780488,41.031817,-73.780488,41.031817],
-  "geometry": {"coordinates":[-73.780488,41.031817],"type":"Point"}
+  "bbox": [
+    -73.780488,
+    41.031817,
+    -73.780488,
+    41.031817
+],
+  "geometry": {"coordinates":[-73.78048800000001,41.031817],"type":"Point"}
 }

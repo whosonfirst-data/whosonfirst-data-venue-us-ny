@@ -2,13 +2,14 @@
   "id": 269757007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.000623,40.733098,-74.000623,40.733098",
     "geom:latitude":40.733098,
     "geom:longitude":-74.000623,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"136 Waverly Pl",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85856577,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85856577
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"f995ff59602320de4cf1f0e2c87684d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85856577,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":269757007,
-    "wof:lastmodified":1449037481,
+    "wof:lastmodified":1454128662,
     "wof:name":"Emergency Locksmith",
     "wof:parent_id":85856577,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-74.000623,40.733098,-74.000623,40.733098],
+  "bbox": [
+    -74.000623,
+    40.733098,
+    -74.000623,
+    40.733098
+],
   "geometry": {"coordinates":[-74.000623,40.733098],"type":"Point"}
 }

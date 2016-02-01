@@ -2,13 +2,14 @@
   "id": 404136511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.598424,40.68419,-73.598424,40.68419",
     "geom:latitude":40.68419,
     "geom:longitude":-73.598424,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 Primrose Ln",
     "sg:city":"Roosevelt",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529133,
+        102191575,
+        404521473,
         85633793,
         85979173,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"6c23451eb727cf472ed2c4130d3561b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979173,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529133,
             "region_id":85688543,
             "venue_id":404136511
         }
     ],
     "wof:id":404136511,
-    "wof:lastmodified":1449040316,
+    "wof:lastmodified":1454128968,
     "wof:name":"Night Owl Delivery Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529133,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-73.598424,40.68419,-73.598424,40.68419],
-  "geometry": {"coordinates":[-73.598424,40.68419],"type":"Point"}
+  "bbox": [
+    -73.598424,
+    40.68419,
+    -73.598424,
+    40.68419
+],
+  "geometry": {"coordinates":[-73.59842399999999,40.68419],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370268719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.855564,40.952804,-73.855564,40.952804",
     "geom:latitude":40.952804,
     "geom:longitude":-73.855564,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"357 Tuckahoe Rd",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881885,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"2c6e521b0dd58699c232c2031aede6e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881885,
             "region_id":85688543,
             "venue_id":370268719
         }
     ],
     "wof:id":370268719,
-    "wof:lastmodified":1449030994,
+    "wof:lastmodified":1454127876,
     "wof:name":"Super Value",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881885,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "automobile"
     ]
 },
-  "bbox": [-73.855564,40.952804,-73.855564,40.952804],
+  "bbox": [
+    -73.855564,
+    40.952804,
+    -73.855564,
+    40.952804
+],
   "geometry": {"coordinates":[-73.855564,40.952804],"type":"Point"}
 }

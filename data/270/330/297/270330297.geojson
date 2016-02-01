@@ -2,13 +2,14 @@
   "id": 270330297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.84531,40.867418,-73.84531,40.867418",
     "geom:latitude":40.867418,
     "geom:longitude":-73.84531,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2707 Morgan Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825625,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85825625
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"170d57f1e7172f1ef6e704014dfe7fca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85825625,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":270330297,
-    "wof:lastmodified":1449009863,
+    "wof:lastmodified":1454124546,
     "wof:name":"Wald Financial Svc",
     "wof:parent_id":85825625,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-73.84531,40.867418,-73.84531,40.867418],
+  "bbox": [
+    -73.84531,
+    40.867418,
+    -73.84531,
+    40.867418
+],
   "geometry": {"coordinates":[-73.84531,40.867418],"type":"Point"}
 }

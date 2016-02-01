@@ -2,13 +2,14 @@
   "id": 169845307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.965446,40.715256,-73.965446,40.715256",
     "geom:latitude":40.715256,
     "geom:longitude":-73.965446,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"47 S 1st St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.publicvanlines.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865603,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865603
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"b4b3e8f6b4992ffc2740a91ef8693471",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865603,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":169845307,
-    "wof:lastmodified":1449033232,
+    "wof:lastmodified":1454128371,
     "wof:name":"Public Van Lines",
     "wof:parent_id":85865603,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "mover"
     ]
 },
-  "bbox": [-73.965446,40.715256,-73.965446,40.715256],
+  "bbox": [
+    -73.965446,
+    40.715256,
+    -73.965446,
+    40.715256
+],
   "geometry": {"coordinates":[-73.965446,40.715256],"type":"Point"}
 }

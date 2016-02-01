@@ -2,13 +2,14 @@
   "id": 354059825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.1155,40.564775,-74.1155,40.564775",
     "geom:latitude":40.564775,
     "geom:longitude":-74.1155,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2750 Hylan Blvd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836603,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"fdcfa1310cd0227448d58bfab28b9823",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85836603,
             "region_id":85688543,
             "venue_id":354059825
         }
     ],
     "wof:id":354059825,
-    "wof:lastmodified":1449066370,
+    "wof:lastmodified":1454130904,
     "wof:name":"J & M Childrens World",
-    "wof:parent_id":-1,
+    "wof:parent_id":85836603,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.1155,40.564775,-74.1155,40.564775],
+  "bbox": [
+    -74.1155,
+    40.564775,
+    -74.1155,
+    40.564775
+],
   "geometry": {"coordinates":[-74.1155,40.564775],"type":"Point"}
 }

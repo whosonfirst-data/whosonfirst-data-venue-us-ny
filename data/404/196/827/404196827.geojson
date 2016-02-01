@@ -2,13 +2,14 @@
   "id": 404196827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.158833,43.035407,-76.158833,43.035407",
     "geom:latitude":43.035407,
     "geom:longitude":-76.158833,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"108 Daisy St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529343,
+        102191575,
+        404522851,
         85633793,
         85977785,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"0c4b21fa17fae22fa7451a6acdcdfc8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529343,
             "region_id":85688543,
             "venue_id":404196827
         }
     ],
     "wof:id":404196827,
-    "wof:lastmodified":1449039319,
+    "wof:lastmodified":1454128857,
     "wof:name":"New Zion Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529343,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-76.158833,43.035407,-76.158833,43.035407],
+  "bbox": [
+    -76.158833,
+    43.035407,
+    -76.158833,
+    43.035407
+],
   "geometry": {"coordinates":[-76.158833,43.035407],"type":"Point"}
 }

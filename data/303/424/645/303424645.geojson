@@ -2,13 +2,14 @@
   "id": 303424645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.904983,40.839814,-73.904983,40.839814",
     "geom:latitude":40.839814,
     "geom:longitude":-73.904983,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1684 Webster Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892767,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85892767
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"d790dff76f4b8bafd0d47bff737b214c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892767,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":303424645,
-    "wof:lastmodified":1449000413,
+    "wof:lastmodified":1454123681,
     "wof:name":"Pedro's Auto Repair & Electric",
     "wof:parent_id":85892767,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.904983,40.839814,-73.904983,40.839814],
+  "bbox": [
+    -73.904983,
+    40.839814,
+    -73.904983,
+    40.839814
+],
   "geometry": {"coordinates":[-73.904983,40.839814],"type":"Point"}
 }

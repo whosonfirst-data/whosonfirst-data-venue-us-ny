@@ -2,13 +2,14 @@
   "id": 387334401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.673515,43.298842,-73.673515,43.298842",
     "geom:latitude":43.298842,
     "geom:longitude":-73.673515,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"108 Main St",
     "sg:city":"Glens Falls",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840433,
+        102191575,
+        404523293,
         85633793,
-        85980101,
-        102081791
+        85980107,
+        102081791,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"4401475480a8fcb6d1bccfdca9cd9316",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081791,
-            "locality_id":85980101,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523293,
+            "locality_id":85980107,
+            "neighbourhood_id":85840433,
             "region_id":85688543,
             "venue_id":387334401
         }
     ],
     "wof:id":387334401,
-    "wof:lastmodified":1449057213,
+    "wof:lastmodified":1454129727,
     "wof:name":"Jack's Barber Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":85840433,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.673515,43.298842,-73.673515,43.298842],
-  "geometry": {"coordinates":[-73.673515,43.298842],"type":"Point"}
+  "bbox": [
+    -73.673515,
+    43.298842,
+    -73.673515,
+    43.298842
+],
+  "geometry": {"coordinates":[-73.67351499999999,43.298842],"type":"Point"}
 }

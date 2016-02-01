@@ -2,13 +2,14 @@
   "id": 387757229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.820515,42.978763,-78.820515,42.978763",
     "geom:latitude":42.978763,
     "geom:longitude":-78.820515,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2140 Eggert Rd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823285,
+        102191575,
+        404522321,
         85633793,
+        85979407,
         102082387,
-        85823285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"26a423b8c20717e080012e5bf399af52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979407,
             "neighbourhood_id":85823285,
             "region_id":85688543,
             "venue_id":387757229
         }
     ],
     "wof:id":387757229,
-    "wof:lastmodified":1449058254,
+    "wof:lastmodified":1454129913,
     "wof:name":"Randmark Properties Inc",
     "wof:parent_id":85823285,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-78.820515,42.978763,-78.820515,42.978763],
+  "bbox": [
+    -78.820515,
+    42.978763,
+    -78.820515,
+    42.978763
+],
   "geometry": {"coordinates":[-78.820515,42.978763],"type":"Point"}
 }

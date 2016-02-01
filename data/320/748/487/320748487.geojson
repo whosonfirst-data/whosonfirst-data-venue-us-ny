@@ -2,13 +2,14 @@
   "id": 320748487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.873735,42.887829,-78.873735,42.887829",
     "geom:latitude":42.887829,
     "geom:longitude":-78.873735,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"508 Main St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.nysed.gov",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867085,
+        102191575,
+        404522329,
         85633793,
         85978023,
         102082387,
-        85867085
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"d1106de79ffec3b99be02f2c7d5a4bbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
             "neighbourhood_id":85867085,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":320748487,
-    "wof:lastmodified":1449014047,
+    "wof:lastmodified":1454125215,
     "wof:name":"Ny State Vocational",
     "wof:parent_id":85867085,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "program"
     ]
 },
-  "bbox": [-78.873735,42.887829,-78.873735,42.887829],
+  "bbox": [
+    -78.873735,
+    42.887829,
+    -78.873735,
+    42.887829
+],
   "geometry": {"coordinates":[-78.873735,42.887829],"type":"Point"}
 }

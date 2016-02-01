@@ -2,13 +2,14 @@
   "id": 387023627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.663493,43.114784,-77.663493,43.114784",
     "geom:latitude":43.114784,
     "geom:longitude":-77.663493,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"90 Airpark Dr Ste 102",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -50,11 +51,13 @@
     "sg:website":"http://www.teledatacom.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880411,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85880411
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,9 +67,10 @@
     "wof:geomhash":"b40d552c69ecd66d4cb7893c269991f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85880411,
             "region_id":85688543,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":387023627,
-    "wof:lastmodified":1449059546,
+    "wof:lastmodified":1454130142,
     "wof:name":"Tele Data Com Inc.",
     "wof:parent_id":85880411,
     "wof:placetype":"venue",
@@ -91,6 +95,11 @@
         "engineer"
     ]
 },
-  "bbox": [-77.663493,43.114784,-77.663493,43.114784],
+  "bbox": [
+    -77.663493,
+    43.114784,
+    -77.663493,
+    43.114784
+],
   "geometry": {"coordinates":[-77.663493,43.114784],"type":"Point"}
 }

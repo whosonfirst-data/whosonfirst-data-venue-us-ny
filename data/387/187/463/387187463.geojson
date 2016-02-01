@@ -2,13 +2,14 @@
   "id": 387187463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.393203,41.719908,-74.393203,41.719908",
     "geom:latitude":41.719908,
     "geom:longitude":-74.393203,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"55 N Main St",
     "sg:city":"Ellenville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816913,
+        102191575,
+        404523275,
         85633793,
-        85978959,
+        85977503,
         102081775,
-        85816913
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"e66ae916804dfe33a8b1a32a931bbf06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
-            "locality_id":85978959,
+            "localadmin_id":404523275,
+            "locality_id":85977503,
             "neighbourhood_id":85816913,
             "region_id":85688543,
             "venue_id":387187463
         }
     ],
     "wof:id":387187463,
-    "wof:lastmodified":1449056670,
+    "wof:lastmodified":1454129629,
     "wof:name":"Ellenville Dodge Chrysler Jeep",
     "wof:parent_id":85816913,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "gas"
     ]
 },
-  "bbox": [-74.393203,41.719908,-74.393203,41.719908],
+  "bbox": [
+    -74.393203,
+    41.719908,
+    -74.393203,
+    41.719908
+],
   "geometry": {"coordinates":[-74.393203,41.719908],"type":"Point"}
 }

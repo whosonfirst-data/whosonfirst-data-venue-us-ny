@@ -2,13 +2,14 @@
   "id": 387011991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.234276,43.059053,-76.234276,43.059053",
     "geom:latitude":43.059053,
     "geom:longitude":-76.234276,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"519 Horan Rd",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85818613,
+        102191575,
+        404522819,
         85633793,
+        85979217,
         102082351,
-        85829281
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"ded7741049b9c7c03f52dc743b018fab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
-            "locality_id":-1,
-            "neighbourhood_id":85829281,
+            "localadmin_id":404522819,
+            "locality_id":85979217,
+            "neighbourhood_id":85818613,
             "region_id":85688543,
             "venue_id":387011991
         }
     ],
     "wof:id":387011991,
-    "wof:lastmodified":1449059228,
+    "wof:lastmodified":1454130086,
     "wof:name":"Bobbett Implement & Tract",
-    "wof:parent_id":85829281,
+    "wof:parent_id":85818613,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "mower"
     ]
 },
-  "bbox": [-76.234276,43.059053,-76.234276,43.059053],
-  "geometry": {"coordinates":[-76.234276,43.059053],"type":"Point"}
+  "bbox": [
+    -76.234276,
+    43.059053,
+    -76.234276,
+    43.059053
+],
+  "geometry": {"coordinates":[-76.23427599999999,43.059053],"type":"Point"}
 }

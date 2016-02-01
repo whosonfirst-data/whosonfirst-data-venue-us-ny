@@ -2,13 +2,14 @@
   "id": 303314065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.715963,40.726441,-73.715963,40.726441",
     "geom:latitude":40.726441,
     "geom:longitude":-73.715963,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"24912 Jericho Tpke",
     "sg:city":"Floral Park",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805483,
+        102191575,
+        404521473,
         85633793,
-        85977709,
+        85977689,
         102082371,
-        85805483
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"b24c43fa45fb15a71a8631e856f9a196",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977709,
+            "localadmin_id":404521473,
+            "locality_id":85977689,
             "neighbourhood_id":85805483,
             "region_id":85688543,
             "venue_id":303314065
         }
     ],
     "wof:id":303314065,
-    "wof:lastmodified":1449000462,
+    "wof:lastmodified":1454123694,
     "wof:name":"Tigerquote.Comnewyorkagency",
     "wof:parent_id":85805483,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.715963,40.726441,-73.715963,40.726441],
+  "bbox": [
+    -73.715963,
+    40.726441,
+    -73.715963,
+    40.726441
+],
   "geometry": {"coordinates":[-73.715963,40.726441],"type":"Point"}
 }

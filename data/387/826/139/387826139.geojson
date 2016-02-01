@@ -2,13 +2,14 @@
   "id": 387826139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.944882,40.944934,-72.944882,40.944934",
     "geom:latitude":40.944934,
     "geom:longitude":-72.944882,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"333 State Hwy 25A",
     "sg:city":"Rocky Point",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979947,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"2a41b455b731de3c4f21714281d33533",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979947,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":387826139
         }
     ],
     "wof:id":387826139,
-    "wof:lastmodified":1449058873,
+    "wof:lastmodified":1454130022,
     "wof:name":"Cynthia Ochi DC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.944882,40.944934,-72.944882,40.944934],
-  "geometry": {"coordinates":[-72.944882,40.944934],"type":"Point"}
+  "bbox": [
+    -72.944882,
+    40.944934,
+    -72.944882,
+    40.944934
+],
+  "geometry": {"coordinates":[-72.94488200000001,40.944934],"type":"Point"}
 }

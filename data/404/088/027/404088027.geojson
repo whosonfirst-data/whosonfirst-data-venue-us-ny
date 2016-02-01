@@ -2,13 +2,14 @@
   "id": 404088027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.142185,41.114199,-74.142185,41.114199",
     "geom:latitude":41.114199,
     "geom:longitude":-74.142185,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"177 State Hwy 59",
     "sg:city":"Suffern",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893025,
+        102191575,
+        404523097,
         85633793,
         85978523,
-        102082385
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"8786bbe529617ed02b096c24e1e3d5d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523097,
             "locality_id":85978523,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85893025,
             "region_id":85688543,
             "venue_id":404088027
         }
     ],
     "wof:id":404088027,
-    "wof:lastmodified":1449040016,
+    "wof:lastmodified":1454128929,
     "wof:name":"Louis Hirsch & Sons",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "director"
     ]
 },
-  "bbox": [-74.142185,41.114199,-74.142185,41.114199],
+  "bbox": [
+    -74.142185,
+    41.114199,
+    -74.142185,
+    41.114199
+],
   "geometry": {"coordinates":[-74.142185,41.114199],"type":"Point"}
 }

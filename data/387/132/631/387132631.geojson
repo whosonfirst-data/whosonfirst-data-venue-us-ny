@@ -2,13 +2,14 @@
   "id": 387132631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.1381,43.568238,-76.1381,43.568238",
     "geom:latitude":43.568238,
     "geom:longitude":-76.1381,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"48 Riverview Dr",
     "sg:city":"Pulaski",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805925,
+        102191575,
+        404522871,
         85633793,
+        85978583,
         102081783,
-        85805925
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"84a82b7ada1a97229cffcbd1f2076dab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081783,
-            "locality_id":-1,
+            "localadmin_id":404522871,
+            "locality_id":85978583,
             "neighbourhood_id":85805925,
             "region_id":85688543,
             "venue_id":387132631
         }
     ],
     "wof:id":387132631,
-    "wof:lastmodified":1449057960,
+    "wof:lastmodified":1454129859,
     "wof:name":"Pulaski Sewage Treatment Plant",
     "wof:parent_id":85805925,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "village"
     ]
 },
-  "bbox": [-76.1381,43.568238,-76.1381,43.568238],
-  "geometry": {"coordinates":[-76.1381,43.568238],"type":"Point"}
+  "bbox": [
+    -76.1381,
+    43.568238,
+    -76.1381,
+    43.568238
+],
+  "geometry": {"coordinates":[-76.13809999999999,43.568238],"type":"Point"}
 }

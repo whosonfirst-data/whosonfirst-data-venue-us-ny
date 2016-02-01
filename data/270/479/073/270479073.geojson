@@ -2,13 +2,14 @@
   "id": 270479073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.022246,42.110619,-76.022246,42.110619",
     "geom:latitude":42.110619,
     "geom:longitude":-76.022246,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3204 Watson Blvd",
     "sg:city":"Endwell",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528071,
+        102191575,
+        404521829,
         85633793,
         85979375,
-        102081755
+        102081755,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"8f4a2fc2cc7f4fce927a33469387d917",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
+            "localadmin_id":404521829,
             "locality_id":85979375,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528071,
             "region_id":85688543,
             "venue_id":270479073
         }
     ],
     "wof:id":270479073,
-    "wof:lastmodified":1449010341,
+    "wof:lastmodified":1454124620,
     "wof:name":"TLC Landscaping",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528071,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.022246,42.110619,-76.022246,42.110619],
+  "bbox": [
+    -76.022246,
+    42.110619,
+    -76.022246,
+    42.110619
+],
   "geometry": {"coordinates":[-76.022246,42.110619],"type":"Point"}
 }

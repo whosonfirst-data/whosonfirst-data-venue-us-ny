@@ -2,13 +2,14 @@
   "id": 185864123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.951202,40.724201,-73.951202,40.724201",
     "geom:latitude":40.724201,
     "geom:longitude":-73.951202,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"649 Manhattan Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.salamandershoes.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823059,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85823059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"b50ba6a2daa7f1ea582eaec66b911816",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85823059,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":185864123,
-    "wof:lastmodified":1449008230,
+    "wof:lastmodified":1454124356,
     "wof:name":"Salamander Shoes",
     "wof:parent_id":85823059,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.951202,40.724201,-73.951202,40.724201],
-  "geometry": {"coordinates":[-73.951202,40.724201],"type":"Point"}
+  "bbox": [
+    -73.951202,
+    40.724201,
+    -73.951202,
+    40.724201
+],
+  "geometry": {"coordinates":[-73.95120199999999,40.724201],"type":"Point"}
 }

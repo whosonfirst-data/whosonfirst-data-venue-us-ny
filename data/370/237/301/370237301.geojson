@@ -2,13 +2,14 @@
   "id": 370237301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.866037,41.172613,-73.866037,41.172613",
     "geom:latitude":41.172613,
     "geom:longitude":-73.866037,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"191 N Highland Ave",
     "sg:city":"Ossining",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832435,
+        102191575,
+        404523379,
         85633793,
-        85978745,
+        85978717,
         102082373,
-        85832435
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"1de18cbf23050cb6d4dad31ba670a0fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978745,
+            "localadmin_id":404523379,
+            "locality_id":85978717,
             "neighbourhood_id":85832435,
             "region_id":85688543,
             "venue_id":370237301
         }
     ],
     "wof:id":370237301,
-    "wof:lastmodified":1449029147,
+    "wof:lastmodified":1454127333,
     "wof:name":"Highland Diner",
     "wof:parent_id":85832435,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "diner"
     ]
 },
-  "bbox": [-73.866037,41.172613,-73.866037,41.172613],
-  "geometry": {"coordinates":[-73.866037,41.172613],"type":"Point"}
+  "bbox": [
+    -73.866037,
+    41.172613,
+    -73.866037,
+    41.172613
+],
+  "geometry": {"coordinates":[-73.86603700000001,41.172613],"type":"Point"}
 }

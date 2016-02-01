@@ -2,13 +2,14 @@
   "id": 303322765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.818871,40.831629,-72.818871,40.831629",
     "geom:latitude":40.831629,
     "geom:longitude":-72.818871,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Pondway",
     "sg:city":"Manorville",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530021,
+        102191575,
+        404521441,
         85633793,
         85979761,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"9197bdcf1a1602708ef8f2ed8d548672",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530021,
             "region_id":85688543,
             "venue_id":303322765
         }
     ],
     "wof:id":303322765,
-    "wof:lastmodified":1448998090,
+    "wof:lastmodified":1454122977,
     "wof:name":"Vincent Aiello",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530021,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-72.818871,40.831629,-72.818871,40.831629],
+  "bbox": [
+    -72.818871,
+    40.831629,
+    -72.818871,
+    40.831629
+],
   "geometry": {"coordinates":[-72.818871,40.831629],"type":"Point"}
 }

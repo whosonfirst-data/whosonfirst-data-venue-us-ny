@@ -2,13 +2,14 @@
   "id": 387116725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.901206,40.891486,-72.901206,40.891486",
     "geom:latitude":40.891486,
     "geom:longitude":-72.901206,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1814 Middle Country Rd",
     "sg:city":"Ridge",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979861,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"cb8c10ba506344653cbd1b996fe105b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979861,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":387116725
         }
     ],
     "wof:id":387116725,
-    "wof:lastmodified":1449056658,
+    "wof:lastmodified":1454129626,
     "wof:name":"Beckman Kenneth H Ls",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "land"
     ]
 },
-  "bbox": [-72.901206,40.891486,-72.901206,40.891486],
+  "bbox": [
+    -72.901206,
+    40.891486,
+    -72.901206,
+    40.891486
+],
   "geometry": {"coordinates":[-72.901206,40.891486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253205183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.73794,40.999921,-73.73794,40.999921",
     "geom:latitude":40.999921,
     "geom:longitude":-73.73794,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9 Audrey Ln",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845959,
+        102191575,
+        404523395,
         85633793,
-        85978735,
+        85978761,
         102082373,
-        85845959
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"b330cdbd3a0d71e10a685a1fc0b120fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978735,
+            "localadmin_id":404523395,
+            "locality_id":85978761,
             "neighbourhood_id":85845959,
             "region_id":85688543,
             "venue_id":253205183
         }
     ],
     "wof:id":253205183,
-    "wof:lastmodified":1449064594,
+    "wof:lastmodified":1454130542,
     "wof:name":"Carcinoid Cancer Foundation",
     "wof:parent_id":85845959,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "philanthropic"
     ]
 },
-  "bbox": [-73.73794,40.999921,-73.73794,40.999921],
-  "geometry": {"coordinates":[-73.73794,40.999921],"type":"Point"}
+  "bbox": [
+    -73.73794,
+    40.999921,
+    -73.73794,
+    40.999921
+],
+  "geometry": {"coordinates":[-73.73793999999999,40.999921],"type":"Point"}
 }

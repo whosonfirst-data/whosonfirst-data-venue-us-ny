@@ -2,13 +2,14 @@
   "id": 286821787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.977835,40.611651,-73.977835,40.611651",
     "geom:latitude":40.611651,
     "geom:longitude":-73.977835,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2360 65th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805771,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85805771
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"9e8af0af242a2f07c8b4d49b499c485d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85805771,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":286821787,
-    "wof:lastmodified":1449016781,
+    "wof:lastmodified":1454125681,
     "wof:name":"Kap Medical Inc",
     "wof:parent_id":85805771,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "clinic"
     ]
 },
-  "bbox": [-73.977835,40.611651,-73.977835,40.611651],
+  "bbox": [
+    -73.977835,
+    40.611651,
+    -73.977835,
+    40.611651
+],
   "geometry": {"coordinates":[-73.977835,40.611651],"type":"Point"}
 }

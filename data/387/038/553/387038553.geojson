@@ -2,13 +2,14 @@
   "id": 387038553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.244308,42.096769,-79.244308,42.096769",
     "geom:latitude":42.096769,
     "geom:longitude":-79.244308,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"207 W 4th St Ste 1",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"http://www.ebz.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817873,
+        102191575,
+        404521959,
         85633793,
+        85980155,
         102081811,
-        85817873
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"18224f5aea8c940aec97dad67111f930",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081811,
-            "locality_id":-1,
+            "localadmin_id":404521959,
+            "locality_id":85980155,
             "neighbourhood_id":85817873,
             "region_id":85688543,
             "venue_id":387038553
         }
     ],
     "wof:id":387038553,
-    "wof:lastmodified":1449058543,
+    "wof:lastmodified":1454129968,
     "wof:name":"Jim's Dry Cleaners",
     "wof:parent_id":85817873,
     "wof:placetype":"venue",
@@ -61,6 +66,11 @@
         "cleaner"
     ]
 },
-  "bbox": [-79.244308,42.096769,-79.244308,42.096769],
+  "bbox": [
+    -79.244308,
+    42.096769,
+    -79.244308,
+    42.096769
+],
   "geometry": {"coordinates":[-79.244308,42.096769],"type":"Point"}
 }

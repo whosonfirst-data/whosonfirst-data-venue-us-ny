@@ -2,13 +2,14 @@
   "id": 387816923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.922919,40.864509,-73.922919,40.864509",
     "geom:latitude":40.864509,
     "geom:longitude":-73.922919,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"175 Sherman Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826989,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85826989
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ea27eacf42ea748793d8f99fe29a5c64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85826989,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387816923,
-    "wof:lastmodified":1449058321,
+    "wof:lastmodified":1454129927,
     "wof:name":"Desire Salon Unisex",
     "wof:parent_id":85826989,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.922919,40.864509,-73.922919,40.864509],
-  "geometry": {"coordinates":[-73.922919,40.864509],"type":"Point"}
+  "bbox": [
+    -73.922919,
+    40.864509,
+    -73.922919,
+    40.864509
+],
+  "geometry": {"coordinates":[-73.92291899999999,40.864509],"type":"Point"}
 }

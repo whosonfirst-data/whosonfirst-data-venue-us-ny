@@ -2,13 +2,14 @@
   "id": 253291189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.143608,43.054567,-76.143608,43.054567",
     "geom:latitude":43.054567,
     "geom:longitude":-76.143608,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"650 James St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881255,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881255
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"32c2ae885edb10af973bd3db13646e23",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881255,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":253291189,
-    "wof:lastmodified":1449063729,
+    "wof:lastmodified":1454130397,
     "wof:name":"Person To Person Citizen Advcy",
     "wof:parent_id":85881255,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "institution"
     ]
 },
-  "bbox": [-76.143608,43.054567,-76.143608,43.054567],
+  "bbox": [
+    -76.143608,
+    43.054567,
+    -76.143608,
+    43.054567
+],
   "geometry": {"coordinates":[-76.143608,43.054567],"type":"Point"}
 }

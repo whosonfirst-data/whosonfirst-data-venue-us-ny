@@ -2,13 +2,14 @@
   "id": 286688733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.7434,40.978396,-73.7434,40.978396",
     "geom:latitude":40.978396,
     "geom:longitude":-73.7434,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"600 Mamaroneck Ave",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892893,
+        102191575,
+        404523361,
         85633793,
         85978735,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"d619f83e70bba5a7efaafef2a44a7024",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523361,
             "locality_id":85978735,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892893,
             "region_id":85688543,
             "venue_id":286688733
         }
     ],
     "wof:id":286688733,
-    "wof:lastmodified":1449016278,
+    "wof:lastmodified":1454125591,
     "wof:name":"Network Crazy Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892893,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "related"
     ]
 },
-  "bbox": [-73.7434,40.978396,-73.7434,40.978396],
-  "geometry": {"coordinates":[-73.7434,40.978396],"type":"Point"}
+  "bbox": [
+    -73.7434,
+    40.978396,
+    -73.7434,
+    40.978396
+],
+  "geometry": {"coordinates":[-73.74339999999999,40.978396],"type":"Point"}
 }

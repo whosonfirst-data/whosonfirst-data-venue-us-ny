@@ -2,13 +2,14 @@
   "id": 320640443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.400196,41.719316,-74.400196,41.719316",
     "geom:latitude":41.719316,
     "geom:longitude":-74.400196,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Center St",
     "sg:city":"Ellenville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816913,
+        102191575,
+        404523275,
         85633793,
-        85978959,
+        85977503,
         102081775,
-        85816913
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"bb98bc44f478c905e195e8a5f49c86d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
-            "locality_id":85978959,
+            "localadmin_id":404523275,
+            "locality_id":85977503,
             "neighbourhood_id":85816913,
             "region_id":85688543,
             "venue_id":320640443
         }
     ],
     "wof:id":320640443,
-    "wof:lastmodified":1449012876,
+    "wof:lastmodified":1454125025,
     "wof:name":"Wawarsing Lodge",
     "wof:parent_id":85816913,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "fraternal"
     ]
 },
-  "bbox": [-74.400196,41.719316,-74.400196,41.719316],
-  "geometry": {"coordinates":[-74.400196,41.719316],"type":"Point"}
+  "bbox": [
+    -74.400196,
+    41.719316,
+    -74.400196,
+    41.719316
+],
+  "geometry": {"coordinates":[-74.40019599999999,41.719316],"type":"Point"}
 }

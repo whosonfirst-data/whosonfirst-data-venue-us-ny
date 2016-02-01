@@ -2,13 +2,14 @@
   "id": 303268265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.451613,40.785355,-73.451613,40.785355",
     "geom:latitude":40.785355,
     "geom:longitude":-73.451613,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12 W Mall",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"1240c26c05324bf24d26645610756c50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":303268265
         }
     ],
     "wof:id":303268265,
-    "wof:lastmodified":1448999514,
+    "wof:lastmodified":1454123433,
     "wof:name":"Court Street Business Prod",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-73.451613,40.785355,-73.451613,40.785355],
-  "geometry": {"coordinates":[-73.451613,40.785355],"type":"Point"}
+  "bbox": [
+    -73.451613,
+    40.785355,
+    -73.451613,
+    40.785355
+],
+  "geometry": {"coordinates":[-73.45161299999999,40.785355],"type":"Point"}
 }

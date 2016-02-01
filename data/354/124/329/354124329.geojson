@@ -2,13 +2,14 @@
   "id": 354124329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.716225,40.845484,-73.716225,40.845484",
     "geom:latitude":40.845484,
     "geom:longitude":-73.716225,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"51 Hickory Rd",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832155,
+        102191575,
+        404522729,
         85633793,
+        85977599,
         102082371,
-        85832155
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"e6f4584ca3c5801b3e4d9cc50f41fde6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":-1,
+            "localadmin_id":404522729,
+            "locality_id":85977599,
             "neighbourhood_id":85832155,
             "region_id":85688543,
             "venue_id":354124329
         }
     ],
     "wof:id":354124329,
-    "wof:lastmodified":1449067542,
+    "wof:lastmodified":1454131268,
     "wof:name":"Popular Painting",
     "wof:parent_id":85832155,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.716225,40.845484,-73.716225,40.845484],
-  "geometry": {"coordinates":[-73.716225,40.845484],"type":"Point"}
+  "bbox": [
+    -73.716225,
+    40.845484,
+    -73.716225,
+    40.845484
+],
+  "geometry": {"coordinates":[-73.71622499999999,40.845484],"type":"Point"}
 }

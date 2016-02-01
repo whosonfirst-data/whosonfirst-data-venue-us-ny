@@ -2,13 +2,14 @@
   "id": 354039403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.593556,41.592588,-74.593556,41.592588",
     "geom:latitude":41.592588,
     "geom:longitude":-74.593556,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"686 Wolf Lake Rd",
     "sg:city":"Rock Hill",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420530071,
+        102191575,
+        404523203,
         85633793,
+        85978985,
+        102082407,
         85688543
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"3a9328aab82c4a52a2d7e4c0b5bd0c43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082407,
+            "localadmin_id":404523203,
+            "locality_id":85978985,
+            "neighbourhood_id":420530071,
             "region_id":85688543,
             "venue_id":354039403
         }
     ],
     "wof:id":354039403,
-    "wof:lastmodified":1449067454,
+    "wof:lastmodified":1454131238,
     "wof:name":"Billy Stop",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530071,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.593556,41.592588,-74.593556,41.592588],
-  "geometry": {"coordinates":[-74.593556,41.592588],"type":"Point"}
+  "bbox": [
+    -74.593556,
+    41.592588,
+    -74.593556,
+    41.592588
+],
+  "geometry": {"coordinates":[-74.59355600000001,41.592588],"type":"Point"}
 }

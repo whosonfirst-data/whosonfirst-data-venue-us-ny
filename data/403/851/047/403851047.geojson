@@ -2,13 +2,14 @@
   "id": 403851047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.891198,40.854424,-73.891198,40.854424",
     "geom:latitude":40.854424,
     "geom:longitude":-73.891198,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"541 E 183rd St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865533,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865533
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"2c17746019f6732581a07a8bb34b92a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865533,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403851047,
-    "wof:lastmodified":1449055492,
+    "wof:lastmodified":1454129446,
     "wof:name":"Tony's Playland & Billard",
     "wof:parent_id":85865533,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.891198,40.854424,-73.891198,40.854424],
+  "bbox": [
+    -73.891198,
+    40.854424,
+    -73.891198,
+    40.854424
+],
   "geometry": {"coordinates":[-73.891198,40.854424],"type":"Point"}
 }

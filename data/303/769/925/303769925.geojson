@@ -2,13 +2,14 @@
   "id": 303769925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.902765,40.883708,-73.902765,40.883708",
     "geom:latitude":40.883708,
     "geom:longitude":-73.902765,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3425 Kingsbridge Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85828377,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85828377
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"2cc31c64b03c15544b807b67b400f6f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85828377,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303769925,
-    "wof:lastmodified":1448998926,
+    "wof:lastmodified":1454123271,
     "wof:name":"New York Fitness Studio",
     "wof:parent_id":85828377,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "facility"
     ]
 },
-  "bbox": [-73.902765,40.883708,-73.902765,40.883708],
+  "bbox": [
+    -73.902765,
+    40.883708,
+    -73.902765,
+    40.883708
+],
   "geometry": {"coordinates":[-73.902765,40.883708],"type":"Point"}
 }

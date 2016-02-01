@@ -2,13 +2,14 @@
   "id": 337555433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.829874,40.851553,-73.829874,40.851553",
     "geom:latitude":40.851553,
     "geom:longitude":-73.829874,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2936 Wilkinson Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865663,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865663
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"c378560339f0b86018b307bb751a35a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865663,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":337555433,
-    "wof:lastmodified":1449027627,
+    "wof:lastmodified":1454127140,
     "wof:name":"Continental Grooming Salon",
     "wof:parent_id":85865663,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.829874,40.851553,-73.829874,40.851553],
+  "bbox": [
+    -73.829874,
+    40.851553,
+    -73.829874,
+    40.851553
+],
   "geometry": {"coordinates":[-73.829874,40.851553],"type":"Point"}
 }

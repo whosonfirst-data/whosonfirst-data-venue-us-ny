@@ -2,13 +2,14 @@
   "id": 252764247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.246115,40.736011,-73.246115,40.736011",
     "geom:latitude":40.736011,
     "geom:longitude":-73.246115,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2046 Sunrise Hwy",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.petlanddiscounts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530027,
+        102191575,
+        404522517,
         85633793,
         85979719,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"ed5b01d6c2e20c1e843eae9fc51d003d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530027,
             "region_id":85688543,
             "venue_id":252764247
         }
     ],
     "wof:id":252764247,
-    "wof:lastmodified":1449006448,
+    "wof:lastmodified":1454124125,
     "wof:name":"Petland Discounts",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530027,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.246115,40.736011,-73.246115,40.736011],
+  "bbox": [
+    -73.246115,
+    40.736011,
+    -73.246115,
+    40.736011
+],
   "geometry": {"coordinates":[-73.246115,40.736011],"type":"Point"}
 }

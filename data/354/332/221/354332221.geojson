@@ -2,13 +2,14 @@
   "id": 354332221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.687525,40.963915,-73.687525,40.963915",
     "geom:latitude":40.963915,
     "geom:longitude":-73.687525,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"501 Milton Rd",
     "sg:city":"Rye",
     "sg:classifiers":[
@@ -31,9 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688543,
+        102191575,
         85633793,
         85978703,
-        102082373
+        102082373,
+        420530425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,19 @@
     "wof:geomhash":"a8f2af5d1f0feaa3698eacb68ea8f070",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
             "locality_id":85978703,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530425,
             "region_id":85688543,
             "venue_id":354332221
         }
     ],
     "wof:id":354332221,
-    "wof:lastmodified":1449066894,
+    "wof:lastmodified":1454131064,
     "wof:name":"Karen Mulhern Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530425,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +69,11 @@
         "decorator"
     ]
 },
-  "bbox": [-73.687525,40.963915,-73.687525,40.963915],
-  "geometry": {"coordinates":[-73.687525,40.963915],"type":"Point"}
+  "bbox": [
+    -73.687525,
+    40.963915,
+    -73.687525,
+    40.963915
+],
+  "geometry": {"coordinates":[-73.68752499999999,40.963915],"type":"Point"}
 }

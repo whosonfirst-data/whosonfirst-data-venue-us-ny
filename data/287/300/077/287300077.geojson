@@ -2,13 +2,14 @@
   "id": 287300077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.108811,40.586736,-74.108811,40.586736",
     "geom:latitude":40.586736,
     "geom:longitude":-74.108811,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"63 Copperleaf Ter",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529767,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"cf5f75830012461535e5678c072f1127",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529767,
             "region_id":85688543,
             "venue_id":287300077
         }
     ],
     "wof:id":287300077,
-    "wof:lastmodified":1449001171,
+    "wof:lastmodified":1454123874,
     "wof:name":"Island Delivery Systems Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529767,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-74.108811,40.586736,-74.108811,40.586736],
+  "bbox": [
+    -74.108811,
+    40.586736,
+    -74.108811,
+    40.586736
+],
   "geometry": {"coordinates":[-74.108811,40.586736],"type":"Point"}
 }

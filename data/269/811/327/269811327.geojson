@@ -2,13 +2,14 @@
   "id": 269811327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.999223,40.717379,-73.999223,40.717379",
     "geom:latitude":40.717379,
     "geom:longitude":-73.999223,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"210 Canal St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810885,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810885
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"a675e10d2d2e23f2a0b841a645c6f981",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810885,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":269811327,
-    "wof:lastmodified":1449037297,
+    "wof:lastmodified":1454128634,
     "wof:name":"Thomas Chang MD",
     "wof:parent_id":85810885,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.999223,40.717379,-73.999223,40.717379],
+  "bbox": [
+    -73.999223,
+    40.717379,
+    -73.999223,
+    40.717379
+],
   "geometry": {"coordinates":[-73.999223,40.717379],"type":"Point"}
 }

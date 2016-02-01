@@ -2,13 +2,14 @@
   "id": 370156745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.036003,40.881302,-73.036003,40.881302",
     "geom:latitude":40.881302,
     "geom:longitude":-73.036003,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"425 Hawkins Rd",
     "sg:city":"Selden",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"670147b6493e7349c9bfa81bd127d221",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":370156745
         }
     ],
     "wof:id":370156745,
-    "wof:lastmodified":1449029762,
+    "wof:lastmodified":1454127513,
     "wof:name":"Grace Presbyterian Church",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "day"
     ]
 },
-  "bbox": [-73.036003,40.881302,-73.036003,40.881302],
-  "geometry": {"coordinates":[-73.036003,40.881302],"type":"Point"}
+  "bbox": [
+    -73.036003,
+    40.881302,
+    -73.036003,
+    40.881302
+],
+  "geometry": {"coordinates":[-73.03600299999999,40.881302],"type":"Point"}
 }

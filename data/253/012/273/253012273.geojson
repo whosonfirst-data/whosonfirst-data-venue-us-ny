@@ -2,13 +2,14 @@
   "id": 253012273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.64454,40.809344,-72.64454,40.809344",
     "geom:latitude":40.809344,
     "geom:longitude":-72.64454,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"90 Main St",
     "sg:city":"Westhampton Bch",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823763,
+        102191575,
+        404522671,
         85633793,
         85978455,
         102082395,
-        85823763
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"107aa363c2146b8e7ef3ee8822d05bf9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522671,
             "locality_id":85978455,
             "neighbourhood_id":85823763,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":253012273,
-    "wof:lastmodified":1449065487,
+    "wof:lastmodified":1454130692,
     "wof:name":"Botticelli Prints",
     "wof:parent_id":85823763,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "photographer"
     ]
 },
-  "bbox": [-72.64454,40.809344,-72.64454,40.809344],
-  "geometry": {"coordinates":[-72.64454,40.809344],"type":"Point"}
+  "bbox": [
+    -72.64454,
+    40.809344,
+    -72.64454,
+    40.809344
+],
+  "geometry": {"coordinates":[-72.64454000000001,40.809344],"type":"Point"}
 }

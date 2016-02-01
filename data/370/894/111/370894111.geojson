@@ -2,13 +2,14 @@
   "id": 370894111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.034203,42.10424,-76.034203,42.10424",
     "geom:latitude":42.10424,
     "geom:longitude":-76.034203,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2500 E Main St",
     "sg:city":"Endicott",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.riverhurst.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892835,
+        102191575,
+        404521829,
         85633793,
-        85977985,
+        85979375,
         102081755,
-        85892835
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"7a375a347bde954da292f4104f941033",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
-            "locality_id":85977985,
+            "localadmin_id":404521829,
+            "locality_id":85979375,
             "neighbourhood_id":85892835,
             "region_id":85688543,
             "venue_id":370894111
         }
     ],
     "wof:id":370894111,
-    "wof:lastmodified":1449030484,
+    "wof:lastmodified":1454127725,
     "wof:name":"Riverhurst Cemetery",
     "wof:parent_id":85892835,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "cemetery"
     ]
 },
-  "bbox": [-76.034203,42.10424,-76.034203,42.10424],
-  "geometry": {"coordinates":[-76.034203,42.10424],"type":"Point"}
+  "bbox": [
+    -76.034203,
+    42.10424,
+    -76.034203,
+    42.10424
+],
+  "geometry": {"coordinates":[-76.03420300000001,42.10424],"type":"Point"}
 }

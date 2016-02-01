@@ -2,13 +2,14 @@
   "id": 303561231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.170802,40.874697,-73.170802,40.874697",
     "geom:latitude":40.874697,
     "geom:longitude":-73.170802,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 Rte 25A",
     "sg:city":"Saint James",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893017,
+        102191575,
+        404522669,
         85633793,
-        85979773,
+        85979839,
         102082395,
-        85893017
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"8b156e0da3075a031879a1ab9fa6cb25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522669,
+            "locality_id":85979839,
             "neighbourhood_id":85893017,
             "region_id":85688543,
             "venue_id":303561231
         }
     ],
     "wof:id":303561231,
-    "wof:lastmodified":1448999851,
+    "wof:lastmodified":1454123528,
     "wof:name":"Four Seasons Cesspool Service",
     "wof:parent_id":85893017,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "installation"
     ]
 },
-  "bbox": [-73.170802,40.874697,-73.170802,40.874697],
-  "geometry": {"coordinates":[-73.170802,40.874697],"type":"Point"}
+  "bbox": [
+    -73.170802,
+    40.874697,
+    -73.170802,
+    40.874697
+],
+  "geometry": {"coordinates":[-73.17080199999999,40.874697],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320050907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.79249,42.90729,-78.79249,42.90729",
     "geom:latitude":42.90729,
     "geom:longitude":-78.79249,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1168 Walden Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528623,
+        102191575,
+        404522333,
         85633793,
         85979431,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"d1029309df3a86f9d8a342467aab1f49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522333,
             "locality_id":85979431,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528623,
             "region_id":85688543,
             "venue_id":320050907
         }
     ],
     "wof:id":320050907,
-    "wof:lastmodified":1449013321,
+    "wof:lastmodified":1454125100,
     "wof:name":"Matthew C Okoniewski Home Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528623,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "director"
     ]
 },
-  "bbox": [-78.79249,42.90729,-78.79249,42.90729],
+  "bbox": [
+    -78.79249,
+    42.90729,
+    -78.79249,
+    42.90729
+],
   "geometry": {"coordinates":[-78.79249,42.90729],"type":"Point"}
 }

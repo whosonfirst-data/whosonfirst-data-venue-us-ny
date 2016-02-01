@@ -2,13 +2,14 @@
   "id": 354082987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.0398,41.443588,-74.0398,41.443588",
     "geom:latitude":41.443588,
     "geom:longitude":-74.0398,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2565 US Hwy 9w",
     "sg:city":"Cornwall",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"www.ocroc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819353,
+        102191575,
+        404522801,
         85633793,
         85979533,
         102083061,
-        85819353
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"91e0446bb4aa0cce735822cf949a5e10",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
+            "localadmin_id":404522801,
             "locality_id":85979533,
             "neighbourhood_id":85819353,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":354082987,
-    "wof:lastmodified":1449065984,
+    "wof:lastmodified":1454130785,
     "wof:name":"Orange Cnty Radiation Oncology",
     "wof:parent_id":85819353,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "physician"
     ]
 },
-  "bbox": [-74.0398,41.443588,-74.0398,41.443588],
+  "bbox": [
+    -74.0398,
+    41.443588,
+    -74.0398,
+    41.443588
+],
   "geometry": {"coordinates":[-74.0398,41.443588],"type":"Point"}
 }

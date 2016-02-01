@@ -2,13 +2,14 @@
   "id": 353571215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.852666,40.666597,-73.852666,40.666597",
     "geom:latitude":40.666597,
     "geom:longitude":-73.852666,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15130 82nd ST",
     "sg:city":"Queens",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     "sg:website":"www.howardplumbingheatingandcool...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420560117,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"c9ca3480cd19e8a2a40e35ca2cc780dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420560117,
             "region_id":85688543,
             "venue_id":353571215
         }
     ],
     "wof:id":353571215,
-    "wof:lastmodified":1449019984,
+    "wof:lastmodified":1454126450,
     "wof:name":"Howard Plumbing Heating and Cooling",
-    "wof:parent_id":-1,
+    "wof:parent_id":420560117,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +75,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-73.852666,40.666597,-73.852666,40.666597],
+  "bbox": [
+    -73.852666,
+    40.666597,
+    -73.852666,
+    40.666597
+],
   "geometry": {"coordinates":[-73.852666,40.666597],"type":"Point"}
 }

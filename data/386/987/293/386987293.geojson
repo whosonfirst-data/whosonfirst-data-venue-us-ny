@@ -2,13 +2,14 @@
   "id": 386987293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.659418,43.169913,-77.659418,43.169913",
     "geom:latitude":43.169913,
     "geom:longitude":-77.659418,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1005 Mount Read Blvd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -47,11 +48,13 @@
     "sg:website":"http://www.distechsystems.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868839,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85868839
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,9 +64,10 @@
     "wof:geomhash":"bb4d626708d65c7df5205f8d189d65e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85868839,
             "region_id":85688543,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":386987293,
-    "wof:lastmodified":1449028791,
+    "wof:lastmodified":1454127233,
     "wof:name":"Distech Systems, Inc.",
     "wof:parent_id":85868839,
     "wof:placetype":"venue",
@@ -90,6 +94,11 @@
         "supplies-wholesale"
     ]
 },
-  "bbox": [-77.659418,43.169913,-77.659418,43.169913],
+  "bbox": [
+    -77.659418,
+    43.169913,
+    -77.659418,
+    43.169913
+],
   "geometry": {"coordinates":[-77.659418,43.169913],"type":"Point"}
 }

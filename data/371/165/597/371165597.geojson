@@ -2,13 +2,14 @@
   "id": 371165597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.96489,40.760827,-73.96489,40.760827",
     "geom:latitude":40.760827,
     "geom:longitude":-73.96489,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"230 E 59 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869487,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85869487
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"dc10e049538a2000e2a5488f6041da9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869487,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":371165597,
-    "wof:lastmodified":1449050146,
+    "wof:lastmodified":1454129296,
     "wof:name":"Atelier Salvatore Sicuro",
     "wof:parent_id":85869487,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.96489,40.760827,-73.96489,40.760827],
+  "bbox": [
+    -73.96489,
+    40.760827,
+    -73.96489,
+    40.760827
+],
   "geometry": {"coordinates":[-73.96489,40.760827],"type":"Point"}
 }

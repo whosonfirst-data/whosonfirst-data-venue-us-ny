@@ -2,13 +2,14 @@
   "id": 354351559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.996774,40.842793,-72.996774,40.842793",
     "geom:latitude":40.842793,
     "geom:longitude":-72.996774,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3316 Route 112",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -46,11 +47,13 @@
     "sg:website":"http://www.coramglassinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,17 +63,18 @@
     "wof:geomhash":"f463f29a8b7786fb646ba1126966d650",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354351559
         }
     ],
     "wof:id":354351559,
-    "wof:lastmodified":1449067395,
+    "wof:lastmodified":1454131222,
     "wof:name":"Coram Glass & Mirror",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -88,6 +92,11 @@
         "replacement"
     ]
 },
-  "bbox": [-72.996774,40.842793,-72.996774,40.842793],
+  "bbox": [
+    -72.996774,
+    40.842793,
+    -72.996774,
+    40.842793
+],
   "geometry": {"coordinates":[-72.996774,40.842793],"type":"Point"}
 }

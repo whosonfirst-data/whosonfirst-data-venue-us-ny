@@ -2,13 +2,14 @@
   "id": 386984445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.976902,40.67512,-73.976902,40.67512",
     "geom:latitude":40.67512,
     "geom:longitude":-73.976902,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"794 Union St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840609,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85840609
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"04490e237172ba5e98f24f9e21c39eec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85840609,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":386984445,
-    "wof:lastmodified":1449028800,
+    "wof:lastmodified":1454127235,
     "wof:name":"Medical Occupational Hlth Svcs",
     "wof:parent_id":85840609,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "internal"
     ]
 },
-  "bbox": [-73.976902,40.67512,-73.976902,40.67512],
+  "bbox": [
+    -73.976902,
+    40.67512,
+    -73.976902,
+    40.67512
+],
   "geometry": {"coordinates":[-73.976902,40.67512],"type":"Point"}
 }

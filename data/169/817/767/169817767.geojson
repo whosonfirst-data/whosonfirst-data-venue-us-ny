@@ -2,13 +2,14 @@
   "id": 169817767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.964618,40.710096,-73.964618,40.710096",
     "geom:latitude":40.710096,
     "geom:longitude":-73.964618,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Broadway Ste 201",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865603,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865603
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"cc9c31a9b8abaaef5b4cb712e46585a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865603,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":169817767,
-    "wof:lastmodified":1449035313,
+    "wof:lastmodified":1454128431,
     "wof:name":"Alexander Rabinovich, MD",
     "wof:parent_id":85865603,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "cosmetic"
     ]
 },
-  "bbox": [-73.964618,40.710096,-73.964618,40.710096],
+  "bbox": [
+    -73.964618,
+    40.710096,
+    -73.964618,
+    40.710096
+],
   "geometry": {"coordinates":[-73.964618,40.710096],"type":"Point"}
 }

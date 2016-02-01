@@ -2,13 +2,14 @@
   "id": 169849975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.956617,40.702576,-73.956617,40.702576",
     "geom:latitude":40.702576,
     "geom:longitude":-73.956617,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"172 1/2 Lee Avenue",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892973,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85892973
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"350416483c8229ac0f55e1e38d6ba8c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892973,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":169849975,
-    "wof:lastmodified":1449033300,
+    "wof:lastmodified":1454128373,
     "wof:name":"New Castles Travel",
     "wof:parent_id":85892973,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.956617,40.702576,-73.956617,40.702576],
-  "geometry": {"coordinates":[-73.956617,40.702576],"type":"Point"}
+  "bbox": [
+    -73.956617,
+    40.702576,
+    -73.956617,
+    40.702576
+],
+  "geometry": {"coordinates":[-73.95661699999999,40.702576],"type":"Point"}
 }

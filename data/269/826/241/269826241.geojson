@@ -2,13 +2,14 @@
   "id": 269826241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.534835,40.695118,-73.534835,40.695118",
     "geom:latitude":40.695118,
     "geom:longitude":-73.534835,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1100 Huckleberry Rd",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"a2cc475f24c204497e42e9088a261de9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":269826241
         }
     ],
     "wof:id":269826241,
-    "wof:lastmodified":1449037966,
+    "wof:lastmodified":1454128720,
     "wof:name":"Larry Goldsmith Gc",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-73.534835,40.695118,-73.534835,40.695118],
+  "bbox": [
+    -73.534835,
+    40.695118,
+    -73.534835,
+    40.695118
+],
   "geometry": {"coordinates":[-73.534835,40.695118],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353422365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.34067,40.773783,-73.34067,40.773783",
     "geom:latitude":40.773783,
     "geom:longitude":-73.34067,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"39 Arcadia Dr",
     "sg:city":"Huntington Station",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85823533,
+        102191575,
+        404522515,
         85633793,
+        85979779,
+        102082395,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"656651c55ea82dd635e0a500d345a77f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082395,
+            "localadmin_id":404522515,
+            "locality_id":85979779,
+            "neighbourhood_id":85823533,
             "region_id":85688543,
             "venue_id":353422365
         }
     ],
     "wof:id":353422365,
-    "wof:lastmodified":1449018434,
+    "wof:lastmodified":1454126000,
     "wof:name":"Brylin Contracting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85823533,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-73.34067,40.773783,-73.34067,40.773783],
+  "bbox": [
+    -73.34067,
+    40.773783,
+    -73.34067,
+    40.773783
+],
   "geometry": {"coordinates":[-73.34067,40.773783],"type":"Point"}
 }

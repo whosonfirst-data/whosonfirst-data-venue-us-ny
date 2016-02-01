@@ -2,13 +2,14 @@
   "id": 185913267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.981305,40.60308,-73.981305,40.60308",
     "geom:latitude":40.60308,
     "geom:longitude":-73.981305,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"130 Highlawn Avenue",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.olaton.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85822643,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85822643
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"aea2431df43d21703f4275fe5490fe47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85822643,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":185913267,
-    "wof:lastmodified":1449007237,
+    "wof:lastmodified":1454124225,
     "wof:name":"Olaton",
     "wof:parent_id":85822643,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "store"
     ]
 },
-  "bbox": [-73.981305,40.60308,-73.981305,40.60308],
-  "geometry": {"coordinates":[-73.981305,40.60308],"type":"Point"}
+  "bbox": [
+    -73.981305,
+    40.60308,
+    -73.981305,
+    40.60308
+],
+  "geometry": {"coordinates":[-73.98130500000001,40.60308],"type":"Point"}
 }

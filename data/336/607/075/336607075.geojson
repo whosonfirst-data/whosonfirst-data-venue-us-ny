@@ -2,13 +2,14 @@
   "id": 336607075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.69688,43.130831,-78.69688,43.130831",
     "geom:latitude":43.130831,
     "geom:longitude":-78.69688,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6064 S Transit Rd",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529193,
+        102191575,
+        404522737,
         85633793,
+        85979541,
+        102081767,
         85688543
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"10404c6f5e1f3ec312ae15a50a38b3dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081767,
+            "localadmin_id":404522737,
+            "locality_id":85979541,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":336607075
         }
     ],
     "wof:id":336607075,
-    "wof:lastmodified":1448997073,
+    "wof:lastmodified":1454122394,
     "wof:name":"Dasco Data Products Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.69688,43.130831,-78.69688,43.130831],
-  "geometry": {"coordinates":[-78.69688,43.130831],"type":"Point"}
+  "bbox": [
+    -78.69688,
+    43.130831,
+    -78.69688,
+    43.130831
+],
+  "geometry": {"coordinates":[-78.69687999999999,43.130831],"type":"Point"}
 }

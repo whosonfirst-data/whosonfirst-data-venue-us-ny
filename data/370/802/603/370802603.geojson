@@ -2,13 +2,14 @@
   "id": 370802603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.146461,43.093632,-76.146461,43.093632",
     "geom:latitude":43.093632,
     "geom:longitude":-76.146461,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Gale Pl Ste 1",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313871077&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825763,
+        102191575,
+        404522845,
         85633793,
         85979209,
         102082351,
-        85825763
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"df13de8f79d82138e52b9e23b461354b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522845,
             "locality_id":85979209,
             "neighbourhood_id":85825763,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":370802603,
-    "wof:lastmodified":1449031839,
+    "wof:lastmodified":1454128124,
     "wof:name":"Sprague's Auto Service",
     "wof:parent_id":85825763,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "truck"
     ]
 },
-  "bbox": [-76.146461,43.093632,-76.146461,43.093632],
+  "bbox": [
+    -76.146461,
+    43.093632,
+    -76.146461,
+    43.093632
+],
   "geometry": {"coordinates":[-76.146461,43.093632],"type":"Point"}
 }

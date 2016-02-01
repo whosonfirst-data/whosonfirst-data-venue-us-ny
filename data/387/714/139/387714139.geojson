@@ -2,13 +2,14 @@
   "id": 387714139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.619912,44.792791,-74.619912,44.792791",
     "geom:latitude":44.792791,
     "geom:longitude":-74.619912,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"118 US Hwy 11",
     "sg:city":"Moira",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85807123,
+        102082379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,17 @@
     "wof:geomhash":"37f993c5bf2b1aed819513e502d411f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082379,
+            "neighbourhood_id":85807123,
             "region_id":85688543,
             "venue_id":387714139
         }
     ],
     "wof:id":387714139,
-    "wof:lastmodified":1449057978,
+    "wof:lastmodified":1454129863,
     "wof:name":"Ronald Debeer",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807123,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +63,11 @@
         "cattle"
     ]
 },
-  "bbox": [-74.619912,44.792791,-74.619912,44.792791],
+  "bbox": [
+    -74.619912,
+    44.792791,
+    -74.619912,
+    44.792791
+],
   "geometry": {"coordinates":[-74.619912,44.792791],"type":"Point"}
 }

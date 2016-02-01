@@ -2,13 +2,14 @@
   "id": 404062381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.625039,40.871714,-73.625039,40.871714",
     "geom:latitude":40.871714,
     "geom:longitude":-73.625039,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"70 Forest Ave",
     "sg:city":"Glen Cove",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85977671,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"c377749297f8e2bbeb8c521a3876a397",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977671,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":404062381
         }
     ],
     "wof:id":404062381,
-    "wof:lastmodified":1449040254,
+    "wof:lastmodified":1454128960,
     "wof:name":"Tobacco Plaza Plus",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "dealer"
     ]
 },
-  "bbox": [-73.625039,40.871714,-73.625039,40.871714],
+  "bbox": [
+    -73.625039,
+    40.871714,
+    -73.625039,
+    40.871714
+],
   "geometry": {"coordinates":[-73.625039,40.871714],"type":"Point"}
 }

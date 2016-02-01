@@ -2,13 +2,14 @@
   "id": 403717929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.015152,40.768237,-73.015152,40.768237",
     "geom:latitude":40.768237,
     "geom:longitude":-73.015152,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 N Ocean Ave",
     "sg:city":"Patchogue",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840885,
+        102191575,
+        404521441,
         85633793,
         85978461,
         102082395,
-        85840885
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"34674fe92ac27f65f8dabe29d8a66e36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85978461,
             "neighbourhood_id":85840885,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403717929,
-    "wof:lastmodified":1449054654,
+    "wof:lastmodified":1454129325,
     "wof:name":"John N Fath PC",
     "wof:parent_id":85840885,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "attorney"
     ]
 },
-  "bbox": [-73.015152,40.768237,-73.015152,40.768237],
+  "bbox": [
+    -73.015152,
+    40.768237,
+    -73.015152,
+    40.768237
+],
   "geometry": {"coordinates":[-73.015152,40.768237],"type":"Point"}
 }

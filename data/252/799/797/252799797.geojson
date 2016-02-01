@@ -2,13 +2,14 @@
   "id": 252799797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.849231,40.861008,-73.849231,40.861008",
     "geom:latitude":40.861008,
     "geom:longitude":-73.849231,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2300 Wilson Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825625,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85825625
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"5a839c483210e246df7546ed4e27ca50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85825625,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":252799797,
-    "wof:lastmodified":1449006516,
+    "wof:lastmodified":1454124134,
     "wof:name":"Burton Mehler",
     "wof:parent_id":85825625,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "clergy"
     ]
 },
-  "bbox": [-73.849231,40.861008,-73.849231,40.861008],
+  "bbox": [
+    -73.849231,
+    40.861008,
+    -73.849231,
+    40.861008
+],
   "geometry": {"coordinates":[-73.849231,40.861008],"type":"Point"}
 }

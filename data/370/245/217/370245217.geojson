@@ -2,13 +2,14 @@
   "id": 370245217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.507487,40.694523,-73.507487,40.694523",
     "geom:latitude":40.694523,
     "geom:longitude":-73.507487,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1165 Wantagh Ave",
     "sg:city":"Wantagh",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.northshoreallergy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529177,
+        102191575,
+        404521473,
         85633793,
-        85979195,
-        102082371
+        85979065,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"162ac5d721fbf51e41e364de8ca4ba73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979195,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979065,
+            "neighbourhood_id":420529177,
             "region_id":85688543,
             "venue_id":370245217
         }
     ],
     "wof:id":370245217,
-    "wof:lastmodified":1449032360,
+    "wof:lastmodified":1454128281,
     "wof:name":"North Shore Allergy & Asthma Institute",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529177,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.507487,40.694523,-73.507487,40.694523],
+  "bbox": [
+    -73.507487,
+    40.694523,
+    -73.507487,
+    40.694523
+],
   "geometry": {"coordinates":[-73.507487,40.694523],"type":"Point"}
 }

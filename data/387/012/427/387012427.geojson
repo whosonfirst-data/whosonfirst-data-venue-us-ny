@@ -2,13 +2,14 @@
   "id": 387012427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.593151,43.125593,-77.593151,43.125593",
     "geom:latitude":43.125593,
     "geom:longitude":-77.593151,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1650 Elmwood Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -89,11 +90,13 @@
     "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880409,
+        102191575,
+        404521467,
         85633793,
-        85979039,
+        85977591,
         102081815,
-        85880409
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,17 +106,18 @@
     "wof:geomhash":"6ad044681e048a6fd80653e7926c098f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85979039,
+            "localadmin_id":404521467,
+            "locality_id":85977591,
             "neighbourhood_id":85880409,
             "region_id":85688543,
             "venue_id":387012427
         }
     ],
     "wof:id":387012427,
-    "wof:lastmodified":1449059531,
+    "wof:lastmodified":1454130138,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85880409,
     "wof:placetype":"venue",
@@ -134,6 +138,11 @@
         "consumer"
     ]
 },
-  "bbox": [-77.593151,43.125593,-77.593151,43.125593],
-  "geometry": {"coordinates":[-77.593151,43.125593],"type":"Point"}
+  "bbox": [
+    -77.593151,
+    43.125593,
+    -77.593151,
+    43.125593
+],
+  "geometry": {"coordinates":[-77.59315100000001,43.125593],"type":"Point"}
 }

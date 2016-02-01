@@ -2,13 +2,14 @@
   "id": 336798311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.927517,40.952847,-72.927517,40.952847",
     "geom:latitude":40.952847,
     "geom:longitude":-72.927517,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Park Dr",
     "sg:city":"Rocky Point",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979947,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"4f6502cc8009bf7d6bf0fbf808abc1dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979947,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":336798311
         }
     ],
     "wof:id":336798311,
-    "wof:lastmodified":1448997150,
+    "wof:lastmodified":1454122432,
     "wof:name":"RCA Maintenance Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-72.927517,40.952847,-72.927517,40.952847],
-  "geometry": {"coordinates":[-72.927517,40.952847],"type":"Point"}
+  "bbox": [
+    -72.927517,
+    40.952847,
+    -72.927517,
+    40.952847
+],
+  "geometry": {"coordinates":[-72.92751699999999,40.952847],"type":"Point"}
 }

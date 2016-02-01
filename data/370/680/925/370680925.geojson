@@ -2,13 +2,14 @@
   "id": 370680925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.315407,43.012132,-78.315407,43.012132",
     "geom:latitude":43.012132,
     "geom:longitude":-78.315407,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2427 Pratt Rd",
     "sg:city":"Corfu",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85826803,
+        102083105
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"2d1c06f480235ee55f546ba25909923b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083105,
+            "neighbourhood_id":85826803,
             "region_id":85688543,
             "venue_id":370680925
         }
     ],
     "wof:id":370680925,
-    "wof:lastmodified":1449031455,
+    "wof:lastmodified":1454128012,
     "wof:name":"Stephen A Lewis Painting Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826803,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.315407,43.012132,-78.315407,43.012132],
-  "geometry": {"coordinates":[-78.315407,43.012132],"type":"Point"}
+  "bbox": [
+    -78.315407,
+    43.012132,
+    -78.315407,
+    43.012132
+],
+  "geometry": {"coordinates":[-78.31540699999999,43.012132],"type":"Point"}
 }

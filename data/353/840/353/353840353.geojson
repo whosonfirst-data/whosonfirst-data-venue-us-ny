@@ -2,13 +2,14 @@
   "id": 353840353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.756721,42.763463,-78.756721,42.763463",
     "geom:latitude":42.763463,
     "geom:longitude":-78.756721,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6185 W Quaker St",
     "sg:city":"Orchard Park",
     "sg:classifiers":[
@@ -24,8 +25,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85815361,
+        102082387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +38,27 @@
     "wof:geomhash":"2d36adc53f0286b74e99528f3854c84e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082387,
+            "neighbourhood_id":85815361,
             "region_id":85688543,
             "venue_id":353840353
         }
     ],
     "wof:id":353840353,
-    "wof:lastmodified":1449020246,
+    "wof:lastmodified":1454126526,
     "wof:name":"Bits & Bytes Computer",
-    "wof:parent_id":-1,
+    "wof:parent_id":85815361,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.756721,42.763463,-78.756721,42.763463],
+  "bbox": [
+    -78.756721,
+    42.763463,
+    -78.756721,
+    42.763463
+],
   "geometry": {"coordinates":[-78.756721,42.763463],"type":"Point"}
 }

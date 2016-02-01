@@ -2,13 +2,14 @@
   "id": 370246611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.507531,40.694469,-73.507531,40.694469",
     "geom:latitude":40.694469,
     "geom:longitude":-73.507531,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1168 Wantagh Ave",
     "sg:city":"Wantagh",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529135,
+        102191575,
+        404521473,
         85633793,
         85979195,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"18597f8fe2fc7ac3ecea1e2dd2f0e0f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979195,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529135,
             "region_id":85688543,
             "venue_id":370246611
         }
     ],
     "wof:id":370246611,
-    "wof:lastmodified":1449029314,
+    "wof:lastmodified":1454127382,
     "wof:name":"Realty Advisors Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529135,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "broker"
     ]
 },
-  "bbox": [-73.507531,40.694469,-73.507531,40.694469],
+  "bbox": [
+    -73.507531,
+    40.694469,
+    -73.507531,
+    40.694469
+],
   "geometry": {"coordinates":[-73.507531,40.694469],"type":"Point"}
 }

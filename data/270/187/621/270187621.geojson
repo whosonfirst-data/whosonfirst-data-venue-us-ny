@@ -2,13 +2,14 @@
   "id": 270187621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.726804,40.777309,-73.726804,40.777309",
     "geom:latitude":40.777309,
     "geom:longitude":-73.726804,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"240 Northern Blvd",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85815033,
+        102191575,
+        404522729,
         85633793,
-        85977539,
-        102082377,
-        85815033
+        85977649,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"bcd29e567b1d62c3f93b69f646fd756b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404522729,
+            "locality_id":85977649,
             "neighbourhood_id":85815033,
             "region_id":85688543,
             "venue_id":270187621
         }
     ],
     "wof:id":270187621,
-    "wof:lastmodified":1449009004,
+    "wof:lastmodified":1454124418,
     "wof:name":"PAD Enterprises",
     "wof:parent_id":85815033,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "printer"
     ]
 },
-  "bbox": [-73.726804,40.777309,-73.726804,40.777309],
+  "bbox": [
+    -73.726804,
+    40.777309,
+    -73.726804,
+    40.777309
+],
   "geometry": {"coordinates":[-73.726804,40.777309],"type":"Point"}
 }

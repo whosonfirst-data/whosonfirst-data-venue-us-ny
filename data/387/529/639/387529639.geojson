@@ -2,13 +2,14 @@
   "id": 387529639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.866931,40.948491,-73.866931,40.948491",
     "geom:latitude":40.948491,
     "geom:longitude":-73.866931,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"179 Lockwood Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881885,
+        102191575,
+        404523397,
         85633793,
         85978759,
         102082373,
-        85881885
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"e61c3f04d320809a7f3ce79d54c7af3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
             "neighbourhood_id":85881885,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387529639,
-    "wof:lastmodified":1449057777,
+    "wof:lastmodified":1454129824,
     "wof:name":"Jimmy's Machine Shop",
     "wof:parent_id":85881885,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "engine"
     ]
 },
-  "bbox": [-73.866931,40.948491,-73.866931,40.948491],
-  "geometry": {"coordinates":[-73.866931,40.948491],"type":"Point"}
+  "bbox": [
+    -73.866931,
+    40.948491,
+    -73.866931,
+    40.948491
+],
+  "geometry": {"coordinates":[-73.86693099999999,40.948491],"type":"Point"}
 }

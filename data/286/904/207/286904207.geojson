@@ -2,13 +2,14 @@
   "id": 286904207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.779521,42.52121,-77.779521,42.52121",
     "geom:latitude":42.52121,
     "geom:longitude":-77.779521,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4880 Ossian Hill Rd",
     "sg:city":"Dansville",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85813231,
+        102191575,
+        404521993,
         85633793,
+        85978299,
+        102082381,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"f25b0e3171ec663a1096faea592ebbcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082381,
+            "localadmin_id":404521993,
+            "locality_id":85978299,
+            "neighbourhood_id":85813231,
             "region_id":85688543,
             "venue_id":286904207
         }
     ],
     "wof:id":286904207,
-    "wof:lastmodified":1449018153,
+    "wof:lastmodified":1454125926,
     "wof:name":"Town Of Ossian Highway Dept",
-    "wof:parent_id":-1,
+    "wof:parent_id":85813231,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "executive"
     ]
 },
-  "bbox": [-77.779521,42.52121,-77.779521,42.52121],
+  "bbox": [
+    -77.779521,
+    42.52121,
+    -77.779521,
+    42.52121
+],
   "geometry": {"coordinates":[-77.779521,42.52121],"type":"Point"}
 }

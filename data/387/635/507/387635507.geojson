@@ -2,13 +2,14 @@
   "id": 387635507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.79651,40.985265,-73.79651,40.985265",
     "geom:latitude":40.985265,
     "geom:longitude":-73.79651,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Roosevelt Pl",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530439,
+        102191575,
+        404523391,
         85633793,
         85978767,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"1e1583f0dd1e14e06a93b9235e6664ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523391,
             "locality_id":85978767,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530439,
             "region_id":85688543,
             "venue_id":387635507
         }
     ],
     "wof:id":387635507,
-    "wof:lastmodified":1449057756,
+    "wof:lastmodified":1454129821,
     "wof:name":"Harold R Galef MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530439,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.79651,40.985265,-73.79651,40.985265],
+  "bbox": [
+    -73.79651,
+    40.985265,
+    -73.79651,
+    40.985265
+],
   "geometry": {"coordinates":[-73.79651,40.985265],"type":"Point"}
 }

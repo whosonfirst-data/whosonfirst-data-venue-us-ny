@@ -2,13 +2,14 @@
   "id": 303230299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.618389,40.714765,-73.618389,40.714765",
     "geom:latitude":40.714765,
     "geom:longitude":-73.618389,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 Stewart Ave",
     "sg:city":"Hempstead",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847583,
+        102191575,
+        404522729,
         85633793,
-        85979073,
+        85977733,
         102082371,
-        85893051
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +41,30 @@
     "wof:geomhash":"48d680730fe797a640420794cebb4a40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979073,
-            "neighbourhood_id":85893051,
+            "localadmin_id":404522729,
+            "locality_id":85977733,
+            "neighbourhood_id":85847583,
             "region_id":85688543,
             "venue_id":303230299
         }
     ],
     "wof:id":303230299,
-    "wof:lastmodified":1448999934,
+    "wof:lastmodified":1454123549,
     "wof:name":"Uncle Tonys Deli",
-    "wof:parent_id":85893051,
+    "wof:parent_id":85847583,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.618389,40.714765,-73.618389,40.714765],
-  "geometry": {"coordinates":[-73.618389,40.714765],"type":"Point"}
+  "bbox": [
+    -73.618389,
+    40.714765,
+    -73.618389,
+    40.714765
+],
+  "geometry": {"coordinates":[-73.61838899999999,40.714765],"type":"Point"}
 }

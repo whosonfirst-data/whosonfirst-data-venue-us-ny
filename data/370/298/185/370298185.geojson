@@ -2,13 +2,14 @@
   "id": 370298185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.686501,40.969799,-72.686501,40.969799",
     "geom:latitude":40.969799,
     "geom:longitude":-72.686501,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3225 Sound Ave",
     "sg:city":"Riverhead",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810195,
+        102191575,
+        404522663,
         85633793,
-        85979859,
+        85979913,
         102082395,
-        85810195
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"38b6959ab08579aa3116d3ea06ec3bc4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979859,
+            "localadmin_id":404522663,
+            "locality_id":85979913,
             "neighbourhood_id":85810195,
             "region_id":85688543,
             "venue_id":370298185
         }
     ],
     "wof:id":370298185,
-    "wof:lastmodified":1449030021,
+    "wof:lastmodified":1454127585,
     "wof:name":"Lobster Roll Northside",
     "wof:parent_id":85810195,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.686501,40.969799,-72.686501,40.969799],
-  "geometry": {"coordinates":[-72.686501,40.969799],"type":"Point"}
+  "bbox": [
+    -72.686501,
+    40.969799,
+    -72.686501,
+    40.969799
+],
+  "geometry": {"coordinates":[-72.68650100000001,40.969799],"type":"Point"}
 }

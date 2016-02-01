@@ -2,13 +2,14 @@
   "id": 286941389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.226079,43.302957,-75.226079,43.302957",
     "geom:latitude":43.302957,
     "geom:longitude":-75.226079,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9927 Wynn Rd",
     "sg:city":"Holland Patent",
     "sg:classifiers":[
@@ -35,8 +36,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85852619,
+        102083149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +49,17 @@
     "wof:geomhash":"4d4191d1b26d0228cc9fa7ae9301ab23",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083149,
+            "neighbourhood_id":85852619,
             "region_id":85688543,
             "venue_id":286941389
         }
     ],
     "wof:id":286941389,
-    "wof:lastmodified":1449016956,
+    "wof:lastmodified":1454125713,
     "wof:name":"Talgo Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":85852619,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-75.226079,43.302957,-75.226079,43.302957],
+  "bbox": [
+    -75.226079,
+    43.302957,
+    -75.226079,
+    43.302957
+],
   "geometry": {"coordinates":[-75.226079,43.302957],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386986557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.59993,43.172425,-77.59993,43.172425",
     "geom:latitude":43.172425,
     "geom:longitude":-77.59993,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Wadsworth St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529057,
+        102191575,
+        404521467,
         85633793,
         85977591,
-        102081815
+        102081815,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"c1decaeec387cb5f3978ceb69ddd7978",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529057,
             "region_id":85688543,
             "venue_id":386986557
         }
     ],
     "wof:id":386986557,
-    "wof:lastmodified":1449028888,
+    "wof:lastmodified":1454127260,
     "wof:name":"Carolina Bandit Express Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "trucking"
     ]
 },
-  "bbox": [-77.59993,43.172425,-77.59993,43.172425],
+  "bbox": [
+    -77.59993,
+    43.172425,
+    -77.59993,
+    43.172425
+],
   "geometry": {"coordinates":[-77.59993,43.172425],"type":"Point"}
 }

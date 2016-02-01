@@ -2,13 +2,14 @@
   "id": 337449499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.863441,40.748274,-73.863441,40.748274",
     "geom:latitude":40.748274,
     "geom:longitude":-73.863441,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3520 102nd St",
     "sg:city":"Corona",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812357,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85812357
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"017711200e7a818790b1de926393ab79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85812357,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":337449499,
-    "wof:lastmodified":1449027672,
+    "wof:lastmodified":1454127157,
     "wof:name":"Faz Waterproofing",
     "wof:parent_id":85812357,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.863441,40.748274,-73.863441,40.748274],
-  "geometry": {"coordinates":[-73.863441,40.748274],"type":"Point"}
+  "bbox": [
+    -73.863441,
+    40.748274,
+    -73.863441,
+    40.748274
+],
+  "geometry": {"coordinates":[-73.86344099999999,40.748274],"type":"Point"}
 }

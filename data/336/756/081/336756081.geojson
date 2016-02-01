@@ -2,13 +2,14 @@
   "id": 336756081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.158474,40.583805,-74.158474,40.583805",
     "geom:latitude":40.583805,
     "geom:longitude":-74.158474,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"310 Richmond Hill Rd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836751,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85836751
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"7dfe57eb0e419e58eea588a8ee5ba870",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85836751,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":336756081,
-    "wof:lastmodified":1448997584,
+    "wof:lastmodified":1454122819,
     "wof:name":"On Call Medical Inc",
     "wof:parent_id":85836751,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-74.158474,40.583805,-74.158474,40.583805],
+  "bbox": [
+    -74.158474,
+    40.583805,
+    -74.158474,
+    40.583805
+],
   "geometry": {"coordinates":[-74.158474,40.583805],"type":"Point"}
 }

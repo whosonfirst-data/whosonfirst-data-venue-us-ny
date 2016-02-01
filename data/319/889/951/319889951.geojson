@@ -2,13 +2,14 @@
   "id": 319889951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.849884,40.875875,-73.849884,40.875875",
     "geom:latitude":40.875875,
     "geom:longitude":-73.849884,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3400 Boston Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85804885,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"8f4c6ad3f532118a42c44d8ec8161e08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85804885,
             "region_id":85688543,
             "venue_id":319889951
         }
     ],
     "wof:id":319889951,
-    "wof:lastmodified":1449024097,
+    "wof:lastmodified":1454126716,
     "wof:name":"Sunny Fruit & Grocery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85804885,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.849884,40.875875,-73.849884,40.875875],
+  "bbox": [
+    -73.849884,
+    40.875875,
+    -73.849884,
+    40.875875
+],
   "geometry": {"coordinates":[-73.849884,40.875875],"type":"Point"}
 }

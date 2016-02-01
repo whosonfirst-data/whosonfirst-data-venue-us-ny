@@ -2,13 +2,14 @@
   "id": 370292269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.874796,43.003412,-78.874796,43.003412",
     "geom:latitude":43.003412,
     "geom:longitude":-78.874796,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"555 Delaware St",
     "sg:city":"Tonawanda",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807529,
+        102191575,
+        404522265,
         85633793,
-        85977997,
-        102082387
+        85979419,
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"d60bd0c9f9412eafd1d08fbe609c89f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":85977997,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522265,
+            "locality_id":85979419,
+            "neighbourhood_id":85807529,
             "region_id":85688543,
             "venue_id":370292269
         }
     ],
     "wof:id":370292269,
-    "wof:lastmodified":1449029372,
+    "wof:lastmodified":1454127401,
     "wof:name":"Glen C Donnarumma",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807529,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.874796,43.003412,-78.874796,43.003412],
+  "bbox": [
+    -78.874796,
+    43.003412,
+    -78.874796,
+    43.003412
+],
   "geometry": {"coordinates":[-78.874796,43.003412],"type":"Point"}
 }

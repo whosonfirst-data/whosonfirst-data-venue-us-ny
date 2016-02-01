@@ -2,13 +2,14 @@
   "id": 303914683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.129162,40.919833,-73.129162,40.919833",
     "geom:latitude":40.919833,
     "geom:longitude":-73.129162,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1067 Rte 25A",
     "sg:city":"Stony Brook",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824457,
+        102191575,
+        404521441,
         85633793,
-        85978487,
+        85979927,
         102082395,
-        85824457
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"833286d8ecb09309e626f8595e27d054",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978487,
+            "localadmin_id":404521441,
+            "locality_id":85979927,
             "neighbourhood_id":85824457,
             "region_id":85688543,
             "venue_id":303914683
         }
     ],
     "wof:id":303914683,
-    "wof:lastmodified":1448999051,
+    "wof:lastmodified":1454123306,
     "wof:name":"Calcutters Hair Salon",
     "wof:parent_id":85824457,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.129162,40.919833,-73.129162,40.919833],
-  "geometry": {"coordinates":[-73.129162,40.919833],"type":"Point"}
+  "bbox": [
+    -73.129162,
+    40.919833,
+    -73.129162,
+    40.919833
+],
+  "geometry": {"coordinates":[-73.12916199999999,40.919833],"type":"Point"}
 }

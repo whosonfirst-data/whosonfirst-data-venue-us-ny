@@ -2,13 +2,14 @@
   "id": 253496807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.745689,42.638206,-73.745689,42.638206",
     "geom:latitude":42.638206,
     "geom:longitude":-73.745689,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"62 Washington St",
     "sg:city":"Rensselaer",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85843203,
+        102191575,
+        404523079,
         85633793,
+        85978343,
         102081773,
-        85843203
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"f7a8c4f8d63efdf0ea9aa99d74fe6f46",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081773,
-            "locality_id":-1,
+            "localadmin_id":404523079,
+            "locality_id":85978343,
             "neighbourhood_id":85843203,
             "region_id":85688543,
             "venue_id":253496807
         }
     ],
     "wof:id":253496807,
-    "wof:lastmodified":1449065326,
+    "wof:lastmodified":1454130663,
     "wof:name":"St Peter's Rensselaer Health",
     "wof:parent_id":85843203,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.745689,42.638206,-73.745689,42.638206],
+  "bbox": [
+    -73.745689,
+    42.638206,
+    -73.745689,
+    42.638206
+],
   "geometry": {"coordinates":[-73.745689,42.638206],"type":"Point"}
 }

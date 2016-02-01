@@ -2,13 +2,14 @@
   "id": 303584117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.681771,40.723143,-73.681771,40.723143",
     "geom:latitude":40.723143,
     "geom:longitude":-73.681771,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"125 Jefferson St",
     "sg:city":"Garden City",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892843,
+        102191575,
+        404521473,
         85633793,
-        85977667,
+        85977689,
         102082371,
-        85892843
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"5431e13e62069b3adbe4a351e712d122",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977667,
+            "localadmin_id":404521473,
+            "locality_id":85977689,
             "neighbourhood_id":85892843,
             "region_id":85688543,
             "venue_id":303584117
         }
     ],
     "wof:id":303584117,
-    "wof:lastmodified":1448998389,
+    "wof:lastmodified":1454123079,
     "wof:name":"Kings Development Cnstr",
     "wof:parent_id":85892843,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-73.681771,40.723143,-73.681771,40.723143],
+  "bbox": [
+    -73.681771,
+    40.723143,
+    -73.681771,
+    40.723143
+],
   "geometry": {"coordinates":[-73.681771,40.723143],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320075931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.011173,40.882518,-73.011173,40.882518",
     "geom:latitude":40.882518,
     "geom:longitude":-73.011173,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1970 Rte 112",
     "sg:city":"Coram",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"dcced80b1a8f6e0e6558b9c7b7571810",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":320075931
         }
     ],
     "wof:id":320075931,
-    "wof:lastmodified":1449013293,
+    "wof:lastmodified":1454125095,
     "wof:name":"Tanglewood Chiropractic",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.011173,40.882518,-73.011173,40.882518],
+  "bbox": [
+    -73.011173,
+    40.882518,
+    -73.011173,
+    40.882518
+],
   "geometry": {"coordinates":[-73.011173,40.882518],"type":"Point"}
 }

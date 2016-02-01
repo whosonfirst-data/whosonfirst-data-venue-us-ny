@@ -2,13 +2,14 @@
   "id": 370186597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.210302,40.858094,-73.210302,40.858094",
     "geom:latitude":40.858094,
     "geom:longitude":-73.210302,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"395 E Main St Ste 1",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -45,11 +46,13 @@
     "sg:website":"http://www.aboffs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852059,
+        102191575,
+        404522669,
         85633793,
         85979919,
         102082395,
-        85852059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,9 +62,10 @@
     "wof:geomhash":"3fb66ce2b7153814a1c1faf1cabd8241",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979919,
             "neighbourhood_id":85852059,
             "region_id":85688543,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":370186597,
-    "wof:lastmodified":1449031748,
+    "wof:lastmodified":1454128096,
     "wof:name":"Aboff's, Inc.",
     "wof:parent_id":85852059,
     "wof:placetype":"venue",
@@ -86,6 +90,11 @@
         "decorator"
     ]
 },
-  "bbox": [-73.210302,40.858094,-73.210302,40.858094],
+  "bbox": [
+    -73.210302,
+    40.858094,
+    -73.210302,
+    40.858094
+],
   "geometry": {"coordinates":[-73.210302,40.858094],"type":"Point"}
 }

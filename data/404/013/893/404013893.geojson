@@ -2,13 +2,14 @@
   "id": 404013893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.572544,40.850663,-72.572544,40.850663",
     "geom:latitude":40.850663,
     "geom:longitude":-72.572544,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"424 Montauk Hwy",
     "sg:city":"East Quogue",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530041,
+        102191575,
+        404522671,
         85633793,
         85979791,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"645887f62cdcca8542ff27efa7740cf3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522671,
             "locality_id":85979791,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530041,
             "region_id":85688543,
             "venue_id":404013893
         }
     ],
     "wof:id":404013893,
-    "wof:lastmodified":1449039943,
+    "wof:lastmodified":1454128918,
     "wof:name":"Red's Site Development Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530041,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-72.572544,40.850663,-72.572544,40.850663],
-  "geometry": {"coordinates":[-72.572544,40.850663],"type":"Point"}
+  "bbox": [
+    -72.572544,
+    40.850663,
+    -72.572544,
+    40.850663
+],
+  "geometry": {"coordinates":[-72.57254399999999,40.850663],"type":"Point"}
 }

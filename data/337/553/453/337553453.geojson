@@ -2,13 +2,14 @@
   "id": 337553453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.884147,40.748711,-73.884147,40.748711",
     "geom:latitude":40.748711,
     "geom:longitude":-73.884147,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"37-32 82nd St",
     "sg:city":"Jackson Heights",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.riteaid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85827247,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85827247
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"bb0feb344ff33c4c387748175ed7745f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85827247,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":337553453,
-    "wof:lastmodified":1449026936,
+    "wof:lastmodified":1454126863,
     "wof:name":"Rite Aid",
     "wof:parent_id":85827247,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "store"
     ]
 },
-  "bbox": [-73.884147,40.748711,-73.884147,40.748711],
+  "bbox": [
+    -73.884147,
+    40.748711,
+    -73.884147,
+    40.748711
+],
   "geometry": {"coordinates":[-73.884147,40.748711],"type":"Point"}
 }

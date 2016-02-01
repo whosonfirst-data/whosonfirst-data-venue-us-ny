@@ -2,13 +2,14 @@
   "id": 354102325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.343364,40.850379,-73.343364,40.850379",
     "geom:latitude":40.850379,
     "geom:longitude":-73.343364,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"276 Cuba Hill Rd",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892873,
+        102191575,
+        404522515,
         85633793,
-        85979695,
+        85979751,
         102082395,
-        85830997
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +53,20 @@
     "wof:geomhash":"6c345a80214bf206c95650f217472d33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979695,
-            "neighbourhood_id":85830997,
+            "localadmin_id":404522515,
+            "locality_id":85979751,
+            "neighbourhood_id":85892873,
             "region_id":85688543,
             "venue_id":354102325
         }
     ],
     "wof:id":354102325,
-    "wof:lastmodified":1449067547,
+    "wof:lastmodified":1454131269,
     "wof:name":"Swenson Refrigeration Service",
-    "wof:parent_id":85830997,
+    "wof:parent_id":85892873,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -74,6 +78,11 @@
         "making"
     ]
 },
-  "bbox": [-73.343364,40.850379,-73.343364,40.850379],
-  "geometry": {"coordinates":[-73.343364,40.850379],"type":"Point"}
+  "bbox": [
+    -73.343364,
+    40.850379,
+    -73.343364,
+    40.850379
+],
+  "geometry": {"coordinates":[-73.34336399999999,40.850379],"type":"Point"}
 }

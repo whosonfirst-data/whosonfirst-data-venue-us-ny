@@ -2,13 +2,14 @@
   "id": 320267559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.619365,43.142533,-77.619365,43.142533",
     "geom:latitude":43.142533,
     "geom:longitude":-77.619365,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"700 Plymouth Ave S",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880411,
+        102191575,
+        404521467,
         85633793,
         85977591,
-        102081815
+        102081815,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"6db69d692fe5ae5fd4dee09ab753f85f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85880411,
             "region_id":85688543,
             "venue_id":320267559
         }
     ],
     "wof:id":320267559,
-    "wof:lastmodified":1449014627,
+    "wof:lastmodified":1454125307,
     "wof:name":"One Stop Convenience Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":85880411,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.619365,43.142533,-77.619365,43.142533],
+  "bbox": [
+    -77.619365,
+    43.142533,
+    -77.619365,
+    43.142533
+],
   "geometry": {"coordinates":[-77.619365,43.142533],"type":"Point"}
 }

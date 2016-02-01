@@ -2,13 +2,14 @@
   "id": 303642541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.868269,40.865984,-73.868269,40.865984",
     "geom:latitude":40.865984,
     "geom:longitude":-73.868269,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2750 Olinville Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807771,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85807771
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"67b631cd5843c48abee29d06f833efff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85807771,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":303642541,
-    "wof:lastmodified":1448998259,
+    "wof:lastmodified":1454123035,
     "wof:name":"Gabriel Bridgeport Development",
     "wof:parent_id":85807771,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-73.868269,40.865984,-73.868269,40.865984],
+  "bbox": [
+    -73.868269,
+    40.865984,
+    -73.868269,
+    40.865984
+],
   "geometry": {"coordinates":[-73.868269,40.865984],"type":"Point"}
 }

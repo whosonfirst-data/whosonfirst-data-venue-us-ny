@@ -2,13 +2,14 @@
   "id": 169847885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.952283,40.709463,-73.952283,40.709463",
     "geom:latitude":40.709463,
     "geom:longitude":-73.952283,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"384 S 2nd St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865603,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865603
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"350dda3b961c83e0b67e053a3f9623a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865603,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":169847885,
-    "wof:lastmodified":1449033890,
+    "wof:lastmodified":1454128395,
     "wof:name":"K & C Shoes",
     "wof:parent_id":85865603,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-73.952283,40.709463,-73.952283,40.709463],
-  "geometry": {"coordinates":[-73.952283,40.709463],"type":"Point"}
+  "bbox": [
+    -73.952283,
+    40.709463,
+    -73.952283,
+    40.709463
+],
+  "geometry": {"coordinates":[-73.95228299999999,40.709463],"type":"Point"}
 }

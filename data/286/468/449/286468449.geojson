@@ -2,13 +2,14 @@
   "id": 286468449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.653804,40.634419,-73.653804,40.634419",
     "geom:latitude":40.634419,
     "geom:longitude":-73.653804,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3131 Lawson Blvd",
     "sg:city":"Oceanside",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865343,
+        102191575,
+        404521473,
         85633793,
         85979143,
         102082371,
-        85865343
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"23b65af8b33d0d2a2689a262a6a651ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979143,
             "neighbourhood_id":85865343,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":286468449,
-    "wof:lastmodified":1449017295,
+    "wof:lastmodified":1454125770,
     "wof:name":"Joanne Barbaruolo",
     "wof:parent_id":85865343,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.653804,40.634419,-73.653804,40.634419],
-  "geometry": {"coordinates":[-73.653804,40.634419],"type":"Point"}
+  "bbox": [
+    -73.653804,
+    40.634419,
+    -73.653804,
+    40.634419
+],
+  "geometry": {"coordinates":[-73.65380399999999,40.634419],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269808553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.591325,40.656181,-73.591325,40.656181",
     "geom:latitude":40.656181,
     "geom:longitude":-73.591325,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"136 W Sunrise Hwy",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529137,
+        102191575,
+        404521473,
         85633793,
         85977679,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"857b32ea4af855cd984da889310c50ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977679,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529137,
             "region_id":85688543,
             "venue_id":269808553
         }
     ],
     "wof:id":269808553,
-    "wof:lastmodified":1449036239,
+    "wof:lastmodified":1454128477,
     "wof:name":"Carpet Depot",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529137,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "rug"
     ]
 },
-  "bbox": [-73.591325,40.656181,-73.591325,40.656181],
+  "bbox": [
+    -73.591325,
+    40.656181,
+    -73.591325,
+    40.656181
+],
   "geometry": {"coordinates":[-73.591325,40.656181],"type":"Point"}
 }

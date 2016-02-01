@@ -2,13 +2,14 @@
   "id": 303354365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.875125,41.549575,-73.875125,41.549575",
     "geom:latitude":41.549575,
     "geom:longitude":-73.875125,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"22 Salem Rd",
     "sg:city":"Fishkill",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528475,
+        102191575,
+        404522225,
         85633793,
-        85979279,
-        102082363
+        85979249,
+        102082363,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"6dbd120dde5bedd493919daa101fc1b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
-            "locality_id":85979279,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522225,
+            "locality_id":85979249,
+            "neighbourhood_id":420528475,
             "region_id":85688543,
             "venue_id":303354365
         }
     ],
     "wof:id":303354365,
-    "wof:lastmodified":1449000289,
+    "wof:lastmodified":1454123648,
     "wof:name":"M/J Enterprise",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528475,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "lessor"
     ]
 },
-  "bbox": [-73.875125,41.549575,-73.875125,41.549575],
+  "bbox": [
+    -73.875125,
+    41.549575,
+    -73.875125,
+    41.549575
+],
   "geometry": {"coordinates":[-73.875125,41.549575],"type":"Point"}
 }

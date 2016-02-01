@@ -2,13 +2,14 @@
   "id": 320480333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.994091,40.686114,-73.994091,40.686114",
     "geom:latitude":40.686114,
     "geom:longitude":-73.994091,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"238 Court St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,10 +29,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892915,
+        102191575,
+        102147495,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +46,21 @@
     "wof:geomhash":"c675146e08627504c72f8b845accbfa8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "macrohood_id":102147495,
+            "neighbourhood_id":85892915,
             "region_id":85688543,
             "venue_id":320480333
         }
     ],
     "wof:id":320480333,
-    "wof:lastmodified":1449012492,
+    "wof:lastmodified":1454124961,
     "wof:name":"Sams Restarurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +69,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.994091,40.686114,-73.994091,40.686114],
+  "bbox": [
+    -73.994091,
+    40.686114,
+    -73.994091,
+    40.686114
+],
   "geometry": {"coordinates":[-73.994091,40.686114],"type":"Point"}
 }

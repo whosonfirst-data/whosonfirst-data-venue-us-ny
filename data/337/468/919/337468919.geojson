@@ -2,13 +2,14 @@
   "id": 337468919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.856333,40.747447,-73.856333,40.747447",
     "geom:latitude":40.747447,
     "geom:longitude":-73.856333,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10839 46th Ave Apt 1B",
     "sg:city":"Corona",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812357,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85812357
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"18d74375761bf6e695b79eb74f7d6052",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85812357,
             "region_id":85688543,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":337468919,
-    "wof:lastmodified":1449027532,
+    "wof:lastmodified":1454127102,
     "wof:name":"Royal Medical Supply",
     "wof:parent_id":85812357,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "care"
     ]
 },
-  "bbox": [-73.856333,40.747447,-73.856333,40.747447],
-  "geometry": {"coordinates":[-73.856333,40.747447],"type":"Point"}
+  "bbox": [
+    -73.856333,
+    40.747447,
+    -73.856333,
+    40.747447
+],
+  "geometry": {"coordinates":[-73.85633300000001,40.747447],"type":"Point"}
 }

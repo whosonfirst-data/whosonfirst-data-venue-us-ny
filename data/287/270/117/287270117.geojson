@@ -2,13 +2,14 @@
   "id": 287270117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.843268,40.853185,-73.843268,40.853185",
     "geom:latitude":40.853185,
     "geom:longitude":-73.843268,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2046 Eastchester Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892795,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85892795
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"acfb0b97192c749fb02c7fd97f139129",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892795,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":287270117,
-    "wof:lastmodified":1449000824,
+    "wof:lastmodified":1454123789,
     "wof:name":"Eastchester Check Cashing Inc",
     "wof:parent_id":85892795,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "check"
     ]
 },
-  "bbox": [-73.843268,40.853185,-73.843268,40.853185],
-  "geometry": {"coordinates":[-73.843268,40.853185],"type":"Point"}
+  "bbox": [
+    -73.843268,
+    40.853185,
+    -73.843268,
+    40.853185
+],
+  "geometry": {"coordinates":[-73.84326799999999,40.853185],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185769221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.995252,40.628848,-73.995252,40.628848",
     "geom:latitude":40.628848,
     "geom:longitude":-73.995252,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1381 58th Street",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"42abf45f64b772859ab1ec55b8967d9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":185769221
         }
     ],
     "wof:id":185769221,
-    "wof:lastmodified":1449007129,
+    "wof:lastmodified":1454124209,
     "wof:name":"Funthinks",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-73.995252,40.628848,-73.995252,40.628848],
-  "geometry": {"coordinates":[-73.995252,40.628848],"type":"Point"}
+  "bbox": [
+    -73.995252,
+    40.628848,
+    -73.995252,
+    40.628848
+],
+  "geometry": {"coordinates":[-73.99525199999999,40.628848],"type":"Point"}
 }

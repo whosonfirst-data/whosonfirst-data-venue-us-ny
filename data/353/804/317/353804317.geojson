@@ -2,13 +2,14 @@
   "id": 353804317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.958738,40.578797,-73.958738,40.578797",
     "geom:latitude":40.578797,
     "geom:longitude":-73.958738,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"134 Brighton 11th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807547,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85807547
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"fb207b6c36405dc47004a86d4106e996",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85807547,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353804317,
-    "wof:lastmodified":1449020017,
+    "wof:lastmodified":1454126459,
     "wof:name":"Dental Office",
     "wof:parent_id":85807547,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.958738,40.578797,-73.958738,40.578797],
+  "bbox": [
+    -73.958738,
+    40.578797,
+    -73.958738,
+    40.578797
+],
   "geometry": {"coordinates":[-73.958738,40.578797],"type":"Point"}
 }

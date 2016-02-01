@@ -2,13 +2,14 @@
   "id": 185753757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.975107,40.646872,-73.975107,40.646872",
     "geom:latitude":40.646872,
     "geom:longitude":-73.975107,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"140 Ocean Pkwy",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.kensingtoncycleworks.com/ind...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85828101,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85828101
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"60b653e4da267a17f5c76ac1dd942175",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85828101,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":185753757,
-    "wof:lastmodified":1449006793,
+    "wof:lastmodified":1454124167,
     "wof:name":"Kensington Cycle Works",
     "wof:parent_id":85828101,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "bike"
     ]
 },
-  "bbox": [-73.975107,40.646872,-73.975107,40.646872],
-  "geometry": {"coordinates":[-73.975107,40.646872],"type":"Point"}
+  "bbox": [
+    -73.975107,
+    40.646872,
+    -73.975107,
+    40.646872
+],
+  "geometry": {"coordinates":[-73.97510699999999,40.646872],"type":"Point"}
 }

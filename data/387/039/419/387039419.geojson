@@ -2,13 +2,14 @@
   "id": 387039419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.674703,40.993837,-73.674703,40.993837",
     "geom:latitude":40.993837,
     "geom:longitude":-73.674703,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"427 Boston Post Rd",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.modells.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530421,
+        102191575,
+        404523389,
         85633793,
         85978705,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"fd7c9109583b346227e9699360cdca73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523389,
             "locality_id":85978705,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530421,
             "region_id":85688543,
             "venue_id":387039419
         }
     ],
     "wof:id":387039419,
-    "wof:lastmodified":1449059447,
+    "wof:lastmodified":1454130125,
     "wof:name":"Modell's Sporting Goods",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530421,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.674703,40.993837,-73.674703,40.993837],
-  "geometry": {"coordinates":[-73.674703,40.993837],"type":"Point"}
+  "bbox": [
+    -73.674703,
+    40.993837,
+    -73.674703,
+    40.993837
+],
+  "geometry": {"coordinates":[-73.67470299999999,40.993837],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370310339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.806198,40.802101,-72.806198,40.802101",
     "geom:latitude":40.802101,
     "geom:longitude":-72.806198,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"812 Main St",
     "sg:city":"Center Moriches",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"dc9d428cfe43a9bc12c7b952023b0cbf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":370310339
         }
     ],
     "wof:id":370310339,
-    "wof:lastmodified":1449031172,
+    "wof:lastmodified":1454127928,
     "wof:name":"Pharmacy",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "drugstore"
     ]
 },
-  "bbox": [-72.806198,40.802101,-72.806198,40.802101],
-  "geometry": {"coordinates":[-72.806198,40.802101],"type":"Point"}
+  "bbox": [
+    -72.806198,
+    40.802101,
+    -72.806198,
+    40.802101
+],
+  "geometry": {"coordinates":[-72.80619799999999,40.802101],"type":"Point"}
 }

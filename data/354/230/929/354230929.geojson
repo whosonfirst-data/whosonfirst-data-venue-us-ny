@@ -2,13 +2,14 @@
   "id": 354230929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.426609,40.870673,-73.426609,40.870673",
     "geom:latitude":40.870673,
     "geom:longitude":-73.426609,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"329 New York Ave Ste 11",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820109,
+        102191575,
+        404522515,
         85633793,
-        85979675,
+        85979787,
         102082395,
-        85820109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"4a8e7d19e0acb8a1c282290a9b90bdff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979675,
+            "localadmin_id":404522515,
+            "locality_id":85979787,
             "neighbourhood_id":85820109,
             "region_id":85688543,
             "venue_id":354230929
         }
     ],
     "wof:id":354230929,
-    "wof:lastmodified":1449067219,
+    "wof:lastmodified":1454131168,
     "wof:name":"Flood Helper",
     "wof:parent_id":85820109,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "home"
     ]
 },
-  "bbox": [-73.426609,40.870673,-73.426609,40.870673],
+  "bbox": [
+    -73.426609,
+    40.870673,
+    -73.426609,
+    40.870673
+],
   "geometry": {"coordinates":[-73.426609,40.870673],"type":"Point"}
 }

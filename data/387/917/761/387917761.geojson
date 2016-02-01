@@ -2,13 +2,14 @@
   "id": 387917761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.999783,40.725084,-73.999783,40.725084",
     "geom:latitude":40.725084,
     "geom:longitude":-73.999783,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Prince St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865687,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865687
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"30368a50e1d75f2de9c89542758ca0ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865687,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387917761,
-    "wof:lastmodified":1449059424,
+    "wof:lastmodified":1454130120,
     "wof:name":"Olives",
     "wof:parent_id":85865687,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-73.999783,40.725084,-73.999783,40.725084],
-  "geometry": {"coordinates":[-73.999783,40.725084],"type":"Point"}
+  "bbox": [
+    -73.999783,
+    40.725084,
+    -73.999783,
+    40.725084
+],
+  "geometry": {"coordinates":[-73.99978299999999,40.725084],"type":"Point"}
 }

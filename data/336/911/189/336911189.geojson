@@ -2,13 +2,14 @@
   "id": 336911189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.649836,43.097041,-75.649836,43.097041",
     "geom:latitude":43.097041,
     "geom:longitude":-75.649836,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"183 Madison St",
     "sg:city":"Oneida",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847377,
+        102191575,
+        404522679,
         85633793,
-        102083149,
-        85847377
+        85978049,
+        102080989,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"5bafbc5cbcf471e069a07daac528256d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083149,
-            "locality_id":-1,
+            "county_id":102080989,
+            "localadmin_id":404522679,
+            "locality_id":85978049,
             "neighbourhood_id":85847377,
             "region_id":85688543,
             "venue_id":336911189
         }
     ],
     "wof:id":336911189,
-    "wof:lastmodified":1448997858,
+    "wof:lastmodified":1454122903,
     "wof:name":"Turfscape",
     "wof:parent_id":85847377,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-75.649836,43.097041,-75.649836,43.097041],
-  "geometry": {"coordinates":[-75.649836,43.097041],"type":"Point"}
+  "bbox": [
+    -75.649836,
+    43.097041,
+    -75.649836,
+    43.097041
+],
+  "geometry": {"coordinates":[-75.64983599999999,43.097041],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304040735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.721247,40.659017,-73.721247,40.659017",
     "geom:latitude":40.659017,
     "geom:longitude":-73.721247,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"96 Lotus Oval N",
     "sg:city":"Valley Stream",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85822745,
+        102191575,
+        404521473,
         85633793,
-        85977737,
+        85979077,
         102082371,
-        85822745
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"5e48aa1e85360cdbc9277c6de2a116d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977737,
+            "localadmin_id":404521473,
+            "locality_id":85979077,
             "neighbourhood_id":85822745,
             "region_id":85688543,
             "venue_id":304040735
         }
     ],
     "wof:id":304040735,
-    "wof:lastmodified":1449044141,
+    "wof:lastmodified":1454129036,
     "wof:name":"Nicoletta Vito",
     "wof:parent_id":85822745,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-73.721247,40.659017,-73.721247,40.659017],
-  "geometry": {"coordinates":[-73.721247,40.659017],"type":"Point"}
+  "bbox": [
+    -73.721247,
+    40.659017,
+    -73.721247,
+    40.659017
+],
+  "geometry": {"coordinates":[-73.72124700000001,40.659017],"type":"Point"}
 }

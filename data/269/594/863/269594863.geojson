@@ -2,13 +2,14 @@
   "id": 269594863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.961417,40.777863,-73.961417,40.777863",
     "geom:latitude":40.777863,
     "geom:longitude":-73.961417,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 E 81st St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865691,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865691
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"947daf6d4d3c0bcea3ae283432eccbac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865691,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":269594863,
-    "wof:lastmodified":1449036488,
+    "wof:lastmodified":1454128514,
     "wof:name":"Robert A Haberman Design",
     "wof:parent_id":85865691,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "design"
     ]
 },
-  "bbox": [-73.961417,40.777863,-73.961417,40.777863],
+  "bbox": [
+    -73.961417,
+    40.777863,
+    -73.961417,
+    40.777863
+],
   "geometry": {"coordinates":[-73.961417,40.777863],"type":"Point"}
 }

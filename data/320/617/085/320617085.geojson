@@ -2,13 +2,14 @@
   "id": 320617085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.252014,42.097707,-79.252014,42.097707",
     "geom:latitude":42.097707,
     "geom:longitude":-79.252014,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"115 Fairmount Ave",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817873,
+        102191575,
+        404521959,
         85633793,
+        85980155,
         102081811,
-        85817873
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"e40444e101a335b6c42252b5fd376384",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081811,
-            "locality_id":-1,
+            "localadmin_id":404521959,
+            "locality_id":85980155,
             "neighbourhood_id":85817873,
             "region_id":85688543,
             "venue_id":320617085
         }
     ],
     "wof:id":320617085,
-    "wof:lastmodified":1449011389,
+    "wof:lastmodified":1454124781,
     "wof:name":"Jamestown Parks Dept",
     "wof:parent_id":85817873,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "parks"
     ]
 },
-  "bbox": [-79.252014,42.097707,-79.252014,42.097707],
+  "bbox": [
+    -79.252014,
+    42.097707,
+    -79.252014,
+    42.097707
+],
   "geometry": {"coordinates":[-79.252014,42.097707],"type":"Point"}
 }

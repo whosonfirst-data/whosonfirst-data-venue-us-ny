@@ -2,13 +2,14 @@
   "id": 320498223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.787752,43.017987,-78.787752,43.017987",
     "geom:latitude":43.017987,
     "geom:longitude":-78.787752,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2501 N Forest Rd",
     "sg:city":"Getzville",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85837253,
+        102191575,
+        404522321,
         85633793,
+        85979411,
+        102082387,
         85688543
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"6c999599c33dfc59bcc1429d497b3896",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082387,
+            "localadmin_id":404522321,
+            "locality_id":85979411,
+            "neighbourhood_id":85837253,
             "region_id":85688543,
             "venue_id":320498223
         }
     ],
     "wof:id":320498223,
-    "wof:lastmodified":1449014062,
+    "wof:lastmodified":1454125217,
     "wof:name":"Chabad House",
-    "wof:parent_id":-1,
+    "wof:parent_id":85837253,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.787752,43.017987,-78.787752,43.017987],
+  "bbox": [
+    -78.787752,
+    43.017987,
+    -78.787752,
+    43.017987
+],
   "geometry": {"coordinates":[-78.787752,43.017987],"type":"Point"}
 }

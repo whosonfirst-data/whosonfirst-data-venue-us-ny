@@ -2,13 +2,14 @@
   "id": 253534837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.857674,40.826609,-73.857674,40.826609",
     "geom:latitude":40.826609,
     "geom:longitude":-73.857674,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1929 Bruckner Blvd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853099,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85853099
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"f193f5a9481a17411d8c06fdbfdd4740",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853099,
             "region_id":85688543,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":253534837,
-    "wof:lastmodified":1449063581,
+    "wof:lastmodified":1454130372,
     "wof:name":"Ralph's Bruckner Svc Ctr Inc",
     "wof:parent_id":85853099,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "automobile"
     ]
 },
-  "bbox": [-73.857674,40.826609,-73.857674,40.826609],
+  "bbox": [
+    -73.857674,
+    40.826609,
+    -73.857674,
+    40.826609
+],
   "geometry": {"coordinates":[-73.857674,40.826609],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404177087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.582853,43.155407,-77.582853,43.155407",
     "geom:latitude":43.155407,
     "geom:longitude":-77.582853,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"730 University Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867105,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85867105
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"76a53df87564da9c8da4617f10d39348",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85867105,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":404177087,
-    "wof:lastmodified":1449040324,
+    "wof:lastmodified":1454128969,
     "wof:name":"Police Dept",
     "wof:parent_id":85867105,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "protection"
     ]
 },
-  "bbox": [-77.582853,43.155407,-77.582853,43.155407],
+  "bbox": [
+    -77.582853,
+    43.155407,
+    -77.582853,
+    43.155407
+],
   "geometry": {"coordinates":[-77.582853,43.155407],"type":"Point"}
 }

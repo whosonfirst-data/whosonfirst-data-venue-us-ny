@@ -2,13 +2,14 @@
   "id": 303799471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.978465,40.748459,-73.978465,40.748459",
     "geom:latitude":40.748459,
     "geom:longitude":-73.978465,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 E 37th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.lacosainc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836095,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85836095
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"477a129649f802dec668dfe818424b37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85836095,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":303799471,
-    "wof:lastmodified":1449000579,
+    "wof:lastmodified":1454123727,
     "wof:name":"LA Cosa",
     "wof:parent_id":85836095,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "clothing"
     ]
 },
-  "bbox": [-73.978465,40.748459,-73.978465,40.748459],
+  "bbox": [
+    -73.978465,
+    40.748459,
+    -73.978465,
+    40.748459
+],
   "geometry": {"coordinates":[-73.978465,40.748459],"type":"Point"}
 }

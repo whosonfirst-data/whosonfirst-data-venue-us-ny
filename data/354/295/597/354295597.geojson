@@ -2,13 +2,14 @@
   "id": 354295597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.73946,40.616226,-73.73946,40.616226",
     "geom:latitude":40.616226,
     "geom:longitude":-73.73946,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"68 Wanser Ave",
     "sg:city":"Inwood",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.olgcparish.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85818909,
+        102191575,
+        404521473,
         85633793,
         85977631,
         102082371,
-        85818909
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"beeabb06d654eaa7e4716b34c6ecdec2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977631,
             "neighbourhood_id":85818909,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":354295597,
-    "wof:lastmodified":1449066610,
+    "wof:lastmodified":1454130979,
     "wof:name":"Our Lady Of Good Counsel",
     "wof:parent_id":85818909,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "religious"
     ]
 },
-  "bbox": [-73.73946,40.616226,-73.73946,40.616226],
-  "geometry": {"coordinates":[-73.73946,40.616226],"type":"Point"}
+  "bbox": [
+    -73.73946,
+    40.616226,
+    -73.73946,
+    40.616226
+],
+  "geometry": {"coordinates":[-73.73945999999999,40.616226],"type":"Point"}
 }

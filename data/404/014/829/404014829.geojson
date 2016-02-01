@@ -2,13 +2,14 @@
   "id": 404014829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.127815,40.636599,-74.127815,40.636599",
     "geom:latitude":40.636599,
     "geom:longitude":-74.127815,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 Rector St",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"www.richmondelevator.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865885,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85865885
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"e93b5e5c265d6f9ef7743fb7a695cca2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865885,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":404014829,
-    "wof:lastmodified":1449039629,
+    "wof:lastmodified":1454128891,
     "wof:name":"Richmond Elevator Company Inc",
     "wof:parent_id":85865885,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-74.127815,40.636599,-74.127815,40.636599],
+  "bbox": [
+    -74.127815,
+    40.636599,
+    -74.127815,
+    40.636599
+],
   "geometry": {"coordinates":[-74.127815,40.636599],"type":"Point"}
 }

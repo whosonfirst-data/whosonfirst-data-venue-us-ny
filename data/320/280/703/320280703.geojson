@@ -2,13 +2,14 @@
   "id": 320280703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.837262,40.912136,-73.837262,40.912136",
     "geom:latitude":40.912136,
     "geom:longitude":-73.837262,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Gramatan Ave",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"820db00e5f03dcfe4b323a4ea8f487ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":320280703
         }
     ],
     "wof:id":320280703,
-    "wof:lastmodified":1449013100,
+    "wof:lastmodified":1454125062,
     "wof:name":"Lite N Sweet Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "donut"
     ]
 },
-  "bbox": [-73.837262,40.912136,-73.837262,40.912136],
+  "bbox": [
+    -73.837262,
+    40.912136,
+    -73.837262,
+    40.912136
+],
   "geometry": {"coordinates":[-73.837262,40.912136],"type":"Point"}
 }

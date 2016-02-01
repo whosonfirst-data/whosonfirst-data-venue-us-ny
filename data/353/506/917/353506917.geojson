@@ -2,13 +2,14 @@
   "id": 353506917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.886505,40.721774,-73.886505,40.721774",
     "geom:latitude":40.721774,
     "geom:longitude":-73.886505,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7201 Eliot Ave",
     "sg:city":"Middle Village",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529699,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"26d208dc707fd521af0092f2aefcc886",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529699,
             "region_id":85688543,
             "venue_id":353506917
         }
     ],
     "wof:id":353506917,
-    "wof:lastmodified":1449018310,
+    "wof:lastmodified":1454125965,
     "wof:name":"7-Eleven",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529699,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.886505,40.721774,-73.886505,40.721774],
+  "bbox": [
+    -73.886505,
+    40.721774,
+    -73.886505,
+    40.721774
+],
   "geometry": {"coordinates":[-73.886505,40.721774],"type":"Point"}
 }

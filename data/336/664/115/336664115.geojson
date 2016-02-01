@@ -2,13 +2,14 @@
   "id": 336664115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.911121,40.849418,-73.911121,40.849418",
     "geom:latitude":40.849418,
     "geom:longitude":-73.911121,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1898 Jerome Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865671,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865671
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"de88a093c8cc103c20c83fc4fb9b7803",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865671,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":336664115,
-    "wof:lastmodified":1448997336,
+    "wof:lastmodified":1454122623,
     "wof:name":"Paulino Restaurant",
     "wof:parent_id":85865671,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.911121,40.849418,-73.911121,40.849418],
-  "geometry": {"coordinates":[-73.911121,40.849418],"type":"Point"}
+  "bbox": [
+    -73.911121,
+    40.849418,
+    -73.911121,
+    40.849418
+],
+  "geometry": {"coordinates":[-73.91112099999999,40.849418],"type":"Point"}
 }

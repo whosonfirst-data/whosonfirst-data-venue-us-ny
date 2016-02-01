@@ -2,13 +2,14 @@
   "id": 403856817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.145612,43.115107,-76.145612,43.115107",
     "geom:latitude":43.115107,
     "geom:longitude":-76.145612,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3605 Brewerton Rd",
     "sg:city":"North Syracuse",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825763,
+        102191575,
+        404522845,
         85633793,
         85979209,
         102082351,
-        85825763
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"8885d160cdf63ea50537f66ce702567a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522845,
             "locality_id":85979209,
             "neighbourhood_id":85825763,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":403856817,
-    "wof:lastmodified":1449055019,
+    "wof:lastmodified":1454129379,
     "wof:name":"Enterprise Rent A Car",
     "wof:parent_id":85825763,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "car"
     ]
 },
-  "bbox": [-76.145612,43.115107,-76.145612,43.115107],
+  "bbox": [
+    -76.145612,
+    43.115107,
+    -76.145612,
+    43.115107
+],
   "geometry": {"coordinates":[-76.145612,43.115107],"type":"Point"}
 }

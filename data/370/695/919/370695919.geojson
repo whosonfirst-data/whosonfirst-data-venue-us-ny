@@ -2,13 +2,14 @@
   "id": 370695919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.888954,40.937402,-72.888954,40.937402",
     "geom:latitude":40.937402,
     "geom:longitude":-72.888954,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"24 Cooper St",
     "sg:city":"Shoreham",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.tallgrassgolf.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
         85979677,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"7f35ac7e51f09d001b55497fca299b9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979677,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":370695919
         }
     ],
     "wof:id":370695919,
-    "wof:lastmodified":1449030368,
+    "wof:lastmodified":1454127693,
     "wof:name":"Tallgrass Golf Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "private"
     ]
 },
-  "bbox": [-72.888954,40.937402,-72.888954,40.937402],
+  "bbox": [
+    -72.888954,
+    40.937402,
+    -72.888954,
+    40.937402
+],
   "geometry": {"coordinates":[-72.888954,40.937402],"type":"Point"}
 }

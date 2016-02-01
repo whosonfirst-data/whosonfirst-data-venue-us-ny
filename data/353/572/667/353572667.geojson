@@ -2,13 +2,14 @@
   "id": 353572667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.568043,40.762277,-73.568043,40.762277",
     "geom:latitude":40.762277,
     "geom:longitude":-73.568043,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"855 Prospect Ave",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529181,
+        102191575,
+        404522729,
         85633793,
         85979063,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"54041623c88b250257e97afe6bcc0ebe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979063,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529181,
             "region_id":85688543,
             "venue_id":353572667
         }
     ],
     "wof:id":353572667,
-    "wof:lastmodified":1449019848,
+    "wof:lastmodified":1454126412,
     "wof:name":"A 24 All Day Emergency Lcksmth",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529181,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-73.568043,40.762277,-73.568043,40.762277],
+  "bbox": [
+    -73.568043,
+    40.762277,
+    -73.568043,
+    40.762277
+],
   "geometry": {"coordinates":[-73.568043,40.762277],"type":"Point"}
 }

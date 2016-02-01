@@ -2,13 +2,14 @@
   "id": 354298805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.55931,40.784455,-73.55931,40.784455",
     "geom:latitude":40.784455,
     "geom:longitude":-73.55931,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 Hunt Ct",
     "sg:city":"Jericho",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529157,
+        102191575,
+        404521475,
         85633793,
         85979085,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"a0154b473b4fa4f69cb4673e7ac6dcd8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979085,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529157,
             "region_id":85688543,
             "venue_id":354298805
         }
     ],
     "wof:id":354298805,
-    "wof:lastmodified":1449066366,
+    "wof:lastmodified":1454130903,
     "wof:name":"Pacific Grop The",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529157,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "broker"
     ]
 },
-  "bbox": [-73.55931,40.784455,-73.55931,40.784455],
+  "bbox": [
+    -73.55931,
+    40.784455,
+    -73.55931,
+    40.784455
+],
   "geometry": {"coordinates":[-73.55931,40.784455],"type":"Point"}
 }

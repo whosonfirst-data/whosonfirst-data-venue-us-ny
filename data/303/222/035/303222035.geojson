@@ -2,13 +2,14 @@
   "id": 303222035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.061439,42.092423,-76.061439,42.092423",
     "geom:latitude":42.092423,
     "geom:longitude":-76.061439,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"507 Casterline Ave",
     "sg:city":"Endicott",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528091,
+        102191575,
+        404521829,
         85633793,
         85977985,
-        102081755
+        102081755,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"79e0dc9c81a2de03c1521632aac8c1e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
+            "localadmin_id":404521829,
             "locality_id":85977985,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528091,
             "region_id":85688543,
             "venue_id":303222035
         }
     ],
     "wof:id":303222035,
-    "wof:lastmodified":1448999752,
+    "wof:lastmodified":1454123500,
     "wof:name":"James P Huffman",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-76.061439,42.092423,-76.061439,42.092423],
-  "geometry": {"coordinates":[-76.061439,42.092423],"type":"Point"}
+  "bbox": [
+    -76.061439,
+    42.092423,
+    -76.061439,
+    42.092423
+],
+  "geometry": {"coordinates":[-76.06143899999999,42.092423],"type":"Point"}
 }

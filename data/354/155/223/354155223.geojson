@@ -2,13 +2,14 @@
   "id": 354155223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.28759,40.815571,-73.28759,40.815571",
     "geom:latitude":40.815571,
     "geom:longitude":-73.28759,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"39 Vanderbilt Motor Pkwy",
     "sg:city":"Commack",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"https://www.chase.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892809,
+        102191575,
+        404522517,
         85633793,
         85979867,
         102082395,
-        85892809
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"36e23197db354d963ef954f5b496e068",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979867,
             "neighbourhood_id":85892809,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":354155223,
-    "wof:lastmodified":1449067341,
+    "wof:lastmodified":1454131205,
     "wof:name":"Chase",
     "wof:parent_id":85892809,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "commercial"
     ]
 },
-  "bbox": [-73.28759,40.815571,-73.28759,40.815571],
-  "geometry": {"coordinates":[-73.28759,40.815571],"type":"Point"}
+  "bbox": [
+    -73.28759,
+    40.815571,
+    -73.28759,
+    40.815571
+],
+  "geometry": {"coordinates":[-73.28758999999999,40.815571],"type":"Point"}
 }

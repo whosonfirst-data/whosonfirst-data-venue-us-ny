@@ -2,13 +2,14 @@
   "id": 353507043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.879091,40.725078,-73.879091,40.725078",
     "geom:latitude":40.725078,
     "geom:longitude":-73.879091,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"80-11 Eliot Ave",
     "sg:city":"Middle Village",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.walgreens.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817879,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85817879
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"addcbe82f6afb944e0ad121502c97daa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85817879,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":353507043,
-    "wof:lastmodified":1449019575,
+    "wof:lastmodified":1454126333,
     "wof:name":"Walgreens",
     "wof:parent_id":85817879,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "store"
     ]
 },
-  "bbox": [-73.879091,40.725078,-73.879091,40.725078],
+  "bbox": [
+    -73.879091,
+    40.725078,
+    -73.879091,
+    40.725078
+],
   "geometry": {"coordinates":[-73.879091,40.725078],"type":"Point"}
 }

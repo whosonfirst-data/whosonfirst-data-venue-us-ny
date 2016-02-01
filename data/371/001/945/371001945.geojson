@@ -2,13 +2,14 @@
   "id": 371001945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.945328,42.813553,-73.945328,42.813553",
     "geom:latitude":42.813553,
     "geom:longitude":-73.945328,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"155 Erie Blvd",
     "sg:city":"Schenectady",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.lechase.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85835631,
+        102191575,
+        404522521,
         85633793,
         85977841,
         102081765,
-        85835631
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"2b787057d5ac0889c74f6d31f65a7900",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081765,
+            "localadmin_id":404522521,
             "locality_id":85977841,
             "neighbourhood_id":85835631,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":371001945,
-    "wof:lastmodified":1449049272,
+    "wof:lastmodified":1454129090,
     "wof:name":"Lechase Construction Svc",
     "wof:parent_id":85835631,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.945328,42.813553,-73.945328,42.813553],
+  "bbox": [
+    -73.945328,
+    42.813553,
+    -73.945328,
+    42.813553
+],
   "geometry": {"coordinates":[-73.945328,42.813553],"type":"Point"}
 }

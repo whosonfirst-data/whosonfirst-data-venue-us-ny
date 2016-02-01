@@ -2,13 +2,14 @@
   "id": 269570217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.216906,40.710262,-73.216906,40.710262",
     "geom:latitude":40.710262,
     "geom:longitude":-73.216906,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 Beech Rd",
     "sg:city":"Islip",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892815,
+        102191575,
+        404522517,
         85633793,
+        85979775,
         102082395,
-        85892815
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"44d29f628de38e26893d1cdba064aa0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979775,
             "neighbourhood_id":85892815,
             "region_id":85688543,
             "venue_id":269570217
         }
     ],
     "wof:id":269570217,
-    "wof:lastmodified":1449037567,
+    "wof:lastmodified":1454128674,
     "wof:name":"Bayberry Yacht Club",
     "wof:parent_id":85892815,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "operation"
     ]
 },
-  "bbox": [-73.216906,40.710262,-73.216906,40.710262],
-  "geometry": {"coordinates":[-73.216906,40.710262],"type":"Point"}
+  "bbox": [
+    -73.216906,
+    40.710262,
+    -73.216906,
+    40.710262
+],
+  "geometry": {"coordinates":[-73.21690599999999,40.710262],"type":"Point"}
 }

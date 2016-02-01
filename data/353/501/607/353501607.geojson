@@ -2,13 +2,14 @@
   "id": 353501607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.973029,40.792979,-73.973029,40.792979",
     "geom:latitude":40.792979,
     "geom:longitude":-73.973029,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2565 Broadway",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853285,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85853285
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"5e1deb51b992227b8f4a8bb98a80d2fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853285,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":353501607,
-    "wof:lastmodified":1449020819,
+    "wof:lastmodified":1454126691,
     "wof:name":"Paul Browde MD",
     "wof:parent_id":85853285,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.973029,40.792979,-73.973029,40.792979],
+  "bbox": [
+    -73.973029,
+    40.792979,
+    -73.973029,
+    40.792979
+],
   "geometry": {"coordinates":[-73.973029,40.792979],"type":"Point"}
 }

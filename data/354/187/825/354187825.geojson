@@ -2,13 +2,14 @@
   "id": 354187825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.106133,40.956631,-73.106133,40.956631",
     "geom:latitude":40.956631,
     "geom:longitude":-73.106133,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"77 Dyke Rd",
     "sg:city":"Setauket",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824457,
+        102191575,
+        404521441,
         85633793,
-        85978487,
+        85979927,
         102082395,
-        85824457
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +54,18 @@
     "wof:geomhash":"e55fd4db75e3e7385b066d3af7c79ae8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978487,
+            "localadmin_id":404521441,
+            "locality_id":85979927,
             "neighbourhood_id":85824457,
             "region_id":85688543,
             "venue_id":354187825
         }
     ],
     "wof:id":354187825,
-    "wof:lastmodified":1449066184,
+    "wof:lastmodified":1454130848,
     "wof:name":"Leak Finder",
     "wof:parent_id":85824457,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "siding"
     ]
 },
-  "bbox": [-73.106133,40.956631,-73.106133,40.956631],
+  "bbox": [
+    -73.106133,
+    40.956631,
+    -73.106133,
+    40.956631
+],
   "geometry": {"coordinates":[-73.106133,40.956631],"type":"Point"}
 }

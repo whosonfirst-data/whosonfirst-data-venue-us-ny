@@ -2,13 +2,14 @@
   "id": 370891709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.31119,43.155297,-76.31119,43.155297",
     "geom:latitude":43.155297,
     "geom:longitude":-76.31119,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7900 Glenbrook Dr",
     "sg:city":"Baldwinsville",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85865349,
+        102191575,
+        404522855,
         85633793,
+        85979201,
+        102082351,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"8f1a19eefcbe55ac1c319a4778ed8f94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "localadmin_id":404522855,
+            "locality_id":85979201,
+            "neighbourhood_id":85865349,
             "region_id":85688543,
             "venue_id":370891709
         }
     ],
     "wof:id":370891709,
-    "wof:lastmodified":1449031120,
+    "wof:lastmodified":1454127913,
     "wof:name":"Richard W Mayne PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865349,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-76.31119,43.155297,-76.31119,43.155297],
+  "bbox": [
+    -76.31119,
+    43.155297,
+    -76.31119,
+    43.155297
+],
   "geometry": {"coordinates":[-76.31119,43.155297],"type":"Point"}
 }

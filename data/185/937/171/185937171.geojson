@@ -2,13 +2,14 @@
   "id": 185937171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.95378,40.662861,-73.95378,40.662861",
     "geom:latitude":40.662861,
     "geom:longitude":-73.95378,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"408 Rogers Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.inkwellcafe.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892955,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85892955
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"c6fba459bd6aa241acc28a9dcac51eb3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892955,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":185937171,
-    "wof:lastmodified":1449006928,
+    "wof:lastmodified":1454124185,
     "wof:name":"The Inkwell Cafe",
     "wof:parent_id":85892955,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.95378,40.662861,-73.95378,40.662861],
-  "geometry": {"coordinates":[-73.95378,40.662861],"type":"Point"}
+  "bbox": [
+    -73.95378,
+    40.662861,
+    -73.95378,
+    40.662861
+],
+  "geometry": {"coordinates":[-73.95377999999999,40.662861],"type":"Point"}
 }

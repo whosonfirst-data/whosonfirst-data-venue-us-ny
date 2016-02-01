@@ -2,13 +2,14 @@
   "id": 287106419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.817299,42.989253,-78.817299,42.989253",
     "geom:latitude":42.989253,
     "geom:longitude":-78.817299,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"632 Alberta Dr",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837253,
+        102191575,
+        404522321,
         85633793,
+        85979411,
         102082387,
-        85837253
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"1cdc76b8a1e24ba1193c036cce318853",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979411,
             "neighbourhood_id":85837253,
             "region_id":85688543,
             "venue_id":287106419
         }
     ],
     "wof:id":287106419,
-    "wof:lastmodified":1449000651,
+    "wof:lastmodified":1454123748,
     "wof:name":"Souvlaki King",
     "wof:parent_id":85837253,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-78.817299,42.989253,-78.817299,42.989253],
-  "geometry": {"coordinates":[-78.817299,42.989253],"type":"Point"}
+  "bbox": [
+    -78.817299,
+    42.989253,
+    -78.817299,
+    42.989253
+],
+  "geometry": {"coordinates":[-78.81729900000001,42.989253],"type":"Point"}
 }

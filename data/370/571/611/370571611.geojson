@@ -2,13 +2,14 @@
   "id": 370571611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.973788,40.791697,-73.973788,40.791697",
     "geom:latitude":40.791697,
     "geom:longitude":-73.973788,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2482 Broadway",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853285,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85853285
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"fe356e69077a400a9efdf26aa0679710",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853285,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":370571611,
-    "wof:lastmodified":1449031389,
+    "wof:lastmodified":1454127995,
     "wof:name":"Nosak",
     "wof:parent_id":85853285,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "confectionery"
     ]
 },
-  "bbox": [-73.973788,40.791697,-73.973788,40.791697],
+  "bbox": [
+    -73.973788,
+    40.791697,
+    -73.973788,
+    40.791697
+],
   "geometry": {"coordinates":[-73.973788,40.791697],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354061407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.934575,40.741342,-73.934575,40.741342",
     "geom:latitude":40.741342,
     "geom:longitude":-73.934575,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"150 Academy St",
     "sg:city":"Bayport",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865631,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865631
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"91e1c5afed71885088701e42a3e5288c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865631,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":354061407,
-    "wof:lastmodified":1449067191,
+    "wof:lastmodified":1454131158,
     "wof:name":"Bayport-Blue Point Union Free School District",
     "wof:parent_id":85865631,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "elementary"
     ]
 },
-  "bbox": [-73.934575,40.741342,-73.934575,40.741342],
+  "bbox": [
+    -73.934575,
+    40.741342,
+    -73.934575,
+    40.741342
+],
   "geometry": {"coordinates":[-73.934575,40.741342],"type":"Point"}
 }

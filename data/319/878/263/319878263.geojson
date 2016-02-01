@@ -2,13 +2,14 @@
   "id": 319878263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.160986,42.610555,-76.160986,42.610555",
     "geom:latitude":42.610555,
     "geom:longitude":-76.160986,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Kennedy Pkwy",
     "sg:city":"Cortland",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528395,
+        102191575,
+        404522255,
         85633793,
-        85978513,
-        102083011
+        85978519,
+        102083011,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"11f4a5b55fad9faf4d06215a805cf80d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083011,
-            "locality_id":85978513,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522255,
+            "locality_id":85978519,
+            "neighbourhood_id":420528395,
             "region_id":85688543,
             "venue_id":319878263
         }
     ],
     "wof:id":319878263,
-    "wof:lastmodified":1449024495,
+    "wof:lastmodified":1454126784,
     "wof:name":"Parkway Gardens Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528395,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "apartment"
     ]
 },
-  "bbox": [-76.160986,42.610555,-76.160986,42.610555],
-  "geometry": {"coordinates":[-76.160986,42.610555],"type":"Point"}
+  "bbox": [
+    -76.160986,
+    42.610555,
+    -76.160986,
+    42.610555
+],
+  "geometry": {"coordinates":[-76.16098599999999,42.610555],"type":"Point"}
 }

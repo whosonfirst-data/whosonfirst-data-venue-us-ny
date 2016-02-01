@@ -2,13 +2,14 @@
   "id": 270306571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.218548,40.863614,-73.218548,40.863614",
     "geom:latitude":40.863614,
     "geom:longitude":-73.218548,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"56 Willow Ridge Dr",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530055,
+        102191575,
+        404522669,
         85633793,
         85979919,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"a74cbe822dfb1172590140828f8caeb5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530055,
             "region_id":85688543,
             "venue_id":270306571
         }
     ],
     "wof:id":270306571,
-    "wof:lastmodified":1449011017,
+    "wof:lastmodified":1454124724,
     "wof:name":"New York Productivity Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530055,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-73.218548,40.863614,-73.218548,40.863614],
+  "bbox": [
+    -73.218548,
+    40.863614,
+    -73.218548,
+    40.863614
+],
   "geometry": {"coordinates":[-73.218548,40.863614],"type":"Point"}
 }

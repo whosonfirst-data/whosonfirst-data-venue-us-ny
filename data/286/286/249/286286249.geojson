@@ -2,13 +2,14 @@
   "id": 286286249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.248274,40.790155,-73.248274,40.790155",
     "geom:latitude":40.790155,
     "geom:longitude":-73.248274,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"388 Barleau St",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841665,
+        102191575,
+        404522517,
         85633793,
-        85979883,
+        85979867,
         102082395,
-        85841665
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"495ad037da2c3280c43e301c0a606b27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979883,
+            "localadmin_id":404522517,
+            "locality_id":85979867,
             "neighbourhood_id":85841665,
             "region_id":85688543,
             "venue_id":286286249
         }
     ],
     "wof:id":286286249,
-    "wof:lastmodified":1449015946,
+    "wof:lastmodified":1454125533,
     "wof:name":"Carlito's Way Trucking Inc",
     "wof:parent_id":85841665,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-73.248274,40.790155,-73.248274,40.790155],
-  "geometry": {"coordinates":[-73.248274,40.790155],"type":"Point"}
+  "bbox": [
+    -73.248274,
+    40.790155,
+    -73.248274,
+    40.790155
+],
+  "geometry": {"coordinates":[-73.24827399999999,40.790155],"type":"Point"}
 }

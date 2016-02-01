@@ -2,13 +2,14 @@
   "id": 370497009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.004159,41.927807,-74.004159,41.927807",
     "geom:latitude":41.927807,
     "geom:longitude":-74.004159,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"41 Greenkill Ave",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -49,10 +50,13 @@
     "sg:website":"http://www.servicemasterclean.com/reslf/smclean_leadform.asp?url=http://www.servicemasterclean.com/reslf/smclean_leadform.asp&partnerName=YellowPages.com&adName=yptl&HGProp=SMClean",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857693,
+        102191575,
+        404523249,
         85633793,
+        85977505,
         102081775,
-        85857693
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +66,18 @@
     "wof:geomhash":"81a46d0d97a17ce526e757c26d3c63bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
-            "locality_id":-1,
+            "localadmin_id":404523249,
+            "locality_id":85977505,
             "neighbourhood_id":85857693,
             "region_id":85688543,
             "venue_id":370497009
         }
     ],
     "wof:id":370497009,
-    "wof:lastmodified":1449032420,
+    "wof:lastmodified":1454128298,
     "wof:name":"ServiceMaster Clean",
     "wof:parent_id":85857693,
     "wof:placetype":"venue",
@@ -93,6 +98,11 @@
         "carpet"
     ]
 },
-  "bbox": [-74.004159,41.927807,-74.004159,41.927807],
+  "bbox": [
+    -74.004159,
+    41.927807,
+    -74.004159,
+    41.927807
+],
   "geometry": {"coordinates":[-74.004159,41.927807],"type":"Point"}
 }

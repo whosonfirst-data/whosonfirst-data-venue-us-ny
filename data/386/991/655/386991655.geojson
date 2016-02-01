@@ -2,13 +2,14 @@
   "id": 386991655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.601568,43.153319,-77.601568,43.153319",
     "geom:latitude":43.153319,
     "geom:longitude":-77.601568,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Manhattan Square Dr 3S",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529069,
+        102191575,
+        404521467,
         85633793,
         85977591,
-        102081815
+        102081815,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"51f0ae625ee26b0740cca302eed55686",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529069,
             "region_id":85688543,
             "venue_id":386991655
         }
     ],
     "wof:id":386991655,
-    "wof:lastmodified":1449028713,
+    "wof:lastmodified":1454127214,
     "wof:name":"Holy Ground Studios",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529069,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "label"
     ]
 },
-  "bbox": [-77.601568,43.153319,-77.601568,43.153319],
+  "bbox": [
+    -77.601568,
+    43.153319,
+    -77.601568,
+    43.153319
+],
   "geometry": {"coordinates":[-77.601568,43.153319],"type":"Point"}
 }

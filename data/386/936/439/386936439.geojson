@@ -2,13 +2,14 @@
   "id": 386936439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.22203,40.727934,-73.22203,40.727934",
     "geom:latitude":40.727934,
     "geom:longitude":-73.22203,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"214 Montauk Hwy",
     "sg:city":"Islip",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530029,
+        102191575,
+        404522517,
         85633793,
         85979775,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"e8950c63bd8cb92cfe676dfbf165cacc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979775,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530029,
             "region_id":85688543,
             "venue_id":386936439
         }
     ],
     "wof:id":386936439,
-    "wof:lastmodified":1449028725,
+    "wof:lastmodified":1454127217,
     "wof:name":"Perinos Canvas Man Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530029,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "cushion"
     ]
 },
-  "bbox": [-73.22203,40.727934,-73.22203,40.727934],
+  "bbox": [
+    -73.22203,
+    40.727934,
+    -73.22203,
+    40.727934
+],
   "geometry": {"coordinates":[-73.22203,40.727934],"type":"Point"}
 }

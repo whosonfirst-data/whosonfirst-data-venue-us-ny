@@ -2,13 +2,14 @@
   "id": 269703691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.9996,40.724467,-73.9996,40.724467",
     "geom:latitude":40.724467,
     "geom:longitude":-73.9996,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"102 Greene St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865687,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865687
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"74a6ea33b7d7681acf209285e5f9f9f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865687,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":269703691,
-    "wof:lastmodified":1449036879,
+    "wof:lastmodified":1454128572,
     "wof:name":"Katherine Miller",
     "wof:parent_id":85865687,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "studio"
     ]
 },
-  "bbox": [-73.9996,40.724467,-73.9996,40.724467],
+  "bbox": [
+    -73.9996,
+    40.724467,
+    -73.9996,
+    40.724467
+],
   "geometry": {"coordinates":[-73.9996,40.724467],"type":"Point"}
 }

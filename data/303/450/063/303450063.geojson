@@ -2,13 +2,14 @@
   "id": 303450063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.178385,42.930193,-74.178385,42.930193",
     "geom:latitude":42.930193,
     "geom:longitude":-74.178385,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"19 Elk St",
     "sg:city":"Amsterdam",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845525,
+        102191575,
+        404522661,
         85633793,
         85978245,
         102082985,
-        85845525
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"d58f4d6ced080916f0e5709ce0e39baa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082985,
+            "localadmin_id":404522661,
             "locality_id":85978245,
             "neighbourhood_id":85845525,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303450063,
-    "wof:lastmodified":1449000185,
+    "wof:lastmodified":1454123620,
     "wof:name":"Amsterdam Auto RPR",
     "wof:parent_id":85845525,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-74.178385,42.930193,-74.178385,42.930193],
-  "geometry": {"coordinates":[-74.178385,42.930193],"type":"Point"}
+  "bbox": [
+    -74.178385,
+    42.930193,
+    -74.178385,
+    42.930193
+],
+  "geometry": {"coordinates":[-74.17838500000001,42.930193],"type":"Point"}
 }

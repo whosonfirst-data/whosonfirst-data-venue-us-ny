@@ -2,13 +2,14 @@
   "id": 269515533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.745739,40.63076,-73.745739,40.63076",
     "geom:latitude":40.63076,
     "geom:longitude":-73.745739,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Johnson Rd",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -29,11 +30,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
-        85977631,
-        102082371,
-        85818909
+        85977539,
+        102082361,
+        85688543,
+        85865647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +48,32 @@
     "wof:geomhash":"d576a771382a2808149fe30ebe9e6860",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082371,
-            "locality_id":85977631,
-            "neighbourhood_id":85818909,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":85823673,
+            "region_id":85688543,
+            "venue_id":269515533
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":85865647,
             "region_id":85688543,
             "venue_id":269515533
         }
     ],
     "wof:id":269515533,
-    "wof:lastmodified":1449036695,
+    "wof:lastmodified":1454128544,
     "wof:name":"Uti (us) Holdings Inc",
-    "wof:parent_id":85818909,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +83,11 @@
         "clerical"
     ]
 },
-  "bbox": [-73.745739,40.63076,-73.745739,40.63076],
+  "bbox": [
+    -73.745739,
+    40.63076,
+    -73.745739,
+    40.63076
+],
   "geometry": {"coordinates":[-73.745739,40.63076],"type":"Point"}
 }

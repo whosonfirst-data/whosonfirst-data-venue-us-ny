@@ -2,13 +2,14 @@
   "id": 370558595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.974524,41.717527,-73.974524,41.717527",
     "geom:latitude":41.717527,
     "geom:longitude":-73.974524,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"32 Brescia Blvd",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825183,
+        102191575,
+        404523253,
         85633793,
         85978939,
         102081775,
-        85825183
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"da56e9446f95bf4d8ba09d73ac42192b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
+            "localadmin_id":404523253,
             "locality_id":85978939,
             "neighbourhood_id":85825183,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":370558595,
-    "wof:lastmodified":1449030028,
+    "wof:lastmodified":1454127589,
     "wof:name":"Trinity Electric",
     "wof:parent_id":85825183,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "electrician"
     ]
 },
-  "bbox": [-73.974524,41.717527,-73.974524,41.717527],
+  "bbox": [
+    -73.974524,
+    41.717527,
+    -73.974524,
+    41.717527
+],
   "geometry": {"coordinates":[-73.974524,41.717527],"type":"Point"}
 }

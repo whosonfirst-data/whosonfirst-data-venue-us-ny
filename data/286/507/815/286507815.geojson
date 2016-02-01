@@ -2,13 +2,14 @@
   "id": 286507815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.374756,42.060545,-78.374756,42.060545",
     "geom:latitude":42.060545,
     "geom:longitude":-78.374756,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1307 Olean-Portville Rd",
     "sg:city":"Olean",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528145,
+        102191575,
+        404521793,
         85633793,
         85979021,
-        102081853
+        102081853,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"92514e86d6b8922f0d9fa5e625f77350",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081853,
+            "localadmin_id":404521793,
             "locality_id":85979021,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528145,
             "region_id":85688543,
             "venue_id":286507815
         }
     ],
     "wof:id":286507815,
-    "wof:lastmodified":1449016705,
+    "wof:lastmodified":1454125665,
     "wof:name":"Ganoung's Fire Protection Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528145,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "automatic"
     ]
 },
-  "bbox": [-78.374756,42.060545,-78.374756,42.060545],
+  "bbox": [
+    -78.374756,
+    42.060545,
+    -78.374756,
+    42.060545
+],
   "geometry": {"coordinates":[-78.374756,42.060545],"type":"Point"}
 }

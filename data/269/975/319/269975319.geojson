@@ -2,13 +2,14 @@
   "id": 269975319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.218424,40.813877,-73.218424,40.813877",
     "geom:latitude":40.813877,
     "geom:longitude":-73.218424,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"490 Wheeler Rd",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"256b98988fb0d9668faae6d58117787b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":269975319
         }
     ],
     "wof:id":269975319,
-    "wof:lastmodified":1449038512,
+    "wof:lastmodified":1454128769,
     "wof:name":"IMR Assoc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-73.218424,40.813877,-73.218424,40.813877],
+  "bbox": [
+    -73.218424,
+    40.813877,
+    -73.218424,
+    40.813877
+],
   "geometry": {"coordinates":[-73.218424,40.813877],"type":"Point"}
 }

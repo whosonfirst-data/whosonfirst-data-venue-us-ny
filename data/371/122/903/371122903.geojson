@@ -2,13 +2,14 @@
   "id": 371122903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.124626,40.628644,-74.124626,40.628644",
     "geom:latitude":40.628644,
     "geom:longitude":-74.124626,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"740 Delafield Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865885,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85865885
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"af81bf9e96519fa41bcf679255b63fed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865885,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":371122903,
-    "wof:lastmodified":1449049643,
+    "wof:lastmodified":1454129179,
     "wof:name":"Medical Billing Resources",
     "wof:parent_id":85865885,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "billing"
     ]
 },
-  "bbox": [-74.124626,40.628644,-74.124626,40.628644],
-  "geometry": {"coordinates":[-74.124626,40.628644],"type":"Point"}
+  "bbox": [
+    -74.124626,
+    40.628644,
+    -74.124626,
+    40.628644
+],
+  "geometry": {"coordinates":[-74.12462600000001,40.628644],"type":"Point"}
 }

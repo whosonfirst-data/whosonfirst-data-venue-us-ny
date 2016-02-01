@@ -2,13 +2,14 @@
   "id": 252782859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.149389,40.8549,-73.149389,40.8549",
     "geom:latitude":40.8549,
     "geom:longitude":-73.149389,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Michael Pl",
     "sg:city":"Nesconset",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816389,
+        102191575,
+        404522517,
         85633793,
-        85979773,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"2dc4674d8a2422ae265ec696e0465536",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":85816389,
             "region_id":85688543,
             "venue_id":252782859
         }
     ],
     "wof:id":252782859,
-    "wof:lastmodified":1449005398,
+    "wof:lastmodified":1454123982,
     "wof:name":"First American Bus Prods Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816389,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.149389,40.8549,-73.149389,40.8549],
+  "bbox": [
+    -73.149389,
+    40.8549,
+    -73.149389,
+    40.8549
+],
   "geometry": {"coordinates":[-73.149389,40.8549],"type":"Point"}
 }

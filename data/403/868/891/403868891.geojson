@@ -2,13 +2,14 @@
   "id": 403868891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.829345,40.75748,-73.829345,40.75748",
     "geom:latitude":40.75748,
     "geom:longitude":-73.829345,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13311 41st Rd",
     "sg:city":"Flushing",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819703,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819703
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"8d4d3fe49ed1d781f48fe604ef6f6b8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819703,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":403868891,
-    "wof:lastmodified":1449054677,
+    "wof:lastmodified":1454129329,
     "wof:name":"Wgbb AM 1240",
     "wof:parent_id":85819703,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.829345,40.75748,-73.829345,40.75748],
+  "bbox": [
+    -73.829345,
+    40.75748,
+    -73.829345,
+    40.75748
+],
   "geometry": {"coordinates":[-73.829345,40.75748],"type":"Point"}
 }

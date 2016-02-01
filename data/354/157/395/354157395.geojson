@@ -2,13 +2,14 @@
   "id": 354157395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.45087,40.785377,-73.45087,40.785377",
     "geom:latitude":40.785377,
     "geom:longitude":-73.45087,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"45 Cain Dr",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"a416de0695443dfef257b5136de0bd4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":354157395
         }
     ],
     "wof:id":354157395,
-    "wof:lastmodified":1449067421,
+    "wof:lastmodified":1454131230,
     "wof:name":"Achin Technical Enterprises",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "molding"
     ]
 },
-  "bbox": [-73.45087,40.785377,-73.45087,40.785377],
-  "geometry": {"coordinates":[-73.45087,40.785377],"type":"Point"}
+  "bbox": [
+    -73.45087,
+    40.785377,
+    -73.45087,
+    40.785377
+],
+  "geometry": {"coordinates":[-73.45086999999999,40.785377],"type":"Point"}
 }

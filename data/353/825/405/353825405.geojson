@@ -2,13 +2,14 @@
   "id": 353825405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.731387,40.774777,-73.731387,40.774777",
     "geom:latitude":40.774777,
     "geom:longitude":-73.731387,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"124 Northern Blvd",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     "sg:website":"www.plazagn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85830971,
+        102191575,
+        404522729,
         85633793,
-        85977539,
-        102082377,
-        85830971
+        85977727,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +54,18 @@
     "wof:geomhash":"0239691e83d643cdd4eff3f2cd2f6a64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404522729,
+            "locality_id":85977727,
             "neighbourhood_id":85830971,
             "region_id":85688543,
             "venue_id":353825405
         }
     ],
     "wof:id":353825405,
-    "wof:lastmodified":1449018341,
+    "wof:lastmodified":1454125974,
     "wof:name":"Plaza Printing & Copying",
     "wof:parent_id":85830971,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "offset"
     ]
 },
-  "bbox": [-73.731387,40.774777,-73.731387,40.774777],
+  "bbox": [
+    -73.731387,
+    40.774777,
+    -73.731387,
+    40.774777
+],
   "geometry": {"coordinates":[-73.731387,40.774777],"type":"Point"}
 }

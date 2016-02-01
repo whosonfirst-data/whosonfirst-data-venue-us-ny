@@ -2,13 +2,14 @@
   "id": 253481295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.921397,41.569099,-73.921397,41.569099",
     "geom:latitude":41.569099,
     "geom:longitude":-73.921397,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Cauda Ln",
     "sg:city":"Wappingers Falls",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528475,
+        102191575,
+        404522225,
         85633793,
+        85979249,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"3703a419e905748cc2edaecea6afa6fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522225,
+            "locality_id":85979249,
+            "neighbourhood_id":420528475,
             "region_id":85688543,
             "venue_id":253481295
         }
     ],
     "wof:id":253481295,
-    "wof:lastmodified":1449065392,
+    "wof:lastmodified":1454130675,
     "wof:name":"E Z Flow Gutters",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528475,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "gutter"
     ]
 },
-  "bbox": [-73.921397,41.569099,-73.921397,41.569099],
+  "bbox": [
+    -73.921397,
+    41.569099,
+    -73.921397,
+    41.569099
+],
   "geometry": {"coordinates":[-73.921397,41.569099],"type":"Point"}
 }

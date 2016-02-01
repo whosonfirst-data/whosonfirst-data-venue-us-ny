@@ -2,13 +2,14 @@
   "id": 303381127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.97612,40.681148,-73.97612,40.681148",
     "geom:latitude":40.681148,
     "geom:longitude":-73.97612,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"466 Bergen St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.haitianwomensprogram.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840609,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85840609
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"3cc72639fc2a39c1c83a53c9ab7305d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85840609,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303381127,
-    "wof:lastmodified":1448998319,
+    "wof:lastmodified":1454123056,
     "wof:name":"Diaspora Community Svc",
     "wof:parent_id":85840609,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "welfare"
     ]
 },
-  "bbox": [-73.97612,40.681148,-73.97612,40.681148],
-  "geometry": {"coordinates":[-73.97612,40.681148],"type":"Point"}
+  "bbox": [
+    -73.97612,
+    40.681148,
+    -73.97612,
+    40.681148
+],
+  "geometry": {"coordinates":[-73.97611999999999,40.681148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387301265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.974807,40.758725,-73.974807,40.758725",
     "geom:latitude":40.758725,
     "geom:longitude":-73.974807,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"485 Madison Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869487,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85869487
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"96bd48d3511efe10e16886d5dad68c21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869487,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387301265,
-    "wof:lastmodified":1449057075,
+    "wof:lastmodified":1454129701,
     "wof:name":"T-Mobile USA Inc",
     "wof:parent_id":85869487,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "accessory"
     ]
 },
-  "bbox": [-73.974807,40.758725,-73.974807,40.758725],
+  "bbox": [
+    -73.974807,
+    40.758725,
+    -73.974807,
+    40.758725
+],
   "geometry": {"coordinates":[-73.974807,40.758725],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253288477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.102133,43.058991,-76.102133,43.058991",
     "geom:latitude":43.058991,
     "geom:longitude":-76.102133,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2400 Burnet Ave",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881263,
+        102191575,
+        404521501,
         85633793,
-        85977785,
-        102082351
+        85977799,
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"dafaef793b79413b4d8ccf19f3666d71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
-            "locality_id":85977785,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521501,
+            "locality_id":85977799,
+            "neighbourhood_id":85881263,
             "region_id":85688543,
             "venue_id":253288477
         }
     ],
     "wof:id":253288477,
-    "wof:lastmodified":1449063121,
+    "wof:lastmodified":1454130293,
     "wof:name":"Karl's Klocks",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881263,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "clocks"
     ]
 },
-  "bbox": [-76.102133,43.058991,-76.102133,43.058991],
-  "geometry": {"coordinates":[-76.102133,43.058991],"type":"Point"}
+  "bbox": [
+    -76.102133,
+    43.058991,
+    -76.102133,
+    43.058991
+],
+  "geometry": {"coordinates":[-76.10213299999999,43.058991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370908577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.023199,40.873228,-73.023199,40.873228",
     "geom:latitude":40.873228,
     "geom:longitude":-73.023199,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Freemont Ln",
     "sg:city":"Coram",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"1ad48fd65970658b7bb8fffe5099d9d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":370908577
         }
     ],
     "wof:id":370908577,
-    "wof:lastmodified":1449030994,
+    "wof:lastmodified":1454127876,
     "wof:name":"Party Creations",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "planning"
     ]
 },
-  "bbox": [-73.023199,40.873228,-73.023199,40.873228],
-  "geometry": {"coordinates":[-73.023199,40.873228],"type":"Point"}
+  "bbox": [
+    -73.023199,
+    40.873228,
+    -73.023199,
+    40.873228
+],
+  "geometry": {"coordinates":[-73.02319900000001,40.873228],"type":"Point"}
 }

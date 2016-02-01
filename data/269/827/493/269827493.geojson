@@ -2,13 +2,14 @@
   "id": 269827493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.245608,42.109857,-79.245608,42.109857",
     "geom:latitude":42.109857,
     "geom:longitude":-79.245608,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1911 Washington St",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817873,
+        102191575,
+        404521959,
         85633793,
+        85980155,
         102081811,
-        85817873
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"4831d9d154b4d5286971fd937b33224c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081811,
-            "locality_id":-1,
+            "localadmin_id":404521959,
+            "locality_id":85980155,
             "neighbourhood_id":85817873,
             "region_id":85688543,
             "venue_id":269827493
         }
     ],
     "wof:id":269827493,
-    "wof:lastmodified":1449036995,
+    "wof:lastmodified":1454128588,
     "wof:name":"Strickland Optical Lab",
     "wof:parent_id":85817873,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-79.245608,42.109857,-79.245608,42.109857],
+  "bbox": [
+    -79.245608,
+    42.109857,
+    -79.245608,
+    42.109857
+],
   "geometry": {"coordinates":[-79.245608,42.109857],"type":"Point"}
 }

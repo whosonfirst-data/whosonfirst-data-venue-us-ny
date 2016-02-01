@@ -2,13 +2,14 @@
   "id": 370914167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.658396,40.991081,-73.658396,40.991081",
     "geom:latitude":40.991081,
     "geom:longitude":-73.658396,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"98 Fox Island Rd",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530421,
+        102191575,
+        404523389,
         85633793,
         85978705,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"6bae6b8d516b8841de384d3c5e1c240c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523389,
             "locality_id":85978705,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530421,
             "region_id":85688543,
             "venue_id":370914167
         }
     ],
     "wof:id":370914167,
-    "wof:lastmodified":1449030378,
+    "wof:lastmodified":1454127696,
     "wof:name":"GFI Communications Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530421,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [-73.658396,40.991081,-73.658396,40.991081],
+  "bbox": [
+    -73.658396,
+    40.991081,
+    -73.658396,
+    40.991081
+],
   "geometry": {"coordinates":[-73.658396,40.991081],"type":"Point"}
 }

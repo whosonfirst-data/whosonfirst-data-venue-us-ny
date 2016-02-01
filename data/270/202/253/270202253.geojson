@@ -2,13 +2,14 @@
   "id": 270202253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.879239,40.873899,-73.879239,40.873899",
     "geom:latitude":40.873899,
     "geom:longitude":-73.879239,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3140 Bainbridge Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869557,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869557
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"29397acec71fb0b1eb92ec26ece680f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869557,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":270202253,
-    "wof:lastmodified":1449010772,
+    "wof:lastmodified":1454124686,
     "wof:name":"Nikitas Coffee Shop Inc",
     "wof:parent_id":85869557,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.879239,40.873899,-73.879239,40.873899],
+  "bbox": [
+    -73.879239,
+    40.873899,
+    -73.879239,
+    40.873899
+],
   "geometry": {"coordinates":[-73.879239,40.873899],"type":"Point"}
 }

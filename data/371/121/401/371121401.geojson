@@ -2,13 +2,14 @@
   "id": 371121401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.837165,42.846988,-78.837165,42.846988",
     "geom:latitude":42.846988,
     "geom:longitude":-78.837165,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"637 Tifft St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.skywayauto.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872909,
+        102191575,
+        404522349,
         85633793,
         85978009,
         102082387,
-        85872909
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +61,10 @@
     "wof:geomhash":"0dcf4bdac15a598318917d6150ce38d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522349,
             "locality_id":85978009,
             "neighbourhood_id":85872909,
             "region_id":85688543,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":371121401,
-    "wof:lastmodified":1449049853,
+    "wof:lastmodified":1454129228,
     "wof:name":"Skyway Auto Parts Inc",
     "wof:parent_id":85872909,
     "wof:placetype":"venue",
@@ -84,6 +88,11 @@
         "salvage"
     ]
 },
-  "bbox": [-78.837165,42.846988,-78.837165,42.846988],
+  "bbox": [
+    -78.837165,
+    42.846988,
+    -78.837165,
+    42.846988
+],
   "geometry": {"coordinates":[-78.837165,42.846988],"type":"Point"}
 }

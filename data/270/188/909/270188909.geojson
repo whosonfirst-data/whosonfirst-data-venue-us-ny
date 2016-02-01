@@ -2,13 +2,14 @@
   "id": 270188909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.185634,40.840273,-73.185634,40.840273",
     "geom:latitude":40.840273,
     "geom:longitude":-73.185634,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 Dale Ln",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530053,
+        102191575,
+        404522517,
         85633793,
-        85979919,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"a23b77efaedd7309e248f8f444cf8b1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530053,
             "region_id":85688543,
             "venue_id":270188909
         }
     ],
     "wof:id":270188909,
-    "wof:lastmodified":1449009855,
+    "wof:lastmodified":1454124545,
     "wof:name":"Wieser Solution",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.185634,40.840273,-73.185634,40.840273],
-  "geometry": {"coordinates":[-73.185634,40.840273],"type":"Point"}
+  "bbox": [
+    -73.185634,
+    40.840273,
+    -73.185634,
+    40.840273
+],
+  "geometry": {"coordinates":[-73.18563399999999,40.840273],"type":"Point"}
 }

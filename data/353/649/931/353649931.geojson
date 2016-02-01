@@ -2,13 +2,14 @@
   "id": 353649931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.858017,40.692439,-73.858017,40.692439",
     "geom:latitude":40.692439,
     "geom:longitude":-73.858017,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8616 Jamaica Ave",
     "sg:city":"Woodhaven",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85858649,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85858649
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"7c1dc5dbd9c2cfbfa7f85f82f4fc9b67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85858649,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":353649931,
-    "wof:lastmodified":1449019979,
+    "wof:lastmodified":1454126449,
     "wof:name":"Doctor Marciano Doctor Muraca",
     "wof:parent_id":85858649,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.858017,40.692439,-73.858017,40.692439],
+  "bbox": [
+    -73.858017,
+    40.692439,
+    -73.858017,
+    40.692439
+],
   "geometry": {"coordinates":[-73.858017,40.692439],"type":"Point"}
 }

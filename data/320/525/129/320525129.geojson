@@ -2,13 +2,14 @@
   "id": 320525129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.274507,43.101032,-74.274507,43.101032",
     "geom:latitude":43.101032,
     "geom:longitude":-74.274507,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"107 Lake St",
     "sg:city":"Mayfield",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528705,
+        102191575,
+        404521375,
         85633793,
+        85978039,
+        102081813,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"5bb3e36a639932a737ad20275b1320ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081813,
+            "localadmin_id":404521375,
+            "locality_id":85978039,
+            "neighbourhood_id":420528705,
             "region_id":85688543,
             "venue_id":320525129
         }
     ],
     "wof:id":320525129,
-    "wof:lastmodified":1449014188,
+    "wof:lastmodified":1454125239,
     "wof:name":"Graphics By George",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528705,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-74.274507,43.101032,-74.274507,43.101032],
+  "bbox": [
+    -74.274507,
+    43.101032,
+    -74.274507,
+    43.101032
+],
   "geometry": {"coordinates":[-74.274507,43.101032],"type":"Point"}
 }

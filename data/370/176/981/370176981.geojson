@@ -2,13 +2,14 @@
   "id": 370176981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.133462,41.123505,-74.133462,41.123505",
     "geom:latitude":41.123505,
     "geom:longitude":-74.133462,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"439 Genesee Ct",
     "sg:city":"Suffern",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529777,
+        102191575,
+        404523097,
         85633793,
-        85978523,
-        102082385
+        85978545,
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"3df62b52b34b94d5e933798d4490e4b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85978523,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523097,
+            "locality_id":85978545,
+            "neighbourhood_id":420529777,
             "region_id":85688543,
             "venue_id":370176981
         }
     ],
     "wof:id":370176981,
-    "wof:lastmodified":1449031285,
+    "wof:lastmodified":1454127962,
     "wof:name":"Three Boys Mannor Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529777,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "drinking"
     ]
 },
-  "bbox": [-74.133462,41.123505,-74.133462,41.123505],
-  "geometry": {"coordinates":[-74.133462,41.123505],"type":"Point"}
+  "bbox": [
+    -74.133462,
+    41.123505,
+    -74.133462,
+    41.123505
+],
+  "geometry": {"coordinates":[-74.13346199999999,41.123505],"type":"Point"}
 }

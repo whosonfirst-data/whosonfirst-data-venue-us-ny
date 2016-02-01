@@ -2,13 +2,14 @@
   "id": 354068655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.246249,40.722697,-73.246249,40.722697",
     "geom:latitude":40.722697,
     "geom:longitude":-73.246249,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"413 E Main St Apt A4",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530027,
+        102191575,
+        404522517,
         85633793,
         85979719,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"d01d97a620a4d29378a28b54ac20039a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530027,
             "region_id":85688543,
             "venue_id":354068655
         }
     ],
     "wof:id":354068655,
-    "wof:lastmodified":1449066803,
+    "wof:lastmodified":1454131036,
     "wof:name":"Bay Shore Gardens Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530027,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-73.246249,40.722697,-73.246249,40.722697],
-  "geometry": {"coordinates":[-73.246249,40.722697],"type":"Point"}
+  "bbox": [
+    -73.246249,
+    40.722697,
+    -73.246249,
+    40.722697
+],
+  "geometry": {"coordinates":[-73.24624900000001,40.722697],"type":"Point"}
 }

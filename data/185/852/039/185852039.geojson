@@ -2,13 +2,14 @@
   "id": 185852039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.925355,40.698077,-73.925355,40.698077",
     "geom:latitude":40.698077,
     "geom:longitude":-73.925355,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"Fort Greene Park",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"www.thestandny.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85808635,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85808635
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"76b532ea67f8241e20e10ca798e12ad0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85808635,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":185852039,
-    "wof:lastmodified":1449007962,
+    "wof:lastmodified":1454124318,
     "wof:name":"The Stand NY",
     "wof:parent_id":85808635,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "stand"
     ]
 },
-  "bbox": [-73.925355,40.698077,-73.925355,40.698077],
+  "bbox": [
+    -73.925355,
+    40.698077,
+    -73.925355,
+    40.698077
+],
   "geometry": {"coordinates":[-73.925355,40.698077],"type":"Point"}
 }

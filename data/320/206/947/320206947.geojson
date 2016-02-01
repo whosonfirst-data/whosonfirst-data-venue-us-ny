@@ -2,13 +2,14 @@
   "id": 320206947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.906758,40.843643,-73.906758,40.843643",
     "geom:latitude":40.843643,
     "geom:longitude":-73.906758,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1654 Monroe Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892767,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85892767
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"53974ab3b7b0d48c017cb56856febbdd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892767,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":320206947,
-    "wof:lastmodified":1449013815,
+    "wof:lastmodified":1454125176,
     "wof:name":"Fiesta Mexico",
     "wof:parent_id":85892767,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "alcoholic"
     ]
 },
-  "bbox": [-73.906758,40.843643,-73.906758,40.843643],
+  "bbox": [
+    -73.906758,
+    40.843643,
+    -73.906758,
+    40.843643
+],
   "geometry": {"coordinates":[-73.906758,40.843643],"type":"Point"}
 }

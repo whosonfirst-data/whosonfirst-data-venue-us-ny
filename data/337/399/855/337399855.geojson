@@ -2,13 +2,14 @@
   "id": 337399855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.879127,41.007912,-73.879127,41.007912",
     "geom:latitude":41.007912,
     "geom:longitude":-73.879127,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"115 Broadway",
     "sg:city":"Dobbs Ferry",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85849177,
+        102191575,
+        404523359,
         85633793,
-        102082385,
-        85849177
+        85978743,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"31f279311b9c73630165e8715b1e6e4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082385,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523359,
+            "locality_id":85978743,
             "neighbourhood_id":85849177,
             "region_id":85688543,
             "venue_id":337399855
         }
     ],
     "wof:id":337399855,
-    "wof:lastmodified":1449027070,
+    "wof:lastmodified":1454126917,
     "wof:name":"Xavier Carnicelli",
     "wof:parent_id":85849177,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "clergy"
     ]
 },
-  "bbox": [-73.879127,41.007912,-73.879127,41.007912],
+  "bbox": [
+    -73.879127,
+    41.007912,
+    -73.879127,
+    41.007912
+],
   "geometry": {"coordinates":[-73.879127,41.007912],"type":"Point"}
 }

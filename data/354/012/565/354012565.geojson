@@ -2,13 +2,14 @@
   "id": 354012565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.559883,40.764519,-73.559883,40.764519",
     "geom:latitude":40.764519,
     "geom:longitude":-73.559883,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"998 Park Ave",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"http://www.yext.com/p/superpages/park-avenue-appliance-repair-westbury-new-york.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85856711,
+        102191575,
+        404521475,
         85633793,
-        85979063,
+        85979093,
         102082371,
-        85856711
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"4c6ad2e6c29e55f5000d91b071df3ae8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979063,
+            "localadmin_id":404521475,
+            "locality_id":85979093,
             "neighbourhood_id":85856711,
             "region_id":85688543,
             "venue_id":354012565
         }
     ],
     "wof:id":354012565,
-    "wof:lastmodified":1449067503,
+    "wof:lastmodified":1454131255,
     "wof:name":"Park Avenue Appliance Repair",
     "wof:parent_id":85856711,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "washer"
     ]
 },
-  "bbox": [-73.559883,40.764519,-73.559883,40.764519],
+  "bbox": [
+    -73.559883,
+    40.764519,
+    -73.559883,
+    40.764519
+],
   "geometry": {"coordinates":[-73.559883,40.764519],"type":"Point"}
 }

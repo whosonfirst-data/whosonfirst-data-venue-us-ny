@@ -2,13 +2,14 @@
   "id": 370158077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.02668,40.860001,-73.02668,40.860001",
     "geom:latitude":40.860001,
     "geom:longitude":-73.02668,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"59 S Bicycle Path",
     "sg:city":"Selden",
     "sg:classifiers":[
@@ -45,11 +46,13 @@
     "sg:website":"http://www.directsattv.com/directv/?tfid=ypm",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,17 +62,18 @@
     "wof:geomhash":"855aba95e327d2cd524a113a7e0344bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":370158077
         }
     ],
     "wof:id":370158077,
-    "wof:lastmodified":1449031333,
+    "wof:lastmodified":1454127976,
     "wof:name":"Direct Sat TV - An Authorized DIRECTV Dealer",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -86,6 +90,11 @@
         "provider"
     ]
 },
-  "bbox": [-73.02668,40.860001,-73.02668,40.860001],
+  "bbox": [
+    -73.02668,
+    40.860001,
+    -73.02668,
+    40.860001
+],
   "geometry": {"coordinates":[-73.02668,40.860001],"type":"Point"}
 }

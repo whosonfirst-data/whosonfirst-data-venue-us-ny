@@ -2,13 +2,14 @@
   "id": 269551861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.433553,44.824439,-73.433553,44.824439",
     "geom:latitude":44.824439,
     "geom:longitude":-73.433553,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8566 US Hwy 9",
     "sg:city":"Lewis",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85845605,
+        102081797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"64caf262c962df749d55ab32cd4b7486",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081797,
+            "neighbourhood_id":85845605,
             "region_id":85688543,
             "venue_id":269551861
         }
     ],
     "wof:id":269551861,
-    "wof:lastmodified":1449036630,
+    "wof:lastmodified":1454128536,
     "wof:name":"Lewis Town Justice Court",
-    "wof:parent_id":-1,
+    "wof:parent_id":85845605,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "city"
     ]
 },
-  "bbox": [-73.433553,44.824439,-73.433553,44.824439],
+  "bbox": [
+    -73.433553,
+    44.824439,
+    -73.433553,
+    44.824439
+],
   "geometry": {"coordinates":[-73.433553,44.824439],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336871015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.089558,43.053991,-76.089558,43.053991",
     "geom:latitude":43.053991,
     "geom:longitude":-76.089558,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Polk St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881263,
+        102191575,
+        404521501,
         85633793,
         85977799,
         102082351,
-        85881263
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"24bd4db302b68c7c541b1dbae2a5ba62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404521501,
             "locality_id":85977799,
             "neighbourhood_id":85881263,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":336871015,
-    "wof:lastmodified":1448997287,
+    "wof:lastmodified":1454122558,
     "wof:name":"Total Finish Floors",
     "wof:parent_id":85881263,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "floor"
     ]
 },
-  "bbox": [-76.089558,43.053991,-76.089558,43.053991],
+  "bbox": [
+    -76.089558,
+    43.053991,
+    -76.089558,
+    43.053991
+],
   "geometry": {"coordinates":[-76.089558,43.053991],"type":"Point"}
 }

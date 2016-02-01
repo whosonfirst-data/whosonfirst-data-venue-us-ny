@@ -2,13 +2,14 @@
   "id": 370801621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.133527,43.012691,-76.133527,43.012691",
     "geom:latitude":43.012691,
     "geom:longitude":-76.133527,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"123 Ball Cir",
     "sg:city":"Syracuse",
     "sg:classifiers":[],
@@ -19,11 +20,13 @@
     "sg:website":"http://www.dependabletransportation.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881261,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881261
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -33,9 +36,10 @@
     "wof:geomhash":"0c14b09d529a387412997e0acc02ef70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881261,
             "region_id":85688543,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":370801621,
-    "wof:lastmodified":1449031878,
+    "wof:lastmodified":1454128135,
     "wof:name":"Dependable Taxi",
     "wof:parent_id":85881261,
     "wof:placetype":"venue",
@@ -51,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.133527,43.012691,-76.133527,43.012691],
+  "bbox": [
+    -76.133527,
+    43.012691,
+    -76.133527,
+    43.012691
+],
   "geometry": {"coordinates":[-76.133527,43.012691],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337482365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.873179,40.768708,-73.873179,40.768708",
     "geom:latitude":40.768708,
     "geom:longitude":-73.873179,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9701 23rd Ave",
     "sg:city":"Queens",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.eastelmhurstplumbingheatinga...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869091,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869091
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"353b80732d02fe813c6519d4d4f09bf1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869091,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":337482365,
-    "wof:lastmodified":1449027230,
+    "wof:lastmodified":1454126981,
     "wof:name":"East Elmhurst Plumbing Heating and Cooling",
     "wof:parent_id":85869091,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-73.873179,40.768708,-73.873179,40.768708],
-  "geometry": {"coordinates":[-73.873179,40.768708],"type":"Point"}
+  "bbox": [
+    -73.873179,
+    40.768708,
+    -73.873179,
+    40.768708
+],
+  "geometry": {"coordinates":[-73.87317899999999,40.768708],"type":"Point"}
 }

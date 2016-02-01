@@ -2,13 +2,14 @@
   "id": 371157293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.783983,42.965071,-78.783983,42.965071",
     "geom:latitude":42.965071,
     "geom:longitude":-78.783983,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4511 Harlem Rd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823285,
+        102191575,
+        404522321,
         85633793,
+        85979407,
         102082387,
-        85823285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"1cd5351440a2f16165fd62572d87e0b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979407,
             "neighbourhood_id":85823285,
             "region_id":85688543,
             "venue_id":371157293
         }
     ],
     "wof:id":371157293,
-    "wof:lastmodified":1449049991,
+    "wof:lastmodified":1454129259,
     "wof:name":"Wyndham Lawn Home For Children",
     "wof:parent_id":85823285,
     "wof:placetype":"venue",
@@ -65,6 +70,11 @@
         "homes-children"
     ]
 },
-  "bbox": [-78.783983,42.965071,-78.783983,42.965071],
-  "geometry": {"coordinates":[-78.783983,42.965071],"type":"Point"}
+  "bbox": [
+    -78.783983,
+    42.965071,
+    -78.783983,
+    42.965071
+],
+  "geometry": {"coordinates":[-78.78398300000001,42.965071],"type":"Point"}
 }

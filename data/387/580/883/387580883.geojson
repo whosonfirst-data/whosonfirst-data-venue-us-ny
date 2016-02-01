@@ -2,13 +2,14 @@
   "id": 387580883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.424849,43.848854,-73.424849,43.848854",
     "geom:latitude":43.848854,
     "geom:longitude":-73.424849,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"123 Montcalm St",
     "sg:city":"Ticonderoga",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820233,
+        102191575,
+        404522389,
         85633793,
+        85978885,
         102082405,
-        85820233
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"11b834ec626eb515c257da389fdd0dd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082405,
-            "locality_id":-1,
+            "localadmin_id":404522389,
+            "locality_id":85978885,
             "neighbourhood_id":85820233,
             "region_id":85688543,
             "venue_id":387580883
         }
     ],
     "wof:id":387580883,
-    "wof:lastmodified":1449058672,
+    "wof:lastmodified":1454129990,
     "wof:name":"North Country Community Clg",
     "wof:parent_id":85820233,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "institute"
     ]
 },
-  "bbox": [-73.424849,43.848854,-73.424849,43.848854],
-  "geometry": {"coordinates":[-73.424849,43.848854],"type":"Point"}
+  "bbox": [
+    -73.424849,
+    43.848854,
+    -73.424849,
+    43.848854
+],
+  "geometry": {"coordinates":[-73.42484899999999,43.848854],"type":"Point"}
 }

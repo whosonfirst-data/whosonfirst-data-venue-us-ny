@@ -2,13 +2,14 @@
   "id": 371019353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.810257,40.96322,-73.810257,40.96322",
     "geom:latitude":40.96322,
     "geom:longitude":-73.810257,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"575 White Plains Rd",
     "sg:city":"Eastchester",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530381,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"63f66aef2ab85a437fd0debeb27ddcad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530381,
             "region_id":85688543,
             "venue_id":371019353
         }
     ],
     "wof:id":371019353,
-    "wof:lastmodified":1449049652,
+    "wof:lastmodified":1454129181,
     "wof:name":"Anne Penachio",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530381,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.810257,40.96322,-73.810257,40.96322],
-  "geometry": {"coordinates":[-73.810257,40.96322],"type":"Point"}
+  "bbox": [
+    -73.810257,
+    40.96322,
+    -73.810257,
+    40.96322
+],
+  "geometry": {"coordinates":[-73.81025699999999,40.96322],"type":"Point"}
 }

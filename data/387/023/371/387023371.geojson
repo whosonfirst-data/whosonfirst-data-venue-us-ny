@@ -2,13 +2,14 @@
   "id": 387023371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.665952,43.137776,-77.665952,43.137776",
     "geom:latitude":43.137776,
     "geom:longitude":-77.665952,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"130 Buell Rd Suite A",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -40,11 +41,14 @@
     "sg:website":"http://www.lumberliquidators.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102528361,
+        85880411,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85880411
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +58,11 @@
     "wof:geomhash":"26d0809367fac1fc3ebb76879fadc83d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102528361,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85880411,
             "region_id":85688543,
@@ -64,9 +70,9 @@
         }
     ],
     "wof:id":387023371,
-    "wof:lastmodified":1449059546,
+    "wof:lastmodified":1454130142,
     "wof:name":"Lumber Liquidators",
-    "wof:parent_id":85880411,
+    "wof:parent_id":102528361,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -76,6 +82,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-77.665952,43.137776,-77.665952,43.137776],
+  "bbox": [
+    -77.665952,
+    43.137776,
+    -77.665952,
+    43.137776
+],
   "geometry": {"coordinates":[-77.665952,43.137776],"type":"Point"}
 }

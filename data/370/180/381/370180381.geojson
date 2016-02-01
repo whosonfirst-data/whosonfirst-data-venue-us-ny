@@ -2,13 +2,14 @@
   "id": 370180381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.245106,40.848134,-73.245106,40.848134",
     "geom:latitude":40.848134,
     "geom:longitude":-73.245106,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"920 W Jericho Tpke Ste 1",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.robsautoservice.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530033,
+        102191575,
+        404522669,
         85633793,
-        85979919,
-        102082395
+        85979805,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"fef6994c790a4c1fceea1396e851e740",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522669,
+            "locality_id":85979805,
+            "neighbourhood_id":420530033,
             "region_id":85688543,
             "venue_id":370180381
         }
     ],
     "wof:id":370180381,
-    "wof:lastmodified":1449029201,
+    "wof:lastmodified":1454127350,
     "wof:name":"Rob's Auto Svce Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530033,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.245106,40.848134,-73.245106,40.848134],
-  "geometry": {"coordinates":[-73.245106,40.848134],"type":"Point"}
+  "bbox": [
+    -73.245106,
+    40.848134,
+    -73.245106,
+    40.848134
+],
+  "geometry": {"coordinates":[-73.24510600000001,40.848134],"type":"Point"}
 }

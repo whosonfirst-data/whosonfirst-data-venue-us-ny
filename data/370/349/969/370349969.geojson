@@ -2,13 +2,14 @@
   "id": 370349969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.865173,40.801636,-72.865173,40.801636",
     "geom:latitude":40.801636,
     "geom:longitude":-72.865173,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"855 Montauk Hwy",
     "sg:city":"Shirley",
     "sg:classifiers":[
@@ -50,10 +51,13 @@
     "sg:website":"http://www.att.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892903,
+        102191575,
+        404521441,
         85633793,
+        85978437,
         102082395,
-        85892903
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,17 +67,18 @@
     "wof:geomhash":"ee71eb1bc8d40a98098c1cc2a149b11c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85978437,
             "neighbourhood_id":85892903,
             "region_id":85688543,
             "venue_id":370349969
         }
     ],
     "wof:id":370349969,
-    "wof:lastmodified":1449030365,
+    "wof:lastmodified":1454127692,
     "wof:name":"AT&T",
     "wof:parent_id":85892903,
     "wof:placetype":"venue",
@@ -90,6 +95,11 @@
         "provider"
     ]
 },
-  "bbox": [-72.865173,40.801636,-72.865173,40.801636],
+  "bbox": [
+    -72.865173,
+    40.801636,
+    -72.865173,
+    40.801636
+],
   "geometry": {"coordinates":[-72.865173,40.801636],"type":"Point"}
 }

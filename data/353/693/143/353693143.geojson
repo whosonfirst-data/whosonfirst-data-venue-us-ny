@@ -2,13 +2,14 @@
   "id": 353693143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.152564,43.085626,-76.152564,43.085626",
     "geom:latitude":43.085626,
     "geom:longitude":-76.152564,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"106 Evelyn Ter",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85881279,
+        102191575,
+        404522851,
         85633793,
+        85977785,
+        102082351,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"0f5d428fef2aed1db72363e304be3c15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "localadmin_id":404522851,
+            "locality_id":85977785,
+            "neighbourhood_id":85881279,
             "region_id":85688543,
             "venue_id":353693143
         }
     ],
     "wof:id":353693143,
-    "wof:lastmodified":1449018397,
+    "wof:lastmodified":1454125991,
     "wof:name":"Lemoyne Machine Products Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881279,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-76.152564,43.085626,-76.152564,43.085626],
+  "bbox": [
+    -76.152564,
+    43.085626,
+    -76.152564,
+    43.085626
+],
   "geometry": {"coordinates":[-76.152564,43.085626],"type":"Point"}
 }

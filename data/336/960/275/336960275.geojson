@@ -2,13 +2,14 @@
   "id": 336960275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.869688,41.018986,-73.869688,41.018986",
     "geom:latitude":41.018986,
     "geom:longitude":-73.869688,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"541 Broadway",
     "sg:city":"Dobbs Ferry",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85849177,
+        102191575,
+        404523359,
         85633793,
-        102082385,
-        85849177
+        85978743,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"fee7d6e57c3d278a09938e3f1b52f51b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082385,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523359,
+            "locality_id":85978743,
             "neighbourhood_id":85849177,
             "region_id":85688543,
             "venue_id":336960275
         }
     ],
     "wof:id":336960275,
-    "wof:lastmodified":1448997703,
+    "wof:lastmodified":1454122855,
     "wof:name":"Our Lady Of Victory Academy",
     "wof:parent_id":85849177,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.869688,41.018986,-73.869688,41.018986],
+  "bbox": [
+    -73.869688,
+    41.018986,
+    -73.869688,
+    41.018986
+],
   "geometry": {"coordinates":[-73.869688,41.018986],"type":"Point"}
 }

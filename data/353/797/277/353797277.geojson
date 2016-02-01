@@ -2,13 +2,14 @@
   "id": 353797277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.143221,40.572122,-74.143221,40.572122",
     "geom:latitude":40.572122,
     "geom:longitude":-74.143221,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3664 Richmond Rd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865887,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85865887
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"1ad5c320d4a3ec547463f77d784d53d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865887,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":353797277,
-    "wof:lastmodified":1449020556,
+    "wof:lastmodified":1454126612,
     "wof:name":"Richmond Engine Co 1",
     "wof:parent_id":85865887,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "volunteer"
     ]
 },
-  "bbox": [-74.143221,40.572122,-74.143221,40.572122],
+  "bbox": [
+    -74.143221,
+    40.572122,
+    -74.143221,
+    40.572122
+],
   "geometry": {"coordinates":[-74.143221,40.572122],"type":"Point"}
 }

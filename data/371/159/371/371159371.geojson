@@ -2,13 +2,14 @@
   "id": 371159371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.820589,42.980586,-78.820589,42.980586",
     "geom:latitude":42.980586,
     "geom:longitude":-78.820589,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3045 Sheridan Dr",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -42,10 +43,13 @@
     "sg:website":"http://www.goodyeartires.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823285,
+        102191575,
+        404522321,
         85633793,
+        85979407,
         102082387,
-        85823285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +59,18 @@
     "wof:geomhash":"34456b231bbe187e0be0da4c19ba48b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979407,
             "neighbourhood_id":85823285,
             "region_id":85688543,
             "venue_id":371159371
         }
     ],
     "wof:id":371159371,
-    "wof:lastmodified":1449049156,
+    "wof:lastmodified":1454129065,
     "wof:name":"Dunn Tire",
     "wof:parent_id":85823285,
     "wof:placetype":"venue",
@@ -79,6 +84,11 @@
         "accessory"
     ]
 },
-  "bbox": [-78.820589,42.980586,-78.820589,42.980586],
+  "bbox": [
+    -78.820589,
+    42.980586,
+    -78.820589,
+    42.980586
+],
   "geometry": {"coordinates":[-78.820589,42.980586],"type":"Point"}
 }

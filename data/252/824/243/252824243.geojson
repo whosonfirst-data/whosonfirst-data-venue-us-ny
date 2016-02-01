@@ -2,13 +2,14 @@
   "id": 252824243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.904613,41.57254,-73.904613,41.57254",
     "geom:latitude":41.57254,
     "geom:longitude":-73.904613,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"28 Macfarland Rd",
     "sg:city":"Wappingers Falls",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528475,
+        102191575,
+        404522225,
         85633793,
+        85979249,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"781350bb60879d1c8e89224139e721b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522225,
+            "locality_id":85979249,
+            "neighbourhood_id":420528475,
             "region_id":85688543,
             "venue_id":252824243
         }
     ],
     "wof:id":252824243,
-    "wof:lastmodified":1449005787,
+    "wof:lastmodified":1454124033,
     "wof:name":"Pine Grove Terrace",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528475,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +69,11 @@
         "site"
     ]
 },
-  "bbox": [-73.904613,41.57254,-73.904613,41.57254],
+  "bbox": [
+    -73.904613,
+    41.57254,
+    -73.904613,
+    41.57254
+],
   "geometry": {"coordinates":[-73.904613,41.57254],"type":"Point"}
 }

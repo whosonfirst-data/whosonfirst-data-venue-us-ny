@@ -2,13 +2,14 @@
   "id": 370778063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.839205,40.888701,-73.839205,40.888701",
     "geom:latitude":40.888701,
     "geom:longitude":-73.839205,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1301 E 233rd St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865657,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865657
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"e6f6cc4b8562b2be70f23287f8ed0603",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865657,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":370778063,
-    "wof:lastmodified":1449029131,
+    "wof:lastmodified":1454127327,
     "wof:name":"Saqib International Cnstr Corp",
     "wof:parent_id":85865657,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.839205,40.888701,-73.839205,40.888701],
-  "geometry": {"coordinates":[-73.839205,40.888701],"type":"Point"}
+  "bbox": [
+    -73.839205,
+    40.888701,
+    -73.839205,
+    40.888701
+],
+  "geometry": {"coordinates":[-73.83920500000001,40.888701],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253375999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.092952,40.779773,-73.092952,40.779773",
     "geom:latitude":40.779773,
     "geom:longitude":-73.092952,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"34 Aero Rd",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,18 @@
     "wof:geomhash":"8c0e6a7c1a529015929d44738a940412",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":253375999
         }
     ],
     "wof:id":253375999,
-    "wof:lastmodified":1449062928,
+    "wof:lastmodified":1454130262,
     "wof:name":"Display Products",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "point"
     ]
 },
-  "bbox": [-73.092952,40.779773,-73.092952,40.779773],
+  "bbox": [
+    -73.092952,
+    40.779773,
+    -73.092952,
+    40.779773
+],
   "geometry": {"coordinates":[-73.092952,40.779773],"type":"Point"}
 }

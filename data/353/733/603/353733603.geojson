@@ -2,13 +2,14 @@
   "id": 353733603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.906442,40.853555,-73.906442,40.853555",
     "geom:latitude":40.853555,
     "geom:longitude":-73.906442,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3 E Burnside Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819763,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85819763
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"ee27c492e9dded7699182fc41faa4ce6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819763,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":353733603,
-    "wof:lastmodified":1449018606,
+    "wof:lastmodified":1454126050,
     "wof:name":"Burnside Wireless Inc",
     "wof:parent_id":85819763,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "cellular"
     ]
 },
-  "bbox": [-73.906442,40.853555,-73.906442,40.853555],
+  "bbox": [
+    -73.906442,
+    40.853555,
+    -73.906442,
+    40.853555
+],
   "geometry": {"coordinates":[-73.906442,40.853555],"type":"Point"}
 }

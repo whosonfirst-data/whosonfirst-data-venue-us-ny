@@ -2,13 +2,14 @@
   "id": 337406761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.80158,40.780629,-73.80158,40.780629",
     "geom:latitude":40.780629,
     "geom:longitude":-73.80158,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"160-20 Willets Point Blvd",
     "sg:city":"Queens",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"protekpt.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857567,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85857567
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"7b08cfcf499dcee96517b78b09d5675c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85857567,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":337406761,
-    "wof:lastmodified":1449027383,
+    "wof:lastmodified":1454127045,
     "wof:name":"PRO-TEK Physical Therapy",
     "wof:parent_id":85857567,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "physical"
     ]
 },
-  "bbox": [-73.80158,40.780629,-73.80158,40.780629],
+  "bbox": [
+    -73.80158,
+    40.780629,
+    -73.80158,
+    40.780629
+],
   "geometry": {"coordinates":[-73.80158,40.780629],"type":"Point"}
 }

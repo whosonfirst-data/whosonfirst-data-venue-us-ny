@@ -2,13 +2,14 @@
   "id": 320746375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.090657,40.78388,-73.090657,40.78388",
     "geom:latitude":40.78388,
     "geom:longitude":-73.090657,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Trade Zone Dr",
     "sg:city":"Ronkonkoma",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"45c15110b7a81ca791c85aae0681afc0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":320746375
         }
     ],
     "wof:id":320746375,
-    "wof:lastmodified":1449011224,
+    "wof:lastmodified":1454124755,
     "wof:name":"A A Technologies Inc",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "electronic"
     ]
 },
-  "bbox": [-73.090657,40.78388,-73.090657,40.78388],
-  "geometry": {"coordinates":[-73.090657,40.78388],"type":"Point"}
+  "bbox": [
+    -73.090657,
+    40.78388,
+    -73.090657,
+    40.78388
+],
+  "geometry": {"coordinates":[-73.09065699999999,40.78388],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386992735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.623211,43.164602,-77.623211,43.164602",
     "geom:latitude":43.164602,
     "geom:longitude":-77.623211,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3 Lyell Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -43,11 +44,13 @@
     "sg:website":"http://www.burgostax.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867097,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85867097
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,9 +60,10 @@
     "wof:geomhash":"5c14d11f4e1a3776c3028b0ce5b452e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85867097,
             "region_id":85688543,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":386992735,
-    "wof:lastmodified":1449028772,
+    "wof:lastmodified":1454127228,
     "wof:name":"Burgos Income Tax Svc",
     "wof:parent_id":85867097,
     "wof:placetype":"venue",
@@ -82,6 +86,11 @@
         "bookkeeping"
     ]
 },
-  "bbox": [-77.623211,43.164602,-77.623211,43.164602],
+  "bbox": [
+    -77.623211,
+    43.164602,
+    -77.623211,
+    43.164602
+],
   "geometry": {"coordinates":[-77.623211,43.164602],"type":"Point"}
 }

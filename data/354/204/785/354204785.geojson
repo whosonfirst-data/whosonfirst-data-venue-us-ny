@@ -2,13 +2,14 @@
   "id": 354204785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.033578,40.827323,-73.033578,40.827323",
     "geom:latitude":40.827323,
     "geom:longitude":-73.033578,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"77 Oaklawn Ave",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,18 @@
     "wof:geomhash":"167bbb5eee9c6f1717ad1398788e1ee5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354204785
         }
     ],
     "wof:id":354204785,
-    "wof:lastmodified":1449067705,
+    "wof:lastmodified":1454131319,
     "wof:name":"Brickhouse Masonry",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.033578,40.827323,-73.033578,40.827323],
-  "geometry": {"coordinates":[-73.033578,40.827323],"type":"Point"}
+  "bbox": [
+    -73.033578,
+    40.827323,
+    -73.033578,
+    40.827323
+],
+  "geometry": {"coordinates":[-73.03357800000001,40.827323],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336648433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.453353,42.533012,-76.453353,42.533012",
     "geom:latitude":42.533012,
     "geom:longitude":-76.453353,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"172 Scofield Rd",
     "sg:city":"Freeville",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85803681,
+        102082355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"3672c0f8262b9e868e4f6b700a5edb62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082355,
+            "neighbourhood_id":85803681,
             "region_id":85688543,
             "venue_id":336648433
         }
     ],
     "wof:id":336648433,
-    "wof:lastmodified":1448997242,
+    "wof:lastmodified":1454122498,
     "wof:name":"Honor Empire",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803681,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "communications"
     ]
 },
-  "bbox": [-76.453353,42.533012,-76.453353,42.533012],
-  "geometry": {"coordinates":[-76.453353,42.533012],"type":"Point"}
+  "bbox": [
+    -76.453353,
+    42.533012,
+    -76.453353,
+    42.533012
+],
+  "geometry": {"coordinates":[-76.45335300000001,42.533012],"type":"Point"}
 }

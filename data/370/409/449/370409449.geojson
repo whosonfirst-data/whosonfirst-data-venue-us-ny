@@ -2,13 +2,14 @@
   "id": 370409449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.853952,41.15399,-73.853952,41.15399",
     "geom:latitude":41.15399,
     "geom:longitude":-73.853952,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"51 Meadow Rd",
     "sg:city":"Briarcliff Manor",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420559405,
+        102191575,
+        404523379,
         85633793,
-        85978753,
-        102082373
+        85978717,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"2030773f8c58b412abbba021cb939ec0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978753,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523379,
+            "locality_id":85978717,
+            "neighbourhood_id":420559405,
             "region_id":85688543,
             "venue_id":370409449
         }
     ],
     "wof:id":370409449,
-    "wof:lastmodified":1449030476,
+    "wof:lastmodified":1454127724,
     "wof:name":"V2K The Virtual Window",
-    "wof:parent_id":-1,
+    "wof:parent_id":420559405,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "drapery"
     ]
 },
-  "bbox": [-73.853952,41.15399,-73.853952,41.15399],
-  "geometry": {"coordinates":[-73.853952,41.15399],"type":"Point"}
+  "bbox": [
+    -73.853952,
+    41.15399,
+    -73.853952,
+    41.15399
+],
+  "geometry": {"coordinates":[-73.85395200000001,41.15399],"type":"Point"}
 }

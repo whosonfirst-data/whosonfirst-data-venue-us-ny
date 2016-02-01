@@ -2,13 +2,14 @@
   "id": 370400399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.830718,40.978677,-73.830718,40.978677",
     "geom:latitude":40.978677,
     "geom:longitude":-73.830718,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2359 Central Park Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.petland.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805227,
+        102191575,
+        404523359,
         85633793,
-        85978759,
+        85980063,
         102082373,
-        85805227
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"a9c99cfd0ea74e620376be43e109757c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978759,
+            "localadmin_id":404523359,
+            "locality_id":85980063,
             "neighbourhood_id":85805227,
             "region_id":85688543,
             "venue_id":370400399
         }
     ],
     "wof:id":370400399,
-    "wof:lastmodified":1449029415,
+    "wof:lastmodified":1454127414,
     "wof:name":"Petland",
     "wof:parent_id":85805227,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.830718,40.978677,-73.830718,40.978677],
+  "bbox": [
+    -73.830718,
+    40.978677,
+    -73.830718,
+    40.978677
+],
   "geometry": {"coordinates":[-73.830718,40.978677],"type":"Point"}
 }

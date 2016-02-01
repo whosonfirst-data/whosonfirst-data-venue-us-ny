@@ -2,13 +2,14 @@
   "id": 253268249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.910842,42.875341,-74.910842,42.875341",
     "geom:latitude":42.875341,
     "geom:longitude":-74.910842,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"102 Chyle Rd",
     "sg:city":"Richfield Springs",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85828359,
+        102081877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"f6e9a8ade630989a44ab32f40447cbcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081877,
+            "neighbourhood_id":85828359,
             "region_id":85688543,
             "venue_id":253268249
         }
     ],
     "wof:id":253268249,
-    "wof:lastmodified":1449064506,
+    "wof:lastmodified":1454130526,
     "wof:name":"William Meyerhoff",
-    "wof:parent_id":-1,
+    "wof:parent_id":85828359,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-74.910842,42.875341,-74.910842,42.875341],
+  "bbox": [
+    -74.910842,
+    42.875341,
+    -74.910842,
+    42.875341
+],
   "geometry": {"coordinates":[-74.910842,42.875341],"type":"Point"}
 }

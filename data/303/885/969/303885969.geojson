@@ -2,13 +2,14 @@
   "id": 303885969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.138495,43.064168,-76.138495,43.064168",
     "geom:latitude":43.064168,
     "geom:longitude":-76.138495,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"106 Merz Ave",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881259,
+        102191575,
+        404522845,
         85633793,
-        85977785,
+        85979211,
         102082351,
-        85881259
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"9fba2fe7fc92f87a4f2381b11cbcf10d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
-            "locality_id":85977785,
+            "localadmin_id":404522845,
+            "locality_id":85979211,
             "neighbourhood_id":85881259,
             "region_id":85688543,
             "venue_id":303885969
         }
     ],
     "wof:id":303885969,
-    "wof:lastmodified":1448999421,
+    "wof:lastmodified":1454123410,
     "wof:name":"Frank Procopio Remodeling",
     "wof:parent_id":85881259,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-76.138495,43.064168,-76.138495,43.064168],
-  "geometry": {"coordinates":[-76.138495,43.064168],"type":"Point"}
+  "bbox": [
+    -76.138495,
+    43.064168,
+    -76.138495,
+    43.064168
+],
+  "geometry": {"coordinates":[-76.13849500000001,43.064168],"type":"Point"}
 }

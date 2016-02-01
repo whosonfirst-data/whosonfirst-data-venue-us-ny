@@ -2,13 +2,14 @@
   "id": 387972655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.071501,40.614751,-74.071501,40.614751",
     "geom:latitude":40.614751,
     "geom:longitude":-74.071501,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"141 Saint Marys Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845943,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85845943
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"cd3953d49ebcb0b5be02c41a0a82c09c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85845943,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":387972655,
-    "wof:lastmodified":1449058014,
+    "wof:lastmodified":1454129870,
     "wof:name":"Software Maintenance News",
     "wof:parent_id":85845943,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "system"
     ]
 },
-  "bbox": [-74.071501,40.614751,-74.071501,40.614751],
+  "bbox": [
+    -74.071501,
+    40.614751,
+    -74.071501,
+    40.614751
+],
   "geometry": {"coordinates":[-74.071501,40.614751],"type":"Point"}
 }

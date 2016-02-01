@@ -2,13 +2,14 @@
   "id": 287236373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.839259,40.961158,-73.839259,40.961158",
     "geom:latitude":40.961158,
     "geom:longitude":-73.839259,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 Helena Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530405,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"f90cfd3ed088f84e34ca587d3e9f74fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530405,
             "region_id":85688543,
             "venue_id":287236373
         }
     ],
     "wof:id":287236373,
-    "wof:lastmodified":1449000750,
+    "wof:lastmodified":1454123771,
     "wof:name":"Citizans Bureau Investigation",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530405,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-73.839259,40.961158,-73.839259,40.961158],
+  "bbox": [
+    -73.839259,
+    40.961158,
+    -73.839259,
+    40.961158
+],
   "geometry": {"coordinates":[-73.839259,40.961158],"type":"Point"}
 }

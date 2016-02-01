@@ -2,13 +2,14 @@
   "id": 303629335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.789101,42.848194,-78.789101,42.848194",
     "geom:latitude":42.848194,
     "geom:longitude":-78.789101,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"36 N Seneca St",
     "sg:city":"West Seneca",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872913,
+        102191575,
+        404522269,
         85633793,
-        85978009,
+        85979415,
         102082387,
-        85872913
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"05f76384832f2eed4e2044046bb862bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":85978009,
+            "localadmin_id":404522269,
+            "locality_id":85979415,
             "neighbourhood_id":85872913,
             "region_id":85688543,
             "venue_id":303629335
         }
     ],
     "wof:id":303629335,
-    "wof:lastmodified":1448999990,
+    "wof:lastmodified":1454123565,
     "wof:name":"St Bonaventure Catholic Church",
     "wof:parent_id":85872913,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-78.789101,42.848194,-78.789101,42.848194],
+  "bbox": [
+    -78.789101,
+    42.848194,
+    -78.789101,
+    42.848194
+],
   "geometry": {"coordinates":[-78.789101,42.848194],"type":"Point"}
 }

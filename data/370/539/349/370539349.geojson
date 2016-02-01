@@ -2,13 +2,14 @@
   "id": 370539349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.894696,41.52488,-73.894696,41.52488",
     "geom:latitude":41.52488,
     "geom:longitude":-73.894696,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"600 Westage Business Ctr Dr",
     "sg:city":"Fishkill",
     "sg:classifiers":[
@@ -31,7 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528475,
+        102191575,
+        404522225,
         85633793,
+        85979249,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -42,18 +48,20 @@
     "wof:geomhash":"38523ff64c2318f0192132bdb2e37b9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522225,
+            "locality_id":85979249,
+            "neighbourhood_id":420528475,
             "region_id":85688543,
             "venue_id":370539349
         }
     ],
     "wof:id":370539349,
-    "wof:lastmodified":1449032546,
+    "wof:lastmodified":1454128335,
     "wof:name":"Jay A Motola Md Pc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528475,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +73,11 @@
         "family"
     ]
 },
-  "bbox": [-73.894696,41.52488,-73.894696,41.52488],
+  "bbox": [
+    -73.894696,
+    41.52488,
+    -73.894696,
+    41.52488
+],
   "geometry": {"coordinates":[-73.894696,41.52488],"type":"Point"}
 }

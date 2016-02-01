@@ -2,13 +2,14 @@
   "id": 287058837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.849083,40.871435,-73.849083,40.871435",
     "geom:latitude":40.871435,
     "geom:longitude":-73.849083,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1280 Burke Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528059,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"65bebaa40a1e6c1e761e1ce86032d57b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528059,
             "region_id":85688543,
             "venue_id":287058837
         }
     ],
     "wof:id":287058837,
-    "wof:lastmodified":1449000789,
+    "wof:lastmodified":1454123781,
     "wof:name":"Burke Ave Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528059,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-73.849083,40.871435,-73.849083,40.871435],
-  "geometry": {"coordinates":[-73.849083,40.871435],"type":"Point"}
+  "bbox": [
+    -73.849083,
+    40.871435,
+    -73.849083,
+    40.871435
+],
+  "geometry": {"coordinates":[-73.84908299999999,40.871435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320550047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.878323,42.605129,-73.878323,42.605129",
     "geom:latitude":42.605129,
     "geom:longitude":-73.878323,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"342 Meads Ln",
     "sg:city":"Delmar",
     "sg:classifiers":[
@@ -24,8 +25,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85826329,
+        102082353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +38,27 @@
     "wof:geomhash":"4841977596f6fdc0f11451e80b7f17b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082353,
+            "neighbourhood_id":85826329,
             "region_id":85688543,
             "venue_id":320550047
         }
     ],
     "wof:id":320550047,
-    "wof:lastmodified":1449013288,
+    "wof:lastmodified":1454125094,
     "wof:name":"Albany County Farm Bureau",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826329,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.878323,42.605129,-73.878323,42.605129],
-  "geometry": {"coordinates":[-73.878323,42.605129],"type":"Point"}
+  "bbox": [
+    -73.878323,
+    42.605129,
+    -73.878323,
+    42.605129
+],
+  "geometry": {"coordinates":[-73.87832299999999,42.605129],"type":"Point"}
 }

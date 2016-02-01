@@ -2,13 +2,14 @@
   "id": 387828577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.011252,40.653117,-74.011252,40.653117",
     "geom:latitude":40.653117,
     "geom:longitude":-74.011252,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"270 42nd St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851575,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85851575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"daf7384243eefe2ce12e96c0c063435d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85851575,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387828577,
-    "wof:lastmodified":1449058038,
+    "wof:lastmodified":1454129873,
     "wof:name":"Brooklynphono LLC",
     "wof:parent_id":85851575,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-74.011252,40.653117,-74.011252,40.653117],
+  "bbox": [
+    -74.011252,
+    40.653117,
+    -74.011252,
+    40.653117
+],
   "geometry": {"coordinates":[-74.011252,40.653117],"type":"Point"}
 }

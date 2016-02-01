@@ -2,13 +2,14 @@
   "id": 371002901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.94838,41.995173,-73.94838,41.995173",
     "geom:latitude":41.995173,
     "geom:longitude":-73.94838,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 Ulster Landing Rd",
     "sg:city":"Saugerties",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85853005,
+        102081775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,17 @@
     "wof:geomhash":"2c9e6d18f0a2c32150ac416a86ace3fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081775,
+            "neighbourhood_id":85853005,
             "region_id":85688543,
             "venue_id":371002901
         }
     ],
     "wof:id":371002901,
-    "wof:lastmodified":1449049914,
+    "wof:lastmodified":1454129243,
     "wof:name":"Kress Jets Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853005,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.94838,41.995173,-73.94838,41.995173],
+  "bbox": [
+    -73.94838,
+    41.995173,
+    -73.94838,
+    41.995173
+],
   "geometry": {"coordinates":[-73.94838,41.995173],"type":"Point"}
 }

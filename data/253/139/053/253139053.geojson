@@ -2,13 +2,14 @@
   "id": 253139053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.286946,42.895269,-77.286946,42.895269",
     "geom:latitude":42.895269,
     "geom:longitude":-77.286946,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"252 N Main St",
     "sg:city":"Canandaigua",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.oliverphelps.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85803665,
+        102191575,
+        404522859,
         85633793,
         85977863,
         102082359,
-        85803665
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"0e2434d4af2fc419f13ded498108b12c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082359,
+            "localadmin_id":404522859,
             "locality_id":85977863,
             "neighbourhood_id":85803665,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":253139053,
-    "wof:lastmodified":1449063086,
+    "wof:lastmodified":1454130287,
     "wof:name":"Oliver Phelps Bed & Breakfast",
     "wof:parent_id":85803665,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "bed"
     ]
 },
-  "bbox": [-77.286946,42.895269,-77.286946,42.895269],
+  "bbox": [
+    -77.286946,
+    42.895269,
+    -77.286946,
+    42.895269
+],
   "geometry": {"coordinates":[-77.286946,42.895269],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370537491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.907901,40.953598,-72.907901,40.953598",
     "geom:latitude":40.953598,
     "geom:longitude":-72.907901,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 Dickerson Dr",
     "sg:city":"Shoreham",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85978447,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"a0d2346fcc8f0cea15ca84aa84e4d0e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978447,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":370537491
         }
     ],
     "wof:id":370537491,
-    "wof:lastmodified":1449029921,
+    "wof:lastmodified":1454127560,
     "wof:name":"Daily Decisions",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [-72.907901,40.953598,-72.907901,40.953598],
+  "bbox": [
+    -72.907901,
+    40.953598,
+    -72.907901,
+    40.953598
+],
   "geometry": {"coordinates":[-72.907901,40.953598],"type":"Point"}
 }

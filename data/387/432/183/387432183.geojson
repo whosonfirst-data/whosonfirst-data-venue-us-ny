@@ -2,13 +2,14 @@
   "id": 387432183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.995731,40.695346,-73.995731,40.695346",
     "geom:latitude":40.695346,
     "geom:longitude":-73.995731,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"195 Hicks St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807925,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85807925
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"116d5a378d9aa2c3d447a48fe373f9fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85807925,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387432183,
-    "wof:lastmodified":1449056047,
+    "wof:lastmodified":1454129523,
     "wof:name":"E J Habiby Assoc",
     "wof:parent_id":85807925,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-73.995731,40.695346,-73.995731,40.695346],
-  "geometry": {"coordinates":[-73.995731,40.695346],"type":"Point"}
+  "bbox": [
+    -73.995731,
+    40.695346,
+    -73.995731,
+    40.695346
+],
+  "geometry": {"coordinates":[-73.99573100000001,40.695346],"type":"Point"}
 }

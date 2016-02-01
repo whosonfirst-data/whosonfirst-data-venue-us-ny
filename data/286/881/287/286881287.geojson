@@ -2,13 +2,14 @@
   "id": 286881287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.350758,40.882186,-73.350758,40.882186",
     "geom:latitude":40.882186,
     "geom:longitude":-73.350758,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"42 Sandy Hollow Rd",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85853661,
+        102191575,
+        404522515,
         85633793,
+        85978469,
+        102082395,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"387aeb947bbeccbb4facad6e28d8d22e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082395,
+            "localadmin_id":404522515,
+            "locality_id":85978469,
+            "neighbourhood_id":85853661,
             "region_id":85688543,
             "venue_id":286881287
         }
     ],
     "wof:id":286881287,
-    "wof:lastmodified":1449016898,
+    "wof:lastmodified":1454125702,
     "wof:name":"Mary Kay Cosmetics",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853661,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-73.350758,40.882186,-73.350758,40.882186],
+  "bbox": [
+    -73.350758,
+    40.882186,
+    -73.350758,
+    40.882186
+],
   "geometry": {"coordinates":[-73.350758,40.882186],"type":"Point"}
 }

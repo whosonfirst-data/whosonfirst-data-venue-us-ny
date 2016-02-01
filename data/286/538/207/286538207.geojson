@@ -2,13 +2,14 @@
   "id": 286538207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.151892,40.861018,-73.151892,40.861018",
     "geom:latitude":40.861018,
     "geom:longitude":-73.151892,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"720 Jericho Tpke",
     "sg:city":"Saint James",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893017,
+        102191575,
+        404522669,
         85633793,
-        85979773,
+        85979839,
         102082395,
-        85893017
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,18 @@
     "wof:geomhash":"e4fd0e1695ba7729283652d23e94a7c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522669,
+            "locality_id":85979839,
             "neighbourhood_id":85893017,
             "region_id":85688543,
             "venue_id":286538207
         }
     ],
     "wof:id":286538207,
-    "wof:lastmodified":1449015541,
+    "wof:lastmodified":1454125464,
     "wof:name":"Suffolk Envelope",
     "wof:parent_id":85893017,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "typesetting"
     ]
 },
-  "bbox": [-73.151892,40.861018,-73.151892,40.861018],
+  "bbox": [
+    -73.151892,
+    40.861018,
+    -73.151892,
+    40.861018
+],
   "geometry": {"coordinates":[-73.151892,40.861018],"type":"Point"}
 }

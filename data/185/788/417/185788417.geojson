@@ -2,13 +2,14 @@
   "id": 185788417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.995746,40.632657,-73.995746,40.632657",
     "geom:latitude":40.632657,
     "geom:longitude":-73.995746,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1261 54th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"f2e377446dd5cdbb772a7c17b4d2123a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":185788417
         }
     ],
     "wof:id":185788417,
-    "wof:lastmodified":1449007457,
+    "wof:lastmodified":1454124255,
     "wof:name":"D'rose Linens Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "linen"
     ]
 },
-  "bbox": [-73.995746,40.632657,-73.995746,40.632657],
+  "bbox": [
+    -73.995746,
+    40.632657,
+    -73.995746,
+    40.632657
+],
   "geometry": {"coordinates":[-73.995746,40.632657],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370349277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.823196,40.862002,-73.823196,40.862002",
     "geom:latitude":40.862002,
     "geom:longitude":-73.823196,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Earhart Ln",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825625,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"97cc75518ac5dc158bd9dd886b0beb00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85825625,
             "region_id":85688543,
             "venue_id":370349277
         }
     ],
     "wof:id":370349277,
-    "wof:lastmodified":1449030365,
+    "wof:lastmodified":1454127691,
     "wof:name":"Technical Solution Nu Age",
-    "wof:parent_id":-1,
+    "wof:parent_id":85825625,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.823196,40.862002,-73.823196,40.862002],
+  "bbox": [
+    -73.823196,
+    40.862002,
+    -73.823196,
+    40.862002
+],
   "geometry": {"coordinates":[-73.823196,40.862002],"type":"Point"}
 }

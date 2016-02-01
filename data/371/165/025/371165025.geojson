@@ -2,13 +2,14 @@
   "id": 371165025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.193738,43.246534,-78.193738,43.246534",
     "geom:latitude":43.246534,
     "geom:longitude":-78.193738,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"58 N Main St",
     "sg:city":"Albion",
     "sg:classifiers":[
@@ -49,10 +50,13 @@
     "sg:website":"http://www.truevalue.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819435,
+        102191575,
+        404521525,
         85633793,
+        85978607,
         102082411,
-        85819435
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,17 +66,18 @@
     "wof:geomhash":"60c9c38fc079da3c9f679496437daf4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082411,
-            "locality_id":-1,
+            "localadmin_id":404521525,
+            "locality_id":85978607,
             "neighbourhood_id":85819435,
             "region_id":85688543,
             "venue_id":371165025
         }
     ],
     "wof:id":371165025,
-    "wof:lastmodified":1449050146,
+    "wof:lastmodified":1454129296,
     "wof:name":"Family True Value Hardware",
     "wof:parent_id":85819435,
     "wof:placetype":"venue",
@@ -88,6 +93,11 @@
         "store"
     ]
 },
-  "bbox": [-78.193738,43.246534,-78.193738,43.246534],
+  "bbox": [
+    -78.193738,
+    43.246534,
+    -78.193738,
+    43.246534
+],
   "geometry": {"coordinates":[-78.193738,43.246534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353385339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.845166,40.724264,-73.845166,40.724264",
     "geom:latitude":40.724264,
     "geom:longitude":-73.845166,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"71-30 108th St Ste 2",
     "sg:city":"Forest Hills",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.drfeigenbaum.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819875,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819875
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"913dc2802766e8f194a99bac9a2ce137",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819875,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":353385339,
-    "wof:lastmodified":1449019783,
+    "wof:lastmodified":1454126390,
     "wof:name":"Arthur J. Feigenbaum D.M.D.",
     "wof:parent_id":85819875,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.845166,40.724264,-73.845166,40.724264],
-  "geometry": {"coordinates":[-73.845166,40.724264],"type":"Point"}
+  "bbox": [
+    -73.845166,
+    40.724264,
+    -73.845166,
+    40.724264
+],
+  "geometry": {"coordinates":[-73.84516600000001,40.724264],"type":"Point"}
 }

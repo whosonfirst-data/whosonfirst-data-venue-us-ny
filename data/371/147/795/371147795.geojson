@@ -2,13 +2,14 @@
   "id": 371147795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.727675,42.93233,-78.727675,42.93233",
     "geom:latitude":42.93233,
     "geom:longitude":-78.727675,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4285 Genesee St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -30,6 +31,7 @@
     "sg:website":"http://www.cathedralcorporation.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102528321,
         85688543,
         85633793,
         102082387,
@@ -43,19 +45,18 @@
     "wof:geomhash":"ecd41407dcc3531b2e041ae91a677826",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102528321,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
             "neighbourhood_id":85811327,
             "region_id":85688543,
             "venue_id":371147795
         }
     ],
     "wof:id":371147795,
-    "wof:lastmodified":1449050014,
+    "wof:lastmodified":1454129265,
     "wof:name":"Cathedral Corporation",
-    "wof:parent_id":85811327,
+    "wof:parent_id":102528321,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.727675,42.93233,-78.727675,42.93233],
+  "bbox": [
+    -78.727675,
+    42.93233,
+    -78.727675,
+    42.93233
+],
   "geometry": {"coordinates":[-78.727675,42.93233],"type":"Point"}
 }

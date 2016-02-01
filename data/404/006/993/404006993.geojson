@@ -2,13 +2,14 @@
   "id": 404006993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.072557,40.777412,-73.072557,40.777412",
     "geom:latitude":40.777412,
     "geom:longitude":-73.072557,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5005 Veterans Memorial Hwy",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"d8eca78dd8a10178ba8226a533db74fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":404006993
         }
     ],
     "wof:id":404006993,
-    "wof:lastmodified":1449040048,
+    "wof:lastmodified":1454128934,
     "wof:name":"Four Seasons of Holbrook Inc",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-73.072557,40.777412,-73.072557,40.777412],
+  "bbox": [
+    -73.072557,
+    40.777412,
+    -73.072557,
+    40.777412
+],
   "geometry": {"coordinates":[-73.072557,40.777412],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269764051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.80617,40.918006,-73.80617,40.918006",
     "geom:latitude":40.918006,
     "geom:longitude":-73.80617,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"317 5th Ave",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892799,
+        102191575,
+        404523383,
         85633793,
-        85978721,
+        85978711,
         102082373,
-        85892799
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"0a1a05ee6a8f98b4fe6fd1f1f46e87a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978721,
+            "localadmin_id":404523383,
+            "locality_id":85978711,
             "neighbourhood_id":85892799,
             "region_id":85688543,
             "venue_id":269764051
         }
     ],
     "wof:id":269764051,
-    "wof:lastmodified":1449038847,
+    "wof:lastmodified":1454128798,
     "wof:name":"World Oyama Karate",
     "wof:parent_id":85892799,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "instruction"
     ]
 },
-  "bbox": [-73.80617,40.918006,-73.80617,40.918006],
-  "geometry": {"coordinates":[-73.80617,40.918006],"type":"Point"}
+  "bbox": [
+    -73.80617,
+    40.918006,
+    -73.80617,
+    40.918006
+],
+  "geometry": {"coordinates":[-73.80616999999999,40.918006],"type":"Point"}
 }

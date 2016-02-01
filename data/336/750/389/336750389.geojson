@@ -2,13 +2,14 @@
   "id": 336750389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.307454,40.826103,-73.307454,40.826103",
     "geom:latitude":40.826103,
     "geom:longitude":-73.307454,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"232 Daly Rd",
     "sg:city":"East Northport",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530047,
+        102191575,
+        404522515,
         85633793,
         85979779,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"f6270f964d2d511cebd67ebbf9d95310",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85979779,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530047,
             "region_id":85688543,
             "venue_id":336750389
         }
     ],
     "wof:id":336750389,
-    "wof:lastmodified":1448997593,
+    "wof:lastmodified":1454122822,
     "wof:name":"Village Medical & Rehab",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530047,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.307454,40.826103,-73.307454,40.826103],
-  "geometry": {"coordinates":[-73.307454,40.826103],"type":"Point"}
+  "bbox": [
+    -73.307454,
+    40.826103,
+    -73.307454,
+    40.826103
+],
+  "geometry": {"coordinates":[-73.30745400000001,40.826103],"type":"Point"}
 }

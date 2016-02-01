@@ -2,13 +2,14 @@
   "id": 337301789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.914786,40.621134,-73.914786,40.621134",
     "geom:latitude":40.621134,
     "geom:longitude":-73.914786,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1350 E 66th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -73,11 +74,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865597,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865597
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,9 +90,10 @@
     "wof:geomhash":"47a397631f016ee20d852adaaa36b73e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865597,
             "region_id":85688543,
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":337301789,
-    "wof:lastmodified":1449027137,
+    "wof:lastmodified":1454126946,
     "wof:name":"Universal Renovation NYC, Inc.",
     "wof:parent_id":85865597,
     "wof:placetype":"venue",
@@ -128,6 +132,11 @@
         "maker"
     ]
 },
-  "bbox": [-73.914786,40.621134,-73.914786,40.621134],
-  "geometry": {"coordinates":[-73.914786,40.621134],"type":"Point"}
+  "bbox": [
+    -73.914786,
+    40.621134,
+    -73.914786,
+    40.621134
+],
+  "geometry": {"coordinates":[-73.91478600000001,40.621134],"type":"Point"}
 }

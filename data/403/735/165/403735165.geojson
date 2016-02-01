@@ -2,13 +2,14 @@
   "id": 403735165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.421896,40.852603,-73.421896,40.852603",
     "geom:latitude":40.852603,
     "geom:longitude":-73.421896,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12 Royal Oak Dr",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820109,
+        102191575,
+        404522515,
         85633793,
-        85979675,
+        85979787,
         102082395,
-        85820109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"c7528dc0aa21835011392281fd1d9b61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979675,
+            "localadmin_id":404522515,
+            "locality_id":85979787,
             "neighbourhood_id":85820109,
             "region_id":85688543,
             "venue_id":403735165
         }
     ],
     "wof:id":403735165,
-    "wof:lastmodified":1449055917,
+    "wof:lastmodified":1454129504,
     "wof:name":"EYT",
     "wof:parent_id":85820109,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.421896,40.852603,-73.421896,40.852603],
+  "bbox": [
+    -73.421896,
+    40.852603,
+    -73.421896,
+    40.852603
+],
   "geometry": {"coordinates":[-73.421896,40.852603],"type":"Point"}
 }

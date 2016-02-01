@@ -2,13 +2,14 @@
   "id": 370993613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.01669,43.080602,-76.01669,43.080602",
     "geom:latitude":43.080602,
     "geom:longitude":-76.01669,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"305 Ripplebrook Ln",
     "sg:city":"Minoa",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529409,
+        102191575,
+        404522837,
         85633793,
         85977793,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"9a4b520b39678ce015acd8dc6e95eb15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522837,
             "locality_id":85977793,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529409,
             "region_id":85688543,
             "venue_id":370993613
         }
     ],
     "wof:id":370993613,
-    "wof:lastmodified":1449030593,
+    "wof:lastmodified":1454127757,
     "wof:name":"Barone Remodeling",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529409,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-76.01669,43.080602,-76.01669,43.080602],
+  "bbox": [
+    -76.01669,
+    43.080602,
+    -76.01669,
+    43.080602
+],
   "geometry": {"coordinates":[-76.01669,43.080602],"type":"Point"}
 }

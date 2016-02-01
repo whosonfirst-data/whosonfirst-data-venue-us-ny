@@ -2,13 +2,14 @@
   "id": 370240311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.974848,40.787679,-73.974848,40.787679",
     "geom:latitude":40.787679,
     "geom:longitude":-73.974848,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"107 W 86 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853285,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85853285
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"f3d991f44c73562a3dfe920769e9f4a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853285,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370240311,
-    "wof:lastmodified":1449029438,
+    "wof:lastmodified":1454127419,
     "wof:name":"Locksmith Number 24 Hour",
     "wof:parent_id":85853285,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-73.974848,40.787679,-73.974848,40.787679],
-  "geometry": {"coordinates":[-73.974848,40.787679],"type":"Point"}
+  "bbox": [
+    -73.974848,
+    40.787679,
+    -73.974848,
+    40.787679
+],
+  "geometry": {"coordinates":[-73.97484799999999,40.787679],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387587065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.097473,40.776774,-73.097473,40.776774",
     "geom:latitude":40.776774,
     "geom:longitude":-73.097473,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"102 Keyland Ct",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"338a1062c37318c53d73d36fed2b285e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":387587065
         }
     ],
     "wof:id":387587065,
-    "wof:lastmodified":1449057404,
+    "wof:lastmodified":1454129760,
     "wof:name":"T J Precision Machine Inc",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.097473,40.776774,-73.097473,40.776774],
-  "geometry": {"coordinates":[-73.097473,40.776774],"type":"Point"}
+  "bbox": [
+    -73.097473,
+    40.776774,
+    -73.097473,
+    40.776774
+],
+  "geometry": {"coordinates":[-73.09747299999999,40.776774],"type":"Point"}
 }

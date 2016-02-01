@@ -2,13 +2,14 @@
   "id": 354059781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.385566,40.685173,-73.385566,40.685173",
     "geom:latitude":40.685173,
     "geom:longitude":-73.385566,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"148 Bangor St",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
         85978477,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +53,20 @@
     "wof:geomhash":"18be3c3e7cbfde929fe8532e408d4d84",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522513,
             "locality_id":85978477,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":354059781
         }
     ],
     "wof:id":354059781,
-    "wof:lastmodified":1449066370,
+    "wof:lastmodified":1454130905,
     "wof:name":"Intercounty Glass Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -73,6 +78,11 @@
         "plate"
     ]
 },
-  "bbox": [-73.385566,40.685173,-73.385566,40.685173],
+  "bbox": [
+    -73.385566,
+    40.685173,
+    -73.385566,
+    40.685173
+],
   "geometry": {"coordinates":[-73.385566,40.685173],"type":"Point"}
 }

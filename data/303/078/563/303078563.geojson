@@ -2,13 +2,14 @@
   "id": 303078563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.646872,40.831285,-72.646872,40.831285",
     "geom:latitude":40.831285,
     "geom:longitude":-72.646872,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"199 Riverhead Rd",
     "sg:city":"Westhampton Beach",
     "sg:classifiers":[
@@ -24,9 +25,12 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102526981,
         85688543,
+        102191575,
+        404522671,
         85633793,
-        85978441,
+        85979877,
         102082395
     ],
     "wof:breaches":[],
@@ -37,24 +41,30 @@
     "wof:geomhash":"61aee7b2eecc4436bce304e62da0376e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102526981,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978441,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522671,
+            "locality_id":85979877,
             "region_id":85688543,
             "venue_id":303078563
         }
     ],
     "wof:id":303078563,
-    "wof:lastmodified":1449000179,
+    "wof:lastmodified":1454123618,
     "wof:name":"Synergy Gas of Bennett 1772",
-    "wof:parent_id":-1,
+    "wof:parent_id":102526981,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.646872,40.831285,-72.646872,40.831285],
+  "bbox": [
+    -72.646872,
+    40.831285,
+    -72.646872,
+    40.831285
+],
   "geometry": {"coordinates":[-72.646872,40.831285],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353405081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.851601,40.726398,-73.851601,40.726398",
     "geom:latitude":40.726398,
     "geom:longitude":-73.851601,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10111A Queens Blvd",
     "sg:city":"Forest Hills",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819875,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819875
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"58b4b11a0a206a6f7a2e355183a57bae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819875,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":353405081,
-    "wof:lastmodified":1449020601,
+    "wof:lastmodified":1454126627,
     "wof:name":"Alpha-Omega Cleaners",
     "wof:parent_id":85819875,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.851601,40.726398,-73.851601,40.726398],
+  "bbox": [
+    -73.851601,
+    40.726398,
+    -73.851601,
+    40.726398
+],
   "geometry": {"coordinates":[-73.851601,40.726398],"type":"Point"}
 }

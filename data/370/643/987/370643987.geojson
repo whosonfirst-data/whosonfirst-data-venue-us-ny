@@ -2,13 +2,14 @@
   "id": 370643987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.908096,41.568901,-73.908096,41.568901",
     "geom:latitude":41.568901,
     "geom:longitude":-73.908096,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1180 Route 9",
     "sg:city":"Wappingers Falls",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528475,
+        102191575,
+        404522225,
         85633793,
+        85979249,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"380f3a99f8d353a332700e6460ccd689",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522225,
+            "locality_id":85979249,
+            "neighbourhood_id":420528475,
             "region_id":85688543,
             "venue_id":370643987
         }
     ],
     "wof:id":370643987,
-    "wof:lastmodified":1449032018,
+    "wof:lastmodified":1454128180,
     "wof:name":"Sleepys the Mattress Professional",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528475,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "mattress"
     ]
 },
-  "bbox": [-73.908096,41.568901,-73.908096,41.568901],
+  "bbox": [
+    -73.908096,
+    41.568901,
+    -73.908096,
+    41.568901
+],
   "geometry": {"coordinates":[-73.908096,41.568901],"type":"Point"}
 }

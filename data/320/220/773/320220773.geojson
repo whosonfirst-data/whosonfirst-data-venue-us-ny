@@ -2,13 +2,14 @@
   "id": 320220773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.659476,43.082111,-77.659476,43.082111",
     "geom:latitude":43.082111,
     "geom:longitude":-77.659476,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Colony Manor Dr",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85855251,
+        102081815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"af06736d783c3eff0bc1b60baf495927",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "neighbourhood_id":85855251,
             "region_id":85688543,
             "venue_id":320220773
         }
     ],
     "wof:id":320220773,
-    "wof:lastmodified":1449014830,
+    "wof:lastmodified":1454125341,
     "wof:name":"Rit Housing Colony Manor Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855251,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "apartment"
     ]
 },
-  "bbox": [-77.659476,43.082111,-77.659476,43.082111],
+  "bbox": [
+    -77.659476,
+    43.082111,
+    -77.659476,
+    43.082111
+],
   "geometry": {"coordinates":[-77.659476,43.082111],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253285661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.288052,42.897043,-77.288052,42.897043",
     "geom:latitude":42.897043,
     "geom:longitude":-77.288052,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"336 N Main St",
     "sg:city":"Canandaigua",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85803665,
+        102191575,
+        404522859,
         85633793,
         85977863,
         102082359,
-        85803665
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"e6aea5dfda007df7b6209a5a9cf00e7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082359,
+            "localadmin_id":404522859,
             "locality_id":85977863,
             "neighbourhood_id":85803665,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":253285661,
-    "wof:lastmodified":1449062908,
+    "wof:lastmodified":1454130256,
     "wof:name":"Resort Property Rentals",
     "wof:parent_id":85803665,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "rental"
     ]
 },
-  "bbox": [-77.288052,42.897043,-77.288052,42.897043],
-  "geometry": {"coordinates":[-77.288052,42.897043],"type":"Point"}
+  "bbox": [
+    -77.288052,
+    42.897043,
+    -77.288052,
+    42.897043
+],
+  "geometry": {"coordinates":[-77.28805199999999,42.897043],"type":"Point"}
 }

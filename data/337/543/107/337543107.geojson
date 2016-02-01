@@ -2,13 +2,14 @@
   "id": 337543107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.934128,40.850811,-73.934128,40.850811",
     "geom:latitude":40.850811,
     "geom:longitude":-73.934128,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"185 Wadsworth Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85854625,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85854625
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"6eb320a1dbc4352e8764d2ec852adf1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85854625,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":337543107,
-    "wof:lastmodified":1449027080,
+    "wof:lastmodified":1454126921,
     "wof:name":"All The Way",
     "wof:parent_id":85854625,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "noncommercial"
     ]
 },
-  "bbox": [-73.934128,40.850811,-73.934128,40.850811],
+  "bbox": [
+    -73.934128,
+    40.850811,
+    -73.934128,
+    40.850811
+],
   "geometry": {"coordinates":[-73.934128,40.850811],"type":"Point"}
 }

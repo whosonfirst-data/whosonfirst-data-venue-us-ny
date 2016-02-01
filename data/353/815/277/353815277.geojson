@@ -2,13 +2,14 @@
   "id": 353815277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.04822,41.502716,-74.04822,41.502716",
     "geom:latitude":41.502716,
     "geom:longitude":-74.04822,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Stony Brook Ct",
     "sg:city":"Newburgh",
     "sg:classifiers":[
@@ -25,8 +26,11 @@
     "sg:website":"www.kahnrealtors.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85979525,
+        102083061,
+        85853333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,23 +40,28 @@
     "wof:geomhash":"ca3db2b1a84bc04b25dd69d2c6f3e1eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083061,
+            "locality_id":85979525,
+            "neighbourhood_id":85853333,
             "region_id":85688543,
             "venue_id":353815277
         }
     ],
     "wof:id":353815277,
-    "wof:lastmodified":1449019505,
+    "wof:lastmodified":1454126310,
     "wof:name":"Kahn Realtors",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853333,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.04822,41.502716,-74.04822,41.502716],
+  "bbox": [
+    -74.04822,
+    41.502716,
+    -74.04822,
+    41.502716
+],
   "geometry": {"coordinates":[-74.04822,41.502716],"type":"Point"}
 }

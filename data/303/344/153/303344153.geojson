@@ -2,13 +2,14 @@
   "id": 303344153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.380868,40.885694,-72.380868,40.885694",
     "geom:latitude":40.885694,
     "geom:longitude":-72.380868,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"335 Meeting House Ln",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"2b1a556689ea4c56bc80738ff449d49e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":303344153
         }
     ],
     "wof:id":303344153,
-    "wof:lastmodified":1448998243,
+    "wof:lastmodified":1454123029,
     "wof:name":"David E Rogers Ctr For HIV",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "clinic"
     ]
 },
-  "bbox": [-72.380868,40.885694,-72.380868,40.885694],
-  "geometry": {"coordinates":[-72.380868,40.885694],"type":"Point"}
+  "bbox": [
+    -72.380868,
+    40.885694,
+    -72.380868,
+    40.885694
+],
+  "geometry": {"coordinates":[-72.38086800000001,40.885694],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387112085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.085604,40.734481,-73.085604,40.734481",
     "geom:latitude":40.734481,
     "geom:longitude":-73.085604,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"183 W Main St",
     "sg:city":"Sayville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"7207b5d98360a0bac253b3b19465c65a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":387112085
         }
     ],
     "wof:id":387112085,
-    "wof:lastmodified":1449057851,
+    "wof:lastmodified":1454129837,
     "wof:name":"Crazy Dog",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.085604,40.734481,-73.085604,40.734481],
+  "bbox": [
+    -73.085604,
+    40.734481,
+    -73.085604,
+    40.734481
+],
   "geometry": {"coordinates":[-73.085604,40.734481],"type":"Point"}
 }

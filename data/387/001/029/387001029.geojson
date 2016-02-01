@@ -2,13 +2,14 @@
   "id": 387001029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.992633,40.75843,-73.992633,40.75843",
     "geom:latitude":40.75843,
     "geom:longitude":-73.992633,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"630 9 Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85882233,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85882233
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"3a08d552db91a26992e05df9fc870fbf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85882233,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387001029,
-    "wof:lastmodified":1449056967,
+    "wof:lastmodified":1454129682,
     "wof:name":"Shadowtv Inc",
     "wof:parent_id":85882233,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "monitoring"
     ]
 },
-  "bbox": [-73.992633,40.75843,-73.992633,40.75843],
+  "bbox": [
+    -73.992633,
+    40.75843,
+    -73.992633,
+    40.75843
+],
   "geometry": {"coordinates":[-73.992633,40.75843],"type":"Point"}
 }

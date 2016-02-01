@@ -2,13 +2,14 @@
   "id": 303374769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.64185,40.657082,-73.64185,40.657082",
     "geom:latitude":40.657082,
     "geom:longitude":-73.64185,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"350 Sunrise Hwy",
     "sg:city":"Rockville Centre",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892745,
+        102191575,
+        404521473,
         85633793,
         85979131,
         102082371,
-        85892745
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"f98b02e3bf39358ae3a791919b9cac2d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979131,
             "neighbourhood_id":85892745,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303374769,
-    "wof:lastmodified":1448999183,
+    "wof:lastmodified":1454123345,
     "wof:name":"Martel Realty",
     "wof:parent_id":85892745,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "business"
     ]
 },
-  "bbox": [-73.64185,40.657082,-73.64185,40.657082],
-  "geometry": {"coordinates":[-73.64185,40.657082],"type":"Point"}
+  "bbox": [
+    -73.64185,
+    40.657082,
+    -73.64185,
+    40.657082
+],
+  "geometry": {"coordinates":[-73.64185000000001,40.657082],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403887921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.984082,40.737545,-73.984082,40.737545",
     "geom:latitude":40.737545,
     "geom:longitude":-73.984082,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"247 3 Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865705,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865705
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"20fc2c720627f2c3a51df5db9b76ad29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865705,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403887921,
-    "wof:lastmodified":1449055694,
+    "wof:lastmodified":1454129475,
     "wof:name":"Ira J Laufer MD PC",
     "wof:parent_id":85865705,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-73.984082,40.737545,-73.984082,40.737545],
+  "bbox": [
+    -73.984082,
+    40.737545,
+    -73.984082,
+    40.737545
+],
   "geometry": {"coordinates":[-73.984082,40.737545],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303257881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.164946,43.069602,-76.164946,43.069602",
     "geom:latitude":43.069602,
     "geom:longitude":-76.164946,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1629 N Salina St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881247,
+        102191575,
+        404522851,
         85633793,
+        85977785,
         102082351,
-        85881247
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"a184d25298f32a467a1a9b218be01660",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
-            "locality_id":-1,
+            "localadmin_id":404522851,
+            "locality_id":85977785,
             "neighbourhood_id":85881247,
             "region_id":85688543,
             "venue_id":303257881
         }
     ],
     "wof:id":303257881,
-    "wof:lastmodified":1448998835,
+    "wof:lastmodified":1454123239,
     "wof:name":"Syracuse Antiques Exchange",
     "wof:parent_id":85881247,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "antique"
     ]
 },
-  "bbox": [-76.164946,43.069602,-76.164946,43.069602],
+  "bbox": [
+    -76.164946,
+    43.069602,
+    -76.164946,
+    43.069602
+],
   "geometry": {"coordinates":[-76.164946,43.069602],"type":"Point"}
 }

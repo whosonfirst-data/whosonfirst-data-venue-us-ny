@@ -2,13 +2,14 @@
   "id": 303965437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.95306,40.70997,-73.95306,40.70997",
     "geom:latitude":40.70997,
     "geom:longitude":-73.95306,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"366 S 2nd St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865603,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865603
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"4c9c59fcc8e5dd53b18851000792e797",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865603,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303965437,
-    "wof:lastmodified":1448999826,
+    "wof:lastmodified":1454123521,
     "wof:name":"DMC Mechanical Inc",
     "wof:parent_id":85865603,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "refrigeration"
     ]
 },
-  "bbox": [-73.95306,40.70997,-73.95306,40.70997],
-  "geometry": {"coordinates":[-73.95306,40.70997],"type":"Point"}
+  "bbox": [
+    -73.95306,
+    40.70997,
+    -73.95306,
+    40.70997
+],
+  "geometry": {"coordinates":[-73.95305999999999,40.70997],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353502605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.89423,40.723171,-73.89423,40.723171",
     "geom:latitude":40.723171,
     "geom:longitude":-73.89423,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7001 Caldwell Ave",
     "sg:city":"Maspeth",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832845,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85832845
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"48dd71ea7ef62788d4d8966049574fe2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85832845,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":353502605,
-    "wof:lastmodified":1449019432,
+    "wof:lastmodified":1454126289,
     "wof:name":"Video Keepsake",
     "wof:parent_id":85832845,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "dvds-rental"
     ]
 },
-  "bbox": [-73.89423,40.723171,-73.89423,40.723171],
-  "geometry": {"coordinates":[-73.89423,40.723171],"type":"Point"}
+  "bbox": [
+    -73.89423,
+    40.723171,
+    -73.89423,
+    40.723171
+],
+  "geometry": {"coordinates":[-73.89422999999999,40.723171],"type":"Point"}
 }

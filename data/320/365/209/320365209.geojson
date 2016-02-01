@@ -2,13 +2,14 @@
   "id": 320365209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.654671,40.703789,-73.654671,40.703789",
     "geom:latitude":40.703789,
     "geom:longitude":-73.654671,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"392 Hempstead Dr",
     "sg:city":"West Hempstead",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829437,
+        102191575,
+        404521473,
         85633793,
-        85979129,
+        85979057,
         102082371,
-        85829437
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"dbb89d1033b8be00027f00736e343727",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979129,
+            "localadmin_id":404521473,
+            "locality_id":85979057,
             "neighbourhood_id":85829437,
             "region_id":85688543,
             "venue_id":320365209
         }
     ],
     "wof:id":320365209,
-    "wof:lastmodified":1449011858,
+    "wof:lastmodified":1454124859,
     "wof:name":"Catherine Camarda",
     "wof:parent_id":85829437,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "attorney"
     ]
 },
-  "bbox": [-73.654671,40.703789,-73.654671,40.703789],
-  "geometry": {"coordinates":[-73.654671,40.703789],"type":"Point"}
+  "bbox": [
+    -73.654671,
+    40.703789,
+    -73.654671,
+    40.703789
+],
+  "geometry": {"coordinates":[-73.65467099999999,40.703789],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320820703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.990845,40.81631,-72.990845,40.81631",
     "geom:latitude":40.81631,
     "geom:longitude":-72.990845,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"172 Peconic Ave",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
-        102082395
+        85979801,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"3e8c11157be1da5bfd727d779ba6c4af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
+            "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":320820703
         }
     ],
     "wof:id":320820703,
-    "wof:lastmodified":1449013188,
+    "wof:lastmodified":1454125077,
     "wof:name":"Star Ready Mix Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892869,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "ready"
     ]
 },
-  "bbox": [-72.990845,40.81631,-72.990845,40.81631],
-  "geometry": {"coordinates":[-72.990845,40.81631],"type":"Point"}
+  "bbox": [
+    -72.990845,
+    40.81631,
+    -72.990845,
+    40.81631
+],
+  "geometry": {"coordinates":[-72.99084499999999,40.81631],"type":"Point"}
 }

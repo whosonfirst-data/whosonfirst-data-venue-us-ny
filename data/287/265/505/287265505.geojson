@@ -2,13 +2,14 @@
   "id": 287265505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.370885,40.707133,-73.370885,40.707133",
     "geom:latitude":40.707133,
     "geom:longitude":-73.370885,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"260 Sunrise Hwy",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
-        85979759,
-        102082395
+        85978477,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"2e72a8b39eb4c0bb7eb51f96f348eebe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979759,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522513,
+            "locality_id":85978477,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":287265505
         }
     ],
     "wof:id":287265505,
-    "wof:lastmodified":1449000963,
+    "wof:lastmodified":1454123821,
     "wof:name":"Lindy's Smoke Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "dealer"
     ]
 },
-  "bbox": [-73.370885,40.707133,-73.370885,40.707133],
+  "bbox": [
+    -73.370885,
+    40.707133,
+    -73.370885,
+    40.707133
+],
   "geometry": {"coordinates":[-73.370885,40.707133],"type":"Point"}
 }

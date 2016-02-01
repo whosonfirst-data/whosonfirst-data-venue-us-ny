@@ -2,13 +2,14 @@
   "id": 370488525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.805274,40.973588,-73.805274,40.973588",
     "geom:latitude":40.973588,
     "geom:longitude":-73.805274,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"80 Maple St",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530449,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"5461480acc6a6b04e9f42040dfb050cb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530449,
             "region_id":85688543,
             "venue_id":370488525
         }
     ],
     "wof:id":370488525,
-    "wof:lastmodified":1449032383,
+    "wof:lastmodified":1454128288,
     "wof:name":"Susan Marlowe Figure Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530449,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "center"
     ]
 },
-  "bbox": [-73.805274,40.973588,-73.805274,40.973588],
+  "bbox": [
+    -73.805274,
+    40.973588,
+    -73.805274,
+    40.973588
+],
   "geometry": {"coordinates":[-73.805274,40.973588],"type":"Point"}
 }

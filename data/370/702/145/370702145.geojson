@@ -2,13 +2,14 @@
   "id": 370702145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.900773,40.934641,-73.900773,40.934641",
     "geom:latitude":40.934641,
     "geom:longitude":-73.900773,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"49 Main St",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881887,
+        102191575,
+        404523397,
         85633793,
         85978759,
         102082373,
-        85881887
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"8d11fcb4bb6a3368a4a2cb1859dda3a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
             "neighbourhood_id":85881887,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370702145,
-    "wof:lastmodified":1449030768,
+    "wof:lastmodified":1454127808,
     "wof:name":"Main Street Lofts LLC",
     "wof:parent_id":85881887,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "parks"
     ]
 },
-  "bbox": [-73.900773,40.934641,-73.900773,40.934641],
+  "bbox": [
+    -73.900773,
+    40.934641,
+    -73.900773,
+    40.934641
+],
   "geometry": {"coordinates":[-73.900773,40.934641],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354280341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.796131,42.976114,-78.796131,42.976114",
     "geom:latitude":42.976114,
     "geom:longitude":-78.796131,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"28 Garnet Rd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823285,
+        102191575,
+        404522321,
         85633793,
+        85979407,
         102082387,
-        85823285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"dc733a2cfb68fd01b9a4da81f52e9be8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979407,
             "neighbourhood_id":85823285,
             "region_id":85688543,
             "venue_id":354280341
         }
     ],
     "wof:id":354280341,
-    "wof:lastmodified":1449066759,
+    "wof:lastmodified":1454131023,
     "wof:name":"Whyte Studios",
     "wof:parent_id":85823285,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "artist"
     ]
 },
-  "bbox": [-78.796131,42.976114,-78.796131,42.976114],
+  "bbox": [
+    -78.796131,
+    42.976114,
+    -78.796131,
+    42.976114
+],
   "geometry": {"coordinates":[-78.796131,42.976114],"type":"Point"}
 }

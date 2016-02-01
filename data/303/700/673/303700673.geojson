@@ -2,13 +2,14 @@
   "id": 303700673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.916325,40.702498,-73.916325,40.702498",
     "geom:latitude":40.702498,
     "geom:longitude":-73.916325,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"146 Wyckoff Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85808635,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85808635
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"7786050a1ff7109d4fff6eb42d17c4ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85808635,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303700673,
-    "wof:lastmodified":1449000352,
+    "wof:lastmodified":1454123667,
     "wof:name":"Wyckoff Paint Fair",
     "wof:parent_id":85808635,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "store"
     ]
 },
-  "bbox": [-73.916325,40.702498,-73.916325,40.702498],
+  "bbox": [
+    -73.916325,
+    40.702498,
+    -73.916325,
+    40.702498
+],
   "geometry": {"coordinates":[-73.916325,40.702498],"type":"Point"}
 }

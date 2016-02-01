@@ -2,13 +2,14 @@
   "id": 354352863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.0,40.818909,-73.0,40.818909",
     "geom:latitude":40.818909,
     "geom:longitude":-73.0,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"65 Ohio Ave.",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"791c1437d9ea16cafabcef584d57ff56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354352863
         }
     ],
     "wof:id":354352863,
-    "wof:lastmodified":1449066982,
+    "wof:lastmodified":1454131093,
     "wof:name":"Morning Irrigation",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "plumber"
     ]
 },
-  "bbox": [-73.0,40.818909,-73.0,40.818909],
+  "bbox": [
+    -73.0,
+    40.818909,
+    -73.0,
+    40.818909
+],
   "geometry": {"coordinates":[-73,40.818909],"type":"Point"}
 }

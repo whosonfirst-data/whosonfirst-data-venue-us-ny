@@ -2,13 +2,14 @@
   "id": 303503123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.968904,40.769901,-73.968904,40.769901",
     "geom:latitude":40.769901,
     "geom:longitude":-73.968904,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 E 68 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865691,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"1695595b6d05a4f6b3f7f7fd72875bcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85865691,
             "region_id":85688543,
             "venue_id":303503123
         }
     ],
     "wof:id":303503123,
-    "wof:lastmodified":1449000573,
+    "wof:lastmodified":1454123725,
     "wof:name":"Raymond Bernick MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865691,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.968904,40.769901,-73.968904,40.769901],
-  "geometry": {"coordinates":[-73.968904,40.769901],"type":"Point"}
+  "bbox": [
+    -73.968904,
+    40.769901,
+    -73.968904,
+    40.769901
+],
+  "geometry": {"coordinates":[-73.96890399999999,40.769901],"type":"Point"}
 }

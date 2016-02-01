@@ -2,13 +2,14 @@
   "id": 370208597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.201846,40.828668,-73.201846,40.828668",
     "geom:latitude":40.828668,
     "geom:longitude":-73.201846,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"373 Smithtown Byp",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -56,10 +57,13 @@
     "sg:website":"http://www.yext.com/p/superpages/main-street-limo-hauppauge-new-york.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,19 +73,20 @@
     "wof:geomhash":"ea90678db9fa35785490f53d3347b52e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":370208597
         }
     ],
     "wof:id":370208597,
-    "wof:lastmodified":1449029483,
+    "wof:lastmodified":1454127432,
     "wof:name":"Main Street Limousine",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -92,6 +97,11 @@
         "limousine"
     ]
 },
-  "bbox": [-73.201846,40.828668,-73.201846,40.828668],
+  "bbox": [
+    -73.201846,
+    40.828668,
+    -73.201846,
+    40.828668
+],
   "geometry": {"coordinates":[-73.201846,40.828668],"type":"Point"}
 }

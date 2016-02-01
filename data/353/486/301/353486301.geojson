@@ -2,13 +2,14 @@
   "id": 353486301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.897126,40.754436,-73.897126,40.754436",
     "geom:latitude":40.754436,
     "geom:longitude":-73.897126,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6909 Northern Boulevard",
     "sg:city":"Woodside",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869091,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869091
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"dd875b0f8a308c43e7b1b02307fa40e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869091,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":353486301,
-    "wof:lastmodified":1449019674,
+    "wof:lastmodified":1454126360,
     "wof:name":"Three Brothers Liquor Store",
     "wof:parent_id":85869091,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "wine"
     ]
 },
-  "bbox": [-73.897126,40.754436,-73.897126,40.754436],
+  "bbox": [
+    -73.897126,
+    40.754436,
+    -73.897126,
+    40.754436
+],
   "geometry": {"coordinates":[-73.897126,40.754436],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286654175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.685562,40.82563,-73.685562,40.82563",
     "geom:latitude":40.82563,
     "geom:longitude":-73.685562,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"84 S Bayles Ave",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529161,
+        102191575,
+        404522729,
         85633793,
         85979185,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +53,20 @@
     "wof:geomhash":"70221ad5c4c52d93ad372a259b7ac3fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979185,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529161,
             "region_id":85688543,
             "venue_id":286654175
         }
     ],
     "wof:id":286654175,
-    "wof:lastmodified":1449016171,
+    "wof:lastmodified":1454125573,
     "wof:name":"Gesty Trading & Mfg Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529161,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -73,6 +78,11 @@
         "gift"
     ]
 },
-  "bbox": [-73.685562,40.82563,-73.685562,40.82563],
+  "bbox": [
+    -73.685562,
+    40.82563,
+    -73.685562,
+    40.82563
+],
   "geometry": {"coordinates":[-73.685562,40.82563],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303925399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.802528,42.961588,-78.802528,42.961588",
     "geom:latitude":42.961588,
     "geom:longitude":-78.802528,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"62 Chassin Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823285,
+        102191575,
+        404522321,
         85633793,
+        85979407,
         102082387,
-        85823285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"1f09ce624a140a693633dfb47d255a95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979407,
             "neighbourhood_id":85823285,
             "region_id":85688543,
             "venue_id":303925399
         }
     ],
     "wof:id":303925399,
-    "wof:lastmodified":1448998136,
+    "wof:lastmodified":1454122993,
     "wof:name":"Daybreak Construction Inc",
     "wof:parent_id":85823285,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-78.802528,42.961588,-78.802528,42.961588],
+  "bbox": [
+    -78.802528,
+    42.961588,
+    -78.802528,
+    42.961588
+],
   "geometry": {"coordinates":[-78.802528,42.961588],"type":"Point"}
 }

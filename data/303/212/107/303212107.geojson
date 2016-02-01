@@ -2,13 +2,14 @@
   "id": 303212107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.666171,40.797572,-73.666171,40.797572",
     "geom:latitude":40.797572,
     "geom:longitude":-73.666171,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1038 Northern Blvd",
     "sg:city":"Roslyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819663,
+        102191575,
+        404522729,
         85633793,
-        85977681,
+        85977685,
         102082371,
-        85819663
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"eb868334a3285195dd6ee30cfeb15626",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977681,
+            "localadmin_id":404522729,
+            "locality_id":85977685,
             "neighbourhood_id":85819663,
             "region_id":85688543,
             "venue_id":303212107
         }
     ],
     "wof:id":303212107,
-    "wof:lastmodified":1448999701,
+    "wof:lastmodified":1454123486,
     "wof:name":"Alternative Power Solutions",
     "wof:parent_id":85819663,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.666171,40.797572,-73.666171,40.797572],
-  "geometry": {"coordinates":[-73.666171,40.797572],"type":"Point"}
+  "bbox": [
+    -73.666171,
+    40.797572,
+    -73.666171,
+    40.797572
+],
+  "geometry": {"coordinates":[-73.66617100000001,40.797572],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403968881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.426419,43.84221,-73.426419,43.84221",
     "geom:latitude":43.84221,
     "geom:longitude":-73.426419,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"351 Amherst Ave",
     "sg:city":"Ticonderoga",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820233,
+        102191575,
+        404522389,
         85633793,
+        85978885,
         102082405,
-        85820233
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"1d9c7b4348f4a2fc8b2361e82009a80a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082405,
-            "locality_id":-1,
+            "localadmin_id":404522389,
+            "locality_id":85978885,
             "neighbourhood_id":85820233,
             "region_id":85688543,
             "venue_id":403968881
         }
     ],
     "wof:id":403968881,
-    "wof:lastmodified":1449054718,
+    "wof:lastmodified":1454129334,
     "wof:name":"Ticonderoga Central Schl Dist",
     "wof:parent_id":85820233,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.426419,43.84221,-73.426419,43.84221],
+  "bbox": [
+    -73.426419,
+    43.84221,
+    -73.426419,
+    43.84221
+],
   "geometry": {"coordinates":[-73.426419,43.84221],"type":"Point"}
 }

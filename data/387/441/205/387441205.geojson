@@ -2,13 +2,14 @@
   "id": 387441205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.151593,40.735095,-73.151593,40.735095",
     "geom:latitude":40.735095,
     "geom:longitude":-73.151593,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"359 Idle Hour Blvd",
     "sg:city":"Oakdale",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837663,
+        102191575,
+        404522517,
         85633793,
-        85979697,
+        85979705,
         102082395,
-        85837663
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"ee672af00230dc0a3e52b6eb62624bee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979697,
+            "localadmin_id":404522517,
+            "locality_id":85979705,
             "neighbourhood_id":85837663,
             "region_id":85688543,
             "venue_id":387441205
         }
     ],
     "wof:id":387441205,
-    "wof:lastmodified":1449056404,
+    "wof:lastmodified":1454129582,
     "wof:name":"Mid Island Photocopy",
     "wof:parent_id":85837663,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "copying"
     ]
 },
-  "bbox": [-73.151593,40.735095,-73.151593,40.735095],
-  "geometry": {"coordinates":[-73.151593,40.735095],"type":"Point"}
+  "bbox": [
+    -73.151593,
+    40.735095,
+    -73.151593,
+    40.735095
+],
+  "geometry": {"coordinates":[-73.15159300000001,40.735095],"type":"Point"}
 }

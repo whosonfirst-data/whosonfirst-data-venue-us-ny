@@ -2,13 +2,14 @@
   "id": 252900699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.057724,40.835384,-73.057724,40.835384",
     "geom:latitude":40.835384,
     "geom:longitude":-73.057724,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1105 Portion Rd",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"76d2622ad3d4b26260066b32287ba2ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":252900699
         }
     ],
     "wof:id":252900699,
-    "wof:lastmodified":1449005881,
+    "wof:lastmodified":1454124047,
     "wof:name":"Poffenburger & Gambino",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.057724,40.835384,-73.057724,40.835384],
-  "geometry": {"coordinates":[-73.057724,40.835384],"type":"Point"}
+  "bbox": [
+    -73.057724,
+    40.835384,
+    -73.057724,
+    40.835384
+],
+  "geometry": {"coordinates":[-73.05772399999999,40.835384],"type":"Point"}
 }

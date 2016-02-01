@@ -2,13 +2,14 @@
   "id": 336699721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.087728,40.779678,-73.087728,40.779678",
     "geom:latitude":40.779678,
     "geom:longitude":-73.087728,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"330 Knickerbocker Ave",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"d3fe83308f10f2ea0430e28be7e41ad3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":336699721
         }
     ],
     "wof:id":336699721,
-    "wof:lastmodified":1448997080,
+    "wof:lastmodified":1454122397,
     "wof:name":"AHRC Suffolk Chapter",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "welfare"
     ]
 },
-  "bbox": [-73.087728,40.779678,-73.087728,40.779678],
+  "bbox": [
+    -73.087728,
+    40.779678,
+    -73.087728,
+    40.779678
+],
   "geometry": {"coordinates":[-73.087728,40.779678],"type":"Point"}
 }

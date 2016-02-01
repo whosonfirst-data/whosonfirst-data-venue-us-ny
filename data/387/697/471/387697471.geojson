@@ -2,13 +2,14 @@
   "id": 387697471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.690262,40.731559,-73.690262,40.731559",
     "geom:latitude":40.731559,
     "geom:longitude":-73.690262,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"247 Jericho Tpke",
     "sg:city":"New Hyde Park",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892843,
+        102191575,
+        404521473,
         85633793,
-        85977667,
+        85977689,
         102082371,
-        85892843
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"9f902567f763c7538f465cb0645625ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977667,
+            "localadmin_id":404521473,
+            "locality_id":85977689,
             "neighbourhood_id":85892843,
             "region_id":85688543,
             "venue_id":387697471
         }
     ],
     "wof:id":387697471,
-    "wof:lastmodified":1449058508,
+    "wof:lastmodified":1454129961,
     "wof:name":"Copperfields",
     "wof:parent_id":85892843,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.690262,40.731559,-73.690262,40.731559],
+  "bbox": [
+    -73.690262,
+    40.731559,
+    -73.690262,
+    40.731559
+],
   "geometry": {"coordinates":[-73.690262,40.731559],"type":"Point"}
 }

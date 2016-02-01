@@ -2,13 +2,14 @@
   "id": 371156631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.999097,40.720156,-73.999097,40.720156",
     "geom:latitude":40.720156,
     "geom:longitude":-73.999097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"136 Grand St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865687,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865687
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"d36dd84e7b1f0b08ddefe0c64f24d424",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865687,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":371156631,
-    "wof:lastmodified":1449049246,
+    "wof:lastmodified":1454129084,
     "wof:name":"James Rossant Architect",
     "wof:parent_id":85865687,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "architectural"
     ]
 },
-  "bbox": [-73.999097,40.720156,-73.999097,40.720156],
-  "geometry": {"coordinates":[-73.999097,40.720156],"type":"Point"}
+  "bbox": [
+    -73.999097,
+    40.720156,
+    -73.999097,
+    40.720156
+],
+  "geometry": {"coordinates":[-73.99909700000001,40.720156],"type":"Point"}
 }

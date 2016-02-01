@@ -2,13 +2,14 @@
   "id": 337331573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.010801,40.707328,-74.010801,40.707328",
     "geom:latitude":40.707328,
     "geom:longitude":-74.010801,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14 Wall St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865711,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865711
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"41d6b7037822f5ad0b58cb7bba1b8274",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865711,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":337331573,
-    "wof:lastmodified":1449027442,
+    "wof:lastmodified":1454127066,
     "wof:name":"Shiv Supplies Inc",
     "wof:parent_id":85865711,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "newspaper"
     ]
 },
-  "bbox": [-74.010801,40.707328,-74.010801,40.707328],
+  "bbox": [
+    -74.010801,
+    40.707328,
+    -74.010801,
+    40.707328
+],
   "geometry": {"coordinates":[-74.010801,40.707328],"type":"Point"}
 }

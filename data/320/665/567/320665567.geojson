@@ -2,13 +2,14 @@
   "id": 320665567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.527367,40.673494,-73.527367,40.673494",
     "geom:latitude":40.673494,
     "geom:longitude":-73.527367,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2000 Bellmore Ave",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893061,
+        102191575,
+        404521473,
         85633793,
-        85979167,
-        102082371
+        85979059,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"7a74a1f08816a6dfd870749461621ebb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979167,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979059,
+            "neighbourhood_id":85893061,
             "region_id":85688543,
             "venue_id":320665567
         }
     ],
     "wof:id":320665567,
-    "wof:lastmodified":1449012410,
+    "wof:lastmodified":1454124949,
     "wof:name":"Bellmore Senior Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893061,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "citizen"
     ]
 },
-  "bbox": [-73.527367,40.673494,-73.527367,40.673494],
+  "bbox": [
+    -73.527367,
+    40.673494,
+    -73.527367,
+    40.673494
+],
   "geometry": {"coordinates":[-73.527367,40.673494],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371184103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.857087,42.980809,-78.857087,42.980809",
     "geom:latitude":42.980809,
     "geom:longitude":-78.857087,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2161 Sheridan Dr",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807529,
+        102191575,
+        404522265,
         85633793,
         85979419,
         102082387,
-        85807529
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"4de2c31d6dc65b93c92550ae04803def",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522265,
             "locality_id":85979419,
             "neighbourhood_id":85807529,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":371184103,
-    "wof:lastmodified":1449049218,
+    "wof:lastmodified":1454129078,
     "wof:name":"Martin G Scherrer",
     "wof:parent_id":85807529,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.857087,42.980809,-78.857087,42.980809],
-  "geometry": {"coordinates":[-78.857087,42.980809],"type":"Point"}
+  "bbox": [
+    -78.857087,
+    42.980809,
+    -78.857087,
+    42.980809
+],
+  "geometry": {"coordinates":[-78.85708700000001,42.980809],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371017807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.817163,40.988839,-73.817163,40.988839",
     "geom:latitude":40.988839,
     "geom:longitude":-73.817163,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Withington Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805227,
+        102191575,
+        404523359,
         85633793,
-        85978759,
+        85980063,
         102082373,
-        85805227
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"918b73fa660520bfe1e65c347e5524ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978759,
+            "localadmin_id":404523359,
+            "locality_id":85980063,
             "neighbourhood_id":85805227,
             "region_id":85688543,
             "venue_id":371017807
         }
     ],
     "wof:id":371017807,
-    "wof:lastmodified":1449049596,
+    "wof:lastmodified":1454129169,
     "wof:name":"Rachel Geltman",
     "wof:parent_id":85805227,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [-73.817163,40.988839,-73.817163,40.988839],
-  "geometry": {"coordinates":[-73.817163,40.988839],"type":"Point"}
+  "bbox": [
+    -73.817163,
+    40.988839,
+    -73.817163,
+    40.988839
+],
+  "geometry": {"coordinates":[-73.81716299999999,40.988839],"type":"Point"}
 }

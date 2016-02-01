@@ -2,13 +2,14 @@
   "id": 320278355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.090364,40.780493,-73.090364,40.780493",
     "geom:latitude":40.780493,
     "geom:longitude":-73.090364,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"390 Central Ave",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.photonix.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"1f4a48067ff9d4583ba2ab3aadd8728c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":320278355
         }
     ],
     "wof:id":320278355,
-    "wof:lastmodified":1449013325,
+    "wof:lastmodified":1454125100,
     "wof:name":"Photonics Industries Inc",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.090364,40.780493,-73.090364,40.780493],
-  "geometry": {"coordinates":[-73.090364,40.780493],"type":"Point"}
+  "bbox": [
+    -73.090364,
+    40.780493,
+    -73.090364,
+    40.780493
+],
+  "geometry": {"coordinates":[-73.09036399999999,40.780493],"type":"Point"}
 }

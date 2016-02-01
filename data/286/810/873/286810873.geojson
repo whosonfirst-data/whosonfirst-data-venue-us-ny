@@ -2,13 +2,14 @@
   "id": 286810873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.368715,40.688606,-73.368715,40.688606",
     "geom:latitude":40.688606,
     "geom:longitude":-73.368715,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"72 E Hoffman Ave",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
         85978477,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"ed5968daecf68cdc4f116bb53d9289ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522513,
             "locality_id":85978477,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":286810873
         }
     ],
     "wof:id":286810873,
-    "wof:lastmodified":1449016045,
+    "wof:lastmodified":1454125549,
     "wof:name":"Acme Sales Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-73.368715,40.688606,-73.368715,40.688606],
-  "geometry": {"coordinates":[-73.368715,40.688606],"type":"Point"}
+  "bbox": [
+    -73.368715,
+    40.688606,
+    -73.368715,
+    40.688606
+],
+  "geometry": {"coordinates":[-73.36871499999999,40.688606],"type":"Point"}
 }

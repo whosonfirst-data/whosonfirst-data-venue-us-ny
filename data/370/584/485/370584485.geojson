@@ -2,13 +2,14 @@
   "id": 370584485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.818622,40.995742,-73.818622,40.995742",
     "geom:latitude":40.995742,
     "geom:longitude":-73.818622,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"915 Central Park Ave",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805227,
+        102191575,
+        404523359,
         85633793,
-        85978759,
+        85980063,
         102082373,
-        85805227
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"453df02e9a70c196370ec015f57a31db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978759,
+            "localadmin_id":404523359,
+            "locality_id":85980063,
             "neighbourhood_id":85805227,
             "region_id":85688543,
             "venue_id":370584485
         }
     ],
     "wof:id":370584485,
-    "wof:lastmodified":1449029458,
+    "wof:lastmodified":1454127424,
     "wof:name":"New York Connecticut Dev Corp",
     "wof:parent_id":85805227,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.818622,40.995742,-73.818622,40.995742],
+  "bbox": [
+    -73.818622,
+    40.995742,
+    -73.818622,
+    40.995742
+],
   "geometry": {"coordinates":[-73.818622,40.995742],"type":"Point"}
 }

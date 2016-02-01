@@ -2,13 +2,14 @@
   "id": 336615313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.08535,40.758439,-73.08535,40.758439",
     "geom:latitude":40.758439,
     "geom:longitude":-73.08535,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12 Heritage Ln",
     "sg:city":"Sayville",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"17a3e9d13c7d07246d76356780d45657",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":336615313
         }
     ],
     "wof:id":336615313,
-    "wof:lastmodified":1448997280,
+    "wof:lastmodified":1454122549,
     "wof:name":"Marlin Pools Of Long Island",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "swimming"
     ]
 },
-  "bbox": [-73.08535,40.758439,-73.08535,40.758439],
-  "geometry": {"coordinates":[-73.08535,40.758439],"type":"Point"}
+  "bbox": [
+    -73.08535,
+    40.758439,
+    -73.08535,
+    40.758439
+],
+  "geometry": {"coordinates":[-73.08535000000001,40.758439],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269612819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.112355,40.81576,-73.112355,40.81576",
     "geom:latitude":40.81576,
     "geom:longitude":-73.112355,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"260 Ronkonkoma Ave",
     "sg:city":"Ronkonkoma",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829285,
+        102191575,
+        404522517,
         85633793,
-        85979667,
-        102082395
+        85979793,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"c713265d5f787afc5fbc34bd7b03f202",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979667,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979793,
+            "neighbourhood_id":85829285,
             "region_id":85688543,
             "venue_id":269612819
         }
     ],
     "wof:id":269612819,
-    "wof:lastmodified":1449037198,
+    "wof:lastmodified":1454128618,
     "wof:name":"Ronkonkoma Printing Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85829285,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "mi"
     ]
 },
-  "bbox": [-73.112355,40.81576,-73.112355,40.81576],
-  "geometry": {"coordinates":[-73.112355,40.81576],"type":"Point"}
+  "bbox": [
+    -73.112355,
+    40.81576,
+    -73.112355,
+    40.81576
+],
+  "geometry": {"coordinates":[-73.11235499999999,40.81576],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354146309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.303654,40.842354,-73.303654,40.842354",
     "geom:latitude":40.842354,
     "geom:longitude":-73.303654,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6133 jericho turnpike",
     "sg:city":"Commack",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"www.feltny.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892803,
+        102191575,
+        404522669,
         85633793,
         85979805,
         102082395,
-        85892803
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"feebe9e90b933d51c1ab2d9f90a0bdf5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979805,
             "neighbourhood_id":85892803,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":354146309,
-    "wof:lastmodified":1449066628,
+    "wof:lastmodified":1454130984,
     "wof:name":"Felt Billiards",
     "wof:parent_id":85892803,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "pool"
     ]
 },
-  "bbox": [-73.303654,40.842354,-73.303654,40.842354],
-  "geometry": {"coordinates":[-73.303654,40.842354],"type":"Point"}
+  "bbox": [
+    -73.303654,
+    40.842354,
+    -73.303654,
+    40.842354
+],
+  "geometry": {"coordinates":[-73.30365399999999,40.842354],"type":"Point"}
 }

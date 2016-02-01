@@ -2,13 +2,14 @@
   "id": 303181745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.908588,40.853559,-73.908588,40.853559",
     "geom:latitude":40.853559,
     "geom:longitude":-73.908588,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1978 Davidson Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85835319,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85835319
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"011622dbc0b8fd9878b51e33b8b7a7c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85835319,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303181745,
-    "wof:lastmodified":1448999622,
+    "wof:lastmodified":1454123462,
     "wof:name":"Fifth Element Beauty Salon",
     "wof:parent_id":85835319,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.908588,40.853559,-73.908588,40.853559],
-  "geometry": {"coordinates":[-73.908588,40.853559],"type":"Point"}
+  "bbox": [
+    -73.908588,
+    40.853559,
+    -73.908588,
+    40.853559
+],
+  "geometry": {"coordinates":[-73.90858799999999,40.853559],"type":"Point"}
 }

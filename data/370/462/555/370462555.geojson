@@ -2,13 +2,14 @@
   "id": 370462555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.319451,40.814656,-73.319451,40.814656",
     "geom:latitude":40.814656,
     "geom:longitude":-73.319451,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"575 Vanderbilt Pkwy",
     "sg:city":"Dix Hills",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530047,
+        102191575,
+        404522515,
         85633793,
         85979779,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"e54915f3b5a5318a139da87966bc6504",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85979779,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530047,
             "region_id":85688543,
             "venue_id":370462555
         }
     ],
     "wof:id":370462555,
-    "wof:lastmodified":1449032342,
+    "wof:lastmodified":1454128274,
     "wof:name":"Dix Hills Park Skating Rink",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530047,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "rink"
     ]
 },
-  "bbox": [-73.319451,40.814656,-73.319451,40.814656],
+  "bbox": [
+    -73.319451,
+    40.814656,
+    -73.319451,
+    40.814656
+],
   "geometry": {"coordinates":[-73.319451,40.814656],"type":"Point"}
 }

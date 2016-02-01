@@ -2,13 +2,14 @@
   "id": 353441725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.63513,40.841738,-73.63513,40.841738",
     "geom:latitude":40.841738,
     "geom:longitude":-73.63513,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"329 Glen Cove Ave",
     "sg:city":"Sea Cliff",
     "sg:classifiers":[
@@ -38,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
         85977597,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +55,20 @@
     "wof:geomhash":"6207f6e597bad302a59b09f26978ae90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85977597,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":353441725
         }
     ],
     "wof:id":353441725,
-    "wof:lastmodified":1449018456,
+    "wof:lastmodified":1454126006,
     "wof:name":"Technical Temperatures Svce",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -77,6 +82,11 @@
         "general"
     ]
 },
-  "bbox": [-73.63513,40.841738,-73.63513,40.841738],
+  "bbox": [
+    -73.63513,
+    40.841738,
+    -73.63513,
+    40.841738
+],
   "geometry": {"coordinates":[-73.63513,40.841738],"type":"Point"}
 }

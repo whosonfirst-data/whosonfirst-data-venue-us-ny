@@ -2,13 +2,14 @@
   "id": 370361507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.194728,40.81318,-73.194728,40.81318",
     "geom:latitude":40.81318,
     "geom:longitude":-73.194728,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"205 Macarthur Blvd",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"2fafd3d9e90d8586e92c7c4cf3de2845",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":370361507
         }
     ],
     "wof:id":370361507,
-    "wof:lastmodified":1449031558,
+    "wof:lastmodified":1454128043,
     "wof:name":"Pine Street Managemnet",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "management"
     ]
 },
-  "bbox": [-73.194728,40.81318,-73.194728,40.81318],
+  "bbox": [
+    -73.194728,
+    40.81318,
+    -73.194728,
+    40.81318
+],
   "geometry": {"coordinates":[-73.194728,40.81318],"type":"Point"}
 }

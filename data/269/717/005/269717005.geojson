@@ -2,13 +2,14 @@
   "id": 269717005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.614977,40.68094,-73.614977,40.68094",
     "geom:latitude":40.68094,
     "geom:longitude":-73.614977,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"659 Stratford Rd",
     "sg:city":"Baldwin",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529133,
+        102191575,
+        404521473,
         85633793,
+        85979173,
+        102082371,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"a910b8259a901472b959733d26fb5d9e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082371,
+            "localadmin_id":404521473,
+            "locality_id":85979173,
+            "neighbourhood_id":420529133,
             "region_id":85688543,
             "venue_id":269717005
         }
     ],
     "wof:id":269717005,
-    "wof:lastmodified":1449036204,
+    "wof:lastmodified":1454128472,
     "wof:name":"Linkers The",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529133,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "related"
     ]
 },
-  "bbox": [-73.614977,40.68094,-73.614977,40.68094],
+  "bbox": [
+    -73.614977,
+    40.68094,
+    -73.614977,
+    40.68094
+],
   "geometry": {"coordinates":[-73.614977,40.68094],"type":"Point"}
 }

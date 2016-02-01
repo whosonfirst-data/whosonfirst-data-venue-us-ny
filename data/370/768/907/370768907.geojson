@@ -2,13 +2,14 @@
   "id": 370768907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.000694,43.077688,-76.000694,43.077688",
     "geom:latitude":43.077688,
     "geom:longitude":-76.000694,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"112 East Ave",
     "sg:city":"Minoa",
     "sg:classifiers":[
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529409,
+        102191575,
+        404522837,
         85633793,
         85977793,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +53,20 @@
     "wof:geomhash":"b8fdc3c788545be1f384d27e6de28c83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522837,
             "locality_id":85977793,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529409,
             "region_id":85688543,
             "venue_id":370768907
         }
     ],
     "wof:id":370768907,
-    "wof:lastmodified":1449030388,
+    "wof:lastmodified":1454127699,
     "wof:name":"East View Gardens",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529409,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -73,6 +78,11 @@
         "listing"
     ]
 },
-  "bbox": [-76.000694,43.077688,-76.000694,43.077688],
+  "bbox": [
+    -76.000694,
+    43.077688,
+    -76.000694,
+    43.077688
+],
   "geometry": {"coordinates":[-76.000694,43.077688],"type":"Point"}
 }

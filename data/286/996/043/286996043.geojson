@@ -2,13 +2,14 @@
   "id": 286996043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.152837,40.810553,-73.152837,40.810553",
     "geom:latitude":40.810553,
     "geom:longitude":-73.152837,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1745 Express Dr N",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816389,
+        102191575,
+        404522517,
         85633793,
-        85979773,
+        85979693,
         102082395,
-        85816389
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"9697fc4d9d8201678015903a1a98cb31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
             "neighbourhood_id":85816389,
             "region_id":85688543,
             "venue_id":286996043
         }
     ],
     "wof:id":286996043,
-    "wof:lastmodified":1449015969,
+    "wof:lastmodified":1454125536,
     "wof:name":"Steel Fitness 2",
     "wof:parent_id":85816389,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "gymnasium"
     ]
 },
-  "bbox": [-73.152837,40.810553,-73.152837,40.810553],
-  "geometry": {"coordinates":[-73.152837,40.810553],"type":"Point"}
+  "bbox": [
+    -73.152837,
+    40.810553,
+    -73.152837,
+    40.810553
+],
+  "geometry": {"coordinates":[-73.15283700000001,40.810553],"type":"Point"}
 }

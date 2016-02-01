@@ -2,13 +2,14 @@
   "id": 270345121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.000272,40.731175,-74.000272,40.731175",
     "geom:latitude":40.731175,
     "geom:longitude":-74.000272,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"146 W 4 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529189,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"7b332d0f5d51da469560ee8f6d4ab9ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529189,
             "region_id":85688543,
             "venue_id":270345121
         }
     ],
     "wof:id":270345121,
-    "wof:lastmodified":1449010908,
+    "wof:lastmodified":1454124706,
     "wof:name":"Discorama Music World Distrs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529189,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "record"
     ]
 },
-  "bbox": [-74.000272,40.731175,-74.000272,40.731175],
+  "bbox": [
+    -74.000272,
+    40.731175,
+    -74.000272,
+    40.731175
+],
   "geometry": {"coordinates":[-74.000272,40.731175],"type":"Point"}
 }

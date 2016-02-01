@@ -2,13 +2,14 @@
   "id": 370704103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.725612,42.638039,-73.725612,42.638039",
     "geom:latitude":42.638039,
     "geom:longitude":-73.725612,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"290 3rd Ave Exd",
     "sg:city":"Rensselaer",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85843203,
+        102191575,
+        404523079,
         85633793,
+        85978343,
         102081773,
-        85843203
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"79989396d4314e83dc6f6a41a21470e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081773,
-            "locality_id":-1,
+            "localadmin_id":404523079,
+            "locality_id":85978343,
             "neighbourhood_id":85843203,
             "region_id":85688543,
             "venue_id":370704103
         }
     ],
     "wof:id":370704103,
-    "wof:lastmodified":1449029983,
+    "wof:lastmodified":1454127575,
     "wof:name":"People Kars",
     "wof:parent_id":85843203,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "toy"
     ]
 },
-  "bbox": [-73.725612,42.638039,-73.725612,42.638039],
+  "bbox": [
+    -73.725612,
+    42.638039,
+    -73.725612,
+    42.638039
+],
   "geometry": {"coordinates":[-73.725612,42.638039],"type":"Point"}
 }

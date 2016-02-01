@@ -2,13 +2,14 @@
   "id": 354191773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.179832,40.556367,-74.179832,40.556367",
     "geom:latitude":40.556367,
     "geom:longitude":-74.179832,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 Von Braun Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869085,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85869085
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"a1a122e5a94898a6f615bea2dc5bdbab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869085,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":354191773,
-    "wof:lastmodified":1449066964,
+    "wof:lastmodified":1454131088,
     "wof:name":"Dean's Home Improvements",
     "wof:parent_id":85869085,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "house"
     ]
 },
-  "bbox": [-74.179832,40.556367,-74.179832,40.556367],
+  "bbox": [
+    -74.179832,
+    40.556367,
+    -74.179832,
+    40.556367
+],
   "geometry": {"coordinates":[-74.179832,40.556367],"type":"Point"}
 }

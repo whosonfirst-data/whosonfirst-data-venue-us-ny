@@ -2,13 +2,14 @@
   "id": 370350631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.380767,40.891478,-72.380767,40.891478",
     "geom:latitude":40.891478,
     "geom:longitude":-72.380767,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 Hampton Rd Ste 1B",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,17 +56,18 @@
     "wof:geomhash":"9e44eaaf600a4f70c7e4130dc92cbb49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":370350631
         }
     ],
     "wof:id":370350631,
-    "wof:lastmodified":1449030808,
+    "wof:lastmodified":1454127820,
     "wof:name":"Maran De Baun Cruise Simonson",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "resume"
     ]
 },
-  "bbox": [-72.380767,40.891478,-72.380767,40.891478],
-  "geometry": {"coordinates":[-72.380767,40.891478],"type":"Point"}
+  "bbox": [
+    -72.380767,
+    40.891478,
+    -72.380767,
+    40.891478
+],
+  "geometry": {"coordinates":[-72.38076700000001,40.891478],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354220517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.043198,40.791821,-73.043198,40.791821",
     "geom:latitude":40.791821,
     "geom:longitude":-73.043198,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"755 Waverly Ave Ste 102",
     "sg:city":"Holtsville",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.schneiderengineering.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840885,
+        102191575,
+        404521441,
         85633793,
         85978461,
         102082395,
-        85840885
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"6acd904aa3283c1d648e2e208ad00499",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85978461,
             "neighbourhood_id":85840885,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":354220517,
-    "wof:lastmodified":1449067615,
+    "wof:lastmodified":1454131291,
     "wof:name":"Schneider Engineering, P",
     "wof:parent_id":85840885,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "engineer"
     ]
 },
-  "bbox": [-73.043198,40.791821,-73.043198,40.791821],
+  "bbox": [
+    -73.043198,
+    40.791821,
+    -73.043198,
+    40.791821
+],
   "geometry": {"coordinates":[-73.043198,40.791821],"type":"Point"}
 }

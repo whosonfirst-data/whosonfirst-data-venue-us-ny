@@ -2,13 +2,14 @@
   "id": 286655323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.978519,40.777168,-73.978519,40.777168",
     "geom:latitude":40.777168,
     "geom:longitude":-73.978519,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 W 72 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853285,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85853285
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"6f703fc1573e23b37162d4aab32812cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853285,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":286655323,
-    "wof:lastmodified":1449016874,
+    "wof:lastmodified":1454125697,
     "wof:name":"Sanford M Green DPM",
     "wof:parent_id":85853285,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.978519,40.777168,-73.978519,40.777168],
-  "geometry": {"coordinates":[-73.978519,40.777168],"type":"Point"}
+  "bbox": [
+    -73.978519,
+    40.777168,
+    -73.978519,
+    40.777168
+],
+  "geometry": {"coordinates":[-73.97851900000001,40.777168],"type":"Point"}
 }

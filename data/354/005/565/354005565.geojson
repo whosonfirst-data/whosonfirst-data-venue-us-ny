@@ -2,13 +2,14 @@
   "id": 354005565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.617138,40.681301,-73.617138,40.681301",
     "geom:latitude":40.681301,
     "geom:longitude":-73.617138,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"668 Mead Ter",
     "sg:city":"Hempstead",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892743,
+        102191575,
+        404521473,
         85633793,
-        85979175,
+        85977663,
         102082371,
-        85892743
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"7d0da0a3cdb4ec2db37594b9f750d0a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979175,
+            "localadmin_id":404521473,
+            "locality_id":85977663,
             "neighbourhood_id":85892743,
             "region_id":85688543,
             "venue_id":354005565
         }
     ],
     "wof:id":354005565,
-    "wof:lastmodified":1449067532,
+    "wof:lastmodified":1454131265,
     "wof:name":"Apollo Air Limited",
     "wof:parent_id":85892743,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "dealer"
     ]
 },
-  "bbox": [-73.617138,40.681301,-73.617138,40.681301],
+  "bbox": [
+    -73.617138,
+    40.681301,
+    -73.617138,
+    40.681301
+],
   "geometry": {"coordinates":[-73.617138,40.681301],"type":"Point"}
 }

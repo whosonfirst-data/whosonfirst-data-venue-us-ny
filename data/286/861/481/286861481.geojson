@@ -2,13 +2,14 @@
   "id": 286861481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.992612,40.702061,-73.992612,40.702061",
     "geom:latitude":40.702061,
     "geom:longitude":-73.992612,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"28 Cadman Plz W",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807925,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"16fb70d7d92967aface4e5fd429f2a97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85807925,
             "region_id":85688543,
             "venue_id":286861481
         }
     ],
     "wof:id":286861481,
-    "wof:lastmodified":1449018062,
+    "wof:lastmodified":1454125907,
     "wof:name":"Eagle Tenants Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807925,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "cooperative"
     ]
 },
-  "bbox": [-73.992612,40.702061,-73.992612,40.702061],
-  "geometry": {"coordinates":[-73.992612,40.702061],"type":"Point"}
+  "bbox": [
+    -73.992612,
+    40.702061,
+    -73.992612,
+    40.702061
+],
+  "geometry": {"coordinates":[-73.99261199999999,40.702061],"type":"Point"}
 }

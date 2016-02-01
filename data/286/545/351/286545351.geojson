@@ -2,13 +2,14 @@
   "id": 286545351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.646783,43.25938,-77.646783,43.25938",
     "geom:latitude":43.25938,
     "geom:longitude":-77.646783,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4631 Dewey Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -24,8 +25,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85848541,
+        102081815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +38,27 @@
     "wof:geomhash":"8df11cbb2ada488e4cd4038337f0d3c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "neighbourhood_id":85848541,
             "region_id":85688543,
             "venue_id":286545351
         }
     ],
     "wof:id":286545351,
-    "wof:lastmodified":1449015877,
+    "wof:lastmodified":1454125520,
     "wof:name":"Kiddie Kollege Child Care Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85848541,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.646783,43.25938,-77.646783,43.25938],
+  "bbox": [
+    -77.646783,
+    43.25938,
+    -77.646783,
+    43.25938
+],
   "geometry": {"coordinates":[-77.646783,43.25938],"type":"Point"}
 }

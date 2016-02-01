@@ -2,13 +2,14 @@
   "id": 269652065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.520704,40.799755,-73.520704,40.799755",
     "geom:latitude":40.799755,
     "geom:longitude":-73.520704,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Aerial Way",
     "sg:city":"Syosset",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892879,
+        102191575,
+        404521475,
         85633793,
-        85977611,
+        85979085,
         102082371,
-        85892879
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"50c45f5e3b40842a54ba3aa2f4e6508f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977611,
+            "localadmin_id":404521475,
+            "locality_id":85979085,
             "neighbourhood_id":85892879,
             "region_id":85688543,
             "venue_id":269652065
         }
     ],
     "wof:id":269652065,
-    "wof:lastmodified":1449037677,
+    "wof:lastmodified":1454128693,
     "wof:name":"Rathe Associates Inc",
     "wof:parent_id":85892879,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.520704,40.799755,-73.520704,40.799755],
-  "geometry": {"coordinates":[-73.520704,40.799755],"type":"Point"}
+  "bbox": [
+    -73.520704,
+    40.799755,
+    -73.520704,
+    40.799755
+],
+  "geometry": {"coordinates":[-73.52070399999999,40.799755],"type":"Point"}
 }

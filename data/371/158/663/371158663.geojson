@@ -2,13 +2,14 @@
   "id": 371158663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.809233,42.980091,-78.809233,42.980091",
     "geom:latitude":42.980091,
     "geom:longitude":-78.809233,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3358 Sheridan Dr",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -77,10 +78,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823285,
+        102191575,
+        404522321,
         85633793,
+        85979407,
         102082387,
-        85823285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,17 +94,18 @@
     "wof:geomhash":"522c255b1578ca2d1e62db0387805d0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979407,
             "neighbourhood_id":85823285,
             "region_id":85688543,
             "venue_id":371158663
         }
     ],
     "wof:id":371158663,
-    "wof:lastmodified":1449049758,
+    "wof:lastmodified":1454129206,
     "wof:name":"Edward Jones",
     "wof:parent_id":85823285,
     "wof:placetype":"venue",
@@ -130,6 +135,11 @@
         "stock"
     ]
 },
-  "bbox": [-78.809233,42.980091,-78.809233,42.980091],
-  "geometry": {"coordinates":[-78.809233,42.980091],"type":"Point"}
+  "bbox": [
+    -78.809233,
+    42.980091,
+    -78.809233,
+    42.980091
+],
+  "geometry": {"coordinates":[-78.80923300000001,42.980091],"type":"Point"}
 }

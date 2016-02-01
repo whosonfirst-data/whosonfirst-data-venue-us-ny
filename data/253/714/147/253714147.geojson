@@ -2,13 +2,14 @@
   "id": 253714147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.034532,41.177381,-74.034532,41.177381",
     "geom:latitude":41.177381,
     "geom:longitude":-74.034532,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Cooper Morris Dr",
     "sg:city":"Pomona",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529791,
+        102191575,
+        404523097,
         85633793,
+        85978543,
+        102082385,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"eabdacd414f9e6b10adbaebc9a6dbb3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082385,
+            "localadmin_id":404523097,
+            "locality_id":85978543,
+            "neighbourhood_id":420529791,
             "region_id":85688543,
             "venue_id":253714147
         }
     ],
     "wof:id":253714147,
-    "wof:lastmodified":1449064281,
+    "wof:lastmodified":1454130489,
     "wof:name":"Robert Bundy DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529791,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-74.034532,41.177381,-74.034532,41.177381],
+  "bbox": [
+    -74.034532,
+    41.177381,
+    -74.034532,
+    41.177381
+],
   "geometry": {"coordinates":[-74.034532,41.177381],"type":"Point"}
 }

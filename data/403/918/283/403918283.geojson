@@ -2,13 +2,14 @@
   "id": 403918283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.930284,40.616631,-73.930284,40.616631",
     "geom:latitude":40.616631,
     "geom:longitude":-73.930284,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2192 Flatbush Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558701,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"a93688da02098bdd723641948531dc7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558701,
             "region_id":85688543,
             "venue_id":403918283
         }
     ],
     "wof:id":403918283,
-    "wof:lastmodified":1449055510,
+    "wof:lastmodified":1454129448,
     "wof:name":"Gloria's Dog Beauty Salon Too",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "washing"
     ]
 },
-  "bbox": [-73.930284,40.616631,-73.930284,40.616631],
+  "bbox": [
+    -73.930284,
+    40.616631,
+    -73.930284,
+    40.616631
+],
   "geometry": {"coordinates":[-73.930284,40.616631],"type":"Point"}
 }

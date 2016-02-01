@@ -2,13 +2,14 @@
   "id": 371008873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.909213,42.985665,-78.909213,42.985665",
     "geom:latitude":42.985665,
     "geom:longitude":-78.909213,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"275 Cooper Ave",
     "sg:city":"Tonawanda",
     "sg:classifiers":[
@@ -43,11 +44,13 @@
     "sg:website":"http://www.stanleysteemer.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872917,
+        102191575,
+        404522265,
         85633793,
         85979419,
         102082387,
-        85872917
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,9 +60,10 @@
     "wof:geomhash":"741ce80c295d2cd8670f0de81da590b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522265,
             "locality_id":85979419,
             "neighbourhood_id":85872917,
             "region_id":85688543,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":371008873,
-    "wof:lastmodified":1449049336,
+    "wof:lastmodified":1454129108,
     "wof:name":"Stanley Steemer",
     "wof:parent_id":85872917,
     "wof:placetype":"venue",
@@ -87,6 +91,11 @@
         "fabric"
     ]
 },
-  "bbox": [-78.909213,42.985665,-78.909213,42.985665],
-  "geometry": {"coordinates":[-78.909213,42.985665],"type":"Point"}
+  "bbox": [
+    -78.909213,
+    42.985665,
+    -78.909213,
+    42.985665
+],
+  "geometry": {"coordinates":[-78.90921299999999,42.985665],"type":"Point"}
 }

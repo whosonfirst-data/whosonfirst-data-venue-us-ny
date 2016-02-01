@@ -2,13 +2,14 @@
   "id": 286362707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.022252,41.189206,-74.022252,41.189206",
     "geom:latitude":41.189206,
     "geom:longitude":-74.022252,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3 Manors Rd",
     "sg:city":"Pomona",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819099,
+        102191575,
+        404523093,
         85633793,
-        85979977,
+        85978525,
         102082385,
-        85819099
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"4b8e2b50fa3e57bc031d44a5781b33b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979977,
+            "localadmin_id":404523093,
+            "locality_id":85978525,
             "neighbourhood_id":85819099,
             "region_id":85688543,
             "venue_id":286362707
         }
     ],
     "wof:id":286362707,
-    "wof:lastmodified":1449017093,
+    "wof:lastmodified":1454125736,
     "wof:name":"Manors Apartments",
     "wof:parent_id":85819099,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-74.022252,41.189206,-74.022252,41.189206],
-  "geometry": {"coordinates":[-74.022252,41.189206],"type":"Point"}
+  "bbox": [
+    -74.022252,
+    41.189206,
+    -74.022252,
+    41.189206
+],
+  "geometry": {"coordinates":[-74.02225199999999,41.189206],"type":"Point"}
 }

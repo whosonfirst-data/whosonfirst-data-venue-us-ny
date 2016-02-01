@@ -2,13 +2,14 @@
   "id": 319965425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.020593,41.442136,-74.020593,41.442136",
     "geom:latitude":41.442136,
     "geom:longitude":-74.020593,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"49 Weeks Ave",
     "sg:city":"Cornwall On Hdsn",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812353,
+        102191575,
+        404522801,
         85633793,
+        85978241,
         102083061,
-        85812353
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"30c8e7a1691ebb3400d0aba0bdd15c02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":-1,
+            "localadmin_id":404522801,
+            "locality_id":85978241,
             "neighbourhood_id":85812353,
             "region_id":85688543,
             "venue_id":319965425
         }
     ],
     "wof:id":319965425,
-    "wof:lastmodified":1449024622,
+    "wof:lastmodified":1454126807,
     "wof:name":"Strom King Properties",
     "wof:parent_id":85812353,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.020593,41.442136,-74.020593,41.442136],
-  "geometry": {"coordinates":[-74.020593,41.442136],"type":"Point"}
+  "bbox": [
+    -74.020593,
+    41.442136,
+    -74.020593,
+    41.442136
+],
+  "geometry": {"coordinates":[-74.02059300000001,41.442136],"type":"Point"}
 }

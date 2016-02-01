@@ -2,13 +2,14 @@
   "id": 253294499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.744241,41.02545,-73.744241,41.02545",
     "geom:latitude":41.02545,
     "geom:longitude":-73.744241,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"305 North St",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420559399,
+        102191575,
+        404523395,
         85633793,
         85978761,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"dd0157d6b0b7cd4838e7f7c52543b7ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523395,
             "locality_id":85978761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420559399,
             "region_id":85688543,
             "venue_id":253294499
         }
     ],
     "wof:id":253294499,
-    "wof:lastmodified":1449064939,
+    "wof:lastmodified":1454130601,
     "wof:name":"Master MD Mumtaz",
-    "wof:parent_id":-1,
+    "wof:parent_id":420559399,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-73.744241,41.02545,-73.744241,41.02545],
+  "bbox": [
+    -73.744241,
+    41.02545,
+    -73.744241,
+    41.02545
+],
   "geometry": {"coordinates":[-73.744241,41.02545],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353598321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.722117,40.766072,-73.722117,40.766072",
     "geom:latitude":40.766072,
     "geom:longitude":-73.722117,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8 Webb Hill Rd",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85815033,
+        102191575,
+        404522729,
         85633793,
-        85977539,
-        102082377,
-        85815033
+        85977649,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"eac376195c23ea4689c8e350ca6afe39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404522729,
+            "locality_id":85977649,
             "neighbourhood_id":85815033,
             "region_id":85688543,
             "venue_id":353598321
         }
     ],
     "wof:id":353598321,
-    "wof:lastmodified":1449018373,
+    "wof:lastmodified":1454125983,
     "wof:name":"Toyonaga Electric Research",
     "wof:parent_id":85815033,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "electronics"
     ]
 },
-  "bbox": [-73.722117,40.766072,-73.722117,40.766072],
+  "bbox": [
+    -73.722117,
+    40.766072,
+    -73.722117,
+    40.766072
+],
   "geometry": {"coordinates":[-73.722117,40.766072],"type":"Point"}
 }

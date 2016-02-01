@@ -2,13 +2,14 @@
   "id": 252757417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.890231,41.66673,-73.890231,41.66673",
     "geom:latitude":41.66673,
     "geom:longitude":-73.890231,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"131 Boardman Rd",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     "sg:website":"www.ollhs.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85865331,
+        102191575,
+        404522309,
         85633793,
+        85979261,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"837a4ca5f1462a3271614306ca12b8da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522309,
+            "locality_id":85979261,
+            "neighbourhood_id":85865331,
             "region_id":85688543,
             "venue_id":252757417
         }
     ],
     "wof:id":252757417,
-    "wof:lastmodified":1449006026,
+    "wof:lastmodified":1454124065,
     "wof:name":"Our Lady Of Lourdes High Schl",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865331,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +68,11 @@
         "religious"
     ]
 },
-  "bbox": [-73.890231,41.66673,-73.890231,41.66673],
+  "bbox": [
+    -73.890231,
+    41.66673,
+    -73.890231,
+    41.66673
+],
   "geometry": {"coordinates":[-73.890231,41.66673],"type":"Point"}
 }

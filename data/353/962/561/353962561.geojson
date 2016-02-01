@@ -2,13 +2,14 @@
   "id": 353962561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.663803,40.798199,-73.663803,40.798199",
     "geom:latitude":40.798199,
     "geom:longitude":-73.663803,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1056 Northern Blvd",
     "sg:city":"Roslyn",
     "sg:classifiers":[
@@ -43,11 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819663,
+        102191575,
+        404522729,
         85633793,
-        85977681,
+        85977685,
         102082371,
-        85819663
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,17 +60,18 @@
     "wof:geomhash":"e3f06229ab3b05ccb85e13dd2de9fcf0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977681,
+            "localadmin_id":404522729,
+            "locality_id":85977685,
             "neighbourhood_id":85819663,
             "region_id":85688543,
             "venue_id":353962561
         }
     ],
     "wof:id":353962561,
-    "wof:lastmodified":1449019771,
+    "wof:lastmodified":1454126387,
     "wof:name":"Di Stefano Tony Landscaping Corp",
     "wof:parent_id":85819663,
     "wof:placetype":"venue",
@@ -83,6 +87,11 @@
         "landscape"
     ]
 },
-  "bbox": [-73.663803,40.798199,-73.663803,40.798199],
+  "bbox": [
+    -73.663803,
+    40.798199,
+    -73.663803,
+    40.798199
+],
   "geometry": {"coordinates":[-73.663803,40.798199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354187177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.140097,40.946445,-73.140097,40.946445",
     "geom:latitude":40.946445,
     "geom:longitude":-73.140097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"86 W Meadow Rd",
     "sg:city":"Setauket",
     "sg:classifiers":[
@@ -45,11 +46,13 @@
     "sg:website":"http://longisland.citysearch.com/profile/external/7498760/setauket_ny/old_field_club.html?publisher=yellowpages&reference_id=15&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824457,
+        102191575,
+        404521441,
         85633793,
-        85978487,
+        85979927,
         102082395,
-        85824457
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,17 +62,18 @@
     "wof:geomhash":"e756f2b925567d3525fc0dcc1044fa27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978487,
+            "localadmin_id":404521441,
+            "locality_id":85979927,
             "neighbourhood_id":85824457,
             "region_id":85688543,
             "venue_id":354187177
         }
     ],
     "wof:id":354187177,
-    "wof:lastmodified":1449066189,
+    "wof:lastmodified":1454130849,
     "wof:name":"Old Field Club",
     "wof:parent_id":85824457,
     "wof:placetype":"venue",
@@ -86,6 +90,11 @@
         "banquet"
     ]
 },
-  "bbox": [-73.140097,40.946445,-73.140097,40.946445],
+  "bbox": [
+    -73.140097,
+    40.946445,
+    -73.140097,
+    40.946445
+],
   "geometry": {"coordinates":[-73.140097,40.946445],"type":"Point"}
 }

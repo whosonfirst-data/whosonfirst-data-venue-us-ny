@@ -2,13 +2,14 @@
   "id": 319832899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.887728,40.864463,-73.887728,40.864463",
     "geom:latitude":40.864463,
     "geom:longitude":-73.887728,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2740 Webster Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819763,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85819763
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"de9653fb7e330b1d497325e3faceca81",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819763,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":319832899,
-    "wof:lastmodified":1449024105,
+    "wof:lastmodified":1454126717,
     "wof:name":"G & M Parking Lot",
     "wof:parent_id":85819763,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "garage"
     ]
 },
-  "bbox": [-73.887728,40.864463,-73.887728,40.864463],
+  "bbox": [
+    -73.887728,
+    40.864463,
+    -73.887728,
+    40.864463
+],
   "geometry": {"coordinates":[-73.887728,40.864463],"type":"Point"}
 }

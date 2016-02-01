@@ -2,13 +2,14 @@
   "id": 353924215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.647185,40.657596,-73.647185,40.657596",
     "geom:latitude":40.657596,
     "geom:longitude":-73.647185,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"213 Sunrise Hwy",
     "sg:city":"Rockville Centre",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529139,
+        102191575,
+        404521473,
         85633793,
         85977629,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"a35aaa066aa9883124f557f20dba762c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977629,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529139,
             "region_id":85688543,
             "venue_id":353924215
         }
     ],
     "wof:id":353924215,
-    "wof:lastmodified":1449018981,
+    "wof:lastmodified":1454126161,
     "wof:name":"El Mariachi Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529139,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "mexican"
     ]
 },
-  "bbox": [-73.647185,40.657596,-73.647185,40.657596],
-  "geometry": {"coordinates":[-73.647185,40.657596],"type":"Point"}
+  "bbox": [
+    -73.647185,
+    40.657596,
+    -73.647185,
+    40.657596
+],
+  "geometry": {"coordinates":[-73.64718499999999,40.657596],"type":"Point"}
 }

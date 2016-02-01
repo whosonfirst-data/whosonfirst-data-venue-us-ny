@@ -2,13 +2,14 @@
   "id": 286746451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.919218,40.838263,-73.919218,40.838263",
     "geom:latitude":40.838263,
     "geom:longitude":-73.919218,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1365 Jerome Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865561,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865561
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"eeada51f4a26652b9168d51fbce570b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865561,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":286746451,
-    "wof:lastmodified":1449015140,
+    "wof:lastmodified":1454125394,
     "wof:name":"Bronx Human Resources Adm",
     "wof:parent_id":85865561,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "village"
     ]
 },
-  "bbox": [-73.919218,40.838263,-73.919218,40.838263],
+  "bbox": [
+    -73.919218,
+    40.838263,
+    -73.919218,
+    40.838263
+],
   "geometry": {"coordinates":[-73.919218,40.838263],"type":"Point"}
 }

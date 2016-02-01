@@ -2,13 +2,14 @@
   "id": 403996241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.113162,40.879273,-73.113162,40.879273",
     "geom:latitude":40.879273,
     "geom:longitude":-73.113162,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2300 Nesconset Hwy",
     "sg:city":"Stony Brook",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892999,
+        102191575,
+        404521441,
         85633793,
-        85978479,
-        102082395
+        85979825,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"812dc24b5d6f516d24d7c454a025c5f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978479,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979825,
+            "neighbourhood_id":85892999,
             "region_id":85688543,
             "venue_id":403996241
         }
     ],
     "wof:id":403996241,
-    "wof:lastmodified":1449055006,
+    "wof:lastmodified":1454129377,
     "wof:name":"Omni Fitness Equip Specialists",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892999,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "exercise"
     ]
 },
-  "bbox": [-73.113162,40.879273,-73.113162,40.879273],
+  "bbox": [
+    -73.113162,
+    40.879273,
+    -73.113162,
+    40.879273
+],
   "geometry": {"coordinates":[-73.113162,40.879273],"type":"Point"}
 }

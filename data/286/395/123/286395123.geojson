@@ -2,13 +2,14 @@
   "id": 286395123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.094303,40.775905,-73.094303,40.775905",
     "geom:latitude":40.775905,
     "geom:longitude":-73.094303,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"493 Johnson Ave",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     "sg:website":"www.finelineproducts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +55,18 @@
     "wof:geomhash":"9c84d5798b0686890b11567340d464a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":286395123
         }
     ],
     "wof:id":286395123,
-    "wof:lastmodified":1449017682,
+    "wof:lastmodified":1454125841,
     "wof:name":"Fine Line Products Inc",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-73.094303,40.775905,-73.094303,40.775905],
+  "bbox": [
+    -73.094303,
+    40.775905,
+    -73.094303,
+    40.775905
+],
   "geometry": {"coordinates":[-73.094303,40.775905],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320651313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.713006,40.708264,-73.713006,40.708264",
     "geom:latitude":40.708264,
     "geom:longitude":-73.713006,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"485 Hempstead Tpke",
     "sg:city":"Elmont",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529145,
+        102191575,
+        404521473,
         85633793,
         85979137,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"429f823ea784b75ab2b19aa82382e5ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979137,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529145,
             "region_id":85688543,
             "venue_id":320651313
         }
     ],
     "wof:id":320651313,
-    "wof:lastmodified":1449011998,
+    "wof:lastmodified":1454124882,
     "wof:name":"A & F Discount Variety Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529145,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.713006,40.708264,-73.713006,40.708264],
-  "geometry": {"coordinates":[-73.713006,40.708264],"type":"Point"}
+  "bbox": [
+    -73.713006,
+    40.708264,
+    -73.713006,
+    40.708264
+],
+  "geometry": {"coordinates":[-73.71300599999999,40.708264],"type":"Point"}
 }

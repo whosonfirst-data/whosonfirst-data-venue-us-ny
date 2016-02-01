@@ -2,13 +2,14 @@
   "id": 370286117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.461441,40.797199,-73.461441,40.797199",
     "geom:latitude":40.797199,
     "geom:longitude":-73.461441,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"225 Dupont St",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"http://www.interbrandllc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
-        85979191,
-        102082371
+        85979055,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"84d66494d4547c48ce41c5c0abfdd29b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979191,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85979055,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":370286117
         }
     ],
     "wof:id":370286117,
-    "wof:lastmodified":1449029987,
+    "wof:lastmodified":1454127576,
     "wof:name":"Interbrand",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "women's"
     ]
 },
-  "bbox": [-73.461441,40.797199,-73.461441,40.797199],
-  "geometry": {"coordinates":[-73.461441,40.797199],"type":"Point"}
+  "bbox": [
+    -73.461441,
+    40.797199,
+    -73.461441,
+    40.797199
+],
+  "geometry": {"coordinates":[-73.46144099999999,40.797199],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354209663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.957906,40.94524,-72.957906,40.94524",
     "geom:latitude":40.94524,
     "geom:longitude":-72.957906,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"75 N Country Rd",
     "sg:city":"Rocky Point",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.7-eleven.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979947,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"c4ea0d2cb90e593690aac8f8ee668f0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979947,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":354209663
         }
     ],
     "wof:id":354209663,
-    "wof:lastmodified":1449067490,
+    "wof:lastmodified":1454131251,
     "wof:name":"7-Eleven",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.957906,40.94524,-72.957906,40.94524],
-  "geometry": {"coordinates":[-72.957906,40.94524],"type":"Point"}
+  "bbox": [
+    -72.957906,
+    40.94524,
+    -72.957906,
+    40.94524
+],
+  "geometry": {"coordinates":[-72.95790599999999,40.94524],"type":"Point"}
 }

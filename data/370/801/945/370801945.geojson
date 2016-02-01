@@ -2,13 +2,14 @@
   "id": 370801945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.133743,43.048475,-76.133743,43.048475",
     "geom:latitude":43.048475,
     "geom:longitude":-76.133743,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1124 E Fayette St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"http://www.syracuseprostheticcenter.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881253,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881253
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"8567d6e8b7e9e623d6395105b5ec000f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881253,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":370801945,
-    "wof:lastmodified":1449031876,
+    "wof:lastmodified":1454128134,
     "wof:name":"CNY Prosthetic Center",
     "wof:parent_id":85881253,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "prosthetic"
     ]
 },
-  "bbox": [-76.133743,43.048475,-76.133743,43.048475],
+  "bbox": [
+    -76.133743,
+    43.048475,
+    -76.133743,
+    43.048475
+],
   "geometry": {"coordinates":[-76.133743,43.048475],"type":"Point"}
 }

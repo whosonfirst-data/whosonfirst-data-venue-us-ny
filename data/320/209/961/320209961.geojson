@@ -2,13 +2,14 @@
   "id": 320209961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.119956,40.977979,-72.119956,40.977979",
     "geom:latitude":40.977979,
     "geom:longitude":-72.119956,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"36 Bunker Hill Rd",
     "sg:city":"Amagansett",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530023,
+        102191575,
+        404521445,
         85633793,
         85979941,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"ed3daac64b74d61ed5b4f6f5692244f8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521445,
             "locality_id":85979941,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530023,
             "region_id":85688543,
             "venue_id":320209961
         }
     ],
     "wof:id":320209961,
-    "wof:lastmodified":1449014567,
+    "wof:lastmodified":1454125296,
     "wof:name":"Sound Organics",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530023,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-72.119956,40.977979,-72.119956,40.977979],
+  "bbox": [
+    -72.119956,
+    40.977979,
+    -72.119956,
+    40.977979
+],
   "geometry": {"coordinates":[-72.119956,40.977979],"type":"Point"}
 }

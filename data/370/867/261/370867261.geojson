@@ -2,13 +2,14 @@
   "id": 370867261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.230568,44.465871,-75.230568,44.465871",
     "geom:latitude":44.465871,
     "geom:longitude":-75.230568,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"109 Church St",
     "sg:city":"Hermon",
     "sg:classifiers":[
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529809,
+        102191575,
+        404523147,
         85633793,
         85978673,
-        102082379
+        102082379,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +53,20 @@
     "wof:geomhash":"b0291c6c261c03d5c537527e97d933bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082379,
+            "localadmin_id":404523147,
             "locality_id":85978673,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529809,
             "region_id":85688543,
             "venue_id":370867261
         }
     ],
     "wof:id":370867261,
-    "wof:lastmodified":1449030551,
+    "wof:lastmodified":1454127742,
     "wof:name":"Hermon Volunteer Fire Department",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529809,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -73,6 +78,11 @@
         "village"
     ]
 },
-  "bbox": [-75.230568,44.465871,-75.230568,44.465871],
-  "geometry": {"coordinates":[-75.230568,44.465871],"type":"Point"}
+  "bbox": [
+    -75.230568,
+    44.465871,
+    -75.230568,
+    44.465871
+],
+  "geometry": {"coordinates":[-75.23056800000001,44.465871],"type":"Point"}
 }

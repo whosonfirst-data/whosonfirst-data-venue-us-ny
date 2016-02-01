@@ -2,13 +2,14 @@
   "id": 303703287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.957294,40.777185,-73.957294,40.777185",
     "geom:latitude":40.777185,
     "geom:longitude":-73.957294,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1220 Lexington Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865691,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865691
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"10af6ff7bb112938504593309e040e80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865691,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303703287,
-    "wof:lastmodified":1448998857,
+    "wof:lastmodified":1454123249,
     "wof:name":"Art For Us Studio",
     "wof:parent_id":85865691,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "art"
     ]
 },
-  "bbox": [-73.957294,40.777185,-73.957294,40.777185],
+  "bbox": [
+    -73.957294,
+    40.777185,
+    -73.957294,
+    40.777185
+],
   "geometry": {"coordinates":[-73.957294,40.777185],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353934457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.648333,40.660511,-73.648333,40.660511",
     "geom:latitude":40.660511,
     "geom:longitude":-73.648333,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 N Village Ave",
     "sg:city":"Rockville Centre",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829437,
+        102191575,
+        404521473,
         85633793,
-        85979129,
+        85979057,
         102082371,
-        85829437
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"93aa214febccee3a628248c45f5b53b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979129,
+            "localadmin_id":404521473,
+            "locality_id":85979057,
             "neighbourhood_id":85829437,
             "region_id":85688543,
             "venue_id":353934457
         }
     ],
     "wof:id":353934457,
-    "wof:lastmodified":1449018372,
+    "wof:lastmodified":1454125982,
     "wof:name":"Chase",
     "wof:parent_id":85829437,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-73.648333,40.660511,-73.648333,40.660511],
-  "geometry": {"coordinates":[-73.648333,40.660511],"type":"Point"}
+  "bbox": [
+    -73.648333,
+    40.660511,
+    -73.648333,
+    40.660511
+],
+  "geometry": {"coordinates":[-73.64833299999999,40.660511],"type":"Point"}
 }

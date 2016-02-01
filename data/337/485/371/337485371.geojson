@@ -2,13 +2,14 @@
   "id": 337485371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.880382,40.75856,-73.880382,40.75856",
     "geom:latitude":40.75856,
     "geom:longitude":-73.880382,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3136 88th Street",
     "sg:city":"East Elmhurst",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869091,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869091
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"16e4f98bea7217ab1bb9d42ed8d1106b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869091,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":337485371,
-    "wof:lastmodified":1449027444,
+    "wof:lastmodified":1454127067,
     "wof:name":"Congregation Tifereth Israel of Jackson Heights",
     "wof:parent_id":85869091,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.880382,40.75856,-73.880382,40.75856],
+  "bbox": [
+    -73.880382,
+    40.75856,
+    -73.880382,
+    40.75856
+],
   "geometry": {"coordinates":[-73.880382,40.75856],"type":"Point"}
 }

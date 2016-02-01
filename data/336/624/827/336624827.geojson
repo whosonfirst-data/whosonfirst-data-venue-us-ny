@@ -2,13 +2,14 @@
   "id": 336624827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.552661,43.230736,-75.552661,43.230736",
     "geom:latitude":43.230736,
     "geom:longitude":-75.552661,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5024 Oswego Rd",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816883,
+        102191575,
+        404522697,
         85633793,
         85978369,
-        102083149
+        102083149,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"139fae14bfc137b0d4fd6140a9a2ff3e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083149,
+            "localadmin_id":404522697,
             "locality_id":85978369,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85816883,
             "region_id":85688543,
             "venue_id":336624827
         }
     ],
     "wof:id":336624827,
-    "wof:lastmodified":1448997665,
+    "wof:lastmodified":1454122844,
     "wof:name":"AR Builders Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816883,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-75.552661,43.230736,-75.552661,43.230736],
+  "bbox": [
+    -75.552661,
+    43.230736,
+    -75.552661,
+    43.230736
+],
   "geometry": {"coordinates":[-75.552661,43.230736],"type":"Point"}
 }

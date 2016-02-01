@@ -2,13 +2,14 @@
   "id": 387079075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.499074,42.440546,-76.499074,42.440546",
     "geom:latitude":42.440546,
     "geom:longitude":-76.499074,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"215 N Cayuga St Apt 48",
     "sg:city":"Ithaca",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.novaspeech.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85878347,
+        102191575,
+        404523231,
         85633793,
         85978779,
         102082355,
-        85878347
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"cf67c11a28ad3792b3c299f9da3db641",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082355,
+            "localadmin_id":404523231,
             "locality_id":85978779,
             "neighbourhood_id":85878347,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387079075,
-    "wof:lastmodified":1449059288,
+    "wof:lastmodified":1454130097,
     "wof:name":"Novaspeech",
     "wof:parent_id":85878347,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "market"
     ]
 },
-  "bbox": [-76.499074,42.440546,-76.499074,42.440546],
-  "geometry": {"coordinates":[-76.499074,42.440546],"type":"Point"}
+  "bbox": [
+    -76.499074,
+    42.440546,
+    -76.499074,
+    42.440546
+],
+  "geometry": {"coordinates":[-76.49907399999999,42.440546],"type":"Point"}
 }

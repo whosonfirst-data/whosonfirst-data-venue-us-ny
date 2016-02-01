@@ -2,13 +2,14 @@
   "id": 354207365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.376427,40.867981,-73.376427,40.867981",
     "geom:latitude":40.867981,
     "geom:longitude":-73.376427,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"335 Greenlawn Rd",
     "sg:city":"Greenlawn",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"http://www.sundialfarm.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85830997,
+        102191575,
+        404522515,
         85633793,
         85979695,
         102082395,
-        85830997
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"0aefb1082c7f8d63dbde03a3fd5c44b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85979695,
             "neighbourhood_id":85830997,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":354207365,
-    "wof:lastmodified":1449067153,
+    "wof:lastmodified":1454131145,
     "wof:name":"Sundial Farm",
     "wof:parent_id":85830997,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "restoration"
     ]
 },
-  "bbox": [-73.376427,40.867981,-73.376427,40.867981],
-  "geometry": {"coordinates":[-73.376427,40.867981],"type":"Point"}
+  "bbox": [
+    -73.376427,
+    40.867981,
+    -73.376427,
+    40.867981
+],
+  "geometry": {"coordinates":[-73.37642700000001,40.867981],"type":"Point"}
 }

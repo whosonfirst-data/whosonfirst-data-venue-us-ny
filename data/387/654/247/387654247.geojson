@@ -2,13 +2,14 @@
   "id": 387654247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.988745,41.144752,-73.988745,41.144752",
     "geom:latitude":41.144752,
     "geom:longitude":-73.988745,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 1st St",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"b0de82b1bc9baa2e3aef635bf6af894c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":387654247
         }
     ],
     "wof:id":387654247,
-    "wof:lastmodified":1449057374,
+    "wof:lastmodified":1454129756,
     "wof:name":"Wallpapers & Designs Studio",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "accessory"
     ]
 },
-  "bbox": [-73.988745,41.144752,-73.988745,41.144752],
-  "geometry": {"coordinates":[-73.988745,41.144752],"type":"Point"}
+  "bbox": [
+    -73.988745,
+    41.144752,
+    -73.988745,
+    41.144752
+],
+  "geometry": {"coordinates":[-73.98874499999999,41.144752],"type":"Point"}
 }

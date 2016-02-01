@@ -2,13 +2,14 @@
   "id": 303891541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.333345,41.395558,-74.333345,41.395558",
     "geom:latitude":41.395558,
     "geom:longitude":-74.333345,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 Matthews St",
     "sg:city":"Goshen",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85828517,
+        102191575,
+        404522895,
         85633793,
         85978171,
         102083061,
-        85828517
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"d5e92070c26c4d930ab0eee6742a7117",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
+            "localadmin_id":404522895,
             "locality_id":85978171,
             "neighbourhood_id":85828517,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303891541,
-    "wof:lastmodified":1448999593,
+    "wof:lastmodified":1454123455,
     "wof:name":"Orange Cty Surgical",
     "wof:parent_id":85828517,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-74.333345,41.395558,-74.333345,41.395558],
-  "geometry": {"coordinates":[-74.333345,41.395558],"type":"Point"}
+  "bbox": [
+    -74.333345,
+    41.395558,
+    -74.333345,
+    41.395558
+],
+  "geometry": {"coordinates":[-74.33334499999999,41.395558],"type":"Point"}
 }

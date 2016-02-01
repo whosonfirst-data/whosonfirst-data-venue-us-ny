@@ -2,13 +2,14 @@
   "id": 370727329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.007795,40.719106,-74.007795,40.719106",
     "geom:latitude":40.719106,
     "geom:longitude":-74.007795,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"155 Franklin St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865713,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865713
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"0ca93304bae568880dfe155902ba74e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865713,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370727329,
-    "wof:lastmodified":1449029598,
+    "wof:lastmodified":1454127464,
     "wof:name":"Imagination USA",
     "wof:parent_id":85865713,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "product"
     ]
 },
-  "bbox": [-74.007795,40.719106,-74.007795,40.719106],
+  "bbox": [
+    -74.007795,
+    40.719106,
+    -74.007795,
+    40.719106
+],
   "geometry": {"coordinates":[-74.007795,40.719106],"type":"Point"}
 }

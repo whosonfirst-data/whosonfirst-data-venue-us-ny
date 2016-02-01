@@ -2,13 +2,14 @@
   "id": 253208311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.73428,40.629021,-73.73428,40.629021",
     "geom:latitude":40.629021,
     "geom:longitude":-73.73428,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"550 Oxford Rd",
     "sg:city":"Cedarhurst",
     "sg:classifiers":[
@@ -24,11 +25,15 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
-        85979053,
-        102082371,
-        85893091
+        85977539,
+        102082361,
+        85688543,
+        85865647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +43,42 @@
     "wof:geomhash":"da578a2a1b2d0a026531ee66d3b90368",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082371,
-            "locality_id":85979053,
-            "neighbourhood_id":85893091,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":85823673,
+            "region_id":85688543,
+            "venue_id":253208311
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":85865647,
             "region_id":85688543,
             "venue_id":253208311
         }
     ],
     "wof:id":253208311,
-    "wof:lastmodified":1449063167,
+    "wof:lastmodified":1454130301,
     "wof:name":"Empire Autograph Auctions LTD",
-    "wof:parent_id":85893091,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.73428,40.629021,-73.73428,40.629021],
+  "bbox": [
+    -73.73428,
+    40.629021,
+    -73.73428,
+    40.629021
+],
   "geometry": {"coordinates":[-73.73428,40.629021],"type":"Point"}
 }

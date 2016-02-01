@@ -2,13 +2,14 @@
   "id": 354125669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.092123,40.858437,-73.092123,40.858437",
     "geom:latitude":40.858437,
     "geom:longitude":-73.092123,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2267 Middle Country Rd",
     "sg:city":"Centereach",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"hertz.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892999,
+        102191575,
+        404521441,
         85633793,
         85979825,
         102082395,
-        85892999
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"2cd3fd26d5ac1914a01fd513c313b011",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979825,
             "neighbourhood_id":85892999,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":354125669,
-    "wof:lastmodified":1449067617,
+    "wof:lastmodified":1454131292,
     "wof:name":"Hertz Rent A Car",
     "wof:parent_id":85892999,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "car"
     ]
 },
-  "bbox": [-73.092123,40.858437,-73.092123,40.858437],
+  "bbox": [
+    -73.092123,
+    40.858437,
+    -73.092123,
+    40.858437
+],
   "geometry": {"coordinates":[-73.092123,40.858437],"type":"Point"}
 }

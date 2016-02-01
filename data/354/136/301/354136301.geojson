@@ -2,13 +2,14 @@
   "id": 354136301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.181999,40.794701,-73.181999,40.794701",
     "geom:latitude":40.794701,
     "geom:longitude":-73.181999,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"212 E Suffolk Ave",
     "sg:city":"Central Islip",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"www.enterprise.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
-        85979813,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"595130b5f53627440bfc0d48081735f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979813,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":354136301
         }
     ],
     "wof:id":354136301,
-    "wof:lastmodified":1449067654,
+    "wof:lastmodified":1454131303,
     "wof:name":"Enterprise Rent-A-Car",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "car"
     ]
 },
-  "bbox": [-73.181999,40.794701,-73.181999,40.794701],
+  "bbox": [
+    -73.181999,
+    40.794701,
+    -73.181999,
+    40.794701
+],
   "geometry": {"coordinates":[-73.181999,40.794701],"type":"Point"}
 }

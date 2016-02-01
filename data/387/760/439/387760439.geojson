@@ -2,13 +2,14 @@
   "id": 387760439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.986924,40.760184,-73.986924,40.760184",
     "geom:latitude":40.760184,
     "geom:longitude":-73.986924,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"233 W 47 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867077,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85867077
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"5aa9e459146bdcc5ac761ab605554b5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85867077,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387760439,
-    "wof:lastmodified":1449059774,
+    "wof:lastmodified":1454130182,
     "wof:name":"NY Diamond Setter",
     "wof:parent_id":85867077,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.986924,40.760184,-73.986924,40.760184],
+  "bbox": [
+    -73.986924,
+    40.760184,
+    -73.986924,
+    40.760184
+],
   "geometry": {"coordinates":[-73.986924,40.760184],"type":"Point"}
 }

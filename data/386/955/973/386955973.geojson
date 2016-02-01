@@ -2,13 +2,14 @@
   "id": 386955973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.897053,42.822474,-77.897053,42.822474",
     "geom:latitude":42.822474,
     "geom:longitude":-77.897053,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3901 Main St",
     "sg:city":"Piffard",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823187,
+        102191575,
+        404522005,
         85633793,
+        85979581,
         102082381,
-        85823187
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"045e1d88a0990205e43aadad067a5390",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082381,
-            "locality_id":-1,
+            "localadmin_id":404522005,
+            "locality_id":85979581,
             "neighbourhood_id":85823187,
             "region_id":85688543,
             "venue_id":386955973
         }
     ],
     "wof:id":386955973,
-    "wof:lastmodified":1449028840,
+    "wof:lastmodified":1454127247,
     "wof:name":"Wadsworth Grill",
     "wof:parent_id":85823187,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "bar"
     ]
 },
-  "bbox": [-77.897053,42.822474,-77.897053,42.822474],
+  "bbox": [
+    -77.897053,
+    42.822474,
+    -77.897053,
+    42.822474
+],
   "geometry": {"coordinates":[-77.897053,42.822474],"type":"Point"}
 }

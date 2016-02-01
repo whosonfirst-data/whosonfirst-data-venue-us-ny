@@ -2,13 +2,14 @@
   "id": 354071347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.674185,40.742805,-73.674185,40.742805",
     "geom:latitude":40.742805,
     "geom:longitude":-73.674185,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1801 Falmouth Ave",
     "sg:city":"New Hyde Park",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.environmentalchoice.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847583,
+        102191575,
+        404522729,
         85633793,
-        85979177,
+        85977733,
         102082371,
-        85847583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"a9594eb8531103fc506684d83113651f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979177,
+            "localadmin_id":404522729,
+            "locality_id":85977733,
             "neighbourhood_id":85847583,
             "region_id":85688543,
             "venue_id":354071347
         }
     ],
     "wof:id":354071347,
-    "wof:lastmodified":1449067030,
+    "wof:lastmodified":1454131106,
     "wof:name":"Magnum Research Corp",
     "wof:parent_id":85847583,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "industrial"
     ]
 },
-  "bbox": [-73.674185,40.742805,-73.674185,40.742805],
-  "geometry": {"coordinates":[-73.674185,40.742805],"type":"Point"}
+  "bbox": [
+    -73.674185,
+    40.742805,
+    -73.674185,
+    40.742805
+],
+  "geometry": {"coordinates":[-73.67418499999999,40.742805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286532119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.632807,40.852678,-73.632807,40.852678",
     "geom:latitude":40.852678,
     "geom:longitude":-73.632807,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Lamarcus Ave",
     "sg:city":"Glen Cove",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85977671,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"cfa1e3e95c5a7b7fbfdcca4e909d2000",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977671,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":286532119
         }
     ],
     "wof:id":286532119,
-    "wof:lastmodified":1449016174,
+    "wof:lastmodified":1454125574,
     "wof:name":"Ice Show Productions Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +75,11 @@
         "install"
     ]
 },
-  "bbox": [-73.632807,40.852678,-73.632807,40.852678],
+  "bbox": [
+    -73.632807,
+    40.852678,
+    -73.632807,
+    40.852678
+],
   "geometry": {"coordinates":[-73.632807,40.852678],"type":"Point"}
 }

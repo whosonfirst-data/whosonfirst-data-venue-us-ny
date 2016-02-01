@@ -2,13 +2,14 @@
   "id": 387744015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.459008,43.108629,-77.459008,43.108629",
     "geom:latitude":43.108629,
     "geom:longitude":-77.459008,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Oconnor Rd",
     "sg:city":"Fairport",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85808633,
+        102081815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"fc0854f41632a26dbd035f400eccb07c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "neighbourhood_id":85808633,
             "region_id":85688543,
             "venue_id":387744015
         }
     ],
     "wof:id":387744015,
-    "wof:lastmodified":1449057469,
+    "wof:lastmodified":1454129771,
     "wof:name":"First Editions",
-    "wof:parent_id":-1,
+    "wof:parent_id":85808633,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "custom"
     ]
 },
-  "bbox": [-77.459008,43.108629,-77.459008,43.108629],
+  "bbox": [
+    -77.459008,
+    43.108629,
+    -77.459008,
+    43.108629
+],
   "geometry": {"coordinates":[-77.459008,43.108629],"type":"Point"}
 }

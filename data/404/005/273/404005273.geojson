@@ -2,13 +2,14 @@
   "id": 404005273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.796546,41.020778,-73.796546,41.020778",
     "geom:latitude":41.020778,
     "geom:longitude":-73.796546,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"28 N Central Ave",
     "sg:city":"Hartsdale",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.signarama.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893011,
+        102191575,
+        404523359,
         85633793,
         85980061,
         102082373,
-        85893011
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"9faa82b70120be1e552273a1cca09d88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523359,
             "locality_id":85980061,
             "neighbourhood_id":85893011,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":404005273,
-    "wof:lastmodified":1449040236,
+    "wof:lastmodified":1454128958,
     "wof:name":"Sign-A-Rama",
     "wof:parent_id":85893011,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "manufacture"
     ]
 },
-  "bbox": [-73.796546,41.020778,-73.796546,41.020778],
-  "geometry": {"coordinates":[-73.796546,41.020778],"type":"Point"}
+  "bbox": [
+    -73.796546,
+    41.020778,
+    -73.796546,
+    41.020778
+],
+  "geometry": {"coordinates":[-73.79654600000001,41.020778],"type":"Point"}
 }

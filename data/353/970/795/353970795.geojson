@@ -2,13 +2,14 @@
   "id": 353970795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.621101,40.792099,-73.621101,40.792099",
     "geom:latitude":40.792099,
     "geom:longitude":-73.621101,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"124 Glen Cove Rd",
     "sg:city":"Roslyn Heights",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847583,
+        102191575,
+        404522729,
         85633793,
-        85979177,
+        85977733,
         102082371,
-        85847583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"73bbd68d0ddb143d4fef62a75d37ed24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979177,
+            "localadmin_id":404522729,
+            "locality_id":85977733,
             "neighbourhood_id":85847583,
             "region_id":85688543,
             "venue_id":353970795
         }
     ],
     "wof:id":353970795,
-    "wof:lastmodified":1449020732,
+    "wof:lastmodified":1454126667,
     "wof:name":"Flower Garden the",
     "wof:parent_id":85847583,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "gardening"
     ]
 },
-  "bbox": [-73.621101,40.792099,-73.621101,40.792099],
+  "bbox": [
+    -73.621101,
+    40.792099,
+    -73.621101,
+    40.792099
+],
   "geometry": {"coordinates":[-73.621101,40.792099],"type":"Point"}
 }

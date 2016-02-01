@@ -2,13 +2,14 @@
   "id": 353825215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.634499,40.705799,-73.634499,40.705799",
     "geom:latitude":40.705799,
     "geom:longitude":-73.634499,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"131 Fulton Ave",
     "sg:city":"Hempstead",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892743,
+        102191575,
+        404521473,
         85633793,
-        85979175,
+        85977663,
         102082371,
-        85892743
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"15d0c00f88f43e0ab84508809a79380e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979175,
+            "localadmin_id":404521473,
+            "locality_id":85977663,
             "neighbourhood_id":85892743,
             "region_id":85688543,
             "venue_id":353825215
         }
     ],
     "wof:id":353825215,
-    "wof:lastmodified":1449018339,
+    "wof:lastmodified":1454125974,
     "wof:name":"El Economico Grocery",
     "wof:parent_id":85892743,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.634499,40.705799,-73.634499,40.705799],
-  "geometry": {"coordinates":[-73.634499,40.705799],"type":"Point"}
+  "bbox": [
+    -73.634499,
+    40.705799,
+    -73.634499,
+    40.705799
+],
+  "geometry": {"coordinates":[-73.63449900000001,40.705799],"type":"Point"}
 }

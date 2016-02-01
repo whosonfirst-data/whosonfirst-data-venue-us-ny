@@ -2,13 +2,14 @@
   "id": 337414925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.578341,40.845707,-72.578341,40.845707",
     "geom:latitude":40.845707,
     "geom:longitude":-72.578341,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"472 Montauk Hwy",
     "sg:city":"East Quogue",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823763,
+        102191575,
+        404522671,
         85633793,
-        85979791,
-        102082395
+        85978455,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"4bf8a535962cd4cf4dbc30c4d3821e3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979791,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522671,
+            "locality_id":85978455,
+            "neighbourhood_id":85823763,
             "region_id":85688543,
             "venue_id":337414925
         }
     ],
     "wof:id":337414925,
-    "wof:lastmodified":1449027328,
+    "wof:lastmodified":1454127020,
     "wof:name":"Lanzetta & Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85823763,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "attorney"
     ]
 },
-  "bbox": [-72.578341,40.845707,-72.578341,40.845707],
-  "geometry": {"coordinates":[-72.578341,40.845707],"type":"Point"}
+  "bbox": [
+    -72.578341,
+    40.845707,
+    -72.578341,
+    40.845707
+],
+  "geometry": {"coordinates":[-72.57834099999999,40.845707],"type":"Point"}
 }

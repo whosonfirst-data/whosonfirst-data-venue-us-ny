@@ -2,13 +2,14 @@
   "id": 387685729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.797584,40.81605,-72.797584,40.81605",
     "geom:latitude":40.81605,
     "geom:longitude":-72.797584,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"256 Chichester Ave",
     "sg:city":"Center Moriches",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"0567086e89a6145ae7787311071da077",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":387685729
         }
     ],
     "wof:id":387685729,
-    "wof:lastmodified":1449059827,
+    "wof:lastmodified":1454130194,
     "wof:name":"Bilsea Sandblasting",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-72.797584,40.81605,-72.797584,40.81605],
+  "bbox": [
+    -72.797584,
+    40.81605,
+    -72.797584,
+    40.81605
+],
   "geometry": {"coordinates":[-72.797584,40.81605],"type":"Point"}
 }

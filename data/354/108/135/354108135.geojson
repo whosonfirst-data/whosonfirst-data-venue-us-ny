@@ -2,13 +2,14 @@
   "id": 354108135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.641143,43.154347,-77.641143,43.154347",
     "geom:latitude":43.154347,
     "geom:longitude":-77.641143,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"174 Colvin St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.twtruck.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85803599,
+        102191575,
+        404521467,
         85633793,
         85977591,
-        102081815
+        102081815,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"27c63ae4581750a83b0d4d75b412958e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85803599,
             "region_id":85688543,
             "venue_id":354108135
         }
     ],
     "wof:id":354108135,
-    "wof:lastmodified":1449065966,
+    "wof:lastmodified":1454130780,
     "wof:name":"STS Truck Equippers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85803599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "truck"
     ]
 },
-  "bbox": [-77.641143,43.154347,-77.641143,43.154347],
+  "bbox": [
+    -77.641143,
+    43.154347,
+    -77.641143,
+    43.154347
+],
   "geometry": {"coordinates":[-77.641143,43.154347],"type":"Point"}
 }

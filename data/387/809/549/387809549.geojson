@@ -2,13 +2,14 @@
   "id": 387809549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.711685,43.155079,-78.711685,43.155079",
     "geom:latitude":43.155079,
     "geom:longitude":-78.711685,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"501 Ohio St",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529193,
+        102191575,
+        404522737,
         85633793,
-        85978249,
-        102081767
+        85979541,
+        102081767,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"0941be69fa096ef0fd3043771d4b566e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
-            "locality_id":85978249,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522737,
+            "locality_id":85979541,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":387809549
         }
     ],
     "wof:id":387809549,
-    "wof:lastmodified":1449059238,
+    "wof:lastmodified":1454130089,
     "wof:name":"Sunrise Fabricating Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.711685,43.155079,-78.711685,43.155079],
+  "bbox": [
+    -78.711685,
+    43.155079,
+    -78.711685,
+    43.155079
+],
   "geometry": {"coordinates":[-78.711685,43.155079],"type":"Point"}
 }

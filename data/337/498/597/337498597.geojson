@@ -2,13 +2,14 @@
   "id": 337498597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.866991,40.776758,-73.866991,40.776758",
     "geom:latitude":40.776758,
     "geom:longitude":-73.866991,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"La Guardia Airport",
     "sg:city":"East Elmhurst",
     "sg:classifiers":[
@@ -23,11 +24,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102526001,
         85688543,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85816259
+        102082361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +40,30 @@
     "wof:geomhash":"5cc8117ffe808fd57829a72ffd11d010",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102526001,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85816259,
             "region_id":85688543,
             "venue_id":337498597
         }
     ],
     "wof:id":337498597,
-    "wof:lastmodified":1449027558,
+    "wof:lastmodified":1454127111,
     "wof:name":"Figs Food & Spirits",
-    "wof:parent_id":85816259,
+    "wof:parent_id":102526001,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.866991,40.776758,-73.866991,40.776758],
+  "bbox": [
+    -73.866991,
+    40.776758,
+    -73.866991,
+    40.776758
+],
   "geometry": {"coordinates":[-73.866991,40.776758],"type":"Point"}
 }

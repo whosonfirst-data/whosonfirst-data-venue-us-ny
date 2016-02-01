@@ -2,13 +2,14 @@
   "id": 387200863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.037042,40.856682,-73.037042,40.856682",
     "geom:latitude":40.856682,
     "geom:longitude":-73.037042,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"88 Sunset Ave",
     "sg:city":"Selden",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"9f87d77b01121de4356e1af335b5ead5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":387200863
         }
     ],
     "wof:id":387200863,
-    "wof:lastmodified":1449057632,
+    "wof:lastmodified":1454129800,
     "wof:name":"IDR Technologies",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.037042,40.856682,-73.037042,40.856682],
+  "bbox": [
+    -73.037042,
+    40.856682,
+    -73.037042,
+    40.856682
+],
   "geometry": {"coordinates":[-73.037042,40.856682],"type":"Point"}
 }

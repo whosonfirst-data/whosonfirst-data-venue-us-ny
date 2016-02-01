@@ -2,13 +2,14 @@
   "id": 370874847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.002284,40.809491,-73.002284,40.809491",
     "geom:latitude":40.809491,
     "geom:longitude":-73.002284,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2030 Rte 112",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"dd0a29f86bf74165059f27980a2ac674",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":370874847
         }
     ],
     "wof:id":370874847,
-    "wof:lastmodified":1449032246,
+    "wof:lastmodified":1454128245,
     "wof:name":"Chroma Communications Inc",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "commercial"
     ]
 },
-  "bbox": [-73.002284,40.809491,-73.002284,40.809491],
+  "bbox": [
+    -73.002284,
+    40.809491,
+    -73.002284,
+    40.809491
+],
   "geometry": {"coordinates":[-73.002284,40.809491],"type":"Point"}
 }

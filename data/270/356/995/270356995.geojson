@@ -2,13 +2,14 @@
   "id": 270356995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.978652,40.729717,-73.978652,40.729717",
     "geom:latitude":40.729717,
     "geom:longitude":-73.978652,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"534 E 14 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851295,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85851295
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a2109963e5d14b9b5d816bfa3d2eeb7e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85851295,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":270356995,
-    "wof:lastmodified":1449010634,
+    "wof:lastmodified":1454124663,
     "wof:name":"24 Hour All Day Emerg Lcksmth",
     "wof:parent_id":85851295,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-73.978652,40.729717,-73.978652,40.729717],
+  "bbox": [
+    -73.978652,
+    40.729717,
+    -73.978652,
+    40.729717
+],
   "geometry": {"coordinates":[-73.978652,40.729717],"type":"Point"}
 }

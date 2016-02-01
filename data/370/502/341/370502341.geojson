@@ -2,13 +2,14 @@
   "id": 370502341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.228072,41.777312,-74.228072,41.777312",
     "geom:latitude":41.777312,
     "geom:longitude":-74.228072,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Stony Kill Rd",
     "sg:city":"Accord",
     "sg:classifiers":[
@@ -30,7 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420530203,
+        102191575,
+        404523265,
         85633793,
+        85978923,
+        102081775,
         85688543
     ],
     "wof:breaches":[],
@@ -41,18 +47,20 @@
     "wof:geomhash":"086fc3fe3ff6a512dc3d30f39b780ca9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081775,
+            "localadmin_id":404523265,
+            "locality_id":85978923,
+            "neighbourhood_id":420530203,
             "region_id":85688543,
             "venue_id":370502341
         }
     ],
     "wof:id":370502341,
-    "wof:lastmodified":1449030651,
+    "wof:lastmodified":1454127772,
     "wof:name":"Stonykill Films",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530203,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +71,11 @@
         "companies-film"
     ]
 },
-  "bbox": [-74.228072,41.777312,-74.228072,41.777312],
+  "bbox": [
+    -74.228072,
+    41.777312,
+    -74.228072,
+    41.777312
+],
   "geometry": {"coordinates":[-74.228072,41.777312],"type":"Point"}
 }

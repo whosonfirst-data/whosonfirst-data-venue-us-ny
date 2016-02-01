@@ -2,13 +2,14 @@
   "id": 353746081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.610187,40.656258,-73.610187,40.656258",
     "geom:latitude":40.656258,
     "geom:longitude":-73.610187,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"684 Sunrise Hwy",
     "sg:city":"Baldwin",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     "sg:website":"http://www.redlobster.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892745,
+        102191575,
+        404521473,
         85633793,
         85979131,
         102082371,
-        85892745
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"c08fa04ca8e7bb4df62f402d7605a37b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979131,
             "neighbourhood_id":85892745,
             "region_id":85688543,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":353746081,
-    "wof:lastmodified":1449018235,
+    "wof:lastmodified":1454125943,
     "wof:name":"Red Lobster",
     "wof:parent_id":85892745,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "take"
     ]
 },
-  "bbox": [-73.610187,40.656258,-73.610187,40.656258],
+  "bbox": [
+    -73.610187,
+    40.656258,
+    -73.610187,
+    40.656258
+],
   "geometry": {"coordinates":[-73.610187,40.656258],"type":"Point"}
 }

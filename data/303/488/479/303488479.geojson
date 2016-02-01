@@ -2,13 +2,14 @@
   "id": 303488479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.492277,42.55431,-77.492277,42.55431",
     "geom:latitude":42.55431,
     "geom:longitude":-77.492277,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 W Main",
     "sg:city":"Cohocton",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85806053,
+        102083115
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"cb3472571f53829ca48d728b5a3f32d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083115,
+            "neighbourhood_id":85806053,
             "region_id":85688543,
             "venue_id":303488479
         }
     ],
     "wof:id":303488479,
-    "wof:lastmodified":1449000504,
+    "wof:lastmodified":1454123708,
     "wof:name":"Cohocton Town Supervisor",
-    "wof:parent_id":-1,
+    "wof:parent_id":85806053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "village"
     ]
 },
-  "bbox": [-77.492277,42.55431,-77.492277,42.55431],
+  "bbox": [
+    -77.492277,
+    42.55431,
+    -77.492277,
+    42.55431
+],
   "geometry": {"coordinates":[-77.492277,42.55431],"type":"Point"}
 }

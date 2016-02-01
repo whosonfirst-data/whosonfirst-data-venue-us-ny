@@ -2,13 +2,14 @@
   "id": 169821923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.948626,40.712653,-73.948626,40.712653",
     "geom:latitude":40.712653,
     "geom:longitude":-73.948626,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"145 Ainslie St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"www.oaknyc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857853,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85857853
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"108f31754e08fe0fc7f3f1f2b2419c35",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85857853,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":169821923,
-    "wof:lastmodified":1449034491,
+    "wof:lastmodified":1454128409,
     "wof:name":"Oak",
     "wof:parent_id":85857853,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "women's"
     ]
 },
-  "bbox": [-73.948626,40.712653,-73.948626,40.712653],
+  "bbox": [
+    -73.948626,
+    40.712653,
+    -73.948626,
+    40.712653
+],
   "geometry": {"coordinates":[-73.948626,40.712653],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336843563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.834109,40.678853,-73.834109,40.678853",
     "geom:latitude":40.678853,
     "geom:longitude":-73.834109,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7 Rockaway Blvd",
     "sg:city":"Ozone Park",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529701,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"48731af6f2098107d8f40876435fc61c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529701,
             "region_id":85688543,
             "venue_id":336843563
         }
     ],
     "wof:id":336843563,
-    "wof:lastmodified":1448997022,
+    "wof:lastmodified":1454122371,
     "wof:name":"Celbell Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-73.834109,40.678853,-73.834109,40.678853],
+  "bbox": [
+    -73.834109,
+    40.678853,
+    -73.834109,
+    40.678853
+],
   "geometry": {"coordinates":[-73.834109,40.678853],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336674083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.635228,40.85716,-73.635228,40.85716",
     "geom:latitude":40.85716,
     "geom:longitude":-73.635228,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"97 Glen Cove Ave",
     "sg:city":"Glen Cove",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85977671,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"f09977d98b7770f7c3e0d8070f3e3555",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977671,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":336674083
         }
     ],
     "wof:id":336674083,
-    "wof:lastmodified":1448997745,
+    "wof:lastmodified":1454122868,
     "wof:name":"Gold Pro",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "silver"
     ]
 },
-  "bbox": [-73.635228,40.85716,-73.635228,40.85716],
+  "bbox": [
+    -73.635228,
+    40.85716,
+    -73.635228,
+    40.85716
+],
   "geometry": {"coordinates":[-73.635228,40.85716],"type":"Point"}
 }

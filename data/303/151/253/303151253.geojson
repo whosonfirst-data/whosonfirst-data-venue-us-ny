@@ -2,13 +2,14 @@
   "id": 303151253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.13695,43.054477,-76.13695,43.054477",
     "geom:latitude":43.054477,
     "geom:longitude":-76.13695,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Gertrude St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881253,
+        102191575,
+        404522851,
         85633793,
         85977785,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"e092dda8a9bb1a36387a386ba81e1981",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881253,
             "region_id":85688543,
             "venue_id":303151253
         }
     ],
     "wof:id":303151253,
-    "wof:lastmodified":1448998145,
+    "wof:lastmodified":1454122996,
     "wof:name":"N E H D A Thrift Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881253,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-76.13695,43.054477,-76.13695,43.054477],
+  "bbox": [
+    -76.13695,
+    43.054477,
+    -76.13695,
+    43.054477
+],
   "geometry": {"coordinates":[-76.13695,43.054477],"type":"Point"}
 }

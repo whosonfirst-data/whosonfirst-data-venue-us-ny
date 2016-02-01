@@ -2,13 +2,14 @@
   "id": 286665997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.915024,40.83932,-73.915024,40.83932",
     "geom:latitude":40.83932,
     "geom:longitude":-73.915024,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 E 170th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.emigrant.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865561,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865561
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"03cd6c65e277e31ad77bfa62adc41fd8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865561,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":286665997,
-    "wof:lastmodified":1449016086,
+    "wof:lastmodified":1454125558,
     "wof:name":"Emigrant Savings Bank",
     "wof:parent_id":85865561,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "institution"
     ]
 },
-  "bbox": [-73.915024,40.83932,-73.915024,40.83932],
+  "bbox": [
+    -73.915024,
+    40.83932,
+    -73.915024,
+    40.83932
+],
   "geometry": {"coordinates":[-73.915024,40.83932],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370322313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.780722,40.857122,-72.780722,40.857122",
     "geom:latitude":40.857122,
     "geom:longitude":-72.780722,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"24 Golf Club Cir",
     "sg:city":"Manorville",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530021,
+        102191575,
+        404521441,
         85633793,
         85979761,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"c9888a306b88240abf792cb802cb09e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530021,
             "region_id":85688543,
             "venue_id":370322313
         }
     ],
     "wof:id":370322313,
-    "wof:lastmodified":1449029029,
+    "wof:lastmodified":1454127296,
     "wof:name":"Marshalls Snack Foods",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530021,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "products-wholesale"
     ]
 },
-  "bbox": [-72.780722,40.857122,-72.780722,40.857122],
+  "bbox": [
+    -72.780722,
+    40.857122,
+    -72.780722,
+    40.857122
+],
   "geometry": {"coordinates":[-72.780722,40.857122],"type":"Point"}
 }

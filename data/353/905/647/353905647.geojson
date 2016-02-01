@@ -2,13 +2,14 @@
   "id": 353905647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.983596,40.734373,-73.983596,40.734373",
     "geom:latitude":40.734373,
     "geom:longitude":-73.983596,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"237 E 17 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865705,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865705
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"d255e0fdf3aece00f0199605046b5efa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865705,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":353905647,
-    "wof:lastmodified":1449019269,
+    "wof:lastmodified":1454126241,
     "wof:name":"Jon Gordon Music Production",
     "wof:parent_id":85865705,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "music"
     ]
 },
-  "bbox": [-73.983596,40.734373,-73.983596,40.734373],
-  "geometry": {"coordinates":[-73.983596,40.734373],"type":"Point"}
+  "bbox": [
+    -73.983596,
+    40.734373,
+    -73.983596,
+    40.734373
+],
+  "geometry": {"coordinates":[-73.98359600000001,40.734373],"type":"Point"}
 }

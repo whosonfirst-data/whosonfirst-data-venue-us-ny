@@ -2,13 +2,14 @@
   "id": 185786683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.995064,40.625793,-73.995064,40.625793",
     "geom:latitude":40.625793,
     "geom:longitude":-73.995064,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1451 61st St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"f09154eef90cc0b94401a3d8af9c52b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":185786683
         }
     ],
     "wof:id":185786683,
-    "wof:lastmodified":1449006813,
+    "wof:lastmodified":1454124170,
     "wof:name":"Lawn Ranger Landscape Des",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.995064,40.625793,-73.995064,40.625793],
+  "bbox": [
+    -73.995064,
+    40.625793,
+    -73.995064,
+    40.625793
+],
   "geometry": {"coordinates":[-73.995064,40.625793],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354043923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.815201,40.5854,-73.815201,40.5854",
     "geom:latitude":40.5854,
     "geom:longitude":-73.815201,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9222 Holland Ave",
     "sg:city":"Rockaway Beac",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865515,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865515
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f21aeea2559e8f879fd98c8490929356",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865515,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":354043923,
-    "wof:lastmodified":1449067231,
+    "wof:lastmodified":1454131171,
     "wof:name":"Shoreview Apartments",
     "wof:parent_id":85865515,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-73.815201,40.5854,-73.815201,40.5854],
+  "bbox": [
+    -73.815201,
+    40.5854,
+    -73.815201,
+    40.5854
+],
   "geometry": {"coordinates":[-73.815201,40.5854],"type":"Point"}
 }

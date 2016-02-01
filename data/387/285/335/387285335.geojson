@@ -2,13 +2,14 @@
   "id": 387285335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.143318,43.072786,-76.143318,43.072786",
     "geom:latitude":43.072786,
     "geom:longitude":-76.143318,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2006 Grant Blvd",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881259,
+        102191575,
+        404522845,
         85633793,
-        85977785,
+        85979211,
         102082351,
-        85881259
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"d901eca8cd7e66db1952a0f039d90a4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
-            "locality_id":85977785,
+            "localadmin_id":404522845,
+            "locality_id":85979211,
             "neighbourhood_id":85881259,
             "region_id":85688543,
             "venue_id":387285335
         }
     ],
     "wof:id":387285335,
-    "wof:lastmodified":1449056230,
+    "wof:lastmodified":1454129553,
     "wof:name":"Kalamazoo Heating & Air Cond",
     "wof:parent_id":85881259,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.143318,43.072786,-76.143318,43.072786],
-  "geometry": {"coordinates":[-76.143318,43.072786],"type":"Point"}
+  "bbox": [
+    -76.143318,
+    43.072786,
+    -76.143318,
+    43.072786
+],
+  "geometry": {"coordinates":[-76.14331799999999,43.072786],"type":"Point"}
 }

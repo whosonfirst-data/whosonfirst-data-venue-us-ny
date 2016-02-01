@@ -2,13 +2,14 @@
   "id": 320716005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.994164,40.715657,-73.994164,40.715657",
     "geom:latitude":40.715657,
     "geom:longitude":-73.994164,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"91 Canal St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810885,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810885
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"691deedcae54b4bfc96d94c6d60fdff0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810885,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":320716005,
-    "wof:lastmodified":1449011784,
+    "wof:lastmodified":1454124847,
     "wof:name":"Anatoli's Manufacturing Corp",
     "wof:parent_id":85810885,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.994164,40.715657,-73.994164,40.715657],
+  "bbox": [
+    -73.994164,
+    40.715657,
+    -73.994164,
+    40.715657
+],
   "geometry": {"coordinates":[-73.994164,40.715657],"type":"Point"}
 }

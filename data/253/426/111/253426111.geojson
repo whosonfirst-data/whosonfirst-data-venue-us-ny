@@ -2,13 +2,14 @@
   "id": 253426111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.020211,42.108367,-76.020211,42.108367",
     "geom:latitude":42.108367,
     "geom:longitude":-76.020211,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"32 N Brookside Ave",
     "sg:city":"Endicott",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528089,
+        102191575,
+        404521829,
         85633793,
         85979375,
-        102081755
+        102081755,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"f90c4d55b676b976972fcbd0bc89ec32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
+            "localadmin_id":404521829,
             "locality_id":85979375,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528089,
             "region_id":85688543,
             "venue_id":253426111
         }
     ],
     "wof:id":253426111,
-    "wof:lastmodified":1449063438,
+    "wof:lastmodified":1454130348,
     "wof:name":"All Extics",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528089,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "amusement"
     ]
 },
-  "bbox": [-76.020211,42.108367,-76.020211,42.108367],
+  "bbox": [
+    -76.020211,
+    42.108367,
+    -76.020211,
+    42.108367
+],
   "geometry": {"coordinates":[-76.020211,42.108367],"type":"Point"}
 }

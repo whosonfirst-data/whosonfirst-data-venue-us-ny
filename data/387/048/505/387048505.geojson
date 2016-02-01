@@ -2,13 +2,14 @@
   "id": 387048505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.071449,43.033254,-76.071449,43.033254",
     "geom:latitude":43.033254,
     "geom:longitude":-76.071449,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Cornwall Dr",
     "sg:city":"De Witt",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85831757,
+        102082351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"96f0dd90c364fc0f652ec2fddef46f8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "neighbourhood_id":85831757,
             "region_id":85688543,
             "venue_id":387048505
         }
     ],
     "wof:id":387048505,
-    "wof:lastmodified":1449057425,
+    "wof:lastmodified":1454129763,
     "wof:name":"Essex",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831757,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "financial"
     ]
 },
-  "bbox": [-76.071449,43.033254,-76.071449,43.033254],
+  "bbox": [
+    -76.071449,
+    43.033254,
+    -76.071449,
+    43.033254
+],
   "geometry": {"coordinates":[-76.071449,43.033254],"type":"Point"}
 }

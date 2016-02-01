@@ -2,13 +2,14 @@
   "id": 286854619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.455498,43.241112,-75.455498,43.241112",
     "geom:latitude":43.241112,
     "geom:longitude":-75.455498,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7900 Turin Rd",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529303,
+        102191575,
+        404522697,
         85633793,
         85978369,
-        102083149
+        102083149,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"480e6ace31bf1bc16f7506d2eae9da1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083149,
+            "localadmin_id":404522697,
             "locality_id":85978369,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529303,
             "region_id":85688543,
             "venue_id":286854619
         }
     ],
     "wof:id":286854619,
-    "wof:lastmodified":1449017985,
+    "wof:lastmodified":1454125893,
     "wof:name":"Rome Surgical Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529303,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-75.455498,43.241112,-75.455498,43.241112],
-  "geometry": {"coordinates":[-75.455498,43.241112],"type":"Point"}
+  "bbox": [
+    -75.455498,
+    43.241112,
+    -75.455498,
+    43.241112
+],
+  "geometry": {"coordinates":[-75.45549800000001,43.241112],"type":"Point"}
 }

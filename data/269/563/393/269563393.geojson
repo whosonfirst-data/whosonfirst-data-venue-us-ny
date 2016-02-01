@@ -2,13 +2,14 @@
   "id": 269563393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.294539,43.128052,-76.294539,43.128052",
     "geom:latitude":43.128052,
     "geom:longitude":-76.294539,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7346 State Fair Blvd",
     "sg:city":"Baldwinsville",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85865351,
+        102191575,
+        404522855,
         85633793,
+        85979203,
+        102082351,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"f2d49580bc544b160e6b81c599b31dfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "localadmin_id":404522855,
+            "locality_id":85979203,
+            "neighbourhood_id":85865351,
             "region_id":85688543,
             "venue_id":269563393
         }
     ],
     "wof:id":269563393,
-    "wof:lastmodified":1449036184,
+    "wof:lastmodified":1454128469,
     "wof:name":"Kevin Bruno Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865351,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.294539,43.128052,-76.294539,43.128052],
+  "bbox": [
+    -76.294539,
+    43.128052,
+    -76.294539,
+    43.128052
+],
   "geometry": {"coordinates":[-76.294539,43.128052],"type":"Point"}
 }

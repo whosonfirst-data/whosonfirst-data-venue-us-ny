@@ -2,13 +2,14 @@
   "id": 354136227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.19614,40.761905,-73.19614,40.761905",
     "geom:latitude":40.761905,
     "geom:longitude":-73.19614,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 Carleton Ave",
     "sg:city":"Central Islip",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530029,
+        102191575,
+        404522517,
         85633793,
-        85979813,
-        102082395
+        85979775,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"e640e022a0f79fada6969d1dd675ecca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979813,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979775,
+            "neighbourhood_id":420530029,
             "region_id":85688543,
             "venue_id":354136227
         }
     ],
     "wof:id":354136227,
-    "wof:lastmodified":1449067655,
+    "wof:lastmodified":1454131303,
     "wof:name":"Eastco Bldg Svcs Inc Carleton Av",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530029,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.19614,40.761905,-73.19614,40.761905],
+  "bbox": [
+    -73.19614,
+    40.761905,
+    -73.19614,
+    40.761905
+],
   "geometry": {"coordinates":[-73.19614,40.761905],"type":"Point"}
 }

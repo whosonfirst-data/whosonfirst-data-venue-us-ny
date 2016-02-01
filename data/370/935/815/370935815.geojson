@@ -2,13 +2,14 @@
   "id": 370935815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.492411,43.023424,-78.492411,43.023424",
     "geom:latitude":43.023424,
     "geom:longitude":-78.492411,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"39 Bloomingdale Ave",
     "sg:city":"Akron",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"http://www.people-inc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836097,
+        102191575,
+        404522353,
         85633793,
         85978031,
         102082387,
-        85836097
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"8f277e61b3dab501b6e8f57948b340a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522353,
             "locality_id":85978031,
             "neighbourhood_id":85836097,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":370935815,
-    "wof:lastmodified":1449031865,
+    "wof:lastmodified":1454128131,
     "wof:name":"Akron Community",
     "wof:parent_id":85836097,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "homes-institutional"
     ]
 },
-  "bbox": [-78.492411,43.023424,-78.492411,43.023424],
+  "bbox": [
+    -78.492411,
+    43.023424,
+    -78.492411,
+    43.023424
+],
   "geometry": {"coordinates":[-78.492411,43.023424],"type":"Point"}
 }

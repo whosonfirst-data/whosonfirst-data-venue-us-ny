@@ -2,13 +2,14 @@
   "id": 286825927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.009307,40.807091,-73.009307,40.807091",
     "geom:latitude":40.807091,
     "geom:longitude":-73.009307,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"161 Syracuse Ave",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"b4c6e80e2bb0176519eea11492439f0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":286825927
         }
     ],
     "wof:id":286825927,
-    "wof:lastmodified":1449015279,
+    "wof:lastmodified":1454125416,
     "wof:name":"Big Apple Graffiti Company",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "removal"
     ]
 },
-  "bbox": [-73.009307,40.807091,-73.009307,40.807091],
-  "geometry": {"coordinates":[-73.009307,40.807091],"type":"Point"}
+  "bbox": [
+    -73.009307,
+    40.807091,
+    -73.009307,
+    40.807091
+],
+  "geometry": {"coordinates":[-73.00930700000001,40.807091],"type":"Point"}
 }

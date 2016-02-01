@@ -2,13 +2,14 @@
   "id": 319823283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.556033,40.845125,-72.556033,40.845125",
     "geom:latitude":40.845125,
     "geom:longitude":-72.556033,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Woodfield Ave",
     "sg:city":"East Quogue",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530041,
+        102191575,
+        404522671,
         85633793,
         85979791,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"43709d57c9550ca0aaa063b903fce77a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522671,
             "locality_id":85979791,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530041,
             "region_id":85688543,
             "venue_id":319823283
         }
     ],
     "wof:id":319823283,
-    "wof:lastmodified":1449024874,
+    "wof:lastmodified":1454126848,
     "wof:name":"East End Flooring",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530041,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "floor"
     ]
 },
-  "bbox": [-72.556033,40.845125,-72.556033,40.845125],
+  "bbox": [
+    -72.556033,
+    40.845125,
+    -72.556033,
+    40.845125
+],
   "geometry": {"coordinates":[-72.556033,40.845125],"type":"Point"}
 }

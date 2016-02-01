@@ -2,13 +2,14 @@
   "id": 354406017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.04461,42.104663,-76.04461,42.104663",
     "geom:latitude":42.104663,
     "geom:longitude":-76.04461,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"27 McKinley Ave",
     "sg:city":"Endicott",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.temcoservices.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528067,
+        102191575,
+        404521829,
         85633793,
         85977985,
-        102081755
+        102081755,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"4f10b101f5c6421273e9de395ac5e829",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
+            "localadmin_id":404521829,
             "locality_id":85977985,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528067,
             "region_id":85688543,
             "venue_id":354406017
         }
     ],
     "wof:id":354406017,
-    "wof:lastmodified":1449066850,
+    "wof:lastmodified":1454131052,
     "wof:name":"Temco Service Industries Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528067,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-76.04461,42.104663,-76.04461,42.104663],
-  "geometry": {"coordinates":[-76.04461,42.104663],"type":"Point"}
+  "bbox": [
+    -76.04461,
+    42.104663,
+    -76.04461,
+    42.104663
+],
+  "geometry": {"coordinates":[-76.04461000000001,42.104663],"type":"Point"}
 }

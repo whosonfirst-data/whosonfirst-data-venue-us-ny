@@ -2,13 +2,14 @@
   "id": 370352227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.383899,40.888897,-72.383899,40.888897",
     "geom:latitude":40.888897,
     "geom:longitude":-72.383899,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"29 Wooley St",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"8aa8b6e992992def0e677ac533487439",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":370352227
         }
     ],
     "wof:id":370352227,
-    "wof:lastmodified":1449031167,
+    "wof:lastmodified":1454127926,
     "wof:name":"Home Safe Services",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "sitting"
     ]
 },
-  "bbox": [-72.383899,40.888897,-72.383899,40.888897],
+  "bbox": [
+    -72.383899,
+    40.888897,
+    -72.383899,
+    40.888897
+],
   "geometry": {"coordinates":[-72.383899,40.888897],"type":"Point"}
 }

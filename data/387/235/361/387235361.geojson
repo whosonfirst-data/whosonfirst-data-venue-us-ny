@@ -2,13 +2,14 @@
   "id": 387235361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.113713,42.021131,-74.113713,42.021131",
     "geom:latitude":42.021131,
     "geom:longitude":-74.113713,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12 Park Dr",
     "sg:city":"Woodstock",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530267,
+        102191575,
+        404523247,
         85633793,
         85978913,
-        102081775
+        102081775,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"fed7e4747c9049141c96410b92954d1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
+            "localadmin_id":404523247,
             "locality_id":85978913,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530267,
             "region_id":85688543,
             "venue_id":387235361
         }
     ],
     "wof:id":387235361,
-    "wof:lastmodified":1449056756,
+    "wof:lastmodified":1454129642,
     "wof:name":"GE Financial Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530267,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "advisory"
     ]
 },
-  "bbox": [-74.113713,42.021131,-74.113713,42.021131],
+  "bbox": [
+    -74.113713,
+    42.021131,
+    -74.113713,
+    42.021131
+],
   "geometry": {"coordinates":[-74.113713,42.021131],"type":"Point"}
 }

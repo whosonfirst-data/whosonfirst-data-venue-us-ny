@@ -2,13 +2,14 @@
   "id": 370312217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.748931,40.82264,-72.748931,40.82264",
     "geom:latitude":40.82264,
     "geom:longitude":-72.748931,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"91 Montauk Hwy",
     "sg:city":"East Moriches",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.longislandskydiving.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"0755a024f5b7a1d4d8076ffdb79e2d2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":370312217
         }
     ],
     "wof:id":370312217,
-    "wof:lastmodified":1449030792,
+    "wof:lastmodified":1454127814,
     "wof:name":"Long Island Skydiving Center",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "skydiving"
     ]
 },
-  "bbox": [-72.748931,40.82264,-72.748931,40.82264],
+  "bbox": [
+    -72.748931,
+    40.82264,
+    -72.748931,
+    40.82264
+],
   "geometry": {"coordinates":[-72.748931,40.82264],"type":"Point"}
 }

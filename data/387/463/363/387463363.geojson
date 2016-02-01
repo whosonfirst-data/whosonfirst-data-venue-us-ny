@@ -2,13 +2,14 @@
   "id": 387463363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.387114,40.670336,-73.387114,40.670336",
     "geom:latitude":40.670336,
     "geom:longitude":-73.387114,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1165 Montauk Hwy",
     "sg:city":"Copiague",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
-        85979803,
-        102082395
+        85978477,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"5b2448870f91936587c125088f9b5e4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979803,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522513,
+            "locality_id":85978477,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":387463363
         }
     ],
     "wof:id":387463363,
-    "wof:lastmodified":1449058759,
+    "wof:lastmodified":1454130003,
     "wof:name":"Albany's 5 Star Detail",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "clean"
     ]
 },
-  "bbox": [-73.387114,40.670336,-73.387114,40.670336],
+  "bbox": [
+    -73.387114,
+    40.670336,
+    -73.387114,
+    40.670336
+],
   "geometry": {"coordinates":[-73.387114,40.670336],"type":"Point"}
 }

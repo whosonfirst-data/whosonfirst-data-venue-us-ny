@@ -2,13 +2,14 @@
   "id": 386985461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.609367,43.157715,-77.609367,43.157715",
     "geom:latitude":43.157715,
     "geom:longitude":-77.609367,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"55 Saint Paul St Ste 124",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://www.comptrol.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880395,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85880395
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"4e777002efbf3212909d23898b9d0028",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85880395,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":386985461,
-    "wof:lastmodified":1449028775,
+    "wof:lastmodified":1454127229,
     "wof:name":"Casetrack",
     "wof:parent_id":85880395,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "planning"
     ]
 },
-  "bbox": [-77.609367,43.157715,-77.609367,43.157715],
-  "geometry": {"coordinates":[-77.609367,43.157715],"type":"Point"}
+  "bbox": [
+    -77.609367,
+    43.157715,
+    -77.609367,
+    43.157715
+],
+  "geometry": {"coordinates":[-77.60936700000001,43.157715],"type":"Point"}
 }

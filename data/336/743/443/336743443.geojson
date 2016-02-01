@@ -2,13 +2,14 @@
   "id": 336743443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.862997,40.978217,-73.862997,40.978217",
     "geom:latitude":40.978217,
     "geom:longitude":-73.862997,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Stew Leonard Dr",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881889,
+        102191575,
+        404523397,
         85633793,
         85978759,
         102082373,
-        85881889
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"499104f2f33b7849b276972e81098e5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
             "neighbourhood_id":85881889,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":336743443,
-    "wof:lastmodified":1448998002,
+    "wof:lastmodified":1454122949,
     "wof:name":"Stew Leonards of Yonkers",
     "wof:parent_id":85881889,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "product"
     ]
 },
-  "bbox": [-73.862997,40.978217,-73.862997,40.978217],
-  "geometry": {"coordinates":[-73.862997,40.978217],"type":"Point"}
+  "bbox": [
+    -73.862997,
+    40.978217,
+    -73.862997,
+    40.978217
+],
+  "geometry": {"coordinates":[-73.86299699999999,40.978217],"type":"Point"}
 }

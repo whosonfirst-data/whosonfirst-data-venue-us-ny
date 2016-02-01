@@ -2,13 +2,14 @@
   "id": 253465351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.994176,40.839013,-72.994176,40.839013",
     "geom:latitude":40.839013,
     "geom:longitude":-72.994176,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 Commercial Blvd",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.aeco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"2ecc6e6db70542945d043ecae360ccc0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":253465351
         }
     ],
     "wof:id":253465351,
-    "wof:lastmodified":1449064829,
+    "wof:lastmodified":1454130582,
     "wof:name":"American Environments Company",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "as"
     ]
 },
-  "bbox": [-72.994176,40.839013,-72.994176,40.839013],
+  "bbox": [
+    -72.994176,
+    40.839013,
+    -72.994176,
+    40.839013
+],
   "geometry": {"coordinates":[-72.994176,40.839013],"type":"Point"}
 }

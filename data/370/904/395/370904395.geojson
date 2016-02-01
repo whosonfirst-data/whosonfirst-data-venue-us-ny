@@ -2,13 +2,14 @@
   "id": 370904395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.891826,40.827468,-73.891826,40.827468",
     "geom:latitude":40.827468,
     "geom:longitude":-73.891826,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1168 Southern Blvd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869443,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869443
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"eb7aedf954b9e6645e9be9a73a3489a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869443,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370904395,
-    "wof:lastmodified":1449032556,
+    "wof:lastmodified":1454128338,
     "wof:name":"Steve's World-Store Fixtures",
     "wof:parent_id":85869443,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-73.891826,40.827468,-73.891826,40.827468],
-  "geometry": {"coordinates":[-73.891826,40.827468],"type":"Point"}
+  "bbox": [
+    -73.891826,
+    40.827468,
+    -73.891826,
+    40.827468
+],
+  "geometry": {"coordinates":[-73.89182599999999,40.827468],"type":"Point"}
 }

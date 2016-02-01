@@ -2,13 +2,14 @@
   "id": 386987275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.712493,43.171918,-77.712493,43.171918",
     "geom:latitude":43.171918,
     "geom:longitude":-77.712493,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"832 Spencerport Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837647,
+        102191575,
+        404522629,
         85633793,
         85979031,
         102081815,
-        85837647
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"abe1e965a34994f35731b9693a82b759",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404522629,
             "locality_id":85979031,
             "neighbourhood_id":85837647,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":386987275,
-    "wof:lastmodified":1449028791,
+    "wof:lastmodified":1454127233,
     "wof:name":"Easter Seals Of New York",
     "wof:parent_id":85837647,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.712493,43.171918,-77.712493,43.171918],
-  "geometry": {"coordinates":[-77.712493,43.171918],"type":"Point"}
+  "bbox": [
+    -77.712493,
+    43.171918,
+    -77.712493,
+    43.171918
+],
+  "geometry": {"coordinates":[-77.71249299999999,43.171918],"type":"Point"}
 }

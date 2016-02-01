@@ -2,13 +2,14 @@
   "id": 337446991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.854454,40.74268,-73.854454,40.74268",
     "geom:latitude":40.74268,
     "geom:longitude":-73.854454,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"108 53rd Ave",
     "sg:city":"Corona",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://statefarm.mqgroup.com/url.asp?usr=322135",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812357,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85812357
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"091198527c1bf32ea0cfe1eca75acffa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85812357,
             "region_id":85688543,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":337446991,
-    "wof:lastmodified":1449027665,
+    "wof:lastmodified":1454127154,
     "wof:name":"Dominguez, Joe D - State Farm Insurance Agent",
     "wof:parent_id":85812357,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "casualty"
     ]
 },
-  "bbox": [-73.854454,40.74268,-73.854454,40.74268],
+  "bbox": [
+    -73.854454,
+    40.74268,
+    -73.854454,
+    40.74268
+],
   "geometry": {"coordinates":[-73.854454,40.74268],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371195059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.856491,42.947781,-78.856491,42.947781",
     "geom:latitude":42.947781,
     "geom:longitude":-78.856491,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1390 Hertel Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.pacillo.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872923,
+        102191575,
+        404522329,
         85633793,
         85978023,
         102082387,
-        85872923
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"cbc2b8332201fa8bd1e3b78d9be2f5d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
             "neighbourhood_id":85872923,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":371195059,
-    "wof:lastmodified":1449049748,
+    "wof:lastmodified":1454129205,
     "wof:name":"G Pacillo Co Inc",
     "wof:parent_id":85872923,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "exercise"
     ]
 },
-  "bbox": [-78.856491,42.947781,-78.856491,42.947781],
-  "geometry": {"coordinates":[-78.856491,42.947781],"type":"Point"}
+  "bbox": [
+    -78.856491,
+    42.947781,
+    -78.856491,
+    42.947781
+],
+  "geometry": {"coordinates":[-78.85649100000001,42.947781],"type":"Point"}
 }

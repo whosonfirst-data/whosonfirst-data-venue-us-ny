@@ -2,13 +2,14 @@
   "id": 287056335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.011594,40.703578,-74.011594,40.703578",
     "geom:latitude":40.703578,
     "geom:longitude":-74.011594,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"90 Broad St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865711,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865711
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"07fcb301b3fdce138c9cb7514903f8bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865711,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":287056335,
-    "wof:lastmodified":1449000898,
+    "wof:lastmodified":1454123805,
     "wof:name":"Franklin Montgomery",
     "wof:parent_id":85865711,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "attorney"
     ]
 },
-  "bbox": [-74.011594,40.703578,-74.011594,40.703578],
+  "bbox": [
+    -74.011594,
+    40.703578,
+    -74.011594,
+    40.703578
+],
   "geometry": {"coordinates":[-74.011594,40.703578],"type":"Point"}
 }

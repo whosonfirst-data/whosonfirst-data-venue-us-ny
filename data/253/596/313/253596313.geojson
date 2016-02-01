@@ -2,13 +2,14 @@
   "id": 253596313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.861772,41.084458,-73.861772,41.084458",
     "geom:latitude":41.084458,
     "geom:longitude":-73.861772,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"84 Beekman Ave",
     "sg:city":"Tarrytown",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893035,
+        102191575,
+        404523359,
         85633793,
-        85978713,
-        102082373
+        85978765,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"8b90eb0a58bc93007dddf45cd7d5ae0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978713,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523359,
+            "locality_id":85978765,
+            "neighbourhood_id":85893035,
             "region_id":85688543,
             "venue_id":253596313
         }
     ],
     "wof:id":253596313,
-    "wof:lastmodified":1449064338,
+    "wof:lastmodified":1454130500,
     "wof:name":"Annies Taxi",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893035,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.861772,41.084458,-73.861772,41.084458],
+  "bbox": [
+    -73.861772,
+    41.084458,
+    -73.861772,
+    41.084458
+],
   "geometry": {"coordinates":[-73.861772,41.084458],"type":"Point"}
 }

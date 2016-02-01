@@ -2,13 +2,14 @@
   "id": 370576207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.515536,41.962831,-73.515536,41.962831",
     "geom:latitude":41.962831,
     "geom:longitude":-73.515536,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8 Clark Ave",
     "sg:city":"Millerton",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     "sg:website":"http://www.jeffshinabarger.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85850463,
+        102191575,
+        404522299,
         85633793,
+        85977839,
         102082363,
-        85850463
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +48,18 @@
     "wof:geomhash":"42bc42072a2f203e162d7c426fccb92c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
-            "locality_id":-1,
+            "localadmin_id":404522299,
+            "locality_id":85977839,
             "neighbourhood_id":85850463,
             "region_id":85688543,
             "venue_id":370576207
         }
     ],
     "wof:id":370576207,
-    "wof:lastmodified":1449031701,
+    "wof:lastmodified":1454128082,
     "wof:name":"Jeff S Painting",
     "wof:parent_id":85850463,
     "wof:placetype":"venue",
@@ -67,6 +72,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.515536,41.962831,-73.515536,41.962831],
+  "bbox": [
+    -73.515536,
+    41.962831,
+    -73.515536,
+    41.962831
+],
   "geometry": {"coordinates":[-73.515536,41.962831],"type":"Point"}
 }

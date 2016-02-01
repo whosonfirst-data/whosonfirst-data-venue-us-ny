@@ -2,13 +2,14 @@
   "id": 403948111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.780903,40.909475,-73.780903,40.909475",
     "geom:latitude":40.909475,
     "geom:longitude":-73.780903,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"487 Main St",
     "sg:city":"New Rochelle",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85827133,
+        102191575,
+        404523375,
         85633793,
         85978749,
         102082373,
-        85827133
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"9e7c5337eea47fc701d7d2dc2f58e327",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523375,
             "locality_id":85978749,
             "neighbourhood_id":85827133,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":403948111,
-    "wof:lastmodified":1449055685,
+    "wof:lastmodified":1454129473,
     "wof:name":"Nail City",
     "wof:parent_id":85827133,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "care"
     ]
 },
-  "bbox": [-73.780903,40.909475,-73.780903,40.909475],
+  "bbox": [
+    -73.780903,
+    40.909475,
+    -73.780903,
+    40.909475
+],
   "geometry": {"coordinates":[-73.780903,40.909475],"type":"Point"}
 }

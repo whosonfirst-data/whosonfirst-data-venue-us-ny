@@ -2,13 +2,14 @@
   "id": 185740329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.978148,40.635353,-73.978148,40.635353",
     "geom:latitude":40.635353,
     "geom:longitude":-73.978148,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"812 McDonald Avenue",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"c1582165cc92c77ef9d79a876ee5dca9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":185740329
         }
     ],
     "wof:id":185740329,
-    "wof:lastmodified":1449007350,
+    "wof:lastmodified":1454124238,
     "wof:name":"Go Auto Audio & Security Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "installation"
     ]
 },
-  "bbox": [-73.978148,40.635353,-73.978148,40.635353],
+  "bbox": [
+    -73.978148,
+    40.635353,
+    -73.978148,
+    40.635353
+],
   "geometry": {"coordinates":[-73.978148,40.635353],"type":"Point"}
 }

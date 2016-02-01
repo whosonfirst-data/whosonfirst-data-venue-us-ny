@@ -2,13 +2,14 @@
   "id": 337351043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.829874,40.760163,-73.829874,40.760163",
     "geom:latitude":40.760163,
     "geom:longitude":-73.829874,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13618 39th Ave",
     "sg:city":"Flushing",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.dishnetwork.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819703,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819703
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"cb40b009e97e629da9d38ba9f31b6aa2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819703,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":337351043,
-    "wof:lastmodified":1449027622,
+    "wof:lastmodified":1454127137,
     "wof:name":"DISH Network",
     "wof:parent_id":85819703,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.829874,40.760163,-73.829874,40.760163],
+  "bbox": [
+    -73.829874,
+    40.760163,
+    -73.829874,
+    40.760163
+],
   "geometry": {"coordinates":[-73.829874,40.760163],"type":"Point"}
 }

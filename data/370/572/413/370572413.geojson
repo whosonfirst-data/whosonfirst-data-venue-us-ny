@@ -2,13 +2,14 @@
   "id": 370572413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.703739,40.637298,-73.703739,40.637298",
     "geom:latitude":40.637298,
     "geom:longitude":-73.703739,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 Franklin Ave",
     "sg:city":"Hewlett",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893091,
+        102191575,
+        404521473,
         85633793,
-        85979101,
-        102082371
+        85979053,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"957d4aaf4174280bf040c8ee2dc75cf3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979101,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979053,
+            "neighbourhood_id":85893091,
             "region_id":85688543,
             "venue_id":370572413
         }
     ],
     "wof:id":370572413,
-    "wof:lastmodified":1449031159,
+    "wof:lastmodified":1454127924,
     "wof:name":"Hewett Firehouse",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "protection"
     ]
 },
-  "bbox": [-73.703739,40.637298,-73.703739,40.637298],
+  "bbox": [
+    -73.703739,
+    40.637298,
+    -73.703739,
+    40.637298
+],
   "geometry": {"coordinates":[-73.703739,40.637298],"type":"Point"}
 }

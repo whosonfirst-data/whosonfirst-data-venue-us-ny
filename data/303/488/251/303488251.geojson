@@ -2,13 +2,14 @@
   "id": 303488251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.068533,42.096236,-76.068533,42.096236",
     "geom:latitude":42.096236,
     "geom:longitude":-76.068533,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"105 S Duane Ave",
     "sg:city":"Endicott",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528091,
+        102191575,
+        404521829,
         85633793,
         85977985,
-        102081755
+        102081755,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"99d0577c01dc7477058c1255de50e6ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
+            "localadmin_id":404521829,
             "locality_id":85977985,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528091,
             "region_id":85688543,
             "venue_id":303488251
         }
     ],
     "wof:id":303488251,
-    "wof:lastmodified":1449000503,
+    "wof:lastmodified":1454123708,
     "wof:name":"Jones Lamp Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "lighting"
     ]
 },
-  "bbox": [-76.068533,42.096236,-76.068533,42.096236],
+  "bbox": [
+    -76.068533,
+    42.096236,
+    -76.068533,
+    42.096236
+],
   "geometry": {"coordinates":[-76.068533,42.096236],"type":"Point"}
 }

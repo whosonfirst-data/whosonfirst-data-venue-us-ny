@@ -2,13 +2,14 @@
   "id": 387410653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.880306,40.839885,-73.880306,40.839885",
     "geom:latitude":40.839885,
     "geom:longitude":-73.880306,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1931 W Farms Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85855481,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85855481
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"6a2b6120cc1e92e8bd90813452a1a108",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85855481,
             "region_id":85688543,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":387410653,
-    "wof:lastmodified":1449056168,
+    "wof:lastmodified":1454129544,
     "wof:name":"Fordham Marble Co Inc",
     "wof:parent_id":85855481,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.880306,40.839885,-73.880306,40.839885],
+  "bbox": [
+    -73.880306,
+    40.839885,
+    -73.880306,
+    40.839885
+],
   "geometry": {"coordinates":[-73.880306,40.839885],"type":"Point"}
 }

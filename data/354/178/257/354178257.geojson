@@ -2,13 +2,14 @@
   "id": 354178257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.646887,40.830824,-72.646887,40.830824",
     "geom:latitude":40.830824,
     "geom:longitude":-72.646887,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"141 Old Riverhead Rd",
     "sg:city":"Westhampton Bch",
     "sg:classifiers":[
@@ -27,9 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102526981,
         85688543,
+        102191575,
+        404522671,
         85633793,
-        85978441,
+        85979877,
         102082395
     ],
     "wof:breaches":[],
@@ -40,19 +44,20 @@
     "wof:geomhash":"7e7eda9391ab652af533d2d9ecee041b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102526981,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978441,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522671,
+            "locality_id":85979877,
             "region_id":85688543,
             "venue_id":354178257
         }
     ],
     "wof:id":354178257,
-    "wof:lastmodified":1449067179,
+    "wof:lastmodified":1454131155,
     "wof:name":"Americas Mattress",
-    "wof:parent_id":-1,
+    "wof:parent_id":102526981,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "bed"
     ]
 },
-  "bbox": [-72.646887,40.830824,-72.646887,40.830824],
-  "geometry": {"coordinates":[-72.646887,40.830824],"type":"Point"}
+  "bbox": [
+    -72.646887,
+    40.830824,
+    -72.646887,
+    40.830824
+],
+  "geometry": {"coordinates":[-72.64688700000001,40.830824],"type":"Point"}
 }

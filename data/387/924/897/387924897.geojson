@@ -2,13 +2,14 @@
   "id": 387924897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.538033,40.867798,-72.538033,40.867798",
     "geom:latitude":40.867798,
     "geom:longitude":-72.538033,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"28 E Tiana Rd",
     "sg:city":"Hampton Bays",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852231,
+        102191575,
+        404522671,
         85633793,
         85979703,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"c4daddbd2c073e4013129718f021c561",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522671,
             "locality_id":85979703,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85852231,
             "region_id":85688543,
             "venue_id":387924897
         }
     ],
     "wof:id":387924897,
-    "wof:lastmodified":1449057152,
+    "wof:lastmodified":1454129716,
     "wof:name":"Long Island Environmental",
-    "wof:parent_id":-1,
+    "wof:parent_id":85852231,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "ecological"
     ]
 },
-  "bbox": [-72.538033,40.867798,-72.538033,40.867798],
+  "bbox": [
+    -72.538033,
+    40.867798,
+    -72.538033,
+    40.867798
+],
   "geometry": {"coordinates":[-72.538033,40.867798],"type":"Point"}
 }

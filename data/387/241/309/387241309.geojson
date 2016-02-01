@@ -2,13 +2,14 @@
   "id": 387241309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.955106,42.117067,-75.955106,42.117067",
     "geom:latitude":42.117067,
     "geom:longitude":-75.955106,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Diment St",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892887,
+        102191575,
+        404521625,
         85633793,
-        85977983,
-        102081755
+        85977971,
+        102081755,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"bdc37889588c4ad392d8f469202c852e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
-            "locality_id":85977983,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521625,
+            "locality_id":85977971,
+            "neighbourhood_id":85892887,
             "region_id":85688543,
             "venue_id":387241309
         }
     ],
     "wof:id":387241309,
-    "wof:lastmodified":1449059818,
+    "wof:lastmodified":1454130192,
     "wof:name":"Alliance Auto",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892887,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-75.955106,42.117067,-75.955106,42.117067],
+  "bbox": [
+    -75.955106,
+    42.117067,
+    -75.955106,
+    42.117067
+],
   "geometry": {"coordinates":[-75.955106,42.117067],"type":"Point"}
 }

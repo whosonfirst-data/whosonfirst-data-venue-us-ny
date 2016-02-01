@@ -2,13 +2,14 @@
   "id": 269636835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.183849,42.629495,-76.183849,42.629495",
     "geom:latitude":42.629495,
     "geom:longitude":-76.183849,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"37 Copeland Ave",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528395,
+        102191575,
+        404522255,
         85633793,
         85978519,
-        102083011
+        102083011,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"5b760d2d86f6f69f1463b6770214553a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083011,
+            "localadmin_id":404522255,
             "locality_id":85978519,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528395,
             "region_id":85688543,
             "venue_id":269636835
         }
     ],
     "wof:id":269636835,
-    "wof:lastmodified":1449037107,
+    "wof:lastmodified":1454128603,
     "wof:name":"RTS",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528395,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "drafting"
     ]
 },
-  "bbox": [-76.183849,42.629495,-76.183849,42.629495],
+  "bbox": [
+    -76.183849,
+    42.629495,
+    -76.183849,
+    42.629495
+],
   "geometry": {"coordinates":[-76.183849,42.629495],"type":"Point"}
 }

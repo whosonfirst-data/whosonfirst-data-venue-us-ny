@@ -2,13 +2,14 @@
   "id": 269807779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.36746,40.891446,-73.36746,40.891446",
     "geom:latitude":40.891446,
     "geom:longitude":-73.36746,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"62 Little Neck Rd",
     "sg:city":"Centerport",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826545,
+        102191575,
+        404522515,
         85633793,
-        85979823,
+        85978425,
         102082395,
-        85826545
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"e84a6155fa79e27242b71c2d9b9395df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979823,
+            "localadmin_id":404522515,
+            "locality_id":85978425,
             "neighbourhood_id":85826545,
             "region_id":85688543,
             "venue_id":269807779
         }
     ],
     "wof:id":269807779,
-    "wof:lastmodified":1449036764,
+    "wof:lastmodified":1454128553,
     "wof:name":"Tartan Enterprises",
     "wof:parent_id":85826545,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.36746,40.891446,-73.36746,40.891446],
-  "geometry": {"coordinates":[-73.36746,40.891446],"type":"Point"}
+  "bbox": [
+    -73.36746,
+    40.891446,
+    -73.36746,
+    40.891446
+],
+  "geometry": {"coordinates":[-73.36745999999999,40.891446],"type":"Point"}
 }

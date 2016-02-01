@@ -2,13 +2,14 @@
   "id": 403992997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.980832,42.121196,-75.980832,42.121196",
     "geom:latitude":42.121196,
     "geom:longitude":-75.980832,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Valley Plz",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     "sg:website":"www.unicornelex.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857073,
+        102191575,
+        404521829,
         85633793,
+        85977983,
         102081755,
-        85857073
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +48,18 @@
     "wof:geomhash":"578ca76c6c2a523adb73df26d3380ed4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
-            "locality_id":-1,
+            "localadmin_id":404521829,
+            "locality_id":85977983,
             "neighbourhood_id":85857073,
             "region_id":85688543,
             "venue_id":403992997
         }
     ],
     "wof:id":403992997,
-    "wof:lastmodified":1449055254,
+    "wof:lastmodified":1454129412,
     "wof:name":"Unicorn Electronics Inc",
     "wof:parent_id":85857073,
     "wof:placetype":"venue",
@@ -67,6 +72,11 @@
         "supply"
     ]
 },
-  "bbox": [-75.980832,42.121196,-75.980832,42.121196],
-  "geometry": {"coordinates":[-75.980832,42.121196],"type":"Point"}
+  "bbox": [
+    -75.980832,
+    42.121196,
+    -75.980832,
+    42.121196
+],
+  "geometry": {"coordinates":[-75.98083200000001,42.121196],"type":"Point"}
 }

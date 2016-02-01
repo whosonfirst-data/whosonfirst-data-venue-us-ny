@@ -2,13 +2,14 @@
   "id": 370350757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.384357,40.898581,-72.384357,40.898581",
     "geom:latitude":40.898581,
     "geom:longitude":-72.384357,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"56 Mariner Dr",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"751da9a2da4637ec0ff0cbd46f768ea6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":370350757
         }
     ],
     "wof:id":370350757,
-    "wof:lastmodified":1449030808,
+    "wof:lastmodified":1454127820,
     "wof:name":"Sheila Isham",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "painting-production"
     ]
 },
-  "bbox": [-72.384357,40.898581,-72.384357,40.898581],
-  "geometry": {"coordinates":[-72.384357,40.898581],"type":"Point"}
+  "bbox": [
+    -72.384357,
+    40.898581,
+    -72.384357,
+    40.898581
+],
+  "geometry": {"coordinates":[-72.38435699999999,40.898581],"type":"Point"}
 }

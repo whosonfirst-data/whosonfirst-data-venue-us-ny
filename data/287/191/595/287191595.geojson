@@ -2,13 +2,14 @@
   "id": 287191595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.142695,40.611109,-74.142695,40.611109",
     "geom:latitude":40.611109,
     "geom:longitude":-74.142695,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2371 Victory Blvd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85856821,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85856821
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"44380332e45b11463b5492a5331f8c0b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85856821,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":287191595,
-    "wof:lastmodified":1449001200,
+    "wof:lastmodified":1454123880,
     "wof:name":"Orthopedic Medical Consulting",
     "wof:parent_id":85856821,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-74.142695,40.611109,-74.142695,40.611109],
+  "bbox": [
+    -74.142695,
+    40.611109,
+    -74.142695,
+    40.611109
+],
   "geometry": {"coordinates":[-74.142695,40.611109],"type":"Point"}
 }

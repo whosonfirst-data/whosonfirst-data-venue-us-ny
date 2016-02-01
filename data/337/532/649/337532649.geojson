@@ -2,13 +2,14 @@
   "id": 337532649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.882021,40.747695,-73.882021,40.747695",
     "geom:latitude":40.747695,
     "geom:longitude":-73.882021,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8402 Roosevelt Ave",
     "sg:city":"Jackson Heights",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817879,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85817879
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"e493217afe52d98c537332f3dbf6a68b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85817879,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":337532649,
-    "wof:lastmodified":1449027212,
+    "wof:lastmodified":1454126976,
     "wof:name":"Herman Boutique",
     "wof:parent_id":85817879,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "women's"
     ]
 },
-  "bbox": [-73.882021,40.747695,-73.882021,40.747695],
-  "geometry": {"coordinates":[-73.882021,40.747695],"type":"Point"}
+  "bbox": [
+    -73.882021,
+    40.747695,
+    -73.882021,
+    40.747695
+],
+  "geometry": {"coordinates":[-73.88202099999999,40.747695],"type":"Point"}
 }

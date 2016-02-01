@@ -2,13 +2,14 @@
   "id": 270221953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.730336,40.950254,-73.730336,40.950254",
     "geom:latitude":40.950254,
     "geom:longitude":-73.730336,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"444 E Boston Post Rd",
     "sg:city":"Mamaroneck",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848551,
+        102191575,
+        404523365,
         85633793,
         85978729,
         102082373,
-        85848551
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"720cbbfe4dc622fb106b7bc75d94e0ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523365,
             "locality_id":85978729,
             "neighbourhood_id":85848551,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":270221953,
-    "wof:lastmodified":1449009713,
+    "wof:lastmodified":1454124523,
     "wof:name":"Dennis Fedele DDS",
     "wof:parent_id":85848551,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.730336,40.950254,-73.730336,40.950254],
-  "geometry": {"coordinates":[-73.730336,40.950254],"type":"Point"}
+  "bbox": [
+    -73.730336,
+    40.950254,
+    -73.730336,
+    40.950254
+],
+  "geometry": {"coordinates":[-73.73033599999999,40.950254],"type":"Point"}
 }

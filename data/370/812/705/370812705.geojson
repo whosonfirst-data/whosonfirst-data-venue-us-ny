@@ -2,13 +2,14 @@
   "id": 370812705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.239571,43.046822,-76.239571,43.046822",
     "geom:latitude":43.046822,
     "geom:longitude":-76.239571,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3705 W Genesee St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     "sg:website":"http://www.fairmountanimal.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85818613,
+        102191575,
+        404522819,
         85633793,
         85979217,
         102082351,
-        85818613
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"33374fc06981e8734463036971f5551d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522819,
             "locality_id":85979217,
             "neighbourhood_id":85818613,
             "region_id":85688543,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":370812705,
-    "wof:lastmodified":1449029158,
+    "wof:lastmodified":1454127338,
     "wof:name":"Fairmount Animal Hospital",
     "wof:parent_id":85818613,
     "wof:placetype":"venue",
@@ -79,6 +83,11 @@
         "veterinarian"
     ]
 },
-  "bbox": [-76.239571,43.046822,-76.239571,43.046822],
+  "bbox": [
+    -76.239571,
+    43.046822,
+    -76.239571,
+    43.046822
+],
   "geometry": {"coordinates":[-76.239571,43.046822],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286846635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.444681,40.728896,-73.444681,40.728896",
     "geom:latitude":40.728896,
     "geom:longitude":-73.444681,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"457 Main St",
     "sg:city":"Farmingdale",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85833107,
+        102191575,
+        404521475,
         85633793,
-        85979843,
-        102082395,
-        85833107
+        85979161,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"e17d4cad14ac2371917ae8f715e3894a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979843,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979161,
             "neighbourhood_id":85833107,
             "region_id":85688543,
             "venue_id":286846635
         }
     ],
     "wof:id":286846635,
-    "wof:lastmodified":1449017469,
+    "wof:lastmodified":1454125802,
     "wof:name":"Main Street Mail Ctr",
     "wof:parent_id":85833107,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "copying"
     ]
 },
-  "bbox": [-73.444681,40.728896,-73.444681,40.728896],
+  "bbox": [
+    -73.444681,
+    40.728896,
+    -73.444681,
+    40.728896
+],
   "geometry": {"coordinates":[-73.444681,40.728896],"type":"Point"}
 }

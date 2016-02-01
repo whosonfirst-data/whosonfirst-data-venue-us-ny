@@ -2,13 +2,14 @@
   "id": 286874329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.796402,41.029936,-73.796402,41.029936",
     "geom:latitude":41.029936,
     "geom:longitude":-73.796402,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 Fieldstone Dr",
     "sg:city":"Hartsdale",
     "sg:classifiers":[
@@ -27,8 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85980067,
+        102082373,
+        85818727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +42,18 @@
     "wof:geomhash":"e8732e8dbef4de7e8974be5cf99e3d3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082373,
+            "locality_id":85980067,
+            "neighbourhood_id":85818727,
             "region_id":85688543,
             "venue_id":286874329
         }
     ],
     "wof:id":286874329,
-    "wof:lastmodified":1449017904,
+    "wof:lastmodified":1454125880,
     "wof:name":"Ruthie S Travel Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85818727,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +61,11 @@
         "agency"
     ]
 },
-  "bbox": [-73.796402,41.029936,-73.796402,41.029936],
+  "bbox": [
+    -73.796402,
+    41.029936,
+    -73.796402,
+    41.029936
+],
   "geometry": {"coordinates":[-73.796402,41.029936],"type":"Point"}
 }

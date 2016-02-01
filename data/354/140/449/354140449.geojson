@@ -2,13 +2,14 @@
   "id": 354140449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.302399,40.832298,-73.302399,40.832298",
     "geom:latitude":40.832298,
     "geom:longitude":-73.302399,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"27 Raybor Rd",
     "sg:city":"Commack",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530047,
+        102191575,
+        404522515,
         85633793,
-        85979805,
-        102082395
+        85979779,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"0b85bc067ce3192d08ef77a2eac2ff28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979805,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522515,
+            "locality_id":85979779,
+            "neighbourhood_id":420530047,
             "region_id":85688543,
             "venue_id":354140449
         }
     ],
     "wof:id":354140449,
-    "wof:lastmodified":1449066172,
+    "wof:lastmodified":1454130844,
     "wof:name":"Spector Debra",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530047,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "nutritionist"
     ]
 },
-  "bbox": [-73.302399,40.832298,-73.302399,40.832298],
-  "geometry": {"coordinates":[-73.302399,40.832298],"type":"Point"}
+  "bbox": [
+    -73.302399,
+    40.832298,
+    -73.302399,
+    40.832298
+],
+  "geometry": {"coordinates":[-73.30239899999999,40.832298],"type":"Point"}
 }

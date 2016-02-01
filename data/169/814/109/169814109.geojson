@@ -2,13 +2,14 @@
   "id": 169814109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.963539,40.714446,-73.963539,40.714446",
     "geom:latitude":40.714446,
     "geom:longitude":-73.963539,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"94 South 1st Street",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.funkiturebrooklyn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865603,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865603
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"957382b51d3a0750377195885cf49f26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865603,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":169814109,
-    "wof:lastmodified":1449033292,
+    "wof:lastmodified":1454128373,
     "wof:name":"Funkiture",
     "wof:parent_id":85865603,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "store"
     ]
 },
-  "bbox": [-73.963539,40.714446,-73.963539,40.714446],
+  "bbox": [
+    -73.963539,
+    40.714446,
+    -73.963539,
+    40.714446
+],
   "geometry": {"coordinates":[-73.963539,40.714446],"type":"Point"}
 }

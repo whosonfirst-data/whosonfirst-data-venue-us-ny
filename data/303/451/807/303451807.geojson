@@ -2,13 +2,14 @@
   "id": 303451807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.021864,41.764723,-74.021864,41.764723",
     "geom:latitude":41.764723,
     "geom:longitude":-74.021864,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"445 S Elting Corners Rd",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85817973,
+        102081775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"5ac4d9d933bd42db974c3728df5867f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081775,
+            "neighbourhood_id":85817973,
             "region_id":85688543,
             "venue_id":303451807
         }
     ],
     "wof:id":303451807,
-    "wof:lastmodified":1448999186,
+    "wof:lastmodified":1454123346,
     "wof:name":"Edward L Saunders",
-    "wof:parent_id":-1,
+    "wof:parent_id":85817973,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "trucking"
     ]
 },
-  "bbox": [-74.021864,41.764723,-74.021864,41.764723],
-  "geometry": {"coordinates":[-74.021864,41.764723],"type":"Point"}
+  "bbox": [
+    -74.021864,
+    41.764723,
+    -74.021864,
+    41.764723
+],
+  "geometry": {"coordinates":[-74.02186399999999,41.764723],"type":"Point"}
 }

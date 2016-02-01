@@ -2,13 +2,14 @@
   "id": 337473811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.065765,41.799447,-74.065765,41.799447",
     "geom:latitude":41.799447,
     "geom:longitude":-74.065765,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"476 State Hwy 32",
     "sg:city":"New Paltz",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85850787,
+        102081775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"a8555624557217bad2f6d90f1c8d1ad5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081775,
+            "neighbourhood_id":85850787,
             "region_id":85688543,
             "venue_id":337473811
         }
     ],
     "wof:id":337473811,
-    "wof:lastmodified":1449027094,
+    "wof:lastmodified":1454126927,
     "wof:name":"Newpaltz Jehovah's Witnesses",
-    "wof:parent_id":-1,
+    "wof:parent_id":85850787,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "church"
     ]
 },
-  "bbox": [-74.065765,41.799447,-74.065765,41.799447],
+  "bbox": [
+    -74.065765,
+    41.799447,
+    -74.065765,
+    41.799447
+],
   "geometry": {"coordinates":[-74.065765,41.799447],"type":"Point"}
 }

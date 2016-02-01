@@ -2,13 +2,14 @@
   "id": 320112467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.566034,40.787956,-73.566034,40.787956",
     "geom:latitude":40.787956,
     "geom:longitude":-73.566034,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Wimbledon Ct",
     "sg:city":"Jericho",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529157,
+        102191575,
+        404521475,
         85633793,
         85979085,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"4c573241f41351d7552e52a33ac6754f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979085,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529157,
             "region_id":85688543,
             "venue_id":320112467
         }
     ],
     "wof:id":320112467,
-    "wof:lastmodified":1449012973,
+    "wof:lastmodified":1454125039,
     "wof:name":"Handler Holding Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529157,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "holding"
     ]
 },
-  "bbox": [-73.566034,40.787956,-73.566034,40.787956],
+  "bbox": [
+    -73.566034,
+    40.787956,
+    -73.566034,
+    40.787956
+],
   "geometry": {"coordinates":[-73.566034,40.787956],"type":"Point"}
 }

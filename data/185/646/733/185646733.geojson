@@ -2,13 +2,14 @@
   "id": 185646733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.992178,40.671184,-73.992178,40.671184",
     "geom:latitude":40.671184,
     "geom:longitude":-73.992178,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"182 10th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -52,11 +53,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865587,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865587
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,9 +69,10 @@
     "wof:geomhash":"362c77cdc7fc67402a03790102cbf6b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865587,
             "region_id":85688543,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":185646733,
-    "wof:lastmodified":1449006561,
+    "wof:lastmodified":1454124140,
     "wof:name":"Plumbing Exchange , The",
     "wof:parent_id":85865587,
     "wof:placetype":"venue",
@@ -96,6 +100,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.992178,40.671184,-73.992178,40.671184],
+  "bbox": [
+    -73.992178,
+    40.671184,
+    -73.992178,
+    40.671184
+],
   "geometry": {"coordinates":[-73.992178,40.671184],"type":"Point"}
 }

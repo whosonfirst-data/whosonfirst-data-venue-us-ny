@@ -2,13 +2,14 @@
   "id": 320497079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.83513,40.922866,-73.83513,40.922866",
     "geom:latitude":40.922866,
     "geom:longitude":-73.83513,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"36 Villa St",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530461,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"3fa04ce86d3e393086e847f256c90f8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530461,
             "region_id":85688543,
             "venue_id":320497079
         }
     ],
     "wof:id":320497079,
-    "wof:lastmodified":1449014912,
+    "wof:lastmodified":1454125357,
     "wof:name":"Mill River Group Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530461,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-73.83513,40.922866,-73.83513,40.922866],
-  "geometry": {"coordinates":[-73.83513,40.922866],"type":"Point"}
+  "bbox": [
+    -73.83513,
+    40.922866,
+    -73.83513,
+    40.922866
+],
+  "geometry": {"coordinates":[-73.83513000000001,40.922866],"type":"Point"}
 }

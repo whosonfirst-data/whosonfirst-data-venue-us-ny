@@ -2,13 +2,14 @@
   "id": 269925269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.829655,40.844089,-73.829655,40.844089",
     "geom:latitude":40.844089,
     "geom:longitude":-73.829655,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3000 Middletown Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892785,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"1bd6941cb2036a27a9ca6857423288f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892785,
             "region_id":85688543,
             "venue_id":269925269
         }
     ],
     "wof:id":269925269,
-    "wof:lastmodified":1449036173,
+    "wof:lastmodified":1454128468,
     "wof:name":"Anntiquemom Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892785,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.829655,40.844089,-73.829655,40.844089],
+  "bbox": [
+    -73.829655,
+    40.844089,
+    -73.829655,
+    40.844089
+],
   "geometry": {"coordinates":[-73.829655,40.844089],"type":"Point"}
 }

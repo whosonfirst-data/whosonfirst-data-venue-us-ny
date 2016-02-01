@@ -2,13 +2,14 @@
   "id": 404168501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.997934,41.097626,-73.997934,41.097626",
     "geom:latitude":41.097626,
     "geom:longitude":-73.997934,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 State Hwy 304",
     "sg:city":"Nanuet",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.hondaofnanuet.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85838845,
+        102191575,
+        404523091,
         85633793,
         85979991,
         102082385,
-        85838845
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"b44a721c97f738c6919a212ea7ccd839",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523091,
             "locality_id":85979991,
             "neighbourhood_id":85838845,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":404168501,
-    "wof:lastmodified":1449039750,
+    "wof:lastmodified":1454128896,
     "wof:name":"Honda Of Nanuet",
     "wof:parent_id":85838845,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "dealer"
     ]
 },
-  "bbox": [-73.997934,41.097626,-73.997934,41.097626],
+  "bbox": [
+    -73.997934,
+    41.097626,
+    -73.997934,
+    41.097626
+],
   "geometry": {"coordinates":[-73.997934,41.097626],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370322353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.719483,40.766596,-73.719483,40.766596",
     "geom:latitude":40.766596,
     "geom:longitude":-73.719483,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Dale Carnegie",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85815033,
+        102191575,
+        404522729,
         85633793,
-        85977539,
-        102082377,
-        85815033
+        85977649,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"78d50cc97346fb79a7fa757b924c2043",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404522729,
+            "locality_id":85977649,
             "neighbourhood_id":85815033,
             "region_id":85688543,
             "venue_id":370322353
         }
     ],
     "wof:id":370322353,
-    "wof:lastmodified":1449029031,
+    "wof:lastmodified":1454127296,
     "wof:name":"Chu Han Realty Inc",
     "wof:parent_id":85815033,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.719483,40.766596,-73.719483,40.766596],
+  "bbox": [
+    -73.719483,
+    40.766596,
+    -73.719483,
+    40.766596
+],
   "geometry": {"coordinates":[-73.719483,40.766596],"type":"Point"}
 }

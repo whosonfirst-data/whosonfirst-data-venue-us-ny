@@ -2,13 +2,14 @@
   "id": 353503793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.901493,40.731084,-73.901493,40.731084",
     "geom:latitude":40.731084,
     "geom:longitude":-73.901493,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6106 Maurice Ave",
     "sg:city":"Maspeth",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.richair.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832845,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85832845
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"721a9fe00147284e856b943a5061346b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85832845,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":353503793,
-    "wof:lastmodified":1449020798,
+    "wof:lastmodified":1454126687,
     "wof:name":"Richair Comfort Solutions",
     "wof:parent_id":85832845,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "conditioning/hvac"
     ]
 },
-  "bbox": [-73.901493,40.731084,-73.901493,40.731084],
+  "bbox": [
+    -73.901493,
+    40.731084,
+    -73.901493,
+    40.731084
+],
   "geometry": {"coordinates":[-73.901493,40.731084],"type":"Point"}
 }

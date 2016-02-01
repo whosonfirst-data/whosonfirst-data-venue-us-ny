@@ -2,13 +2,14 @@
   "id": 403772021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.167605,42.606594,-76.167605,42.606594",
     "geom:latitude":42.606594,
     "geom:longitude":-76.167605,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"152 Clinton Ave",
     "sg:city":"Cortland",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528395,
+        102191575,
+        404522255,
         85633793,
-        85978513,
-        102083011
+        85978519,
+        102083011,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"79d2d585d845e44ab4c471aa6e899e95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083011,
-            "locality_id":85978513,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522255,
+            "locality_id":85978519,
+            "neighbourhood_id":420528395,
             "region_id":85688543,
             "venue_id":403772021
         }
     ],
     "wof:id":403772021,
-    "wof:lastmodified":1449055232,
+    "wof:lastmodified":1454129409,
     "wof:name":"Mobil",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528395,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-76.167605,42.606594,-76.167605,42.606594],
-  "geometry": {"coordinates":[-76.167605,42.606594],"type":"Point"}
+  "bbox": [
+    -76.167605,
+    42.606594,
+    -76.167605,
+    42.606594
+],
+  "geometry": {"coordinates":[-76.16760499999999,42.606594],"type":"Point"}
 }

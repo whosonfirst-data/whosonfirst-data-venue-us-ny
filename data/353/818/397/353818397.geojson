@@ -2,13 +2,14 @@
   "id": 353818397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.607597,40.712601,-73.607597,40.712601",
     "geom:latitude":40.712601,
     "geom:longitude":-73.607597,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1000 Fulton Ave",
     "sg:city":"Hempstead",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.newyorkjets.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893051,
+        102191575,
+        404521473,
         85633793,
         85979073,
         102082371,
-        85893051
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"18a67eb63ab644294c75eafb438e5af1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979073,
             "neighbourhood_id":85893051,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":353818397,
-    "wof:lastmodified":1449019509,
+    "wof:lastmodified":1454126312,
     "wof:name":"New York Jets",
     "wof:parent_id":85893051,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "team"
     ]
 },
-  "bbox": [-73.607597,40.712601,-73.607597,40.712601],
+  "bbox": [
+    -73.607597,
+    40.712601,
+    -73.607597,
+    40.712601
+],
   "geometry": {"coordinates":[-73.607597,40.712601],"type":"Point"}
 }

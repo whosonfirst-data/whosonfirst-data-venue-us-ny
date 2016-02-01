@@ -2,13 +2,14 @@
   "id": 286612741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.713125,40.970139,-73.713125,40.970139",
     "geom:latitude":40.970139,
     "geom:longitude":-73.713125,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"270 Harrison Ave",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892899,
+        102191575,
+        404523361,
         85633793,
-        85978729,
+        85978735,
         102082373,
-        85892899
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"645f3dc72e7170ecd2cdbebccb0dd91e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978729,
+            "localadmin_id":404523361,
+            "locality_id":85978735,
             "neighbourhood_id":85892899,
             "region_id":85688543,
             "venue_id":286612741
         }
     ],
     "wof:id":286612741,
-    "wof:lastmodified":1449016485,
+    "wof:lastmodified":1454125627,
     "wof:name":"Harrison Recreation Dept",
     "wof:parent_id":85892899,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "parks"
     ]
 },
-  "bbox": [-73.713125,40.970139,-73.713125,40.970139],
-  "geometry": {"coordinates":[-73.713125,40.970139],"type":"Point"}
+  "bbox": [
+    -73.713125,
+    40.970139,
+    -73.713125,
+    40.970139
+],
+  "geometry": {"coordinates":[-73.71312500000001,40.970139],"type":"Point"}
 }

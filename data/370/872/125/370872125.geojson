@@ -2,13 +2,14 @@
   "id": 370872125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.943513,40.655741,-73.943513,40.655741",
     "geom:latitude":40.655741,
     "geom:longitude":-73.943513,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"450 Clarkson Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.downstate.edu",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816313,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85816313
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"271808032028e6779ba6f042fb184904",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85816313,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370872125,
-    "wof:lastmodified":1449029391,
+    "wof:lastmodified":1454127408,
     "wof:name":"Suny-Downstate Medical Ctr",
     "wof:parent_id":85816313,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.943513,40.655741,-73.943513,40.655741],
+  "bbox": [
+    -73.943513,
+    40.655741,
+    -73.943513,
+    40.655741
+],
   "geometry": {"coordinates":[-73.943513,40.655741],"type":"Point"}
 }

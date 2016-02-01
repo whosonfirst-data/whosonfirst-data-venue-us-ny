@@ -2,13 +2,14 @@
   "id": 354284655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.628469,43.20325,-77.628469,43.20325",
     "geom:latitude":43.20325,
     "geom:longitude":-77.628469,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1977 Lake Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85882033,
+        102191575,
+        404521467,
         85633793,
+        85977591,
         102081815,
-        85882033
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"076186b2703142c80c65df3aa4547d4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":-1,
+            "localadmin_id":404521467,
+            "locality_id":85977591,
             "neighbourhood_id":85882033,
             "region_id":85688543,
             "venue_id":354284655
         }
     ],
     "wof:id":354284655,
-    "wof:lastmodified":1449067007,
+    "wof:lastmodified":1454131099,
     "wof:name":"St Rose Church Hall",
     "wof:parent_id":85882033,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-77.628469,43.20325,-77.628469,43.20325],
+  "bbox": [
+    -77.628469,
+    43.20325,
+    -77.628469,
+    43.20325
+],
   "geometry": {"coordinates":[-77.628469,43.20325],"type":"Point"}
 }

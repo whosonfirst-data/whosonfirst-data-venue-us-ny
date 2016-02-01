@@ -2,13 +2,14 @@
   "id": 253393941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.767896,40.983916,-73.767896,40.983916",
     "geom:latitude":40.983916,
     "geom:longitude":-73.767896,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23 Farragut Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530411,
+        102191575,
+        404523391,
         85633793,
         85978767,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"b2f2f790296e1bdf1b1e5b696adfe35e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523391,
             "locality_id":85978767,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530411,
             "region_id":85688543,
             "venue_id":253393941
         }
     ],
     "wof:id":253393941,
-    "wof:lastmodified":1449063754,
+    "wof:lastmodified":1454130402,
     "wof:name":"Burgess Ryan & Wayne Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530411,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "attorney"
     ]
 },
-  "bbox": [-73.767896,40.983916,-73.767896,40.983916],
-  "geometry": {"coordinates":[-73.767896,40.983916],"type":"Point"}
+  "bbox": [
+    -73.767896,
+    40.983916,
+    -73.767896,
+    40.983916
+],
+  "geometry": {"coordinates":[-73.76789599999999,40.983916],"type":"Point"}
 }

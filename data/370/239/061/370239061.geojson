@@ -2,13 +2,14 @@
   "id": 370239061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.50504,40.799281,-73.50504,40.799281",
     "geom:latitude":40.799281,
     "geom:longitude":-73.50504,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"53 Colony Ln",
     "sg:city":"Syosset",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529175,
+        102191575,
+        404521475,
         85633793,
         85979075,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"5210883e9303d67d3766842e3a558866",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979075,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529175,
             "region_id":85688543,
             "venue_id":370239061
         }
     ],
     "wof:id":370239061,
-    "wof:lastmodified":1449029413,
+    "wof:lastmodified":1454127414,
     "wof:name":"Dynamic Real Estate Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529175,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "bureau"
     ]
 },
-  "bbox": [-73.50504,40.799281,-73.50504,40.799281],
-  "geometry": {"coordinates":[-73.50504,40.799281],"type":"Point"}
+  "bbox": [
+    -73.50504,
+    40.799281,
+    -73.50504,
+    40.799281
+],
+  "geometry": {"coordinates":[-73.50503999999999,40.799281],"type":"Point"}
 }

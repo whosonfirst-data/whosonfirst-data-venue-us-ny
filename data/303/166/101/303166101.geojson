@@ -2,13 +2,14 @@
   "id": 303166101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.063995,40.771051,-73.063995,40.771051",
     "geom:latitude":40.771051,
     "geom:longitude":-73.063995,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1720 Church St",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"9fe12272b94441d86155a2782b9b6cd8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":303166101
         }
     ],
     "wof:id":303166101,
-    "wof:lastmodified":1448999486,
+    "wof:lastmodified":1454123427,
     "wof:name":"Rippner Electrical Constr",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.063995,40.771051,-73.063995,40.771051],
-  "geometry": {"coordinates":[-73.063995,40.771051],"type":"Point"}
+  "bbox": [
+    -73.063995,
+    40.771051,
+    -73.063995,
+    40.771051
+],
+  "geometry": {"coordinates":[-73.06399500000001,40.771051],"type":"Point"}
 }

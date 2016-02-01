@@ -2,13 +2,14 @@
   "id": 387717915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.191737,41.160958,-74.191737,41.160958",
     "geom:latitude":41.160958,
     "geom:longitude":-74.191737,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Orange Tpke",
     "sg:city":"Sloatsburg",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851023,
+        102191575,
+        404523097,
         85633793,
+        85978561,
         102082385,
-        85851023
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"6dbb3b396f52481b375760827a6ec074",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":-1,
+            "localadmin_id":404523097,
+            "locality_id":85978561,
             "neighbourhood_id":85851023,
             "region_id":85688543,
             "venue_id":387717915
         }
     ],
     "wof:id":387717915,
-    "wof:lastmodified":1449056221,
+    "wof:lastmodified":1454129552,
     "wof:name":"Mohawk Stone",
     "wof:parent_id":85851023,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "stone"
     ]
 },
-  "bbox": [-74.191737,41.160958,-74.191737,41.160958],
+  "bbox": [
+    -74.191737,
+    41.160958,
+    -74.191737,
+    41.160958
+],
   "geometry": {"coordinates":[-74.191737,41.160958],"type":"Point"}
 }

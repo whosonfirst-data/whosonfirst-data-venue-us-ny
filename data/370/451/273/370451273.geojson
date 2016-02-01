@@ -2,13 +2,14 @@
   "id": 370451273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.839649,40.897891,-73.839649,40.897891",
     "geom:latitude":40.897891,
     "geom:longitude":-73.839649,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"156 W Sandford Blvd",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -32,7 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420530397,
+        102191575,
+        404523371,
         85633793,
+        85978721,
+        102082373,
         85688543
     ],
     "wof:breaches":[],
@@ -43,18 +49,20 @@
     "wof:geomhash":"dac5f91543acb1c44bbce36dec94dcf1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523371,
+            "locality_id":85978721,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":370451273
         }
     ],
     "wof:id":370451273,
-    "wof:lastmodified":1449030567,
+    "wof:lastmodified":1454127749,
     "wof:name":"King Richards Snacks Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +70,11 @@
         "confectionery"
     ]
 },
-  "bbox": [-73.839649,40.897891,-73.839649,40.897891],
-  "geometry": {"coordinates":[-73.839649,40.897891],"type":"Point"}
+  "bbox": [
+    -73.839649,
+    40.897891,
+    -73.839649,
+    40.897891
+],
+  "geometry": {"coordinates":[-73.83964899999999,40.897891],"type":"Point"}
 }

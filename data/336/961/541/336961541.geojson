@@ -2,13 +2,14 @@
   "id": 336961541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.395437,41.717043,-74.395437,41.717043",
     "geom:latitude":41.717043,
     "geom:longitude":-74.395437,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 S Main St",
     "sg:city":"Ellenville",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816913,
+        102191575,
+        404523275,
         85633793,
-        85978959,
+        85977503,
         102081775,
-        85816913
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"e3eb0227fcdd8c1cbcb42772f311ca7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
-            "locality_id":85978959,
+            "localadmin_id":404523275,
+            "locality_id":85977503,
             "neighbourhood_id":85816913,
             "region_id":85688543,
             "venue_id":336961541
         }
     ],
     "wof:id":336961541,
-    "wof:lastmodified":1448997979,
+    "wof:lastmodified":1454122941,
     "wof:name":"Eclipse Physical Therapy",
     "wof:parent_id":85816913,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "physical"
     ]
 },
-  "bbox": [-74.395437,41.717043,-74.395437,41.717043],
+  "bbox": [
+    -74.395437,
+    41.717043,
+    -74.395437,
+    41.717043
+],
   "geometry": {"coordinates":[-74.395437,41.717043],"type":"Point"}
 }

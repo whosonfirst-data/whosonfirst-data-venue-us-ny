@@ -2,13 +2,14 @@
   "id": 303921381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.682498,40.799463,-73.682498,40.799463",
     "geom:latitude":40.799463,
     "geom:longitude":-73.682498,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"455 Ryder Rd",
     "sg:city":"Manhasset",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819663,
+        102191575,
+        404522729,
         85633793,
-        85977681,
+        85977685,
         102082371,
-        85819663
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"bd4b338cfa4e13e89989c322b22f2c5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977681,
+            "localadmin_id":404522729,
+            "locality_id":85977685,
             "neighbourhood_id":85819663,
             "region_id":85688543,
             "venue_id":303921381
         }
     ],
     "wof:id":303921381,
-    "wof:lastmodified":1448999687,
+    "wof:lastmodified":1454123483,
     "wof:name":"Phoenix Learning Resources",
     "wof:parent_id":85819663,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-73.682498,40.799463,-73.682498,40.799463],
+  "bbox": [
+    -73.682498,
+    40.799463,
+    -73.682498,
+    40.799463
+],
   "geometry": {"coordinates":[-73.682498,40.799463],"type":"Point"}
 }

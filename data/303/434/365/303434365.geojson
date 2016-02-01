@@ -2,13 +2,14 @@
   "id": 303434365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.836241,42.583451,-73.836241,42.583451",
     "geom:latitude":42.583451,
     "geom:longitude":-73.836241,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"118 Fairlawn Dr",
     "sg:city":"Selkirk",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85849377,
+        102082353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,17 @@
     "wof:geomhash":"267f4ac89025fd60ff36472b0511c130",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082353,
+            "neighbourhood_id":85849377,
             "region_id":85688543,
             "venue_id":303434365
         }
     ],
     "wof:id":303434365,
-    "wof:lastmodified":1448998643,
+    "wof:lastmodified":1454123170,
     "wof:name":"Affordable Upholstery Carpet",
-    "wof:parent_id":-1,
+    "wof:parent_id":85849377,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +63,11 @@
         "carpet"
     ]
 },
-  "bbox": [-73.836241,42.583451,-73.836241,42.583451],
+  "bbox": [
+    -73.836241,
+    42.583451,
+    -73.836241,
+    42.583451
+],
   "geometry": {"coordinates":[-73.836241,42.583451],"type":"Point"}
 }

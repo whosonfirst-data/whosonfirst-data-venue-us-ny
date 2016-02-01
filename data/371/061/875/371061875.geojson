@@ -2,13 +2,14 @@
   "id": 371061875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.825191,42.874176,-78.825191,42.874176",
     "geom:latitude":42.874176,
     "geom:longitude":-78.825191,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1373 Clinton St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528549,
+        102191575,
+        404522329,
         85633793,
         85978023,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"79a4d817f59d3e432098d02db7063016",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528549,
             "region_id":85688543,
             "venue_id":371061875
         }
     ],
     "wof:id":371061875,
-    "wof:lastmodified":1449049812,
+    "wof:lastmodified":1454129217,
     "wof:name":"Trina's Family Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528549,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "american"
     ]
 },
-  "bbox": [-78.825191,42.874176,-78.825191,42.874176],
+  "bbox": [
+    -78.825191,
+    42.874176,
+    -78.825191,
+    42.874176
+],
   "geometry": {"coordinates":[-78.825191,42.874176],"type":"Point"}
 }

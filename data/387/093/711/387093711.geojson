@@ -2,13 +2,14 @@
   "id": 387093711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.904594,41.57394,-73.904594,41.57394",
     "geom:latitude":41.57394,
     "geom:longitude":-73.904594,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 Beechwood Cir",
     "sg:city":"Wappingers Falls",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528475,
+        102191575,
+        404522225,
         85633793,
+        85979249,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"91d7fd545ee1800f93e70e9b89957eae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522225,
+            "locality_id":85979249,
+            "neighbourhood_id":420528475,
             "region_id":85688543,
             "venue_id":387093711
         }
     ],
     "wof:id":387093711,
-    "wof:lastmodified":1449056119,
+    "wof:lastmodified":1454129534,
     "wof:name":"Joseph Cornell Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528475,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "generator"
     ]
 },
-  "bbox": [-73.904594,41.57394,-73.904594,41.57394],
+  "bbox": [
+    -73.904594,
+    41.57394,
+    -73.904594,
+    41.57394
+],
   "geometry": {"coordinates":[-73.904594,41.57394],"type":"Point"}
 }

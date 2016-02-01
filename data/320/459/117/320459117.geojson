@@ -2,13 +2,14 @@
   "id": 320459117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.998958,40.632023,-73.998958,40.632023",
     "geom:latitude":40.632023,
     "geom:longitude":-73.998958,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5618 12th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"add0d91e197e5a4ba4f0c8eca7585cf1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":320459117
         }
     ],
     "wof:id":320459117,
-    "wof:lastmodified":1449012788,
+    "wof:lastmodified":1454125009,
     "wof:name":"Quality Supply Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-73.998958,40.632023,-73.998958,40.632023],
+  "bbox": [
+    -73.998958,
+    40.632023,
+    -73.998958,
+    40.632023
+],
   "geometry": {"coordinates":[-73.998958,40.632023],"type":"Point"}
 }

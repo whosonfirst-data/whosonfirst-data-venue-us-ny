@@ -2,13 +2,14 @@
   "id": 370965929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.636851,42.836286,-78.636851,42.836286",
     "geom:latitude":42.836286,
     "geom:longitude":-78.636851,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2355 Bowen Rd",
     "sg:city":"Elma",
     "sg:classifiers":[
@@ -36,10 +37,13 @@
     "sg:website":"http://www.fantasticsams.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528593,
+        102191575,
+        404521341,
         85633793,
         85979437,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +53,20 @@
     "wof:geomhash":"14d8046c082692e8ecbe44e17b59f0bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404521341,
             "locality_id":85979437,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528593,
             "region_id":85688543,
             "venue_id":370965929
         }
     ],
     "wof:id":370965929,
-    "wof:lastmodified":1449031447,
+    "wof:lastmodified":1454128010,
     "wof:name":"Fantastic Sams",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528593,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,6 +77,11 @@
         "supply"
     ]
 },
-  "bbox": [-78.636851,42.836286,-78.636851,42.836286],
-  "geometry": {"coordinates":[-78.636851,42.836286],"type":"Point"}
+  "bbox": [
+    -78.636851,
+    42.836286,
+    -78.636851,
+    42.836286
+],
+  "geometry": {"coordinates":[-78.63685099999999,42.836286],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353767667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.594533,40.655813,-73.594533,40.655813",
     "geom:latitude":40.655813,
     "geom:longitude":-73.594533,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"291 W Sunrise Hwy",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -37,10 +38,13 @@
     "sg:website":"http://hasselbmw3.reachlocal.com/?scid=1661881",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529137,
+        102191575,
+        404521473,
         85633793,
         85977679,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +54,20 @@
     "wof:geomhash":"c7b0e9780b0b876748482bb798707643",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977679,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529137,
             "region_id":85688543,
             "venue_id":353767667
         }
     ],
     "wof:id":353767667,
-    "wof:lastmodified":1449019005,
+    "wof:lastmodified":1454126169,
     "wof:name":"Hassel BMW on Long Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529137,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -74,6 +79,11 @@
         "new"
     ]
 },
-  "bbox": [-73.594533,40.655813,-73.594533,40.655813],
+  "bbox": [
+    -73.594533,
+    40.655813,
+    -73.594533,
+    40.655813
+],
   "geometry": {"coordinates":[-73.594533,40.655813],"type":"Point"}
 }

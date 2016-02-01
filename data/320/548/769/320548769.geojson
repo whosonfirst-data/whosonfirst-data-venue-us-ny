@@ -2,13 +2,14 @@
   "id": 320548769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.721482,40.982564,-73.721482,40.982564",
     "geom:latitude":40.982564,
     "geom:longitude":-73.721482,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9 Indian Trl",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892899,
+        102191575,
+        404523361,
         85633793,
         85978735,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"ef099f57ccf9f5f402e8941c328d90ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523361,
             "locality_id":85978735,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892899,
             "region_id":85688543,
             "venue_id":320548769
         }
     ],
     "wof:id":320548769,
-    "wof:lastmodified":1449013852,
+    "wof:lastmodified":1454125182,
     "wof:name":"Cone Properties Limited",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892899,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-73.721482,40.982564,-73.721482,40.982564],
-  "geometry": {"coordinates":[-73.721482,40.982564],"type":"Point"}
+  "bbox": [
+    -73.721482,
+    40.982564,
+    -73.721482,
+    40.982564
+],
+  "geometry": {"coordinates":[-73.72148199999999,40.982564],"type":"Point"}
 }

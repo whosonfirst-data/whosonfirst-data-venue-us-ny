@@ -2,13 +2,14 @@
   "id": 353741323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.664503,41.008361,-73.664503,41.008361",
     "geom:latitude":41.008361,
     "geom:longitude":-73.664503,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"211 Chestnut St",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530431,
+        102191575,
+        404523389,
         85633793,
         85978705,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"2c91d737af23fdc35bb8cad5a1e09b68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523389,
             "locality_id":85978705,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530431,
             "region_id":85688543,
             "venue_id":353741323
         }
     ],
     "wof:id":353741323,
-    "wof:lastmodified":1449018381,
+    "wof:lastmodified":1454125986,
     "wof:name":"Twf Contracting Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530431,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-73.664503,41.008361,-73.664503,41.008361],
+  "bbox": [
+    -73.664503,
+    41.008361,
+    -73.664503,
+    41.008361
+],
   "geometry": {"coordinates":[-73.664503,41.008361],"type":"Point"}
 }

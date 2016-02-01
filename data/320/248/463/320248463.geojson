@@ -2,13 +2,14 @@
   "id": 320248463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.976584,40.672924,-73.976584,40.672924",
     "geom:latitude":40.672924,
     "geom:longitude":-73.976584,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"149 7th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840609,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85840609
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"b3b453b88e01e19f13cccccd0174942e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85840609,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":320248463,
-    "wof:lastmodified":1449013313,
+    "wof:lastmodified":1454125098,
     "wof:name":"NYC Transit Authority",
     "wof:parent_id":85840609,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "line"
     ]
 },
-  "bbox": [-73.976584,40.672924,-73.976584,40.672924],
+  "bbox": [
+    -73.976584,
+    40.672924,
+    -73.976584,
+    40.672924
+],
   "geometry": {"coordinates":[-73.976584,40.672924],"type":"Point"}
 }

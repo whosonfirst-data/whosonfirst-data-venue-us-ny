@@ -2,13 +2,14 @@
   "id": 370239479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.844704,40.944099,-72.844704,40.944099",
     "geom:latitude":40.944099,
     "geom:longitude":-72.844704,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6251 Route 25A",
     "sg:city":"Wading River",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979901,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"981c8bf4421d14ce5ba9eb4fcc05c966",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979901,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":370239479
         }
     ],
     "wof:id":370239479,
-    "wof:lastmodified":1449029413,
+    "wof:lastmodified":1454127414,
     "wof:name":"Pavlova Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.844704,40.944099,-72.844704,40.944099],
-  "geometry": {"coordinates":[-72.844704,40.944099],"type":"Point"}
+  "bbox": [
+    -72.844704,
+    40.944099,
+    -72.844704,
+    40.944099
+],
+  "geometry": {"coordinates":[-72.84470399999999,40.944099],"type":"Point"}
 }

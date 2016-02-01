@@ -2,13 +2,14 @@
   "id": 387332797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.90333,40.928412,-73.90333,40.928412",
     "geom:latitude":40.928412,
     "geom:longitude":-73.90333,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"139 Herriot St",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881887,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"b8fcb6d8ad52424f621d1da4a47bff53",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881887,
             "region_id":85688543,
             "venue_id":387332797
         }
     ],
     "wof:id":387332797,
-    "wof:lastmodified":1449058230,
+    "wof:lastmodified":1454129909,
     "wof:name":"Dinero Grocery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881887,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.90333,40.928412,-73.90333,40.928412],
+  "bbox": [
+    -73.90333,
+    40.928412,
+    -73.90333,
+    40.928412
+],
   "geometry": {"coordinates":[-73.90333,40.928412],"type":"Point"}
 }

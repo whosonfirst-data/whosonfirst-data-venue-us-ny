@@ -2,13 +2,14 @@
   "id": 387750269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.923686,40.948994,-72.923686,40.948994",
     "geom:latitude":40.948994,
     "geom:longitude":-72.923686,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"43 Broadway",
     "sg:city":"Rocky Point",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"www.flowersonbroadway.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979947,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"132a44fae6ee6caa205ae9f5449e5c65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979947,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":387750269
         }
     ],
     "wof:id":387750269,
-    "wof:lastmodified":1449058403,
+    "wof:lastmodified":1454129940,
     "wof:name":"Flowers On Broadway",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-72.923686,40.948994,-72.923686,40.948994],
+  "bbox": [
+    -72.923686,
+    40.948994,
+    -72.923686,
+    40.948994
+],
   "geometry": {"coordinates":[-72.923686,40.948994],"type":"Point"}
 }

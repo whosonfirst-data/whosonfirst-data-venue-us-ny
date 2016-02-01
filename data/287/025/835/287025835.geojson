@@ -2,13 +2,14 @@
   "id": 287025835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.965681,40.944319,-72.965681,40.944319",
     "geom:latitude":40.944319,
     "geom:longitude":-72.965681,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"970 Rte 25A",
     "sg:city":"Miller Place",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.alianorealestate.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979947,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"b689c3ef9c278b6a25a943c514c99c4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979947,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":287025835
         }
     ],
     "wof:id":287025835,
-    "wof:lastmodified":1449001423,
+    "wof:lastmodified":1454123931,
     "wof:name":"Aliano Real Estate",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.965681,40.944319,-72.965681,40.944319],
+  "bbox": [
+    -72.965681,
+    40.944319,
+    -72.965681,
+    40.944319
+],
   "geometry": {"coordinates":[-72.965681,40.944319],"type":"Point"}
 }

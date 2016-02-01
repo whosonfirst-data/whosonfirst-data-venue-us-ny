@@ -2,13 +2,14 @@
   "id": 387171253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.921704,40.881697,-72.921704,40.881697",
     "geom:latitude":40.881697,
     "geom:longitude":-72.921704,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Herdman Ct",
     "sg:city":"Middle Island",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979955,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"90936daf9c94f3ba964a769851a96e5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979955,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":387171253
         }
     ],
     "wof:id":387171253,
-    "wof:lastmodified":1449059938,
+    "wof:lastmodified":1454130213,
     "wof:name":"Biltmore Machine & Eqp Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "offset"
     ]
 },
-  "bbox": [-72.921704,40.881697,-72.921704,40.881697],
-  "geometry": {"coordinates":[-72.921704,40.881697],"type":"Point"}
+  "bbox": [
+    -72.921704,
+    40.881697,
+    -72.921704,
+    40.881697
+],
+  "geometry": {"coordinates":[-72.92170400000001,40.881697],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253257915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.461418,40.79717,-73.461418,40.79717",
     "geom:latitude":40.79717,
     "geom:longitude":-73.461418,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Dupont St",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
-        85979191,
-        102082371
+        85979055,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"f1471f6ae279edc3ddb7179ef009ac9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979191,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85979055,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":253257915
         }
     ],
     "wof:id":253257915,
-    "wof:lastmodified":1449063687,
+    "wof:lastmodified":1454130389,
     "wof:name":"East Coast Computer Tech",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-73.461418,40.79717,-73.461418,40.79717],
-  "geometry": {"coordinates":[-73.461418,40.79717],"type":"Point"}
+  "bbox": [
+    -73.461418,
+    40.79717,
+    -73.461418,
+    40.79717
+],
+  "geometry": {"coordinates":[-73.46141799999999,40.79717],"type":"Point"}
 }

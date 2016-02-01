@@ -2,13 +2,14 @@
   "id": 303741761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.009816,40.720141,-74.009816,40.720141",
     "geom:latitude":40.720141,
     "geom:longitude":-74.009816,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"55 N Moore St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865713,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865713
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"7244cf0ed3c8bcf293633cf6007af545",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865713,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":303741761,
-    "wof:lastmodified":1448998251,
+    "wof:lastmodified":1454123032,
     "wof:name":"Leicestershire Arms Ltd",
     "wof:parent_id":85865713,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "apartment"
     ]
 },
-  "bbox": [-74.009816,40.720141,-74.009816,40.720141],
+  "bbox": [
+    -74.009816,
+    40.720141,
+    -74.009816,
+    40.720141
+],
   "geometry": {"coordinates":[-74.009816,40.720141],"type":"Point"}
 }

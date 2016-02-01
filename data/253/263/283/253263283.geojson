@@ -2,13 +2,14 @@
   "id": 253263283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.602182,43.246247,-77.602182,43.246247",
     "geom:latitude":43.246247,
     "geom:longitude":-77.602182,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 Lake Shore Blvd Exd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85858221,
+        102191575,
+        404522639,
         85633793,
         85979035,
         102081815,
-        85858221
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"c4ca8723a48b3fbd254b5e94d7d75f96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404522639,
             "locality_id":85979035,
             "neighbourhood_id":85858221,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":253263283,
-    "wof:lastmodified":1449065709,
+    "wof:lastmodified":1454130729,
     "wof:name":"Janton Agency",
     "wof:parent_id":85858221,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "bureau"
     ]
 },
-  "bbox": [-77.602182,43.246247,-77.602182,43.246247],
+  "bbox": [
+    -77.602182,
+    43.246247,
+    -77.602182,
+    43.246247
+],
   "geometry": {"coordinates":[-77.602182,43.246247],"type":"Point"}
 }

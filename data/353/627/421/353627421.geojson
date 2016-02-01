@@ -2,13 +2,14 @@
   "id": 353627421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.84642,40.697869,-73.84642,40.697869",
     "geom:latitude":40.697869,
     "geom:longitude":-73.84642,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8511 102nd Street",
     "sg:city":"Jamaica",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844441,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844441
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"02e675da782fd00091dbde38df44be1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844441,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":353627421,
-    "wof:lastmodified":1449020863,
+    "wof:lastmodified":1454126706,
     "wof:name":"N Y City of",
     "wof:parent_id":85844441,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "elementary"
     ]
 },
-  "bbox": [-73.84642,40.697869,-73.84642,40.697869],
-  "geometry": {"coordinates":[-73.84642,40.697869],"type":"Point"}
+  "bbox": [
+    -73.84642,
+    40.697869,
+    -73.84642,
+    40.697869
+],
+  "geometry": {"coordinates":[-73.84641999999999,40.697869],"type":"Point"}
 }

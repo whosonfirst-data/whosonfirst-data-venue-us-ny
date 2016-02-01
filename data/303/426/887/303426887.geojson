@@ -2,13 +2,14 @@
   "id": 303426887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.921733,40.836017,-73.921733,40.836017",
     "geom:latitude":40.836017,
     "geom:longitude":-73.921733,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 E 167th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865669,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865669
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"be059e7ca93b614045c3fb8027f74b4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865669,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":303426887,
-    "wof:lastmodified":1448998636,
+    "wof:lastmodified":1454123168,
     "wof:name":"78 Enterprises Inc",
     "wof:parent_id":85865669,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.921733,40.836017,-73.921733,40.836017],
+  "bbox": [
+    -73.921733,
+    40.836017,
+    -73.921733,
+    40.836017
+],
   "geometry": {"coordinates":[-73.921733,40.836017],"type":"Point"}
 }

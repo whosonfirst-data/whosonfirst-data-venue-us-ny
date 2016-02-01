@@ -2,13 +2,14 @@
   "id": 303597743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.019779,40.812205,-73.019779,40.812205",
     "geom:latitude":40.812205,
     "geom:longitude":-73.019779,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1741 N Ocean Ave",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"7ddf85ecdcec5ab7fe3c734e1f3922b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":303597743
         }
     ],
     "wof:id":303597743,
-    "wof:lastmodified":1449000534,
+    "wof:lastmodified":1454123716,
     "wof:name":"Employee Assistance Program",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "program"
     ]
 },
-  "bbox": [-73.019779,40.812205,-73.019779,40.812205],
+  "bbox": [
+    -73.019779,
+    40.812205,
+    -73.019779,
+    40.812205
+],
   "geometry": {"coordinates":[-73.019779,40.812205],"type":"Point"}
 }

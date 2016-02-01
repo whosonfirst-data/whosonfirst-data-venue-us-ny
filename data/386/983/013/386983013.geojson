@@ -2,13 +2,14 @@
   "id": 386983013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.183651,43.281351,-77.183651,43.281351",
     "geom:latitude":43.281351,
     "geom:longitude":-77.183651,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4135 Mill St",
     "sg:city":"Williamson",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530365,
+        102191575,
+        404521681,
         85633793,
         85979741,
-        102082409
+        102082409,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"2fcc5e3297d493128c5175d52ba3b85f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082409,
+            "localadmin_id":404521681,
             "locality_id":85979741,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530365,
             "region_id":85688543,
             "venue_id":386983013
         }
     ],
     "wof:id":386983013,
-    "wof:lastmodified":1449028957,
+    "wof:lastmodified":1454127279,
     "wof:name":"Relish",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.183651,43.281351,-77.183651,43.281351],
+  "bbox": [
+    -77.183651,
+    43.281351,
+    -77.183651,
+    43.281351
+],
   "geometry": {"coordinates":[-77.183651,43.281351],"type":"Point"}
 }

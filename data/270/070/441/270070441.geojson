@@ -2,13 +2,14 @@
   "id": 270070441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.929196,40.834892,-73.929196,40.834892",
     "geom:latitude":40.834892,
     "geom:longitude":-73.929196,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1093 Summit Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869335,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869335
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"458d3a1703e7c9997aebe66d25307562",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869335,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":270070441,
-    "wof:lastmodified":1449009815,
+    "wof:lastmodified":1454124540,
     "wof:name":"Sugga Bugga",
     "wof:parent_id":85869335,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "confectionery"
     ]
 },
-  "bbox": [-73.929196,40.834892,-73.929196,40.834892],
+  "bbox": [
+    -73.929196,
+    40.834892,
+    -73.929196,
+    40.834892
+],
   "geometry": {"coordinates":[-73.929196,40.834892],"type":"Point"}
 }

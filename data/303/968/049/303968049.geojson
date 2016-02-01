@@ -2,13 +2,14 @@
   "id": 303968049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.812773,43.004863,-78.812773,43.004863",
     "geom:latitude":43.004863,
     "geom:longitude":-78.812773,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4363 Chestnut Ridge Rd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85837253,
+        102191575,
+        404522321,
         85633793,
+        85979411,
+        102082387,
         85688543
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"001d3312f9bc49c750e180aac38a172b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082387,
+            "localadmin_id":404522321,
+            "locality_id":85979411,
+            "neighbourhood_id":85837253,
             "region_id":85688543,
             "venue_id":303968049
         }
     ],
     "wof:id":303968049,
-    "wof:lastmodified":1448998271,
+    "wof:lastmodified":1454123039,
     "wof:name":"Liberty Square Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":85837253,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +69,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.812773,43.004863,-78.812773,43.004863],
-  "geometry": {"coordinates":[-78.812773,43.004863],"type":"Point"}
+  "bbox": [
+    -78.812773,
+    43.004863,
+    -78.812773,
+    43.004863
+],
+  "geometry": {"coordinates":[-78.81277300000001,43.004863],"type":"Point"}
 }

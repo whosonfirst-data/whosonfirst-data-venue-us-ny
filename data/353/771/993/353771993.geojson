@@ -2,13 +2,14 @@
   "id": 353771993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.606308,40.739664,-73.606308,40.739664",
     "geom:latitude":40.739664,
     "geom:longitude":-73.606308,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"777 Zeckendorf Blvd Ste 2",
     "sg:city":"Garden City",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"theamerisc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893069,
+        102191575,
+        404522729,
         85633793,
-        85977735,
+        85979163,
         102082371,
-        85893069
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +42,18 @@
     "wof:geomhash":"f268b45057d0681a0f42793c412a68a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977735,
+            "localadmin_id":404522729,
+            "locality_id":85979163,
             "neighbourhood_id":85893069,
             "region_id":85688543,
             "venue_id":353771993
         }
     ],
     "wof:id":353771993,
-    "wof:lastmodified":1449019646,
+    "wof:lastmodified":1454126350,
     "wof:name":"The Amerisc Corp.",
     "wof:parent_id":85893069,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.606308,40.739664,-73.606308,40.739664],
+  "bbox": [
+    -73.606308,
+    40.739664,
+    -73.606308,
+    40.739664
+],
   "geometry": {"coordinates":[-73.606308,40.739664],"type":"Point"}
 }

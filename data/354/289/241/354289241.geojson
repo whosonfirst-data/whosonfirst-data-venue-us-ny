@@ -2,13 +2,14 @@
   "id": 354289241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.210648,40.72974,-73.210648,40.72974",
     "geom:latitude":40.72974,
     "geom:longitude":-73.210648,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"655 Main St",
     "sg:city":"Islip",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     "sg:website":"http://www.islipartmuseum.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892813,
+        102191575,
+        404522517,
         85633793,
         85979775,
         102082395,
-        85892813
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"27d16de1f9631429ea22655720e67d2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979775,
             "neighbourhood_id":85892813,
             "region_id":85688543,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":354289241,
-    "wof:lastmodified":1449067370,
+    "wof:lastmodified":1454131214,
     "wof:name":"Planning & Dev Dept Islip",
     "wof:parent_id":85892813,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "commissions"
     ]
 },
-  "bbox": [-73.210648,40.72974,-73.210648,40.72974],
-  "geometry": {"coordinates":[-73.210648,40.72974],"type":"Point"}
+  "bbox": [
+    -73.210648,
+    40.72974,
+    -73.210648,
+    40.72974
+],
+  "geometry": {"coordinates":[-73.21064800000001,40.72974],"type":"Point"}
 }

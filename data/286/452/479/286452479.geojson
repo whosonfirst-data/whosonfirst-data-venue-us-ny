@@ -2,13 +2,14 @@
   "id": 286452479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.680539,42.518059,-73.680539,42.518059",
     "geom:latitude":42.518059,
     "geom:longitude":-73.680539,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Bluebird Ter",
     "sg:city":"Castletn On Hdsn",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85807023,
+        102081773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,17 @@
     "wof:geomhash":"6bd9dfa4d8bf6b118a78ccb13df30e02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081773,
+            "neighbourhood_id":85807023,
             "region_id":85688543,
             "venue_id":286452479
         }
     ],
     "wof:id":286452479,
-    "wof:lastmodified":1449015859,
+    "wof:lastmodified":1454125516,
     "wof:name":"Pinehaven Mobile Home Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":85807023,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +63,11 @@
         "community"
     ]
 },
-  "bbox": [-73.680539,42.518059,-73.680539,42.518059],
+  "bbox": [
+    -73.680539,
+    42.518059,
+    -73.680539,
+    42.518059
+],
   "geometry": {"coordinates":[-73.680539,42.518059],"type":"Point"}
 }

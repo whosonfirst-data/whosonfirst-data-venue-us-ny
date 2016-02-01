@@ -2,13 +2,14 @@
   "id": 337464067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.852082,40.739243,-73.852082,40.739243",
     "geom:latitude":40.739243,
     "geom:longitude":-73.852082,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"58-19 Waldron St",
     "sg:city":"Corona",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812357,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85812357
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ec5a913d5b9dd43ce06c82a83bab2822",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85812357,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":337464067,
-    "wof:lastmodified":1449027152,
+    "wof:lastmodified":1454126952,
     "wof:name":"JR One Way Construction",
     "wof:parent_id":85812357,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.852082,40.739243,-73.852082,40.739243],
+  "bbox": [
+    -73.852082,
+    40.739243,
+    -73.852082,
+    40.739243
+],
   "geometry": {"coordinates":[-73.852082,40.739243],"type":"Point"}
 }

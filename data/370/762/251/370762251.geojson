@@ -2,13 +2,14 @@
   "id": 370762251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.84195,40.956809,-73.84195,40.956809",
     "geom:latitude":40.956809,
     "geom:longitude":-73.84195,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1715 Central Park Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530419,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"ca7cbdc7556b8bc7aefc090e7a0d3c92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530419,
             "region_id":85688543,
             "venue_id":370762251
         }
     ],
     "wof:id":370762251,
-    "wof:lastmodified":1449031476,
+    "wof:lastmodified":1454128018,
     "wof:name":"Famous French Cleaners Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530419,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "agent"
     ]
 },
-  "bbox": [-73.84195,40.956809,-73.84195,40.956809],
+  "bbox": [
+    -73.84195,
+    40.956809,
+    -73.84195,
+    40.956809
+],
   "geometry": {"coordinates":[-73.84195,40.956809],"type":"Point"}
 }

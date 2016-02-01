@@ -2,13 +2,14 @@
   "id": 270426081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.851993,40.952335,-73.851993,40.952335",
     "geom:latitude":40.952335,
     "geom:longitude":-73.851993,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"475 Tuckahoe Rd",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530419,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"3fd2e8cdae6728387459b271c7e9f6f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530419,
             "region_id":85688543,
             "venue_id":270426081
         }
     ],
     "wof:id":270426081,
-    "wof:lastmodified":1449009145,
+    "wof:lastmodified":1454124439,
     "wof:name":"Westchester Jewish Cmmnty Cntr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530419,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-73.851993,40.952335,-73.851993,40.952335],
-  "geometry": {"coordinates":[-73.851993,40.952335],"type":"Point"}
+  "bbox": [
+    -73.851993,
+    40.952335,
+    -73.851993,
+    40.952335
+],
+  "geometry": {"coordinates":[-73.85199299999999,40.952335],"type":"Point"}
 }

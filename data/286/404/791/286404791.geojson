@@ -2,13 +2,14 @@
   "id": 286404791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.828982,40.922761,-73.828982,40.922761",
     "geom:latitude":40.922761,
     "geom:longitude":-73.828982,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Vernon Pl",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530461,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"a5fe1e1ff338a6ad50cb5b8f279c7630",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530461,
             "region_id":85688543,
             "venue_id":286404791
         }
     ],
     "wof:id":286404791,
-    "wof:lastmodified":1449017146,
+    "wof:lastmodified":1454125744,
     "wof:name":"Quality Home Inspections",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530461,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "inspection"
     ]
 },
-  "bbox": [-73.828982,40.922761,-73.828982,40.922761],
+  "bbox": [
+    -73.828982,
+    40.922761,
+    -73.828982,
+    40.922761
+],
   "geometry": {"coordinates":[-73.828982,40.922761],"type":"Point"}
 }

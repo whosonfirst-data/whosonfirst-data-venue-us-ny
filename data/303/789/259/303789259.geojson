@@ -2,13 +2,14 @@
   "id": 303789259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.79403,40.90816,-73.79403,40.90816",
     "geom:latitude":40.90816,
     "geom:longitude":-73.79403,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"56 2nd St",
     "sg:city":"New Rochelle",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845319,
+        102191575,
+        404523375,
         85633793,
         85978749,
         102082373,
-        85845319
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"ff63865bde1a4c44aa05a27939ea85ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523375,
             "locality_id":85978749,
             "neighbourhood_id":85845319,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303789259,
-    "wof:lastmodified":1448999221,
+    "wof:lastmodified":1454123355,
     "wof:name":"E Paez Cash Register Co",
     "wof:parent_id":85845319,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.79403,40.90816,-73.79403,40.90816],
-  "geometry": {"coordinates":[-73.79403,40.90816],"type":"Point"}
+  "bbox": [
+    -73.79403,
+    40.90816,
+    -73.79403,
+    40.90816
+],
+  "geometry": {"coordinates":[-73.79403000000001,40.90816],"type":"Point"}
 }

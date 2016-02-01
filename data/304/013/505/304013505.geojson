@@ -2,13 +2,14 @@
   "id": 304013505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.835648,40.941705,-73.835648,40.941705",
     "geom:latitude":40.941705,
     "geom:longitude":-73.835648,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"34 Palmer Ave",
     "sg:city":"Bronxville",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892801,
+        102191575,
+        404523357,
         85633793,
         85978751,
         102082373,
-        85892801
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"3e9bbaa51381b3720af47962e7c90700",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85978751,
             "neighbourhood_id":85892801,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":304013505,
-    "wof:lastmodified":1449044001,
+    "wof:lastmodified":1454129020,
     "wof:name":"Professional Health Care Assoc",
     "wof:parent_id":85892801,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "care"
     ]
 },
-  "bbox": [-73.835648,40.941705,-73.835648,40.941705],
-  "geometry": {"coordinates":[-73.835648,40.941705],"type":"Point"}
+  "bbox": [
+    -73.835648,
+    40.941705,
+    -73.835648,
+    40.941705
+],
+  "geometry": {"coordinates":[-73.83564800000001,40.941705],"type":"Point"}
 }

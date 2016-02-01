@@ -2,13 +2,14 @@
   "id": 303216347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.237506,40.82559,-73.237506,40.82559",
     "geom:latitude":40.82559,
     "geom:longitude":-73.237506,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"725 Veterans Hwy",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.co.suffolk.ny.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"7873255a6171de76726b685e0b8dd6bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":303216347
         }
     ],
     "wof:id":303216347,
-    "wof:lastmodified":1449000289,
+    "wof:lastmodified":1454123648,
     "wof:name":"Suffolk County Legislature",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.237506,40.82559,-73.237506,40.82559],
+  "bbox": [
+    -73.237506,
+    40.82559,
+    -73.237506,
+    40.82559
+],
   "geometry": {"coordinates":[-73.237506,40.82559],"type":"Point"}
 }

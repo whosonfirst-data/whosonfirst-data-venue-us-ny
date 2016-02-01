@@ -2,13 +2,14 @@
   "id": 354382745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.00965,40.788437,-73.00965,40.788437",
     "geom:latitude":40.788437,
     "geom:longitude":-73.00965,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"580 Medford Avenue",
     "sg:city":"Patchogue",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840885,
+        102191575,
+        404521441,
         85633793,
         85978461,
         102082395,
-        85840885
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"6ccfd831d43cf9d6fb0818008e1aac43",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85978461,
             "neighbourhood_id":85840885,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":354382745,
-    "wof:lastmodified":1449066367,
+    "wof:lastmodified":1454130903,
     "wof:name":"Olympic Bike Discounter",
     "wof:parent_id":85840885,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "bike"
     ]
 },
-  "bbox": [-73.00965,40.788437,-73.00965,40.788437],
-  "geometry": {"coordinates":[-73.00965,40.788437],"type":"Point"}
+  "bbox": [
+    -73.00965,
+    40.788437,
+    -73.00965,
+    40.788437
+],
+  "geometry": {"coordinates":[-73.00964999999999,40.788437],"type":"Point"}
 }

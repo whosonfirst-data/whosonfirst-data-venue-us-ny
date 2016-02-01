@@ -2,13 +2,14 @@
   "id": 353987503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.6856,40.684601,-73.6856,40.684601",
     "geom:latitude":40.684601,
     "geom:longitude":-73.6856,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1056 Franklin Ave",
     "sg:city":"Valley Stream",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85838141,
+        102191575,
+        404521473,
         85633793,
-        85979041,
+        85979137,
         102082371,
-        85838141
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"94986ee0dd843c539da47cfb3dd37f65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979041,
+            "localadmin_id":404521473,
+            "locality_id":85979137,
             "neighbourhood_id":85838141,
             "region_id":85688543,
             "venue_id":353987503
         }
     ],
     "wof:id":353987503,
-    "wof:lastmodified":1449019684,
+    "wof:lastmodified":1454126362,
     "wof:name":"Pizza Express",
     "wof:parent_id":85838141,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "pizza"
     ]
 },
-  "bbox": [-73.6856,40.684601,-73.6856,40.684601],
-  "geometry": {"coordinates":[-73.6856,40.684601],"type":"Point"}
+  "bbox": [
+    -73.6856,
+    40.684601,
+    -73.6856,
+    40.684601
+],
+  "geometry": {"coordinates":[-73.68559999999999,40.684601],"type":"Point"}
 }

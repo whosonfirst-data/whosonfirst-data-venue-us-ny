@@ -2,13 +2,14 @@
   "id": 270068509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.813742,42.902601,-78.813742,42.902601",
     "geom:latitude":42.902601,
     "geom:longitude":-78.813742,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1729 Bailey Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528547,
+        102191575,
+        404522329,
         85633793,
         85978023,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"3e7e0a1d187bdf419c2e67b570535cc5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528547,
             "region_id":85688543,
             "venue_id":270068509
         }
     ],
     "wof:id":270068509,
-    "wof:lastmodified":1449009892,
+    "wof:lastmodified":1454124550,
     "wof:name":"Custom Sheet Metal & Fab Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528547,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "fabricator"
     ]
 },
-  "bbox": [-78.813742,42.902601,-78.813742,42.902601],
+  "bbox": [
+    -78.813742,
+    42.902601,
+    -78.813742,
+    42.902601
+],
   "geometry": {"coordinates":[-78.813742,42.902601],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353862067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.838718,40.914254,-73.838718,40.914254",
     "geom:latitude":40.914254,
     "geom:longitude":-73.838718,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"28 W Sidney Ave",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"e356d6a4faeef4b5deaba702fa835074",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":353862067
         }
     ],
     "wof:id":353862067,
-    "wof:lastmodified":1449020881,
+    "wof:lastmodified":1454126709,
     "wof:name":"Church of Our Lady of Victory",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "church"
     ]
 },
-  "bbox": [-73.838718,40.914254,-73.838718,40.914254],
+  "bbox": [
+    -73.838718,
+    40.914254,
+    -73.838718,
+    40.914254
+],
   "geometry": {"coordinates":[-73.838718,40.914254],"type":"Point"}
 }

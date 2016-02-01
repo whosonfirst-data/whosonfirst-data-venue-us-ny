@@ -2,13 +2,14 @@
   "id": 303277009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.134984,40.60151,-74.134984,40.60151",
     "geom:latitude":40.60151,
     "geom:longitude":-74.134984,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"168 Sunset Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85858015,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"d0ece9d1ebb7f906471b92312932b76e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85858015,
             "region_id":85688543,
             "venue_id":303277009
         }
     ],
     "wof:id":303277009,
-    "wof:lastmodified":1448998398,
+    "wof:lastmodified":1454123082,
     "wof:name":"Premier Physique",
-    "wof:parent_id":-1,
+    "wof:parent_id":85858015,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.134984,40.60151,-74.134984,40.60151],
+  "bbox": [
+    -74.134984,
+    40.60151,
+    -74.134984,
+    40.60151
+],
   "geometry": {"coordinates":[-74.134984,40.60151],"type":"Point"}
 }

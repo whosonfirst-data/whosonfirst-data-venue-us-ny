@@ -2,13 +2,14 @@
   "id": 320035819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.786459,41.035971,-73.786459,41.035971",
     "geom:latitude":41.035971,
     "geom:longitude":-73.786459,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Walnut St",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85893077,
+        102191575,
+        404523395,
         85633793,
+        85978761,
+        102082373,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"9357a3ff42e9c85bcab22f77b34f5513",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523395,
+            "locality_id":85978761,
+            "neighbourhood_id":85893077,
             "region_id":85688543,
             "venue_id":320035819
         }
     ],
     "wof:id":320035819,
-    "wof:lastmodified":1449014249,
+    "wof:lastmodified":1454125247,
     "wof:name":"Dee's Private Car Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893077,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "limousine"
     ]
 },
-  "bbox": [-73.786459,41.035971,-73.786459,41.035971],
-  "geometry": {"coordinates":[-73.786459,41.035971],"type":"Point"}
+  "bbox": [
+    -73.786459,
+    41.035971,
+    -73.786459,
+    41.035971
+],
+  "geometry": {"coordinates":[-73.78645899999999,41.035971],"type":"Point"}
 }

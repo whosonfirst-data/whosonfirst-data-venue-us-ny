@@ -2,13 +2,14 @@
   "id": 303325701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.810358,40.962572,-73.810358,40.962572",
     "geom:latitude":40.962572,
     "geom:longitude":-73.810358,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"580 White Plains Rd",
     "sg:city":"Eastchester",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.eastchester.k12.ny.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530381,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"394fee7518ded48ea9b7dc115386d3ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530381,
             "region_id":85688543,
             "venue_id":303325701
         }
     ],
     "wof:id":303325701,
-    "wof:lastmodified":1448999079,
+    "wof:lastmodified":1454123315,
     "wof:name":"Eastchester Board Of Education",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530381,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.810358,40.962572,-73.810358,40.962572],
-  "geometry": {"coordinates":[-73.810358,40.962572],"type":"Point"}
+  "bbox": [
+    -73.810358,
+    40.962572,
+    -73.810358,
+    40.962572
+],
+  "geometry": {"coordinates":[-73.81035799999999,40.962572],"type":"Point"}
 }

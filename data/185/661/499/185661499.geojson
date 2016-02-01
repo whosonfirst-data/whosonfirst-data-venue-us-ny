@@ -2,13 +2,14 @@
   "id": 185661499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.981267,40.667256,-73.981267,40.667256",
     "geom:latitude":40.667256,
     "geom:longitude":-73.981267,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"320 Seventh Avenue Ste 104",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.allaboutbrooklyn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840609,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85840609
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"57c832008a6ee68dac55b8e52c26a91f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85840609,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":185661499,
-    "wof:lastmodified":1449008046,
+    "wof:lastmodified":1454124332,
     "wof:name":"All About Brooklyn Concierge",
     "wof:parent_id":85840609,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "local"
     ]
 },
-  "bbox": [-73.981267,40.667256,-73.981267,40.667256],
+  "bbox": [
+    -73.981267,
+    40.667256,
+    -73.981267,
+    40.667256
+],
   "geometry": {"coordinates":[-73.981267,40.667256],"type":"Point"}
 }

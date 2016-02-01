@@ -2,13 +2,14 @@
   "id": 354003713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.561996,40.754501,-73.561996,40.754501",
     "geom:latitude":40.754501,
     "geom:longitude":-73.561996,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Kinkel St",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85856711,
+        102191575,
+        404521475,
         85633793,
-        85979063,
+        85979093,
         102082371,
-        85856711
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"6fce82346aa2d467e8d8f43006e9eea0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979063,
+            "localadmin_id":404521475,
+            "locality_id":85979093,
             "neighbourhood_id":85856711,
             "region_id":85688543,
             "venue_id":354003713
         }
     ],
     "wof:id":354003713,
-    "wof:lastmodified":1449067539,
+    "wof:lastmodified":1454131267,
     "wof:name":"Westbury Nissan A United Auto Dealership",
     "wof:parent_id":85856711,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "car"
     ]
 },
-  "bbox": [-73.561996,40.754501,-73.561996,40.754501],
-  "geometry": {"coordinates":[-73.561996,40.754501],"type":"Point"}
+  "bbox": [
+    -73.561996,
+    40.754501,
+    -73.561996,
+    40.754501
+],
+  "geometry": {"coordinates":[-73.56199599999999,40.754501],"type":"Point"}
 }

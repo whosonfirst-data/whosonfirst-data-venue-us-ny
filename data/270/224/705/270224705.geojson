@@ -2,13 +2,14 @@
   "id": 270224705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.032766,41.149825,-74.032766,41.149825",
     "geom:latitude":41.149825,
     "geom:longitude":-74.032766,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8 Old Schoolhouse Rd",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529791,
+        102191575,
+        404523097,
         85633793,
+        85978543,
+        102082385,
         85688543
     ],
     "wof:breaches":[],
@@ -44,18 +50,20 @@
     "wof:geomhash":"cee19ddef571ab5bdb0b2fc84a4511fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082385,
+            "localadmin_id":404523097,
+            "locality_id":85978543,
+            "neighbourhood_id":420529791,
             "region_id":85688543,
             "venue_id":270224705
         }
     ],
     "wof:id":270224705,
-    "wof:lastmodified":1449010449,
+    "wof:lastmodified":1454124636,
     "wof:name":"Ramapo Community Nurser School",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529791,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +72,11 @@
         "day"
     ]
 },
-  "bbox": [-74.032766,41.149825,-74.032766,41.149825],
+  "bbox": [
+    -74.032766,
+    41.149825,
+    -74.032766,
+    41.149825
+],
   "geometry": {"coordinates":[-74.032766,41.149825],"type":"Point"}
 }

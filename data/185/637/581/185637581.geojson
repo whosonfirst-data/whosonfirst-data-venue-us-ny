@@ -2,13 +2,14 @@
   "id": 185637581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.000898,40.595107,-74.000898,40.595107",
     "geom:latitude":40.595107,
     "geom:longitude":-74.000898,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8951 Bay Pkwy",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -58,11 +59,13 @@
     "sg:website":"http://www.radioshack.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85822643,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85822643
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,9 +75,10 @@
     "wof:geomhash":"9523000c6a0629a3e376dcaf62a49a16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85822643,
             "region_id":85688543,
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":185637581,
-    "wof:lastmodified":1449006595,
+    "wof:lastmodified":1454124143,
     "wof:name":"RadioShack",
     "wof:parent_id":85822643,
     "wof:placetype":"venue",
@@ -102,6 +106,11 @@
         "store"
     ]
 },
-  "bbox": [-74.000898,40.595107,-74.000898,40.595107],
-  "geometry": {"coordinates":[-74.000898,40.595107],"type":"Point"}
+  "bbox": [
+    -74.000898,
+    40.595107,
+    -74.000898,
+    40.595107
+],
+  "geometry": {"coordinates":[-74.00089800000001,40.595107],"type":"Point"}
 }

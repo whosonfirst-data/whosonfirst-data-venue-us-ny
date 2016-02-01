@@ -2,13 +2,14 @@
   "id": 370445991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.157332,40.535333,-74.157332,40.535333",
     "geom:latitude":40.535333,
     "geom:longitude":-74.157332,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"294 Lyndale Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826445,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85826445
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"85cde7feb8c27800ca470eee6b3ee1f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85826445,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370445991,
-    "wof:lastmodified":1449029546,
+    "wof:lastmodified":1454127450,
     "wof:name":"Clean Line",
     "wof:parent_id":85826445,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.157332,40.535333,-74.157332,40.535333],
+  "bbox": [
+    -74.157332,
+    40.535333,
+    -74.157332,
+    40.535333
+],
   "geometry": {"coordinates":[-74.157332,40.535333],"type":"Point"}
 }

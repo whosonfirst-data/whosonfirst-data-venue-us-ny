@@ -2,13 +2,14 @@
   "id": 353915081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.557041,40.676052,-73.557041,40.676052",
     "geom:latitude":40.676052,
     "geom:longitude":-73.557041,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1731 Merrick Ave",
     "sg:city":"Merrick",
     "sg:classifiers":[
@@ -38,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529153,
+        102191575,
+        404521473,
         85633793,
-        85979125,
-        102082371
+        85979047,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +55,20 @@
     "wof:geomhash":"d23a55b69a5829b74f44ccdfa896876d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979125,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979047,
+            "neighbourhood_id":420529153,
             "region_id":85688543,
             "venue_id":353915081
         }
     ],
     "wof:id":353915081,
-    "wof:lastmodified":1449020753,
+    "wof:lastmodified":1454126672,
     "wof:name":"T L C DAYCARE",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529153,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,6 +77,11 @@
         "day"
     ]
 },
-  "bbox": [-73.557041,40.676052,-73.557041,40.676052],
+  "bbox": [
+    -73.557041,
+    40.676052,
+    -73.557041,
+    40.676052
+],
   "geometry": {"coordinates":[-73.557041,40.676052],"type":"Point"}
 }

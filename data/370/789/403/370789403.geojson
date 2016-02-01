@@ -2,13 +2,14 @@
   "id": 370789403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.194624,43.04871,-76.194624,43.04871",
     "geom:latitude":43.04871,
     "geom:longitude":-76.194624,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"503 Myrtle St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     "sg:website":"http://www.appraisal-research.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881245,
+        102191575,
+        404522831,
         85633793,
         85977787,
         102082351,
-        85881245
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"9d6bf0a6d63afb71ac72dcf5e4ebc77f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522831,
             "locality_id":85977787,
             "neighbourhood_id":85881245,
             "region_id":85688543,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":370789403,
-    "wof:lastmodified":1449030623,
+    "wof:lastmodified":1454127765,
     "wof:name":"Appraisal Research Inc",
     "wof:parent_id":85881245,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-76.194624,43.04871,-76.194624,43.04871],
+  "bbox": [
+    -76.194624,
+    43.04871,
+    -76.194624,
+    43.04871
+],
   "geometry": {"coordinates":[-76.194624,43.04871],"type":"Point"}
 }

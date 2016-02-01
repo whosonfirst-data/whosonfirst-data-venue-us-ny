@@ -2,13 +2,14 @@
   "id": 387193561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.734027,42.657843,-73.734027,42.657843",
     "geom:latitude":42.657843,
     "geom:longitude":-73.734027,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23 Forbes Ave",
     "sg:city":"Rensselaer",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85843203,
+        102191575,
+        404523079,
         85633793,
+        85978343,
         102081773,
-        85843203
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"4e06d01bf5195a9e0e7e23132806158c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081773,
-            "locality_id":-1,
+            "localadmin_id":404523079,
+            "locality_id":85978343,
             "neighbourhood_id":85843203,
             "region_id":85688543,
             "venue_id":387193561
         }
     ],
     "wof:id":387193561,
-    "wof:lastmodified":1449056721,
+    "wof:lastmodified":1454129637,
     "wof:name":"Tr Cleaning",
     "wof:parent_id":85843203,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "janitor"
     ]
 },
-  "bbox": [-73.734027,42.657843,-73.734027,42.657843],
+  "bbox": [
+    -73.734027,
+    42.657843,
+    -73.734027,
+    42.657843
+],
   "geometry": {"coordinates":[-73.734027,42.657843],"type":"Point"}
 }

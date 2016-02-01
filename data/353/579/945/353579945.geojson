@@ -2,13 +2,14 @@
   "id": 353579945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.807015,40.988945,-73.807015,40.988945",
     "geom:latitude":40.988945,
     "geom:longitude":-73.807015,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Chase Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.goldschmidtandassociates.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893013,
+        102191575,
+        404523391,
         85633793,
         85978767,
         102082373,
-        85893013
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"86486df6871c60de98ebf9bda2ec784d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523391,
             "locality_id":85978767,
             "neighbourhood_id":85893013,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":353579945,
-    "wof:lastmodified":1449019070,
+    "wof:lastmodified":1454126187,
     "wof:name":"Goldschmidt & Assoc",
     "wof:parent_id":85893013,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.807015,40.988945,-73.807015,40.988945],
-  "geometry": {"coordinates":[-73.807015,40.988945],"type":"Point"}
+  "bbox": [
+    -73.807015,
+    40.988945,
+    -73.807015,
+    40.988945
+],
+  "geometry": {"coordinates":[-73.80701500000001,40.988945],"type":"Point"}
 }

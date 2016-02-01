@@ -2,13 +2,14 @@
   "id": 286570173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.985029,40.747647,-73.985029,40.747647",
     "geom:latitude":40.747647,
     "geom:longitude":-73.985029,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"321 5th Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869391,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85869391
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"c3f59cdb35872ee0dab046d56ceffdf0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869391,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":286570173,
-    "wof:lastmodified":1449016938,
+    "wof:lastmodified":1454125710,
     "wof:name":"Rapid Website Inc",
     "wof:parent_id":85869391,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "specialty"
     ]
 },
-  "bbox": [-73.985029,40.747647,-73.985029,40.747647],
+  "bbox": [
+    -73.985029,
+    40.747647,
+    -73.985029,
+    40.747647
+],
   "geometry": {"coordinates":[-73.985029,40.747647],"type":"Point"}
 }

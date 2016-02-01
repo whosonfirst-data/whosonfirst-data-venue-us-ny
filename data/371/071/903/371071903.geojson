@@ -2,13 +2,14 @@
   "id": 371071903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.861004,41.145066,-73.861004,41.145066",
     "geom:latitude":41.145066,
     "geom:longitude":-73.861004,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"238 S Highland Ave",
     "sg:city":"Ossining",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.baskinrobbins.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85850419,
+        102191575,
+        404523379,
         85633793,
         85978717,
         102082373,
-        85850419
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"c11c09087f8c00e0824d97a1f70c98ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523379,
             "locality_id":85978717,
             "neighbourhood_id":85850419,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":371071903,
-    "wof:lastmodified":1449049699,
+    "wof:lastmodified":1454129191,
     "wof:name":"Baskin-Robbins",
     "wof:parent_id":85850419,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.861004,41.145066,-73.861004,41.145066],
-  "geometry": {"coordinates":[-73.861004,41.145066],"type":"Point"}
+  "bbox": [
+    -73.861004,
+    41.145066,
+    -73.861004,
+    41.145066
+],
+  "geometry": {"coordinates":[-73.86100399999999,41.145066],"type":"Point"}
 }

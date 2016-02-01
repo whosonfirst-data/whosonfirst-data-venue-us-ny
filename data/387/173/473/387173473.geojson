@@ -2,13 +2,14 @@
   "id": 387173473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.891998,40.845839,-73.891998,40.845839",
     "geom:latitude":40.845839,
     "geom:longitude":-73.891998,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"641 E Tremont Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528057,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"668c9bb710b6369cd8f5832bbe4da14f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528057,
             "region_id":85688543,
             "venue_id":387173473
         }
     ],
     "wof:id":387173473,
-    "wof:lastmodified":1449056832,
+    "wof:lastmodified":1454129659,
     "wof:name":"KFC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.891998,40.845839,-73.891998,40.845839],
+  "bbox": [
+    -73.891998,
+    40.845839,
+    -73.891998,
+    40.845839
+],
   "geometry": {"coordinates":[-73.891998,40.845839],"type":"Point"}
 }

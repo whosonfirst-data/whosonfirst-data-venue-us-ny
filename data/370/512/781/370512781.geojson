@@ -2,13 +2,14 @@
   "id": 370512781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.975491,40.765172,-73.975491,40.765172",
     "geom:latitude":40.765172,
     "geom:longitude":-73.975491,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 Central Park S",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869487,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85869487
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"de828188280f167c8bfd94d521e52a39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869487,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":370512781,
-    "wof:lastmodified":1449031554,
+    "wof:lastmodified":1454128042,
     "wof:name":"Pen & Podium Inc",
     "wof:parent_id":85869487,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "book"
     ]
 },
-  "bbox": [-73.975491,40.765172,-73.975491,40.765172],
-  "geometry": {"coordinates":[-73.975491,40.765172],"type":"Point"}
+  "bbox": [
+    -73.975491,
+    40.765172,
+    -73.975491,
+    40.765172
+],
+  "geometry": {"coordinates":[-73.97549100000001,40.765172],"type":"Point"}
 }

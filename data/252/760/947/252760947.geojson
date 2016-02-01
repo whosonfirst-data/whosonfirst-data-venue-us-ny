@@ -2,13 +2,14 @@
   "id": 252760947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.849815,40.883235,-73.849815,40.883235",
     "geom:latitude":40.883235,
     "geom:longitude":-73.849815,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3934 Laconia Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865657,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865657
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"f887fc160c9ec5d1e0a6af59703be53d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865657,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":252760947,
-    "wof:lastmodified":1449006456,
+    "wof:lastmodified":1454124126,
     "wof:name":"Laconia Car Service",
     "wof:parent_id":85865657,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-73.849815,40.883235,-73.849815,40.883235],
-  "geometry": {"coordinates":[-73.849815,40.883235],"type":"Point"}
+  "bbox": [
+    -73.849815,
+    40.883235,
+    -73.849815,
+    40.883235
+],
+  "geometry": {"coordinates":[-73.84981500000001,40.883235],"type":"Point"}
 }

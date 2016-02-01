@@ -2,13 +2,14 @@
   "id": 354323131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.515303,40.732293,-73.515303,40.732293",
     "geom:latitude":40.732293,
     "geom:longitude":-73.515303,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"114 Hickory Ln",
     "sg:city":"Levittown",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"http://www.servicemagic.com/rated.JEDElectricalServices.12177722.AllCats.html?m=cahscitysrchxm&entry_point_id=479710",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,18 @@
     "wof:geomhash":"c8e2781dec5e3a8418a3dba44526b3fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":354323131
         }
     ],
     "wof:id":354323131,
-    "wof:lastmodified":1449066070,
+    "wof:lastmodified":1454130813,
     "wof:name":"JED Electrical Services",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "electric"
     ]
 },
-  "bbox": [-73.515303,40.732293,-73.515303,40.732293],
+  "bbox": [
+    -73.515303,
+    40.732293,
+    -73.515303,
+    40.732293
+],
   "geometry": {"coordinates":[-73.515303,40.732293],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303666785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.007089,40.728772,-74.007089,40.728772",
     "geom:latitude":40.728772,
     "geom:longitude":-74.007089,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"236 W Houston St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865687,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85856577
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +45,20 @@
     "wof:geomhash":"6979f916241975d4a85f579e42cd76d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85856577,
+            "neighbourhood_id":85865687,
             "region_id":85688543,
             "venue_id":303666785
         }
     ],
     "wof:id":303666785,
-    "wof:lastmodified":1448999015,
+    "wof:lastmodified":1454123296,
     "wof:name":"Aal-Hen Locksmith",
-    "wof:parent_id":85856577,
+    "wof:parent_id":85865687,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +67,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-74.007089,40.728772,-74.007089,40.728772],
-  "geometry": {"coordinates":[-74.007089,40.728772],"type":"Point"}
+  "bbox": [
+    -74.007089,
+    40.728772,
+    -74.007089,
+    40.728772
+],
+  "geometry": {"coordinates":[-74.00708899999999,40.728772],"type":"Point"}
 }

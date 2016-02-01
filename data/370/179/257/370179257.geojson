@@ -2,13 +2,14 @@
   "id": 370179257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.235304,40.843683,-73.235304,40.843683",
     "geom:latitude":40.843683,
     "geom:longitude":-73.235304,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 Bridge Branch Rd",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
-        85979919,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"f83b389b701cb452f1e8ef3314dfa353",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":370179257
         }
     ],
     "wof:id":370179257,
-    "wof:lastmodified":1449032127,
+    "wof:lastmodified":1454128208,
     "wof:name":"Miller Richard E Esq",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "injury"
     ]
 },
-  "bbox": [-73.235304,40.843683,-73.235304,40.843683],
+  "bbox": [
+    -73.235304,
+    40.843683,
+    -73.235304,
+    40.843683
+],
   "geometry": {"coordinates":[-73.235304,40.843683],"type":"Point"}
 }

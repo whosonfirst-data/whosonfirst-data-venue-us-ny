@@ -2,13 +2,14 @@
   "id": 286331111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.790427,40.927365,-73.790427,40.927365",
     "geom:latitude":40.927365,
     "geom:longitude":-73.790427,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Eastchester Rd",
     "sg:city":"New Rochelle",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805259,
+        102191575,
+        404523375,
         85633793,
         85978749,
         102082373,
-        85805259
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f7202dbed5a88cf67a69e46b2850e62a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523375,
             "locality_id":85978749,
             "neighbourhood_id":85805259,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":286331111,
-    "wof:lastmodified":1449016992,
+    "wof:lastmodified":1454125718,
     "wof:name":"Peter Wolfsie",
     "wof:parent_id":85805259,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "taxicab"
     ]
 },
-  "bbox": [-73.790427,40.927365,-73.790427,40.927365],
-  "geometry": {"coordinates":[-73.790427,40.927365],"type":"Point"}
+  "bbox": [
+    -73.790427,
+    40.927365,
+    -73.790427,
+    40.927365
+],
+  "geometry": {"coordinates":[-73.79042699999999,40.927365],"type":"Point"}
 }

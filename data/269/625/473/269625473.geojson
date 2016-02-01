@@ -2,13 +2,14 @@
   "id": 269625473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.540776,40.688069,-73.540776,40.688069",
     "geom:latitude":40.688069,
     "geom:longitude":-73.540776,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2477 Charles St",
     "sg:city":"North Bellmore",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"ee2fe6a169460e36536fb4141526f16d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":269625473
         }
     ],
     "wof:id":269625473,
-    "wof:lastmodified":1449039012,
+    "wof:lastmodified":1454128823,
     "wof:name":"Westwood Limousine",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "limousine"
     ]
 },
-  "bbox": [-73.540776,40.688069,-73.540776,40.688069],
-  "geometry": {"coordinates":[-73.540776,40.688069],"type":"Point"}
+  "bbox": [
+    -73.540776,
+    40.688069,
+    -73.540776,
+    40.688069
+],
+  "geometry": {"coordinates":[-73.54077599999999,40.688069],"type":"Point"}
 }

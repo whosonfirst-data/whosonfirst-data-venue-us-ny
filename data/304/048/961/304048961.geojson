@@ -2,13 +2,14 @@
   "id": 304048961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.900416,40.663806,-73.900416,40.663806",
     "geom:latitude":40.663806,
     "geom:longitude":-73.900416,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"454 Livonia Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85808127,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869421
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +52,20 @@
     "wof:geomhash":"9ac8799178fcd3fcca225a26d48dd22a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85869421,
+            "neighbourhood_id":85808127,
             "region_id":85688543,
             "venue_id":304048961
         }
     ],
     "wof:id":304048961,
-    "wof:lastmodified":1449043760,
+    "wof:lastmodified":1454128994,
     "wof:name":"Heritage Container Corp",
-    "wof:parent_id":85869421,
+    "wof:parent_id":85808127,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,6 +76,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.900416,40.663806,-73.900416,40.663806],
-  "geometry": {"coordinates":[-73.900416,40.663806],"type":"Point"}
+  "bbox": [
+    -73.900416,
+    40.663806,
+    -73.900416,
+    40.663806
+],
+  "geometry": {"coordinates":[-73.90041600000001,40.663806],"type":"Point"}
 }

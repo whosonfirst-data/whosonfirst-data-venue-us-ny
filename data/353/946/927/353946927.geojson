@@ -2,13 +2,14 @@
   "id": 353946927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.62426,40.653585,-73.62426,40.653585",
     "geom:latitude":40.653585,
     "geom:longitude":-73.62426,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"417 Merrick Rd",
     "sg:city":"Oceanside",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.intensekustomaudio.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892745,
+        102191575,
+        404521473,
         85633793,
         85979131,
         102082371,
-        85892745
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"314ca323a3f5298690cf56a2f9c7adcd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979131,
             "neighbourhood_id":85892745,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":353946927,
-    "wof:lastmodified":1449020499,
+    "wof:lastmodified":1454126599,
     "wof:name":"Intense Kustom Audio",
     "wof:parent_id":85892745,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "installation"
     ]
 },
-  "bbox": [-73.62426,40.653585,-73.62426,40.653585],
-  "geometry": {"coordinates":[-73.62426,40.653585],"type":"Point"}
+  "bbox": [
+    -73.62426,
+    40.653585,
+    -73.62426,
+    40.653585
+],
+  "geometry": {"coordinates":[-73.62426000000001,40.653585],"type":"Point"}
 }

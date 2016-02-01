@@ -2,13 +2,14 @@
   "id": 353950615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.639801,40.638699,-73.639801,40.638699",
     "geom:latitude":40.638699,
     "geom:longitude":-73.639801,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2951 Long Beach Rd",
     "sg:city":"Oceanside",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.narissidesigns.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892745,
+        102191575,
+        404521473,
         85633793,
         85979131,
         102082371,
-        85892745
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"726ade37cdd052cdc1439d94d9620044",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979131,
             "neighbourhood_id":85892745,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":353950615,
-    "wof:lastmodified":1449019261,
+    "wof:lastmodified":1454126240,
     "wof:name":"Narissi Furniture Gallery Inc",
     "wof:parent_id":85892745,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "store"
     ]
 },
-  "bbox": [-73.639801,40.638699,-73.639801,40.638699],
-  "geometry": {"coordinates":[-73.639801,40.638699],"type":"Point"}
+  "bbox": [
+    -73.639801,
+    40.638699,
+    -73.639801,
+    40.638699
+],
+  "geometry": {"coordinates":[-73.63980100000001,40.638699],"type":"Point"}
 }

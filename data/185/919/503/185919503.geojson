@@ -2,13 +2,14 @@
   "id": 185919503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.974454,40.604329,-73.974454,40.604329",
     "geom:latitude":40.604329,
     "geom:longitude":-73.974454,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"424 Kings Hwy",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85822643,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85822643
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"1ff2889c8847af95f25c17c8d95a4b58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85822643,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":185919503,
-    "wof:lastmodified":1449007833,
+    "wof:lastmodified":1454124303,
     "wof:name":"My Lab",
     "wof:parent_id":85822643,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-73.974454,40.604329,-73.974454,40.604329],
-  "geometry": {"coordinates":[-73.974454,40.604329],"type":"Point"}
+  "bbox": [
+    -73.974454,
+    40.604329,
+    -73.974454,
+    40.604329
+],
+  "geometry": {"coordinates":[-73.97445399999999,40.604329],"type":"Point"}
 }

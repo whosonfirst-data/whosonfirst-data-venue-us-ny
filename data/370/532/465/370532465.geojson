@@ -2,13 +2,14 @@
   "id": 370532465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.877693,41.010007,-73.877693,41.010007",
     "geom:latitude":41.010007,
     "geom:longitude":-73.877693,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"182 Broadway",
     "sg:city":"Dobbs Ferry",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85849177,
+        102191575,
+        404523359,
         85633793,
-        102082385,
-        85849177
+        85978743,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"d8e5bf9ddafacff3f271223330e4afc3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082385,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523359,
+            "locality_id":85978743,
             "neighbourhood_id":85849177,
             "region_id":85688543,
             "venue_id":370532465
         }
     ],
     "wof:id":370532465,
-    "wof:lastmodified":1449030237,
+    "wof:lastmodified":1454127654,
     "wof:name":"Westchester Carpet & Window",
     "wof:parent_id":85849177,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "carpet"
     ]
 },
-  "bbox": [-73.877693,41.010007,-73.877693,41.010007],
-  "geometry": {"coordinates":[-73.877693,41.010007],"type":"Point"}
+  "bbox": [
+    -73.877693,
+    41.010007,
+    -73.877693,
+    41.010007
+],
+  "geometry": {"coordinates":[-73.87769299999999,41.010007],"type":"Point"}
 }

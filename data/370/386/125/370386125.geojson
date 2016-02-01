@@ -2,13 +2,14 @@
   "id": 370386125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.867518,40.858611,-73.867518,40.858611",
     "geom:latitude":40.858611,
     "geom:longitude":-73.867518,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2232 White Plains Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807771,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85807771
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"3a49e69d6667e22199621fdb79ef27d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85807771,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370386125,
-    "wof:lastmodified":1449030859,
+    "wof:lastmodified":1454127834,
     "wof:name":"Wireless Team",
     "wof:parent_id":85807771,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "cellular"
     ]
 },
-  "bbox": [-73.867518,40.858611,-73.867518,40.858611],
+  "bbox": [
+    -73.867518,
+    40.858611,
+    -73.867518,
+    40.858611
+],
   "geometry": {"coordinates":[-73.867518,40.858611],"type":"Point"}
 }

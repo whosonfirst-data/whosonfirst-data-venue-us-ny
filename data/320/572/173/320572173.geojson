@@ -2,13 +2,14 @@
   "id": 320572173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.966743,40.807665,-73.966743,40.807665",
     "geom:latitude":40.807665,
     "geom:longitude":-73.966743,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"425 Riverside Dr",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869509,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85869509
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"09f3ee780db01014f7c4a186bdc6c02a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869509,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":320572173,
-    "wof:lastmodified":1449013536,
+    "wof:lastmodified":1454125133,
     "wof:name":"Judy Adelson",
     "wof:parent_id":85869509,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "family"
     ]
 },
-  "bbox": [-73.966743,40.807665,-73.966743,40.807665],
-  "geometry": {"coordinates":[-73.966743,40.807665],"type":"Point"}
+  "bbox": [
+    -73.966743,
+    40.807665,
+    -73.966743,
+    40.807665
+],
+  "geometry": {"coordinates":[-73.96674299999999,40.807665],"type":"Point"}
 }

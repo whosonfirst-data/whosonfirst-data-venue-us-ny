@@ -2,13 +2,14 @@
   "id": 387018265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.065474,40.594223,-74.065474,40.594223",
     "geom:latitude":40.594223,
     "geom:longitude":-74.065474,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"88 Robin Rd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85803627,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85803627
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"b2a272f6f117e1095b146e226eeb8a5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85803627,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":387018265,
-    "wof:lastmodified":1449058000,
+    "wof:lastmodified":1454129867,
     "wof:name":"Allied Sewer & Water Main",
     "wof:parent_id":85803627,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.065474,40.594223,-74.065474,40.594223],
-  "geometry": {"coordinates":[-74.065474,40.594223],"type":"Point"}
+  "bbox": [
+    -74.065474,
+    40.594223,
+    -74.065474,
+    40.594223
+],
+  "geometry": {"coordinates":[-74.06547399999999,40.594223],"type":"Point"}
 }

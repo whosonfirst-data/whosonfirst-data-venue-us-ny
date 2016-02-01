@@ -2,13 +2,14 @@
   "id": 304031891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.585699,40.762154,-73.585699,40.762154",
     "geom:latitude":40.762154,
     "geom:longitude":-73.585699,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"357 Rockland St",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893069,
+        102191575,
+        404522729,
         85633793,
-        85977735,
+        85979163,
         102082371,
-        85893069
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"a32e940268b6d7a8c20746725c4fbdb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977735,
+            "localadmin_id":404522729,
+            "locality_id":85979163,
             "neighbourhood_id":85893069,
             "region_id":85688543,
             "venue_id":304031891
         }
     ],
     "wof:id":304031891,
-    "wof:lastmodified":1449043791,
+    "wof:lastmodified":1454128998,
     "wof:name":"Westbury Recreation Dept",
     "wof:parent_id":85893069,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "parks"
     ]
 },
-  "bbox": [-73.585699,40.762154,-73.585699,40.762154],
-  "geometry": {"coordinates":[-73.585699,40.762154],"type":"Point"}
+  "bbox": [
+    -73.585699,
+    40.762154,
+    -73.585699,
+    40.762154
+],
+  "geometry": {"coordinates":[-73.58569900000001,40.762154],"type":"Point"}
 }

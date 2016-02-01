@@ -2,13 +2,14 @@
   "id": 354003693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.587502,40.754848,-73.587502,40.754848",
     "geom:latitude":40.754848,
     "geom:longitude":-73.587502,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"357B Scally Pl",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893069,
+        102191575,
+        404522729,
         85633793,
-        85977735,
+        85979163,
         102082371,
-        85893069
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +61,18 @@
     "wof:geomhash":"deef184203e592db3650f5a94d2c3a41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977735,
+            "localadmin_id":404522729,
+            "locality_id":85979163,
             "neighbourhood_id":85893069,
             "region_id":85688543,
             "venue_id":354003693
         }
     ],
     "wof:id":354003693,
-    "wof:lastmodified":1449067537,
+    "wof:lastmodified":1454131266,
     "wof:name":"Palm Services Corporation",
     "wof:parent_id":85893069,
     "wof:placetype":"venue",
@@ -85,6 +89,11 @@
         "cleaners-interior"
     ]
 },
-  "bbox": [-73.587502,40.754848,-73.587502,40.754848],
+  "bbox": [
+    -73.587502,
+    40.754848,
+    -73.587502,
+    40.754848
+],
   "geometry": {"coordinates":[-73.587502,40.754848],"type":"Point"}
 }

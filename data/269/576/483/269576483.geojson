@@ -2,13 +2,14 @@
   "id": 269576483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.923579,40.829467,-73.923579,40.829467",
     "geom:latitude":40.829467,
     "geom:longitude":-73.923579,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"950 Gerard Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865669,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865669
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ca934bce49e146e4328fbf655d8ef80d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865669,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":269576483,
-    "wof:lastmodified":1449038273,
+    "wof:lastmodified":1454128738,
     "wof:name":"Norton Pinzer",
     "wof:parent_id":85865669,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "attorney"
     ]
 },
-  "bbox": [-73.923579,40.829467,-73.923579,40.829467],
+  "bbox": [
+    -73.923579,
+    40.829467,
+    -73.923579,
+    40.829467
+],
   "geometry": {"coordinates":[-73.923579,40.829467],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303945537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993131,40.713191,-73.993131,40.713191",
     "geom:latitude":40.713191,
     "geom:longitude":-73.993131,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"93 Henry St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810885,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810885
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"9eed7077bfaf1a4d54afa9383c776f70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810885,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303945537,
-    "wof:lastmodified":1448998324,
+    "wof:lastmodified":1454123058,
     "wof:name":"Wing San",
     "wof:parent_id":85810885,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "tire"
     ]
 },
-  "bbox": [-73.993131,40.713191,-73.993131,40.713191],
-  "geometry": {"coordinates":[-73.993131,40.713191],"type":"Point"}
+  "bbox": [
+    -73.993131,
+    40.713191,
+    -73.993131,
+    40.713191
+],
+  "geometry": {"coordinates":[-73.99313100000001,40.713191],"type":"Point"}
 }

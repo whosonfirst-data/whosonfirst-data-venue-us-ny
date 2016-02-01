@@ -2,13 +2,14 @@
   "id": 370553807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.504145,42.626016,-76.504145,42.626016",
     "geom:latitude":42.626016,
     "geom:longitude":-76.504145,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"625 Sill Rd",
     "sg:city":"Genoa",
     "sg:classifiers":[
@@ -36,8 +37,10 @@
     "sg:website":"www.stonewellbodies.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85831679,
+        102082355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +50,17 @@
     "wof:geomhash":"c79214e4dbca38843ee3b284154bedf1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082355,
+            "neighbourhood_id":85831679,
             "region_id":85688543,
             "venue_id":370553807
         }
     ],
     "wof:id":370553807,
-    "wof:lastmodified":1449029079,
+    "wof:lastmodified":1454127313,
     "wof:name":"Stone Well Bodies & Equip Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831679,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +71,11 @@
         "truck"
     ]
 },
-  "bbox": [-76.504145,42.626016,-76.504145,42.626016],
-  "geometry": {"coordinates":[-76.504145,42.626016],"type":"Point"}
+  "bbox": [
+    -76.504145,
+    42.626016,
+    -76.504145,
+    42.626016
+],
+  "geometry": {"coordinates":[-76.50414499999999,42.626016],"type":"Point"}
 }

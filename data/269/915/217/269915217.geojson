@@ -2,13 +2,14 @@
   "id": 269915217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.046844,43.250401,-79.046844,43.250401",
     "geom:latitude":43.250401,
     "geom:longitude":-79.046844,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Lockport Rd",
     "sg:city":"Youngstown",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820171,
+        102191575,
+        404522749,
         85633793,
+        85978265,
         102081767,
-        85820171
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"5fef6bce4579d576588eee1c44477233",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
-            "locality_id":-1,
+            "localadmin_id":404522749,
+            "locality_id":85978265,
             "neighbourhood_id":85820171,
             "region_id":85688543,
             "venue_id":269915217
         }
     ],
     "wof:id":269915217,
-    "wof:lastmodified":1449038928,
+    "wof:lastmodified":1454128810,
     "wof:name":"Market Place",
     "wof:parent_id":85820171,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.046844,43.250401,-79.046844,43.250401],
-  "geometry": {"coordinates":[-79.046844,43.250401],"type":"Point"}
+  "bbox": [
+    -79.046844,
+    43.250401,
+    -79.046844,
+    43.250401
+],
+  "geometry": {"coordinates":[-79.04684399999999,43.250401],"type":"Point"}
 }

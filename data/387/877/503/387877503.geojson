@@ -2,13 +2,14 @@
   "id": 387877503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.823707,42.847733,-78.823707,42.847733",
     "geom:latitude":42.847733,
     "geom:longitude":-78.823707,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1847 S Park Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872911,
+        102191575,
+        404522329,
         85633793,
         85978023,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"dd6d5f040cba01ffe67d5d53be1e02bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85872911,
             "region_id":85688543,
             "venue_id":387877503
         }
     ],
     "wof:id":387877503,
-    "wof:lastmodified":1449058789,
+    "wof:lastmodified":1454130007,
     "wof:name":"Buffalo Police Dept- A Dst",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872911,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "protection"
     ]
 },
-  "bbox": [-78.823707,42.847733,-78.823707,42.847733],
+  "bbox": [
+    -78.823707,
+    42.847733,
+    -78.823707,
+    42.847733
+],
   "geometry": {"coordinates":[-78.823707,42.847733],"type":"Point"}
 }

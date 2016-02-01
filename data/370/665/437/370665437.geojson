@@ -2,13 +2,14 @@
   "id": 370665437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.267207,41.336267,-74.267207,41.336267",
     "geom:latitude":41.336267,
     "geom:longitude":-74.267207,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"203 Laroe Rd",
     "sg:city":"Chester",
     "sg:classifiers":[
@@ -27,8 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85978169,
+        102083061,
+        85816113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +42,18 @@
     "wof:geomhash":"d52dc0a0fcfdf5683647f0bc42ecb5d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083061,
+            "locality_id":85978169,
+            "neighbourhood_id":85816113,
             "region_id":85688543,
             "venue_id":370665437
         }
     ],
     "wof:id":370665437,
-    "wof:lastmodified":1449030132,
+    "wof:lastmodified":1454127622,
     "wof:name":"Notman William P Fine Masonry",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816113,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.267207,41.336267,-74.267207,41.336267],
+  "bbox": [
+    -74.267207,
+    41.336267,
+    -74.267207,
+    41.336267
+],
   "geometry": {"coordinates":[-74.267207,41.336267],"type":"Point"}
 }

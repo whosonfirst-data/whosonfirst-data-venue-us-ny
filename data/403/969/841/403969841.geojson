@@ -2,13 +2,14 @@
   "id": 403969841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.642488,43.332305,-73.642488,43.332305",
     "geom:latitude":43.332305,
     "geom:longitude":-73.642488,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"159 Meadowbrook Rd",
     "sg:city":"Queensbury",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840433,
+        102191575,
+        404523293,
         85633793,
         85980107,
-        102081791
+        102081791,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"b8a10e052589ab164edc8115d32d4f8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081791,
+            "localadmin_id":404523293,
             "locality_id":85980107,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85840433,
             "region_id":85688543,
             "venue_id":403969841
         }
     ],
     "wof:id":403969841,
-    "wof:lastmodified":1449054965,
+    "wof:lastmodified":1454129372,
     "wof:name":"Pizazz Painting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85840433,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-73.642488,43.332305,-73.642488,43.332305],
+  "bbox": [
+    -73.642488,
+    43.332305,
+    -73.642488,
+    43.332305
+],
   "geometry": {"coordinates":[-73.642488,43.332305],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303139065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.135429,41.102296,-74.135429,41.102296",
     "geom:latitude":41.102296,
     "geom:longitude":-74.135429,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"205 Parkside Dr",
     "sg:city":"Suffern",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420559409,
+        102191575,
+        404523097,
         85633793,
         85978523,
-        102082385
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"974f32458333077f6d6e4bebf542f18a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523097,
             "locality_id":85978523,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420559409,
             "region_id":85688543,
             "venue_id":303139065
         }
     ],
     "wof:id":303139065,
-    "wof:lastmodified":1448998354,
+    "wof:lastmodified":1454123067,
     "wof:name":"Custom Car Detailing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420559409,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "clean"
     ]
 },
-  "bbox": [-74.135429,41.102296,-74.135429,41.102296],
+  "bbox": [
+    -74.135429,
+    41.102296,
+    -74.135429,
+    41.102296
+],
   "geometry": {"coordinates":[-74.135429,41.102296],"type":"Point"}
 }

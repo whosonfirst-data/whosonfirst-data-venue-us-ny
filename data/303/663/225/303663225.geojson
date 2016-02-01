@@ -2,13 +2,14 @@
   "id": 303663225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.8141,40.942719,-73.8141,40.942719",
     "geom:latitude":40.942719,
     "geom:longitude":-73.8141,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"89 Ridge St",
     "sg:city":"Eastchester",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530381,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"43e0c1a9ddaa52fea5e7cc3f8e33040e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530381,
             "region_id":85688543,
             "venue_id":303663225
         }
     ],
     "wof:id":303663225,
-    "wof:lastmodified":1448999918,
+    "wof:lastmodified":1454123544,
     "wof:name":"Stephen Kay Doug Smith Golf",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530381,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "course"
     ]
 },
-  "bbox": [-73.8141,40.942719,-73.8141,40.942719],
+  "bbox": [
+    -73.8141,
+    40.942719,
+    -73.8141,
+    40.942719
+],
   "geometry": {"coordinates":[-73.8141,40.942719],"type":"Point"}
 }

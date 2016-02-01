@@ -2,13 +2,14 @@
   "id": 370320139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.810858,40.852374,-72.810858,40.852374",
     "geom:latitude":40.852374,
     "geom:longitude":-72.810858,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 Silas Woods Rd",
     "sg:city":"Manorville",
     "sg:classifiers":[
@@ -84,10 +85,13 @@
     "sg:website":"https://smclean.custhelp.com/cgi-bin/smclean.cfg/php/enduser/doc_serve.php?2=DR_YP",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530021,
+        102191575,
+        404521441,
         85633793,
         85979761,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,19 +101,20 @@
     "wof:geomhash":"fb9d743c16466245954d543fd81a489e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530021,
             "region_id":85688543,
             "venue_id":370320139
         }
     ],
     "wof:id":370320139,
-    "wof:lastmodified":1449029951,
+    "wof:lastmodified":1454127566,
     "wof:name":"ServiceMaster Clean",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530021,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -143,6 +148,11 @@
         "polishing"
     ]
 },
-  "bbox": [-72.810858,40.852374,-72.810858,40.852374],
+  "bbox": [
+    -72.810858,
+    40.852374,
+    -72.810858,
+    40.852374
+],
   "geometry": {"coordinates":[-72.810858,40.852374],"type":"Point"}
 }

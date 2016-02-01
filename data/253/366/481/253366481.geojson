@@ -2,13 +2,14 @@
   "id": 253366481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.751191,41.07047,-73.751191,41.07047",
     "geom:latitude":41.07047,
     "geom:longitude":-73.751191,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1606 Old Orchard St",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893089,
+        102191575,
+        404523361,
         85633793,
-        85978761,
+        85978735,
         102082373,
-        85893089
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"ab2db18961e6d3d7522c5f5f36238804",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978761,
+            "localadmin_id":404523361,
+            "locality_id":85978735,
             "neighbourhood_id":85893089,
             "region_id":85688543,
             "venue_id":253366481
         }
     ],
     "wof:id":253366481,
-    "wof:lastmodified":1449064986,
+    "wof:lastmodified":1454130611,
     "wof:name":"Rye Lake Campus",
     "wof:parent_id":85893089,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "special"
     ]
 },
-  "bbox": [-73.751191,41.07047,-73.751191,41.07047],
-  "geometry": {"coordinates":[-73.751191,41.07047],"type":"Point"}
+  "bbox": [
+    -73.751191,
+    41.07047,
+    -73.751191,
+    41.07047
+],
+  "geometry": {"coordinates":[-73.75119100000001,41.07047],"type":"Point"}
 }

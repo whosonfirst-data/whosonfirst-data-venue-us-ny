@@ -2,13 +2,14 @@
   "id": 270178813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.091955,41.518462,-74.091955,41.518462",
     "geom:latitude":41.518462,
     "geom:longitude":-74.091955,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"131 Fletcher Dr N",
     "sg:city":"Newburgh",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85821091,
+        102191575,
+        404522913,
         85633793,
-        85979515,
-        102083061
+        85979519,
+        102083061,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"a7c637b6f260b9e0fa45d8d3ef304b33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":85979515,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522913,
+            "locality_id":85979519,
+            "neighbourhood_id":85821091,
             "region_id":85688543,
             "venue_id":270178813
         }
     ],
     "wof:id":270178813,
-    "wof:lastmodified":1449010407,
+    "wof:lastmodified":1454124630,
     "wof:name":"Hudson Valley Trend Setters",
-    "wof:parent_id":-1,
+    "wof:parent_id":85821091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.091955,41.518462,-74.091955,41.518462],
+  "bbox": [
+    -74.091955,
+    41.518462,
+    -74.091955,
+    41.518462
+],
   "geometry": {"coordinates":[-74.091955,41.518462],"type":"Point"}
 }

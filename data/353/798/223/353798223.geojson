@@ -2,13 +2,14 @@
   "id": 353798223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.582518,43.163813,-77.582518,43.163813",
     "geom:latitude":43.163813,
     "geom:longitude":-77.582518,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"500 Goodman St N",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868845,
+        102191575,
+        404521467,
         85633793,
         85977591,
-        102081815
+        102081815,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"017b1a9bb209c89c8bc59fa9cf8e52a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85868845,
             "region_id":85688543,
             "venue_id":353798223
         }
     ],
     "wof:id":353798223,
-    "wof:lastmodified":1449018722,
+    "wof:lastmodified":1454126085,
     "wof:name":"Veteran Offset Printing Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85868845,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "commercial"
     ]
 },
-  "bbox": [-77.582518,43.163813,-77.582518,43.163813],
-  "geometry": {"coordinates":[-77.582518,43.163813],"type":"Point"}
+  "bbox": [
+    -77.582518,
+    43.163813,
+    -77.582518,
+    43.163813
+],
+  "geometry": {"coordinates":[-77.58251799999999,43.163813],"type":"Point"}
 }

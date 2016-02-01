@@ -2,13 +2,14 @@
   "id": 253468819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.980111,40.770528,-73.980111,40.770528",
     "geom:latitude":40.770528,
     "geom:longitude":-73.980111,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"24 W 63 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529187,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"835fcf0a82c9c44c8e25fcd0a913d115",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529187,
             "region_id":85688543,
             "venue_id":253468819
         }
     ],
     "wof:id":253468819,
-    "wof:lastmodified":1449064952,
+    "wof:lastmodified":1454130603,
     "wof:name":"Marionette Theatre",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529187,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.980111,40.770528,-73.980111,40.770528],
-  "geometry": {"coordinates":[-73.980111,40.770528],"type":"Point"}
+  "bbox": [
+    -73.980111,
+    40.770528,
+    -73.980111,
+    40.770528
+],
+  "geometry": {"coordinates":[-73.98011099999999,40.770528],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185675799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.983404,40.673041,-73.983404,40.673041",
     "geom:latitude":40.673041,
     "geom:longitude":-73.983404,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"322 5th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.brentonrealty.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840609,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85840609
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"a4f2a8ac77035e4afe7507f7f7a13b73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85840609,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":185675799,
-    "wof:lastmodified":1449007457,
+    "wof:lastmodified":1454124255,
     "wof:name":"Brenton Realty Comp",
     "wof:parent_id":85840609,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "property"
     ]
 },
-  "bbox": [-73.983404,40.673041,-73.983404,40.673041],
-  "geometry": {"coordinates":[-73.983404,40.673041],"type":"Point"}
+  "bbox": [
+    -73.983404,
+    40.673041,
+    -73.983404,
+    40.673041
+],
+  "geometry": {"coordinates":[-73.98340399999999,40.673041],"type":"Point"}
 }

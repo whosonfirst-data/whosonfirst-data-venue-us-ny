@@ -2,13 +2,14 @@
   "id": 354205653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.038402,40.833201,-73.038402,40.833201",
     "geom:latitude":40.833201,
     "geom:longitude":-73.038402,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"628 Horseblock Rd",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://www.dunkindonuts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"5ecea8ad75c3b66dc1c538226fc6be71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354205653
         }
     ],
     "wof:id":354205653,
-    "wof:lastmodified":1449066959,
+    "wof:lastmodified":1454131087,
     "wof:name":"Dunkin' Donuts",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "restaurant"
     ]
 },
-  "bbox": [-73.038402,40.833201,-73.038402,40.833201],
+  "bbox": [
+    -73.038402,
+    40.833201,
+    -73.038402,
+    40.833201
+],
   "geometry": {"coordinates":[-73.038402,40.833201],"type":"Point"}
 }

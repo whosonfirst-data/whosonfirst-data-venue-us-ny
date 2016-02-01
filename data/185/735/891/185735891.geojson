@@ -2,13 +2,14 @@
   "id": 185735891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.984392,40.639175,-73.984392,40.639175",
     "geom:latitude":40.639175,
     "geom:longitude":-73.984392,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3902 14th Avenue",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"5867190f0829e7e3a29ad721e70a1f39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":185735891
         }
     ],
     "wof:id":185735891,
-    "wof:lastmodified":1449008151,
+    "wof:lastmodified":1454124345,
     "wof:name":"Evergreen Funding Company of Ny",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-73.984392,40.639175,-73.984392,40.639175],
+  "bbox": [
+    -73.984392,
+    40.639175,
+    -73.984392,
+    40.639175
+],
   "geometry": {"coordinates":[-73.984392,40.639175],"type":"Point"}
 }

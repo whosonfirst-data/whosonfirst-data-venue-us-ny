@@ -2,13 +2,14 @@
   "id": 370966513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.93451,42.463646,-78.93451,42.463646",
     "geom:latitude":42.463646,
     "geom:longitude":-78.93451,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 E Main St",
     "sg:city":"Gowanda",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528635,
+        102191575,
+        404521791,
         85633793,
         85977571,
-        102081853
+        102081853,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"756778f9dabafb80d3105b2e90f5d27e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081853,
+            "localadmin_id":404521791,
             "locality_id":85977571,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528635,
             "region_id":85688543,
             "venue_id":370966513
         }
     ],
     "wof:id":370966513,
-    "wof:lastmodified":1449029085,
+    "wof:lastmodified":1454127314,
     "wof:name":"Calming Touch",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528635,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "massage"
     ]
 },
-  "bbox": [-78.93451,42.463646,-78.93451,42.463646],
+  "bbox": [
+    -78.93451,
+    42.463646,
+    -78.93451,
+    42.463646
+],
   "geometry": {"coordinates":[-78.93451,42.463646],"type":"Point"}
 }

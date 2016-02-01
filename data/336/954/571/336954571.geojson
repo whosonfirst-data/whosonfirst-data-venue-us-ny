@@ -2,13 +2,14 @@
   "id": 336954571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.542908,41.556599,-73.542908,41.556599",
     "geom:latitude":41.556599,
     "geom:longitude":-73.542908,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Kirby Hill Rd",
     "sg:city":"Pawling",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85826627,
+        102082363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"4ded4b5f2f06a20d4aa22fd5c0a45ae2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "neighbourhood_id":85826627,
             "region_id":85688543,
             "venue_id":336954571
         }
     ],
     "wof:id":336954571,
-    "wof:lastmodified":1448997884,
+    "wof:lastmodified":1454122911,
     "wof:name":"Cogi Horse Farm LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826627,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "dealer"
     ]
 },
-  "bbox": [-73.542908,41.556599,-73.542908,41.556599],
+  "bbox": [
+    -73.542908,
+    41.556599,
+    -73.542908,
+    41.556599
+],
   "geometry": {"coordinates":[-73.542908,41.556599],"type":"Point"}
 }

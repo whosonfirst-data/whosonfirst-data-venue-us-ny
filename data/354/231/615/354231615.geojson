@@ -2,13 +2,14 @@
   "id": 354231615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.409698,40.878502,-73.409698,40.878502",
     "geom:latitude":40.878502,
     "geom:longitude":-73.409698,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"71 E Main St",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820109,
+        102191575,
+        404522515,
         85633793,
-        85979675,
+        85979787,
         102082395,
-        85820109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"dce701d682507b121ecadbeb405c9f6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979675,
+            "localadmin_id":404522515,
+            "locality_id":85979787,
             "neighbourhood_id":85820109,
             "region_id":85688543,
             "venue_id":354231615
         }
     ],
     "wof:id":354231615,
-    "wof:lastmodified":1449066797,
+    "wof:lastmodified":1454131034,
     "wof:name":"Digital Solutions",
     "wof:parent_id":85820109,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "sitting"
     ]
 },
-  "bbox": [-73.409698,40.878502,-73.409698,40.878502],
-  "geometry": {"coordinates":[-73.409698,40.878502],"type":"Point"}
+  "bbox": [
+    -73.409698,
+    40.878502,
+    -73.409698,
+    40.878502
+],
+  "geometry": {"coordinates":[-73.40969800000001,40.878502],"type":"Point"}
 }

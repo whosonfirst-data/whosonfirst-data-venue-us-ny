@@ -2,13 +2,14 @@
   "id": 270355297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.81028,40.986289,-73.81028,40.986289",
     "geom:latitude":40.986289,
     "geom:longitude":-73.81028,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"60 Garth Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530443,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"c39bca513e24cb88fa02974f090f4985",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530443,
             "region_id":85688543,
             "venue_id":270355297
         }
     ],
     "wof:id":270355297,
-    "wof:lastmodified":1449009296,
+    "wof:lastmodified":1454124465,
     "wof:name":"Dynamic Communications",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530443,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "radiotelephone"
     ]
 },
-  "bbox": [-73.81028,40.986289,-73.81028,40.986289],
-  "geometry": {"coordinates":[-73.81028,40.986289],"type":"Point"}
+  "bbox": [
+    -73.81028,
+    40.986289,
+    -73.81028,
+    40.986289
+],
+  "geometry": {"coordinates":[-73.81028000000001,40.986289],"type":"Point"}
 }

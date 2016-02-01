@@ -2,13 +2,14 @@
   "id": 354204849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.030602,40.8312,-73.030602,40.8312",
     "geom:latitude":40.8312,
     "geom:longitude":-73.030602,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"830 Horseblock Rd",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"2d71f398d91f9c4af8898c04c2052d3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354204849
         }
     ],
     "wof:id":354204849,
-    "wof:lastmodified":1449067695,
+    "wof:lastmodified":1454131319,
     "wof:name":"Village Pub",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "nightlife"
     ]
 },
-  "bbox": [-73.030602,40.8312,-73.030602,40.8312],
+  "bbox": [
+    -73.030602,
+    40.8312,
+    -73.030602,
+    40.8312
+],
   "geometry": {"coordinates":[-73.030602,40.8312],"type":"Point"}
 }

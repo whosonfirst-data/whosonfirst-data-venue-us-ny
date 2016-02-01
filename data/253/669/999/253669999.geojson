@@ -2,13 +2,14 @@
   "id": 253669999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.811919,42.699262,-73.811919,42.699262",
     "geom:latitude":42.699262,
     "geom:longitude":-73.811919,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1272 Central Ave",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -25,8 +26,10 @@
     "sg:website":"www.gentiva.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85837359,
+        102082353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,23 +39,27 @@
     "wof:geomhash":"ff9e8ee31d3f94ddcd3ebd62ae123ca1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082353,
+            "neighbourhood_id":85837359,
             "region_id":85688543,
             "venue_id":253669999
         }
     ],
     "wof:id":253669999,
-    "wof:lastmodified":1449063160,
+    "wof:lastmodified":1454130300,
     "wof:name":"Gentiva Health Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85837359,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.811919,42.699262,-73.811919,42.699262],
+  "bbox": [
+    -73.811919,
+    42.699262,
+    -73.811919,
+    42.699262
+],
   "geometry": {"coordinates":[-73.811919,42.699262],"type":"Point"}
 }

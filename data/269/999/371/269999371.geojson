@@ -2,13 +2,14 @@
   "id": 269999371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.133671,40.63772,-74.133671,40.63772",
     "geom:latitude":40.63772,
     "geom:longitude":-74.133671,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"156 Port Richmond Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85842829,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85842829
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"be5e3a2077d66ac07335f15f7d5eed33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85842829,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":269999371,
-    "wof:lastmodified":1449038611,
+    "wof:lastmodified":1454128773,
     "wof:name":"C H Martin",
     "wof:parent_id":85842829,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "variety"
     ]
 },
-  "bbox": [-74.133671,40.63772,-74.133671,40.63772],
-  "geometry": {"coordinates":[-74.133671,40.63772],"type":"Point"}
+  "bbox": [
+    -74.133671,
+    40.63772,
+    -74.133671,
+    40.63772
+],
+  "geometry": {"coordinates":[-74.13367100000001,40.63772],"type":"Point"}
 }

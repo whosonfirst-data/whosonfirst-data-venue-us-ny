@@ -2,13 +2,14 @@
   "id": 370958757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.784181,40.909247,-73.784181,40.909247",
     "geom:latitude":40.909247,
     "geom:longitude":-73.784181,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"328 Huguenot St",
     "sg:city":"New Rochelle",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85827133,
+        102191575,
+        404523375,
         85633793,
         85978749,
         102082373,
-        85827133
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"4304fcbd568539991692062e935024a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523375,
             "locality_id":85978749,
             "neighbourhood_id":85827133,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":370958757,
-    "wof:lastmodified":1449031738,
+    "wof:lastmodified":1454128093,
     "wof:name":"Little Ranch",
     "wof:parent_id":85827133,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "western"
     ]
 },
-  "bbox": [-73.784181,40.909247,-73.784181,40.909247],
+  "bbox": [
+    -73.784181,
+    40.909247,
+    -73.784181,
+    40.909247
+],
   "geometry": {"coordinates":[-73.784181,40.909247],"type":"Point"}
 }

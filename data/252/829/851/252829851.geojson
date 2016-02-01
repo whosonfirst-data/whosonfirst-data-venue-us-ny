@@ -2,13 +2,14 @@
   "id": 252829851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.558856,40.962344,-72.558856,40.962344",
     "geom:latitude":40.962344,
     "geom:longitude":-72.558856,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"475 Condor Ct",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85838351,
+        102191575,
+        404522663,
         85633793,
-        85979879,
+        85979671,
         102082395,
-        85838351
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"013b7574488f7a2ac2aa4b9f528c3e9e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979879,
+            "localadmin_id":404522663,
+            "locality_id":85979671,
             "neighbourhood_id":85838351,
             "region_id":85688543,
             "venue_id":252829851
         }
     ],
     "wof:id":252829851,
-    "wof:lastmodified":1449006435,
+    "wof:lastmodified":1454124123,
     "wof:name":"Cranberry Hill B & B",
     "wof:parent_id":85838351,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "bed"
     ]
 },
-  "bbox": [-72.558856,40.962344,-72.558856,40.962344],
-  "geometry": {"coordinates":[-72.558856,40.962344],"type":"Point"}
+  "bbox": [
+    -72.558856,
+    40.962344,
+    -72.558856,
+    40.962344
+],
+  "geometry": {"coordinates":[-72.55885600000001,40.962344],"type":"Point"}
 }

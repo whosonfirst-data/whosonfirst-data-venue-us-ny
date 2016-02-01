@@ -2,13 +2,14 @@
   "id": 370247797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.509718,40.679067,-73.509718,40.679067",
     "geom:latitude":40.679067,
     "geom:longitude":-73.509718,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1736 Wantagh Ave",
     "sg:city":"Wantagh",
     "sg:classifiers":[
@@ -43,11 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893065,
+        102191575,
+        404521473,
         85633793,
         85979065,
         102082371,
-        85893065
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,9 +60,10 @@
     "wof:geomhash":"82f21348078808d8c4c393759e069011",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979065,
             "neighbourhood_id":85893065,
             "region_id":85688543,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":370247797,
-    "wof:lastmodified":1449031061,
+    "wof:lastmodified":1454127895,
     "wof:name":"Max Cantor",
     "wof:parent_id":85893065,
     "wof:placetype":"venue",
@@ -83,6 +87,11 @@
         "replacement"
     ]
 },
-  "bbox": [-73.509718,40.679067,-73.509718,40.679067],
-  "geometry": {"coordinates":[-73.509718,40.679067],"type":"Point"}
+  "bbox": [
+    -73.509718,
+    40.679067,
+    -73.509718,
+    40.679067
+],
+  "geometry": {"coordinates":[-73.50971800000001,40.679067],"type":"Point"}
 }

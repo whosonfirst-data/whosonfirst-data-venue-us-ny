@@ -2,13 +2,14 @@
   "id": 354073433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.762542,43.309377,-78.762542,43.309377",
     "geom:latitude":43.309377,
     "geom:longitude":-78.762542,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4520 Wilson Burt Rd",
     "sg:city":"Wilson",
     "sg:classifiers":[
@@ -24,8 +25,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85816941,
+        102081767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +38,27 @@
     "wof:geomhash":"224ef77d247108279539bd5a8db519ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081767,
+            "neighbourhood_id":85816941,
             "region_id":85688543,
             "venue_id":354073433
         }
     ],
     "wof:id":354073433,
-    "wof:lastmodified":1449066165,
+    "wof:lastmodified":1454130843,
     "wof:name":"Zehrs Farm Market & Nursey",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816941,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.762542,43.309377,-78.762542,43.309377],
+  "bbox": [
+    -78.762542,
+    43.309377,
+    -78.762542,
+    43.309377
+],
   "geometry": {"coordinates":[-78.762542,43.309377],"type":"Point"}
 }

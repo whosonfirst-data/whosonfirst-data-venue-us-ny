@@ -2,13 +2,14 @@
   "id": 354217881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.526558,40.692616,-73.526558,40.692616",
     "geom:latitude":40.692616,
     "geom:longitude":-73.526558,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1192 Oakfield Ave",
     "sg:city":"Wantagh",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893061,
+        102191575,
+        404521473,
         85633793,
-        85979065,
+        85979059,
         102082371,
-        85893061
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"48110a47694c1b8ad56816311315d2b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979065,
+            "localadmin_id":404521473,
+            "locality_id":85979059,
             "neighbourhood_id":85893061,
             "region_id":85688543,
             "venue_id":354217881
         }
     ],
     "wof:id":354217881,
-    "wof:lastmodified":1449067574,
+    "wof:lastmodified":1454131277,
     "wof:name":"Us Nails",
     "wof:parent_id":85893061,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "manicuring"
     ]
 },
-  "bbox": [-73.526558,40.692616,-73.526558,40.692616],
-  "geometry": {"coordinates":[-73.526558,40.692616],"type":"Point"}
+  "bbox": [
+    -73.526558,
+    40.692616,
+    -73.526558,
+    40.692616
+],
+  "geometry": {"coordinates":[-73.52655799999999,40.692616],"type":"Point"}
 }

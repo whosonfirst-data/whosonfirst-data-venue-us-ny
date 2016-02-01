@@ -2,13 +2,14 @@
   "id": 320152785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.111788,40.782178,-73.111788,40.782178",
     "geom:latitude":40.782178,
     "geom:longitude":-73.111788,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1560 Lakeland Ave",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"5b9b5fb5e3bcbdf51f1501c18215b86b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":320152785
         }
     ],
     "wof:id":320152785,
-    "wof:lastmodified":1449014108,
+    "wof:lastmodified":1454125224,
     "wof:name":"Champion Glass Inc",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "replacement"
     ]
 },
-  "bbox": [-73.111788,40.782178,-73.111788,40.782178],
+  "bbox": [
+    -73.111788,
+    40.782178,
+    -73.111788,
+    40.782178
+],
   "geometry": {"coordinates":[-73.111788,40.782178],"type":"Point"}
 }

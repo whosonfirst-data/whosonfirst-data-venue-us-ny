@@ -2,13 +2,14 @@
   "id": 337394447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.810188,40.756824,-73.810188,40.756824",
     "geom:latitude":40.756824,
     "geom:longitude":-73.810188,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14714 45th Ave",
     "sg:city":"Flushing",
     "sg:classifiers":[
@@ -45,11 +46,13 @@
     "sg:website":"http://www.papajohns.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819703,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819703
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,9 +62,10 @@
     "wof:geomhash":"810bd2f990fbc0bede9a95c3ce20497c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819703,
             "region_id":85688543,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":337394447,
-    "wof:lastmodified":1449027079,
+    "wof:lastmodified":1454126921,
     "wof:name":"Papa John's Pizza",
     "wof:parent_id":85819703,
     "wof:placetype":"venue",
@@ -81,6 +85,11 @@
         "pizza"
     ]
 },
-  "bbox": [-73.810188,40.756824,-73.810188,40.756824],
+  "bbox": [
+    -73.810188,
+    40.756824,
+    -73.810188,
+    40.756824
+],
   "geometry": {"coordinates":[-73.810188,40.756824],"type":"Point"}
 }

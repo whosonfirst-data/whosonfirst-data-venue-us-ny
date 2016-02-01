@@ -2,13 +2,14 @@
   "id": 354234911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.424078,40.86698,-73.424078,40.86698",
     "geom:latitude":40.86698,
     "geom:longitude":-73.424078,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"445 New York Ave",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820109,
+        102191575,
+        404522515,
         85633793,
-        85979675,
+        85979787,
         102082395,
-        85820109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"2a58ea2490b6295b1dfc2578731c5578",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979675,
+            "localadmin_id":404522515,
+            "locality_id":85979787,
             "neighbourhood_id":85820109,
             "region_id":85688543,
             "venue_id":354234911
         }
     ],
     "wof:id":354234911,
-    "wof:lastmodified":1449067585,
+    "wof:lastmodified":1454131282,
     "wof:name":"Town & Country Hairdressers",
     "wof:parent_id":85820109,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "stylist"
     ]
 },
-  "bbox": [-73.424078,40.86698,-73.424078,40.86698],
-  "geometry": {"coordinates":[-73.424078,40.86698],"type":"Point"}
+  "bbox": [
+    -73.424078,
+    40.86698,
+    -73.424078,
+    40.86698
+],
+  "geometry": {"coordinates":[-73.42407799999999,40.86698],"type":"Point"}
 }

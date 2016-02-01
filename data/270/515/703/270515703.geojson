@@ -2,13 +2,14 @@
   "id": 270515703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.600735,42.949721,-77.600735,42.949721",
     "geom:latitude":42.949721,
     "geom:longitude":-77.600735,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"99 W Main St",
     "sg:city":"Honeoye Falls",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.cnbank.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837385,
+        102191575,
+        404521463,
         85633793,
+        85977581,
         102081815,
-        85837385
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"683eeb62f387dac8df02111394bf9e0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":-1,
+            "localadmin_id":404521463,
+            "locality_id":85977581,
             "neighbourhood_id":85837385,
             "region_id":85688543,
             "venue_id":270515703
         }
     ],
     "wof:id":270515703,
-    "wof:lastmodified":1449009200,
+    "wof:lastmodified":1454124448,
     "wof:name":"Canandaigua National Bank",
     "wof:parent_id":85837385,
     "wof:placetype":"venue",
@@ -63,6 +68,11 @@
         "banking"
     ]
 },
-  "bbox": [-77.600735,42.949721,-77.600735,42.949721],
+  "bbox": [
+    -77.600735,
+    42.949721,
+    -77.600735,
+    42.949721
+],
   "geometry": {"coordinates":[-77.600735,42.949721],"type":"Point"}
 }

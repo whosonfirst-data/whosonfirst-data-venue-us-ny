@@ -2,13 +2,14 @@
   "id": 303885449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.582548,40.781797,-73.582548,40.781797",
     "geom:latitude":40.781797,
     "geom:longitude":-73.582548,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Store Hill Rd",
     "sg:city":"Old Westbury",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529183,
+        102191575,
+        404522729,
         85633793,
         85977647,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"3719215856ab8b1d7f380248d6c1f6ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85977647,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529183,
             "region_id":85688543,
             "venue_id":303885449
         }
     ],
     "wof:id":303885449,
-    "wof:lastmodified":1448999422,
+    "wof:lastmodified":1454123410,
     "wof:name":"Cellulario Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529183,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "cellular"
     ]
 },
-  "bbox": [-73.582548,40.781797,-73.582548,40.781797],
+  "bbox": [
+    -73.582548,
+    40.781797,
+    -73.582548,
+    40.781797
+],
   "geometry": {"coordinates":[-73.582548,40.781797],"type":"Point"}
 }

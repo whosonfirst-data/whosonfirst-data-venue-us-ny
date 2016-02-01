@@ -2,13 +2,14 @@
   "id": 303485851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.239269,40.747108,-73.239269,40.747108",
     "geom:latitude":40.747108,
     "geom:longitude":-73.239269,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1415 Ohio Ave",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530029,
+        102191575,
+        404522517,
         85633793,
-        85979719,
-        102082395
+        85979775,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"5aa0fe60b879fa64e40810436a100f28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979775,
+            "neighbourhood_id":420530029,
             "region_id":85688543,
             "venue_id":303485851
         }
     ],
     "wof:id":303485851,
-    "wof:lastmodified":1448999610,
+    "wof:lastmodified":1454123459,
     "wof:name":"Computer Tech International",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530029,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "integration"
     ]
 },
-  "bbox": [-73.239269,40.747108,-73.239269,40.747108],
-  "geometry": {"coordinates":[-73.239269,40.747108],"type":"Point"}
+  "bbox": [
+    -73.239269,
+    40.747108,
+    -73.239269,
+    40.747108
+],
+  "geometry": {"coordinates":[-73.23926899999999,40.747108],"type":"Point"}
 }

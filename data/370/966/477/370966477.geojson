@@ -2,13 +2,14 @@
   "id": 370966477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.672092,40.751633,-73.672092,40.751633",
     "geom:latitude":40.751633,
     "geom:longitude":-73.672092,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2203 Hillside Ave",
     "sg:city":"New Hyde Park",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847583,
+        102191575,
+        404522729,
         85633793,
-        85979177,
+        85977733,
         102082371,
-        85847583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"00572ad6da5f7508be331efde4fb90ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979177,
+            "localadmin_id":404522729,
+            "locality_id":85977733,
             "neighbourhood_id":85847583,
             "region_id":85688543,
             "venue_id":370966477
         }
     ],
     "wof:id":370966477,
-    "wof:lastmodified":1449029084,
+    "wof:lastmodified":1454127314,
     "wof:name":"Quick Reporting Svc",
     "wof:parent_id":85847583,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "reporter"
     ]
 },
-  "bbox": [-73.672092,40.751633,-73.672092,40.751633],
-  "geometry": {"coordinates":[-73.672092,40.751633],"type":"Point"}
+  "bbox": [
+    -73.672092,
+    40.751633,
+    -73.672092,
+    40.751633
+],
+  "geometry": {"coordinates":[-73.67209200000001,40.751633],"type":"Point"}
 }

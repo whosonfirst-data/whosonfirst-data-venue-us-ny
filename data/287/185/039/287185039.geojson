@@ -2,13 +2,14 @@
   "id": 287185039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.984885,40.757512,-73.984885,40.757512",
     "geom:latitude":40.757512,
     "geom:longitude":-73.984885,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"132 W 45 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867077,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85867077
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"547edec4e5eda00363ee1228d18c85f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85867077,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":287185039,
-    "wof:lastmodified":1449000808,
+    "wof:lastmodified":1454123786,
     "wof:name":"Emergency Locksmith",
     "wof:parent_id":85867077,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-73.984885,40.757512,-73.984885,40.757512],
-  "geometry": {"coordinates":[-73.984885,40.757512],"type":"Point"}
+  "bbox": [
+    -73.984885,
+    40.757512,
+    -73.984885,
+    40.757512
+],
+  "geometry": {"coordinates":[-73.98488500000001,40.757512],"type":"Point"}
 }

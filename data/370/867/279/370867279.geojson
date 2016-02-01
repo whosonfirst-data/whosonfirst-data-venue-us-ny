@@ -2,13 +2,14 @@
   "id": 370867279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.208363,42.996198,-77.208363,42.996198",
     "geom:latitude":42.996198,
     "geom:longitude":-77.208363,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"849 Curran Rd",
     "sg:city":"Shortsville",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831055,
+        102191575,
+        404522783,
         85633793,
-        85977853,
+        85977851,
         102082359,
-        85831055
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"34b3c51178063cd3448aac8fa73cfdb7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082359,
-            "locality_id":85977853,
+            "localadmin_id":404522783,
+            "locality_id":85977851,
             "neighbourhood_id":85831055,
             "region_id":85688543,
             "venue_id":370867279
         }
     ],
     "wof:id":370867279,
-    "wof:lastmodified":1449030553,
+    "wof:lastmodified":1454127742,
     "wof:name":"Phantom Fence Company",
     "wof:parent_id":85831055,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "containment"
     ]
 },
-  "bbox": [-77.208363,42.996198,-77.208363,42.996198],
-  "geometry": {"coordinates":[-77.208363,42.996198],"type":"Point"}
+  "bbox": [
+    -77.208363,
+    42.996198,
+    -77.208363,
+    42.996198
+],
+  "geometry": {"coordinates":[-77.20836300000001,42.996198],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320415509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.214308,40.812535,-73.214308,40.812535",
     "geom:latitude":40.812535,
     "geom:longitude":-73.214308,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"140 Fell Ct",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"375c481a6e7c9386c03319f7bbab69e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":320415509
         }
     ],
     "wof:id":320415509,
-    "wof:lastmodified":1449013947,
+    "wof:lastmodified":1454125198,
     "wof:name":"SILO Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "welfare"
     ]
 },
-  "bbox": [-73.214308,40.812535,-73.214308,40.812535],
+  "bbox": [
+    -73.214308,
+    40.812535,
+    -73.214308,
+    40.812535
+],
   "geometry": {"coordinates":[-73.214308,40.812535],"type":"Point"}
 }

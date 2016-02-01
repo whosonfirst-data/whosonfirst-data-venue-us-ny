@@ -2,13 +2,14 @@
   "id": 303448839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.46573,40.776273,-73.46573,40.776273",
     "geom:latitude":40.776273,
     "geom:longitude":-73.46573,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1117 Old Country Rd",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"1dd8d23e0dadee546ffbdef21866deda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":303448839
         }
     ],
     "wof:id":303448839,
-    "wof:lastmodified":1449000448,
+    "wof:lastmodified":1454123690,
     "wof:name":"PIC Property Funding Corp",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-73.46573,40.776273,-73.46573,40.776273],
-  "geometry": {"coordinates":[-73.46573,40.776273],"type":"Point"}
+  "bbox": [
+    -73.46573,
+    40.776273,
+    -73.46573,
+    40.776273
+],
+  "geometry": {"coordinates":[-73.46572999999999,40.776273],"type":"Point"}
 }

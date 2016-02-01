@@ -2,13 +2,14 @@
   "id": 319939553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.690395,40.708137,-73.690395,40.708137",
     "geom:latitude":40.708137,
     "geom:longitude":-73.690395,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1308 Hempstead Tpke",
     "sg:city":"Elmont",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420559871,
+        102191575,
+        404521473,
         85633793,
+        85979137,
+        102082371,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"0c6a13b7f05156090777b216dd92066a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082371,
+            "localadmin_id":404521473,
+            "locality_id":85979137,
+            "neighbourhood_id":420559871,
             "region_id":85688543,
             "venue_id":319939553
         }
     ],
     "wof:id":319939553,
-    "wof:lastmodified":1449024308,
+    "wof:lastmodified":1454126751,
     "wof:name":"J & C Fish Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":420559871,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "seafood"
     ]
 },
-  "bbox": [-73.690395,40.708137,-73.690395,40.708137],
+  "bbox": [
+    -73.690395,
+    40.708137,
+    -73.690395,
+    40.708137
+],
   "geometry": {"coordinates":[-73.690395,40.708137],"type":"Point"}
 }

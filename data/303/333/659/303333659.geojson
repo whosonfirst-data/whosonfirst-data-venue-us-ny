@@ -2,13 +2,14 @@
   "id": 303333659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.219689,40.811336,-73.219689,40.811336",
     "geom:latitude":40.811336,
     "geom:longitude":-73.219689,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"325 Rabro Dr",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"3cc4cacd4eed7d8e8c697b71c0794d67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":303333659
         }
     ],
     "wof:id":303333659,
-    "wof:lastmodified":1449000395,
+    "wof:lastmodified":1454123677,
     "wof:name":"Tri State Publishers Printing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "printer"
     ]
 },
-  "bbox": [-73.219689,40.811336,-73.219689,40.811336],
+  "bbox": [
+    -73.219689,
+    40.811336,
+    -73.219689,
+    40.811336
+],
   "geometry": {"coordinates":[-73.219689,40.811336],"type":"Point"}
 }

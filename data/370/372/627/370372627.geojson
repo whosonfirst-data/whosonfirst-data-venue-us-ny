@@ -2,13 +2,14 @@
   "id": 370372627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.746158,40.992039,-73.746158,40.992039",
     "geom:latitude":40.992039,
     "geom:longitude":-73.746158,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1311 Mamaroneck Ave",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.mcculloughgoldberger.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845959,
+        102191575,
+        404523395,
         85633793,
-        85978735,
+        85978761,
         102082373,
-        85845959
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"46e795a09b3d25a219bc62211b4ee9ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978735,
+            "localadmin_id":404523395,
+            "locality_id":85978761,
             "neighbourhood_id":85845959,
             "region_id":85688543,
             "venue_id":370372627
         }
     ],
     "wof:id":370372627,
-    "wof:lastmodified":1449031140,
+    "wof:lastmodified":1454127919,
     "wof:name":"Mc Cullough Goldberger Staudt",
     "wof:parent_id":85845959,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "attorney"
     ]
 },
-  "bbox": [-73.746158,40.992039,-73.746158,40.992039],
-  "geometry": {"coordinates":[-73.746158,40.992039],"type":"Point"}
+  "bbox": [
+    -73.746158,
+    40.992039,
+    -73.746158,
+    40.992039
+],
+  "geometry": {"coordinates":[-73.74615799999999,40.992039],"type":"Point"}
 }

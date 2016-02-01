@@ -2,13 +2,14 @@
   "id": 353822773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.625999,40.709999,-73.625999,40.709999",
     "geom:latitude":40.709999,
     "geom:longitude":-73.625999,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"134 Jackson St",
     "sg:city":"Hempstead",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892743,
+        102191575,
+        404521473,
         85633793,
-        85979175,
+        85977663,
         102082371,
-        85892743
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"cf96219d45efa4b6f258174f231559e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979175,
+            "localadmin_id":404521473,
+            "locality_id":85977663,
             "neighbourhood_id":85892743,
             "region_id":85688543,
             "venue_id":353822773
         }
     ],
     "wof:id":353822773,
-    "wof:lastmodified":1449020698,
+    "wof:lastmodified":1454126655,
     "wof:name":"Economic Opportunity Comm of Nassau County Inc",
     "wof:parent_id":85892743,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "medium"
     ]
 },
-  "bbox": [-73.625999,40.709999,-73.625999,40.709999],
-  "geometry": {"coordinates":[-73.625999,40.709999],"type":"Point"}
+  "bbox": [
+    -73.625999,
+    40.709999,
+    -73.625999,
+    40.709999
+],
+  "geometry": {"coordinates":[-73.62599899999999,40.709999],"type":"Point"}
 }

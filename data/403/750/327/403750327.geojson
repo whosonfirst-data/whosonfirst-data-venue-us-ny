@@ -2,13 +2,14 @@
   "id": 403750327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.924435,40.866304,-73.924435,40.866304",
     "geom:latitude":40.866304,
     "geom:longitude":-73.924435,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4876 Broadway",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826989,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85826989
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"3f4e2a47ecd0cd41405019b7e1c253c1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85826989,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403750327,
-    "wof:lastmodified":1449055462,
+    "wof:lastmodified":1454129440,
     "wof:name":"Beauty Center",
     "wof:parent_id":85826989,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.924435,40.866304,-73.924435,40.866304],
+  "bbox": [
+    -73.924435,
+    40.866304,
+    -73.924435,
+    40.866304
+],
   "geometry": {"coordinates":[-73.924435,40.866304],"type":"Point"}
 }

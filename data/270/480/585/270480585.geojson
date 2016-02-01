@@ -2,13 +2,14 @@
   "id": 270480585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.514282,43.121195,-77.514282,43.121195",
     "geom:latitude":43.121195,
     "geom:longitude":-77.514282,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Brightford Heights Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85841153,
+        102081815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"5d7476e63fafa897ce82b1eb85d256fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "neighbourhood_id":85841153,
             "region_id":85688543,
             "venue_id":270480585
         }
     ],
     "wof:id":270480585,
-    "wof:lastmodified":1449009428,
+    "wof:lastmodified":1454124482,
     "wof:name":"Laura J Shipley MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85841153,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "medical"
     ]
 },
-  "bbox": [-77.514282,43.121195,-77.514282,43.121195],
-  "geometry": {"coordinates":[-77.514282,43.121195],"type":"Point"}
+  "bbox": [
+    -77.514282,
+    43.121195,
+    -77.514282,
+    43.121195
+],
+  "geometry": {"coordinates":[-77.51428199999999,43.121195],"type":"Point"}
 }

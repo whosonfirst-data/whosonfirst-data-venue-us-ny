@@ -2,13 +2,14 @@
   "id": 286750913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.630271,40.863838,-73.630271,40.863838",
     "geom:latitude":40.863838,
     "geom:longitude":-73.630271,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"34 Glen St",
     "sg:city":"Glen Cove",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85977671,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"ee8b2e12276eaa619b521868273b645a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977671,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":286750913
         }
     ],
     "wof:id":286750913,
-    "wof:lastmodified":1449016984,
+    "wof:lastmodified":1454125716,
     "wof:name":"Bellocco Shoe Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "boot"
     ]
 },
-  "bbox": [-73.630271,40.863838,-73.630271,40.863838],
-  "geometry": {"coordinates":[-73.630271,40.863838],"type":"Point"}
+  "bbox": [
+    -73.630271,
+    40.863838,
+    -73.630271,
+    40.863838
+],
+  "geometry": {"coordinates":[-73.63027099999999,40.863838],"type":"Point"}
 }

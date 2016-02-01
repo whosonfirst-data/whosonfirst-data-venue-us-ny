@@ -2,13 +2,14 @@
   "id": 286660441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.77509,40.79997,-72.77509,40.79997",
     "geom:latitude":40.79997,
     "geom:longitude":-72.77509,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 Main St",
     "sg:city":"Center Moriches",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"3d96ce34b928cbd17178cafc387cc5c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":286660441
         }
     ],
     "wof:id":286660441,
-    "wof:lastmodified":1449017788,
+    "wof:lastmodified":1454125859,
     "wof:name":"Independent Group Home Living",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "group"
     ]
 },
-  "bbox": [-72.77509,40.79997,-72.77509,40.79997],
-  "geometry": {"coordinates":[-72.77509,40.79997],"type":"Point"}
+  "bbox": [
+    -72.77509,
+    40.79997,
+    -72.77509,
+    40.79997
+],
+  "geometry": {"coordinates":[-72.77509000000001,40.79997],"type":"Point"}
 }

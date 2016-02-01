@@ -2,13 +2,14 @@
   "id": 370568621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.966298,40.609555,-73.966298,40.609555",
     "geom:latitude":40.609555,
     "geom:longitude":-73.966298,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1771 E 7th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848121,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"26ba515e8a3b1fa7bb17e0ae25959b9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85848121,
             "region_id":85688543,
             "venue_id":370568621
         }
     ],
     "wof:id":370568621,
-    "wof:lastmodified":1449028992,
+    "wof:lastmodified":1454127287,
     "wof:name":"Keeva Sales LTD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85848121,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.966298,40.609555,-73.966298,40.609555],
-  "geometry": {"coordinates":[-73.966298,40.609555],"type":"Point"}
+  "bbox": [
+    -73.966298,
+    40.609555,
+    -73.966298,
+    40.609555
+],
+  "geometry": {"coordinates":[-73.96629799999999,40.609555],"type":"Point"}
 }

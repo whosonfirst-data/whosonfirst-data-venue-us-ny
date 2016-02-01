@@ -2,13 +2,14 @@
   "id": 319882325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.836948,40.912796,-73.836948,40.912796",
     "geom:latitude":40.912796,
     "geom:longitude":-73.836948,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"53 E Prospect Ave",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"4417ed57a991a0dab40b89ebf4f913af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":319882325
         }
     ],
     "wof:id":319882325,
-    "wof:lastmodified":1449024234,
+    "wof:lastmodified":1454126738,
     "wof:name":"Prospect Variety Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "confectionery"
     ]
 },
-  "bbox": [-73.836948,40.912796,-73.836948,40.912796],
-  "geometry": {"coordinates":[-73.836948,40.912796],"type":"Point"}
+  "bbox": [
+    -73.836948,
+    40.912796,
+    -73.836948,
+    40.912796
+],
+  "geometry": {"coordinates":[-73.83694800000001,40.912796],"type":"Point"}
 }

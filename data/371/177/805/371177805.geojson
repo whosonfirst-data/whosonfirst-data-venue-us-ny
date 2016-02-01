@@ -2,13 +2,14 @@
   "id": 371177805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.245623,42.877355,-77.245623,42.877355",
     "geom:latitude":42.877355,
     "geom:longitude":-77.245623,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3140 County Road 10",
     "sg:city":"Canandaigua",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85803665,
+        102191575,
+        404522859,
         85633793,
         85977863,
         102082359,
-        85803665
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"7e45b788d99910f7580df2e916b64a8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082359,
+            "localadmin_id":404522859,
             "locality_id":85977863,
             "neighbourhood_id":85803665,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":371177805,
-    "wof:lastmodified":1449050136,
+    "wof:lastmodified":1454129295,
     "wof:name":"Charlie Riedel's Fast Food",
     "wof:parent_id":85803665,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-77.245623,42.877355,-77.245623,42.877355],
-  "geometry": {"coordinates":[-77.245623,42.877355],"type":"Point"}
+  "bbox": [
+    -77.245623,
+    42.877355,
+    -77.245623,
+    42.877355
+],
+  "geometry": {"coordinates":[-77.24562299999999,42.877355],"type":"Point"}
 }

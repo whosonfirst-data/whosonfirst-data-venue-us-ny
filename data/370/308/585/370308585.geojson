@@ -2,13 +2,14 @@
   "id": 370308585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.085841,40.797196,-73.085841,40.797196",
     "geom:latitude":40.797196,
     "geom:longitude":-73.085841,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"133 Cambridge Ave",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"c4cccb52eff9a03d4908bdbcd5291825",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":370308585
         }
     ],
     "wof:id":370308585,
-    "wof:lastmodified":1449032572,
+    "wof:lastmodified":1454128343,
     "wof:name":"Be Your Own Guest",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.085841,40.797196,-73.085841,40.797196],
+  "bbox": [
+    -73.085841,
+    40.797196,
+    -73.085841,
+    40.797196
+],
   "geometry": {"coordinates":[-73.085841,40.797196],"type":"Point"}
 }

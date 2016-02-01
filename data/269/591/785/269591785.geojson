@@ -2,13 +2,14 @@
   "id": 269591785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.719015,41.411096,-73.719015,41.411096",
     "geom:latitude":41.411096,
     "geom:longitude":-73.719015,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"202 Crane Rd",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529685,
+        102191575,
+        404523047,
         85633793,
+        85979559,
+        102083007,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"9279fa19f566012bf56f379ebb7d5903",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083007,
+            "localadmin_id":404523047,
+            "locality_id":85979559,
+            "neighbourhood_id":420529685,
             "region_id":85688543,
             "venue_id":269591785
         }
     ],
     "wof:id":269591785,
-    "wof:lastmodified":1449037424,
+    "wof:lastmodified":1454128655,
     "wof:name":"Save A Dollar Home Inspection",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529685,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "inspection"
     ]
 },
-  "bbox": [-73.719015,41.411096,-73.719015,41.411096],
+  "bbox": [
+    -73.719015,
+    41.411096,
+    -73.719015,
+    41.411096
+],
   "geometry": {"coordinates":[-73.719015,41.411096],"type":"Point"}
 }

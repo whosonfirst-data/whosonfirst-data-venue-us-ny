@@ -2,13 +2,14 @@
   "id": 303543985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.948792,40.797478,-73.948792,40.797478",
     "geom:latitude":40.797478,
     "geom:longitude":-73.948792,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1301 5th Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.northsidecenter.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865689,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"07df0854cbfaa176a95925a68e05c36f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85865689,
             "region_id":85688543,
             "venue_id":303543985
         }
     ],
     "wof:id":303543985,
-    "wof:lastmodified":1448998592,
+    "wof:lastmodified":1454123153,
     "wof:name":"Northside Center For Child Dev",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865689,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "care"
     ]
 },
-  "bbox": [-73.948792,40.797478,-73.948792,40.797478],
+  "bbox": [
+    -73.948792,
+    40.797478,
+    -73.948792,
+    40.797478
+],
   "geometry": {"coordinates":[-73.948792,40.797478],"type":"Point"}
 }

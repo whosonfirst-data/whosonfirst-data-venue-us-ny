@@ -2,13 +2,14 @@
   "id": 404157631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.299328,43.149725,-76.299328,43.149725",
     "geom:latitude":43.149725,
     "geom:longitude":-76.299328,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9512 Shanagarry Dr",
     "sg:city":"Baldwinsville",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85865349,
+        102191575,
+        404522855,
         85633793,
+        85979201,
+        102082351,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"fd3a833a35d1fd2a7ce7dab1caa126ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "localadmin_id":404522855,
+            "locality_id":85979201,
+            "neighbourhood_id":85865349,
             "region_id":85688543,
             "venue_id":404157631
         }
     ],
     "wof:id":404157631,
-    "wof:lastmodified":1449040151,
+    "wof:lastmodified":1454128947,
     "wof:name":"Magnolia Designs",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865349,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.299328,43.149725,-76.299328,43.149725],
+  "bbox": [
+    -76.299328,
+    43.149725,
+    -76.299328,
+    43.149725
+],
   "geometry": {"coordinates":[-76.299328,43.149725],"type":"Point"}
 }

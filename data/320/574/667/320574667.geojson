@@ -2,13 +2,14 @@
   "id": 320574667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.861137,40.899683,-72.861137,40.899683",
     "geom:latitude":40.899683,
     "geom:longitude":-72.861137,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"118 Gull Dip Rd",
     "sg:city":"Ridge",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979861,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"44c46245941d863a33b72949459276e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979861,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":320574667
         }
     ],
     "wof:id":320574667,
-    "wof:lastmodified":1449011237,
+    "wof:lastmodified":1454124759,
     "wof:name":"Collette Fortin",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-72.861137,40.899683,-72.861137,40.899683],
+  "bbox": [
+    -72.861137,
+    40.899683,
+    -72.861137,
+    40.899683
+],
   "geometry": {"coordinates":[-72.861137,40.899683],"type":"Point"}
 }

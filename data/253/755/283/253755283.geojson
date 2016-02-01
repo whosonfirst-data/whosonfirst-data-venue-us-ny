@@ -2,13 +2,14 @@
   "id": 253755283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.817496,40.928103,-73.817496,40.928103",
     "geom:latitude":40.928103,
     "geom:longitude":-73.817496,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"22 Brookfield Rd",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817895,
+        102191575,
+        404523371,
         85633793,
         85978721,
         102082373,
-        85817895
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"c0d5baae08bc0642daa4a82c2187bc27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
             "neighbourhood_id":85817895,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":253755283,
-    "wof:lastmodified":1449063652,
+    "wof:lastmodified":1454130384,
     "wof:name":"Islamic Society of Westchester",
     "wof:parent_id":85817895,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.817496,40.928103,-73.817496,40.928103],
-  "geometry": {"coordinates":[-73.817496,40.928103],"type":"Point"}
+  "bbox": [
+    -73.817496,
+    40.928103,
+    -73.817496,
+    40.928103
+],
+  "geometry": {"coordinates":[-73.81749600000001,40.928103],"type":"Point"}
 }

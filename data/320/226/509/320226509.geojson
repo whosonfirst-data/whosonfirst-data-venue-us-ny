@@ -2,13 +2,14 @@
   "id": 320226509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.905445,40.882448,-72.905445,40.882448",
     "geom:latitude":40.882448,
     "geom:longitude":-72.905445,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3 Williamsburg Ct",
     "sg:city":"Ridge",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979861,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"77851a67e5bd4dd64d605f2c91fc68ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979861,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":320226509
         }
     ],
     "wof:id":320226509,
-    "wof:lastmodified":1449013961,
+    "wof:lastmodified":1454125203,
     "wof:name":"Say It In A Song",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "personal"
     ]
 },
-  "bbox": [-72.905445,40.882448,-72.905445,40.882448],
+  "bbox": [
+    -72.905445,
+    40.882448,
+    -72.905445,
+    40.882448
+],
   "geometry": {"coordinates":[-72.905445,40.882448],"type":"Point"}
 }

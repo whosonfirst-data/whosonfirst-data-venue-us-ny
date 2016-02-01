@@ -2,13 +2,14 @@
   "id": 387522543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.075212,43.084364,-76.075212,43.084364",
     "geom:latitude":43.084364,
     "geom:longitude":-76.075212,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Saginaw Dr",
     "sg:city":"East Syracuse",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85817149,
+        102082351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,17 @@
     "wof:geomhash":"880dbd8bc3efc4406cba2772527eb96a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "neighbourhood_id":85817149,
             "region_id":85688543,
             "venue_id":387522543
         }
     ],
     "wof:id":387522543,
-    "wof:lastmodified":1449057914,
+    "wof:lastmodified":1454129851,
     "wof:name":"Syracuse HM & Off Tele Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":85817149,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.075212,43.084364,-76.075212,43.084364],
-  "geometry": {"coordinates":[-76.075212,43.084364],"type":"Point"}
+  "bbox": [
+    -76.075212,
+    43.084364,
+    -76.075212,
+    43.084364
+],
+  "geometry": {"coordinates":[-76.07521199999999,43.084364],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386988357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.310439,40.808945,-73.310439,40.808945",
     "geom:latitude":40.808945,
     "geom:longitude":-73.310439,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"79 Village Hill Dr",
     "sg:city":"Huntington Station",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530047,
+        102191575,
+        404522515,
         85633793,
         85979779,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"a423462339c78adf31f1628c1b512416",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85979779,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530047,
             "region_id":85688543,
             "venue_id":386988357
         }
     ],
     "wof:id":386988357,
-    "wof:lastmodified":1449028734,
+    "wof:lastmodified":1454127218,
     "wof:name":"Irwin H Doben Accounting Svcs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530047,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "filing"
     ]
 },
-  "bbox": [-73.310439,40.808945,-73.310439,40.808945],
+  "bbox": [
+    -73.310439,
+    40.808945,
+    -73.310439,
+    40.808945
+],
   "geometry": {"coordinates":[-73.310439,40.808945],"type":"Point"}
 }

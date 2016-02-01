@@ -2,13 +2,14 @@
   "id": 370846173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.187798,41.336251,-74.187798,41.336251",
     "geom:latitude":41.336251,
     "geom:longitude":-74.187798,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Main St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832781,
+        102191575,
+        404522907,
         85633793,
-        85978205,
-        102083061
+        85979523,
+        102083061,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"1b79041cc789d4ac260249fcb658346a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":85978205,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522907,
+            "locality_id":85979523,
+            "neighbourhood_id":85832781,
             "region_id":85688543,
             "venue_id":370846173
         }
     ],
     "wof:id":370846173,
-    "wof:lastmodified":1449031724,
+    "wof:lastmodified":1454128089,
     "wof:name":"Alexandras Nail Designs",
-    "wof:parent_id":-1,
+    "wof:parent_id":85832781,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -74,6 +79,11 @@
         "licensed"
     ]
 },
-  "bbox": [-74.187798,41.336251,-74.187798,41.336251],
+  "bbox": [
+    -74.187798,
+    41.336251,
+    -74.187798,
+    41.336251
+],
   "geometry": {"coordinates":[-74.187798,41.336251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387076835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.491051,42.465019,-76.491051,42.465019",
     "geom:latitude":42.465019,
     "geom:longitude":-76.491051,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"115 W Upland Rd",
     "sg:city":"Ithaca",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85878353,
+        102191575,
+        404523231,
         85633793,
+        85978779,
         102082355,
-        85878353
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"30b18210ad6f62c4d3a08885ac55689c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082355,
-            "locality_id":-1,
+            "localadmin_id":404523231,
+            "locality_id":85978779,
             "neighbourhood_id":85878353,
             "region_id":85688543,
             "venue_id":387076835
         }
     ],
     "wof:id":387076835,
-    "wof:lastmodified":1449059090,
+    "wof:lastmodified":1454130060,
     "wof:name":"Richard Dck",
     "wof:parent_id":85878353,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-76.491051,42.465019,-76.491051,42.465019],
+  "bbox": [
+    -76.491051,
+    42.465019,
+    -76.491051,
+    42.465019
+],
   "geometry": {"coordinates":[-76.491051,42.465019],"type":"Point"}
 }

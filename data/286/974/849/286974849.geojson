@@ -2,13 +2,14 @@
   "id": 286974849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.086795,40.902313,-73.086795,40.902313",
     "geom:latitude":40.902313,
     "geom:longitude":-73.086795,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"33 Research Way",
     "sg:city":"East Setauket",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824457,
+        102191575,
+        404521441,
         85633793,
-        85978487,
+        85979927,
         102082395,
-        85824457
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"b32e1cc87ed8fed11a866444e37dd15e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978487,
+            "localadmin_id":404521441,
+            "locality_id":85979927,
             "neighbourhood_id":85824457,
             "region_id":85688543,
             "venue_id":286974849
         }
     ],
     "wof:id":286974849,
-    "wof:lastmodified":1449017719,
+    "wof:lastmodified":1454125847,
     "wof:name":"Stony Brook Ophthalmology",
     "wof:parent_id":85824457,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-73.086795,40.902313,-73.086795,40.902313],
+  "bbox": [
+    -73.086795,
+    40.902313,
+    -73.086795,
+    40.902313
+],
   "geometry": {"coordinates":[-73.086795,40.902313],"type":"Point"}
 }

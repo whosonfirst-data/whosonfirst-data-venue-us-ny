@@ -2,13 +2,14 @@
   "id": 354231869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.421661,40.879417,-73.421661,40.879417",
     "geom:latitude":40.879417,
     "geom:longitude":-73.421661,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 New York Ave",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892871,
+        102191575,
+        404522515,
         85633793,
         85979675,
         102082395,
-        85892871
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"ec70b89054d3d10b4b51a8e1d479e1c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85979675,
             "neighbourhood_id":85892871,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":354231869,
-    "wof:lastmodified":1449066799,
+    "wof:lastmodified":1454131035,
     "wof:name":"Rex Electric Motors",
     "wof:parent_id":85892871,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "motors-used"
     ]
 },
-  "bbox": [-73.421661,40.879417,-73.421661,40.879417],
+  "bbox": [
+    -73.421661,
+    40.879417,
+    -73.421661,
+    40.879417
+],
   "geometry": {"coordinates":[-73.421661,40.879417],"type":"Point"}
 }

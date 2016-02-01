@@ -2,13 +2,14 @@
   "id": 320709759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.635407,40.739595,-73.635407,40.739595",
     "geom:latitude":40.739595,
     "geom:longitude":-73.635407,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Old Country Rd",
     "sg:city":"Mineola",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847583,
+        102191575,
+        404522729,
         85633793,
-        85979177,
+        85977733,
         102082371,
-        85847583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"0351a15c911c29588abcd93c2156402b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979177,
+            "localadmin_id":404522729,
+            "locality_id":85977733,
             "neighbourhood_id":85847583,
             "region_id":85688543,
             "venue_id":320709759
         }
     ],
     "wof:id":320709759,
-    "wof:lastmodified":1449012010,
+    "wof:lastmodified":1454124883,
     "wof:name":"Bagel Court Cafe",
     "wof:parent_id":85847583,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-73.635407,40.739595,-73.635407,40.739595],
+  "bbox": [
+    -73.635407,
+    40.739595,
+    -73.635407,
+    40.739595
+],
   "geometry": {"coordinates":[-73.635407,40.739595],"type":"Point"}
 }

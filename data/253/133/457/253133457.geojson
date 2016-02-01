@@ -2,13 +2,14 @@
   "id": 253133457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.59868,42.900681,-78.59868,42.900681",
     "geom:latitude":42.900681,
     "geom:longitude":-78.59868,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"875 Erie St",
     "sg:city":"Lancaster",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528575,
+        102191575,
+        404522319,
         85633793,
+        85979417,
+        102082387,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"8da498d69e39556e41b145353cc16ccd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082387,
+            "localadmin_id":404522319,
+            "locality_id":85979417,
+            "neighbourhood_id":420528575,
             "region_id":85688543,
             "venue_id":253133457
         }
     ],
     "wof:id":253133457,
-    "wof:lastmodified":1449065255,
+    "wof:lastmodified":1454130654,
     "wof:name":"Pal & Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528575,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-78.59868,42.900681,-78.59868,42.900681],
+  "bbox": [
+    -78.59868,
+    42.900681,
+    -78.59868,
+    42.900681
+],
   "geometry": {"coordinates":[-78.59868,42.900681],"type":"Point"}
 }

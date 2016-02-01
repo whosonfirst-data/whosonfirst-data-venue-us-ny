@@ -2,13 +2,14 @@
   "id": 387562667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.540928,40.70497,-73.540928,40.70497",
     "geom:latitude":40.70497,
     "geom:longitude":-73.540928,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"735 Willard St",
     "sg:city":"North Bellmore",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"c35bc842c65c832fa0b2fc0167f2cef2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":387562667
         }
     ],
     "wof:id":387562667,
-    "wof:lastmodified":1449058127,
+    "wof:lastmodified":1454129890,
     "wof:name":"Aardvark Auto Buyers",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "dealer"
     ]
 },
-  "bbox": [-73.540928,40.70497,-73.540928,40.70497],
-  "geometry": {"coordinates":[-73.540928,40.70497],"type":"Point"}
+  "bbox": [
+    -73.540928,
+    40.70497,
+    -73.540928,
+    40.70497
+],
+  "geometry": {"coordinates":[-73.54092799999999,40.70497],"type":"Point"}
 }

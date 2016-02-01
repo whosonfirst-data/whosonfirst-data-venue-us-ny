@@ -2,13 +2,14 @@
   "id": 303531863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.967812,41.361309,-73.967812,41.361309",
     "geom:latitude":41.361309,
     "geom:longitude":-73.967812,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"144 Main St",
     "sg:city":"Highland Falls",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85821803,
+        102191575,
+        404522899,
         85633793,
-        102083007,
-        85821803
+        85978223,
+        102083061,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"1fa1983175327421a55076394e85e438",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083007,
-            "locality_id":-1,
+            "county_id":102083061,
+            "localadmin_id":404522899,
+            "locality_id":85978223,
             "neighbourhood_id":85821803,
             "region_id":85688543,
             "venue_id":303531863
         }
     ],
     "wof:id":303531863,
-    "wof:lastmodified":1448998691,
+    "wof:lastmodified":1454123187,
     "wof:name":"Robin J Portelli MD",
     "wof:parent_id":85821803,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.967812,41.361309,-73.967812,41.361309],
+  "bbox": [
+    -73.967812,
+    41.361309,
+    -73.967812,
+    41.361309
+],
   "geometry": {"coordinates":[-73.967812,41.361309],"type":"Point"}
 }

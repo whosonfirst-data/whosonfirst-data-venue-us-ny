@@ -2,13 +2,14 @@
   "id": 353548383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.727832,40.789519,-73.727832,40.789519",
     "geom:latitude":40.789519,
     "geom:longitude":-73.727832,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Bond St",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865341,
+        102191575,
+        404522729,
         85633793,
         85977683,
         102082371,
-        85865341
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"a21e2b475de0b5eea2faa235174063bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85977683,
             "neighbourhood_id":85865341,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":353548383,
-    "wof:lastmodified":1449020007,
+    "wof:lastmodified":1454126456,
     "wof:name":"Ten Bond Street",
     "wof:parent_id":85865341,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.727832,40.789519,-73.727832,40.789519],
-  "geometry": {"coordinates":[-73.727832,40.789519],"type":"Point"}
+  "bbox": [
+    -73.727832,
+    40.789519,
+    -73.727832,
+    40.789519
+],
+  "geometry": {"coordinates":[-73.72783200000001,40.789519],"type":"Point"}
 }

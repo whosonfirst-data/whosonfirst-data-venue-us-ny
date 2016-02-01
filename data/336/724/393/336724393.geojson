@@ -2,13 +2,14 @@
   "id": 336724393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.112727,40.572283,-74.112727,40.572283",
     "geom:latitude":40.572283,
     "geom:longitude":-74.112727,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"299 New Dorp Ln",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529771,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"e9b1a9f375973bbe7ac311589f42c932",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529771,
             "region_id":85688543,
             "venue_id":336724393
         }
     ],
     "wof:id":336724393,
-    "wof:lastmodified":1448997975,
+    "wof:lastmodified":1454122940,
     "wof:name":"Windowrama",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529771,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.112727,40.572283,-74.112727,40.572283],
-  "geometry": {"coordinates":[-74.112727,40.572283],"type":"Point"}
+  "bbox": [
+    -74.112727,
+    40.572283,
+    -74.112727,
+    40.572283
+],
+  "geometry": {"coordinates":[-74.11272700000001,40.572283],"type":"Point"}
 }

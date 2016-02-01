@@ -2,13 +2,14 @@
   "id": 387041469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.453623,40.772371,-73.453623,40.772371",
     "geom:latitude":40.772371,
     "geom:longitude":-73.453623,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 Cedar Dr E",
     "sg:city":"Old Bethpage",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"cd762bc8d2ccdf581a4b2bc7083e420a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":387041469
         }
     ],
     "wof:id":387041469,
-    "wof:lastmodified":1449057474,
+    "wof:lastmodified":1454129773,
     "wof:name":"Flagman Decorating Co Inc",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-73.453623,40.772371,-73.453623,40.772371],
-  "geometry": {"coordinates":[-73.453623,40.772371],"type":"Point"}
+  "bbox": [
+    -73.453623,
+    40.772371,
+    -73.453623,
+    40.772371
+],
+  "geometry": {"coordinates":[-73.45362299999999,40.772371],"type":"Point"}
 }

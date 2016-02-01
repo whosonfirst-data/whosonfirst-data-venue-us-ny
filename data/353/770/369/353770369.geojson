@@ -2,13 +2,14 @@
   "id": 353770369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.571925,40.645682,-73.571925,40.645682",
     "geom:latitude":40.645682,
     "geom:longitude":-73.571925,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"193 Hanse Ave",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.knickerbockerpartition.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892853,
+        102191575,
+        404521473,
         85633793,
         85977679,
         102082371,
-        85892853
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +61,10 @@
     "wof:geomhash":"ff21e77dc8a2308d6255865dc378d037",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977679,
             "neighbourhood_id":85892853,
             "region_id":85688543,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":353770369,
-    "wof:lastmodified":1449020856,
+    "wof:lastmodified":1454126704,
     "wof:name":"Knickerbocker Partition Corp.",
     "wof:parent_id":85892853,
     "wof:placetype":"venue",
@@ -84,6 +88,11 @@
         "store"
     ]
 },
-  "bbox": [-73.571925,40.645682,-73.571925,40.645682],
-  "geometry": {"coordinates":[-73.571925,40.645682],"type":"Point"}
+  "bbox": [
+    -73.571925,
+    40.645682,
+    -73.571925,
+    40.645682
+],
+  "geometry": {"coordinates":[-73.57192499999999,40.645682],"type":"Point"}
 }

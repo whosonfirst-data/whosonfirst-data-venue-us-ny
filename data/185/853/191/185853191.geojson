@@ -2,13 +2,14 @@
   "id": 185853191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.914751,40.693375,-73.914751,40.693375",
     "geom:latitude":40.693375,
     "geom:longitude":-73.914751,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1182 Madison St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85808635,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85808635
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"e903c47b05ec54df0a5c4004394c5b9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85808635,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":185853191,
-    "wof:lastmodified":1449007261,
+    "wof:lastmodified":1454124228,
     "wof:name":"American Association Of Retired People",
     "wof:parent_id":85808635,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "pension"
     ]
 },
-  "bbox": [-73.914751,40.693375,-73.914751,40.693375],
+  "bbox": [
+    -73.914751,
+    40.693375,
+    -73.914751,
+    40.693375
+],
   "geometry": {"coordinates":[-73.914751,40.693375],"type":"Point"}
 }

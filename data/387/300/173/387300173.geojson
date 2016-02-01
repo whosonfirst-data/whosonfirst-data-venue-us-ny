@@ -2,13 +2,14 @@
   "id": 387300173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.389588,40.886787,-72.389588,40.886787",
     "geom:latitude":40.886787,
     "geom:longitude":-72.389588,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"59 Main St",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"6a0300e17c352e037293286d3c27e565",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":387300173
         }
     ],
     "wof:id":387300173,
-    "wof:lastmodified":1449058247,
+    "wof:lastmodified":1454129912,
     "wof:name":"Follow Your Art",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "dealer"
     ]
 },
-  "bbox": [-72.389588,40.886787,-72.389588,40.886787],
+  "bbox": [
+    -72.389588,
+    40.886787,
+    -72.389588,
+    40.886787
+],
   "geometry": {"coordinates":[-72.389588,40.886787],"type":"Point"}
 }

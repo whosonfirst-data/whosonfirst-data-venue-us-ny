@@ -2,13 +2,14 @@
   "id": 319958513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993495,40.730421,-73.993495,40.730421",
     "geom:latitude":40.730421,
     "geom:longitude":-73.993495,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 Mercer St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.designforwellness.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529189,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"992d5736cab1730d1c5b351b19b89b0b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529189,
             "region_id":85688543,
             "venue_id":319958513
         }
     ],
     "wof:id":319958513,
-    "wof:lastmodified":1449024718,
+    "wof:lastmodified":1454126821,
     "wof:name":"Designs For Wellness",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529189,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.993495,40.730421,-73.993495,40.730421],
+  "bbox": [
+    -73.993495,
+    40.730421,
+    -73.993495,
+    40.730421
+],
   "geometry": {"coordinates":[-73.993495,40.730421],"type":"Point"}
 }

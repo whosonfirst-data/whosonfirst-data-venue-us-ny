@@ -2,13 +2,14 @@
   "id": 336875141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.760404,40.944158,-73.760404,40.944158",
     "geom:latitude":40.944158,
     "geom:longitude":-73.760404,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Senate Pl",
     "sg:city":"Larchmont",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85805267,
+        102082373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"95069e40ac0ff6c8570cc58799bff191",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082373,
+            "neighbourhood_id":85805267,
             "region_id":85688543,
             "venue_id":336875141
         }
     ],
     "wof:id":336875141,
-    "wof:lastmodified":1448997738,
+    "wof:lastmodified":1454122866,
     "wof:name":"Ted Shear Associates Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85805267,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "broker"
     ]
 },
-  "bbox": [-73.760404,40.944158,-73.760404,40.944158],
-  "geometry": {"coordinates":[-73.760404,40.944158],"type":"Point"}
+  "bbox": [
+    -73.760404,
+    40.944158,
+    -73.760404,
+    40.944158
+],
+  "geometry": {"coordinates":[-73.76040399999999,40.944158],"type":"Point"}
 }

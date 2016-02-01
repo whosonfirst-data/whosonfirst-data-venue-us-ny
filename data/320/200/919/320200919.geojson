@@ -2,13 +2,14 @@
   "id": 320200919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.884213,40.856446,-73.884213,40.856446",
     "geom:latitude":40.856446,
     "geom:longitude":-73.884213,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"664 E 189th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865533,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865533
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"32ff4167db0d662a7c237a7ce1d77106",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865533,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":320200919,
-    "wof:lastmodified":1449012762,
+    "wof:lastmodified":1454125005,
     "wof:name":"Aymas Network",
     "wof:parent_id":85865533,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.884213,40.856446,-73.884213,40.856446],
+  "bbox": [
+    -73.884213,
+    40.856446,
+    -73.884213,
+    40.856446
+],
   "geometry": {"coordinates":[-73.884213,40.856446],"type":"Point"}
 }

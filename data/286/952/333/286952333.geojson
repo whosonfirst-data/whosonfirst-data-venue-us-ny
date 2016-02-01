@@ -2,13 +2,14 @@
   "id": 286952333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.681985,43.19585,-77.681985,43.19585",
     "geom:latitude":43.19585,
     "geom:longitude":-77.681985,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"728 Weiland Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -24,8 +25,11 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85977591,
+        102081815,
+        85853287
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +39,28 @@
     "wof:geomhash":"4f705d1683c08b83292d2280cbc7e8d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "locality_id":85977591,
+            "neighbourhood_id":85853287,
             "region_id":85688543,
             "venue_id":286952333
         }
     ],
     "wof:id":286952333,
-    "wof:lastmodified":1449017305,
+    "wof:lastmodified":1454125772,
     "wof:name":"Christine R Sullivan DC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85853287,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.681985,43.19585,-77.681985,43.19585],
+  "bbox": [
+    -77.681985,
+    43.19585,
+    -77.681985,
+    43.19585
+],
   "geometry": {"coordinates":[-77.681985,43.19585],"type":"Point"}
 }

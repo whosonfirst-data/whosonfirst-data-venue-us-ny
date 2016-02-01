@@ -2,13 +2,14 @@
   "id": 403999603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.500666,40.826339,-73.500666,40.826339",
     "geom:latitude":40.826339,
     "geom:longitude":-73.500666,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"43 Cold Spring Rd",
     "sg:city":"Syosset",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"www.bagelmaster.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893029,
+        102191575,
+        404521475,
         85633793,
         85979075,
         102082371,
-        85893029
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"c7d302da2beab0fbe95b5bad7cbe6c82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979075,
             "neighbourhood_id":85893029,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":403999603,
-    "wof:lastmodified":1449055812,
+    "wof:lastmodified":1454129490,
     "wof:name":"V & G Bagel Master Corp",
     "wof:parent_id":85893029,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.500666,40.826339,-73.500666,40.826339],
+  "bbox": [
+    -73.500666,
+    40.826339,
+    -73.500666,
+    40.826339
+],
   "geometry": {"coordinates":[-73.500666,40.826339],"type":"Point"}
 }

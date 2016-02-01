@@ -2,13 +2,14 @@
   "id": 354141149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.114153,41.124663,-74.114153,41.124663",
     "geom:latitude":41.124663,
     "geom:longitude":-74.114153,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"63 Mile Rd",
     "sg:city":"Suffern",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529777,
+        102191575,
+        404523097,
         85633793,
         85978545,
-        102082385
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"e9f06439bebb2ad7965ec0c0f48ebc9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523097,
             "locality_id":85978545,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529777,
             "region_id":85688543,
             "venue_id":354141149
         }
     ],
     "wof:id":354141149,
-    "wof:lastmodified":1449066515,
+    "wof:lastmodified":1454130948,
     "wof:name":"Rice & Amon",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529777,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "attorney"
     ]
 },
-  "bbox": [-74.114153,41.124663,-74.114153,41.124663],
+  "bbox": [
+    -74.114153,
+    41.124663,
+    -74.114153,
+    41.124663
+],
   "geometry": {"coordinates":[-74.114153,41.124663],"type":"Point"}
 }

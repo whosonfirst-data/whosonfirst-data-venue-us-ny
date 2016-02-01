@@ -2,13 +2,14 @@
   "id": 185969083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.007963,40.615081,-74.007963,40.615081",
     "geom:latitude":40.615081,
     "geom:longitude":-74.007963,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1436 81st St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805771,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85805771
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"975ccebb313397b100f46ff3c52ad7db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85805771,
             "region_id":85688543,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":185969083,
-    "wof:lastmodified":1449007000,
+    "wof:lastmodified":1454124193,
     "wof:name":"AAA Action Photocopy",
     "wof:parent_id":85805771,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "supplies-repair"
     ]
 },
-  "bbox": [-74.007963,40.615081,-74.007963,40.615081],
+  "bbox": [
+    -74.007963,
+    40.615081,
+    -74.007963,
+    40.615081
+],
   "geometry": {"coordinates":[-74.007963,40.615081],"type":"Point"}
 }

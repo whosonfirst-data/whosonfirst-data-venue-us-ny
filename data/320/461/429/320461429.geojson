@@ -2,13 +2,14 @@
   "id": 320461429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.132296,40.553656,-74.132296,40.553656",
     "geom:latitude":40.553656,
     "geom:longitude":-74.132296,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"208 Justin Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529763,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"47042b0870562cb886806df95db42f80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529763,
             "region_id":85688543,
             "venue_id":320461429
         }
     ],
     "wof:id":320461429,
-    "wof:lastmodified":1449012691,
+    "wof:lastmodified":1454124994,
     "wof:name":"Vaksman Media Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529763,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "internet"
     ]
 },
-  "bbox": [-74.132296,40.553656,-74.132296,40.553656],
+  "bbox": [
+    -74.132296,
+    40.553656,
+    -74.132296,
+    40.553656
+],
   "geometry": {"coordinates":[-74.132296,40.553656],"type":"Point"}
 }

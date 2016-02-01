@@ -2,13 +2,14 @@
   "id": 303378109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.054305,40.917349,-73.054305,40.917349",
     "geom:latitude":40.917349,
     "geom:longitude":-73.054305,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4802 Nesconset Hwy",
     "sg:city":"Port Jeffrsn Sta",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.bfcu.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85813109,
+        102191575,
+        404521441,
         85633793,
         85978457,
         102082395,
-        85813109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"06894ec2d25277faf5a7d1eead85c2bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85978457,
             "neighbourhood_id":85813109,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303378109,
-    "wof:lastmodified":1448999769,
+    "wof:lastmodified":1454123504,
     "wof:name":"Bethpage FCU",
     "wof:parent_id":85813109,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "chartered"
     ]
 },
-  "bbox": [-73.054305,40.917349,-73.054305,40.917349],
+  "bbox": [
+    -73.054305,
+    40.917349,
+    -73.054305,
+    40.917349
+],
   "geometry": {"coordinates":[-73.054305,40.917349],"type":"Point"}
 }

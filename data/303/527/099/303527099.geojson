@@ -2,13 +2,14 @@
   "id": 303527099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.823128,40.961074,-73.823128,40.961074",
     "geom:latitude":40.961074,
     "geom:longitude":-73.823128,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Thompson St",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893047,
+        102191575,
+        404523357,
         85633793,
-        85978759,
-        102082373
+        85978763,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"46d8bf296dac260bfc1aff33e9e765be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523357,
+            "locality_id":85978763,
+            "neighbourhood_id":85893047,
             "region_id":85688543,
             "venue_id":303527099
         }
     ],
     "wof:id":303527099,
-    "wof:lastmodified":1449000061,
+    "wof:lastmodified":1454123583,
     "wof:name":"Crestwood Branch Library",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893047,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.823128,40.961074,-73.823128,40.961074],
+  "bbox": [
+    -73.823128,
+    40.961074,
+    -73.823128,
+    40.961074
+],
   "geometry": {"coordinates":[-73.823128,40.961074],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353583029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.830072,40.709375,-73.830072,40.709375",
     "geom:latitude":40.709375,
     "geom:longitude":-73.830072,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"82-70 Austin St",
     "sg:city":"Kew Gardens",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"www.austinsteakandalehouse.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529695,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,24 +47,30 @@
     "wof:geomhash":"3cc2b037ad147e824b6649c315fdf959",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529695,
             "region_id":85688543,
             "venue_id":353583029
         }
     ],
     "wof:id":353583029,
-    "wof:lastmodified":1449020283,
+    "wof:lastmodified":1454126534,
     "wof:name":"Austin's Steak & Ale House",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529695,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.830072,40.709375,-73.830072,40.709375],
+  "bbox": [
+    -73.830072,
+    40.709375,
+    -73.830072,
+    40.709375
+],
   "geometry": {"coordinates":[-73.830072,40.709375],"type":"Point"}
 }

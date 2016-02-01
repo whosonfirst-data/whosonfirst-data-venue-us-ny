@@ -2,13 +2,14 @@
   "id": 354267199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.375949,40.697835,-73.375949,40.697835",
     "geom:latitude":40.697835,
     "geom:longitude":-73.375949,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"681 N Clinton Ave",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
         85978477,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"f0b5b929f70ac862db883d63fd81e8aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522513,
             "locality_id":85978477,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":354267199
         }
     ],
     "wof:id":354267199,
-    "wof:lastmodified":1449067512,
+    "wof:lastmodified":1454131258,
     "wof:name":"Mike Karras Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-73.375949,40.697835,-73.375949,40.697835],
-  "geometry": {"coordinates":[-73.375949,40.697835],"type":"Point"}
+  "bbox": [
+    -73.375949,
+    40.697835,
+    -73.375949,
+    40.697835
+],
+  "geometry": {"coordinates":[-73.37594900000001,40.697835],"type":"Point"}
 }

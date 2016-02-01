@@ -2,13 +2,14 @@
   "id": 287250141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.065196,42.094096,-76.065196,42.094096",
     "geom:latitude":42.094096,
     "geom:longitude":-76.065196,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"315 Exchange Ave",
     "sg:city":"Endicott",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528091,
+        102191575,
+        404521829,
         85633793,
         85977985,
-        102081755
+        102081755,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"29d7f6e9fd42778130d56cf24b7bf2f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
+            "localadmin_id":404521829,
             "locality_id":85977985,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528091,
             "region_id":85688543,
             "venue_id":287250141
         }
     ],
     "wof:id":287250141,
-    "wof:lastmodified":1449001182,
+    "wof:lastmodified":1454123876,
     "wof:name":"Hair Mate The",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528091,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-76.065196,42.094096,-76.065196,42.094096],
+  "bbox": [
+    -76.065196,
+    42.094096,
+    -76.065196,
+    42.094096
+],
   "geometry": {"coordinates":[-76.065196,42.094096],"type":"Point"}
 }

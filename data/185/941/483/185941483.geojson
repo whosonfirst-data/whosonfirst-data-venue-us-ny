@@ -2,13 +2,14 @@
   "id": 185941483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.95951,40.657517,-73.95951,40.657517",
     "geom:latitude":40.657517,
     "geom:longitude":-73.95951,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23 Hawthorne St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -43,11 +44,13 @@
     "sg:website":"www.monkstrunk.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892955,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85892955
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,9 +60,10 @@
     "wof:geomhash":"23627bd9f5a6825276b75bee0bd6ddcb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892955,
             "region_id":85688543,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":185941483,
-    "wof:lastmodified":1449007570,
+    "wof:lastmodified":1454124269,
     "wof:name":"Monk's Trunk",
     "wof:parent_id":85892955,
     "wof:placetype":"venue",
@@ -82,6 +86,11 @@
         "store"
     ]
 },
-  "bbox": [-73.95951,40.657517,-73.95951,40.657517],
-  "geometry": {"coordinates":[-73.95951,40.657517],"type":"Point"}
+  "bbox": [
+    -73.95951,
+    40.657517,
+    -73.95951,
+    40.657517
+],
+  "geometry": {"coordinates":[-73.95950999999999,40.657517],"type":"Point"}
 }

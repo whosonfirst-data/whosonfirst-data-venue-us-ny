@@ -2,13 +2,14 @@
   "id": 353372011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.974227,40.681505,-73.974227,40.681505",
     "geom:latitude":40.681505,
     "geom:longitude":-73.974227,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"65 6th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869601,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85869601
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"47cec857db3b3b172b621a9dc69457f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869601,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353372011,
-    "wof:lastmodified":1449019830,
+    "wof:lastmodified":1454126407,
     "wof:name":"N Y C Police Dept",
     "wof:parent_id":85869601,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "protection"
     ]
 },
-  "bbox": [-73.974227,40.681505,-73.974227,40.681505],
+  "bbox": [
+    -73.974227,
+    40.681505,
+    -73.974227,
+    40.681505
+],
   "geometry": {"coordinates":[-73.974227,40.681505],"type":"Point"}
 }

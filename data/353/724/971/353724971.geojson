@@ -2,13 +2,14 @@
   "id": 353724971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.972683,40.652639,-73.972683,40.652639",
     "geom:latitude":40.652639,
     "geom:longitude":-73.972683,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 Greenwood Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869821,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"3c17f64f7aabb9b78d8371b2e3fda0b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85869821,
             "region_id":85688543,
             "venue_id":353724971
         }
     ],
     "wof:id":353724971,
-    "wof:lastmodified":1449020718,
+    "wof:lastmodified":1454126663,
     "wof:name":"Ylms Total Management Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869821,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "related"
     ]
 },
-  "bbox": [-73.972683,40.652639,-73.972683,40.652639],
+  "bbox": [
+    -73.972683,
+    40.652639,
+    -73.972683,
+    40.652639
+],
   "geometry": {"coordinates":[-73.972683,40.652639],"type":"Point"}
 }

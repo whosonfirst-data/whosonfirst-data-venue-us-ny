@@ -2,13 +2,14 @@
   "id": 403816471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.687852,40.830619,-73.687852,40.830619",
     "geom:latitude":40.830619,
     "geom:longitude":-73.687852,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"71 Main St",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529161,
+        102191575,
+        404522729,
         85633793,
         85979185,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"d97f8457d81c1445a069dd2ff39809f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979185,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529161,
             "region_id":85688543,
             "venue_id":403816471
         }
     ],
     "wof:id":403816471,
-    "wof:lastmodified":1449055414,
+    "wof:lastmodified":1454129433,
     "wof:name":"Port Washington Fish Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529161,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.687852,40.830619,-73.687852,40.830619],
-  "geometry": {"coordinates":[-73.687852,40.830619],"type":"Point"}
+  "bbox": [
+    -73.687852,
+    40.830619,
+    -73.687852,
+    40.830619
+],
+  "geometry": {"coordinates":[-73.68785200000001,40.830619],"type":"Point"}
 }

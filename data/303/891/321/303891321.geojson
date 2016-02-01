@@ -2,13 +2,14 @@
   "id": 303891321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.211998,41.646111,-74.211998,41.646111",
     "geom:latitude":41.646111,
     "geom:longitude":-74.211998,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1217 Hoagerburgh Rd",
     "sg:city":"Wallkill",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85820945,
+        102081775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"a76741a6bed0b3aabf16d6b97640ced3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081775,
+            "neighbourhood_id":85820945,
             "region_id":85688543,
             "venue_id":303891321
         }
     ],
     "wof:id":303891321,
-    "wof:lastmodified":1448999593,
+    "wof:lastmodified":1454123455,
     "wof:name":"Millefiore Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85820945,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "supply"
     ]
 },
-  "bbox": [-74.211998,41.646111,-74.211998,41.646111],
-  "geometry": {"coordinates":[-74.211998,41.646111],"type":"Point"}
+  "bbox": [
+    -74.211998,
+    41.646111,
+    -74.211998,
+    41.646111
+],
+  "geometry": {"coordinates":[-74.21199799999999,41.646111],"type":"Point"}
 }

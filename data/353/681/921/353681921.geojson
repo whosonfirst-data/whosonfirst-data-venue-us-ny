@@ -2,13 +2,14 @@
   "id": 353681921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.825285,42.875582,-78.825285,42.875582",
     "geom:latitude":42.875582,
     "geom:longitude":-78.825285,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"127 Baitz Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528549,
+        102191575,
+        404522329,
         85633793,
         85978023,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"15f0b8422502dc3f9a6faaf419ea0e83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528549,
             "region_id":85688543,
             "venue_id":353681921
         }
     ],
     "wof:id":353681921,
-    "wof:lastmodified":1449019844,
+    "wof:lastmodified":1454126410,
     "wof:name":"Chandler Carpet & Upholstery",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528549,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "carpet"
     ]
 },
-  "bbox": [-78.825285,42.875582,-78.825285,42.875582],
-  "geometry": {"coordinates":[-78.825285,42.875582],"type":"Point"}
+  "bbox": [
+    -78.825285,
+    42.875582,
+    -78.825285,
+    42.875582
+],
+  "geometry": {"coordinates":[-78.82528499999999,42.875582],"type":"Point"}
 }

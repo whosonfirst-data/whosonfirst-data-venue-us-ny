@@ -2,13 +2,14 @@
   "id": 371130909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.990481,40.755028,-73.990481,40.755028",
     "geom:latitude":40.755028,
     "geom:longitude":-73.990481,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"231 W 39 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867073,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85867073
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"cea303208fc9a59c9ce42e62457f36bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85867073,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":371130909,
-    "wof:lastmodified":1449049361,
+    "wof:lastmodified":1454129113,
     "wof:name":"Roundabout Theatre Co Inc",
     "wof:parent_id":85867073,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "center"
     ]
 },
-  "bbox": [-73.990481,40.755028,-73.990481,40.755028],
+  "bbox": [
+    -73.990481,
+    40.755028,
+    -73.990481,
+    40.755028
+],
   "geometry": {"coordinates":[-73.990481,40.755028],"type":"Point"}
 }

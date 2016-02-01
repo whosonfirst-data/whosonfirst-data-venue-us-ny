@@ -2,13 +2,14 @@
   "id": 287161441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.991709,41.167433,-73.991709,41.167433",
     "geom:latitude":41.167433,
     "geom:longitude":-73.991709,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"92 Crum Creek Rd",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529785,
+        102191575,
+        404523091,
         85633793,
         85979971,
-        102082385
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"b718ea7c1cf261063505e01623d06209",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523091,
             "locality_id":85979971,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529785,
             "region_id":85688543,
             "venue_id":287161441
         }
     ],
     "wof:id":287161441,
-    "wof:lastmodified":1449001016,
+    "wof:lastmodified":1454123833,
     "wof:name":"AMG Realty Holdings LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529785,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "holding"
     ]
 },
-  "bbox": [-73.991709,41.167433,-73.991709,41.167433],
+  "bbox": [
+    -73.991709,
+    41.167433,
+    -73.991709,
+    41.167433
+],
   "geometry": {"coordinates":[-73.991709,41.167433],"type":"Point"}
 }

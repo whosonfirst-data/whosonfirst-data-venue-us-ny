@@ -2,13 +2,14 @@
   "id": 320274129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.197431,40.819787,-73.197431,40.819787",
     "geom:latitude":40.819787,
     "geom:longitude":-73.197431,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Pleasant View Ct",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"4687b514fe4484fb3fdea4c1255bcccf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":320274129
         }
     ],
     "wof:id":320274129,
-    "wof:lastmodified":1449011706,
+    "wof:lastmodified":1454124837,
     "wof:name":"R D J Distributors Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "beverage"
     ]
 },
-  "bbox": [-73.197431,40.819787,-73.197431,40.819787],
-  "geometry": {"coordinates":[-73.197431,40.819787],"type":"Point"}
+  "bbox": [
+    -73.197431,
+    40.819787,
+    -73.197431,
+    40.819787
+],
+  "geometry": {"coordinates":[-73.19743099999999,40.819787],"type":"Point"}
 }

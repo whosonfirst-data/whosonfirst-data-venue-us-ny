@@ -2,13 +2,14 @@
   "id": 319841261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.930973,41.093007,-73.930973,41.093007",
     "geom:latitude":41.093007,
     "geom:longitude":-73.930973,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"26 State Hwy 59",
     "sg:city":"Nyack",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.mountararat.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836399,
+        102191575,
+        404523095,
         85633793,
         85980003,
         102082385,
-        85836399
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"32cabb372985a4e187368a98caf5cd75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523095,
             "locality_id":85980003,
             "neighbourhood_id":85836399,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":319841261,
-    "wof:lastmodified":1449024260,
+    "wof:lastmodified":1454126743,
     "wof:name":"Ararat Beckons",
     "wof:parent_id":85836399,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.930973,41.093007,-73.930973,41.093007],
-  "geometry": {"coordinates":[-73.930973,41.093007],"type":"Point"}
+  "bbox": [
+    -73.930973,
+    41.093007,
+    -73.930973,
+    41.093007
+],
+  "geometry": {"coordinates":[-73.93097299999999,41.093007],"type":"Point"}
 }

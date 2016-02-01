@@ -2,13 +2,14 @@
   "id": 354335621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.458408,43.282858,-75.458408,43.282858",
     "geom:latitude":43.282858,
     "geom:longitude":-75.458408,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6441 Elmer Hill Rd",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529303,
+        102191575,
+        404522697,
         85633793,
+        85978369,
+        102083149,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"a7bcac763bac63878b6f93e82ee6469e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083149,
+            "localadmin_id":404522697,
+            "locality_id":85978369,
+            "neighbourhood_id":420529303,
             "region_id":85688543,
             "venue_id":354335621
         }
     ],
     "wof:id":354335621,
-    "wof:lastmodified":1449067102,
+    "wof:lastmodified":1454131128,
     "wof:name":"Martinelli Appraisal Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529303,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "appraisal"
     ]
 },
-  "bbox": [-75.458408,43.282858,-75.458408,43.282858],
-  "geometry": {"coordinates":[-75.458408,43.282858],"type":"Point"}
+  "bbox": [
+    -75.458408,
+    43.282858,
+    -75.458408,
+    43.282858
+],
+  "geometry": {"coordinates":[-75.45840800000001,43.282858],"type":"Point"}
 }

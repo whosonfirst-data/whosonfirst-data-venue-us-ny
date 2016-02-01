@@ -2,13 +2,14 @@
   "id": 287128697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.690113,40.843164,-73.690113,40.843164",
     "geom:latitude":40.843164,
     "geom:longitude":-73.690113,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Astor Ln",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85842853,
+        102191575,
+        404522729,
         85633793,
+        85979185,
+        102082371,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"345e6489185e61f718a7c87baae4b8e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082371,
+            "localadmin_id":404522729,
+            "locality_id":85979185,
+            "neighbourhood_id":85842853,
             "region_id":85688543,
             "venue_id":287128697
         }
     ],
     "wof:id":287128697,
-    "wof:lastmodified":1449001014,
+    "wof:lastmodified":1454123832,
     "wof:name":"Sodexho Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842853,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "contract"
     ]
 },
-  "bbox": [-73.690113,40.843164,-73.690113,40.843164],
+  "bbox": [
+    -73.690113,
+    40.843164,
+    -73.690113,
+    40.843164
+],
   "geometry": {"coordinates":[-73.690113,40.843164],"type":"Point"}
 }

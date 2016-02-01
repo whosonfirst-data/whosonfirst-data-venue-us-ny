@@ -2,13 +2,14 @@
   "id": 387479571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.720832,40.840469,-73.720832,40.840469",
     "geom:latitude":40.840469,
     "geom:longitude":-73.720832,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Dunes Ln",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832155,
+        102191575,
+        404522729,
         85633793,
+        85977599,
         102082371,
-        85832155
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +47,18 @@
     "wof:geomhash":"c8a79d9a2b42c2f895bb23327416db75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":-1,
+            "localadmin_id":404522729,
+            "locality_id":85977599,
             "neighbourhood_id":85832155,
             "region_id":85688543,
             "venue_id":387479571
         }
     ],
     "wof:id":387479571,
-    "wof:lastmodified":1449058711,
+    "wof:lastmodified":1454129997,
     "wof:name":"Athena Interior Designs",
     "wof:parent_id":85832155,
     "wof:placetype":"venue",
@@ -66,6 +71,11 @@
         "decorator"
     ]
 },
-  "bbox": [-73.720832,40.840469,-73.720832,40.840469],
+  "bbox": [
+    -73.720832,
+    40.840469,
+    -73.720832,
+    40.840469
+],
   "geometry": {"coordinates":[-73.720832,40.840469],"type":"Point"}
 }

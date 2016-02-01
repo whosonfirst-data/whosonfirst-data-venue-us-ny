@@ -2,13 +2,14 @@
   "id": 370475957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.131818,43.060533,-76.131818,43.060533",
     "geom:latitude":43.060533,
     "geom:longitude":-76.131818,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1019 James St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881255,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881255
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"da16b3307367ecac3f4739f535f56507",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881255,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370475957,
-    "wof:lastmodified":1449030491,
+    "wof:lastmodified":1454127727,
     "wof:name":"James Hill Manor Apartments",
     "wof:parent_id":85881255,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "apartment"
     ]
 },
-  "bbox": [-76.131818,43.060533,-76.131818,43.060533],
+  "bbox": [
+    -76.131818,
+    43.060533,
+    -76.131818,
+    43.060533
+],
   "geometry": {"coordinates":[-76.131818,43.060533],"type":"Point"}
 }

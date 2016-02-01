@@ -2,13 +2,14 @@
   "id": 353542351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.049202,40.74749,-73.049202,40.74749",
     "geom:latitude":40.74749,
     "geom:longitude":-73.049202,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"874 Montauk Hwy",
     "sg:city":"Bayport",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.woodlandvalley.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840885,
+        102191575,
+        404521441,
         85633793,
         85978461,
         102082395,
-        85840885
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"7fa92ab2a59dfe3485e686a526bb7624",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85978461,
             "neighbourhood_id":85840885,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":353542351,
-    "wof:lastmodified":1449020257,
+    "wof:lastmodified":1454126529,
     "wof:name":"Woodland Valley Fireplace LTD",
     "wof:parent_id":85840885,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "fireplace"
     ]
 },
-  "bbox": [-73.049202,40.74749,-73.049202,40.74749],
-  "geometry": {"coordinates":[-73.049202,40.74749],"type":"Point"}
+  "bbox": [
+    -73.049202,
+    40.74749,
+    -73.049202,
+    40.74749
+],
+  "geometry": {"coordinates":[-73.04920199999999,40.74749],"type":"Point"}
 }

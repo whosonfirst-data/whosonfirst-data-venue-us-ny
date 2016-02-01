@@ -2,13 +2,14 @@
   "id": 354402215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.087415,40.831396,-73.087415,40.831396",
     "geom:latitude":40.831396,
     "geom:longitude":-73.087415,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"600 Portion Rd Unit 1",
     "sg:city":"Ronkonkoma",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.unitedfsg.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892999,
+        102191575,
+        404521441,
         85633793,
         85979825,
         102082395,
-        85892999
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"7c020bb3165393df5d8d48533005548c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979825,
             "neighbourhood_id":85892999,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":354402215,
-    "wof:lastmodified":1449066455,
+    "wof:lastmodified":1454130929,
     "wof:name":"United Check Cashing",
     "wof:parent_id":85892999,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "check"
     ]
 },
-  "bbox": [-73.087415,40.831396,-73.087415,40.831396],
-  "geometry": {"coordinates":[-73.087415,40.831396],"type":"Point"}
+  "bbox": [
+    -73.087415,
+    40.831396,
+    -73.087415,
+    40.831396
+],
+  "geometry": {"coordinates":[-73.08741499999999,40.831396],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354260041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.852826,40.858492,-73.852826,40.858492",
     "geom:latitude":40.858492,
     "geom:longitude":-73.852826,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1221 Pelham Pkwy N",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528059,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"e25f6782c1a3358d7eb994cd7d2b77e7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528059,
             "region_id":85688543,
             "venue_id":354260041
         }
     ],
     "wof:id":354260041,
-    "wof:lastmodified":1449066221,
+    "wof:lastmodified":1454130860,
     "wof:name":"Best Way Delivery Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528059,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "trucking"
     ]
 },
-  "bbox": [-73.852826,40.858492,-73.852826,40.858492],
-  "geometry": {"coordinates":[-73.852826,40.858492],"type":"Point"}
+  "bbox": [
+    -73.852826,
+    40.858492,
+    -73.852826,
+    40.858492
+],
+  "geometry": {"coordinates":[-73.85282599999999,40.858492],"type":"Point"}
 }

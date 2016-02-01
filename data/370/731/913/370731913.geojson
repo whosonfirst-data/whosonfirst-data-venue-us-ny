@@ -2,13 +2,14 @@
   "id": 370731913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.997384,40.746573,-73.997384,40.746573",
     "geom:latitude":40.746573,
     "geom:longitude":-73.997384,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"207 W 25th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810589,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810589
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"8c3060b03c6586be9b6b5b5581d9262d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810589,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370731913,
-    "wof:lastmodified":1449032098,
+    "wof:lastmodified":1454128199,
     "wof:name":"Ctp Casting",
     "wof:parent_id":85810589,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "paymaster"
     ]
 },
-  "bbox": [-73.997384,40.746573,-73.997384,40.746573],
+  "bbox": [
+    -73.997384,
+    40.746573,
+    -73.997384,
+    40.746573
+],
   "geometry": {"coordinates":[-73.997384,40.746573],"type":"Point"}
 }

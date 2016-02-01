@@ -2,13 +2,14 @@
   "id": 387632731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.096576,40.602709,-74.096576,40.602709",
     "geom:latitude":40.602709,
     "geom:longitude":-74.096576,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"59 Medford Rd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529767,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"736faace71b6af6fd08443a53aaa3aaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529767,
             "region_id":85688543,
             "venue_id":387632731
         }
     ],
     "wof:id":387632731,
-    "wof:lastmodified":1449058538,
+    "wof:lastmodified":1454129967,
     "wof:name":"All Kitchen LL",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529767,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "refrigeration"
     ]
 },
-  "bbox": [-74.096576,40.602709,-74.096576,40.602709],
+  "bbox": [
+    -74.096576,
+    40.602709,
+    -74.096576,
+    40.602709
+],
   "geometry": {"coordinates":[-74.096576,40.602709],"type":"Point"}
 }

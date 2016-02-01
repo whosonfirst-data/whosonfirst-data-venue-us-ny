@@ -2,13 +2,14 @@
   "id": 370199501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.233382,40.824954,-73.233382,40.824954",
     "geom:latitude":40.824954,
     "geom:longitude":-73.233382,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"750 Veterans Hwy Ste 200",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     "sg:website":"http://www.gentiva.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"c71383a3bc8b50afc906a3d25cc3d8ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":370199501
         }
     ],
     "wof:id":370199501,
-    "wof:lastmodified":1449029439,
+    "wof:lastmodified":1454127419,
     "wof:name":"Gentiva Health Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-73.233382,40.824954,-73.233382,40.824954],
-  "geometry": {"coordinates":[-73.233382,40.824954],"type":"Point"}
+  "bbox": [
+    -73.233382,
+    40.824954,
+    -73.233382,
+    40.824954
+],
+  "geometry": {"coordinates":[-73.23338200000001,40.824954],"type":"Point"}
 }

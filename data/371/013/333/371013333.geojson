@@ -2,13 +2,14 @@
   "id": 371013333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.048188,43.250153,-79.048188,43.250153",
     "geom:latitude":43.250153,
     "geom:longitude":-79.048188,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"421 2nd St",
     "sg:city":"Youngstown",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820171,
+        102191575,
+        404522749,
         85633793,
+        85978265,
         102081767,
-        85820171
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +52,18 @@
     "wof:geomhash":"f86da033f201e2e3ee02da2147955e04",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
-            "locality_id":-1,
+            "localadmin_id":404522749,
+            "locality_id":85978265,
             "neighbourhood_id":85820171,
             "region_id":85688543,
             "venue_id":371013333
         }
     ],
     "wof:id":371013333,
-    "wof:lastmodified":1449049770,
+    "wof:lastmodified":1454129208,
     "wof:name":"HSBC Bank USA, N.A.",
     "wof:parent_id":85820171,
     "wof:placetype":"venue",
@@ -71,6 +76,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-79.048188,43.250153,-79.048188,43.250153],
+  "bbox": [
+    -79.048188,
+    43.250153,
+    -79.048188,
+    43.250153
+],
   "geometry": {"coordinates":[-79.048188,43.250153],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387500441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.566604,43.173447,-77.566604,43.173447",
     "geom:latitude":43.173447,
     "geom:longitude":-77.566604,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"41 Bedford St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880405,
+        102191575,
+        404521467,
         85633793,
-        85979035,
+        85977591,
         102081815,
-        85880405
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"f5d6cd92a85e38fdd15dbd357f7f1550",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85979035,
+            "localadmin_id":404521467,
+            "locality_id":85977591,
             "neighbourhood_id":85880405,
             "region_id":85688543,
             "venue_id":387500441
         }
     ],
     "wof:id":387500441,
-    "wof:lastmodified":1449057051,
+    "wof:lastmodified":1454129698,
     "wof:name":"Frederick's Service Enterprise",
     "wof:parent_id":85880405,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "copying"
     ]
 },
-  "bbox": [-77.566604,43.173447,-77.566604,43.173447],
+  "bbox": [
+    -77.566604,
+    43.173447,
+    -77.566604,
+    43.173447
+],
   "geometry": {"coordinates":[-77.566604,43.173447],"type":"Point"}
 }

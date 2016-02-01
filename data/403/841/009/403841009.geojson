@@ -2,13 +2,14 @@
   "id": 403841009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.133209,40.576487,-74.133209,40.576487",
     "geom:latitude":40.576487,
     "geom:longitude":-74.133209,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"193 Nugent St",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865887,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85865887
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"5709031b9084d72c28619ac0ab004fd2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865887,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":403841009,
-    "wof:lastmodified":1449054920,
+    "wof:lastmodified":1454129364,
     "wof:name":"Arambages Trucking Inc",
     "wof:parent_id":85865887,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "trucking"
     ]
 },
-  "bbox": [-74.133209,40.576487,-74.133209,40.576487],
-  "geometry": {"coordinates":[-74.133209,40.576487],"type":"Point"}
+  "bbox": [
+    -74.133209,
+    40.576487,
+    -74.133209,
+    40.576487
+],
+  "geometry": {"coordinates":[-74.13320899999999,40.576487],"type":"Point"}
 }

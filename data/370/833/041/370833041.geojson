@@ -2,13 +2,14 @@
   "id": 370833041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.654709,43.103321,-75.654709,43.103321",
     "geom:latitude":43.103321,
     "geom:longitude":-75.654709,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"349 Williams St",
     "sg:city":"Oneida",
     "sg:classifiers":[
@@ -38,10 +39,13 @@
     "sg:website":"http://www.lennox.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847377,
+        102191575,
+        404522679,
         85633793,
-        102083149,
-        85847377
+        85978049,
+        102080989,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +55,18 @@
     "wof:geomhash":"71577fb69670e551a9e0d888f2500250",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083149,
-            "locality_id":-1,
+            "county_id":102080989,
+            "localadmin_id":404522679,
+            "locality_id":85978049,
             "neighbourhood_id":85847377,
             "region_id":85688543,
             "venue_id":370833041
         }
     ],
     "wof:id":370833041,
-    "wof:lastmodified":1449029528,
+    "wof:lastmodified":1454127444,
     "wof:name":"Maycock & Evans Inc",
     "wof:parent_id":85847377,
     "wof:placetype":"venue",
@@ -76,6 +81,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-75.654709,43.103321,-75.654709,43.103321],
+  "bbox": [
+    -75.654709,
+    43.103321,
+    -75.654709,
+    43.103321
+],
   "geometry": {"coordinates":[-75.654709,43.103321],"type":"Point"}
 }

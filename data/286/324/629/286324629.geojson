@@ -2,13 +2,14 @@
   "id": 286324629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.892457,40.862565,-73.892457,40.862565",
     "geom:latitude":40.862565,
     "geom:longitude":-73.892457,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2543 Marion Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819763,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85819763
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"e9bbb7e4dc7e0f3b3eab9cd7654f75cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819763,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":286324629,
-    "wof:lastmodified":1449016910,
+    "wof:lastmodified":1454125705,
     "wof:name":"Fordham Methodist Church",
     "wof:parent_id":85819763,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-73.892457,40.862565,-73.892457,40.862565],
-  "geometry": {"coordinates":[-73.892457,40.862565],"type":"Point"}
+  "bbox": [
+    -73.892457,
+    40.862565,
+    -73.892457,
+    40.862565
+],
+  "geometry": {"coordinates":[-73.89245699999999,40.862565],"type":"Point"}
 }

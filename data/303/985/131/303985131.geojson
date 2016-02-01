@@ -2,13 +2,14 @@
   "id": 303985131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.14771,40.918059,-73.14771,40.918059",
     "geom:latitude":40.918059,
     "geom:longitude":-73.14771,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"113 Main St",
     "sg:city":"Stony Brook",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824457,
+        102191575,
+        404521441,
         85633793,
-        85978487,
+        85979927,
         102082395,
-        85824457
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"d74095d6ec78100f30c797477de8308e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978487,
+            "localadmin_id":404521441,
+            "locality_id":85979927,
             "neighbourhood_id":85824457,
             "region_id":85688543,
             "venue_id":303985131
         }
     ],
     "wof:id":303985131,
-    "wof:lastmodified":1448999333,
+    "wof:lastmodified":1454123387,
     "wof:name":"Michael's",
     "wof:parent_id":85824457,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "riding"
     ]
 },
-  "bbox": [-73.14771,40.918059,-73.14771,40.918059],
+  "bbox": [
+    -73.14771,
+    40.918059,
+    -73.14771,
+    40.918059
+],
   "geometry": {"coordinates":[-73.14771,40.918059],"type":"Point"}
 }

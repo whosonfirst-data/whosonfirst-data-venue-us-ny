@@ -2,13 +2,14 @@
   "id": 353706575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.816948,40.715633,-73.816948,40.715633",
     "geom:latitude":40.715633,
     "geom:longitude":-73.816948,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14120 Grand Central Pkwy",
     "sg:city":"Jamaica",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865653,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865653
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"71be4e3800c43af8d9827482695e015a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865653,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":353706575,
-    "wof:lastmodified":1449018437,
+    "wof:lastmodified":1454126001,
     "wof:name":"Bukharian Jewish Theater",
     "wof:parent_id":85865653,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "producer"
     ]
 },
-  "bbox": [-73.816948,40.715633,-73.816948,40.715633],
+  "bbox": [
+    -73.816948,
+    40.715633,
+    -73.816948,
+    40.715633
+],
   "geometry": {"coordinates":[-73.816948,40.715633],"type":"Point"}
 }

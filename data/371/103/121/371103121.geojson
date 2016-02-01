@@ -2,13 +2,14 @@
   "id": 371103121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.24801,40.721638,-73.24801,40.721638",
     "geom:latitude":40.721638,
     "geom:longitude":-73.24801,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9 4 Ave",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530027,
+        102191575,
+        404522517,
         85633793,
         85979719,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"11dbf94a0b496c3a7bc5bdf2a93384db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530027,
             "region_id":85688543,
             "venue_id":371103121
         }
     ],
     "wof:id":371103121,
-    "wof:lastmodified":1449049695,
+    "wof:lastmodified":1454129189,
     "wof:name":"Catholic Charities",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530027,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "welfare"
     ]
 },
-  "bbox": [-73.24801,40.721638,-73.24801,40.721638],
-  "geometry": {"coordinates":[-73.24801,40.721638],"type":"Point"}
+  "bbox": [
+    -73.24801,
+    40.721638,
+    -73.24801,
+    40.721638
+],
+  "geometry": {"coordinates":[-73.24800999999999,40.721638],"type":"Point"}
 }

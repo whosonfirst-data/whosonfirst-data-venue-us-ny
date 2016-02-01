@@ -2,13 +2,14 @@
   "id": 336671729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.8526,40.916264,-73.8526,40.916264",
     "geom:latitude":40.916264,
     "geom:longitude":-73.8526,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"45 Sherwood Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
-        85978759,
-        102082373
+        85978721,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"e868de81ae63e24d3570a807df6ae707",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523371,
+            "locality_id":85978721,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":336671729
         }
     ],
     "wof:id":336671729,
-    "wof:lastmodified":1448997198,
+    "wof:lastmodified":1454122464,
     "wof:name":"Poop Scoops",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "removal"
     ]
 },
-  "bbox": [-73.8526,40.916264,-73.8526,40.916264],
+  "bbox": [
+    -73.8526,
+    40.916264,
+    -73.8526,
+    40.916264
+],
   "geometry": {"coordinates":[-73.8526,40.916264],"type":"Point"}
 }

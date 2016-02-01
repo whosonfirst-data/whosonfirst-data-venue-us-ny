@@ -2,13 +2,14 @@
   "id": 270211177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.724722,40.77836,-73.724722,40.77836",
     "geom:latitude":40.77836,
     "geom:longitude":-73.724722,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"277 Northern Blvd",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85815033,
+        102191575,
+        404522729,
         85633793,
-        85977539,
-        102082377,
-        85815033
+        85977649,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,18 @@
     "wof:geomhash":"5c645cf8d33330c9413027ea06361896",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404522729,
+            "locality_id":85977649,
             "neighbourhood_id":85815033,
             "region_id":85688543,
             "venue_id":270211177
         }
     ],
     "wof:id":270211177,
-    "wof:lastmodified":1449009227,
+    "wof:lastmodified":1454124452,
     "wof:name":"Cavanaugh Patrick",
     "wof:parent_id":85815033,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "specialty"
     ]
 },
-  "bbox": [-73.724722,40.77836,-73.724722,40.77836],
+  "bbox": [
+    -73.724722,
+    40.77836,
+    -73.724722,
+    40.77836
+],
   "geometry": {"coordinates":[-73.724722,40.77836],"type":"Point"}
 }

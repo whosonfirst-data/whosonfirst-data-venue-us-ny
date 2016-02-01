@@ -2,13 +2,14 @@
   "id": 303833135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.191482,42.936765,-74.191482,42.936765",
     "geom:latitude":42.936765,
     "geom:longitude":-74.191482,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Church St",
     "sg:city":"Amsterdam",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85849399,
+        102191575,
+        404522661,
         85633793,
         85978245,
         102082985,
-        85849399
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"006150acc6524fc66dc76cf86229f455",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082985,
+            "localadmin_id":404522661,
             "locality_id":85978245,
             "neighbourhood_id":85849399,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":303833135,
-    "wof:lastmodified":1448998432,
+    "wof:lastmodified":1454123095,
     "wof:name":"US Post Office",
     "wof:parent_id":85849399,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "us"
     ]
 },
-  "bbox": [-74.191482,42.936765,-74.191482,42.936765],
-  "geometry": {"coordinates":[-74.191482,42.936765],"type":"Point"}
+  "bbox": [
+    -74.191482,
+    42.936765,
+    -74.191482,
+    42.936765
+],
+  "geometry": {"coordinates":[-74.19148199999999,42.936765],"type":"Point"}
 }

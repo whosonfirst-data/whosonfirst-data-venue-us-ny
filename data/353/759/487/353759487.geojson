@@ -2,13 +2,14 @@
   "id": 353759487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.700899,43.062792,-75.700899,43.062792",
     "geom:latitude":43.062792,
     "geom:longitude":-75.700899,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1178 Upper Lenox Ave",
     "sg:city":"Oneida",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528991,
+        102191575,
+        404522679,
         85633793,
         85978049,
-        102080989
+        102080989,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"7fa418ccdc83edd1be6370e0cc5a577c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080989,
+            "localadmin_id":404522679,
             "locality_id":85978049,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528991,
             "region_id":85688543,
             "venue_id":353759487
         }
     ],
     "wof:id":353759487,
-    "wof:lastmodified":1449020839,
+    "wof:lastmodified":1454126699,
     "wof:name":"Dutch Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528991,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-75.700899,43.062792,-75.700899,43.062792],
-  "geometry": {"coordinates":[-75.700899,43.062792],"type":"Point"}
+  "bbox": [
+    -75.700899,
+    43.062792,
+    -75.700899,
+    43.062792
+],
+  "geometry": {"coordinates":[-75.70089900000001,43.062792],"type":"Point"}
 }

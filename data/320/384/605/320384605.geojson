@@ -2,13 +2,14 @@
   "id": 320384605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.020075,40.814065,-73.020075,40.814065",
     "geom:latitude":40.814065,
     "geom:longitude":-73.020075,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1600 N Ocean Ave",
     "sg:city":"Holtsville",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"3304cc2c30559ef97ba150c68f21bd3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":320384605
         }
     ],
     "wof:id":320384605,
-    "wof:lastmodified":1449011715,
+    "wof:lastmodified":1454124838,
     "wof:name":"North Shore Christmas Decor",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.020075,40.814065,-73.020075,40.814065],
-  "geometry": {"coordinates":[-73.020075,40.814065],"type":"Point"}
+  "bbox": [
+    -73.020075,
+    40.814065,
+    -73.020075,
+    40.814065
+],
+  "geometry": {"coordinates":[-73.02007500000001,40.814065],"type":"Point"}
 }

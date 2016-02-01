@@ -2,13 +2,14 @@
   "id": 286609655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.500604,42.436826,-76.500604,42.436826",
     "geom:latitude":42.436826,
     "geom:longitude":-76.500604,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"301 S Geneva St",
     "sg:city":"Ithaca",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85878375,
+        102191575,
+        404523231,
         85633793,
         85978779,
-        102082355
+        102082355,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"44e564be33aec5320ef97346a937154d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082355,
+            "localadmin_id":404523231,
             "locality_id":85978779,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85878375,
             "region_id":85688543,
             "venue_id":286609655
         }
     ],
     "wof:id":286609655,
-    "wof:lastmodified":1449016274,
+    "wof:lastmodified":1454125591,
     "wof:name":"Paramountbookscom",
-    "wof:parent_id":-1,
+    "wof:parent_id":85878375,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "publishing"
     ]
 },
-  "bbox": [-76.500604,42.436826,-76.500604,42.436826],
+  "bbox": [
+    -76.500604,
+    42.436826,
+    -76.500604,
+    42.436826
+],
   "geometry": {"coordinates":[-76.500604,42.436826],"type":"Point"}
 }

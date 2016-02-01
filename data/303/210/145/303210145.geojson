@@ -2,13 +2,14 @@
   "id": 303210145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.159962,40.548211,-74.159962,40.548211",
     "geom:latitude":40.548211,
     "geom:longitude":-74.159962,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"592 Armstrong Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817977,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85817977
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"fd52dbeba02c8be74549576f7278b7d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85817977,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303210145,
-    "wof:lastmodified":1448998946,
+    "wof:lastmodified":1454123279,
     "wof:name":"Financial Investigative Svc",
     "wof:parent_id":85817977,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "financial"
     ]
 },
-  "bbox": [-74.159962,40.548211,-74.159962,40.548211],
-  "geometry": {"coordinates":[-74.159962,40.548211],"type":"Point"}
+  "bbox": [
+    -74.159962,
+    40.548211,
+    -74.159962,
+    40.548211
+],
+  "geometry": {"coordinates":[-74.15996199999999,40.548211],"type":"Point"}
 }

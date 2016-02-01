@@ -2,13 +2,14 @@
   "id": 320309231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.249513,40.889174,-73.249513,40.889174",
     "geom:latitude":40.889174,
     "geom:longitude":-73.249513,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"74 Old Dock Rd",
     "sg:city":"Kings Park",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846945,
+        102191575,
+        404522669,
         85633793,
         85979669,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"ee2af9884a1e1294b77d4a436403932b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979669,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85846945,
             "region_id":85688543,
             "venue_id":320309231
         }
     ],
     "wof:id":320309231,
-    "wof:lastmodified":1449012084,
+    "wof:lastmodified":1454124895,
     "wof:name":"Sisters Of Charity",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846945,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "convent"
     ]
 },
-  "bbox": [-73.249513,40.889174,-73.249513,40.889174],
-  "geometry": {"coordinates":[-73.249513,40.889174],"type":"Point"}
+  "bbox": [
+    -73.249513,
+    40.889174,
+    -73.249513,
+    40.889174
+],
+  "geometry": {"coordinates":[-73.24951299999999,40.889174],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353562995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.759903,40.683201,-73.759903,40.683201",
     "geom:latitude":40.683201,
     "geom:longitude":-73.759903,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18602 122nd Ave",
     "sg:city":"Springfield Gardens",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558371,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"e95a70beb6afcc3e4837642397979237",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558371,
             "region_id":85688543,
             "venue_id":353562995
         }
     ],
     "wof:id":353562995,
-    "wof:lastmodified":1449019610,
+    "wof:lastmodified":1454126343,
     "wof:name":"Torres Grocery",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558371,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.759903,40.683201,-73.759903,40.683201],
-  "geometry": {"coordinates":[-73.759903,40.683201],"type":"Point"}
+  "bbox": [
+    -73.759903,
+    40.683201,
+    -73.759903,
+    40.683201
+],
+  "geometry": {"coordinates":[-73.75990299999999,40.683201],"type":"Point"}
 }

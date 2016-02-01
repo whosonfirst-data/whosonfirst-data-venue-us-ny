@@ -2,13 +2,14 @@
   "id": 386940341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.688895,43.167074,-78.688895,43.167074",
     "geom:latitude":43.167074,
     "geom:longitude":-78.688895,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 Locust St",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529193,
+        102191575,
+        404522737,
         85633793,
-        85978249,
-        102081767
+        85979541,
+        102081767,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"45b072bc7e4f39b8e09d840227e639b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
-            "locality_id":85978249,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522737,
+            "locality_id":85979541,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":386940341
         }
     ],
     "wof:id":386940341,
-    "wof:lastmodified":1449028692,
+    "wof:lastmodified":1454127209,
     "wof:name":"Roth Consulting Group Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-78.688895,43.167074,-78.688895,43.167074],
+  "bbox": [
+    -78.688895,
+    43.167074,
+    -78.688895,
+    43.167074
+],
   "geometry": {"coordinates":[-78.688895,43.167074],"type":"Point"}
 }

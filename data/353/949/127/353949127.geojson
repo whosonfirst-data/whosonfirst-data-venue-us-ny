@@ -2,13 +2,14 @@
   "id": 353949127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.65359,40.629388,-73.65359,40.629388",
     "geom:latitude":40.629388,
     "geom:longitude":-73.65359,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3333 Royal Ave",
     "sg:city":"Oceanside",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865343,
+        102191575,
+        404521473,
         85633793,
         85979143,
         102082371,
-        85865343
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"70ec7e17d32918faf23ff9a14bf88fc7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979143,
             "neighbourhood_id":85865343,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":353949127,
-    "wof:lastmodified":1449019855,
+    "wof:lastmodified":1454126413,
     "wof:name":"Richard Epstein",
     "wof:parent_id":85865343,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.65359,40.629388,-73.65359,40.629388],
-  "geometry": {"coordinates":[-73.65359,40.629388],"type":"Point"}
+  "bbox": [
+    -73.65359,
+    40.629388,
+    -73.65359,
+    40.629388
+],
+  "geometry": {"coordinates":[-73.65358999999999,40.629388],"type":"Point"}
 }

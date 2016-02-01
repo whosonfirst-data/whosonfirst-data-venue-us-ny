@@ -2,13 +2,14 @@
   "id": 286545269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.806028,40.895827,-73.806028,40.895827",
     "geom:latitude":40.895827,
     "geom:longitude":-73.806028,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4666 Boston Post Rd",
     "sg:city":"Pelham",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85885399,
+        102191575,
+        404523383,
         85633793,
         85978709,
         102082373,
-        85885399
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"094303d4ad4fbd71138d50d2e22da07b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523383,
             "locality_id":85978709,
             "neighbourhood_id":85885399,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":286545269,
-    "wof:lastmodified":1449015877,
+    "wof:lastmodified":1454125519,
     "wof:name":"French Wine Shop The",
     "wof:parent_id":85885399,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "alcoholic"
     ]
 },
-  "bbox": [-73.806028,40.895827,-73.806028,40.895827],
+  "bbox": [
+    -73.806028,
+    40.895827,
+    -73.806028,
+    40.895827
+],
   "geometry": {"coordinates":[-73.806028,40.895827],"type":"Point"}
 }

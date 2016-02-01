@@ -2,13 +2,14 @@
   "id": 270162201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.877299,40.970546,-73.877299,40.970546",
     "geom:latitude":40.970546,
     "geom:longitude":-73.877299,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Corporate Dr",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881895,
+        102191575,
+        404523397,
         85633793,
         85978759,
         102082373,
-        85881895
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"ddbfcddf0f5c94b341332588292b1f2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
             "neighbourhood_id":85881895,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":270162201,
-    "wof:lastmodified":1449010728,
+    "wof:lastmodified":1454124677,
     "wof:name":"Genzyme Genetics",
     "wof:parent_id":85881895,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "human"
     ]
 },
-  "bbox": [-73.877299,40.970546,-73.877299,40.970546],
-  "geometry": {"coordinates":[-73.877299,40.970546],"type":"Point"}
+  "bbox": [
+    -73.877299,
+    40.970546,
+    -73.877299,
+    40.970546
+],
+  "geometry": {"coordinates":[-73.87729899999999,40.970546],"type":"Point"}
 }

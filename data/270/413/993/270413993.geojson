@@ -2,13 +2,14 @@
   "id": 270413993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.810307,40.929114,-73.810307,40.929114",
     "geom:latitude":40.929114,
     "geom:longitude":-73.810307,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"480 New Rochelle Rd",
     "sg:city":"Bronxville",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892799,
+        102191575,
+        404523383,
         85633793,
-        85978721,
+        85978711,
         102082373,
-        85892799
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"393a57033c8b841f47c6b3a8b5a33ad5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978721,
+            "localadmin_id":404523383,
+            "locality_id":85978711,
             "neighbourhood_id":85892799,
             "region_id":85688543,
             "venue_id":270413993
         }
     ],
     "wof:id":270413993,
-    "wof:lastmodified":1449009013,
+    "wof:lastmodified":1454124419,
     "wof:name":"Balanced Martial Arts",
     "wof:parent_id":85892799,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "instruction"
     ]
 },
-  "bbox": [-73.810307,40.929114,-73.810307,40.929114],
-  "geometry": {"coordinates":[-73.810307,40.929114],"type":"Point"}
+  "bbox": [
+    -73.810307,
+    40.929114,
+    -73.810307,
+    40.929114
+],
+  "geometry": {"coordinates":[-73.81030699999999,40.929114],"type":"Point"}
 }

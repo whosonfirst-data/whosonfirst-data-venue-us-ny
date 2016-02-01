@@ -2,13 +2,14 @@
   "id": 387676551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.988439,41.14648,-73.988439,41.14648",
     "geom:latitude":41.14648,
     "geom:longitude":-73.988439,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Maple Ave",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"d65a44dbb2fe5b8dd5ecc533a6cae29a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":387676551
         }
     ],
     "wof:id":387676551,
-    "wof:lastmodified":1449058548,
+    "wof:lastmodified":1454129969,
     "wof:name":"Clarkstown Marriage License",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "village"
     ]
 },
-  "bbox": [-73.988439,41.14648,-73.988439,41.14648],
+  "bbox": [
+    -73.988439,
+    41.14648,
+    -73.988439,
+    41.14648
+],
   "geometry": {"coordinates":[-73.988439,41.14648],"type":"Point"}
 }

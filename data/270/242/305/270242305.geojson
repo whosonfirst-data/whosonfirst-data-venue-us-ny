@@ -2,13 +2,14 @@
   "id": 270242305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.811332,40.854342,-72.811332,40.854342",
     "geom:latitude":40.854342,
     "geom:longitude":-72.811332,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"130 South St",
     "sg:city":"Manorville",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530021,
+        102191575,
+        404521441,
         85633793,
         85979761,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"f8db168f3f373c7f9737acea65d258fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530021,
             "region_id":85688543,
             "venue_id":270242305
         }
     ],
     "wof:id":270242305,
-    "wof:lastmodified":1449010803,
+    "wof:lastmodified":1454124690,
     "wof:name":"Administration",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530021,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "an"
     ]
 },
-  "bbox": [-72.811332,40.854342,-72.811332,40.854342],
-  "geometry": {"coordinates":[-72.811332,40.854342],"type":"Point"}
+  "bbox": [
+    -72.811332,
+    40.854342,
+    -72.811332,
+    40.854342
+],
+  "geometry": {"coordinates":[-72.81133199999999,40.854342],"type":"Point"}
 }

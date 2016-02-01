@@ -2,13 +2,14 @@
   "id": 354203871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.032063,40.844035,-73.032063,40.844035",
     "geom:latitude":40.844035,
     "geom:longitude":-73.032063,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Foxboro Ave",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"abde822a87a6aa16dac241a38d6dec00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354203871
         }
     ],
     "wof:id":354203871,
-    "wof:lastmodified":1449066668,
+    "wof:lastmodified":1454130996,
     "wof:name":"School Link Inc",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "educational"
     ]
 },
-  "bbox": [-73.032063,40.844035,-73.032063,40.844035],
-  "geometry": {"coordinates":[-73.032063,40.844035],"type":"Point"}
+  "bbox": [
+    -73.032063,
+    40.844035,
+    -73.032063,
+    40.844035
+],
+  "geometry": {"coordinates":[-73.03206299999999,40.844035],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169853287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.957199,40.712399,-73.957199,40.712399",
     "geom:latitude":40.712399,
     "geom:longitude":-73.957199,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"130 Havemeyer St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865603,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865603
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"e5ab848ca0b42765bd2c2fbe74b819ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865603,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":169853287,
-    "wof:lastmodified":1449034008,
+    "wof:lastmodified":1454128396,
     "wof:name":"C Town",
     "wof:parent_id":85865603,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.957199,40.712399,-73.957199,40.712399],
+  "bbox": [
+    -73.957199,
+    40.712399,
+    -73.957199,
+    40.712399
+],
   "geometry": {"coordinates":[-73.957199,40.712399],"type":"Point"}
 }

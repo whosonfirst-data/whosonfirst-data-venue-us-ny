@@ -2,13 +2,14 @@
   "id": 320229697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.711133,40.703874,-73.711133,40.703874",
     "geom:latitude":40.703874,
     "geom:longitude":-73.711133,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"314 Elmont Rd",
     "sg:city":"Elmont",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529145,
+        102191575,
+        404521473,
         85633793,
         85979137,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"23acd6368a25e1ccddcce36382e0c8de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979137,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529145,
             "region_id":85688543,
             "venue_id":320229697
         }
     ],
     "wof:id":320229697,
-    "wof:lastmodified":1449014211,
+    "wof:lastmodified":1454125243,
     "wof:name":"Sprung Monument Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529145,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-73.711133,40.703874,-73.711133,40.703874],
+  "bbox": [
+    -73.711133,
+    40.703874,
+    -73.711133,
+    40.703874
+],
   "geometry": {"coordinates":[-73.711133,40.703874],"type":"Point"}
 }

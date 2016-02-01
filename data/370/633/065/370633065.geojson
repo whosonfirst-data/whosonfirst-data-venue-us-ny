@@ -2,13 +2,14 @@
   "id": 370633065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.703528,40.688172,-73.703528,40.688172",
     "geom:latitude":40.688172,
     "geom:longitude":-73.703528,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1638 Woodstock St",
     "sg:city":"Elmont",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85838141,
+        102191575,
+        404521473,
         85633793,
-        85979041,
+        85979137,
         102082371,
-        85838141
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"d4ff2bd65aca14700ec0dab4da9c7367",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979041,
+            "localadmin_id":404521473,
+            "locality_id":85979137,
             "neighbourhood_id":85838141,
             "region_id":85688543,
             "venue_id":370633065
         }
     ],
     "wof:id":370633065,
-    "wof:lastmodified":1449032441,
+    "wof:lastmodified":1454128303,
     "wof:name":"Kate S Saloon",
     "wof:parent_id":85838141,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "drinking"
     ]
 },
-  "bbox": [-73.703528,40.688172,-73.703528,40.688172],
-  "geometry": {"coordinates":[-73.703528,40.688172],"type":"Point"}
+  "bbox": [
+    -73.703528,
+    40.688172,
+    -73.703528,
+    40.688172
+],
+  "geometry": {"coordinates":[-73.70352800000001,40.688172],"type":"Point"}
 }

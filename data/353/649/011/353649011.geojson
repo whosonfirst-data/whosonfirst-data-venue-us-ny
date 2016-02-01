@@ -2,13 +2,14 @@
   "id": 353649011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.96677,41.193031,-73.96677,41.193031",
     "geom:latitude":41.193031,
     "geom:longitude":-73.96677,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"55 US Hwy 9w",
     "sg:city":"Haverstraw",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529787,
+        102191575,
+        404523093,
         85633793,
         85978549,
-        102082385
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"fe8df3f511e7d9f24c0d266da508d7d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523093,
             "locality_id":85978549,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529787,
             "region_id":85688543,
             "venue_id":353649011
         }
     ],
     "wof:id":353649011,
-    "wof:lastmodified":1449019978,
+    "wof:lastmodified":1454126449,
     "wof:name":"Ken Star Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529787,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.96677,41.193031,-73.96677,41.193031],
+  "bbox": [
+    -73.96677,
+    41.193031,
+    -73.96677,
+    41.193031
+],
   "geometry": {"coordinates":[-73.96677,41.193031],"type":"Point"}
 }

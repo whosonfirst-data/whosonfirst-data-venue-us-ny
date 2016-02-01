@@ -2,13 +2,14 @@
   "id": 303086779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.948417,41.081615,-73.948417,41.081615",
     "geom:latitude":41.081615,
     "geom:longitude":-73.948417,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"592 State Hwy 303",
     "sg:city":"Blauvelt",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836399,
+        102191575,
+        404523095,
         85633793,
         85980003,
         102082385,
-        85836399
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"c7b47e32088f7ca0958d528f10026ffc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523095,
             "locality_id":85980003,
             "neighbourhood_id":85836399,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303086779,
-    "wof:lastmodified":1448999755,
+    "wof:lastmodified":1454123501,
     "wof:name":"Gas Station and Convenince Str",
     "wof:parent_id":85836399,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "store"
     ]
 },
-  "bbox": [-73.948417,41.081615,-73.948417,41.081615],
-  "geometry": {"coordinates":[-73.948417,41.081615],"type":"Point"}
+  "bbox": [
+    -73.948417,
+    41.081615,
+    -73.948417,
+    41.081615
+],
+  "geometry": {"coordinates":[-73.94841700000001,41.081615],"type":"Point"}
 }

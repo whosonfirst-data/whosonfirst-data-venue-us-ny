@@ -2,13 +2,14 @@
   "id": 287109209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.873319,40.824166,-73.873319,40.824166",
     "geom:latitude":40.824166,
     "geom:longitude":-73.873319,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1600 Bruckner Blvd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528053,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"ad9bb6fe3b85402e6daad7ebb5be472a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528053,
             "region_id":85688543,
             "venue_id":287109209
         }
     ],
     "wof:id":287109209,
-    "wof:lastmodified":1449000969,
+    "wof:lastmodified":1454123822,
     "wof:name":"McDonalds",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "fast"
     ]
 },
-  "bbox": [-73.873319,40.824166,-73.873319,40.824166],
+  "bbox": [
+    -73.873319,
+    40.824166,
+    -73.873319,
+    40.824166
+],
   "geometry": {"coordinates":[-73.873319,40.824166],"type":"Point"}
 }

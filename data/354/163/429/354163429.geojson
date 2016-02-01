@@ -2,13 +2,14 @@
   "id": 354163429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.385353,40.65964,-73.385353,40.65964",
     "geom:latitude":40.65964,
     "geom:longitude":-73.385353,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"316 Lagoon Dr",
     "sg:city":"Copiague",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
-        85979803,
-        102082395
+        85978477,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"e35945743955d3d71d7257d27d9a8d14",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979803,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522513,
+            "locality_id":85978477,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":354163429
         }
     ],
     "wof:id":354163429,
-    "wof:lastmodified":1449067649,
+    "wof:lastmodified":1454131301,
     "wof:name":"James E Nolan Aia",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "architectural"
     ]
 },
-  "bbox": [-73.385353,40.65964,-73.385353,40.65964],
-  "geometry": {"coordinates":[-73.385353,40.65964],"type":"Point"}
+  "bbox": [
+    -73.385353,
+    40.65964,
+    -73.385353,
+    40.65964
+],
+  "geometry": {"coordinates":[-73.38535299999999,40.65964],"type":"Point"}
 }

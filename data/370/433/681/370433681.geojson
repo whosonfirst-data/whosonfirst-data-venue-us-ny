@@ -2,13 +2,14 @@
   "id": 370433681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.840157,40.955628,-73.840157,40.955628",
     "geom:latitude":40.955628,
     "geom:longitude":-73.840157,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"57 Massitoa Rd",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530419,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"575600e331bb9847c7bfe0a189b50a07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530419,
             "region_id":85688543,
             "venue_id":370433681
         }
     ],
     "wof:id":370433681,
-    "wof:lastmodified":1449029479,
+    "wof:lastmodified":1454127430,
     "wof:name":"Seneca Medical Trnsp LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530419,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-73.840157,40.955628,-73.840157,40.955628],
+  "bbox": [
+    -73.840157,
+    40.955628,
+    -73.840157,
+    40.955628
+],
   "geometry": {"coordinates":[-73.840157,40.955628],"type":"Point"}
 }

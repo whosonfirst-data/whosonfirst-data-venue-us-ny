@@ -2,13 +2,14 @@
   "id": 371129555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.662687,40.916876,-72.662687,40.916876",
     "geom:latitude":40.916876,
     "geom:longitude":-72.662687,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"39 W Main St",
     "sg:city":"Hampton Bays",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841881,
+        102191575,
+        404522671,
         85633793,
-        85979841,
+        85979909,
         102082395,
-        85841881
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"26fab9a2fca340d931a2b2969e285af9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979841,
+            "localadmin_id":404522671,
+            "locality_id":85979909,
             "neighbourhood_id":85841881,
             "region_id":85688543,
             "venue_id":371129555
         }
     ],
     "wof:id":371129555,
-    "wof:lastmodified":1449049889,
+    "wof:lastmodified":1454129237,
     "wof:name":"All Points Marine Supplies",
     "wof:parent_id":85841881,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-72.662687,40.916876,-72.662687,40.916876],
-  "geometry": {"coordinates":[-72.662687,40.916876],"type":"Point"}
+  "bbox": [
+    -72.662687,
+    40.916876,
+    -72.662687,
+    40.916876
+],
+  "geometry": {"coordinates":[-72.66268700000001,40.916876],"type":"Point"}
 }

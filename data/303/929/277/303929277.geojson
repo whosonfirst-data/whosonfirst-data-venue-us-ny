@@ -2,13 +2,14 @@
   "id": 303929277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.182229,40.867674,-73.182229,40.867674",
     "geom:latitude":40.867674,
     "geom:longitude":-73.182229,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14 Borrell Ct",
     "sg:city":"Saint James",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853877,
+        102191575,
+        404522669,
         85633793,
-        85979919,
+        85978443,
         102082395,
-        85853877
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"9ed7b7f61c02305b0edf0d9f7d9a0df0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
+            "localadmin_id":404522669,
+            "locality_id":85978443,
             "neighbourhood_id":85853877,
             "region_id":85688543,
             "venue_id":303929277
         }
     ],
     "wof:id":303929277,
-    "wof:lastmodified":1448999053,
+    "wof:lastmodified":1454123307,
     "wof:name":"Lane Leasing Ltd",
     "wof:parent_id":85853877,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "sales"
     ]
 },
-  "bbox": [-73.182229,40.867674,-73.182229,40.867674],
-  "geometry": {"coordinates":[-73.182229,40.867674],"type":"Point"}
+  "bbox": [
+    -73.182229,
+    40.867674,
+    -73.182229,
+    40.867674
+],
+  "geometry": {"coordinates":[-73.18222900000001,40.867674],"type":"Point"}
 }

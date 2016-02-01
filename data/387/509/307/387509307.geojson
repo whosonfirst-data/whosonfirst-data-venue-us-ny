@@ -2,13 +2,14 @@
   "id": 387509307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.976841,43.025666,-75.976841,43.025666",
     "geom:latitude":43.025666,
     "geom:longitude":-75.976841,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5263 Duguid Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85824903,
+        102082351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"e3b36c770158caf50afcea6a8ca4d8b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "neighbourhood_id":85824903,
             "region_id":85688543,
             "venue_id":387509307
         }
     ],
     "wof:id":387509307,
-    "wof:lastmodified":1449056272,
+    "wof:lastmodified":1454129560,
     "wof:name":"Calm Enterprises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85824903,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "pool"
     ]
 },
-  "bbox": [-75.976841,43.025666,-75.976841,43.025666],
-  "geometry": {"coordinates":[-75.976841,43.025666],"type":"Point"}
+  "bbox": [
+    -75.976841,
+    43.025666,
+    -75.976841,
+    43.025666
+],
+  "geometry": {"coordinates":[-75.97684099999999,43.025666],"type":"Point"}
 }

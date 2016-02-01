@@ -2,13 +2,14 @@
   "id": 270040841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.929983,41.285943,-73.929983,41.285943",
     "geom:latitude":41.285943,
     "geom:longitude":-73.929983,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"50 Hudson Ave",
     "sg:city":"Peekskill",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892981,
+        102191575,
+        404523381,
         85633793,
         85978715,
         102082373,
-        85892981
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"ed145f1c0447eb2f07d20430d920d5bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523381,
             "locality_id":85978715,
             "neighbourhood_id":85892981,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":270040841,
-    "wof:lastmodified":1449011062,
+    "wof:lastmodified":1454124731,
     "wof:name":"Panoply On Park",
     "wof:parent_id":85892981,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.929983,41.285943,-73.929983,41.285943],
-  "geometry": {"coordinates":[-73.929983,41.285943],"type":"Point"}
+  "bbox": [
+    -73.929983,
+    41.285943,
+    -73.929983,
+    41.285943
+],
+  "geometry": {"coordinates":[-73.92998299999999,41.285943],"type":"Point"}
 }

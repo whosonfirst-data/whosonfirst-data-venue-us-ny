@@ -2,13 +2,14 @@
   "id": 337603431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.883687,40.747445,-73.883687,40.747445",
     "geom:latitude":40.747445,
     "geom:longitude":-73.883687,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"82-02 Roosevelt Ave Ste 4",
     "sg:city":"Queens",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817879,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85817879
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"22f42437b4108e844a726b1d1686732d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85817879,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":337603431,
-    "wof:lastmodified":1449027609,
+    "wof:lastmodified":1454127133,
     "wof:name":"82 News Inc",
     "wof:parent_id":85817879,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "medium"
     ]
 },
-  "bbox": [-73.883687,40.747445,-73.883687,40.747445],
-  "geometry": {"coordinates":[-73.883687,40.747445],"type":"Point"}
+  "bbox": [
+    -73.883687,
+    40.747445,
+    -73.883687,
+    40.747445
+],
+  "geometry": {"coordinates":[-73.88368699999999,40.747445],"type":"Point"}
 }

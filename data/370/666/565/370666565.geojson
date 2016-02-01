@@ -2,13 +2,14 @@
   "id": 370666565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.904155,40.84197,-73.904155,40.84197",
     "geom:latitude":40.84197,
     "geom:longitude":-73.904155,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1570 Webster Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892767,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85892767
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"7f83d4258f758d0013119de0cfc60ad7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892767,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370666565,
-    "wof:lastmodified":1449030328,
+    "wof:lastmodified":1454127680,
     "wof:name":"Pacheco Express Shipping",
     "wof:parent_id":85892767,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "shipping"
     ]
 },
-  "bbox": [-73.904155,40.84197,-73.904155,40.84197],
+  "bbox": [
+    -73.904155,
+    40.84197,
+    -73.904155,
+    40.84197
+],
   "geometry": {"coordinates":[-73.904155,40.84197],"type":"Point"}
 }

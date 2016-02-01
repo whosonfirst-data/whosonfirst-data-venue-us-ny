@@ -2,13 +2,14 @@
   "id": 370250215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.509324,40.688315,-73.509324,40.688315",
     "geom:latitude":40.688315,
     "geom:longitude":-73.509324,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1400 Wantagh Ave # A",
     "sg:city":"Wantagh",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529177,
+        102191575,
+        404521473,
         85633793,
         85979065,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"463737dc7fb3be92f1c203158c92bab1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979065,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529177,
             "region_id":85688543,
             "venue_id":370250215
         }
     ],
     "wof:id":370250215,
-    "wof:lastmodified":1449031000,
+    "wof:lastmodified":1454127878,
     "wof:name":"Pbt Realty",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529177,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "broker"
     ]
 },
-  "bbox": [-73.509324,40.688315,-73.509324,40.688315],
-  "geometry": {"coordinates":[-73.509324,40.688315],"type":"Point"}
+  "bbox": [
+    -73.509324,
+    40.688315,
+    -73.509324,
+    40.688315
+],
+  "geometry": {"coordinates":[-73.50932400000001,40.688315],"type":"Point"}
 }

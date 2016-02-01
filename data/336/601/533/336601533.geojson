@@ -2,13 +2,14 @@
   "id": 336601533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.740625,40.996666,-73.740625,40.996666",
     "geom:latitude":40.996666,
     "geom:longitude":-73.740625,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Dellwood Rd",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85845959,
+        102191575,
+        404523395,
         85633793,
-        85978735,
+        85978761,
         102082373,
-        85845959
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"3f912b9054959fc3f17e8415d8ae0f05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978735,
+            "localadmin_id":404523395,
+            "locality_id":85978761,
             "neighbourhood_id":85845959,
             "region_id":85688543,
             "venue_id":336601533
         }
     ],
     "wof:id":336601533,
-    "wof:lastmodified":1448997431,
+    "wof:lastmodified":1454122750,
     "wof:name":"Lifesupport Inc",
     "wof:parent_id":85845959,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "educational"
     ]
 },
-  "bbox": [-73.740625,40.996666,-73.740625,40.996666],
-  "geometry": {"coordinates":[-73.740625,40.996666],"type":"Point"}
+  "bbox": [
+    -73.740625,
+    40.996666,
+    -73.740625,
+    40.996666
+],
+  "geometry": {"coordinates":[-73.74062499999999,40.996666],"type":"Point"}
 }

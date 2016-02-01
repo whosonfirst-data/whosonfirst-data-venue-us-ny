@@ -2,13 +2,14 @@
   "id": 370980043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.628346,40.949629,-72.628346,40.949629",
     "geom:latitude":40.949629,
     "geom:longitude":-72.628346,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"80 Southfields Rd",
     "sg:city":"Riverhead",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85838351,
+        102191575,
+        404522663,
         85633793,
-        85979879,
+        85979671,
         102082395,
-        85838351
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"79c8a3731823befdb89d578b49252634",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979879,
+            "localadmin_id":404522663,
+            "locality_id":85979671,
             "neighbourhood_id":85838351,
             "region_id":85688543,
             "venue_id":370980043
         }
     ],
     "wof:id":370980043,
-    "wof:lastmodified":1449029309,
+    "wof:lastmodified":1454127381,
     "wof:name":"John C Jenkins",
     "wof:parent_id":85838351,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "family"
     ]
 },
-  "bbox": [-72.628346,40.949629,-72.628346,40.949629],
-  "geometry": {"coordinates":[-72.628346,40.949629],"type":"Point"}
+  "bbox": [
+    -72.628346,
+    40.949629,
+    -72.628346,
+    40.949629
+],
+  "geometry": {"coordinates":[-72.62834599999999,40.949629],"type":"Point"}
 }

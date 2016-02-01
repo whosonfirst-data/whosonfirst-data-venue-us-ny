@@ -2,13 +2,14 @@
   "id": 370242921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.835403,40.948002,-72.835403,40.948002",
     "geom:latitude":40.948002,
     "geom:longitude":-72.835403,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"Route 25A",
     "sg:city":"Wading River",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     "sg:website":"www.eastwindlongisland.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979901,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"b5a33e0a5f0400777793ff7dfba84be9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979901,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":370242921
         }
     ],
     "wof:id":370242921,
-    "wof:lastmodified":1449032078,
+    "wof:lastmodified":1454128193,
     "wof:name":"East Wind Caterers",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "caterer"
     ]
 },
-  "bbox": [-72.835403,40.948002,-72.835403,40.948002],
+  "bbox": [
+    -72.835403,
+    40.948002,
+    -72.835403,
+    40.948002
+],
   "geometry": {"coordinates":[-72.835403,40.948002],"type":"Point"}
 }

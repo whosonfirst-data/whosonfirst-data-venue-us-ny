@@ -2,13 +2,14 @@
   "id": 404017355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.73382,40.794706,-73.73382,40.794706",
     "geom:latitude":40.794706,
     "geom:longitude":-73.73382,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"215 Middle Neck Rd",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865341,
+        102191575,
+        404522729,
         85633793,
         85977683,
         102082371,
-        85865341
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"ea45280b34a005e9a67aad6b4fc2e90b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85977683,
             "neighbourhood_id":85865341,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":404017355,
-    "wof:lastmodified":1449039770,
+    "wof:lastmodified":1454128900,
     "wof:name":"Issayou Inc",
     "wof:parent_id":85865341,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.73382,40.794706,-73.73382,40.794706],
-  "geometry": {"coordinates":[-73.73382,40.794706],"type":"Point"}
+  "bbox": [
+    -73.73382,
+    40.794706,
+    -73.73382,
+    40.794706
+],
+  "geometry": {"coordinates":[-73.73381999999999,40.794706],"type":"Point"}
 }

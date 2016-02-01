@@ -2,13 +2,14 @@
   "id": 353909467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.670689,40.674701,-73.670689,40.674701",
     "geom:latitude":40.674701,
     "geom:longitude":-73.670689,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"141 Broadway",
     "sg:city":"Malverne",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"http://www.villageplaza.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829437,
+        102191575,
+        404521473,
         85633793,
-        85979129,
+        85979057,
         102082371,
-        85829437
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"5ac562da2dc5021eb4b1b7fe80747f80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979129,
+            "localadmin_id":404521473,
+            "locality_id":85979057,
             "neighbourhood_id":85829437,
             "region_id":85688543,
             "venue_id":353909467
         }
     ],
     "wof:id":353909467,
-    "wof:lastmodified":1449020175,
+    "wof:lastmodified":1454126502,
     "wof:name":"Village Plaza Realty",
     "wof:parent_id":85829437,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "broker"
     ]
 },
-  "bbox": [-73.670689,40.674701,-73.670689,40.674701],
+  "bbox": [
+    -73.670689,
+    40.674701,
+    -73.670689,
+    40.674701
+],
   "geometry": {"coordinates":[-73.670689,40.674701],"type":"Point"}
 }

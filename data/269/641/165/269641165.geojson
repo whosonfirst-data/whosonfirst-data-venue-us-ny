@@ -2,13 +2,14 @@
   "id": 269641165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.377181,40.783893,-73.377181,40.783893",
     "geom:latitude":40.783893,
     "geom:longitude":-73.377181,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"34 Threepence Dr",
     "sg:city":"Melville",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823533,
+        102191575,
+        404522515,
         85633793,
-        85979725,
-        102082395
+        85979779,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"f25b7aca9ae49726f7b6cbdb46c2ea51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979725,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522515,
+            "locality_id":85979779,
+            "neighbourhood_id":85823533,
             "region_id":85688543,
             "venue_id":269641165
         }
     ],
     "wof:id":269641165,
-    "wof:lastmodified":1449038234,
+    "wof:lastmodified":1454128734,
     "wof:name":"Daniel Myers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85823533,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.377181,40.783893,-73.377181,40.783893],
-  "geometry": {"coordinates":[-73.377181,40.783893],"type":"Point"}
+  "bbox": [
+    -73.377181,
+    40.783893,
+    -73.377181,
+    40.783893
+],
+  "geometry": {"coordinates":[-73.37718099999999,40.783893],"type":"Point"}
 }

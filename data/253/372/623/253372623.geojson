@@ -2,13 +2,14 @@
   "id": 253372623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.905862,41.696897,-73.905862,41.696897",
     "geom:latitude":41.696897,
     "geom:longitude":-73.905862,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"721 Main St",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892989,
+        102191575,
+        404522305,
         85633793,
+        85977835,
         102082363,
-        85892989
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"55ebc8880dfb8f88314ff98230104831",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
-            "locality_id":-1,
+            "localadmin_id":404522305,
+            "locality_id":85977835,
             "neighbourhood_id":85892989,
             "region_id":85688543,
             "venue_id":253372623
         }
     ],
     "wof:id":253372623,
-    "wof:lastmodified":1449064603,
+    "wof:lastmodified":1454130543,
     "wof:name":"Autozone",
     "wof:parent_id":85892989,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "parts"
     ]
 },
-  "bbox": [-73.905862,41.696897,-73.905862,41.696897],
+  "bbox": [
+    -73.905862,
+    41.696897,
+    -73.905862,
+    41.696897
+],
   "geometry": {"coordinates":[-73.905862,41.696897],"type":"Point"}
 }

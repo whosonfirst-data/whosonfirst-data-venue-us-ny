@@ -2,13 +2,14 @@
   "id": 371164777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.19365,43.247042,-78.19365,43.247042",
     "geom:latitude":43.247042,
     "geom:longitude":-78.19365,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"51 N Main St",
     "sg:city":"Albion",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819435,
+        102191575,
+        404521525,
         85633793,
+        85978607,
         102082411,
-        85819435
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"2e4ab2c353da1ed7e1657bf878b51df2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082411,
-            "locality_id":-1,
+            "localadmin_id":404521525,
+            "locality_id":85978607,
             "neighbourhood_id":85819435,
             "region_id":85688543,
             "venue_id":371164777
         }
     ],
     "wof:id":371164777,
-    "wof:lastmodified":1449049145,
+    "wof:lastmodified":1454129063,
     "wof:name":"Upstate Financial Svc",
     "wof:parent_id":85819435,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-78.19365,43.247042,-78.19365,43.247042],
-  "geometry": {"coordinates":[-78.19365,43.247042],"type":"Point"}
+  "bbox": [
+    -78.19365,
+    43.247042,
+    -78.19365,
+    43.247042
+],
+  "geometry": {"coordinates":[-78.19365000000001,43.247042],"type":"Point"}
 }

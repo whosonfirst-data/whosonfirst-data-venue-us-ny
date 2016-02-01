@@ -2,13 +2,14 @@
   "id": 319990945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.189976,40.798399,-73.189976,40.798399",
     "geom:latitude":40.798399,
     "geom:longitude":-73.189976,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"216 Dovecote Ln",
     "sg:city":"Central Islip",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
-        85979813,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"7394fd319dd5f4ecc6836b1b44e3f607",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979813,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":319990945
         }
     ],
     "wof:id":319990945,
-    "wof:lastmodified":1449024600,
+    "wof:lastmodified":1454126803,
     "wof:name":"Arrow Signs & Graphics",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.189976,40.798399,-73.189976,40.798399],
+  "bbox": [
+    -73.189976,
+    40.798399,
+    -73.189976,
+    40.798399
+],
   "geometry": {"coordinates":[-73.189976,40.798399],"type":"Point"}
 }

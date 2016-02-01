@@ -2,13 +2,14 @@
   "id": 404091219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.485332,41.010632,-72.485332,41.010632",
     "geom:latitude":41.010632,
     "geom:longitude":-72.485332,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"28095 Main Rd",
     "sg:city":"Cutchogue",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85813307,
+        102191575,
+        404523179,
         85633793,
         85979789,
         102082395,
-        85813307
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"4fd958ac7a6508fd36b7747f390b3dde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404523179,
             "locality_id":85979789,
             "neighbourhood_id":85813307,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":404091219,
-    "wof:lastmodified":1449039139,
+    "wof:lastmodified":1454128842,
     "wof:name":"Country Delicatessen-Cutchogue",
     "wof:parent_id":85813307,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-72.485332,41.010632,-72.485332,41.010632],
+  "bbox": [
+    -72.485332,
+    41.010632,
+    -72.485332,
+    41.010632
+],
   "geometry": {"coordinates":[-72.485332,41.010632],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303714139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.564663,40.765452,-73.564663,40.765452",
     "geom:latitude":40.765452,
     "geom:longitude":-73.564663,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12 4th Ave",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529181,
+        102191575,
+        404522729,
         85633793,
         85979063,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"3f181c23df1d862687e7572e406c9dfe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979063,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529181,
             "region_id":85688543,
             "venue_id":303714139
         }
     ],
     "wof:id":303714139,
-    "wof:lastmodified":1448999319,
+    "wof:lastmodified":1454123383,
     "wof:name":"Envirocare Industries Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529181,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "related"
     ]
 },
-  "bbox": [-73.564663,40.765452,-73.564663,40.765452],
+  "bbox": [
+    -73.564663,
+    40.765452,
+    -73.564663,
+    40.765452
+],
   "geometry": {"coordinates":[-73.564663,40.765452],"type":"Point"}
 }

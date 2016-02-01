@@ -2,13 +2,14 @@
   "id": 371035285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.809595,42.7427,-73.809595,42.7427",
     "geom:latitude":42.7427,
     "geom:longitude":-73.809595,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7 Albany International Airport",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -27,6 +28,7 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102529295,
         85688543,
         85633793,
         102082353,
@@ -40,19 +42,18 @@
     "wof:geomhash":"d9febcee788d0676a10c7586b97af15a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102529295,
             "country_id":85633793,
             "county_id":102082353,
-            "locality_id":-1,
             "neighbourhood_id":85847957,
             "region_id":85688543,
             "venue_id":371035285
         }
     ],
     "wof:id":371035285,
-    "wof:lastmodified":1449049891,
+    "wof:lastmodified":1454129238,
     "wof:name":"Us Faa",
-    "wof:parent_id":85847957,
+    "wof:parent_id":102529295,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +61,11 @@
         "federal"
     ]
 },
-  "bbox": [-73.809595,42.7427,-73.809595,42.7427],
+  "bbox": [
+    -73.809595,
+    42.7427,
+    -73.809595,
+    42.7427
+],
   "geometry": {"coordinates":[-73.809595,42.7427],"type":"Point"}
 }

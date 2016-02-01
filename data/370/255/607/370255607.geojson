@@ -2,13 +2,14 @@
   "id": 370255607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.468135,40.816036,-73.468135,40.816036",
     "geom:latitude":40.816036,
     "geom:longitude":-73.468135,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8243 Jericho Tpke",
     "sg:city":"Woodbury",
     "sg:classifiers":[],
@@ -19,10 +20,13 @@
     "sg:website":"http://www.jasonroyce.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
         85979055,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,24 +36,30 @@
     "wof:geomhash":"8be98efeeac479efe936501b39fb356d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979055,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":370255607
         }
     ],
     "wof:id":370255607,
-    "wof:lastmodified":1449030636,
+    "wof:lastmodified":1454127769,
     "wof:name":"Jason Royce Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.468135,40.816036,-73.468135,40.816036],
+  "bbox": [
+    -73.468135,
+    40.816036,
+    -73.468135,
+    40.816036
+],
   "geometry": {"coordinates":[-73.468135,40.816036],"type":"Point"}
 }

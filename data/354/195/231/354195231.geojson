@@ -2,13 +2,14 @@
   "id": 354195231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.79129,40.899741,-73.79129,40.899741",
     "geom:latitude":40.899741,
     "geom:longitude":-73.79129,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"50 Weyman Ave",
     "sg:city":"New Rochelle",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.bgca.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85827133,
+        102191575,
+        404523375,
         85633793,
         85978749,
         102082373,
-        85827133
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"b22d5858f0ab9f88bfad6d82a199c4a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523375,
             "locality_id":85978749,
             "neighbourhood_id":85827133,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":354195231,
-    "wof:lastmodified":1449067095,
+    "wof:lastmodified":1454131127,
     "wof:name":"Boys & Girls Club Of America",
     "wof:parent_id":85827133,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "center"
     ]
 },
-  "bbox": [-73.79129,40.899741,-73.79129,40.899741],
+  "bbox": [
+    -73.79129,
+    40.899741,
+    -73.79129,
+    40.899741
+],
   "geometry": {"coordinates":[-73.79129,40.899741],"type":"Point"}
 }

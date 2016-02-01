@@ -2,13 +2,14 @@
   "id": 303093151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.585876,40.662109,-73.585876,40.662109",
     "geom:latitude":40.662109,
     "geom:longitude":-73.585876,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"119 N Main St",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529155,
+        102191575,
+        404521473,
         85633793,
         85977679,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"3a9e2876e9a1d445242dd5816ca71c20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977679,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529155,
             "region_id":85688543,
             "venue_id":303093151
         }
     ],
     "wof:id":303093151,
-    "wof:lastmodified":1448998118,
+    "wof:lastmodified":1454122986,
     "wof:name":"Main Street Laundry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529155,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "leather"
     ]
 },
-  "bbox": [-73.585876,40.662109,-73.585876,40.662109],
+  "bbox": [
+    -73.585876,
+    40.662109,
+    -73.585876,
+    40.662109
+],
   "geometry": {"coordinates":[-73.585876,40.662109],"type":"Point"}
 }

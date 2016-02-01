@@ -2,13 +2,14 @@
   "id": 371114113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.83915,42.826516,-78.83915,42.826516",
     "geom:latitude":42.826516,
     "geom:longitude":-78.83915,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"345 Ridge Rd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528559,
+        102191575,
+        404522349,
         85633793,
         85978009,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"ca74dfd66410bb88fbe4abef760753b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522349,
             "locality_id":85978009,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528559,
             "region_id":85688543,
             "venue_id":371114113
         }
     ],
     "wof:id":371114113,
-    "wof:lastmodified":1449049465,
+    "wof:lastmodified":1454129138,
     "wof:name":"Cando Construction Of New Yor K Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528559,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.83915,42.826516,-78.83915,42.826516],
+  "bbox": [
+    -78.83915,
+    42.826516,
+    -78.83915,
+    42.826516
+],
   "geometry": {"coordinates":[-78.83915,42.826516],"type":"Point"}
 }

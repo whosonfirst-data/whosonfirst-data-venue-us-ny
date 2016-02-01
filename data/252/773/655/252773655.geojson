@@ -2,13 +2,14 @@
   "id": 252773655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.744137,42.935041,-78.744137,42.935041",
     "geom:latitude":42.935041,
     "geom:longitude":-78.744137,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"305 Cayuga Rd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -24,6 +25,7 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102528321,
         85688543,
         85633793,
         102082387,
@@ -37,24 +39,28 @@
     "wof:geomhash":"761dd584b55f623eca6518cb81c55112",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102528321,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
             "neighbourhood_id":85811327,
             "region_id":85688543,
             "venue_id":252773655
         }
     ],
     "wof:id":252773655,
-    "wof:lastmodified":1449005536,
+    "wof:lastmodified":1454124000,
     "wof:name":"Medalliance LLC",
-    "wof:parent_id":85811327,
+    "wof:parent_id":102528321,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.744137,42.935041,-78.744137,42.935041],
-  "geometry": {"coordinates":[-78.744137,42.935041],"type":"Point"}
+  "bbox": [
+    -78.744137,
+    42.935041,
+    -78.744137,
+    42.935041
+],
+  "geometry": {"coordinates":[-78.74413699999999,42.935041],"type":"Point"}
 }

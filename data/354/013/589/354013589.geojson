@@ -2,13 +2,14 @@
   "id": 354013589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.584503,40.765499,-73.584503,40.765499",
     "geom:latitude":40.765499,
     "geom:longitude":-73.584503,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"555 Advent St",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     "sg:website":"http://www.adventpraisemusic.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893071,
+        102191575,
+        404522729,
         85633793,
         85977647,
         102082371,
-        85893071
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"558822b8491e3dd6ef3c7dff1d46233f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85977647,
             "neighbourhood_id":85893071,
             "region_id":85688543,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":354013589,
-    "wof:lastmodified":1449067126,
+    "wof:lastmodified":1454131135,
     "wof:name":"Church of the Advent",
     "wof:parent_id":85893071,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "churches-episcopal"
     ]
 },
-  "bbox": [-73.584503,40.765499,-73.584503,40.765499],
+  "bbox": [
+    -73.584503,
+    40.765499,
+    -73.584503,
+    40.765499
+],
   "geometry": {"coordinates":[-73.584503,40.765499],"type":"Point"}
 }

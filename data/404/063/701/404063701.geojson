@@ -2,13 +2,14 @@
   "id": 404063701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.729939,40.778757,-73.729939,40.778757",
     "geom:latitude":40.778757,
     "geom:longitude":-73.729939,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Tobin Ave",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85830971,
+        102191575,
+        404522729,
         85633793,
-        85979067,
-        102082371
+        85977727,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"1a7f841f8f93d2075d0722414485f502",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979067,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522729,
+            "locality_id":85977727,
+            "neighbourhood_id":85830971,
             "region_id":85688543,
             "venue_id":404063701
         }
     ],
     "wof:id":404063701,
-    "wof:lastmodified":1449039125,
+    "wof:lastmodified":1454128840,
     "wof:name":"Bermaine Cosmetics",
-    "wof:parent_id":-1,
+    "wof:parent_id":85830971,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "hairpiece"
     ]
 },
-  "bbox": [-73.729939,40.778757,-73.729939,40.778757],
+  "bbox": [
+    -73.729939,
+    40.778757,
+    -73.729939,
+    40.778757
+],
   "geometry": {"coordinates":[-73.729939,40.778757],"type":"Point"}
 }

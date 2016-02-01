@@ -2,13 +2,14 @@
   "id": 353643791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.804119,40.674816,-73.804119,40.674816",
     "geom:latitude":40.674816,
     "geom:longitude":-73.804119,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"134-03 Rockaway Blvd",
     "sg:city":"South Ozone Park",
     "sg:classifiers":[
@@ -33,12 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865645,
-        85865467
+        102082361,
+        85688543,
+        85865647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,28 +52,32 @@
     "wof:geomhash":"9c7cb0228dc6840bdb48665443c44635",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85865645,
+            "neighbourhood_id":85823673,
             "region_id":85688543,
             "venue_id":353643791
         },
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85865467,
+            "neighbourhood_id":85865647,
             "region_id":85688543,
             "venue_id":353643791
         }
     ],
     "wof:id":353643791,
-    "wof:lastmodified":1449020468,
+    "wof:lastmodified":1454126590,
     "wof:name":"S&G Restaurant and Sweets",
-    "wof:parent_id":-1,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -78,6 +86,11 @@
         "indian"
     ]
 },
-  "bbox": [-73.804119,40.674816,-73.804119,40.674816],
+  "bbox": [
+    -73.804119,
+    40.674816,
+    -73.804119,
+    40.674816
+],
   "geometry": {"coordinates":[-73.804119,40.674816],"type":"Point"}
 }

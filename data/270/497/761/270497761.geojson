@@ -2,13 +2,14 @@
   "id": 270497761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.973796,40.743853,-73.973796,40.743853",
     "geom:latitude":40.743853,
     "geom:longitude":-73.973796,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"330 E 34 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868041,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85868041
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"a2bce8806bdd853c964a45d7ec6b8f4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85868041,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":270497761,
-    "wof:lastmodified":1449011103,
+    "wof:lastmodified":1454124736,
     "wof:name":"Brian C Beazer",
     "wof:parent_id":85868041,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "financing"
     ]
 },
-  "bbox": [-73.973796,40.743853,-73.973796,40.743853],
-  "geometry": {"coordinates":[-73.973796,40.743853],"type":"Point"}
+  "bbox": [
+    -73.973796,
+    40.743853,
+    -73.973796,
+    40.743853
+],
+  "geometry": {"coordinates":[-73.97379599999999,40.743853],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370278467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.534798,40.744202,-73.534798,40.744202",
     "geom:latitude":40.744202,
     "geom:longitude":-73.534798,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3 W Village Grn",
     "sg:city":"Hicksville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85856711,
+        102191575,
+        404521475,
         85633793,
-        85979063,
+        85979093,
         102082371,
-        85856711
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"431bb9ac651f3833ea31958898ba430c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979063,
+            "localadmin_id":404521475,
+            "locality_id":85979093,
             "neighbourhood_id":85856711,
             "region_id":85688543,
             "venue_id":370278467
         }
     ],
     "wof:id":370278467,
-    "wof:lastmodified":1449030939,
+    "wof:lastmodified":1454127859,
     "wof:name":"Di Maggio's Pizzeria",
     "wof:parent_id":85856711,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "pizza"
     ]
 },
-  "bbox": [-73.534798,40.744202,-73.534798,40.744202],
-  "geometry": {"coordinates":[-73.534798,40.744202],"type":"Point"}
+  "bbox": [
+    -73.534798,
+    40.744202,
+    -73.534798,
+    40.744202
+],
+  "geometry": {"coordinates":[-73.53479799999999,40.744202],"type":"Point"}
 }

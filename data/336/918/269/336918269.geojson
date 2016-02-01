@@ -2,13 +2,14 @@
   "id": 336918269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.967932,40.762638,-73.967932,40.762638",
     "geom:latitude":40.762638,
     "geom:longitude":-73.967932,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"750 Lexington Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865691,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865691
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"5fc40d01c11e5fb00b15792bb944525b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865691,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":336918269,
-    "wof:lastmodified":1448997657,
+    "wof:lastmodified":1454122842,
     "wof:name":"Inveco International Inc",
     "wof:parent_id":85865691,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.967932,40.762638,-73.967932,40.762638],
+  "bbox": [
+    -73.967932,
+    40.762638,
+    -73.967932,
+    40.762638
+],
   "geometry": {"coordinates":[-73.967932,40.762638],"type":"Point"}
 }

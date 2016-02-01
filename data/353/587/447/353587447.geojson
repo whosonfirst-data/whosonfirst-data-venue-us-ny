@@ -2,13 +2,14 @@
   "id": 353587447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.84521,40.951476,-73.84521,40.951476",
     "geom:latitude":40.951476,
     "geom:longitude":-73.84521,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1561 Central Park Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530419,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"1dbaf3b35c67ea2b60ca84c7ed837b20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530419,
             "region_id":85688543,
             "venue_id":353587447
         }
     ],
     "wof:id":353587447,
-    "wof:lastmodified":1449019135,
+    "wof:lastmodified":1454126206,
     "wof:name":"Hudson Realty",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530419,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "cooperative"
     ]
 },
-  "bbox": [-73.84521,40.951476,-73.84521,40.951476],
-  "geometry": {"coordinates":[-73.84521,40.951476],"type":"Point"}
+  "bbox": [
+    -73.84521,
+    40.951476,
+    -73.84521,
+    40.951476
+],
+  "geometry": {"coordinates":[-73.84520999999999,40.951476],"type":"Point"}
 }

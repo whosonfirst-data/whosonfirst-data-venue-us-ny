@@ -2,13 +2,14 @@
   "id": 337296967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.913557,40.615499,-73.913557,40.615499",
     "geom:latitude":40.615499,
     "geom:longitude":-73.913557,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6214 Avenue U",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.meatssupreme.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865541,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865541
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"f4aa20506bdb07ec75f9cc5b1bf0d791",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865541,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":337296967,
-    "wof:lastmodified":1449027596,
+    "wof:lastmodified":1454127126,
     "wof:name":"Meats Supreme",
     "wof:parent_id":85865541,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.913557,40.615499,-73.913557,40.615499],
+  "bbox": [
+    -73.913557,
+    40.615499,
+    -73.913557,
+    40.615499
+],
   "geometry": {"coordinates":[-73.913557,40.615499],"type":"Point"}
 }

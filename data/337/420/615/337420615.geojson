@@ -2,13 +2,14 @@
   "id": 337420615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.770523,40.762705,-73.770523,40.762705",
     "geom:latitude":40.762705,
     "geom:longitude":-73.770523,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3924 Bell Blvd",
     "sg:city":"Bayside",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85804927,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85804927
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"4ce69fc0fe47da895cfcff290ab21d56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85804927,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":337420615,
-    "wof:lastmodified":1449027340,
+    "wof:lastmodified":1454127025,
     "wof:name":"George Realty Group",
     "wof:parent_id":85804927,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "broker"
     ]
 },
-  "bbox": [-73.770523,40.762705,-73.770523,40.762705],
+  "bbox": [
+    -73.770523,
+    40.762705,
+    -73.770523,
+    40.762705
+],
   "geometry": {"coordinates":[-73.770523,40.762705],"type":"Point"}
 }

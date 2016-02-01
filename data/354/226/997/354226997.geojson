@@ -2,13 +2,14 @@
   "id": 354226997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.884705,40.875195,-73.884705,40.875195",
     "geom:latitude":40.875195,
     "geom:longitude":-73.884705,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"169 E 205th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869557,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869557
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"c255704508e44518161ae64808334561",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869557,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":354226997,
-    "wof:lastmodified":1449067194,
+    "wof:lastmodified":1454131159,
     "wof:name":"New Metro Deli",
     "wof:parent_id":85869557,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-73.884705,40.875195,-73.884705,40.875195],
+  "bbox": [
+    -73.884705,
+    40.875195,
+    -73.884705,
+    40.875195
+],
   "geometry": {"coordinates":[-73.884705,40.875195],"type":"Point"}
 }

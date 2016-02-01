@@ -2,13 +2,14 @@
   "id": 353879511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.632958,40.689007,-73.632958,40.689007",
     "geom:latitude":40.689007,
     "geom:longitude":-73.632958,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"984 N Village Ave",
     "sg:city":"Rockville Centre",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892743,
+        102191575,
+        404521473,
         85633793,
-        85979175,
+        85977663,
         102082371,
-        85892743
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"14a701e6d635351c7a4315e07f9e02ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979175,
+            "localadmin_id":404521473,
+            "locality_id":85977663,
             "neighbourhood_id":85892743,
             "region_id":85688543,
             "venue_id":353879511
         }
     ],
     "wof:id":353879511,
-    "wof:lastmodified":1449018286,
+    "wof:lastmodified":1454125959,
     "wof:name":"Villa Saint Joseph",
     "wof:parent_id":85892743,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "convent"
     ]
 },
-  "bbox": [-73.632958,40.689007,-73.632958,40.689007],
+  "bbox": [
+    -73.632958,
+    40.689007,
+    -73.632958,
+    40.689007
+],
   "geometry": {"coordinates":[-73.632958,40.689007],"type":"Point"}
 }

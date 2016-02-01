@@ -2,13 +2,14 @@
   "id": 371080945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.805884,42.852275,-78.805884,42.852275",
     "geom:latitude":42.852275,
     "geom:longitude":-78.805884,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2234 Seneca St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528553,
+        102191575,
+        404522269,
         85633793,
-        85978023,
-        102082387
+        85979415,
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"9ba623c308a28f619517dc18b979c7f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522269,
+            "locality_id":85979415,
+            "neighbourhood_id":420528553,
             "region_id":85688543,
             "venue_id":371080945
         }
     ],
     "wof:id":371080945,
-    "wof:lastmodified":1449050107,
+    "wof:lastmodified":1454129289,
     "wof:name":"South Buffalo Education Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528553,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.805884,42.852275,-78.805884,42.852275],
-  "geometry": {"coordinates":[-78.805884,42.852275],"type":"Point"}
+  "bbox": [
+    -78.805884,
+    42.852275,
+    -78.805884,
+    42.852275
+],
+  "geometry": {"coordinates":[-78.80588400000001,42.852275],"type":"Point"}
 }

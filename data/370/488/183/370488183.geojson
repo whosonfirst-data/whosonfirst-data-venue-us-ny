@@ -2,13 +2,14 @@
   "id": 370488183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.940012,42.818129,-73.940012,42.818129",
     "geom:latitude":42.818129,
     "geom:longitude":-73.940012,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1135 Erie Blvd",
     "sg:city":"Schenectady",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85835631,
+        102191575,
+        404522521,
         85633793,
         85977841,
         102081765,
-        85835631
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"02bb746abc6822859d42923e31ce47cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081765,
+            "localadmin_id":404522521,
             "locality_id":85977841,
             "neighbourhood_id":85835631,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370488183,
-    "wof:lastmodified":1449032379,
+    "wof:lastmodified":1454128288,
     "wof:name":"Mike's Restaurant",
     "wof:parent_id":85835631,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "family"
     ]
 },
-  "bbox": [-73.940012,42.818129,-73.940012,42.818129],
+  "bbox": [
+    -73.940012,
+    42.818129,
+    -73.940012,
+    42.818129
+],
   "geometry": {"coordinates":[-73.940012,42.818129],"type":"Point"}
 }

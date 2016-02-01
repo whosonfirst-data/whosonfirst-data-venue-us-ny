@@ -2,13 +2,14 @@
   "id": 286319121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.715704,40.725777,-73.715704,40.725777",
     "geom:latitude":40.725777,
     "geom:longitude":-73.715704,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"398 Pennsylvania Blvd",
     "sg:city":"Floral Park",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805483,
+        102191575,
+        404521473,
         85633793,
-        85977709,
+        85977689,
         102082371,
-        85805483
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"fbe85b82d765e7db5e6bacd518fea676",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977709,
+            "localadmin_id":404521473,
+            "locality_id":85977689,
             "neighbourhood_id":85805483,
             "region_id":85688543,
             "venue_id":286319121
         }
     ],
     "wof:id":286319121,
-    "wof:lastmodified":1449016379,
+    "wof:lastmodified":1454125609,
     "wof:name":"Medical Integrated Billing Svc",
     "wof:parent_id":85805483,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "processing"
     ]
 },
-  "bbox": [-73.715704,40.725777,-73.715704,40.725777],
+  "bbox": [
+    -73.715704,
+    40.725777,
+    -73.715704,
+    40.725777
+],
   "geometry": {"coordinates":[-73.715704,40.725777],"type":"Point"}
 }

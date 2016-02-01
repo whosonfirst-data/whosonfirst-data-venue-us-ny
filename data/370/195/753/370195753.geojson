@@ -2,13 +2,14 @@
   "id": 370195753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.23011,40.812111,-73.23011,40.812111",
     "geom:latitude":40.812111,
     "geom:longitude":-73.23011,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 Rabro Dr",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -37,10 +38,13 @@
     "sg:website":"http://www.taxlawyernewyork.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +54,20 @@
     "wof:geomhash":"83e3418b81eaacb711171b0d18e22c79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":370195753
         }
     ],
     "wof:id":370195753,
-    "wof:lastmodified":1449031299,
+    "wof:lastmodified":1454127967,
     "wof:name":"Silberling & Silberling",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -79,6 +84,11 @@
         "law"
     ]
 },
-  "bbox": [-73.23011,40.812111,-73.23011,40.812111],
+  "bbox": [
+    -73.23011,
+    40.812111,
+    -73.23011,
+    40.812111
+],
   "geometry": {"coordinates":[-73.23011,40.812111],"type":"Point"}
 }

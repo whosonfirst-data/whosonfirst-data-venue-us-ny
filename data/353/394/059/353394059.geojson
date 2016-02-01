@@ -2,13 +2,14 @@
   "id": 353394059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.845043,40.719769,-73.845043,40.719769",
     "geom:latitude":40.719769,
     "geom:longitude":-73.845043,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"106-14 -71st Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.studioartsflorist.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819875,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819875
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"3941432f8107c4a59ddc043677599d57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819875,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":353394059,
-    "wof:lastmodified":1449018748,
+    "wof:lastmodified":1454126094,
     "wof:name":"Studio Arts Florist",
     "wof:parent_id":85819875,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "event"
     ]
 },
-  "bbox": [-73.845043,40.719769,-73.845043,40.719769],
+  "bbox": [
+    -73.845043,
+    40.719769,
+    -73.845043,
+    40.719769
+],
   "geometry": {"coordinates":[-73.845043,40.719769],"type":"Point"}
 }

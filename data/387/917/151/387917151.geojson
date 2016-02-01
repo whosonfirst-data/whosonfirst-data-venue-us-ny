@@ -2,13 +2,14 @@
   "id": 387917151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.766619,41.026887,-73.766619,41.026887",
     "geom:latitude":41.026887,
     "geom:longitude":-73.766619,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"90 Maple Ave",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420559399,
+        102191575,
+        404523395,
         85633793,
         85978761,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"5ffe4896a287b9941893909e194d7bfd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523395,
             "locality_id":85978761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420559399,
             "region_id":85688543,
             "venue_id":387917151
         }
     ],
     "wof:id":387917151,
-    "wof:lastmodified":1449059419,
+    "wof:lastmodified":1454130120,
     "wof:name":"90 Maple Realty Associates LP",
-    "wof:parent_id":-1,
+    "wof:parent_id":420559399,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "commercial"
     ]
 },
-  "bbox": [-73.766619,41.026887,-73.766619,41.026887],
-  "geometry": {"coordinates":[-73.766619,41.026887],"type":"Point"}
+  "bbox": [
+    -73.766619,
+    41.026887,
+    -73.766619,
+    41.026887
+],
+  "geometry": {"coordinates":[-73.76661900000001,41.026887],"type":"Point"}
 }

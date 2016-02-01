@@ -2,13 +2,14 @@
   "id": 370286889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.464968,40.786888,-73.464968,40.786888",
     "geom:latitude":40.786888,
     "geom:longitude":-73.464968,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"79 Express St Fl 14",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"afb0bcff283bf47880a8703e1f2dc918",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":370286889
         }
     ],
     "wof:id":370286889,
-    "wof:lastmodified":1449029982,
+    "wof:lastmodified":1454127575,
     "wof:name":"Emerson Network Power, Liebert Services, Inc.",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "controls"
     ]
 },
-  "bbox": [-73.464968,40.786888,-73.464968,40.786888],
+  "bbox": [
+    -73.464968,
+    40.786888,
+    -73.464968,
+    40.786888
+],
   "geometry": {"coordinates":[-73.464968,40.786888],"type":"Point"}
 }

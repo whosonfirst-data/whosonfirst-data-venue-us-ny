@@ -2,13 +2,14 @@
   "id": 320367031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.995697,42.786877,-73.995697,42.786877",
     "geom:latitude":42.786877,
     "geom:longitude":-73.995697,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"498 Duanesburg Rd",
     "sg:city":"Schenectady",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85850057,
+        102191575,
+        404522519,
         85633793,
+        85979289,
+        102081765,
         85688543
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"cd8ba494d9380f53749245ed84a0e853",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081765,
+            "localadmin_id":404522519,
+            "locality_id":85979289,
+            "neighbourhood_id":85850057,
             "region_id":85688543,
             "venue_id":320367031
         }
     ],
     "wof:id":320367031,
-    "wof:lastmodified":1449013462,
+    "wof:lastmodified":1454125119,
     "wof:name":"Sign Graphics",
-    "wof:parent_id":-1,
+    "wof:parent_id":85850057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.995697,42.786877,-73.995697,42.786877],
-  "geometry": {"coordinates":[-73.995697,42.786877],"type":"Point"}
+  "bbox": [
+    -73.995697,
+    42.786877,
+    -73.995697,
+    42.786877
+],
+  "geometry": {"coordinates":[-73.99569700000001,42.786877],"type":"Point"}
 }

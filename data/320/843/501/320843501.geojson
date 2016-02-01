@@ -2,13 +2,14 @@
   "id": 320843501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.646645,40.834296,-72.646645,40.834296",
     "geom:latitude":40.834296,
     "geom:longitude":-72.646645,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"381 Riverhead Rd",
     "sg:city":"Westhampton Bch",
     "sg:classifiers":[
@@ -27,7 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102526981,
         85688543,
+        102191575,
+        404522671,
         85633793,
         85979877,
         102082395
@@ -40,19 +44,20 @@
     "wof:geomhash":"4fc63b979a4394c935c8461108f15ada",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102526981,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522671,
             "locality_id":85979877,
-            "neighbourhood_id":-1,
             "region_id":85688543,
             "venue_id":320843501
         }
     ],
     "wof:id":320843501,
-    "wof:lastmodified":1449011576,
+    "wof:lastmodified":1454124812,
     "wof:name":"Town & Country Cabinetry",
-    "wof:parent_id":-1,
+    "wof:parent_id":102526981,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-72.646645,40.834296,-72.646645,40.834296],
-  "geometry": {"coordinates":[-72.646645,40.834296],"type":"Point"}
+  "bbox": [
+    -72.646645,
+    40.834296,
+    -72.646645,
+    40.834296
+],
+  "geometry": {"coordinates":[-72.64664500000001,40.834296],"type":"Point"}
 }

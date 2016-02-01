@@ -2,13 +2,14 @@
   "id": 253684819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.278461,43.0527,-76.278461,43.0527",
     "geom:latitude":43.0527,
     "geom:longitude":-76.278461,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"104 Bennett Rd",
     "sg:city":"Camillus",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85856815,
+        102082351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"3c892100831e9bcf4d1395514eda1233",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "neighbourhood_id":85856815,
             "region_id":85688543,
             "venue_id":253684819
         }
     ],
     "wof:id":253684819,
-    "wof:lastmodified":1449063550,
+    "wof:lastmodified":1454130367,
     "wof:name":"Store America",
-    "wof:parent_id":-1,
+    "wof:parent_id":85856815,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "storage"
     ]
 },
-  "bbox": [-76.278461,43.0527,-76.278461,43.0527],
-  "geometry": {"coordinates":[-76.278461,43.0527],"type":"Point"}
+  "bbox": [
+    -76.278461,
+    43.0527,
+    -76.278461,
+    43.0527
+],
+  "geometry": {"coordinates":[-76.27846099999999,43.0527],"type":"Point"}
 }

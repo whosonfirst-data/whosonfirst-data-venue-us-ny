@@ -2,13 +2,14 @@
   "id": 269550775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.871182,41.181839,-73.871182,41.181839",
     "geom:latitude":41.181839,
     "geom:longitude":-73.871182,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"29 Mystic Dr",
     "sg:city":"Ossining",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832435,
+        102191575,
+        404523379,
         85633793,
-        85978745,
+        85978717,
         102082373,
-        85832435
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"6c9ac9e11c1d6852d3200f5c1c20d5c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978745,
+            "localadmin_id":404523379,
+            "locality_id":85978717,
             "neighbourhood_id":85832435,
             "region_id":85688543,
             "venue_id":269550775
         }
     ],
     "wof:id":269550775,
-    "wof:lastmodified":1449037434,
+    "wof:lastmodified":1454128656,
     "wof:name":"XYZ Payroll Svc Inc",
     "wof:parent_id":85832435,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "payroll"
     ]
 },
-  "bbox": [-73.871182,41.181839,-73.871182,41.181839],
+  "bbox": [
+    -73.871182,
+    41.181839,
+    -73.871182,
+    41.181839
+],
   "geometry": {"coordinates":[-73.871182,41.181839],"type":"Point"}
 }

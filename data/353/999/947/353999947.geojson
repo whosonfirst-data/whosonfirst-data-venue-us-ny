@@ -2,13 +2,14 @@
   "id": 353999947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.570862,40.75536,-73.570862,40.75536",
     "geom:latitude":40.75536,
     "geom:longitude":-73.570862,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"474 Grand Blvd",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846785,
+        102191575,
+        404521473,
         85633793,
-        85979093,
+        85979181,
         102082371,
-        85846785
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"0ef946bb6c58503ab6b7802c2fea1948",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979093,
+            "localadmin_id":404521473,
+            "locality_id":85979181,
             "neighbourhood_id":85846785,
             "region_id":85688543,
             "venue_id":353999947
         }
     ],
     "wof:id":353999947,
-    "wof:lastmodified":1449020491,
+    "wof:lastmodified":1454126598,
     "wof:name":"Uniflex Holdings, Llc",
     "wof:parent_id":85846785,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.570862,40.75536,-73.570862,40.75536],
-  "geometry": {"coordinates":[-73.570862,40.75536],"type":"Point"}
+  "bbox": [
+    -73.570862,
+    40.75536,
+    -73.570862,
+    40.75536
+],
+  "geometry": {"coordinates":[-73.57086200000001,40.75536],"type":"Point"}
 }

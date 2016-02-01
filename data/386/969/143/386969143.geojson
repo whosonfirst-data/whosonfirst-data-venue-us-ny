@@ -2,13 +2,14 @@
   "id": 386969143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.681101,43.120958,-78.681101,43.120958",
     "geom:latitude":43.120958,
     "geom:longitude":-78.681101,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1328 Willowbrook Dr",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529193,
+        102191575,
+        404522737,
         85633793,
         85979541,
-        102081767
+        102081767,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"30a14f819921f0f8d928951c803e1096",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
+            "localadmin_id":404522737,
             "locality_id":85979541,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":386969143
         }
     ],
     "wof:id":386969143,
-    "wof:lastmodified":1449028687,
+    "wof:lastmodified":1454127208,
     "wof:name":"S&J Tavern",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "drinking"
     ]
 },
-  "bbox": [-78.681101,43.120958,-78.681101,43.120958],
+  "bbox": [
+    -78.681101,
+    43.120958,
+    -78.681101,
+    43.120958
+],
   "geometry": {"coordinates":[-78.681101,43.120958],"type":"Point"}
 }

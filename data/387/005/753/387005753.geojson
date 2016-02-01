@@ -2,13 +2,14 @@
   "id": 387005753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.994105,40.7314,-73.994105,40.7314",
     "geom:latitude":40.7314,
     "geom:longitude":-73.994105,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"41 E 8 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"www.dashingdiva.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529189,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"d0a5cad5d845f1c771ef8eb48c7050fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529189,
             "region_id":85688543,
             "venue_id":387005753
         }
     ],
     "wof:id":387005753,
-    "wof:lastmodified":1449059607,
+    "wof:lastmodified":1454130154,
     "wof:name":"Dashing Diva",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529189,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "manicuring"
     ]
 },
-  "bbox": [-73.994105,40.7314,-73.994105,40.7314],
+  "bbox": [
+    -73.994105,
+    40.7314,
+    -73.994105,
+    40.7314
+],
   "geometry": {"coordinates":[-73.994105,40.7314],"type":"Point"}
 }

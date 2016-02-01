@@ -2,13 +2,14 @@
   "id": 303437901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.835906,40.937939,-73.835906,40.937939",
     "geom:latitude":40.937939,
     "geom:longitude":-73.835906,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Parkway Rd",
     "sg:city":"Bronxville",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892801,
+        102191575,
+        404523357,
         85633793,
         85978751,
         102082373,
-        85892801
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"16cf34b7b047cd76c42425e7350c20b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85978751,
             "neighbourhood_id":85892801,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":303437901,
-    "wof:lastmodified":1448999887,
+    "wof:lastmodified":1454123536,
     "wof:name":"Global Cruises Inc",
     "wof:parent_id":85892801,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "deep"
     ]
 },
-  "bbox": [-73.835906,40.937939,-73.835906,40.937939],
-  "geometry": {"coordinates":[-73.835906,40.937939],"type":"Point"}
+  "bbox": [
+    -73.835906,
+    40.937939,
+    -73.835906,
+    40.937939
+],
+  "geometry": {"coordinates":[-73.83590599999999,40.937939],"type":"Point"}
 }

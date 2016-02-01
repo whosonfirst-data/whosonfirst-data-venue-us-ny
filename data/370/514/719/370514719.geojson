@@ -2,13 +2,14 @@
   "id": 370514719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.953795,42.287672,-73.953795,42.287672",
     "geom:latitude":42.287672,
     "geom:longitude":-73.953795,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"19 Ira Vail Rd",
     "sg:city":"Leeds",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     "sg:website":"www.bandhcontracting.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528781,
+        102191575,
+        404522479,
         85633793,
+        85979321,
+        102082393,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"bd86bdbf33f2d53400ed40e06950ae1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082393,
+            "localadmin_id":404522479,
+            "locality_id":85979321,
+            "neighbourhood_id":420528781,
             "region_id":85688543,
             "venue_id":370514719
         }
     ],
     "wof:id":370514719,
-    "wof:lastmodified":1449030782,
+    "wof:lastmodified":1454127811,
     "wof:name":"B & H CONTRACTING",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528781,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -58,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.953795,42.287672,-73.953795,42.287672],
+  "bbox": [
+    -73.953795,
+    42.287672,
+    -73.953795,
+    42.287672
+],
   "geometry": {"coordinates":[-73.953795,42.287672],"type":"Point"}
 }

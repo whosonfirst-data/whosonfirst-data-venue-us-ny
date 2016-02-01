@@ -2,13 +2,14 @@
   "id": 286943469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.707623,40.969968,-73.707623,40.969968",
     "geom:latitude":40.969968,
     "geom:longitude":-73.707623,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"560 Halstead Ave",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892899,
+        102191575,
+        404523361,
         85633793,
-        85978729,
+        85978735,
         102082373,
-        85892899
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"e51d21a6b7dc7f5f34398ce65370764c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978729,
+            "localadmin_id":404523361,
+            "locality_id":85978735,
             "neighbourhood_id":85892899,
             "region_id":85688543,
             "venue_id":286943469
         }
     ],
     "wof:id":286943469,
-    "wof:lastmodified":1449015958,
+    "wof:lastmodified":1454125535,
     "wof:name":"Halstead Plaza",
     "wof:parent_id":85892899,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-73.707623,40.969968,-73.707623,40.969968],
+  "bbox": [
+    -73.707623,
+    40.969968,
+    -73.707623,
+    40.969968
+],
   "geometry": {"coordinates":[-73.707623,40.969968],"type":"Point"}
 }

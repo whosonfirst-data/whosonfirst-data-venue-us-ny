@@ -2,13 +2,14 @@
   "id": 354350689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.983929,40.833437,-72.983929,40.833437",
     "geom:latitude":40.833437,
     "geom:longitude":-72.983929,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3107 New London Ave",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"http://www.cal-metrics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,18 @@
     "wof:geomhash":"4bf34ef3b23d88cadc2b684dafc82166",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354350689
         }
     ],
     "wof:id":354350689,
-    "wof:lastmodified":1449066794,
+    "wof:lastmodified":1454131033,
     "wof:name":"Calmetrics Inc",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "equipment-repair"
     ]
 },
-  "bbox": [-72.983929,40.833437,-72.983929,40.833437],
+  "bbox": [
+    -72.983929,
+    40.833437,
+    -72.983929,
+    40.833437
+],
   "geometry": {"coordinates":[-72.983929,40.833437],"type":"Point"}
 }

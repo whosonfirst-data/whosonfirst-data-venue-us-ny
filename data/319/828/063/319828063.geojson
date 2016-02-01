@@ -2,13 +2,14 @@
   "id": 319828063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.006536,40.738579,-74.006536,40.738579",
     "geom:latitude":40.738579,
     "geom:longitude":-74.006536,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"820 Greenwich St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85856577,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85856577
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"2ae3a9893ff24639d32bbbdce6de9b27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85856577,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":319828063,
-    "wof:lastmodified":1449024484,
+    "wof:lastmodified":1454126782,
     "wof:name":"Johns Ny",
     "wof:parent_id":85856577,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-74.006536,40.738579,-74.006536,40.738579],
+  "bbox": [
+    -74.006536,
+    40.738579,
+    -74.006536,
+    40.738579
+],
   "geometry": {"coordinates":[-74.006536,40.738579],"type":"Point"}
 }

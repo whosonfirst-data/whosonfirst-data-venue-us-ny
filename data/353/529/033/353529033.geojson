@@ -2,13 +2,14 @@
   "id": 353529033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.033912,40.824208,-73.033912,40.824208",
     "geom:latitude":40.824208,
     "geom:longitude":-73.033912,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"70 Wendy Dr",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"5b21487e39736254551d961a1b221099",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":353529033
         }
     ],
     "wof:id":353529033,
-    "wof:lastmodified":1449019376,
+    "wof:lastmodified":1454126271,
     "wof:name":"East End Lawn Sprinklers",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.033912,40.824208,-73.033912,40.824208],
+  "bbox": [
+    -73.033912,
+    40.824208,
+    -73.033912,
+    40.824208
+],
   "geometry": {"coordinates":[-73.033912,40.824208],"type":"Point"}
 }

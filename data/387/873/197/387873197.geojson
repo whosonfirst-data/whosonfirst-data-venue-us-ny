@@ -2,13 +2,14 @@
   "id": 387873197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.134429,41.813317,-74.134429,41.813317",
     "geom:latitude":41.813317,
     "geom:longitude":-74.134429,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"222 Mohonk Rd",
     "sg:city":"High Falls",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85808191,
+        102191575,
+        404523255,
         85633793,
+        85978905,
+        102081775,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"5bcff3ab8dcd3aed40d72f6f38be942a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081775,
+            "localadmin_id":404523255,
+            "locality_id":85978905,
+            "neighbourhood_id":85808191,
             "region_id":85688543,
             "venue_id":387873197
         }
     ],
     "wof:id":387873197,
-    "wof:lastmodified":1449056898,
+    "wof:lastmodified":1454129669,
     "wof:name":"Computer Research Assoc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85808191,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "cad"
     ]
 },
-  "bbox": [-74.134429,41.813317,-74.134429,41.813317],
+  "bbox": [
+    -74.134429,
+    41.813317,
+    -74.134429,
+    41.813317
+],
   "geometry": {"coordinates":[-74.134429,41.813317],"type":"Point"}
 }

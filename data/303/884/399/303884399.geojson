@@ -2,13 +2,14 @@
   "id": 303884399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993905,40.755679,-73.993905,40.755679",
     "geom:latitude":40.755679,
     "geom:longitude":-73.993905,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"325 W 38th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     "sg:website":"www.chaldonassociates.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85882233,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85882233
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"07eb752f1df1c3cb6b63538523ca5cf7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85882233,
             "region_id":85688543,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":303884399,
-    "wof:lastmodified":1449000092,
+    "wof:lastmodified":1454123595,
     "wof:name":"Chaldon Associates LLC",
     "wof:parent_id":85882233,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "advisory"
     ]
 },
-  "bbox": [-73.993905,40.755679,-73.993905,40.755679],
+  "bbox": [
+    -73.993905,
+    40.755679,
+    -73.993905,
+    40.755679
+],
   "geometry": {"coordinates":[-73.993905,40.755679],"type":"Point"}
 }

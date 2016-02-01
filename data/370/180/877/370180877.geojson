@@ -2,13 +2,14 @@
   "id": 370180877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.195198,40.8395,-73.195198,40.8395",
     "geom:latitude":40.8395,
     "geom:longitude":-73.195198,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"330 Maple Ave",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530053,
+        102191575,
+        404522517,
         85633793,
-        85979919,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"903b2b69719e83cd760b6ac906c9352f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530053,
             "region_id":85688543,
             "venue_id":370180877
         }
     ],
     "wof:id":370180877,
-    "wof:lastmodified":1449029203,
+    "wof:lastmodified":1454127350,
     "wof:name":"Sts Tire & Auto Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "tire"
     ]
 },
-  "bbox": [-73.195198,40.8395,-73.195198,40.8395],
+  "bbox": [
+    -73.195198,
+    40.8395,
+    -73.195198,
+    40.8395
+],
   "geometry": {"coordinates":[-73.195198,40.8395],"type":"Point"}
 }

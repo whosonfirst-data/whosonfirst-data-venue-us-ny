@@ -2,13 +2,14 @@
   "id": 353996423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.597198,40.764502,-73.597198,40.764502",
     "geom:latitude":40.764502,
     "geom:longitude":-73.597198,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Jericho Turnpike",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     "sg:website":"www.westburyjeep.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893071,
+        102191575,
+        404522729,
         85633793,
         85977647,
         102082371,
-        85893071
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"a131b287154deb3c7fb770367f109072",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85977647,
             "neighbourhood_id":85893071,
             "region_id":85688543,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":353996423,
-    "wof:lastmodified":1449018948,
+    "wof:lastmodified":1454126150,
     "wof:name":"Westbury Jeep",
     "wof:parent_id":85893071,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "part"
     ]
 },
-  "bbox": [-73.597198,40.764502,-73.597198,40.764502],
-  "geometry": {"coordinates":[-73.597198,40.764502],"type":"Point"}
+  "bbox": [
+    -73.597198,
+    40.764502,
+    -73.597198,
+    40.764502
+],
+  "geometry": {"coordinates":[-73.59719800000001,40.764502],"type":"Point"}
 }

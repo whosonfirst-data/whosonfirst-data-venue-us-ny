@@ -2,13 +2,14 @@
   "id": 387013669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.600092,43.138605,-77.600092,43.138605",
     "geom:latitude":43.138605,
     "geom:longitude":-77.600092,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"817 Meigs St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -45,11 +46,13 @@
     "sg:website":"http://www.clement-electric.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880397,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85880397
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,9 +62,10 @@
     "wof:geomhash":"1d1e93579ec6e628df6283f8710e6415",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85880397,
             "region_id":85688543,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":387013669,
-    "wof:lastmodified":1449058682,
+    "wof:lastmodified":1454129992,
     "wof:name":"Clement Electric",
     "wof:parent_id":85880397,
     "wof:placetype":"venue",
@@ -86,6 +90,11 @@
         "remodeling"
     ]
 },
-  "bbox": [-77.600092,43.138605,-77.600092,43.138605],
+  "bbox": [
+    -77.600092,
+    43.138605,
+    -77.600092,
+    43.138605
+],
   "geometry": {"coordinates":[-77.600092,43.138605],"type":"Point"}
 }

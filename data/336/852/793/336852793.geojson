@@ -2,13 +2,14 @@
   "id": 336852793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.650789,41.458312,-73.650789,41.458312",
     "geom:latitude":41.458312,
     "geom:longitude":-73.650789,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"761 Fair St",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85979557,
+        102083007,
+        85819241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +43,18 @@
     "wof:geomhash":"0fe11f7410d06367c107418859917ec5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083007,
+            "locality_id":85979557,
+            "neighbourhood_id":85819241,
             "region_id":85688543,
             "venue_id":336852793
         }
     ],
     "wof:id":336852793,
-    "wof:lastmodified":1448997851,
+    "wof:lastmodified":1454122901,
     "wof:name":"Shaw Welding Supl Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85819241,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +63,11 @@
         "welding"
     ]
 },
-  "bbox": [-73.650789,41.458312,-73.650789,41.458312],
+  "bbox": [
+    -73.650789,
+    41.458312,
+    -73.650789,
+    41.458312
+],
   "geometry": {"coordinates":[-73.650789,41.458312],"type":"Point"}
 }

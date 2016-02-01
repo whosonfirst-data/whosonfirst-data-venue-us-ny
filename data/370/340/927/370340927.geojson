@@ -2,13 +2,14 @@
   "id": 370340927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.864587,40.781527,-72.864587,40.781527",
     "geom:latitude":40.781527,
     "geom:longitude":-72.864587,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"431 William Floyd Pkwy",
     "sg:city":"Shirley",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892903,
+        102191575,
+        404521441,
         85633793,
+        85978437,
         102082395,
-        85892903
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"a901d4317a177c05b56c2720bdba8aa2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85978437,
             "neighbourhood_id":85892903,
             "region_id":85688543,
             "venue_id":370340927
         }
     ],
     "wof:id":370340927,
-    "wof:lastmodified":1449031714,
+    "wof:lastmodified":1454128086,
     "wof:name":"Seven Star Deli",
     "wof:parent_id":85892903,
     "wof:placetype":"venue",
@@ -65,6 +70,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-72.864587,40.781527,-72.864587,40.781527],
+  "bbox": [
+    -72.864587,
+    40.781527,
+    -72.864587,
+    40.781527
+],
   "geometry": {"coordinates":[-72.864587,40.781527],"type":"Point"}
 }

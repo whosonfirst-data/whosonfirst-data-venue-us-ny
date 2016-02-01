@@ -2,13 +2,14 @@
   "id": 371099197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.810007,42.930662,-78.810007,42.930662",
     "geom:latitude":42.930662,
     "geom:longitude":-78.810007,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"103 Hempstead Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528541,
+        102191575,
+        404522329,
         85633793,
         85978023,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"21e8f0ed484d0ae8413b5416e164f2dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528541,
             "region_id":85688543,
             "venue_id":371099197
         }
     ],
     "wof:id":371099197,
-    "wof:lastmodified":1449049739,
+    "wof:lastmodified":1454129203,
     "wof:name":"Create-A-Glass",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528541,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-78.810007,42.930662,-78.810007,42.930662],
+  "bbox": [
+    -78.810007,
+    42.930662,
+    -78.810007,
+    42.930662
+],
   "geometry": {"coordinates":[-78.810007,42.930662],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387830515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.584894,40.676431,-73.584894,40.676431",
     "geom:latitude":40.676431,
     "geom:longitude":-73.584894,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"154 Babylon Tpke",
     "sg:city":"Roosevelt",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529155,
+        102191575,
+        404521473,
         85633793,
-        85979183,
-        102082371
+        85977679,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"51728656613f4dffe8d2d1316b4f4d1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979183,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85977679,
+            "neighbourhood_id":420529155,
             "region_id":85688543,
             "venue_id":387830515
         }
     ],
     "wof:id":387830515,
-    "wof:lastmodified":1449056907,
+    "wof:lastmodified":1454129670,
     "wof:name":"Mc Zeno Auto Sales",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529155,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-73.584894,40.676431,-73.584894,40.676431],
-  "geometry": {"coordinates":[-73.584894,40.676431],"type":"Point"}
+  "bbox": [
+    -73.584894,
+    40.676431,
+    -73.584894,
+    40.676431
+],
+  "geometry": {"coordinates":[-73.58489400000001,40.676431],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370913707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.449342,40.780527,-73.449342,40.780527",
     "geom:latitude":40.780527,
     "geom:longitude":-73.449342,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1542 Old Country Rd",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"6ee4c241d96243a71baa02b37b0ca057",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":370913707
         }
     ],
     "wof:id":370913707,
-    "wof:lastmodified":1449030391,
+    "wof:lastmodified":1454127699,
     "wof:name":"Royal Car & Van Wash",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "washing"
     ]
 },
-  "bbox": [-73.449342,40.780527,-73.449342,40.780527],
+  "bbox": [
+    -73.449342,
+    40.780527,
+    -73.449342,
+    40.780527
+],
   "geometry": {"coordinates":[-73.449342,40.780527],"type":"Point"}
 }

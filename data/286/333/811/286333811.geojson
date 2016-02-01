@@ -2,13 +2,14 @@
   "id": 286333811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.948702,42.723478,-78.948702,42.723478",
     "geom:latitude":42.723478,
     "geom:longitude":-78.948702,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1699 Lakeview Rd",
     "sg:city":"Lake View",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85854203,
+        102082387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"fba94016921455e5a00409749dcb64b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082387,
+            "neighbourhood_id":85854203,
             "region_id":85688543,
             "venue_id":286333811
         }
     ],
     "wof:id":286333811,
-    "wof:lastmodified":1449017883,
+    "wof:lastmodified":1454125877,
     "wof:name":"ABC Service of Wny Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85854203,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "software"
     ]
 },
-  "bbox": [-78.948702,42.723478,-78.948702,42.723478],
+  "bbox": [
+    -78.948702,
+    42.723478,
+    -78.948702,
+    42.723478
+],
   "geometry": {"coordinates":[-78.948702,42.723478],"type":"Point"}
 }

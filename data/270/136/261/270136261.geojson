@@ -2,13 +2,14 @@
   "id": 270136261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.223905,40.735031,-73.223905,40.735031",
     "geom:latitude":40.735031,
     "geom:longitude":-73.223905,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"24 Cullen Ave",
     "sg:city":"Islip",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530029,
+        102191575,
+        404522517,
         85633793,
         85979775,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"9a16460b13cd35f01c162fbfc84d322a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979775,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530029,
             "region_id":85688543,
             "venue_id":270136261
         }
     ],
     "wof:id":270136261,
-    "wof:lastmodified":1449011096,
+    "wof:lastmodified":1454124735,
     "wof:name":"Custom Constr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530029,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.223905,40.735031,-73.223905,40.735031],
+  "bbox": [
+    -73.223905,
+    40.735031,
+    -73.223905,
+    40.735031
+],
   "geometry": {"coordinates":[-73.223905,40.735031],"type":"Point"}
 }

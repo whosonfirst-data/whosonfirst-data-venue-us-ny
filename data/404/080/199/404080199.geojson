@@ -2,13 +2,14 @@
   "id": 404080199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.143054,43.010594,-76.143054,43.010594",
     "geom:latitude":43.010594,
     "geom:longitude":-76.143054,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"121 Ballantyne Rd",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529355,
+        102191575,
+        404522851,
         85633793,
         85977785,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"f1f7bb6c9bb8c8de5c4fb6c57223766b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529355,
             "region_id":85688543,
             "venue_id":404080199
         }
     ],
     "wof:id":404080199,
-    "wof:lastmodified":1449040300,
+    "wof:lastmodified":1454128967,
     "wof:name":"Ballantyne Conveince",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529355,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.143054,43.010594,-76.143054,43.010594],
-  "geometry": {"coordinates":[-76.143054,43.010594],"type":"Point"}
+  "bbox": [
+    -76.143054,
+    43.010594,
+    -76.143054,
+    43.010594
+],
+  "geometry": {"coordinates":[-76.14305400000001,43.010594],"type":"Point"}
 }

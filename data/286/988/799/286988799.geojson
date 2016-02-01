@@ -2,13 +2,14 @@
   "id": 286988799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.01483,40.708253,-74.01483,40.708253",
     "geom:latitude":40.708253,
     "geom:longitude":-74.01483,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"33 Rector St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865711,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865711
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"dabe3ceb0f14e61247c4d4118951e596",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865711,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":286988799,
-    "wof:lastmodified":1449016201,
+    "wof:lastmodified":1454125578,
     "wof:name":"33 Rector Street Limited",
     "wof:parent_id":85865711,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-74.01483,40.708253,-74.01483,40.708253],
+  "bbox": [
+    -74.01483,
+    40.708253,
+    -74.01483,
+    40.708253
+],
   "geometry": {"coordinates":[-74.01483,40.708253],"type":"Point"}
 }

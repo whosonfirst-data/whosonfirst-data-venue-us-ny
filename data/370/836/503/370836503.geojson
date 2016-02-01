@@ -2,13 +2,14 @@
   "id": 370836503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.468071,43.200904,-75.468071,43.200904",
     "geom:latitude":43.200904,
     "geom:longitude":-75.468071,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6966 S James St",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816883,
+        102191575,
+        404522697,
         85633793,
+        85978369,
         102083149,
-        85816883
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"ab4c12b73a5fd6499936b4513019e7db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083149,
-            "locality_id":-1,
+            "localadmin_id":404522697,
+            "locality_id":85978369,
             "neighbourhood_id":85816883,
             "region_id":85688543,
             "venue_id":370836503
         }
     ],
     "wof:id":370836503,
-    "wof:lastmodified":1449031315,
+    "wof:lastmodified":1454127971,
     "wof:name":"Happy Valley Farms",
     "wof:parent_id":85816883,
     "wof:placetype":"venue",
@@ -67,6 +72,11 @@
         "fruit"
     ]
 },
-  "bbox": [-75.468071,43.200904,-75.468071,43.200904],
-  "geometry": {"coordinates":[-75.468071,43.200904],"type":"Point"}
+  "bbox": [
+    -75.468071,
+    43.200904,
+    -75.468071,
+    43.200904
+],
+  "geometry": {"coordinates":[-75.46807099999999,43.200904],"type":"Point"}
 }

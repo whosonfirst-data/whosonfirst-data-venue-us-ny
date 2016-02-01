@@ -2,13 +2,14 @@
   "id": 336788117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.96067,40.757363,-73.96067,40.757363",
     "geom:latitude":40.757363,
     "geom:longitude":-73.96067,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Sutton Pl S",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865707,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865707
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"c0e126d58ff718898cc4982ea8af8d7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865707,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":336788117,
-    "wof:lastmodified":1448997511,
+    "wof:lastmodified":1454122798,
     "wof:name":"Jonathan Becker",
     "wof:parent_id":85865707,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "photography"
     ]
 },
-  "bbox": [-73.96067,40.757363,-73.96067,40.757363],
-  "geometry": {"coordinates":[-73.96067,40.757363],"type":"Point"}
+  "bbox": [
+    -73.96067,
+    40.757363,
+    -73.96067,
+    40.757363
+],
+  "geometry": {"coordinates":[-73.96066999999999,40.757363],"type":"Point"}
 }

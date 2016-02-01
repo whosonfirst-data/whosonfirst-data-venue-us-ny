@@ -2,13 +2,14 @@
   "id": 387015473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.574168,43.199847,-77.574168,43.199847",
     "geom:latitude":43.199847,
     "geom:longitude":-77.574168,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1612 E Ridge Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     "sg:website":"http://www.idealnissan.net/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880401,
+        102191575,
+        404522639,
         85633793,
         85979035,
         102081815,
-        85880401
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"2719d937ed982c8ac8e8f8688b8b874d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404522639,
             "locality_id":85979035,
             "neighbourhood_id":85880401,
             "region_id":85688543,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":387015473,
-    "wof:lastmodified":1449056971,
+    "wof:lastmodified":1454129683,
     "wof:name":"Ideal Nissan",
     "wof:parent_id":85880401,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "new"
     ]
 },
-  "bbox": [-77.574168,43.199847,-77.574168,43.199847],
+  "bbox": [
+    -77.574168,
+    43.199847,
+    -77.574168,
+    43.199847
+],
   "geometry": {"coordinates":[-77.574168,43.199847],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337310395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.960505,40.577597,-73.960505,40.577597",
     "geom:latitude":40.577597,
     "geom:longitude":-73.960505,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"702 Brighton Beach Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -49,11 +50,13 @@
     "sg:website":"www.t-mobile.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807547,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85807547
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,9 +66,10 @@
     "wof:geomhash":"f34af30fb8ad21bdfa35646bed904bdb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85807547,
             "region_id":85688543,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":337310395,
-    "wof:lastmodified":1449027453,
+    "wof:lastmodified":1454127072,
     "wof:name":"T-Mobile",
     "wof:parent_id":85807547,
     "wof:placetype":"venue",
@@ -89,6 +93,11 @@
         "cellular"
     ]
 },
-  "bbox": [-73.960505,40.577597,-73.960505,40.577597],
+  "bbox": [
+    -73.960505,
+    40.577597,
+    -73.960505,
+    40.577597
+],
   "geometry": {"coordinates":[-73.960505,40.577597],"type":"Point"}
 }

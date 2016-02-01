@@ -2,13 +2,14 @@
   "id": 387490567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.701289,41.300038,-73.701289,41.300038",
     "geom:latitude":41.300038,
     "geom:longitude":-73.701289,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"241 State Hwy 100",
     "sg:city":"Somers",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85857511,
+        102082373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"0ba4896851498363b7d580db0e781751",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082373,
+            "neighbourhood_id":85857511,
             "region_id":85688543,
             "venue_id":387490567
         }
     ],
     "wof:id":387490567,
-    "wof:lastmodified":1449059530,
+    "wof:lastmodified":1454130138,
     "wof:name":"Sundown Carting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85857511,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "collection"
     ]
 },
-  "bbox": [-73.701289,41.300038,-73.701289,41.300038],
+  "bbox": [
+    -73.701289,
+    41.300038,
+    -73.701289,
+    41.300038
+],
   "geometry": {"coordinates":[-73.701289,41.300038],"type":"Point"}
 }

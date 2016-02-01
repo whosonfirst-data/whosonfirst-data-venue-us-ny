@@ -2,13 +2,14 @@
   "id": 286428943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.796812,40.839844,-72.796812,40.839844",
     "geom:latitude":40.839844,
     "geom:longitude":-72.796812,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Sheila Ct",
     "sg:city":"Manorville",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530021,
+        102191575,
+        404521441,
         85633793,
         85979761,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"26c2db3c7866f0d4d6e66906461cb953",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530021,
             "region_id":85688543,
             "venue_id":286428943
         }
     ],
     "wof:id":286428943,
-    "wof:lastmodified":1449017889,
+    "wof:lastmodified":1454125878,
     "wof:name":"A & M Painters",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530021,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-72.796812,40.839844,-72.796812,40.839844],
+  "bbox": [
+    -72.796812,
+    40.839844,
+    -72.796812,
+    40.839844
+],
   "geometry": {"coordinates":[-72.796812,40.839844],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387775331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.605797,43.147227,-77.605797,43.147227",
     "geom:latitude":43.147227,
     "geom:longitude":-77.605797,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 South Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867111,
+        102191575,
+        404521467,
         85633793,
         85977591,
-        102081815
+        102081815,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"5bbd52a1d27ac254e53a768074dbc69e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85867111,
             "region_id":85688543,
             "venue_id":387775331
         }
     ],
     "wof:id":387775331,
-    "wof:lastmodified":1449058920,
+    "wof:lastmodified":1454130029,
     "wof:name":"ROPAC Intl",
-    "wof:parent_id":-1,
+    "wof:parent_id":85867111,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-77.605797,43.147227,-77.605797,43.147227],
+  "bbox": [
+    -77.605797,
+    43.147227,
+    -77.605797,
+    43.147227
+],
   "geometry": {"coordinates":[-77.605797,43.147227],"type":"Point"}
 }

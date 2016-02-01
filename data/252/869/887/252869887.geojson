@@ -2,13 +2,14 @@
   "id": 252869887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.940694,40.954749,-72.940694,40.954749",
     "geom:latitude":40.954749,
     "geom:longitude":-72.940694,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"52 Quail Rd",
     "sg:city":"Rocky Point",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979947,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"9822f4ed431bc012968ae41a735b5b15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979947,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":252869887
         }
     ],
     "wof:id":252869887,
-    "wof:lastmodified":1449006423,
+    "wof:lastmodified":1454124122,
     "wof:name":"Falcon Air Research",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-72.940694,40.954749,-72.940694,40.954749],
-  "geometry": {"coordinates":[-72.940694,40.954749],"type":"Point"}
+  "bbox": [
+    -72.940694,
+    40.954749,
+    -72.940694,
+    40.954749
+],
+  "geometry": {"coordinates":[-72.94069399999999,40.954749],"type":"Point"}
 }

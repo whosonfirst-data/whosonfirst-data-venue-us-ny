@@ -2,13 +2,14 @@
   "id": 320832511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.473127,40.814343,-73.473127,40.814343",
     "geom:latitude":40.814343,
     "geom:longitude":-73.473127,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"71 Woodlake Dr W",
     "sg:city":"Woodbury",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
         85979055,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"3886d2ad9d77f98885078adb64b147d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979055,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":320832511
         }
     ],
     "wof:id":320832511,
-    "wof:lastmodified":1449011280,
+    "wof:lastmodified":1454124765,
     "wof:name":"William Silver & Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.473127,40.814343,-73.473127,40.814343],
-  "geometry": {"coordinates":[-73.473127,40.814343],"type":"Point"}
+  "bbox": [
+    -73.473127,
+    40.814343,
+    -73.473127,
+    40.814343
+],
+  "geometry": {"coordinates":[-73.47312700000001,40.814343],"type":"Point"}
 }

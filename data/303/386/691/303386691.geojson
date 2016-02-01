@@ -2,13 +2,14 @@
   "id": 303386691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.966437,40.770231,-73.966437,40.770231",
     "geom:latitude":40.770231,
     "geom:longitude":-73.966437,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"833 Madison Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865691,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865691
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"443c1f4450c309920fc4b28ccf59f6bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865691,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":303386691,
-    "wof:lastmodified":1448999406,
+    "wof:lastmodified":1454123406,
     "wof:name":"Cesare Paciotti",
     "wof:parent_id":85865691,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.966437,40.770231,-73.966437,40.770231],
+  "bbox": [
+    -73.966437,
+    40.770231,
+    -73.966437,
+    40.770231
+],
   "geometry": {"coordinates":[-73.966437,40.770231],"type":"Point"}
 }

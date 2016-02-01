@@ -2,13 +2,14 @@
   "id": 253041187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.797573,40.789981,-72.797573,40.789981",
     "geom:latitude":40.789981,
     "geom:longitude":-72.797573,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"88 Union Ave",
     "sg:city":"Center Moriches",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"0d6ed8bee7887b61a5810fe5ce15c151",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":253041187
         }
     ],
     "wof:id":253041187,
-    "wof:lastmodified":1449063894,
+    "wof:lastmodified":1454130425,
     "wof:name":"Computer Medica Corporation",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-72.797573,40.789981,-72.797573,40.789981],
+  "bbox": [
+    -72.797573,
+    40.789981,
+    -72.797573,
+    40.789981
+],
   "geometry": {"coordinates":[-72.797573,40.789981],"type":"Point"}
 }

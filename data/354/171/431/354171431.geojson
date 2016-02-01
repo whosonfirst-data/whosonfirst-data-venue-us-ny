@@ -2,13 +2,14 @@
   "id": 354171431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.527296,40.681107,-73.527296,40.681107",
     "geom:latitude":40.681107,
     "geom:longitude":-73.527296,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1830 White St",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893061,
+        102191575,
+        404521473,
         85633793,
-        85979065,
+        85979059,
         102082371,
-        85893061
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"f1c992e627b9ba640eebf07cd13c4ccb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979065,
+            "localadmin_id":404521473,
+            "locality_id":85979059,
             "neighbourhood_id":85893061,
             "region_id":85688543,
             "venue_id":354171431
         }
     ],
     "wof:id":354171431,
-    "wof:lastmodified":1449067670,
+    "wof:lastmodified":1454131308,
     "wof:name":"Stan Carter",
     "wof:parent_id":85893061,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.527296,40.681107,-73.527296,40.681107],
-  "geometry": {"coordinates":[-73.527296,40.681107],"type":"Point"}
+  "bbox": [
+    -73.527296,
+    40.681107,
+    -73.527296,
+    40.681107
+],
+  "geometry": {"coordinates":[-73.52729600000001,40.681107],"type":"Point"}
 }

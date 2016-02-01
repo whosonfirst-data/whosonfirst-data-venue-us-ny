@@ -2,13 +2,14 @@
   "id": 354120231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.908272,40.793098,-72.908272,40.793098",
     "geom:latitude":40.793098,
     "geom:longitude":-72.908272,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2647 Montauk Hwy",
     "sg:city":"Brookhaven",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"http://www.groundround.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85850841,
+        102191575,
+        404521441,
         85633793,
         85979847,
         102082395,
-        85850841
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"7348d5a9f05833bd1504c1c4ee0292e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979847,
             "neighbourhood_id":85850841,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":354120231,
-    "wof:lastmodified":1449067416,
+    "wof:lastmodified":1454131228,
     "wof:name":"Ground Round Grill & Bar",
     "wof:parent_id":85850841,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "take"
     ]
 },
-  "bbox": [-72.908272,40.793098,-72.908272,40.793098],
+  "bbox": [
+    -72.908272,
+    40.793098,
+    -72.908272,
+    40.793098
+],
   "geometry": {"coordinates":[-72.908272,40.793098],"type":"Point"}
 }

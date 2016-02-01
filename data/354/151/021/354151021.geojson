@@ -2,13 +2,14 @@
   "id": 354151021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.270798,40.865589,-73.270798,40.865589",
     "geom:latitude":40.865589,
     "geom:longitude":-73.270798,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Aspatuck Ct",
     "sg:city":"Commack",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530033,
+        102191575,
+        404522669,
         85633793,
         85979805,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"e22cae2b9c25709fbd642c8f6eb0aa57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979805,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530033,
             "region_id":85688543,
             "venue_id":354151021
         }
     ],
     "wof:id":354151021,
-    "wof:lastmodified":1449065942,
+    "wof:lastmodified":1454130773,
     "wof:name":"Data Display Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530033,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -71,6 +76,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.270798,40.865589,-73.270798,40.865589],
+  "bbox": [
+    -73.270798,
+    40.865589,
+    -73.270798,
+    40.865589
+],
   "geometry": {"coordinates":[-73.270798,40.865589],"type":"Point"}
 }

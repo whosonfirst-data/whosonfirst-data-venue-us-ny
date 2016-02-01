@@ -2,13 +2,14 @@
   "id": 354108265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.115997,40.773399,-73.115997,40.773399",
     "geom:latitude":40.773399,
     "geom:longitude":-73.115997,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1285 Locust Ave",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837663,
+        102191575,
+        404522517,
         85633793,
-        85979697,
+        85979705,
         102082395,
-        85837663
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"a72934f373cfd285f2bb539ceddfbb98",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979697,
+            "localadmin_id":404522517,
+            "locality_id":85979705,
             "neighbourhood_id":85837663,
             "region_id":85688543,
             "venue_id":354108265
         }
     ],
     "wof:id":354108265,
-    "wof:lastmodified":1449065966,
+    "wof:lastmodified":1454130780,
     "wof:name":"Tom's Boat Transport",
     "wof:parent_id":85837663,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "boating"
     ]
 },
-  "bbox": [-73.115997,40.773399,-73.115997,40.773399],
-  "geometry": {"coordinates":[-73.115997,40.773399],"type":"Point"}
+  "bbox": [
+    -73.115997,
+    40.773399,
+    -73.115997,
+    40.773399
+],
+  "geometry": {"coordinates":[-73.11599699999999,40.773399],"type":"Point"}
 }

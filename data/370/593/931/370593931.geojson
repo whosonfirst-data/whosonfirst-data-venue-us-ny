@@ -2,13 +2,14 @@
   "id": 370593931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.5995,40.782774,-73.5995,40.782774",
     "geom:latitude":40.782774,
     "geom:longitude":-73.5995,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Birch Hill Ct",
     "sg:city":"Old Westbury",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857339,
+        102191575,
+        404521475,
         85633793,
-        85977647,
+        85977655,
         102082371,
-        85857339
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"e05e2371e3439b7c24f5ccdfaf044bec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977647,
+            "localadmin_id":404521475,
+            "locality_id":85977655,
             "neighbourhood_id":85857339,
             "region_id":85688543,
             "venue_id":370593931
         }
     ],
     "wof:id":370593931,
-    "wof:lastmodified":1449031323,
+    "wof:lastmodified":1454127973,
     "wof:name":"Simon Chan MD",
     "wof:parent_id":85857339,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-73.5995,40.782774,-73.5995,40.782774],
-  "geometry": {"coordinates":[-73.5995,40.782774],"type":"Point"}
+  "bbox": [
+    -73.5995,
+    40.782774,
+    -73.5995,
+    40.782774
+],
+  "geometry": {"coordinates":[-73.59950000000001,40.782774],"type":"Point"}
 }

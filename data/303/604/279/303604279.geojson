@@ -2,13 +2,14 @@
   "id": 303604279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.888385,40.838456,-73.888385,40.838456",
     "geom:latitude":40.838456,
     "geom:longitude":-73.888385,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1714 Crotona Park E",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869201,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869201
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"946bc05cd76e9f9d47a2bf43123c4113",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869201,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303604279,
-    "wof:lastmodified":1449000283,
+    "wof:lastmodified":1454123647,
     "wof:name":"Community Action For Human Svc",
     "wof:parent_id":85869201,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "factor"
     ]
 },
-  "bbox": [-73.888385,40.838456,-73.888385,40.838456],
+  "bbox": [
+    -73.888385,
+    40.838456,
+    -73.888385,
+    40.838456
+],
   "geometry": {"coordinates":[-73.888385,40.838456],"type":"Point"}
 }

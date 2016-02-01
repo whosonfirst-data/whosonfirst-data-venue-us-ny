@@ -2,13 +2,14 @@
   "id": 353751645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.906249,40.853394,-73.906249,40.853394",
     "geom:latitude":40.853394,
     "geom:longitude":-73.906249,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"96 E Burnside Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865671,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865671
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"f7234d17012663b950d672fab1b22493",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865671,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":353751645,
-    "wof:lastmodified":1449018390,
+    "wof:lastmodified":1454125989,
     "wof:name":"Pretty Girl Inc",
     "wof:parent_id":85865671,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.906249,40.853394,-73.906249,40.853394],
+  "bbox": [
+    -73.906249,
+    40.853394,
+    -73.906249,
+    40.853394
+],
   "geometry": {"coordinates":[-73.906249,40.853394],"type":"Point"}
 }

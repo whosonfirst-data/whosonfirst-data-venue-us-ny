@@ -2,13 +2,14 @@
   "id": 370788891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.429482,40.839324,-73.429482,40.839324",
     "geom:latitude":40.839324,
     "geom:longitude":-73.429482,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"386 Oakwood Rd",
     "sg:city":"Huntington Station",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     "sg:website":"www.bigblueonline.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820109,
+        102191575,
+        404522515,
         85633793,
-        85979675,
+        85979787,
         102082395,
-        85820109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +54,18 @@
     "wof:geomhash":"dff2279f7ee601bcaa50e8ccf009dbd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979675,
+            "localadmin_id":404522515,
+            "locality_id":85979787,
             "neighbourhood_id":85820109,
             "region_id":85688543,
             "venue_id":370788891
         }
     ],
     "wof:id":370788891,
-    "wof:lastmodified":1449030824,
+    "wof:lastmodified":1454127825,
     "wof:name":"Big Blue Products Inc",
     "wof:parent_id":85820109,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "micro"
     ]
 },
-  "bbox": [-73.429482,40.839324,-73.429482,40.839324],
-  "geometry": {"coordinates":[-73.429482,40.839324],"type":"Point"}
+  "bbox": [
+    -73.429482,
+    40.839324,
+    -73.429482,
+    40.839324
+],
+  "geometry": {"coordinates":[-73.42948199999999,40.839324],"type":"Point"}
 }

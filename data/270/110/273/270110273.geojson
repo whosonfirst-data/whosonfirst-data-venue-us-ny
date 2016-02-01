@@ -2,13 +2,14 @@
   "id": 270110273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.98759,40.712845,-73.98759,40.712845",
     "geom:latitude":40.712845,
     "geom:longitude":-73.98759,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"227 Madison St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831563,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85831563
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"f6babc1e6ffeb782c9b3b0a11669155c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85831563,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":270110273,
-    "wof:lastmodified":1449009437,
+    "wof:lastmodified":1454124483,
     "wof:name":"N Y City Health & Hosp Corp",
     "wof:parent_id":85831563,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.98759,40.712845,-73.98759,40.712845],
+  "bbox": [
+    -73.98759,
+    40.712845,
+    -73.98759,
+    40.712845
+],
   "geometry": {"coordinates":[-73.98759,40.712845],"type":"Point"}
 }

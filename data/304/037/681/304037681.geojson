@@ -2,13 +2,14 @@
   "id": 304037681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.015948,43.836054,-76.015948,43.836054",
     "geom:latitude":43.836054,
     "geom:longitude":-76.015948,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18233 Spook Hill Rd",
     "sg:city":"Adams",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528855,
+        102191575,
+        404521907,
         85633793,
+        85979487,
+        102082357,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"10a9078fe4fee230771782f2ec109459",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082357,
+            "localadmin_id":404521907,
+            "locality_id":85979487,
+            "neighbourhood_id":420528855,
             "region_id":85688543,
             "venue_id":304037681
         }
     ],
     "wof:id":304037681,
-    "wof:lastmodified":1449044164,
+    "wof:lastmodified":1454129039,
     "wof:name":"Mary Kay Cosmetics",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528855,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-76.015948,43.836054,-76.015948,43.836054],
-  "geometry": {"coordinates":[-76.015948,43.836054],"type":"Point"}
+  "bbox": [
+    -76.015948,
+    43.836054,
+    -76.015948,
+    43.836054
+],
+  "geometry": {"coordinates":[-76.01594799999999,43.836054],"type":"Point"}
 }

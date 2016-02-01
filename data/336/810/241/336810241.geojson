@@ -2,13 +2,14 @@
   "id": 336810241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.824865,42.750122,-78.824865,42.750122",
     "geom:latitude":42.750122,
     "geom:longitude":-78.824865,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5375 S Park Ave",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847477,
+        102191575,
+        404522347,
         85633793,
+        85978013,
         102082387,
-        85847477
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"55968458a533d0879b937a3be1770c6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522347,
+            "locality_id":85978013,
             "neighbourhood_id":85847477,
             "region_id":85688543,
             "venue_id":336810241
         }
     ],
     "wof:id":336810241,
-    "wof:lastmodified":1448997266,
+    "wof:lastmodified":1454122530,
     "wof:name":"Abbott Auto Care Inc",
     "wof:parent_id":85847477,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-78.824865,42.750122,-78.824865,42.750122],
+  "bbox": [
+    -78.824865,
+    42.750122,
+    -78.824865,
+    42.750122
+],
   "geometry": {"coordinates":[-78.824865,42.750122],"type":"Point"}
 }

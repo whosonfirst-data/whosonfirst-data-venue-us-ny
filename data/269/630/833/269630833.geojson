@@ -2,13 +2,14 @@
   "id": 269630833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.085596,40.635787,-74.085596,40.635787",
     "geom:latitude":40.635787,
     "geom:longitude":-74.085596,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23 Castleton Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852335,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85852335
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"4a027ec3e9af7bfda4b9b36f4d0d930c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85852335,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":269630833,
-    "wof:lastmodified":1449036988,
+    "wof:lastmodified":1454128587,
     "wof:name":"Rosemaries Place",
     "wof:parent_id":85852335,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "boutique"
     ]
 },
-  "bbox": [-74.085596,40.635787,-74.085596,40.635787],
+  "bbox": [
+    -74.085596,
+    40.635787,
+    -74.085596,
+    40.635787
+],
   "geometry": {"coordinates":[-74.085596,40.635787],"type":"Point"}
 }

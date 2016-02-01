@@ -2,13 +2,14 @@
   "id": 320003033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.696773,40.752513,-73.696773,40.752513",
     "geom:latitude":40.752513,
     "geom:longitude":-73.696773,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Charles St",
     "sg:city":"New Hyde Park",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85821751,
+        102191575,
+        404522729,
         85633793,
         85977649,
         102082371,
-        85821751
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"75c026c3fedb8fdd29ea502090088c2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85977649,
             "neighbourhood_id":85821751,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":320003033,
-    "wof:lastmodified":1449014672,
+    "wof:lastmodified":1454125317,
     "wof:name":"Service Dept",
     "wof:parent_id":85821751,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.696773,40.752513,-73.696773,40.752513],
-  "geometry": {"coordinates":[-73.696773,40.752513],"type":"Point"}
+  "bbox": [
+    -73.696773,
+    40.752513,
+    -73.696773,
+    40.752513
+],
+  "geometry": {"coordinates":[-73.69677299999999,40.752513],"type":"Point"}
 }

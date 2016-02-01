@@ -2,13 +2,14 @@
   "id": 354322137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.515785,40.731648,-73.515785,40.731648",
     "geom:latitude":40.731648,
     "geom:longitude":-73.515785,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"63 Corncrib Ln Fl 2",
     "sg:city":"Levittown",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"61bd267cb6fdfc64ab80af6dd99c2eda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":354322137
         }
     ],
     "wof:id":354322137,
-    "wof:lastmodified":1449065913,
+    "wof:lastmodified":1454130765,
     "wof:name":"Rose's Cleaning Services",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "house"
     ]
 },
-  "bbox": [-73.515785,40.731648,-73.515785,40.731648],
-  "geometry": {"coordinates":[-73.515785,40.731648],"type":"Point"}
+  "bbox": [
+    -73.515785,
+    40.731648,
+    -73.515785,
+    40.731648
+],
+  "geometry": {"coordinates":[-73.51578499999999,40.731648],"type":"Point"}
 }

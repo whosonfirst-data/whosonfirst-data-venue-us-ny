@@ -2,13 +2,14 @@
   "id": 303337257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.010312,40.722243,-74.010312,40.722243",
     "geom:latitude":40.722243,
     "geom:longitude":-74.010312,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"70 Laight St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865713,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865713
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"4dd132c977c766695a1152f7f7739c37",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865713,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":303337257,
-    "wof:lastmodified":1448999263,
+    "wof:lastmodified":1454123366,
     "wof:name":"Stortz Lighting Inc",
     "wof:parent_id":85865713,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "architectural"
     ]
 },
-  "bbox": [-74.010312,40.722243,-74.010312,40.722243],
+  "bbox": [
+    -74.010312,
+    40.722243,
+    -74.010312,
+    40.722243
+],
   "geometry": {"coordinates":[-74.010312,40.722243],"type":"Point"}
 }

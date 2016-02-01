@@ -2,13 +2,14 @@
   "id": 185864579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.944201,40.723076,-73.944201,40.723076",
     "geom:latitude":40.723076,
     "geom:longitude":-73.944201,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"142 Driggs Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.districtdog.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823059,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85823059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"9e28c2b671eb10316e3108aca43db58a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85823059,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":185864579,
-    "wof:lastmodified":1449008230,
+    "wof:lastmodified":1454124356,
     "wof:name":"District Dog",
     "wof:parent_id":85823059,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "groomers"
     ]
 },
-  "bbox": [-73.944201,40.723076,-73.944201,40.723076],
-  "geometry": {"coordinates":[-73.944201,40.723076],"type":"Point"}
+  "bbox": [
+    -73.944201,
+    40.723076,
+    -73.944201,
+    40.723076
+],
+  "geometry": {"coordinates":[-73.94420100000001,40.723076],"type":"Point"}
 }

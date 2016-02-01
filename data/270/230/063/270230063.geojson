@@ -2,13 +2,14 @@
   "id": 270230063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.901429,40.813083,-73.901429,40.813083",
     "geom:latitude":40.813083,
     "geom:longitude":-73.901429,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"999 Ave Saint John",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869443,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869443
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"6406306aa25a141c1375e1ea32af2dc4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869443,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":270230063,
-    "wof:lastmodified":1449010458,
+    "wof:lastmodified":1454124638,
     "wof:name":"Mandingo African Novelties",
     "wof:parent_id":85869443,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.901429,40.813083,-73.901429,40.813083],
-  "geometry": {"coordinates":[-73.901429,40.813083],"type":"Point"}
+  "bbox": [
+    -73.901429,
+    40.813083,
+    -73.901429,
+    40.813083
+],
+  "geometry": {"coordinates":[-73.90142899999999,40.813083],"type":"Point"}
 }

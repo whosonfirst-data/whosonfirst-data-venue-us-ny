@@ -2,13 +2,14 @@
   "id": 303753657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.10505,40.779205,-73.10505,40.779205",
     "geom:latitude":40.779205,
     "geom:longitude":-73.10505,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Wilbur Pl",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"706aaa3e8b1de752a49b2dc37090276e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":303753657
         }
     ],
     "wof:id":303753657,
-    "wof:lastmodified":1448998406,
+    "wof:lastmodified":1454123087,
     "wof:name":"Elan Upholstery Inc",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.10505,40.779205,-73.10505,40.779205],
-  "geometry": {"coordinates":[-73.10505,40.779205],"type":"Point"}
+  "bbox": [
+    -73.10505,
+    40.779205,
+    -73.10505,
+    40.779205
+],
+  "geometry": {"coordinates":[-73.10505000000001,40.779205],"type":"Point"}
 }

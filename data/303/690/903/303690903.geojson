@@ -2,13 +2,14 @@
   "id": 303690903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.646579,40.835125,-72.646579,40.835125",
     "geom:latitude":40.835125,
     "geom:longitude":-72.646579,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"411 Riverhead Rd",
     "sg:city":"Westhampton Bch",
     "sg:classifiers":[
@@ -28,7 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102526981,
         85688543,
+        102191575,
+        404522671,
         85633793,
         85979877,
         102082395
@@ -41,19 +45,20 @@
     "wof:geomhash":"114464e35139322e00beee2bcf3e6ad3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102526981,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522671,
             "locality_id":85979877,
-            "neighbourhood_id":-1,
             "region_id":85688543,
             "venue_id":303690903
         }
     ],
     "wof:id":303690903,
-    "wof:lastmodified":1448999415,
+    "wof:lastmodified":1454123408,
     "wof:name":"All American Auto Care Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":102526981,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "automobile"
     ]
 },
-  "bbox": [-72.646579,40.835125,-72.646579,40.835125],
+  "bbox": [
+    -72.646579,
+    40.835125,
+    -72.646579,
+    40.835125
+],
   "geometry": {"coordinates":[-72.646579,40.835125],"type":"Point"}
 }

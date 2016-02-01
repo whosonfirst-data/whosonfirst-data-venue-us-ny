@@ -2,13 +2,14 @@
   "id": 387038013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.281479,42.09726,-79.281479,42.09726",
     "geom:latitude":42.09726,
     "geom:longitude":-79.281479,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"414 Fairmount Ave",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -39,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817873,
+        102191575,
+        404521959,
         85633793,
+        85980155,
         102081811,
-        85817873
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +56,18 @@
     "wof:geomhash":"b928ce73f6fc7339ead6d7b489d2a5f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081811,
-            "locality_id":-1,
+            "localadmin_id":404521959,
+            "locality_id":85980155,
             "neighbourhood_id":85817873,
             "region_id":85688543,
             "venue_id":387038013
         }
     ],
     "wof:id":387038013,
-    "wof:lastmodified":1449058547,
+    "wof:lastmodified":1454129968,
     "wof:name":"Farmland Stores",
     "wof:parent_id":85817873,
     "wof:placetype":"venue",
@@ -74,6 +79,11 @@
         "grocers-specialty"
     ]
 },
-  "bbox": [-79.281479,42.09726,-79.281479,42.09726],
+  "bbox": [
+    -79.281479,
+    42.09726,
+    -79.281479,
+    42.09726
+],
   "geometry": {"coordinates":[-79.281479,42.09726],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354346007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.473188,40.666693,-73.473188,40.666693",
     "geom:latitude":40.666693,
     "geom:longitude":-73.473188,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4350 Merrick Rd",
     "sg:city":"Massapequa",
     "sg:classifiers":[
@@ -45,11 +46,13 @@
     "sg:website":"http://www.7-eleven.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85806127,
+        102191575,
+        404521475,
         85633793,
         85979069,
         102082371,
-        85806127
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,9 +62,10 @@
     "wof:geomhash":"140361adb6a4e42f91a07209436268a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979069,
             "neighbourhood_id":85806127,
             "region_id":85688543,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":354346007,
-    "wof:lastmodified":1449065922,
+    "wof:lastmodified":1454130767,
     "wof:name":"7-Eleven",
     "wof:parent_id":85806127,
     "wof:placetype":"venue",
@@ -81,6 +85,11 @@
         "order"
     ]
 },
-  "bbox": [-73.473188,40.666693,-73.473188,40.666693],
-  "geometry": {"coordinates":[-73.473188,40.666693],"type":"Point"}
+  "bbox": [
+    -73.473188,
+    40.666693,
+    -73.473188,
+    40.666693
+],
+  "geometry": {"coordinates":[-73.47318799999999,40.666693],"type":"Point"}
 }

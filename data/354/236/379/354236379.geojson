@@ -2,13 +2,14 @@
   "id": 354236379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.01094,40.707303,-74.01094,40.707303",
     "geom:latitude":40.707303,
     "geom:longitude":-74.01094,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16A Wall Street, Suite #A",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"www.schwab.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865711,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865711
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"a0c26fc8cda8cfc094b207a2a25a16ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865711,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":354236379,
-    "wof:lastmodified":1449066119,
+    "wof:lastmodified":1454130828,
     "wof:name":"Charles Schwab",
     "wof:parent_id":85865711,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "investing"
     ]
 },
-  "bbox": [-74.01094,40.707303,-74.01094,40.707303],
-  "geometry": {"coordinates":[-74.01094,40.707303],"type":"Point"}
+  "bbox": [
+    -74.01094,
+    40.707303,
+    -74.01094,
+    40.707303
+],
+  "geometry": {"coordinates":[-74.01094000000001,40.707303],"type":"Point"}
 }

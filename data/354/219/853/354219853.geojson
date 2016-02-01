@@ -2,13 +2,14 @@
   "id": 354219853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.056243,40.815971,-73.056243,40.815971",
     "geom:latitude":40.815971,
     "geom:longitude":-73.056243,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"45 Middle Ave",
     "sg:city":"Holtsville",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.charliebrowns.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"84cda16dcbfef357e9a2764a64d928c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":354219853
         }
     ],
     "wof:id":354219853,
-    "wof:lastmodified":1449067609,
+    "wof:lastmodified":1454131290,
     "wof:name":"Charlie Brown's Steakhouse",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "steakhouse"
     ]
 },
-  "bbox": [-73.056243,40.815971,-73.056243,40.815971],
-  "geometry": {"coordinates":[-73.056243,40.815971],"type":"Point"}
+  "bbox": [
+    -73.056243,
+    40.815971,
+    -73.056243,
+    40.815971
+],
+  "geometry": {"coordinates":[-73.05624299999999,40.815971],"type":"Point"}
 }

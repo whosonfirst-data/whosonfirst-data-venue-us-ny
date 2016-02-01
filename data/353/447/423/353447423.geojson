@@ -2,13 +2,14 @@
   "id": 353447423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.894064,40.738317,-73.894064,40.738317",
     "geom:latitude":40.738317,
     "geom:longitude":-73.894064,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7031 48th Ave",
     "sg:city":"Woodside",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832845,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85832845
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"2b45e1838bbd6608ebe1ec432fee3692",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85832845,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":353447423,
-    "wof:lastmodified":1449020046,
+    "wof:lastmodified":1454126467,
     "wof:name":"St Mary's Help Of Christian",
     "wof:parent_id":85832845,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "churches-various"
     ]
 },
-  "bbox": [-73.894064,40.738317,-73.894064,40.738317],
+  "bbox": [
+    -73.894064,
+    40.738317,
+    -73.894064,
+    40.738317
+],
   "geometry": {"coordinates":[-73.894064,40.738317],"type":"Point"}
 }

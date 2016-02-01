@@ -2,13 +2,14 @@
   "id": 387013955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.610393,43.130817,-77.610393,43.130817",
     "geom:latitude":43.130817,
     "geom:longitude":-77.610393,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1261 South Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880409,
+        102191575,
+        404521467,
         85633793,
-        85979039,
+        85977591,
         102081815,
-        85880409
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"02a29558333aa24dcbc7b2c078e9ddea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85979039,
+            "localadmin_id":404521467,
+            "locality_id":85977591,
             "neighbourhood_id":85880409,
             "region_id":85688543,
             "venue_id":387013955
         }
     ],
     "wof:id":387013955,
-    "wof:lastmodified":1449058682,
+    "wof:lastmodified":1454129992,
     "wof:name":"Fire Dept",
     "wof:parent_id":85880409,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "protection"
     ]
 },
-  "bbox": [-77.610393,43.130817,-77.610393,43.130817],
+  "bbox": [
+    -77.610393,
+    43.130817,
+    -77.610393,
+    43.130817
+],
   "geometry": {"coordinates":[-77.610393,43.130817],"type":"Point"}
 }

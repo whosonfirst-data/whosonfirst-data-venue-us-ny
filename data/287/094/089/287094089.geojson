@@ -2,13 +2,14 @@
   "id": 287094089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.68325,40.660423,-73.68325,40.660423",
     "geom:latitude":40.660423,
     "geom:longitude":-73.68325,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"593 Merrick Rd",
     "sg:city":"Lynbrook",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893053,
+        102191575,
+        404521473,
         85633793,
-        85977623,
-        102082371
+        85977737,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"d44e32441d840bd369d29f6e1a6562ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977623,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85977737,
+            "neighbourhood_id":85893053,
             "region_id":85688543,
             "venue_id":287094089
         }
     ],
     "wof:id":287094089,
-    "wof:lastmodified":1449001227,
+    "wof:lastmodified":1454123885,
     "wof:name":"Bender Glass Triumph Auto GL",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "replacement"
     ]
 },
-  "bbox": [-73.68325,40.660423,-73.68325,40.660423],
+  "bbox": [
+    -73.68325,
+    40.660423,
+    -73.68325,
+    40.660423
+],
   "geometry": {"coordinates":[-73.68325,40.660423],"type":"Point"}
 }

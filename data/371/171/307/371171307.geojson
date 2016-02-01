@@ -2,13 +2,14 @@
   "id": 371171307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.218161,40.807236,-73.218161,40.807236",
     "geom:latitude":40.807236,
     "geom:longitude":-73.218161,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Central Ave",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.nymetropeterbilt.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816037,
+        102191575,
+        404522517,
         85633793,
         85979813,
         102082395,
-        85816037
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"dcfcfe146f123586088cbfff1bc67815",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979813,
             "neighbourhood_id":85816037,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":371171307,
-    "wof:lastmodified":1449050148,
+    "wof:lastmodified":1454129297,
     "wof:name":"New York Metro Peterbilt",
     "wof:parent_id":85816037,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "truck"
     ]
 },
-  "bbox": [-73.218161,40.807236,-73.218161,40.807236],
-  "geometry": {"coordinates":[-73.218161,40.807236],"type":"Point"}
+  "bbox": [
+    -73.218161,
+    40.807236,
+    -73.218161,
+    40.807236
+],
+  "geometry": {"coordinates":[-73.21816099999999,40.807236],"type":"Point"}
 }

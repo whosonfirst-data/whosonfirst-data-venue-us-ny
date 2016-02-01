@@ -2,13 +2,14 @@
   "id": 370285637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.463689,40.798158,-73.463689,40.798158",
     "geom:latitude":40.798158,
     "geom:longitude":-73.463689,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"132 Dupont St",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -37,10 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
-        85979191,
-        102082371
+        85979055,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +54,20 @@
     "wof:geomhash":"3d37e7f22d5dab78349b1a6377f7c29b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979191,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85979055,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":370285637
         }
     ],
     "wof:id":370285637,
-    "wof:lastmodified":1449029158,
+    "wof:lastmodified":1454127338,
     "wof:name":"Fancy Fixtures Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -75,6 +80,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-73.463689,40.798158,-73.463689,40.798158],
+  "bbox": [
+    -73.463689,
+    40.798158,
+    -73.463689,
+    40.798158
+],
   "geometry": {"coordinates":[-73.463689,40.798158],"type":"Point"}
 }

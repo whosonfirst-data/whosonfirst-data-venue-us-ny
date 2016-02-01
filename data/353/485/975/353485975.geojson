@@ -2,13 +2,14 @@
   "id": 353485975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.107745,41.444486,-74.107745,41.444486",
     "geom:latitude":41.444486,
     "geom:longitude":-74.107745,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"119 Chestnut Ave",
     "sg:city":"New Windsor",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85833407,
+        102191575,
+        404522801,
         85633793,
+        85979503,
         102083061,
-        85833407
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"61ceb4c9441752eb13ede3ed8da2b8dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":-1,
+            "localadmin_id":404522801,
+            "locality_id":85979503,
             "neighbourhood_id":85833407,
             "region_id":85688543,
             "venue_id":353485975
         }
     ],
     "wof:id":353485975,
-    "wof:lastmodified":1449019833,
+    "wof:lastmodified":1454126408,
     "wof:name":"Medallion",
     "wof:parent_id":85833407,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-74.107745,41.444486,-74.107745,41.444486],
-  "geometry": {"coordinates":[-74.107745,41.444486],"type":"Point"}
+  "bbox": [
+    -74.107745,
+    41.444486,
+    -74.107745,
+    41.444486
+],
+  "geometry": {"coordinates":[-74.10774499999999,41.444486],"type":"Point"}
 }

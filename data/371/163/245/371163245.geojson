@@ -2,13 +2,14 @@
   "id": 371163245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.814394,43.005942,-78.814394,43.005942",
     "geom:latitude":43.005942,
     "geom:longitude":-78.814394,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4280 Chestnut Ridge Rd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a10338923%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837253,
+        102191575,
+        404522321,
         85633793,
+        85979411,
         102082387,
-        85837253
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"daea0226d1d059019b4d5edbf4bd0d4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979411,
             "neighbourhood_id":85837253,
             "region_id":85688543,
             "venue_id":371163245
         }
     ],
     "wof:id":371163245,
-    "wof:lastmodified":1449050117,
+    "wof:lastmodified":1454129291,
     "wof:name":"Chestnut Ridge",
     "wof:parent_id":85837253,
     "wof:placetype":"venue",
@@ -61,6 +66,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.814394,43.005942,-78.814394,43.005942],
-  "geometry": {"coordinates":[-78.814394,43.005942],"type":"Point"}
+  "bbox": [
+    -78.814394,
+    43.005942,
+    -78.814394,
+    43.005942
+],
+  "geometry": {"coordinates":[-78.81439399999999,43.005942],"type":"Point"}
 }

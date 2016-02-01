@@ -2,13 +2,14 @@
   "id": 403703231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.125613,40.924008,-73.125613,40.924008",
     "geom:latitude":40.924008,
     "geom:longitude":-73.125613,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"999 Rte 25A",
     "sg:city":"Stony Brook",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824457,
+        102191575,
+        404521441,
         85633793,
-        85978487,
+        85979927,
         102082395,
-        85824457
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,18 @@
     "wof:geomhash":"359290394ae4d000f7c4cf092c785fd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978487,
+            "localadmin_id":404521441,
+            "locality_id":85979927,
             "neighbourhood_id":85824457,
             "region_id":85688543,
             "venue_id":403703231
         }
     ],
     "wof:id":403703231,
-    "wof:lastmodified":1449055047,
+    "wof:lastmodified":1454129382,
     "wof:name":"University Service Station",
     "wof:parent_id":85824457,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "general"
     ]
 },
-  "bbox": [-73.125613,40.924008,-73.125613,40.924008],
+  "bbox": [
+    -73.125613,
+    40.924008,
+    -73.125613,
+    40.924008
+],
   "geometry": {"coordinates":[-73.125613,40.924008],"type":"Point"}
 }

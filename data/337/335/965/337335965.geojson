@@ -2,13 +2,14 @@
   "id": 337335965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.869099,40.651423,-73.869099,40.651423",
     "geom:latitude":40.651423,
     "geom:longitude":-73.869099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"505 Gateway Dr",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     "sg:website":"www.olivegarden.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869421,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869421
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"4fb035b9987c8c76d1890b5b77a6d6e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869421,
             "region_id":85688543,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":337335965,
-    "wof:lastmodified":1449027491,
+    "wof:lastmodified":1454127084,
     "wof:name":"Olive Garden",
     "wof:parent_id":85869421,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "italian"
     ]
 },
-  "bbox": [-73.869099,40.651423,-73.869099,40.651423],
-  "geometry": {"coordinates":[-73.869099,40.651423],"type":"Point"}
+  "bbox": [
+    -73.869099,
+    40.651423,
+    -73.869099,
+    40.651423
+],
+  "geometry": {"coordinates":[-73.86909900000001,40.651423],"type":"Point"}
 }

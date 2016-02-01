@@ -2,13 +2,14 @@
   "id": 303425805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.973345,41.140806,-73.973345,41.140806",
     "geom:latitude":41.140806,
     "geom:longitude":-73.973345,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 Pippin Pl",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"4e35cb843571ba0a24f37bfca9118b2d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":303425805
         }
     ],
     "wof:id":303425805,
-    "wof:lastmodified":1448998981,
+    "wof:lastmodified":1454123288,
     "wof:name":"United Enterprises",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "hospital"
     ]
 },
-  "bbox": [-73.973345,41.140806,-73.973345,41.140806],
-  "geometry": {"coordinates":[-73.973345,41.140806],"type":"Point"}
+  "bbox": [
+    -73.973345,
+    41.140806,
+    -73.973345,
+    41.140806
+],
+  "geometry": {"coordinates":[-73.97334499999999,41.140806],"type":"Point"}
 }

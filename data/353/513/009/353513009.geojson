@@ -2,13 +2,14 @@
   "id": 353513009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.817155,40.814813,-73.817155,40.814813",
     "geom:latitude":40.814813,
     "geom:longitude":-73.817155,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"150 Calhoun Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852219,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85852219
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"a2debf44a7e52ff5091d0b06af69973c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85852219,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353513009,
-    "wof:lastmodified":1449019935,
+    "wof:lastmodified":1454126436,
     "wof:name":"PSI Plumbing Inc",
     "wof:parent_id":85852219,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.817155,40.814813,-73.817155,40.814813],
+  "bbox": [
+    -73.817155,
+    40.814813,
+    -73.817155,
+    40.814813
+],
   "geometry": {"coordinates":[-73.817155,40.814813],"type":"Point"}
 }

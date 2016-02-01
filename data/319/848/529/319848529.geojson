@@ -2,13 +2,14 @@
   "id": 319848529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.543242,40.757915,-73.543242,40.757915",
     "geom:latitude":40.757915,
     "geom:longitude":-73.543242,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"506 W Old Country Rd",
     "sg:city":"Hicksville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85856711,
+        102191575,
+        404521475,
         85633793,
-        85979063,
+        85979093,
         102082371,
-        85856711
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"8d2b2e7a25de01cab6fdfea04cc1e964",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979063,
+            "localadmin_id":404521475,
+            "locality_id":85979093,
             "neighbourhood_id":85856711,
             "region_id":85688543,
             "venue_id":319848529
         }
     ],
     "wof:id":319848529,
-    "wof:lastmodified":1449024202,
+    "wof:lastmodified":1454126734,
     "wof:name":"Lemon Auto Sales",
     "wof:parent_id":85856711,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "used"
     ]
 },
-  "bbox": [-73.543242,40.757915,-73.543242,40.757915],
-  "geometry": {"coordinates":[-73.543242,40.757915],"type":"Point"}
+  "bbox": [
+    -73.543242,
+    40.757915,
+    -73.543242,
+    40.757915
+],
+  "geometry": {"coordinates":[-73.54324200000001,40.757915],"type":"Point"}
 }

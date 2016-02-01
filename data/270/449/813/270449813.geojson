@@ -2,13 +2,14 @@
   "id": 270449813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.987922,40.735258,-73.987922,40.735258",
     "geom:latitude":40.735258,
     "geom:longitude":-73.987922,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 Irving Pl",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"www.irvingplaza.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892937,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85892937
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"39b1978d74f312b1247b3ca38d5ce90e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892937,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":270449813,
-    "wof:lastmodified":1449010923,
+    "wof:lastmodified":1454124708,
     "wof:name":"Irving Plaza Box Office",
     "wof:parent_id":85892937,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-73.987922,40.735258,-73.987922,40.735258],
+  "bbox": [
+    -73.987922,
+    40.735258,
+    -73.987922,
+    40.735258
+],
   "geometry": {"coordinates":[-73.987922,40.735258],"type":"Point"}
 }

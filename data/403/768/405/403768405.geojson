@@ -2,13 +2,14 @@
   "id": 403768405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.270118,40.764266,-73.270118,40.764266",
     "geom:latitude":40.764266,
     "geom:longitude":-73.270118,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14 Spence St",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841665,
+        102191575,
+        404522517,
         85633793,
-        85979883,
-        102082395
+        85979867,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"4d429fc7a75cc3289b2d09f98ce882ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979883,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979867,
+            "neighbourhood_id":85841665,
             "region_id":85688543,
             "venue_id":403768405
         }
     ],
     "wof:id":403768405,
-    "wof:lastmodified":1449055145,
+    "wof:lastmodified":1454129395,
     "wof:name":"National Freight Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85841665,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-73.270118,40.764266,-73.270118,40.764266],
+  "bbox": [
+    -73.270118,
+    40.764266,
+    -73.270118,
+    40.764266
+],
   "geometry": {"coordinates":[-73.270118,40.764266],"type":"Point"}
 }

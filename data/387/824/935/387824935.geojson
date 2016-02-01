@@ -2,13 +2,14 @@
   "id": 387824935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.973545,40.782759,-73.973545,40.782759",
     "geom:latitude":40.782759,
     "geom:longitude":-73.973545,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"45 W 81 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853285,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85853285
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"9271b46c42e1db75074380803249c92f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853285,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387824935,
-    "wof:lastmodified":1449057456,
+    "wof:lastmodified":1454129769,
     "wof:name":"AAA 24 Hour Number 1 Lcksmth",
     "wof:parent_id":85853285,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-73.973545,40.782759,-73.973545,40.782759],
+  "bbox": [
+    -73.973545,
+    40.782759,
+    -73.973545,
+    40.782759
+],
   "geometry": {"coordinates":[-73.973545,40.782759],"type":"Point"}
 }

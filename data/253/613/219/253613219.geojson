@@ -2,13 +2,14 @@
   "id": 253613219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.979491,40.744769,-73.979491,40.744769",
     "geom:latitude":40.744769,
     "geom:longitude":-73.979491,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"161 E 32 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868041,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85868041
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"b08588eb43f8d48a6a4072f6bff0072c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85868041,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":253613219,
-    "wof:lastmodified":1449064203,
+    "wof:lastmodified":1454130477,
     "wof:name":"Precision Telephonics",
     "wof:parent_id":85868041,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-73.979491,40.744769,-73.979491,40.744769],
+  "bbox": [
+    -73.979491,
+    40.744769,
+    -73.979491,
+    40.744769
+],
   "geometry": {"coordinates":[-73.979491,40.744769],"type":"Point"}
 }

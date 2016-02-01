@@ -2,13 +2,14 @@
   "id": 319858549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.109226,40.784474,-73.109226,40.784474",
     "geom:latitude":40.784474,
     "geom:longitude":-73.109226,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3900 Veterans Memorial Hwy",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -27,11 +28,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102528955,
+        85829285,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979793,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,21 @@
     "wof:geomhash":"5d06e6b80b14c39aa66e3aacbe854e6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102528955,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
-            "neighbourhood_id":85892861,
+            "localadmin_id":404522517,
+            "locality_id":85979793,
+            "neighbourhood_id":85829285,
             "region_id":85688543,
             "venue_id":319858549
         }
     ],
     "wof:id":319858549,
-    "wof:lastmodified":1449024189,
+    "wof:lastmodified":1454126731,
     "wof:name":"Jet Cesspool",
-    "wof:parent_id":85892861,
+    "wof:parent_id":102528955,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +67,11 @@
         "septic"
     ]
 },
-  "bbox": [-73.109226,40.784474,-73.109226,40.784474],
-  "geometry": {"coordinates":[-73.109226,40.784474],"type":"Point"}
+  "bbox": [
+    -73.109226,
+    40.784474,
+    -73.109226,
+    40.784474
+],
+  "geometry": {"coordinates":[-73.10922600000001,40.784474],"type":"Point"}
 }

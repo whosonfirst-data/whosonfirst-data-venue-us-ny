@@ -2,13 +2,14 @@
   "id": 320098129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.005907,40.725295,-74.005907,40.725295",
     "geom:latitude":40.725295,
     "geom:longitude":-74.005907,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"131 Varick St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865687,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865687
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"04de1dc9024f8cb4315ee63043b1035a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865687,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":320098129,
-    "wof:lastmodified":1449014570,
+    "wof:lastmodified":1454125297,
     "wof:name":"Hiponica",
     "wof:parent_id":85865687,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "handbag"
     ]
 },
-  "bbox": [-74.005907,40.725295,-74.005907,40.725295],
-  "geometry": {"coordinates":[-74.005907,40.725295],"type":"Point"}
+  "bbox": [
+    -74.005907,
+    40.725295,
+    -74.005907,
+    40.725295
+],
+  "geometry": {"coordinates":[-74.00590699999999,40.725295],"type":"Point"}
 }

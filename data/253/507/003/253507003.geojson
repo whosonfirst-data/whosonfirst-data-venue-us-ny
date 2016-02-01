@@ -2,13 +2,14 @@
   "id": 253507003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.197928,40.959004,-72.197928,40.959004",
     "geom:latitude":40.959004,
     "geom:longitude":-72.197928,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"79 Buell Ln",
     "sg:city":"East Hampton",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85827441,
+        102191575,
+        404521445,
         85633793,
-        85978405,
+        85979829,
         102082395,
-        85827441
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"15bc7a62c87967086b0dfb290b6d5bf2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978405,
+            "localadmin_id":404521445,
+            "locality_id":85979829,
             "neighbourhood_id":85827441,
             "region_id":85688543,
             "venue_id":253507003
         }
     ],
     "wof:id":253507003,
-    "wof:lastmodified":1449064345,
+    "wof:lastmodified":1454130501,
     "wof:name":"Most Holy Trinity Church",
     "wof:parent_id":85827441,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-72.197928,40.959004,-72.197928,40.959004],
+  "bbox": [
+    -72.197928,
+    40.959004,
+    -72.197928,
+    40.959004
+],
   "geometry": {"coordinates":[-72.197928,40.959004],"type":"Point"}
 }

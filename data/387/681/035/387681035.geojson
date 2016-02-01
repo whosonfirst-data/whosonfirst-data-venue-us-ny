@@ -2,13 +2,14 @@
   "id": 387681035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.913016,40.872042,-73.913016,40.872042",
     "geom:latitude":40.872042,
     "geom:longitude":-73.913016,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5141 Broadway",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826989,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85826989
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"8feea68db99498fb11f45fa75d10949b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85826989,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387681035,
-    "wof:lastmodified":1449058431,
+    "wof:lastmodified":1454129944,
     "wof:name":"Framm Stuart MD",
     "wof:parent_id":85826989,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-73.913016,40.872042,-73.913016,40.872042],
+  "bbox": [
+    -73.913016,
+    40.872042,
+    -73.913016,
+    40.872042
+],
   "geometry": {"coordinates":[-73.913016,40.872042],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387616699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.658336,41.007009,-73.658336,41.007009",
     "geom:latitude":41.007009,
     "geom:longitude":-73.658336,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"342 N Main St",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530431,
+        102191575,
+        404523389,
         85633793,
         85978705,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"3102f4ecc71b56f05a5d9d1a29a576cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523389,
             "locality_id":85978705,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530431,
             "region_id":85688543,
             "venue_id":387616699
         }
     ],
     "wof:id":387616699,
-    "wof:lastmodified":1449058901,
+    "wof:lastmodified":1454130027,
     "wof:name":"John M Crane PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530431,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "attorney"
     ]
 },
-  "bbox": [-73.658336,41.007009,-73.658336,41.007009],
-  "geometry": {"coordinates":[-73.658336,41.007009],"type":"Point"}
+  "bbox": [
+    -73.658336,
+    41.007009,
+    -73.658336,
+    41.007009
+],
+  "geometry": {"coordinates":[-73.65833600000001,41.007009],"type":"Point"}
 }

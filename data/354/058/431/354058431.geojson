@@ -2,13 +2,14 @@
   "id": 354058431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.319976,40.695311,-73.319976,40.695311",
     "geom:latitude":40.695311,
     "geom:longitude":-73.319976,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"64 Prospect St",
     "sg:city":"Babylon",
     "sg:classifiers":[
@@ -58,11 +59,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892741,
+        102191575,
+        404522513,
         85633793,
         85978423,
         102082395,
-        85892741
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,9 +75,10 @@
     "wof:geomhash":"84a0d09e6fae522f8ed4db4106d9fe69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522513,
             "locality_id":85978423,
             "neighbourhood_id":85892741,
             "region_id":85688543,
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":354058431,
-    "wof:lastmodified":1449066181,
+    "wof:lastmodified":1454130846,
     "wof:name":"Heating & Hot Water Systems",
     "wof:parent_id":85892741,
     "wof:placetype":"venue",
@@ -103,6 +107,11 @@
         "air conditioning"
     ]
 },
-  "bbox": [-73.319976,40.695311,-73.319976,40.695311],
+  "bbox": [
+    -73.319976,
+    40.695311,
+    -73.319976,
+    40.695311
+],
   "geometry": {"coordinates":[-73.319976,40.695311],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387035951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.391099,40.787608,-73.391099,40.787608",
     "geom:latitude":40.787608,
     "geom:longitude":-73.391099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Homewood Ln",
     "sg:city":"Huntington Station",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892875,
+        102191575,
+        404522515,
         85633793,
-        85979725,
-        102082395
+        85979779,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"25ce738c26d0d67b234190620aa73277",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979725,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522515,
+            "locality_id":85979779,
+            "neighbourhood_id":85892875,
             "region_id":85688543,
             "venue_id":387035951
         }
     ],
     "wof:id":387035951,
-    "wof:lastmodified":1449059185,
+    "wof:lastmodified":1454130077,
     "wof:name":"Vojta Landscaping",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892875,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.391099,40.787608,-73.391099,40.787608],
+  "bbox": [
+    -73.391099,
+    40.787608,
+    -73.391099,
+    40.787608
+],
   "geometry": {"coordinates":[-73.391099,40.787608],"type":"Point"}
 }

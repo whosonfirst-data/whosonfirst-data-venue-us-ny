@@ -2,13 +2,14 @@
   "id": 286301577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.987146,41.147169,-73.987146,41.147169",
     "geom:latitude":41.147169,
     "geom:longitude":-73.987146,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"24 Congers Rd",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
         85979971,
-        102082385
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"8f9c598cc40e59b78bb60154e3b3812c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523091,
             "locality_id":85979971,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":286301577
         }
     ],
     "wof:id":286301577,
-    "wof:lastmodified":1449015924,
+    "wof:lastmodified":1454125529,
     "wof:name":"Rockland Auto Repair Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85825421,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "car"
     ]
 },
-  "bbox": [-73.987146,41.147169,-73.987146,41.147169],
+  "bbox": [
+    -73.987146,
+    41.147169,
+    -73.987146,
+    41.147169
+],
   "geometry": {"coordinates":[-73.987146,41.147169],"type":"Point"}
 }

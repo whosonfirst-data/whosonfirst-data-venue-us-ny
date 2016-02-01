@@ -2,13 +2,14 @@
   "id": 404005015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.665202,40.641337,-73.665202,40.641337",
     "geom:latitude":40.641337,
     "geom:longitude":-73.665202,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"115 E Rockaway Rd",
     "sg:city":"East Rockaway",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865343,
+        102191575,
+        404521473,
         85633793,
         85979143,
         102082371,
-        85865343
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"4f981a78a6d004f6388df401298d3a58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979143,
             "neighbourhood_id":85865343,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":404005015,
-    "wof:lastmodified":1449040237,
+    "wof:lastmodified":1454128958,
     "wof:name":"East Rockaway Yacht Club Inc",
     "wof:parent_id":85865343,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "club"
     ]
 },
-  "bbox": [-73.665202,40.641337,-73.665202,40.641337],
-  "geometry": {"coordinates":[-73.665202,40.641337],"type":"Point"}
+  "bbox": [
+    -73.665202,
+    40.641337,
+    -73.665202,
+    40.641337
+],
+  "geometry": {"coordinates":[-73.66520199999999,40.641337],"type":"Point"}
 }

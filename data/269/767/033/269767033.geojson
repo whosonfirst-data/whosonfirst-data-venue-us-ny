@@ -2,13 +2,14 @@
   "id": 269767033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.557065,40.675426,-73.557065,40.675426",
     "geom:latitude":40.675426,
     "geom:longitude":-73.557065,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1752 Merrick Ave N",
     "sg:city":"Merrick",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529153,
+        102191575,
+        404521473,
         85633793,
-        85979125,
-        102082371
+        85979047,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"a605e33ce4180186dd0a5b0b854dd696",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979125,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979047,
+            "neighbourhood_id":420529153,
             "region_id":85688543,
             "venue_id":269767033
         }
     ],
     "wof:id":269767033,
-    "wof:lastmodified":1449036853,
+    "wof:lastmodified":1454128567,
     "wof:name":"E Z Communication & Trading",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529153,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "cellular"
     ]
 },
-  "bbox": [-73.557065,40.675426,-73.557065,40.675426],
-  "geometry": {"coordinates":[-73.557065,40.675426],"type":"Point"}
+  "bbox": [
+    -73.557065,
+    40.675426,
+    -73.557065,
+    40.675426
+],
+  "geometry": {"coordinates":[-73.55706499999999,40.675426],"type":"Point"}
 }

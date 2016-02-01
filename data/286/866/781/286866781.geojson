@@ -2,13 +2,14 @@
   "id": 286866781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.558642,43.167721,-77.558642,43.167721",
     "geom:latitude":43.167721,
     "geom:longitude":-77.558642,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"535 Hazelwood Ter",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880405,
+        102191575,
+        404521467,
         85633793,
-        85979035,
+        85977591,
         102081815,
-        85880405
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"e9ae255ca14e228086bb11872f90d7cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85979035,
+            "localadmin_id":404521467,
+            "locality_id":85977591,
             "neighbourhood_id":85880405,
             "region_id":85688543,
             "venue_id":286866781
         }
     ],
     "wof:id":286866781,
-    "wof:lastmodified":1449016585,
+    "wof:lastmodified":1454125645,
     "wof:name":"Blinkhorn's Lawn Care",
     "wof:parent_id":85880405,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "grounds"
     ]
 },
-  "bbox": [-77.558642,43.167721,-77.558642,43.167721],
-  "geometry": {"coordinates":[-77.558642,43.167721],"type":"Point"}
+  "bbox": [
+    -77.558642,
+    43.167721,
+    -77.558642,
+    43.167721
+],
+  "geometry": {"coordinates":[-77.55864200000001,43.167721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404121049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.654542,40.643014,-73.654542,40.643014",
     "geom:latitude":40.643014,
     "geom:longitude":-73.654542,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2900 Rockaway Ave",
     "sg:city":"Oceanside",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865343,
+        102191575,
+        404521473,
         85633793,
         85979143,
         102082371,
-        85865343
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"3873bf822e5bd242463e0263e666ba22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979143,
             "neighbourhood_id":85865343,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":404121049,
-    "wof:lastmodified":1449040025,
+    "wof:lastmodified":1454128931,
     "wof:name":"Easel",
     "wof:parent_id":85865343,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.654542,40.643014,-73.654542,40.643014],
-  "geometry": {"coordinates":[-73.654542,40.643014],"type":"Point"}
+  "bbox": [
+    -73.654542,
+    40.643014,
+    -73.654542,
+    40.643014
+],
+  "geometry": {"coordinates":[-73.65454200000001,40.643014],"type":"Point"}
 }

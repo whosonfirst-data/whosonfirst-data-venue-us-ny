@@ -2,13 +2,14 @@
   "id": 303079051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.990008,41.694606,-73.990008,41.694606",
     "geom:latitude":41.694606,
     "geom:longitude":-73.990008,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"430 Vineyard Ave",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85838919,
+        102081775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"a273243ca11fedf48b89c24cef35299b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081775,
+            "neighbourhood_id":85838919,
             "region_id":85688543,
             "venue_id":303079051
         }
     ],
     "wof:id":303079051,
-    "wof:lastmodified":1449000153,
+    "wof:lastmodified":1454123610,
     "wof:name":"Fax-Link",
-    "wof:parent_id":-1,
+    "wof:parent_id":85838919,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "related"
     ]
 },
-  "bbox": [-73.990008,41.694606,-73.990008,41.694606],
+  "bbox": [
+    -73.990008,
+    41.694606,
+    -73.990008,
+    41.694606
+],
   "geometry": {"coordinates":[-73.990008,41.694606],"type":"Point"}
 }

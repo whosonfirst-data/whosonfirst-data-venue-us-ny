@@ -2,13 +2,14 @@
   "id": 354084713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.903311,40.909285,-73.903311,40.909285",
     "geom:latitude":40.909285,
     "geom:longitude":-73.903311,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6048 Riverdale Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892779,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85892779
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"d55ac5712220150a6c0fde002c270dd1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892779,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":354084713,
-    "wof:lastmodified":1449066123,
+    "wof:lastmodified":1454130829,
     "wof:name":"E F Maloney Inc",
     "wof:parent_id":85892779,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "public"
     ]
 },
-  "bbox": [-73.903311,40.909285,-73.903311,40.909285],
+  "bbox": [
+    -73.903311,
+    40.909285,
+    -73.903311,
+    40.909285
+],
   "geometry": {"coordinates":[-73.903311,40.909285],"type":"Point"}
 }

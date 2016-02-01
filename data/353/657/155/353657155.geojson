@@ -2,13 +2,14 @@
   "id": 353657155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.727699,40.673199,-73.727699,40.673199",
     "geom:latitude":40.673199,
     "geom:longitude":-73.727699,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Cross Island Plz",
     "sg:city":"Rosedale",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829963,
+        102191575,
+        404521473,
         85633793,
-        85977539,
-        102082377,
-        85829963
+        85977737,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"baee33ee9dae32681ba6fd2d3889c0e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404521473,
+            "locality_id":85977737,
             "neighbourhood_id":85829963,
             "region_id":85688543,
             "venue_id":353657155
         }
     ],
     "wof:id":353657155,
-    "wof:lastmodified":1449018539,
+    "wof:lastmodified":1454126031,
     "wof:name":"Liechtung Charles Atty",
     "wof:parent_id":85829963,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.727699,40.673199,-73.727699,40.673199],
+  "bbox": [
+    -73.727699,
+    40.673199,
+    -73.727699,
+    40.673199
+],
   "geometry": {"coordinates":[-73.727699,40.673199],"type":"Point"}
 }

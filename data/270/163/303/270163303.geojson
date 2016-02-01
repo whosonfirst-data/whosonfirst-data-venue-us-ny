@@ -2,13 +2,14 @@
   "id": 270163303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.877272,40.838673,-73.877272,40.838673",
     "geom:latitude":40.838673,
     "geom:longitude":-73.877272,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1129 E 177th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.josephsautocenter.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816865,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85816865
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"3a0c5b65a8e44281f66e57fa0119cb5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85816865,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":270163303,
-    "wof:lastmodified":1449011082,
+    "wof:lastmodified":1454124733,
     "wof:name":"Joseph's Auto Ctr",
     "wof:parent_id":85816865,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "painting"
     ]
 },
-  "bbox": [-73.877272,40.838673,-73.877272,40.838673],
+  "bbox": [
+    -73.877272,
+    40.838673,
+    -73.877272,
+    40.838673
+],
   "geometry": {"coordinates":[-73.877272,40.838673],"type":"Point"}
 }

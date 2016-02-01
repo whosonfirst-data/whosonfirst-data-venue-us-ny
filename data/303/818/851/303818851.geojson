@@ -2,13 +2,14 @@
   "id": 303818851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.889296,40.65248,-73.889296,40.65248",
     "geom:latitude":40.65248,
     "geom:longitude":-73.889296,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1002 Alabama Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869421,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869421
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"dfb3ed82aef881f1f9ccf81e8cf84bd0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869421,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303818851,
-    "wof:lastmodified":1448999307,
+    "wof:lastmodified":1454123381,
     "wof:name":"Airweld",
     "wof:parent_id":85869421,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "auto"
     ]
 },
-  "bbox": [-73.889296,40.65248,-73.889296,40.65248],
+  "bbox": [
+    -73.889296,
+    40.65248,
+    -73.889296,
+    40.65248
+],
   "geometry": {"coordinates":[-73.889296,40.65248],"type":"Point"}
 }

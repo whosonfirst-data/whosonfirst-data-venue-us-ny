@@ -2,13 +2,14 @@
   "id": 269883623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.803138,44.21642,-75.803138,44.21642",
     "geom:latitude":44.21642,
     "geom:longitude":-75.803138,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"207 Pine St",
     "sg:city":"Theresa",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528859,
+        102191575,
+        404521837,
         85633793,
         85978075,
-        102082357
+        102082357,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"3dd98631d0b4b4fb5906424011921df5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082357,
+            "localadmin_id":404521837,
             "locality_id":85978075,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528859,
             "region_id":85688543,
             "venue_id":269883623
         }
     ],
     "wof:id":269883623,
-    "wof:lastmodified":1449038247,
+    "wof:lastmodified":1454128736,
     "wof:name":"K & D Drywall",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528859,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-75.803138,44.21642,-75.803138,44.21642],
+  "bbox": [
+    -75.803138,
+    44.21642,
+    -75.803138,
+    44.21642
+],
   "geometry": {"coordinates":[-75.803138,44.21642],"type":"Point"}
 }

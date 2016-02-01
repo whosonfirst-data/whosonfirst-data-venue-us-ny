@@ -2,13 +2,14 @@
   "id": 353630855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.812481,40.691323,-73.812481,40.691323",
     "geom:latitude":40.691323,
     "geom:longitude":-73.812481,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13416 Liberty Ave",
     "sg:city":"South Richmond Hill",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844441,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844441
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"3ed42a0bbd84d94e113d2c5082795184",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844441,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":353630855,
-    "wof:lastmodified":1449019161,
+    "wof:lastmodified":1454126213,
     "wof:name":"Liberty King Produce",
     "wof:parent_id":85844441,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.812481,40.691323,-73.812481,40.691323],
-  "geometry": {"coordinates":[-73.812481,40.691323],"type":"Point"}
+  "bbox": [
+    -73.812481,
+    40.691323,
+    -73.812481,
+    40.691323
+],
+  "geometry": {"coordinates":[-73.81248100000001,40.691323],"type":"Point"}
 }

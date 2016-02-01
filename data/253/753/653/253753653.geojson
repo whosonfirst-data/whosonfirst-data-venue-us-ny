@@ -2,13 +2,14 @@
   "id": 253753653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.708271,43.089037,-73.708271,43.089037",
     "geom:latitude":43.089037,
     "geom:longitude":-73.708271,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"152 Old Schuylerville Rd",
     "sg:city":"Saratoga Springs",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529831,
+        102191575,
+        404522373,
         85633793,
         85977919,
-        102082413
+        102082413,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"3c610045d240a1eac7b9b3a164cc1b9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082413,
+            "localadmin_id":404522373,
             "locality_id":85977919,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529831,
             "region_id":85688543,
             "venue_id":253753653
         }
     ],
     "wof:id":253753653,
-    "wof:lastmodified":1449063171,
+    "wof:lastmodified":1454130301,
     "wof:name":"Caribbean Jack's Smoothies",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529831,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "beverage"
     ]
 },
-  "bbox": [-73.708271,43.089037,-73.708271,43.089037],
+  "bbox": [
+    -73.708271,
+    43.089037,
+    -73.708271,
+    43.089037
+],
   "geometry": {"coordinates":[-73.708271,43.089037],"type":"Point"}
 }

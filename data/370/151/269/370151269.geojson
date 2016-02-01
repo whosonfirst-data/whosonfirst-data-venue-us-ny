@@ -2,13 +2,14 @@
   "id": 370151269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.486781,40.704425,-73.486781,40.704425",
     "geom:latitude":40.704425,
     "geom:longitude":-73.486781,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"818 Flowerdale Rd",
     "sg:city":"Seaford",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893067,
+        102191575,
+        404521473,
         85633793,
         85979123,
         102082371,
-        85893067
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"99327f6dec719a2485c0e0ce0bdda4c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979123,
             "neighbourhood_id":85893067,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":370151269,
-    "wof:lastmodified":1449029101,
+    "wof:lastmodified":1454127319,
     "wof:name":"Mike's Custom Clubs",
     "wof:parent_id":85893067,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.486781,40.704425,-73.486781,40.704425],
-  "geometry": {"coordinates":[-73.486781,40.704425],"type":"Point"}
+  "bbox": [
+    -73.486781,
+    40.704425,
+    -73.486781,
+    40.704425
+],
+  "geometry": {"coordinates":[-73.48678099999999,40.704425],"type":"Point"}
 }

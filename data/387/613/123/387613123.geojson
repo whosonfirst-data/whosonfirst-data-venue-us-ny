@@ -2,13 +2,14 @@
   "id": 387613123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.965914,40.803817,-73.965914,40.803817",
     "geom:latitude":40.803817,
     "geom:longitude":-73.965914,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"543 W 110th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853285,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85853285
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"2f7e80a7a8d3ecfa1185c2b9a07d308a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853285,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387613123,
-    "wof:lastmodified":1449057875,
+    "wof:lastmodified":1454129841,
     "wof:name":"Harold Trigg Clinic",
     "wof:parent_id":85853285,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "clinic"
     ]
 },
-  "bbox": [-73.965914,40.803817,-73.965914,40.803817],
+  "bbox": [
+    -73.965914,
+    40.803817,
+    -73.965914,
+    40.803817
+],
   "geometry": {"coordinates":[-73.965914,40.803817],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370169203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.191956,40.833139,-73.191956,40.833139",
     "geom:latitude":40.833139,
     "geom:longitude":-73.191956,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"550 Smithtown Byp",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530053,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"99ba625a052ef158f6e90d242afd5b4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530053,
             "region_id":85688543,
             "venue_id":370169203
         }
     ],
     "wof:id":370169203,
-    "wof:lastmodified":1449031174,
+    "wof:lastmodified":1454127929,
     "wof:name":"Ultimate Tae Kwon Do",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -71,6 +76,11 @@
         "martial art"
     ]
 },
-  "bbox": [-73.191956,40.833139,-73.191956,40.833139],
+  "bbox": [
+    -73.191956,
+    40.833139,
+    -73.191956,
+    40.833139
+],
   "geometry": {"coordinates":[-73.191956,40.833139],"type":"Point"}
 }

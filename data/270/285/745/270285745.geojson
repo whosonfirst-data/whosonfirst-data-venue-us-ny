@@ -2,13 +2,14 @@
   "id": 270285745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.674234,40.685398,-73.674234,40.685398",
     "geom:latitude":40.685398,
     "geom:longitude":-73.674234,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"859 Willow Rd",
     "sg:city":"Franklin Square",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.npso.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829437,
+        102191575,
+        404521473,
         85633793,
-        85979129,
+        85979057,
         102082371,
-        85829437
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"deab0f6b2728e3f8b3f331995b6d529e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979129,
+            "localadmin_id":404521473,
+            "locality_id":85979057,
             "neighbourhood_id":85829437,
             "region_id":85688543,
             "venue_id":270285745
         }
     ],
     "wof:id":270285745,
-    "wof:lastmodified":1449008739,
+    "wof:lastmodified":1454124381,
     "wof:name":"Nassau Pops Symphony Orchestra",
     "wof:parent_id":85829437,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "orchestra"
     ]
 },
-  "bbox": [-73.674234,40.685398,-73.674234,40.685398],
+  "bbox": [
+    -73.674234,
+    40.685398,
+    -73.674234,
+    40.685398
+],
   "geometry": {"coordinates":[-73.674234,40.685398],"type":"Point"}
 }

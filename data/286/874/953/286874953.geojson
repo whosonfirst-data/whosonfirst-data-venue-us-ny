@@ -2,13 +2,14 @@
   "id": 286874953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.755849,42.987283,-73.755849,42.987283",
     "geom:latitude":42.987283,
     "geom:longitude":-73.755849,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"52 Shore Ave",
     "sg:city":"Saratoga Springs",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85849171,
+        102082413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,17 @@
     "wof:geomhash":"0bdcbf64837c004ee34b1dda81200206",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082413,
+            "neighbourhood_id":85849171,
             "region_id":85688543,
             "venue_id":286874953
         }
     ],
     "wof:id":286874953,
-    "wof:lastmodified":1449017904,
+    "wof:lastmodified":1454125881,
     "wof:name":"Collectables By Constance",
-    "wof:parent_id":-1,
+    "wof:parent_id":85849171,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +63,11 @@
         "plastic"
     ]
 },
-  "bbox": [-73.755849,42.987283,-73.755849,42.987283],
+  "bbox": [
+    -73.755849,
+    42.987283,
+    -73.755849,
+    42.987283
+],
   "geometry": {"coordinates":[-73.755849,42.987283],"type":"Point"}
 }

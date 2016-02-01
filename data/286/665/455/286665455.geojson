@@ -2,13 +2,14 @@
   "id": 286665455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.696756,43.272867,-78.696756,43.272867",
     "geom:latitude":43.272867,
     "geom:longitude":-78.696756,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2897 Transit Rd",
     "sg:city":"Newfane",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529205,
+        102191575,
+        404522741,
         85633793,
         85979549,
-        102081767
+        102081767,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"6848feb96c83813ab21308171d8bbf03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
+            "localadmin_id":404522741,
             "locality_id":85979549,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529205,
             "region_id":85688543,
             "venue_id":286665455
         }
     ],
     "wof:id":286665455,
-    "wof:lastmodified":1449016086,
+    "wof:lastmodified":1454125558,
     "wof:name":"Ridge Road Express",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529205,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "rental"
     ]
 },
-  "bbox": [-78.696756,43.272867,-78.696756,43.272867],
-  "geometry": {"coordinates":[-78.696756,43.272867],"type":"Point"}
+  "bbox": [
+    -78.696756,
+    43.272867,
+    -78.696756,
+    43.272867
+],
+  "geometry": {"coordinates":[-78.69675599999999,43.272867],"type":"Point"}
 }

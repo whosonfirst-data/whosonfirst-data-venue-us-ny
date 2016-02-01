@@ -2,13 +2,14 @@
   "id": 370633999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.182129,41.55135,-74.182129,41.55135",
     "geom:latitude":41.55135,
     "geom:longitude":-74.182129,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"150 Coldenham Rd",
     "sg:city":"Walden",
     "sg:classifiers":[
@@ -57,10 +58,13 @@
     "sg:website":"http://www.spenceengineering.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529529,
+        102191575,
+        404522909,
         85633793,
         85978183,
-        102083061
+        102083061,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,19 +74,20 @@
     "wof:geomhash":"b6879fb4b5ee1144170cbdacc860bf76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
+            "localadmin_id":404522909,
             "locality_id":85978183,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529529,
             "region_id":85688543,
             "venue_id":370633999
         }
     ],
     "wof:id":370633999,
-    "wof:lastmodified":1449032441,
+    "wof:lastmodified":1454128303,
     "wof:name":"Nicholson Steam Trap",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529529,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -99,6 +104,11 @@
         "steam"
     ]
 },
-  "bbox": [-74.182129,41.55135,-74.182129,41.55135],
+  "bbox": [
+    -74.182129,
+    41.55135,
+    -74.182129,
+    41.55135
+],
   "geometry": {"coordinates":[-74.182129,41.55135],"type":"Point"}
 }

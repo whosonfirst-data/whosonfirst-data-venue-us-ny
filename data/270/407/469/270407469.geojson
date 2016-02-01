@@ -2,13 +2,14 @@
   "id": 270407469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.812624,40.98082,-73.812624,40.98082",
     "geom:latitude":40.98082,
     "geom:longitude":-73.812624,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"281 Garth Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530443,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"d9cc407c189f0dd74c90bac710e3ebd8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530443,
             "region_id":85688543,
             "venue_id":270407469
         }
     ],
     "wof:id":270407469,
-    "wof:lastmodified":1449010006,
+    "wof:lastmodified":1454124567,
     "wof:name":"Allergy & Asthma Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530443,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.812624,40.98082,-73.812624,40.98082],
+  "bbox": [
+    -73.812624,
+    40.98082,
+    -73.812624,
+    40.98082
+],
   "geometry": {"coordinates":[-73.812624,40.98082],"type":"Point"}
 }

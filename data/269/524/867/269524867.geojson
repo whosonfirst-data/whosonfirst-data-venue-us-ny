@@ -2,13 +2,14 @@
   "id": 269524867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.743062,40.790732,-73.743062,40.790732",
     "geom:latitude":40.790732,
     "geom:longitude":-73.743062,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"88 Bayview Ave",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846573,
+        102191575,
+        404522729,
         85633793,
-        85979155,
+        85977677,
         102082371,
-        85977727
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,28 +45,20 @@
     "wof:geomhash":"11c916096ffb69f5f235669de6d3fcdb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979155,
-            "neighbourhood_id":-1,
-            "region_id":85688543,
-            "venue_id":269524867
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082371,
-            "locality_id":85977727,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522729,
+            "locality_id":85977677,
+            "neighbourhood_id":85846573,
             "region_id":85688543,
             "venue_id":269524867
         }
     ],
     "wof:id":269524867,
-    "wof:lastmodified":1449036122,
+    "wof:lastmodified":1454128458,
     "wof:name":"Jeannette Graf MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846573,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.743062,40.790732,-73.743062,40.790732],
-  "geometry": {"coordinates":[-73.743062,40.790732],"type":"Point"}
+  "bbox": [
+    -73.743062,
+    40.790732,
+    -73.743062,
+    40.790732
+],
+  "geometry": {"coordinates":[-73.74306199999999,40.790732],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370520349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.081652,42.031251,-74.081652,42.031251",
     "geom:latitude":42.031251,
     "geom:longitude":-74.081652,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"43 Mellert Rd",
     "sg:city":"Woodstock",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848631,
+        102191575,
+        404521657,
         85633793,
+        85978919,
         102081775,
-        85848631
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"000266195e83289a57ec3f7ec77131f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
-            "locality_id":-1,
+            "localadmin_id":404521657,
+            "locality_id":85978919,
             "neighbourhood_id":85848631,
             "region_id":85688543,
             "venue_id":370520349
         }
     ],
     "wof:id":370520349,
-    "wof:lastmodified":1449030211,
+    "wof:lastmodified":1454127645,
     "wof:name":"D R Mellert",
     "wof:parent_id":85848631,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.081652,42.031251,-74.081652,42.031251],
-  "geometry": {"coordinates":[-74.081652,42.031251],"type":"Point"}
+  "bbox": [
+    -74.081652,
+    42.031251,
+    -74.081652,
+    42.031251
+],
+  "geometry": {"coordinates":[-74.08165200000001,42.031251],"type":"Point"}
 }

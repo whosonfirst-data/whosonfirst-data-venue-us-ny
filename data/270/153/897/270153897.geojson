@@ -2,13 +2,14 @@
   "id": 270153897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.841135,41.063635,-73.841135,41.063635",
     "geom:latitude":41.063635,
     "geom:longitude":-73.841135,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"580 White Plains Rd",
     "sg:city":"Tarrytown",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85893045,
+        102082373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"73cfe1a4db1b99012c94361c70e68f95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082373,
+            "neighbourhood_id":85893045,
             "region_id":85688543,
             "venue_id":270153897
         }
     ],
     "wof:id":270153897,
-    "wof:lastmodified":1449010354,
+    "wof:lastmodified":1454124622,
     "wof:name":"Resnick & Newman",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893045,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "accountant"
     ]
 },
-  "bbox": [-73.841135,41.063635,-73.841135,41.063635],
-  "geometry": {"coordinates":[-73.841135,41.063635],"type":"Point"}
+  "bbox": [
+    -73.841135,
+    41.063635,
+    -73.841135,
+    41.063635
+],
+  "geometry": {"coordinates":[-73.84113499999999,41.063635],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353383653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.865925,40.84309,-73.865925,40.84309",
     "geom:latitude":40.84309,
     "geom:longitude":-73.865925,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1673 Unionport Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816865,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85816865
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"57d6fec9c33901ba85187061ebb89adc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85816865,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":353383653,
-    "wof:lastmodified":1449019325,
+    "wof:lastmodified":1454126257,
     "wof:name":"Cammarata Electric Co",
     "wof:parent_id":85816865,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.865925,40.84309,-73.865925,40.84309],
+  "bbox": [
+    -73.865925,
+    40.84309,
+    -73.865925,
+    40.84309
+],
   "geometry": {"coordinates":[-73.865925,40.84309],"type":"Point"}
 }

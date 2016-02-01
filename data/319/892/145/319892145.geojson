@@ -2,13 +2,14 @@
   "id": 319892145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.430085,40.82852,-73.430085,40.82852",
     "geom:latitude":40.82852,
     "geom:longitude":-73.430085,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"369 W Jericho Tpke",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820109,
+        102191575,
+        404522515,
         85633793,
-        85979675,
+        85979787,
         102082395,
-        85820109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"650d2c85b8e8a9988a4ddd6ffb6f587d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979675,
+            "localadmin_id":404522515,
+            "locality_id":85979787,
             "neighbourhood_id":85820109,
             "region_id":85688543,
             "venue_id":319892145
         }
     ],
     "wof:id":319892145,
-    "wof:lastmodified":1449024213,
+    "wof:lastmodified":1454126735,
     "wof:name":"Huntington Saddlery Inc",
     "wof:parent_id":85820109,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "equipment"
     ]
 },
-  "bbox": [-73.430085,40.82852,-73.430085,40.82852],
-  "geometry": {"coordinates":[-73.430085,40.82852],"type":"Point"}
+  "bbox": [
+    -73.430085,
+    40.82852,
+    -73.430085,
+    40.82852
+],
+  "geometry": {"coordinates":[-73.43008500000001,40.82852],"type":"Point"}
 }

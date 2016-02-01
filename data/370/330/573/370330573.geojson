@@ -2,13 +2,14 @@
   "id": 370330573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.784679,40.784641,-72.784679,40.784641",
     "geom:latitude":40.784641,
     "geom:longitude":-72.784679,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"192 Belleview Ave",
     "sg:city":"Center Moriches",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"077269a63249c06c3366a94b30be99d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":370330573
         }
     ],
     "wof:id":370330573,
-    "wof:lastmodified":1449030766,
+    "wof:lastmodified":1454127807,
     "wof:name":"Eastside Fascia Inc",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-72.784679,40.784641,-72.784679,40.784641],
+  "bbox": [
+    -72.784679,
+    40.784641,
+    -72.784679,
+    40.784641
+],
   "geometry": {"coordinates":[-72.784679,40.784641],"type":"Point"}
 }

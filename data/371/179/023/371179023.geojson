@@ -2,13 +2,14 @@
   "id": 371179023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.281928,42.888925,-77.281928,42.888925",
     "geom:latitude":42.888925,
     "geom:longitude":-77.281928,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Gorham St",
     "sg:city":"Canandaigua",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"http://www.hallandkarz.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85803665,
+        102191575,
+        404522859,
         85633793,
         85977863,
         102082359,
-        85803665
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"3aad677a9234da169d154280959c6344",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082359,
+            "localadmin_id":404522859,
             "locality_id":85977863,
             "neighbourhood_id":85803665,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":371179023,
-    "wof:lastmodified":1449050027,
+    "wof:lastmodified":1454129268,
     "wof:name":"Hall & Karz",
     "wof:parent_id":85803665,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "injury"
     ]
 },
-  "bbox": [-77.281928,42.888925,-77.281928,42.888925],
-  "geometry": {"coordinates":[-77.281928,42.888925],"type":"Point"}
+  "bbox": [
+    -77.281928,
+    42.888925,
+    -77.281928,
+    42.888925
+],
+  "geometry": {"coordinates":[-77.28192799999999,42.888925],"type":"Point"}
 }

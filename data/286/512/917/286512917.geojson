@@ -2,13 +2,14 @@
   "id": 286512917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.245369,40.723092,-73.245369,40.723092",
     "geom:latitude":40.723092,
     "geom:longitude":-73.245369,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 E Main St",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530027,
+        102191575,
+        404522517,
         85633793,
         85979719,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"8b191a99afba666d75e6cfc82cd79fec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530027,
             "region_id":85688543,
             "venue_id":286512917
         }
     ],
     "wof:id":286512917,
-    "wof:lastmodified":1449017323,
+    "wof:lastmodified":1454125775,
     "wof:name":"Bayshore Optical Company Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530027,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "ophthalmic"
     ]
 },
-  "bbox": [-73.245369,40.723092,-73.245369,40.723092],
+  "bbox": [
+    -73.245369,
+    40.723092,
+    -73.245369,
+    40.723092
+],
   "geometry": {"coordinates":[-73.245369,40.723092],"type":"Point"}
 }

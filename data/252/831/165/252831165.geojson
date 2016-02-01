@@ -2,13 +2,14 @@
   "id": 252831165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.676222,40.818177,-73.676222,40.818177",
     "geom:latitude":40.818177,
     "geom:longitude":-73.676222,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Lynn Rd",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529165,
+        102191575,
+        404522729,
         85633793,
         85979185,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"b42ea0d98a931cc8d5460c68a7979922",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979185,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529165,
             "region_id":85688543,
             "venue_id":252831165
         }
     ],
     "wof:id":252831165,
-    "wof:lastmodified":1449006063,
+    "wof:lastmodified":1454124070,
     "wof:name":"Robert Sloane",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529165,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [-73.676222,40.818177,-73.676222,40.818177],
+  "bbox": [
+    -73.676222,
+    40.818177,
+    -73.676222,
+    40.818177
+],
   "geometry": {"coordinates":[-73.676222,40.818177],"type":"Point"}
 }

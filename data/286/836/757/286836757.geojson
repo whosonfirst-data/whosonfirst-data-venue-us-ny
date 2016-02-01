@@ -2,13 +2,14 @@
   "id": 286836757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.663159,43.145668,-77.663159,43.145668",
     "geom:latitude":43.145668,
     "geom:longitude":-77.663159,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Cairn St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.rochesterautoauction.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85803599,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85803599
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"86e8d4cacd5d56245f0dfc29f809746e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85803599,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":286836757,
-    "wof:lastmodified":1449017130,
+    "wof:lastmodified":1454125741,
     "wof:name":"Central Auto Exchange",
     "wof:parent_id":85803599,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "automobile"
     ]
 },
-  "bbox": [-77.663159,43.145668,-77.663159,43.145668],
-  "geometry": {"coordinates":[-77.663159,43.145668],"type":"Point"}
+  "bbox": [
+    -77.663159,
+    43.145668,
+    -77.663159,
+    43.145668
+],
+  "geometry": {"coordinates":[-77.66315899999999,43.145668],"type":"Point"}
 }

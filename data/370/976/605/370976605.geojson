@@ -2,13 +2,14 @@
   "id": 370976605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.828282,42.747816,-78.828282,42.747816",
     "geom:latitude":42.747816,
     "geom:longitude":-78.828282,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5051 Clarice Dr",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -43,10 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847477,
+        102191575,
+        404522347,
         85633793,
+        85978013,
         102082387,
-        85847477
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,17 +60,18 @@
     "wof:geomhash":"a0d49bd2b60caa91365c90937884ed1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522347,
+            "locality_id":85978013,
             "neighbourhood_id":85847477,
             "region_id":85688543,
             "venue_id":370976605
         }
     ],
     "wof:id":370976605,
-    "wof:lastmodified":1449030486,
+    "wof:lastmodified":1454127726,
     "wof:name":"Ponticello Builders",
     "wof:parent_id":85847477,
     "wof:placetype":"venue",
@@ -87,6 +92,11 @@
         "replacement"
     ]
 },
-  "bbox": [-78.828282,42.747816,-78.828282,42.747816],
+  "bbox": [
+    -78.828282,
+    42.747816,
+    -78.828282,
+    42.747816
+],
   "geometry": {"coordinates":[-78.828282,42.747816],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387868879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.1921,43.247603,-78.1921,43.247603",
     "geom:latitude":43.247603,
     "geom:longitude":-78.1921,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"19 N Platt St",
     "sg:city":"Albion",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819435,
+        102191575,
+        404521525,
         85633793,
+        85978607,
         102082411,
-        85819435
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"e733af2fc134a4dffe307f85a5333f81",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082411,
-            "locality_id":-1,
+            "localadmin_id":404521525,
+            "locality_id":85978607,
             "neighbourhood_id":85819435,
             "region_id":85688543,
             "venue_id":387868879
         }
     ],
     "wof:id":387868879,
-    "wof:lastmodified":1449056291,
+    "wof:lastmodified":1454129562,
     "wof:name":"First United Methodist Church",
     "wof:parent_id":85819435,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "church"
     ]
 },
-  "bbox": [-78.1921,43.247603,-78.1921,43.247603],
+  "bbox": [
+    -78.1921,
+    43.247603,
+    -78.1921,
+    43.247603
+],
   "geometry": {"coordinates":[-78.1921,43.247603],"type":"Point"}
 }

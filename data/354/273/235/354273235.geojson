@@ -2,13 +2,14 @@
   "id": 354273235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.937411,40.841779,-73.937411,40.841779",
     "geom:latitude":40.841779,
     "geom:longitude":-73.937411,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"116 Audubon Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85854625,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85854625
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"1410d7afafd611e15a28e5a6e50b005b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85854625,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":354273235,
-    "wof:lastmodified":1449066809,
+    "wof:lastmodified":1454131038,
     "wof:name":"Dominican Communications Corp",
     "wof:parent_id":85854625,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "answering"
     ]
 },
-  "bbox": [-73.937411,40.841779,-73.937411,40.841779],
+  "bbox": [
+    -73.937411,
+    40.841779,
+    -73.937411,
+    40.841779
+],
   "geometry": {"coordinates":[-73.937411,40.841779],"type":"Point"}
 }

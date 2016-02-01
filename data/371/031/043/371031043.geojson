@@ -2,13 +2,14 @@
   "id": 371031043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.877423,42.890855,-78.877423,42.890855",
     "geom:latitude":42.890855,
     "geom:longitude":-78.877423,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"118 W Chippewa St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.papayarestaurant.biz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872893,
+        102191575,
+        404522329,
         85633793,
         85978023,
         102082387,
-        85872893
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"3a733eedcf5ace3d4251bfbd5c1c913d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
             "neighbourhood_id":85872893,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":371031043,
-    "wof:lastmodified":1449049413,
+    "wof:lastmodified":1454129125,
     "wof:name":"Papaya",
     "wof:parent_id":85872893,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "asian"
     ]
 },
-  "bbox": [-78.877423,42.890855,-78.877423,42.890855],
-  "geometry": {"coordinates":[-78.877423,42.890855],"type":"Point"}
+  "bbox": [
+    -78.877423,
+    42.890855,
+    -78.877423,
+    42.890855
+],
+  "geometry": {"coordinates":[-78.87742299999999,42.890855],"type":"Point"}
 }

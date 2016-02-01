@@ -2,13 +2,14 @@
   "id": 403934349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.246465,40.747858,-73.246465,40.747858",
     "geom:latitude":40.747858,
     "geom:longitude":-73.246465,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"73 Newbrook Ln",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530029,
+        102191575,
+        404522517,
         85633793,
-        85979719,
-        102082395
+        85979775,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"d602c04d6e9f372607d4f148af4201ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979775,
+            "neighbourhood_id":420530029,
             "region_id":85688543,
             "venue_id":403934349
         }
     ],
     "wof:id":403934349,
-    "wof:lastmodified":1449054693,
+    "wof:lastmodified":1454129331,
     "wof:name":"ACLD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530029,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.246465,40.747858,-73.246465,40.747858],
+  "bbox": [
+    -73.246465,
+    40.747858,
+    -73.246465,
+    40.747858
+],
   "geometry": {"coordinates":[-73.246465,40.747858],"type":"Point"}
 }

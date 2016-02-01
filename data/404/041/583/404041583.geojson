@@ -2,13 +2,14 @@
   "id": 404041583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.129522,40.639181,-74.129522,40.639181",
     "geom:latitude":40.639181,
     "geom:longitude":-74.129522,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2015 Richmond Ter",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.morantug.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85842829,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85865885
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +45,20 @@
     "wof:geomhash":"a4f60d04264167f40679603d30a8cd94",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85865885,
+            "neighbourhood_id":85842829,
             "region_id":85688543,
             "venue_id":404041583
         }
     ],
     "wof:id":404041583,
-    "wof:lastmodified":1449039457,
+    "wof:lastmodified":1454128875,
     "wof:name":"Moran Inc",
-    "wof:parent_id":85865885,
+    "wof:parent_id":85842829,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +66,11 @@
         "towing"
     ]
 },
-  "bbox": [-74.129522,40.639181,-74.129522,40.639181],
-  "geometry": {"coordinates":[-74.129522,40.639181],"type":"Point"}
+  "bbox": [
+    -74.129522,
+    40.639181,
+    -74.129522,
+    40.639181
+],
+  "geometry": {"coordinates":[-74.12952199999999,40.639181],"type":"Point"}
 }

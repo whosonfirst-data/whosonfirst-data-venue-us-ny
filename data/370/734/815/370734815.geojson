@@ -2,13 +2,14 @@
   "id": 370734815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.16872,42.606115,-76.16872,42.606115",
     "geom:latitude":42.606115,
     "geom:longitude":-76.16872,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"141 Clinton Ave",
     "sg:city":"Cortland",
     "sg:classifiers":[
@@ -43,10 +44,13 @@
     "sg:website":"http://www.timhortons.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528395,
+        102191575,
+        404522255,
         85633793,
-        85978513,
-        102083011
+        85978519,
+        102083011,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,19 +60,20 @@
     "wof:geomhash":"8ebd60811cead1eca46624c2fd6161c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083011,
-            "locality_id":85978513,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522255,
+            "locality_id":85978519,
+            "neighbourhood_id":420528395,
             "region_id":85688543,
             "venue_id":370734815
         }
     ],
     "wof:id":370734815,
-    "wof:lastmodified":1449032044,
+    "wof:lastmodified":1454128185,
     "wof:name":"Tim Horton's",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528395,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -81,6 +86,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-76.16872,42.606115,-76.16872,42.606115],
-  "geometry": {"coordinates":[-76.16872,42.606115],"type":"Point"}
+  "bbox": [
+    -76.16872,
+    42.606115,
+    -76.16872,
+    42.606115
+],
+  "geometry": {"coordinates":[-76.16871999999999,42.606115],"type":"Point"}
 }

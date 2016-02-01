@@ -2,13 +2,14 @@
   "id": 336908557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.694044,40.830945,-73.694044,40.830945",
     "geom:latitude":40.830945,
     "geom:longitude":-73.694044,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"191 Main St",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892983,
+        102191575,
+        404522729,
         85633793,
         85979185,
         102082371,
-        85892983
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"14e80cc4f99f40c216800582abbc5f34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979185,
             "neighbourhood_id":85892983,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":336908557,
-    "wof:lastmodified":1448997549,
+    "wof:lastmodified":1454122809,
     "wof:name":"Let's Wrap",
     "wof:parent_id":85892983,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "crating"
     ]
 },
-  "bbox": [-73.694044,40.830945,-73.694044,40.830945],
-  "geometry": {"coordinates":[-73.694044,40.830945],"type":"Point"}
+  "bbox": [
+    -73.694044,
+    40.830945,
+    -73.694044,
+    40.830945
+],
+  "geometry": {"coordinates":[-73.69404400000001,40.830945],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270016581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.915912,40.619042,-73.915912,40.619042",
     "geom:latitude":40.619042,
     "geom:longitude":-73.915912,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6301 Mill Ln",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865541,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865541
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"35ac01745ddebf2efb3049e497a89a38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865541,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":270016581,
-    "wof:lastmodified":1449009062,
+    "wof:lastmodified":1454124427,
     "wof:name":"Doshi Diagnostic Imaging Svc",
     "wof:parent_id":85865541,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-73.915912,40.619042,-73.915912,40.619042],
-  "geometry": {"coordinates":[-73.915912,40.619042],"type":"Point"}
+  "bbox": [
+    -73.915912,
+    40.619042,
+    -73.915912,
+    40.619042
+],
+  "geometry": {"coordinates":[-73.91591200000001,40.619042],"type":"Point"}
 }

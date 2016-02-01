@@ -2,13 +2,14 @@
   "id": 370796087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.155747,43.007325,-76.155747,43.007325",
     "geom:latitude":43.007325,
     "geom:longitude":-76.155747,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"130 Oakdale Dr",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529355,
+        102191575,
+        404522851,
         85633793,
         85977785,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"17871588f33dd7b75f60f7e99ae95b04",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529355,
             "region_id":85688543,
             "venue_id":370796087
         }
     ],
     "wof:id":370796087,
-    "wof:lastmodified":1449030690,
+    "wof:lastmodified":1454127786,
     "wof:name":"R R Tile And Carpet",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529355,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-76.155747,43.007325,-76.155747,43.007325],
-  "geometry": {"coordinates":[-76.155747,43.007325],"type":"Point"}
+  "bbox": [
+    -76.155747,
+    43.007325,
+    -76.155747,
+    43.007325
+],
+  "geometry": {"coordinates":[-76.15574700000001,43.007325],"type":"Point"}
 }

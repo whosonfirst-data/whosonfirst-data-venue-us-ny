@@ -2,13 +2,14 @@
   "id": 303973577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.867679,40.903989,-73.867679,40.903989",
     "geom:latitude":40.903989,
     "geom:longitude":-73.867679,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"865 McLean Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.hudsonvalleybank.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85858791,
+        102191575,
+        404523397,
         85633793,
-        85977539,
-        102083063,
-        85858791
+        85978759,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"d8b4b19a9b1ede7038c625e20b3df7e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
-            "locality_id":85977539,
+            "county_id":102082373,
+            "localadmin_id":404523397,
+            "locality_id":85978759,
             "neighbourhood_id":85858791,
             "region_id":85688543,
             "venue_id":303973577
         }
     ],
     "wof:id":303973577,
-    "wof:lastmodified":1448999588,
+    "wof:lastmodified":1454123454,
     "wof:name":"Hudson Valley Bank",
     "wof:parent_id":85858791,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "commercial"
     ]
 },
-  "bbox": [-73.867679,40.903989,-73.867679,40.903989],
+  "bbox": [
+    -73.867679,
+    40.903989,
+    -73.867679,
+    40.903989
+],
   "geometry": {"coordinates":[-73.867679,40.903989],"type":"Point"}
 }

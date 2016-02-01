@@ -2,13 +2,14 @@
   "id": 370617997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.185456,42.615899,-76.185456,42.615899",
     "geom:latitude":42.615899,
     "geom:longitude":-76.185456,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4395 N Homer Ave",
     "sg:city":"Cortland",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528395,
+        102191575,
+        404522255,
         85633793,
+        85978519,
+        102083011,
         85688543
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"f94bf7172470cd89493c17b34084ca6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083011,
+            "localadmin_id":404522255,
+            "locality_id":85978519,
+            "neighbourhood_id":420528395,
             "region_id":85688543,
             "venue_id":370617997
         }
     ],
     "wof:id":370617997,
-    "wof:lastmodified":1449029184,
+    "wof:lastmodified":1454127344,
     "wof:name":"Cortland Ice Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528395,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.185456,42.615899,-76.185456,42.615899],
+  "bbox": [
+    -76.185456,
+    42.615899,
+    -76.185456,
+    42.615899
+],
   "geometry": {"coordinates":[-76.185456,42.615899],"type":"Point"}
 }

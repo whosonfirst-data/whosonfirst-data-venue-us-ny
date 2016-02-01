@@ -2,13 +2,14 @@
   "id": 320489727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.661699,42.855322,-78.661699,42.855322",
     "geom:latitude":42.855322,
     "geom:longitude":-78.661699,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6650 Clinton St",
     "sg:city":"Elma",
     "sg:classifiers":[
@@ -24,8 +25,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85850539,
+        102082387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +38,27 @@
     "wof:geomhash":"aa4b6c63417432d5273b879852c59a22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082387,
+            "neighbourhood_id":85850539,
             "region_id":85688543,
             "venue_id":320489727
         }
     ],
     "wof:id":320489727,
-    "wof:lastmodified":1449013310,
+    "wof:lastmodified":1454125097,
     "wof:name":"Elma Inn",
-    "wof:parent_id":-1,
+    "wof:parent_id":85850539,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.661699,42.855322,-78.661699,42.855322],
+  "bbox": [
+    -78.661699,
+    42.855322,
+    -78.661699,
+    42.855322
+],
   "geometry": {"coordinates":[-78.661699,42.855322],"type":"Point"}
 }

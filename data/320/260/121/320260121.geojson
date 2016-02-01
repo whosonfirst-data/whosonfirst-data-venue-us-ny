@@ -2,13 +2,14 @@
   "id": 320260121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.788224,41.028737,-73.788224,41.028737",
     "geom:latitude":41.028737,
     "geom:longitude":-73.788224,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"154 Trenton Ave",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893077,
+        102191575,
+        404523395,
         85633793,
+        85978761,
         102082373,
-        85893077
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"5344761257cd8073c2ba6c01d984e2ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":-1,
+            "localadmin_id":404523395,
+            "locality_id":85978761,
             "neighbourhood_id":85893077,
             "region_id":85688543,
             "venue_id":320260121
         }
     ],
     "wof:id":320260121,
-    "wof:lastmodified":1449011884,
+    "wof:lastmodified":1454124863,
     "wof:name":"Quick Line",
     "wof:parent_id":85893077,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.788224,41.028737,-73.788224,41.028737],
+  "bbox": [
+    -73.788224,
+    41.028737,
+    -73.788224,
+    41.028737
+],
   "geometry": {"coordinates":[-73.788224,41.028737],"type":"Point"}
 }

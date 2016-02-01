@@ -2,13 +2,14 @@
   "id": 253585787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.615594,43.055727,-75.615594,43.055727",
     "geom:latitude":43.055727,
     "geom:longitude":-75.615594,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"108 Maplewood Ave",
     "sg:city":"Oneida",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847377,
+        102191575,
+        404522679,
         85633793,
-        102083149,
-        85847377
+        85978049,
+        102080989,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"00f45e6f40742ebd2d60cb73922c40f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083149,
-            "locality_id":-1,
+            "county_id":102080989,
+            "localadmin_id":404522679,
+            "locality_id":85978049,
             "neighbourhood_id":85847377,
             "region_id":85688543,
             "venue_id":253585787
         }
     ],
     "wof:id":253585787,
-    "wof:lastmodified":1449064808,
+    "wof:lastmodified":1454130578,
     "wof:name":"Professional Computers",
     "wof:parent_id":85847377,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.615594,43.055727,-75.615594,43.055727],
+  "bbox": [
+    -75.615594,
+    43.055727,
+    -75.615594,
+    43.055727
+],
   "geometry": {"coordinates":[-75.615594,43.055727],"type":"Point"}
 }

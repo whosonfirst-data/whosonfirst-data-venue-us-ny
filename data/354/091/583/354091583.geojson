@@ -2,13 +2,14 @@
   "id": 354091583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.291381,42.101216,-79.291381,42.101216",
     "geom:latitude":42.101216,
     "geom:longitude":-79.291381,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 N Green Ave",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817873,
+        102191575,
+        404521959,
         85633793,
+        85980155,
         102081811,
-        85817873
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"124023338a613535a2c13e02ad8fcd3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081811,
-            "locality_id":-1,
+            "localadmin_id":404521959,
+            "locality_id":85980155,
             "neighbourhood_id":85817873,
             "region_id":85688543,
             "venue_id":354091583
         }
     ],
     "wof:id":354091583,
-    "wof:lastmodified":1449066099,
+    "wof:lastmodified":1454130823,
     "wof:name":"Smith Barney",
     "wof:parent_id":85817873,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-79.291381,42.101216,-79.291381,42.101216],
+  "bbox": [
+    -79.291381,
+    42.101216,
+    -79.291381,
+    42.101216
+],
   "geometry": {"coordinates":[-79.291381,42.101216],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336823919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.977457,40.684052,-73.977457,40.684052",
     "geom:latitude":40.684052,
     "geom:longitude":-73.977457,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"160 Flatbush Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840609,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"5759e0e546b9c96773ea95cb2ee2e2d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85840609,
             "region_id":85688543,
             "venue_id":336823919
         }
     ],
     "wof:id":336823919,
-    "wof:lastmodified":1448997994,
+    "wof:lastmodified":1454122946,
     "wof:name":"Vinnies Styles",
-    "wof:parent_id":-1,
+    "wof:parent_id":85840609,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.977457,40.684052,-73.977457,40.684052],
+  "bbox": [
+    -73.977457,
+    40.684052,
+    -73.977457,
+    40.684052
+],
   "geometry": {"coordinates":[-73.977457,40.684052],"type":"Point"}
 }

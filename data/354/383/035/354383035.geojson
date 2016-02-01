@@ -2,13 +2,14 @@
   "id": 354383035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.506349,40.815248,-73.506349,40.815248",
     "geom:latitude":40.815248,
     "geom:longitude":-73.506349,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"29 Willets Dr",
     "sg:city":"Syosset",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
-        85979075,
-        102082371
+        85979055,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"440b079f3b1b6edb1c767ad608238874",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979075,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85979055,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":354383035
         }
     ],
     "wof:id":354383035,
-    "wof:lastmodified":1449066648,
+    "wof:lastmodified":1454130990,
     "wof:name":"Ronald Feldman DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.506349,40.815248,-73.506349,40.815248],
+  "bbox": [
+    -73.506349,
+    40.815248,
+    -73.506349,
+    40.815248
+],
   "geometry": {"coordinates":[-73.506349,40.815248],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269642639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.717728,40.965401,-73.717728,40.965401",
     "geom:latitude":40.965401,
     "geom:longitude":-73.717728,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"127 Halstead Ave",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892899,
+        102191575,
+        404523361,
         85633793,
-        85978729,
+        85978735,
         102082373,
-        85892899
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"03e82692a68646888b5a47e67dfb9c74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978729,
+            "localadmin_id":404523361,
+            "locality_id":85978735,
             "neighbourhood_id":85892899,
             "region_id":85688543,
             "venue_id":269642639
         }
     ],
     "wof:id":269642639,
-    "wof:lastmodified":1449036286,
+    "wof:lastmodified":1454128483,
     "wof:name":"Amicis Deli",
     "wof:parent_id":85892899,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-73.717728,40.965401,-73.717728,40.965401],
-  "geometry": {"coordinates":[-73.717728,40.965401],"type":"Point"}
+  "bbox": [
+    -73.717728,
+    40.965401,
+    -73.717728,
+    40.965401
+],
+  "geometry": {"coordinates":[-73.71772799999999,40.965401],"type":"Point"}
 }

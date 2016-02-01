@@ -2,13 +2,14 @@
   "id": 303195517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.648732,43.097515,-75.648732,43.097515",
     "geom:latitude":43.097515,
     "geom:longitude":-75.648732,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"201 Sconondoa St",
     "sg:city":"Oneida",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847377,
+        102191575,
+        404522679,
         85633793,
-        102083149,
-        85847377
+        85978049,
+        102080989,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"66ab429b8fedb011ed2a43b9a3bb8d0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083149,
-            "locality_id":-1,
+            "county_id":102080989,
+            "localadmin_id":404522679,
+            "locality_id":85978049,
             "neighbourhood_id":85847377,
             "region_id":85688543,
             "venue_id":303195517
         }
     ],
     "wof:id":303195517,
-    "wof:lastmodified":1448999725,
+    "wof:lastmodified":1454123491,
     "wof:name":"Central Distributing Co",
     "wof:parent_id":85847377,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "ale"
     ]
 },
-  "bbox": [-75.648732,43.097515,-75.648732,43.097515],
+  "bbox": [
+    -75.648732,
+    43.097515,
+    -75.648732,
+    43.097515
+],
   "geometry": {"coordinates":[-75.648732,43.097515],"type":"Point"}
 }

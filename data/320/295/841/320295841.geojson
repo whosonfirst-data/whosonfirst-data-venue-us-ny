@@ -2,13 +2,14 @@
   "id": 320295841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.8986,40.925232,-73.8986,40.925232",
     "geom:latitude":40.925232,
     "geom:longitude":-73.8986,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Highland Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881901,
+        102191575,
+        404523397,
         85633793,
         85978759,
         102082373,
-        85881901
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"4aadb2961c0d95e8e7a77bae87b611d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
             "neighbourhood_id":85881901,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":320295841,
-    "wof:lastmodified":1449012781,
+    "wof:lastmodified":1454125008,
     "wof:name":"Highland Terrace Housing",
     "wof:parent_id":85881901,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "income"
     ]
 },
-  "bbox": [-73.8986,40.925232,-73.8986,40.925232],
+  "bbox": [
+    -73.8986,
+    40.925232,
+    -73.8986,
+    40.925232
+],
   "geometry": {"coordinates":[-73.8986,40.925232],"type":"Point"}
 }

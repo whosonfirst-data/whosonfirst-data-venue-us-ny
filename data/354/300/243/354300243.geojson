@@ -2,13 +2,14 @@
   "id": 354300243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.894771,43.979762,-75.894771,43.979762",
     "geom:latitude":43.979762,
     "geom:longitude":-75.894771,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"632 Water St",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.ferguson.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826571,
+        102191575,
+        404521927,
         85633793,
-        85978073,
+        85979489,
         102082357,
-        85826571
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"41a46d8ad84a93b44a05367a45597727",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082357,
-            "locality_id":85978073,
+            "localadmin_id":404521927,
+            "locality_id":85979489,
             "neighbourhood_id":85826571,
             "region_id":85688543,
             "venue_id":354300243
         }
     ],
     "wof:id":354300243,
-    "wof:lastmodified":1449066907,
+    "wof:lastmodified":1454131068,
     "wof:name":"Ferguson Enterprises Inc",
     "wof:parent_id":85826571,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-75.894771,43.979762,-75.894771,43.979762],
-  "geometry": {"coordinates":[-75.894771,43.979762],"type":"Point"}
+  "bbox": [
+    -75.894771,
+    43.979762,
+    -75.894771,
+    43.979762
+],
+  "geometry": {"coordinates":[-75.89477100000001,43.979762],"type":"Point"}
 }

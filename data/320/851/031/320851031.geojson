@@ -2,13 +2,14 @@
   "id": 320851031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.089778,40.759428,-73.089778,40.759428",
     "geom:latitude":40.759428,
     "geom:longitude":-73.089778,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"291 Johnson Ave",
     "sg:city":"Sayville",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.sayville.k12.ny.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +42,18 @@
     "wof:geomhash":"473853e1903e894f3c497c8701f4019a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":320851031
         }
     ],
     "wof:id":320851031,
-    "wof:lastmodified":1449013729,
+    "wof:lastmodified":1454125161,
     "wof:name":"Sayville Middle School",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.089778,40.759428,-73.089778,40.759428],
+  "bbox": [
+    -73.089778,
+    40.759428,
+    -73.089778,
+    40.759428
+],
   "geometry": {"coordinates":[-73.089778,40.759428],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287122951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.852247,43.005644,-74.852247,43.005644",
     "geom:latitude":43.005644,
     "geom:longitude":-74.852247,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"590 Paradise Rd",
     "sg:city":"Little Falls",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528839,
+        102191575,
+        404521885,
         85633793,
+        85977757,
+        102081877,
         85688543
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"8737ca4796747a61f6fcd7d2f55732ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081877,
+            "localadmin_id":404521885,
+            "locality_id":85977757,
+            "neighbourhood_id":420528839,
             "region_id":85688543,
             "venue_id":287122951
         }
     ],
     "wof:id":287122951,
-    "wof:lastmodified":1449001176,
+    "wof:lastmodified":1454123875,
     "wof:name":"Gardener Farms",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528839,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.852247,43.005644,-74.852247,43.005644],
-  "geometry": {"coordinates":[-74.852247,43.005644],"type":"Point"}
+  "bbox": [
+    -74.852247,
+    43.005644,
+    -74.852247,
+    43.005644
+],
+  "geometry": {"coordinates":[-74.85224700000001,43.005644],"type":"Point"}
 }

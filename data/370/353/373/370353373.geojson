@@ -2,13 +2,14 @@
   "id": 370353373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.396796,40.884051,-72.396796,40.884051",
     "geom:latitude":40.884051,
     "geom:longitude":-72.396796,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Hill St",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"http://national.citysearch.com/profile/external/7557591/southampton_ny/the_village_latch_inn.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"d31f7ecf5bbbb164c2e10576d4753f01",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":370353373
         }
     ],
     "wof:id":370353373,
-    "wof:lastmodified":1449030080,
+    "wof:lastmodified":1454127606,
     "wof:name":"The Village Latch Inn",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "lodging"
     ]
 },
-  "bbox": [-72.396796,40.884051,-72.396796,40.884051],
-  "geometry": {"coordinates":[-72.396796,40.884051],"type":"Point"}
+  "bbox": [
+    -72.396796,
+    40.884051,
+    -72.396796,
+    40.884051
+],
+  "geometry": {"coordinates":[-72.39679599999999,40.884051],"type":"Point"}
 }

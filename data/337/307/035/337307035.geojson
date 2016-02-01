@@ -2,13 +2,14 @@
   "id": 337307035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.940009,40.590715,-73.940009,40.590715",
     "geom:latitude":40.590715,
     "geom:longitude":-73.940009,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3820 Nostrand Ave Ste 109",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848121,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85848121
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"88446c3c5ebe06d7b4eff4ab11b8cfb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85848121,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":337307035,
-    "wof:lastmodified":1449027142,
+    "wof:lastmodified":1454126949,
     "wof:name":"Billmed Management",
     "wof:parent_id":85848121,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "billing"
     ]
 },
-  "bbox": [-73.940009,40.590715,-73.940009,40.590715],
+  "bbox": [
+    -73.940009,
+    40.590715,
+    -73.940009,
+    40.590715
+],
   "geometry": {"coordinates":[-73.940009,40.590715],"type":"Point"}
 }

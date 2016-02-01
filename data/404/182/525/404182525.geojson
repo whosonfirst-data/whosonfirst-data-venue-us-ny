@@ -2,13 +2,14 @@
   "id": 404182525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.145418,41.115187,-74.145418,41.115187",
     "geom:latitude":41.115187,
     "geom:longitude":-74.145418,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"144 State Hwy 59",
     "sg:city":"Suffern",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893025,
+        102191575,
+        404523097,
         85633793,
-        85978559,
+        85978523,
         102082385,
-        85893023
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +44,20 @@
     "wof:geomhash":"3a5d569a0721200f38b9aaf2d3db9585",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85978559,
-            "neighbourhood_id":85893023,
+            "localadmin_id":404523097,
+            "locality_id":85978523,
+            "neighbourhood_id":85893025,
             "region_id":85688543,
             "venue_id":404182525
         }
     ],
     "wof:id":404182525,
-    "wof:lastmodified":1449039890,
+    "wof:lastmodified":1454128913,
     "wof:name":"Anrg",
-    "wof:parent_id":85893023,
+    "wof:parent_id":85893025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +65,11 @@
         "agency"
     ]
 },
-  "bbox": [-74.145418,41.115187,-74.145418,41.115187],
-  "geometry": {"coordinates":[-74.145418,41.115187],"type":"Point"}
+  "bbox": [
+    -74.145418,
+    41.115187,
+    -74.145418,
+    41.115187
+],
+  "geometry": {"coordinates":[-74.14541800000001,41.115187],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370524137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.992418,40.71319,-73.992418,40.71319",
     "geom:latitude":40.71319,
     "geom:longitude":-73.992418,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"19 Pike St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831563,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"222e77691cdcb036d939c05a6fc6a524",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85831563,
             "region_id":85688543,
             "venue_id":370524137
         }
     ],
     "wof:id":370524137,
-    "wof:lastmodified":1449029035,
+    "wof:lastmodified":1454127298,
     "wof:name":"Lins Kitchen Equipment & Sup",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831563,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.992418,40.71319,-73.992418,40.71319],
+  "bbox": [
+    -73.992418,
+    40.71319,
+    -73.992418,
+    40.71319
+],
   "geometry": {"coordinates":[-73.992418,40.71319],"type":"Point"}
 }

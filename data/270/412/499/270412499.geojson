@@ -2,13 +2,14 @@
   "id": 270412499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.456984,40.793916,-73.456984,40.793916",
     "geom:latitude":40.793916,
     "geom:longitude":-73.456984,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14 High Ridge Rd",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
-        85979191,
-        102082371
+        85979055,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"847be2fee4ed40bde36e43eb002dbf15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979191,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85979055,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":270412499
         }
     ],
     "wof:id":270412499,
-    "wof:lastmodified":1449009128,
+    "wof:lastmodified":1454124438,
     "wof:name":"Corporate Authority Comm",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "relations"
     ]
 },
-  "bbox": [-73.456984,40.793916,-73.456984,40.793916],
-  "geometry": {"coordinates":[-73.456984,40.793916],"type":"Point"}
+  "bbox": [
+    -73.456984,
+    40.793916,
+    -73.456984,
+    40.793916
+],
+  "geometry": {"coordinates":[-73.45698400000001,40.793916],"type":"Point"}
 }

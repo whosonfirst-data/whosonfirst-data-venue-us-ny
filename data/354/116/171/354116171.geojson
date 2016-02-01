@@ -2,13 +2,14 @@
   "id": 354116171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.255541,40.786584,-73.255541,40.786584",
     "geom:latitude":40.786584,
     "geom:longitude":-73.255541,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Van Cedar St",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841665,
+        102191575,
+        404522517,
         85633793,
-        85979883,
+        85979867,
         102082395,
-        85841665
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"58d1431ccf715f67de689164f0a2115e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979883,
+            "localadmin_id":404522517,
+            "locality_id":85979867,
             "neighbourhood_id":85841665,
             "region_id":85688543,
             "venue_id":354116171
         }
     ],
     "wof:id":354116171,
-    "wof:lastmodified":1449066178,
+    "wof:lastmodified":1454130846,
     "wof:name":"Alas Real Estate",
     "wof:parent_id":85841665,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-73.255541,40.786584,-73.255541,40.786584],
-  "geometry": {"coordinates":[-73.255541,40.786584],"type":"Point"}
+  "bbox": [
+    -73.255541,
+    40.786584,
+    -73.255541,
+    40.786584
+],
+  "geometry": {"coordinates":[-73.25554099999999,40.786584],"type":"Point"}
 }

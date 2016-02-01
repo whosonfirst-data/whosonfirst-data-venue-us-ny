@@ -2,13 +2,14 @@
   "id": 370657275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.926867,41.703379,-73.926867,41.703379",
     "geom:latitude":41.703379,
     "geom:longitude":-73.926867,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"306 Main St",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -56,11 +57,13 @@
     "sg:website":"http://www.spectrum-graphics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892991,
+        102191575,
+        404522305,
         85633793,
         85977835,
         102082363,
-        85892991
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,9 +73,10 @@
     "wof:geomhash":"624c9314a604ef1a8bee7b2f52076551",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
+            "localadmin_id":404522305,
             "locality_id":85977835,
             "neighbourhood_id":85892991,
             "region_id":85688543,
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":370657275,
-    "wof:lastmodified":1449029465,
+    "wof:lastmodified":1454127426,
     "wof:name":"Spectrum Graphics & Print",
     "wof:parent_id":85892991,
     "wof:placetype":"venue",
@@ -103,6 +107,11 @@
         "mail"
     ]
 },
-  "bbox": [-73.926867,41.703379,-73.926867,41.703379],
+  "bbox": [
+    -73.926867,
+    41.703379,
+    -73.926867,
+    41.703379
+],
   "geometry": {"coordinates":[-73.926867,41.703379],"type":"Point"}
 }

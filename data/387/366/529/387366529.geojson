@@ -2,13 +2,14 @@
   "id": 387366529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.551454,40.956719,-72.551454,40.956719",
     "geom:latitude":40.956719,
     "geom:longitude":-72.551454,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1475 Peconic Bay Blvd",
     "sg:city":"Laurel",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85838351,
+        102191575,
+        404522663,
         85633793,
-        85979879,
+        85979671,
         102082395,
-        85838351
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"757953c4dc41fc00c9fec233c9e5f6fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979879,
+            "localadmin_id":404522663,
+            "locality_id":85979671,
             "neighbourhood_id":85838351,
             "region_id":85688543,
             "venue_id":387366529
         }
     ],
     "wof:id":387366529,
-    "wof:lastmodified":1449058887,
+    "wof:lastmodified":1454130024,
     "wof:name":"Document Wizard",
     "wof:parent_id":85838351,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "printer"
     ]
 },
-  "bbox": [-72.551454,40.956719,-72.551454,40.956719],
-  "geometry": {"coordinates":[-72.551454,40.956719],"type":"Point"}
+  "bbox": [
+    -72.551454,
+    40.956719,
+    -72.551454,
+    40.956719
+],
+  "geometry": {"coordinates":[-72.55145400000001,40.956719],"type":"Point"}
 }

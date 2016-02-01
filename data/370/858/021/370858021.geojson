@@ -2,13 +2,14 @@
   "id": 370858021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.001207,40.726509,-74.001207,40.726509",
     "geom:latitude":40.726509,
     "geom:longitude":-74.001207,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"147 Thompson St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865687,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865687
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"da5b945941fd555b20ac4a15d1448e59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865687,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":370858021,
-    "wof:lastmodified":1449029424,
+    "wof:lastmodified":1454127415,
     "wof:name":"Fransiscan Friars",
     "wof:parent_id":85865687,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-74.001207,40.726509,-74.001207,40.726509],
-  "geometry": {"coordinates":[-74.001207,40.726509],"type":"Point"}
+  "bbox": [
+    -74.001207,
+    40.726509,
+    -74.001207,
+    40.726509
+],
+  "geometry": {"coordinates":[-74.00120699999999,40.726509],"type":"Point"}
 }

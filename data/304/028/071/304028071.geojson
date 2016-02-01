@@ -2,13 +2,14 @@
   "id": 304028071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.967951,40.75712,-73.967951,40.75712",
     "geom:latitude":40.75712,
     "geom:longitude":-73.967951,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"244 E 53 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869487,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85869487
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"77335b42e4e66e9d3747ad0e8fb1929c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869487,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":304028071,
-    "wof:lastmodified":1449043909,
+    "wof:lastmodified":1454129009,
     "wof:name":"T & G Whitneys",
     "wof:parent_id":85869487,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "bar"
     ]
 },
-  "bbox": [-73.967951,40.75712,-73.967951,40.75712],
+  "bbox": [
+    -73.967951,
+    40.75712,
+    -73.967951,
+    40.75712
+],
   "geometry": {"coordinates":[-73.967951,40.75712],"type":"Point"}
 }

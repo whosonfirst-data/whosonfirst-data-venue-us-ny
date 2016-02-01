@@ -2,13 +2,14 @@
   "id": 320571049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.054555,40.83984,-73.054555,40.83984",
     "geom:latitude":40.83984,
     "geom:longitude":-73.054555,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"652 College Rd",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"36fc200c1c49b22adbfe634bf5214df4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":320571049
         }
     ],
     "wof:id":320571049,
-    "wof:lastmodified":1449013823,
+    "wof:lastmodified":1454125177,
     "wof:name":"Frank's Pizza",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.054555,40.83984,-73.054555,40.83984],
-  "geometry": {"coordinates":[-73.054555,40.83984],"type":"Point"}
+  "bbox": [
+    -73.054555,
+    40.83984,
+    -73.054555,
+    40.83984
+],
+  "geometry": {"coordinates":[-73.05455499999999,40.83984],"type":"Point"}
 }

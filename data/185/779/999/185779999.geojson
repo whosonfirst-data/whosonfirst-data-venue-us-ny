@@ -2,13 +2,14 @@
   "id": 185779999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.010864,40.629552,-74.010864,40.629552",
     "geom:latitude":40.629552,
     "geom:longitude":-74.010864,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6721 Fort Hamilton Pkwy",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85815703,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85815703
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +61,10 @@
     "wof:geomhash":"1b8a502e60cc049dad3937ade7f3e8bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85815703,
             "region_id":85688543,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":185779999,
-    "wof:lastmodified":1449006860,
+    "wof:lastmodified":1454124175,
     "wof:name":"Delta Financial Service",
     "wof:parent_id":85815703,
     "wof:placetype":"venue",
@@ -85,6 +89,11 @@
         "order"
     ]
 },
-  "bbox": [-74.010864,40.629552,-74.010864,40.629552],
+  "bbox": [
+    -74.010864,
+    40.629552,
+    -74.010864,
+    40.629552
+],
   "geometry": {"coordinates":[-74.010864,40.629552],"type":"Point"}
 }

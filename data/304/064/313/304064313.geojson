@@ -2,13 +2,14 @@
   "id": 304064313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.901616,40.916987,-73.901616,40.916987",
     "geom:latitude":40.916987,
     "geom:longitude":-73.901616,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"436 Riverdale Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831661,
+        102191575,
+        404523397,
         85633793,
         85978759,
         102082373,
-        85831661
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"e90c881e4facd1dfc1869efcb0e58d69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
             "neighbourhood_id":85831661,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":304064313,
-    "wof:lastmodified":1449043761,
+    "wof:lastmodified":1454128995,
     "wof:name":"436 Riverdale Grocery",
     "wof:parent_id":85831661,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "produce"
     ]
 },
-  "bbox": [-73.901616,40.916987,-73.901616,40.916987],
+  "bbox": [
+    -73.901616,
+    40.916987,
+    -73.901616,
+    40.916987
+],
   "geometry": {"coordinates":[-73.901616,40.916987],"type":"Point"}
 }

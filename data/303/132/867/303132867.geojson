@@ -2,13 +2,14 @@
   "id": 303132867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.59921,43.16616,-77.59921,43.16616",
     "geom:latitude":43.16616,
     "geom:longitude":-77.59921,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23 Hartford St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880407,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85880407
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"398bb178ce30d7faba3c7da542720051",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85880407,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":303132867,
-    "wof:lastmodified":1448999314,
+    "wof:lastmodified":1454123382,
     "wof:name":"Robert Jones Garage",
     "wof:parent_id":85880407,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "automobile"
     ]
 },
-  "bbox": [-77.59921,43.16616,-77.59921,43.16616],
+  "bbox": [
+    -77.59921,
+    43.16616,
+    -77.59921,
+    43.16616
+],
   "geometry": {"coordinates":[-77.59921,43.16616],"type":"Point"}
 }

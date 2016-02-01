@@ -2,13 +2,14 @@
   "id": 252947759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.888711,40.656349,-73.888711,40.656349",
     "geom:latitude":40.656349,
     "geom:longitude":-73.888711,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"895 Pennsylvania Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869421,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869421
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"fda55dc7fb8395e37613214ef12b972a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869421,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":252947759,
-    "wof:lastmodified":1449006189,
+    "wof:lastmodified":1454124089,
     "wof:name":"East New York Council-Aging",
     "wof:parent_id":85869421,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "citizen"
     ]
 },
-  "bbox": [-73.888711,40.656349,-73.888711,40.656349],
+  "bbox": [
+    -73.888711,
+    40.656349,
+    -73.888711,
+    40.656349
+],
   "geometry": {"coordinates":[-73.888711,40.656349],"type":"Point"}
 }

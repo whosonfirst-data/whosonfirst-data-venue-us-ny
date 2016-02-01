@@ -2,13 +2,14 @@
   "id": 370170581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.192001,40.833099,-73.192001,40.833099",
     "geom:latitude":40.833099,
     "geom:longitude":-73.192001,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"550 Smithtown Byp Ste 215",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530053,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"25311c097855ec4593e3c7ac894fdfa0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530053,
             "region_id":85688543,
             "venue_id":370170581
         }
     ],
     "wof:id":370170581,
-    "wof:lastmodified":1449029405,
+    "wof:lastmodified":1454127411,
     "wof:name":"Boss Facility Services Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "property"
     ]
 },
-  "bbox": [-73.192001,40.833099,-73.192001,40.833099],
+  "bbox": [
+    -73.192001,
+    40.833099,
+    -73.192001,
+    40.833099
+],
   "geometry": {"coordinates":[-73.192001,40.833099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404198283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.772241,43.098616,-73.772241,43.098616",
     "geom:latitude":43.098616,
     "geom:longitude":-73.772241,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"458 Maple Ave",
     "sg:city":"Saratoga Springs",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85859279,
+        102191575,
+        404522373,
         85633793,
         85977919,
         102082413,
-        85859279
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"73cba6e659f983b2418377c19c015eb4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082413,
+            "localadmin_id":404522373,
             "locality_id":85977919,
             "neighbourhood_id":85859279,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":404198283,
-    "wof:lastmodified":1449039459,
+    "wof:lastmodified":1454128875,
     "wof:name":"Northeast Surgical Specialists",
     "wof:parent_id":85859279,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.772241,43.098616,-73.772241,43.098616],
-  "geometry": {"coordinates":[-73.772241,43.098616],"type":"Point"}
+  "bbox": [
+    -73.772241,
+    43.098616,
+    -73.772241,
+    43.098616
+],
+  "geometry": {"coordinates":[-73.77224099999999,43.098616],"type":"Point"}
 }

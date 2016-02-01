@@ -2,13 +2,14 @@
   "id": 320772747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.913756,40.838831,-73.913756,40.838831",
     "geom:latitude":40.838831,
     "geom:longitude":-73.913756,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"153 E 170th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865561,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865561
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"78c6286a799ac4906210324fee48f833",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865561,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":320772747,
-    "wof:lastmodified":1449012929,
+    "wof:lastmodified":1454125032,
     "wof:name":"East 170th St Realty Corp",
     "wof:parent_id":85865561,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.913756,40.838831,-73.913756,40.838831],
-  "geometry": {"coordinates":[-73.913756,40.838831],"type":"Point"}
+  "bbox": [
+    -73.913756,
+    40.838831,
+    -73.913756,
+    40.838831
+],
+  "geometry": {"coordinates":[-73.91375600000001,40.838831],"type":"Point"}
 }

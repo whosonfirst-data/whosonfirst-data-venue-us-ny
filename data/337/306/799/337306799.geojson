@@ -2,13 +2,14 @@
   "id": 337306799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.960225,40.590576,-73.960225,40.590576",
     "geom:latitude":40.590576,
     "geom:longitude":-73.960225,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2709 Coney Island Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.grandprixmotors.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85848121,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85848121
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"469ced3a30445830744c3cb2f3821c5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85848121,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":337306799,
-    "wof:lastmodified":1449027708,
+    "wof:lastmodified":1454127172,
     "wof:name":"Grand Prix Motors",
     "wof:parent_id":85848121,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "car"
     ]
 },
-  "bbox": [-73.960225,40.590576,-73.960225,40.590576],
-  "geometry": {"coordinates":[-73.960225,40.590576],"type":"Point"}
+  "bbox": [
+    -73.960225,
+    40.590576,
+    -73.960225,
+    40.590576
+],
+  "geometry": {"coordinates":[-73.96022499999999,40.590576],"type":"Point"}
 }

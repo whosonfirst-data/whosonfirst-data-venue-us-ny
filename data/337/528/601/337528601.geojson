@@ -2,13 +2,14 @@
   "id": 337528601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.740174,43.112959,-78.740174,43.112959",
     "geom:latitude":43.112959,
     "geom:longitude":-78.740174,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5273 Fiegle Rd",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529193,
+        102191575,
+        404522737,
         85633793,
+        85979541,
+        102081767,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"fccdd2276324f9f60e18a404e01ee450",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081767,
+            "localadmin_id":404522737,
+            "locality_id":85979541,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":337528601
         }
     ],
     "wof:id":337528601,
-    "wof:lastmodified":1449027151,
+    "wof:lastmodified":1454126952,
     "wof:name":"Donner Bros Truck & Excavating",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-78.740174,43.112959,-78.740174,43.112959],
+  "bbox": [
+    -78.740174,
+    43.112959,
+    -78.740174,
+    43.112959
+],
   "geometry": {"coordinates":[-78.740174,43.112959],"type":"Point"}
 }

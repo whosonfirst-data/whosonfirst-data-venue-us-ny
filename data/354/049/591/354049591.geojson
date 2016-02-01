@@ -2,13 +2,14 @@
   "id": 354049591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.757741,43.054737,-73.757741,43.054737",
     "geom:latitude":43.054737,
     "geom:longitude":-73.757741,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"378 Crescent Ave",
     "sg:city":"Saratoga Springs",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529829,
+        102191575,
+        404522373,
         85633793,
         85977919,
-        102082413
+        102082413,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"4a61a597cf37f5e0d1af1a373ce041f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082413,
+            "localadmin_id":404522373,
             "locality_id":85977919,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529829,
             "region_id":85688543,
             "venue_id":354049591
         }
     ],
     "wof:id":354049591,
-    "wof:lastmodified":1449066767,
+    "wof:lastmodified":1454131025,
     "wof:name":"Bees Baskets At Lake Lonely",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529829,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.757741,43.054737,-73.757741,43.054737],
+  "bbox": [
+    -73.757741,
+    43.054737,
+    -73.757741,
+    43.054737
+],
   "geometry": {"coordinates":[-73.757741,43.054737],"type":"Point"}
 }

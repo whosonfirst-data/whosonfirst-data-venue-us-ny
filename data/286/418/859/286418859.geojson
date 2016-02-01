@@ -2,13 +2,14 @@
   "id": 286418859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.603895,40.756597,-73.603895,40.756597",
     "geom:latitude":40.756597,
     "geom:longitude":-73.603895,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"312 Carle Rd",
     "sg:city":"Carle Place",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893069,
+        102191575,
+        404522729,
         85633793,
-        85977735,
+        85979163,
         102082371,
-        85893069
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"d1eb45d20e84647ca844b0989a4faf8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977735,
+            "localadmin_id":404522729,
+            "locality_id":85979163,
             "neighbourhood_id":85893069,
             "region_id":85688543,
             "venue_id":286418859
         }
     ],
     "wof:id":286418859,
-    "wof:lastmodified":1449017490,
+    "wof:lastmodified":1454125807,
     "wof:name":"J & A Home Improvements Inc",
     "wof:parent_id":85893069,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "home"
     ]
 },
-  "bbox": [-73.603895,40.756597,-73.603895,40.756597],
-  "geometry": {"coordinates":[-73.603895,40.756597],"type":"Point"}
+  "bbox": [
+    -73.603895,
+    40.756597,
+    -73.603895,
+    40.756597
+],
+  "geometry": {"coordinates":[-73.60389499999999,40.756597],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320171767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.374053,40.687167,-73.374053,40.687167",
     "geom:latitude":40.687167,
     "geom:longitude":-73.374053,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"135 N Wellwood Ave",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
         85978477,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"672a64683d7c99b8f6b0714a2e88551c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522513,
             "locality_id":85978477,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":320171767
         }
     ],
     "wof:id":320171767,
-    "wof:lastmodified":1449014984,
+    "wof:lastmodified":1454125367,
     "wof:name":"Mr GS Pizzeria Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "pizzeria"
     ]
 },
-  "bbox": [-73.374053,40.687167,-73.374053,40.687167],
+  "bbox": [
+    -73.374053,
+    40.687167,
+    -73.374053,
+    40.687167
+],
   "geometry": {"coordinates":[-73.374053,40.687167],"type":"Point"}
 }

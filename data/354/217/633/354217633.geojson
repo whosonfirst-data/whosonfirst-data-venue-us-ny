@@ -2,13 +2,14 @@
   "id": 354217633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.077092,40.820011,-73.077092,40.820011",
     "geom:latitude":40.820011,
     "geom:longitude":-73.077092,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Halfcircle Dr",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"ecbb012601effd520d92a2f076766737",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":354217633
         }
     ],
     "wof:id":354217633,
-    "wof:lastmodified":1449067576,
+    "wof:lastmodified":1454131279,
     "wof:name":"Greco Drywall",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.077092,40.820011,-73.077092,40.820011],
-  "geometry": {"coordinates":[-73.077092,40.820011],"type":"Point"}
+  "bbox": [
+    -73.077092,
+    40.820011,
+    -73.077092,
+    40.820011
+],
+  "geometry": {"coordinates":[-73.07709199999999,40.820011],"type":"Point"}
 }

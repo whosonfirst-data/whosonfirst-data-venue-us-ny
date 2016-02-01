@@ -2,13 +2,14 @@
   "id": 320492947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.032403,41.167633,-74.032403,41.167633",
     "geom:latitude":41.167633,
     "geom:longitude":-74.032403,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 Medical Park Dr",
     "sg:city":"Pomona",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529791,
+        102191575,
+        404523097,
         85633793,
+        85978543,
+        102082385,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"684eb38c43cf8ee168ba54c8dbab3f89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082385,
+            "localadmin_id":404523097,
+            "locality_id":85978543,
+            "neighbourhood_id":420529791,
             "region_id":85688543,
             "venue_id":320492947
         }
     ],
     "wof:id":320492947,
-    "wof:lastmodified":1449011258,
+    "wof:lastmodified":1454124762,
     "wof:name":"Bowman Builders Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529791,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.032403,41.167633,-74.032403,41.167633],
+  "bbox": [
+    -74.032403,
+    41.167633,
+    -74.032403,
+    41.167633
+],
   "geometry": {"coordinates":[-74.032403,41.167633],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371027085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.837416,40.913248,-73.837416,40.913248",
     "geom:latitude":40.913248,
     "geom:longitude":-73.837416,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"86 Gramatan Ave",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"af10b412e6cb7e169b55fc37b6a3c850",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":371027085
         }
     ],
     "wof:id":371027085,
-    "wof:lastmodified":1449049228,
+    "wof:lastmodified":1454129080,
     "wof:name":"LA Nor Travel Agency",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "bureau"
     ]
 },
-  "bbox": [-73.837416,40.913248,-73.837416,40.913248],
+  "bbox": [
+    -73.837416,
+    40.913248,
+    -73.837416,
+    40.913248
+],
   "geometry": {"coordinates":[-73.837416,40.913248],"type":"Point"}
 }

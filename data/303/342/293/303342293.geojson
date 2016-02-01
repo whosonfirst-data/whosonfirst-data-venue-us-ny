@@ -2,13 +2,14 @@
   "id": 303342293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.694154,40.842309,-73.694154,40.842309",
     "geom:latitude":40.842309,
     "geom:longitude":-73.694154,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"102 Harbor Rd",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85842853,
+        102191575,
+        404522729,
         85633793,
         85979185,
         102082371,
-        85842853
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"091806b445f7a797713fd7e91cc9a96b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979185,
             "neighbourhood_id":85842853,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303342293,
-    "wof:lastmodified":1449000390,
+    "wof:lastmodified":1454123677,
     "wof:name":"Spectrum Conditioning Systems",
     "wof:parent_id":85842853,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "facility"
     ]
 },
-  "bbox": [-73.694154,40.842309,-73.694154,40.842309],
+  "bbox": [
+    -73.694154,
+    40.842309,
+    -73.694154,
+    40.842309
+],
   "geometry": {"coordinates":[-73.694154,40.842309],"type":"Point"}
 }

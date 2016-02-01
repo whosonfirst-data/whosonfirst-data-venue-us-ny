@@ -2,13 +2,14 @@
   "id": 370601943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.00697,40.741628,-74.00697,40.741628",
     "geom:latitude":40.741628,
     "geom:longitude":-74.00697,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"860 Washington St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869463,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"af09bfa706366589aab1e27440e23434",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85869463,
             "region_id":85688543,
             "venue_id":370601943
         }
     ],
     "wof:id":370601943,
-    "wof:lastmodified":1449030608,
+    "wof:lastmodified":1454127761,
     "wof:name":"Atlas Meats Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869463,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "fresh"
     ]
 },
-  "bbox": [-74.00697,40.741628,-74.00697,40.741628],
+  "bbox": [
+    -74.00697,
+    40.741628,
+    -74.00697,
+    40.741628
+],
   "geometry": {"coordinates":[-74.00697,40.741628],"type":"Point"}
 }

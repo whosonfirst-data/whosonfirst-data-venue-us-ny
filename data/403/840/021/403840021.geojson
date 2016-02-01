@@ -2,13 +2,14 @@
   "id": 403840021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.021605,41.133727,-74.021605,41.133727",
     "geom:latitude":41.133727,
     "geom:longitude":-74.021605,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"175 W Clarkstown Rd",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     "sg:website":"www.championdaycamp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85838845,
+        102191575,
+        404523091,
         85633793,
-        85979971,
-        102082385
+        85979991,
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"b23c155292d75201c27571a2ccfb1b0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979971,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523091,
+            "locality_id":85979991,
+            "neighbourhood_id":85838845,
             "region_id":85688543,
             "venue_id":403840021
         }
     ],
     "wof:id":403840021,
-    "wof:lastmodified":1449055668,
+    "wof:lastmodified":1454129470,
     "wof:name":"Champion Day Camp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85838845,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "camp"
     ]
 },
-  "bbox": [-74.021605,41.133727,-74.021605,41.133727],
-  "geometry": {"coordinates":[-74.021605,41.133727],"type":"Point"}
+  "bbox": [
+    -74.021605,
+    41.133727,
+    -74.021605,
+    41.133727
+],
+  "geometry": {"coordinates":[-74.02160499999999,41.133727],"type":"Point"}
 }

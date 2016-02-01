@@ -2,13 +2,14 @@
   "id": 336890379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.886161,40.866171,-73.886161,40.866171",
     "geom:latitude":40.866171,
     "geom:longitude":-73.886161,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"388 E 198th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819763,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85819763
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"500581334261c54157534c9eb9d1f62d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819763,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":336890379,
-    "wof:lastmodified":1448997191,
+    "wof:lastmodified":1454122459,
     "wof:name":"Sternbach Service Corp",
     "wof:parent_id":85819763,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "laundry"
     ]
 },
-  "bbox": [-73.886161,40.866171,-73.886161,40.866171],
+  "bbox": [
+    -73.886161,
+    40.866171,
+    -73.886161,
+    40.866171
+],
   "geometry": {"coordinates":[-73.886161,40.866171],"type":"Point"}
 }

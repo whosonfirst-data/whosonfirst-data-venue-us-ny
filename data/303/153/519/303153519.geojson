@@ -2,13 +2,14 @@
   "id": 303153519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.59765,40.638901,-73.59765,40.638901",
     "geom:latitude":40.638901,
     "geom:longitude":-73.59765,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"123 Cary Pl",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892857,
+        102191575,
+        404521473,
         85633793,
         85977679,
         102082371,
-        85892857
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"4b4ec3076f7519cf4ab9745651a0231a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977679,
             "neighbourhood_id":85892857,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":303153519,
-    "wof:lastmodified":1448999802,
+    "wof:lastmodified":1454123513,
     "wof:name":"Burger Iron Works Inc",
     "wof:parent_id":85892857,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "ironwork"
     ]
 },
-  "bbox": [-73.59765,40.638901,-73.59765,40.638901],
+  "bbox": [
+    -73.59765,
+    40.638901,
+    -73.59765,
+    40.638901
+],
   "geometry": {"coordinates":[-73.59765,40.638901],"type":"Point"}
 }

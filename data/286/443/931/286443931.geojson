@@ -2,13 +2,14 @@
   "id": 286443931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.135129,43.052077,-76.135129,43.052077",
     "geom:latitude":43.052077,
     "geom:longitude":-76.135129,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"660 Burnet Ave",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     "sg:website":"www.raulliandsons.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881253,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881253
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"f5774cbbec04a29c0ceeb7af5f00fec9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881253,
             "region_id":85688543,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":286443931,
-    "wof:lastmodified":1449017580,
+    "wof:lastmodified":1454125821,
     "wof:name":"Raulli & Sons Inc",
     "wof:parent_id":85881253,
     "wof:placetype":"venue",
@@ -79,6 +83,11 @@
         "furnace"
     ]
 },
-  "bbox": [-76.135129,43.052077,-76.135129,43.052077],
-  "geometry": {"coordinates":[-76.135129,43.052077],"type":"Point"}
+  "bbox": [
+    -76.135129,
+    43.052077,
+    -76.135129,
+    43.052077
+],
+  "geometry": {"coordinates":[-76.13512900000001,43.052077],"type":"Point"}
 }

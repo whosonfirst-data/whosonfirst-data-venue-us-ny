@@ -2,13 +2,14 @@
   "id": 253167043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.035349,41.140597,-74.035349,41.140597",
     "geom:latitude":41.140597,
     "geom:longitude":-74.035349,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"755 State Hwy 45",
     "sg:city":"Spring Valley",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"db3b0ada20c5544c22c12468546d6bcd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":253167043
         }
     ],
     "wof:id":253167043,
-    "wof:lastmodified":1449064360,
+    "wof:lastmodified":1454130503,
     "wof:name":"Suburban Nursery",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "nurseryman"
     ]
 },
-  "bbox": [-74.035349,41.140597,-74.035349,41.140597],
+  "bbox": [
+    -74.035349,
+    41.140597,
+    -74.035349,
+    41.140597
+],
   "geometry": {"coordinates":[-74.035349,41.140597],"type":"Point"}
 }

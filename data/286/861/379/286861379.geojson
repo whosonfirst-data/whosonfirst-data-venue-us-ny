@@ -2,13 +2,14 @@
   "id": 286861379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.965101,40.772009,-73.965101,40.772009",
     "geom:latitude":40.772009,
     "geom:longitude":-73.965101,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"899 Madison Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865691,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865691
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"d663cc1391239d57e47346c18565fbda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865691,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":286861379,
-    "wof:lastmodified":1449018063,
+    "wof:lastmodified":1454125907,
     "wof:name":"Harumi Optique",
     "wof:parent_id":85865691,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-73.965101,40.772009,-73.965101,40.772009],
+  "bbox": [
+    -73.965101,
+    40.772009,
+    -73.965101,
+    40.772009
+],
   "geometry": {"coordinates":[-73.965101,40.772009],"type":"Point"}
 }

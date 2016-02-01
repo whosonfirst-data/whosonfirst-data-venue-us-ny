@@ -2,13 +2,14 @@
   "id": 253059013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.885927,40.844129,-73.885927,40.844129",
     "geom:latitude":40.844129,
     "geom:longitude":-73.885927,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2016 Marmion Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528057,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"f0de91fa9afaa4472ec53dad33832b85",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528057,
             "region_id":85688543,
             "venue_id":253059013
         }
     ],
     "wof:id":253059013,
-    "wof:lastmodified":1449063626,
+    "wof:lastmodified":1454130379,
     "wof:name":"Tabitas Hair Braiding",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.885927,40.844129,-73.885927,40.844129],
+  "bbox": [
+    -73.885927,
+    40.844129,
+    -73.885927,
+    40.844129
+],
   "geometry": {"coordinates":[-73.885927,40.844129],"type":"Point"}
 }

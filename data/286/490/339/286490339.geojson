@@ -2,13 +2,14 @@
   "id": 286490339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.99828,41.182025,-73.99828,41.182025",
     "geom:latitude":41.182025,
     "geom:longitude":-73.99828,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Woodhaven Dr",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529785,
+        102191575,
+        404523091,
         85633793,
         85979971,
-        102082385
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"775f9762355543c5d5b22056db71bf73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523091,
             "locality_id":85979971,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529785,
             "region_id":85688543,
             "venue_id":286490339
         }
     ],
     "wof:id":286490339,
-    "wof:lastmodified":1449017792,
+    "wof:lastmodified":1454125860,
     "wof:name":"WLH Interiors",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529785,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "decorator"
     ]
 },
-  "bbox": [-73.99828,41.182025,-73.99828,41.182025],
-  "geometry": {"coordinates":[-73.99828,41.182025],"type":"Point"}
+  "bbox": [
+    -73.99828,
+    41.182025,
+    -73.99828,
+    41.182025
+],
+  "geometry": {"coordinates":[-73.99827999999999,41.182025],"type":"Point"}
 }

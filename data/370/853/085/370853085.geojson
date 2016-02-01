@@ -2,13 +2,14 @@
   "id": 370853085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.941291,44.030727,-75.941291,44.030727",
     "geom:latitude":44.030727,
     "geom:longitude":-75.941291,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25179 County Route 53",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826571,
+        102191575,
+        404521927,
         85633793,
-        85978073,
+        85979489,
         102082357,
-        85826571
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"c113cb91b44b880b3fd62a16a6c6b849",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082357,
-            "locality_id":85978073,
+            "localadmin_id":404521927,
+            "locality_id":85979489,
             "neighbourhood_id":85826571,
             "region_id":85688543,
             "venue_id":370853085
         }
     ],
     "wof:id":370853085,
-    "wof:lastmodified":1449030450,
+    "wof:lastmodified":1454127714,
     "wof:name":"S Call & Sons",
     "wof:parent_id":85826571,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-75.941291,44.030727,-75.941291,44.030727],
-  "geometry": {"coordinates":[-75.941291,44.030727],"type":"Point"}
+  "bbox": [
+    -75.941291,
+    44.030727,
+    -75.941291,
+    44.030727
+],
+  "geometry": {"coordinates":[-75.94129100000001,44.030727],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169829825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.961121,40.708774,-73.961121,40.708774",
     "geom:latitude":40.708774,
     "geom:longitude":-73.961121,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"320 Robeling St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.brooklynsanitation.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865603,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865603
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"78b4a0a773b31ae579f880a9fb2898bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865603,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":169829825,
-    "wof:lastmodified":1449035742,
+    "wof:lastmodified":1454128439,
     "wof:name":"Brooklyn Sanitation",
     "wof:parent_id":85865603,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "removal"
     ]
 },
-  "bbox": [-73.961121,40.708774,-73.961121,40.708774],
-  "geometry": {"coordinates":[-73.961121,40.708774],"type":"Point"}
+  "bbox": [
+    -73.961121,
+    40.708774,
+    -73.961121,
+    40.708774
+],
+  "geometry": {"coordinates":[-73.96112100000001,40.708774],"type":"Point"}
 }

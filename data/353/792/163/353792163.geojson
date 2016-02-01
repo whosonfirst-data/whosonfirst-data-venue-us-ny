@@ -2,13 +2,14 @@
   "id": 353792163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.132794,41.122,-74.132794,41.122",
     "geom:latitude":41.122,
     "geom:longitude":-74.132794,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"532 Kensico Ct",
     "sg:city":"Suffern",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529777,
+        102191575,
+        404523097,
         85633793,
-        85978523,
-        102082385
+        85978545,
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"cd862376b88ba2ca473e9be407ae7692",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85978523,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523097,
+            "locality_id":85978545,
+            "neighbourhood_id":420529777,
             "region_id":85688543,
             "venue_id":353792163
         }
     ],
     "wof:id":353792163,
-    "wof:lastmodified":1449018813,
+    "wof:lastmodified":1454126111,
     "wof:name":"J G Financial Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529777,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-74.132794,41.122,-74.132794,41.122],
+  "bbox": [
+    -74.132794,
+    41.122,
+    -74.132794,
+    41.122
+],
   "geometry": {"coordinates":[-74.132794,41.122],"type":"Point"}
 }

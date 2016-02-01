@@ -2,13 +2,14 @@
   "id": 253369673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.853225,42.923029,-78.853225,42.923029",
     "geom:latitude":42.923029,
     "geom:longitude":-78.853225,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"90 Hedley Pl",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528543,
+        102191575,
+        404522329,
         85633793,
         85978023,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"71c66f4dbaeff7194336e8b35fe2b284",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528543,
             "region_id":85688543,
             "venue_id":253369673
         }
     ],
     "wof:id":253369673,
-    "wof:lastmodified":1449065648,
+    "wof:lastmodified":1454130720,
     "wof:name":"University Apts",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528543,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "apartment"
     ]
 },
-  "bbox": [-78.853225,42.923029,-78.853225,42.923029],
-  "geometry": {"coordinates":[-78.853225,42.923029],"type":"Point"}
+  "bbox": [
+    -78.853225,
+    42.923029,
+    -78.853225,
+    42.923029
+],
+  "geometry": {"coordinates":[-78.85322499999999,42.923029],"type":"Point"}
 }

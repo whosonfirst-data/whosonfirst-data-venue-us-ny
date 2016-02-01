@@ -2,13 +2,14 @@
   "id": 354094269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.527169,40.682729,-73.527169,40.682729",
     "geom:latitude":40.682729,
     "geom:longitude":-73.527169,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2822 Robert Ln",
     "sg:city":"North Bellmore",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893061,
+        102191575,
+        404521473,
         85633793,
-        85979065,
+        85979059,
         102082371,
-        85893061
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"cda6cba740a3b6176f5485867c312545",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979065,
+            "localadmin_id":404521473,
+            "locality_id":85979059,
             "neighbourhood_id":85893061,
             "region_id":85688543,
             "venue_id":354094269
         }
     ],
     "wof:id":354094269,
-    "wof:lastmodified":1449067022,
+    "wof:lastmodified":1454131104,
     "wof:name":"Rockville Design",
     "wof:parent_id":85893061,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.527169,40.682729,-73.527169,40.682729],
+  "bbox": [
+    -73.527169,
+    40.682729,
+    -73.527169,
+    40.682729
+],
   "geometry": {"coordinates":[-73.527169,40.682729],"type":"Point"}
 }

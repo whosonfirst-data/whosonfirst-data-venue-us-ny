@@ -2,13 +2,14 @@
   "id": 253581499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.131081,40.616098,-74.131081,40.616098",
     "geom:latitude":40.616098,
     "geom:longitude":-74.131081,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"858 Jewett Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85856821,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"5f67520736714948e5319a87140bf8c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85856821,
             "region_id":85688543,
             "venue_id":253581499
         }
     ],
     "wof:id":253581499,
-    "wof:lastmodified":1449063431,
+    "wof:lastmodified":1454130347,
     "wof:name":"Independent Living Assn",
-    "wof:parent_id":-1,
+    "wof:parent_id":85856821,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "group"
     ]
 },
-  "bbox": [-74.131081,40.616098,-74.131081,40.616098],
-  "geometry": {"coordinates":[-74.131081,40.616098],"type":"Point"}
+  "bbox": [
+    -74.131081,
+    40.616098,
+    -74.131081,
+    40.616098
+],
+  "geometry": {"coordinates":[-74.13108099999999,40.616098],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353650093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.847092,40.688684,-73.847092,40.688684",
     "geom:latitude":40.688684,
     "geom:longitude":-73.847092,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8640 96th St",
     "sg:city":"Woodhaven",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844441,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844441
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"bec7f15c6782b6398a0499f18a3934c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844441,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":353650093,
-    "wof:lastmodified":1449019836,
+    "wof:lastmodified":1454126408,
     "wof:name":"Decade Real Estate",
     "wof:parent_id":85844441,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "broker"
     ]
 },
-  "bbox": [-73.847092,40.688684,-73.847092,40.688684],
+  "bbox": [
+    -73.847092,
+    40.688684,
+    -73.847092,
+    40.688684
+],
   "geometry": {"coordinates":[-73.847092,40.688684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370160501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.191605,40.855683,-73.191605,40.855683",
     "geom:latitude":40.855683,
     "geom:longitude":-73.191605,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"96 E Main St Branch Plaza",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853877,
+        102191575,
+        404522669,
         85633793,
-        85979919,
+        85978443,
         102082395,
-        85853877
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"f43af97ff45bc1d2b8de6dde44a55d4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
+            "localadmin_id":404522669,
+            "locality_id":85978443,
             "neighbourhood_id":85853877,
             "region_id":85688543,
             "venue_id":370160501
         }
     ],
     "wof:id":370160501,
-    "wof:lastmodified":1449031933,
+    "wof:lastmodified":1454128153,
     "wof:name":"Red Mango",
     "wof:parent_id":85853877,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-73.191605,40.855683,-73.191605,40.855683],
+  "bbox": [
+    -73.191605,
+    40.855683,
+    -73.191605,
+    40.855683
+],
   "geometry": {"coordinates":[-73.191605,40.855683],"type":"Point"}
 }

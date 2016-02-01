@@ -2,13 +2,14 @@
   "id": 270110827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.008284,40.705692,-74.008284,40.705692",
     "geom:latitude":40.705692,
     "geom:longitude":-74.008284,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"67 Wall St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865711,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865711
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"b143b15a01dab6786059105eb88cdf6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865711,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":270110827,
-    "wof:lastmodified":1449009437,
+    "wof:lastmodified":1454124483,
     "wof:name":"First Executive",
     "wof:parent_id":85865711,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-74.008284,40.705692,-74.008284,40.705692],
+  "bbox": [
+    -74.008284,
+    40.705692,
+    -74.008284,
+    40.705692
+],
   "geometry": {"coordinates":[-74.008284,40.705692],"type":"Point"}
 }

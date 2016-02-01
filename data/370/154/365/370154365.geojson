@@ -2,13 +2,14 @@
   "id": 370154365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.99526,40.717528,-73.99526,40.717528",
     "geom:latitude":40.717528,
     "geom:longitude":-73.99526,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"116 Bowery",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.northfork.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810885,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810885
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"f9d34b3e9d0c593c59b0fd3502aa43c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810885,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":370154365,
-    "wof:lastmodified":1449032519,
+    "wof:lastmodified":1454128328,
     "wof:name":"North Fork Bank",
     "wof:parent_id":85810885,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.99526,40.717528,-73.99526,40.717528],
+  "bbox": [
+    -73.99526,
+    40.717528,
+    -73.99526,
+    40.717528
+],
   "geometry": {"coordinates":[-73.99526,40.717528],"type":"Point"}
 }

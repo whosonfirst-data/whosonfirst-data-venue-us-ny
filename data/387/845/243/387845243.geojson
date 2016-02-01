@@ -2,13 +2,14 @@
   "id": 387845243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.977195,42.120159,-75.977195,42.120159",
     "geom:latitude":42.120159,
     "geom:longitude":-75.977195,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"130 Oakdale Rd",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -37,10 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857073,
+        102191575,
+        404521829,
         85633793,
+        85977983,
         102081755,
-        85857073
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +54,18 @@
     "wof:geomhash":"85ef6646ccc5769afe5063f2d16bf8ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
-            "locality_id":-1,
+            "localadmin_id":404521829,
+            "locality_id":85977983,
             "neighbourhood_id":85857073,
             "region_id":85688543,
             "venue_id":387845243
         }
     ],
     "wof:id":387845243,
-    "wof:lastmodified":1449056726,
+    "wof:lastmodified":1454129637,
     "wof:name":"Klemmt Orthopaedic Services",
     "wof:parent_id":85857073,
     "wof:placetype":"venue",
@@ -75,6 +80,11 @@
         "orthopedic"
     ]
 },
-  "bbox": [-75.977195,42.120159,-75.977195,42.120159],
-  "geometry": {"coordinates":[-75.977195,42.120159],"type":"Point"}
+  "bbox": [
+    -75.977195,
+    42.120159,
+    -75.977195,
+    42.120159
+],
+  "geometry": {"coordinates":[-75.97719499999999,42.120159],"type":"Point"}
 }

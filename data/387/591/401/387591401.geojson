@@ -2,13 +2,14 @@
   "id": 387591401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.271721,40.845381,-73.271721,40.845381",
     "geom:latitude":40.845381,
     "geom:longitude":-73.271721,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1981 Jericho Tpke",
     "sg:city":"Commack",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530035,
+        102191575,
+        404522669,
         85633793,
         85979805,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"f0b15ad82c8a9786a633880107d68597",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979805,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530035,
             "region_id":85688543,
             "venue_id":387591401
         }
     ],
     "wof:id":387591401,
-    "wof:lastmodified":1449058148,
+    "wof:lastmodified":1454129894,
     "wof:name":"Top Gas of Long Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530035,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-73.271721,40.845381,-73.271721,40.845381],
+  "bbox": [
+    -73.271721,
+    40.845381,
+    -73.271721,
+    40.845381
+],
   "geometry": {"coordinates":[-73.271721,40.845381],"type":"Point"}
 }

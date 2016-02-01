@@ -2,13 +2,14 @@
   "id": 403884373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.827423,40.852875,-73.827423,40.852875",
     "geom:latitude":40.852875,
     "geom:longitude":-73.827423,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3275 Westchester Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865663,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865663
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"89e83f789d3d21abca6b6f5e16803da1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865663,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403884373,
-    "wof:lastmodified":1449055707,
+    "wof:lastmodified":1454129477,
     "wof:name":"Sunny's On The Park Bakery",
     "wof:parent_id":85865663,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "baker"
     ]
 },
-  "bbox": [-73.827423,40.852875,-73.827423,40.852875],
+  "bbox": [
+    -73.827423,
+    40.852875,
+    -73.827423,
+    40.852875
+],
   "geometry": {"coordinates":[-73.827423,40.852875],"type":"Point"}
 }

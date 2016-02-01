@@ -2,13 +2,14 @@
   "id": 387143387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.668543,41.004174,-73.668543,41.004174",
     "geom:latitude":41.004174,
     "geom:longitude":-73.668543,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"211 Irving Ave",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530431,
+        102191575,
+        404523389,
         85633793,
         85978705,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"685be31de24ec054b00e4467a01e636b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523389,
             "locality_id":85978705,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530431,
             "region_id":85688543,
             "venue_id":387143387
         }
     ],
     "wof:id":387143387,
-    "wof:lastmodified":1449059280,
+    "wof:lastmodified":1454130095,
     "wof:name":"USA Mortgage Bankers",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530431,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "real estate"
     ]
 },
-  "bbox": [-73.668543,41.004174,-73.668543,41.004174],
+  "bbox": [
+    -73.668543,
+    41.004174,
+    -73.668543,
+    41.004174
+],
   "geometry": {"coordinates":[-73.668543,41.004174],"type":"Point"}
 }

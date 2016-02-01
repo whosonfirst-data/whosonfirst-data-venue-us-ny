@@ -2,13 +2,14 @@
   "id": 270194011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.545153,40.680089,-73.545153,40.680089",
     "geom:latitude":40.680089,
     "geom:longitude":-73.545153,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1564 Dewey Ave",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529153,
+        102191575,
+        404521473,
         85633793,
-        85979059,
-        102082371
+        85979047,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"a8718bb16828f99c0abce5a7c201e611",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979059,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979047,
+            "neighbourhood_id":420529153,
             "region_id":85688543,
             "venue_id":270194011
         }
     ],
     "wof:id":270194011,
-    "wof:lastmodified":1449010731,
+    "wof:lastmodified":1454124677,
     "wof:name":"Maher Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529153,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-73.545153,40.680089,-73.545153,40.680089],
+  "bbox": [
+    -73.545153,
+    40.680089,
+    -73.545153,
+    40.680089
+],
   "geometry": {"coordinates":[-73.545153,40.680089],"type":"Point"}
 }

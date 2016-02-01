@@ -2,13 +2,14 @@
   "id": 337404347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.8125,40.792198,-73.8125,40.792198",
     "geom:latitude":40.792198,
     "geom:longitude":-73.8125,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1029 Clintonville St",
     "sg:city":"Whitestone",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857567,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85857567
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"2d37d4e4325117a1d2edf29d9366828a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85857567,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":337404347,
-    "wof:lastmodified":1449027494,
+    "wof:lastmodified":1454127086,
     "wof:name":"Crown Lighting Corp",
     "wof:parent_id":85857567,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "lighting"
     ]
 },
-  "bbox": [-73.8125,40.792198,-73.8125,40.792198],
+  "bbox": [
+    -73.8125,
+    40.792198,
+    -73.8125,
+    40.792198
+],
   "geometry": {"coordinates":[-73.8125,40.792198],"type":"Point"}
 }

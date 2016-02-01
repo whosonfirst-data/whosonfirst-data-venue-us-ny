@@ -2,13 +2,14 @@
   "id": 269727295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.011536,40.830264,-73.011536,40.830264",
     "geom:latitude":40.830264,
     "geom:longitude":-73.011536,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"34 Neil Dr",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"9fc11b732af61c85709cee8dc21ad27d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":269727295
         }
     ],
     "wof:id":269727295,
-    "wof:lastmodified":1449036501,
+    "wof:lastmodified":1454128516,
     "wof:name":"Let's Party Together",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "planning"
     ]
 },
-  "bbox": [-73.011536,40.830264,-73.011536,40.830264],
-  "geometry": {"coordinates":[-73.011536,40.830264],"type":"Point"}
+  "bbox": [
+    -73.011536,
+    40.830264,
+    -73.011536,
+    40.830264
+],
+  "geometry": {"coordinates":[-73.01153600000001,40.830264],"type":"Point"}
 }

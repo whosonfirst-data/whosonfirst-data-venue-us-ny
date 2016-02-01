@@ -2,13 +2,14 @@
   "id": 269795059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.183242,40.629024,-74.183242,40.629024",
     "geom:latitude":40.629024,
     "geom:longitude":-74.183242,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2777 Goethals Rd N",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.panynj.gov",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892943,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85892943
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"e1f444191b5f5b67f54652891f57967b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892943,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":269795059,
-    "wof:lastmodified":1449037564,
+    "wof:lastmodified":1454128673,
     "wof:name":"Port Authority",
     "wof:parent_id":85892943,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "program"
     ]
 },
-  "bbox": [-74.183242,40.629024,-74.183242,40.629024],
-  "geometry": {"coordinates":[-74.183242,40.629024],"type":"Point"}
+  "bbox": [
+    -74.183242,
+    40.629024,
+    -74.183242,
+    40.629024
+],
+  "geometry": {"coordinates":[-74.18324200000001,40.629024],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354349691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.996738,40.842443,-72.996738,40.842443",
     "geom:latitude":40.842443,
     "geom:longitude":-72.996738,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3237 Route 112 Ste 6",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"cbbe58dd39689523c5ef1462f3c992c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354349691
         }
     ],
     "wof:id":354349691,
-    "wof:lastmodified":1449066560,
+    "wof:lastmodified":1454130962,
     "wof:name":"Oscar Deli Inc",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-72.996738,40.842443,-72.996738,40.842443],
-  "geometry": {"coordinates":[-72.996738,40.842443],"type":"Point"}
+  "bbox": [
+    -72.996738,
+    40.842443,
+    -72.996738,
+    40.842443
+],
+  "geometry": {"coordinates":[-72.99673799999999,40.842443],"type":"Point"}
 }

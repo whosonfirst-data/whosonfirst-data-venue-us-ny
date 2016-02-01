@@ -2,13 +2,14 @@
   "id": 303302425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.117715,43.558069,-76.117715,43.558069",
     "geom:latitude":43.558069,
     "geom:longitude":-76.117715,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3821 US Hwy 13",
     "sg:city":"Pulaski",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.subway.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805925,
+        102191575,
+        404522871,
         85633793,
+        85978583,
         102081783,
-        85805925
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +42,18 @@
     "wof:geomhash":"14ad0066f67e103784899246b0003f20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081783,
-            "locality_id":-1,
+            "localadmin_id":404522871,
+            "locality_id":85978583,
             "neighbourhood_id":85805925,
             "region_id":85688543,
             "venue_id":303302425
         }
     ],
     "wof:id":303302425,
-    "wof:lastmodified":1448998941,
+    "wof:lastmodified":1454123278,
     "wof:name":"Subway Sandwiches & Salads",
     "wof:parent_id":85805925,
     "wof:placetype":"venue",
@@ -56,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.117715,43.558069,-76.117715,43.558069],
+  "bbox": [
+    -76.117715,
+    43.558069,
+    -76.117715,
+    43.558069
+],
   "geometry": {"coordinates":[-76.117715,43.558069],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253506747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.159779,41.011008,-72.159779,41.011008",
     "geom:latitude":41.011008,
     "geom:longitude":-72.159779,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"28 Oceanview Ave",
     "sg:city":"Manorville",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85828459,
+        102191575,
+        404521445,
         85633793,
-        85979915,
-        102082395
+        85979941,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"bbb5fd2257ce45405addf11935f42532",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979915,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521445,
+            "locality_id":85979941,
+            "neighbourhood_id":85828459,
             "region_id":85688543,
             "venue_id":253506747
         }
     ],
     "wof:id":253506747,
-    "wof:lastmodified":1449062883,
+    "wof:lastmodified":1454130252,
     "wof:name":"Dcr Trucking & Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":85828459,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-72.159779,41.011008,-72.159779,41.011008],
+  "bbox": [
+    -72.159779,
+    41.011008,
+    -72.159779,
+    41.011008
+],
   "geometry": {"coordinates":[-72.159779,41.011008],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354060269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.045982,40.74906,-73.045982,40.74906",
     "geom:latitude":40.74906,
     "geom:longitude":-73.045982,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"940 Montauk Hwy",
     "sg:city":"Bayport",
     "sg:classifiers":[
@@ -39,11 +40,13 @@
     "sg:website":"http://www.bayportflowers.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840885,
+        102191575,
+        404521441,
         85633793,
         85978461,
         102082395,
-        85840885
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"bccea28ea19481c367ab9c44ca98119d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85978461,
             "neighbourhood_id":85840885,
             "region_id":85688543,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":354060269,
-    "wof:lastmodified":1449067510,
+    "wof:lastmodified":1454131257,
     "wof:name":"Bayport Flower Houses",
     "wof:parent_id":85840885,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "nurseries-plants"
     ]
 },
-  "bbox": [-73.045982,40.74906,-73.045982,40.74906],
+  "bbox": [
+    -73.045982,
+    40.74906,
+    -73.045982,
+    40.74906
+],
   "geometry": {"coordinates":[-73.045982,40.74906],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336714411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.892853,40.960183,-73.892853,40.960183",
     "geom:latitude":40.960183,
     "geom:longitude":-73.892853,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"650 Warburton Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881895,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"f014b3236d6c044dfa31bf288eddafaa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881895,
             "region_id":85688543,
             "venue_id":336714411
         }
     ],
     "wof:id":336714411,
-    "wof:lastmodified":1448997485,
+    "wof:lastmodified":1454122789,
     "wof:name":"Tass Typing & Secretarial Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881895,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "court"
     ]
 },
-  "bbox": [-73.892853,40.960183,-73.892853,40.960183],
+  "bbox": [
+    -73.892853,
+    40.960183,
+    -73.892853,
+    40.960183
+],
   "geometry": {"coordinates":[-73.892853,40.960183],"type":"Point"}
 }

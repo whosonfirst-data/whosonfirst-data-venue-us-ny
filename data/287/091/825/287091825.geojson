@@ -2,13 +2,14 @@
   "id": 287091825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.837446,40.914025,-73.837446,40.914025",
     "geom:latitude":40.914025,
     "geom:longitude":-73.837446,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"42 Gramatan Ave",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"ad65da8bf29f98645d10e3c8c273c78e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":287091825
         }
     ],
     "wof:id":287091825,
-    "wof:lastmodified":1449000736,
+    "wof:lastmodified":1454123768,
     "wof:name":"Spectrum Wireless",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "cellular"
     ]
 },
-  "bbox": [-73.837446,40.914025,-73.837446,40.914025],
+  "bbox": [
+    -73.837446,
+    40.914025,
+    -73.837446,
+    40.914025
+],
   "geometry": {"coordinates":[-73.837446,40.914025],"type":"Point"}
 }

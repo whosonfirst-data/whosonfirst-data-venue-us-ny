@@ -2,13 +2,14 @@
   "id": 371059651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.124733,40.569487,-74.124733,40.569487",
     "geom:latitude":40.569487,
     "geom:longitude":-74.124733,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 Mobile Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869625,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85869625
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"e3505e5890a7a95e42dccfaa85fe37a2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869625,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":371059651,
-    "wof:lastmodified":1449049288,
+    "wof:lastmodified":1454129094,
     "wof:name":"Richmond Pest Control",
     "wof:parent_id":85869625,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.124733,40.569487,-74.124733,40.569487],
-  "geometry": {"coordinates":[-74.124733,40.569487],"type":"Point"}
+  "bbox": [
+    -74.124733,
+    40.569487,
+    -74.124733,
+    40.569487
+],
+  "geometry": {"coordinates":[-74.12473300000001,40.569487],"type":"Point"}
 }

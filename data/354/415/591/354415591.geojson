@@ -2,13 +2,14 @@
   "id": 354415591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.516168,42.602021,-76.516168,42.602021",
     "geom:latitude":42.602021,
     "geom:longitude":-76.516168,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"185 Storm Rd",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85831679,
+        102082355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,17 @@
     "wof:geomhash":"a96cf59d7b2d5f81749fe32227a0700d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082355,
+            "neighbourhood_id":85831679,
             "region_id":85688543,
             "venue_id":354415591
         }
     ],
     "wof:id":354415591,
-    "wof:lastmodified":1449067184,
+    "wof:lastmodified":1454131157,
     "wof:name":"Edward Walker Auto",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831679,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +63,11 @@
         "painting"
     ]
 },
-  "bbox": [-76.516168,42.602021,-76.516168,42.602021],
-  "geometry": {"coordinates":[-76.516168,42.602021],"type":"Point"}
+  "bbox": [
+    -76.516168,
+    42.602021,
+    -76.516168,
+    42.602021
+],
+  "geometry": {"coordinates":[-76.51616799999999,42.602021],"type":"Point"}
 }

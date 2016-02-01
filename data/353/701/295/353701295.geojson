@@ -2,13 +2,14 @@
   "id": 353701295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.807503,40.7005,-73.807503,40.7005",
     "geom:latitude":40.7005,
     "geom:longitude":-73.807503,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9301 Sutphin Blvd",
     "sg:city":"Jamaica",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85827297,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85827297
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"738de3cece9bc03fa6d05c46f6dee64c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85827297,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353701295,
-    "wof:lastmodified":1449020285,
+    "wof:lastmodified":1454126535,
     "wof:name":"Duane Reade Drugs",
     "wof:parent_id":85827297,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "drugstore"
     ]
 },
-  "bbox": [-73.807503,40.7005,-73.807503,40.7005],
+  "bbox": [
+    -73.807503,
+    40.7005,
+    -73.807503,
+    40.7005
+],
   "geometry": {"coordinates":[-73.807503,40.7005],"type":"Point"}
 }

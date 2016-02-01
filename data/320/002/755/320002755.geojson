@@ -2,13 +2,14 @@
   "id": 320002755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.885964,40.836769,-73.885964,40.836769",
     "geom:latitude":40.836769,
     "geom:longitude":-73.885964,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"940 E 174th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869201,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869201
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"49e7f50f71254ad30f27a5a776de7956",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869201,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":320002755,
-    "wof:lastmodified":1449014290,
+    "wof:lastmodified":1454125253,
     "wof:name":"RTP Management Corp",
     "wof:parent_id":85869201,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "business"
     ]
 },
-  "bbox": [-73.885964,40.836769,-73.885964,40.836769],
+  "bbox": [
+    -73.885964,
+    40.836769,
+    -73.885964,
+    40.836769
+],
   "geometry": {"coordinates":[-73.885964,40.836769],"type":"Point"}
 }

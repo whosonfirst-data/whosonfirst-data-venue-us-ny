@@ -2,13 +2,14 @@
   "id": 253428715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.944605,41.1687,-73.944605,41.1687",
     "geom:latitude":41.1687,
     "geom:longitude":-73.944605,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"272 Old Haverstraw Rd",
     "sg:city":"Congers",
     "sg:classifiers":[
@@ -24,8 +25,11 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85980001,
+        102082385,
+        85845499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +39,28 @@
     "wof:geomhash":"92c576385b0850a7856fedd63eacd513",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082385,
+            "locality_id":85980001,
+            "neighbourhood_id":85845499,
             "region_id":85688543,
             "venue_id":253428715
         }
     ],
     "wof:id":253428715,
-    "wof:lastmodified":1449065595,
+    "wof:lastmodified":1454130709,
     "wof:name":"J Curley Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85845499,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.944605,41.1687,-73.944605,41.1687],
+  "bbox": [
+    -73.944605,
+    41.1687,
+    -73.944605,
+    41.1687
+],
   "geometry": {"coordinates":[-73.944605,41.1687],"type":"Point"}
 }

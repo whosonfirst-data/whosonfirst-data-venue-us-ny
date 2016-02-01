@@ -2,13 +2,14 @@
   "id": 370890011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.041005,42.104841,-76.041005,42.104841",
     "geom:latitude":42.104841,
     "geom:longitude":-76.041005,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"38 Arthur Ave Apt 1",
     "sg:city":"Endicott",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528067,
+        102191575,
+        404521829,
         85633793,
         85977985,
-        102081755
+        102081755,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"364145d959ae2ad0fc009ac03489495a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
+            "localadmin_id":404521829,
             "locality_id":85977985,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528067,
             "region_id":85688543,
             "venue_id":370890011
         }
     ],
     "wof:id":370890011,
-    "wof:lastmodified":1449029836,
+    "wof:lastmodified":1454127534,
     "wof:name":"Primus Realty",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528067,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-76.041005,42.104841,-76.041005,42.104841],
+  "bbox": [
+    -76.041005,
+    42.104841,
+    -76.041005,
+    42.104841
+],
   "geometry": {"coordinates":[-76.041005,42.104841],"type":"Point"}
 }

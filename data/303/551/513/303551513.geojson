@@ -2,13 +2,14 @@
   "id": 303551513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.032005,43.268947,-79.032005,43.268947",
     "geom:latitude":43.268947,
     "geom:longitude":-79.032005,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"579 Lake Rd",
     "sg:city":"Youngstown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820171,
+        102191575,
+        404522749,
         85633793,
+        85978265,
         102081767,
-        85820171
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"dc68b3f92507a43158271d70771a0166",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
-            "locality_id":-1,
+            "localadmin_id":404522749,
+            "locality_id":85978265,
             "neighbourhood_id":85820171,
             "region_id":85688543,
             "venue_id":303551513
         }
     ],
     "wof:id":303551513,
-    "wof:lastmodified":1448998606,
+    "wof:lastmodified":1454123158,
     "wof:name":"Niagara Falls Ice Pavilion",
     "wof:parent_id":85820171,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "rink"
     ]
 },
-  "bbox": [-79.032005,43.268947,-79.032005,43.268947],
+  "bbox": [
+    -79.032005,
+    43.268947,
+    -79.032005,
+    43.268947
+],
   "geometry": {"coordinates":[-79.032005,43.268947],"type":"Point"}
 }

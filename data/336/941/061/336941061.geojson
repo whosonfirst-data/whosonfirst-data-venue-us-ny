@@ -2,13 +2,14 @@
   "id": 336941061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.009162,40.710329,-74.009162,40.710329",
     "geom:latitude":40.710329,
     "geom:longitude":-74.009162,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"29 John St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865711,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865711
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"35692523ad5741b87f529607a392e9c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865711,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":336941061,
-    "wof:lastmodified":1448997583,
+    "wof:lastmodified":1454122818,
     "wof:name":"Ikon Technologies",
     "wof:parent_id":85865711,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "computer"
     ]
 },
-  "bbox": [-74.009162,40.710329,-74.009162,40.710329],
+  "bbox": [
+    -74.009162,
+    40.710329,
+    -74.009162,
+    40.710329
+],
   "geometry": {"coordinates":[-74.009162,40.710329],"type":"Point"}
 }

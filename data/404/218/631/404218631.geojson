@@ -2,13 +2,14 @@
   "id": 404218631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.192011,41.333428,-74.192011,41.333428",
     "geom:latitude":41.333428,
     "geom:longitude":-74.192011,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 State Hwy 17M",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832781,
+        102191575,
+        404522907,
         85633793,
+        85979523,
         102083061,
-        85832781
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"9f3ae7db03c1128803b8ec939b550403",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":-1,
+            "localadmin_id":404522907,
+            "locality_id":85979523,
             "neighbourhood_id":85832781,
             "region_id":85688543,
             "venue_id":404218631
         }
     ],
     "wof:id":404218631,
-    "wof:lastmodified":1449039892,
+    "wof:lastmodified":1454128913,
     "wof:name":"Bank Of New York",
     "wof:parent_id":85832781,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.192011,41.333428,-74.192011,41.333428],
-  "geometry": {"coordinates":[-74.192011,41.333428],"type":"Point"}
+  "bbox": [
+    -74.192011,
+    41.333428,
+    -74.192011,
+    41.333428
+],
+  "geometry": {"coordinates":[-74.19201099999999,41.333428],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303700515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.940854,41.647316,-73.940854,41.647316",
     "geom:latitude":41.647316,
     "geom:longitude":-73.940854,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"45 Sand Dock Rd",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85865333,
+        102191575,
+        404522309,
         85633793,
+        85979275,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"5761048b9d8dea34fe53e6112ac4bfac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522309,
+            "locality_id":85979275,
+            "neighbourhood_id":85865333,
             "region_id":85688543,
             "venue_id":303700515
         }
     ],
     "wof:id":303700515,
-    "wof:lastmodified":1449000351,
+    "wof:lastmodified":1454123667,
     "wof:name":"Arlington Treatment Plant",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865333,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "management"
     ]
 },
-  "bbox": [-73.940854,41.647316,-73.940854,41.647316],
+  "bbox": [
+    -73.940854,
+    41.647316,
+    -73.940854,
+    41.647316
+],
   "geometry": {"coordinates":[-73.940854,41.647316],"type":"Point"}
 }

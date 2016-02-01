@@ -2,13 +2,14 @@
   "id": 387008881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.810543,40.983591,-73.810543,40.983591",
     "geom:latitude":40.983591,
     "geom:longitude":-73.810543,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 Gray Rock Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530443,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"b7ed5da9877f84e20733efffa2d156b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530443,
             "region_id":85688543,
             "venue_id":387008881
         }
     ],
     "wof:id":387008881,
-    "wof:lastmodified":1449057293,
+    "wof:lastmodified":1454129740,
     "wof:name":"JBDB Car Svc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530443,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.810543,40.983591,-73.810543,40.983591],
+  "bbox": [
+    -73.810543,
+    40.983591,
+    -73.810543,
+    40.983591
+],
   "geometry": {"coordinates":[-73.810543,40.983591],"type":"Point"}
 }

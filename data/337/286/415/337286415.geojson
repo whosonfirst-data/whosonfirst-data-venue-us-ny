@@ -2,13 +2,14 @@
   "id": 337286415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.996836,40.680299,-73.996836,40.680299",
     "geom:latitude":40.680299,
     "geom:longitude":-73.996836,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"102 1st Pl",
     "sg:city":"Brooklyn",
     "sg:classifiers":[],
@@ -19,10 +20,14 @@
     "sg:website":"http://brooklyn.citysearch.com/profile/external/45429528/brooklyn_ny/the_pilates_boutique.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892915,
+        102191575,
+        102147495,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -32,24 +37,31 @@
     "wof:geomhash":"4d31d6e2dc547418c8d624195341727a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "macrohood_id":102147495,
+            "neighbourhood_id":85892915,
             "region_id":85688543,
             "venue_id":337286415
         }
     ],
     "wof:id":337286415,
-    "wof:lastmodified":1449027148,
+    "wof:lastmodified":1454126951,
     "wof:name":"The Pilates Boutique",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.996836,40.680299,-73.996836,40.680299],
+  "bbox": [
+    -73.996836,
+    40.680299,
+    -73.996836,
+    40.680299
+],
   "geometry": {"coordinates":[-73.996836,40.680299],"type":"Point"}
 }

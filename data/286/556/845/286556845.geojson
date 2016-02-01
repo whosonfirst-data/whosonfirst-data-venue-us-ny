@@ -2,13 +2,14 @@
   "id": 286556845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.480795,43.776381,-75.480795,43.776381",
     "geom:latitude":43.776381,
     "geom:longitude":-75.480795,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7388 Utica Blvd",
     "sg:city":"Lowville",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     "sg:website":"www.kraftfoods.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528889,
+        102191575,
+        404521859,
         85633793,
         85978145,
-        102085867
+        102085867,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"eb82ccedd11ab1130105f04b94305a24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085867,
+            "localadmin_id":404521859,
             "locality_id":85978145,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528889,
             "region_id":85688543,
             "venue_id":286556845
         }
     ],
     "wof:id":286556845,
-    "wof:lastmodified":1449015897,
+    "wof:lastmodified":1454125523,
     "wof:name":"Kraft Foods",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528889,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "cream"
     ]
 },
-  "bbox": [-75.480795,43.776381,-75.480795,43.776381],
+  "bbox": [
+    -75.480795,
+    43.776381,
+    -75.480795,
+    43.776381
+],
   "geometry": {"coordinates":[-75.480795,43.776381],"type":"Point"}
 }

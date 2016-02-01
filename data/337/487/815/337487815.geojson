@@ -2,13 +2,14 @@
   "id": 337487815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.874909,40.762596,-73.874909,40.762596",
     "geom:latitude":40.762596,
     "geom:longitude":-73.874909,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"94-06 Astoria Blvd",
     "sg:city":"East Elmhurst",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869091,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869091
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"1a5540ef7dfc1a00129f246fca13f8ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869091,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":337487815,
-    "wof:lastmodified":1449027210,
+    "wof:lastmodified":1454126975,
     "wof:name":"Jackson Hewitt Tax Service",
     "wof:parent_id":85869091,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "accountant"
     ]
 },
-  "bbox": [-73.874909,40.762596,-73.874909,40.762596],
+  "bbox": [
+    -73.874909,
+    40.762596,
+    -73.874909,
+    40.762596
+],
   "geometry": {"coordinates":[-73.874909,40.762596],"type":"Point"}
 }

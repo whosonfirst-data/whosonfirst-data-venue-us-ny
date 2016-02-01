@@ -2,13 +2,14 @@
   "id": 270468111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.390487,40.883829,-72.390487,40.883829",
     "geom:latitude":40.883829,
     "geom:longitude":-72.390487,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"47 Jobs Ln",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"4979b79b5aff2db553324abe3fec5ae9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":270468111
         }
     ],
     "wof:id":270468111,
-    "wof:lastmodified":1449010406,
+    "wof:lastmodified":1454124630,
     "wof:name":"Going Nuts",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.390487,40.883829,-72.390487,40.883829],
-  "geometry": {"coordinates":[-72.390487,40.883829],"type":"Point"}
+  "bbox": [
+    -72.390487,
+    40.883829,
+    -72.390487,
+    40.883829
+],
+  "geometry": {"coordinates":[-72.39048699999999,40.883829],"type":"Point"}
 }

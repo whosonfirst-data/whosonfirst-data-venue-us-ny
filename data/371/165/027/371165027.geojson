@@ -2,13 +2,14 @@
   "id": 371165027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.193741,43.246305,-78.193741,43.246305",
     "geom:latitude":43.246305,
     "geom:longitude":-78.193741,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 N Main St",
     "sg:city":"Albion",
     "sg:classifiers":[
@@ -36,10 +37,13 @@
     "sg:website":"http://www.albionagencies.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819435,
+        102191575,
+        404521525,
         85633793,
+        85978607,
         102082411,
-        85819435
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +53,18 @@
     "wof:geomhash":"b41e8a0d27d52a734ea229ab80ceb85b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082411,
-            "locality_id":-1,
+            "localadmin_id":404521525,
+            "locality_id":85978607,
             "neighbourhood_id":85819435,
             "region_id":85688543,
             "venue_id":371165027
         }
     ],
     "wof:id":371165027,
-    "wof:lastmodified":1449050143,
+    "wof:lastmodified":1454129296,
     "wof:name":"Albion Agencies Inc",
     "wof:parent_id":85819435,
     "wof:placetype":"venue",
@@ -72,6 +77,11 @@
         "business"
     ]
 },
-  "bbox": [-78.193741,43.246305,-78.193741,43.246305],
+  "bbox": [
+    -78.193741,
+    43.246305,
+    -78.193741,
+    43.246305
+],
   "geometry": {"coordinates":[-78.193741,43.246305],"type":"Point"}
 }

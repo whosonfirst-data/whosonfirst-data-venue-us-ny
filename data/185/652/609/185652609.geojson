@@ -2,13 +2,14 @@
   "id": 185652609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.984166,40.675915,-73.984166,40.675915",
     "geom:latitude":40.675915,
     "geom:longitude":-73.984166,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"274 4th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865587,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865587
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,9 +54,10 @@
     "wof:geomhash":"fe8e9be57ce41dbdbf1a3385bb526988",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865587,
             "region_id":85688543,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":185652609,
-    "wof:lastmodified":1449007638,
+    "wof:lastmodified":1454124277,
     "wof:name":"Garfield's",
     "wof:parent_id":85865587,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "venue"
     ]
 },
-  "bbox": [-73.984166,40.675915,-73.984166,40.675915],
+  "bbox": [
+    -73.984166,
+    40.675915,
+    -73.984166,
+    40.675915
+],
   "geometry": {"coordinates":[-73.984166,40.675915],"type":"Point"}
 }

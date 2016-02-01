@@ -2,13 +2,14 @@
   "id": 354305245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.5345,40.7864,-73.5345,40.7864",
     "geom:latitude":40.7864,
     "geom:longitude":-73.5345,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"441 N Broadway",
     "sg:city":"Jericho",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529157,
+        102191575,
+        404521475,
         85633793,
         85979085,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"7b74c63df0f6c85e84025ae460ef267a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979085,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529157,
             "region_id":85688543,
             "venue_id":354305245
         }
     ],
     "wof:id":354305245,
-    "wof:lastmodified":1449066194,
+    "wof:lastmodified":1454130850,
     "wof:name":"Jericho Kosher Meats Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529157,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.5345,40.7864,-73.5345,40.7864],
-  "geometry": {"coordinates":[-73.5345,40.7864],"type":"Point"}
+  "bbox": [
+    -73.5345,
+    40.7864,
+    -73.5345,
+    40.7864
+],
+  "geometry": {"coordinates":[-73.53449999999999,40.7864],"type":"Point"}
 }

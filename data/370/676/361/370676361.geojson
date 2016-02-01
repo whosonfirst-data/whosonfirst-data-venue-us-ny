@@ -2,13 +2,14 @@
   "id": 370676361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.412253,40.840393,-73.412253,40.840393",
     "geom:latitude":40.840393,
     "geom:longitude":-73.412253,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1775 New York Ave",
     "sg:city":"Huntington Station",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.liyfc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85830997,
+        102191575,
+        404522515,
         85633793,
         85979695,
         102082395,
-        85830997
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"745799b8a40e9a1e998df3f2ec14d97c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85979695,
             "neighbourhood_id":85830997,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":370676361,
-    "wof:lastmodified":1449031245,
+    "wof:lastmodified":1454127950,
     "wof:name":"Long Island Youth For Christ",
     "wof:parent_id":85830997,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "center"
     ]
 },
-  "bbox": [-73.412253,40.840393,-73.412253,40.840393],
-  "geometry": {"coordinates":[-73.412253,40.840393],"type":"Point"}
+  "bbox": [
+    -73.412253,
+    40.840393,
+    -73.412253,
+    40.840393
+],
+  "geometry": {"coordinates":[-73.41225300000001,40.840393],"type":"Point"}
 }

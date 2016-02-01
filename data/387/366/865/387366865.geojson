@@ -2,13 +2,14 @@
   "id": 387366865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.625855,40.866672,-73.625855,40.866672",
     "geom:latitude":40.866672,
     "geom:longitude":-73.625855,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 Oak Ln",
     "sg:city":"Glen Cove",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85977671,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"c34ad00d1669d1b33dfe8c35c847cc9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977671,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":387366865
         }
     ],
     "wof:id":387366865,
-    "wof:lastmodified":1449058886,
+    "wof:lastmodified":1454130025,
     "wof:name":"United Methodist Of Glen Cove",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-73.625855,40.866672,-73.625855,40.866672],
+  "bbox": [
+    -73.625855,
+    40.866672,
+    -73.625855,
+    40.866672
+],
   "geometry": {"coordinates":[-73.625855,40.866672],"type":"Point"}
 }

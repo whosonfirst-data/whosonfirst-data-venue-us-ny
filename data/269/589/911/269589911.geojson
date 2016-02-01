@@ -2,13 +2,14 @@
   "id": 269589911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.372618,40.686187,-73.372618,40.686187",
     "geom:latitude":40.686187,
     "geom:longitude":-73.372618,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"255 S Wellwood Ave",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
         85978477,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"d1c9fd11eef694138a4841e81103fa26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522513,
             "locality_id":85978477,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":269589911
         }
     ],
     "wof:id":269589911,
-    "wof:lastmodified":1449037420,
+    "wof:lastmodified":1454128654,
     "wof:name":"24 Hour Locksmith",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-73.372618,40.686187,-73.372618,40.686187],
+  "bbox": [
+    -73.372618,
+    40.686187,
+    -73.372618,
+    40.686187
+],
   "geometry": {"coordinates":[-73.372618,40.686187],"type":"Point"}
 }

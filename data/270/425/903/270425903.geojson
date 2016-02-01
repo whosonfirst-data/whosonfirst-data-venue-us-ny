@@ -2,13 +2,14 @@
   "id": 270425903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.816779,41.045801,-73.816779,41.045801",
     "geom:latitude":41.045801,
     "geom:longitude":-73.816779,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Barksdale Rd",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85893045,
+        102082373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,17 @@
     "wof:geomhash":"4effcf3c44968bb1e1d14c71194efcb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082373,
+            "neighbourhood_id":85893045,
             "region_id":85688543,
             "venue_id":270425903
         }
     ],
     "wof:id":270425903,
-    "wof:lastmodified":1449009505,
+    "wof:lastmodified":1454124494,
     "wof:name":"Caserta Consulting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893045,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-73.816779,41.045801,-73.816779,41.045801],
+  "bbox": [
+    -73.816779,
+    41.045801,
+    -73.816779,
+    41.045801
+],
   "geometry": {"coordinates":[-73.816779,41.045801],"type":"Point"}
 }

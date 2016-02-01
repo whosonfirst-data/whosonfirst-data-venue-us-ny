@@ -2,13 +2,14 @@
   "id": 353959237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.660293,40.657673,-73.660293,40.657673",
     "geom:latitude":40.657673,
     "geom:longitude":-73.660293,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"35 Rocklyn Ave",
     "sg:city":"Lynbrook",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829437,
+        102191575,
+        404521473,
         85633793,
-        85979129,
+        85979057,
         102082371,
-        85829437
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"0d07467241d37cf49bf20d7b02fa4f8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979129,
+            "localadmin_id":404521473,
+            "locality_id":85979057,
             "neighbourhood_id":85829437,
             "region_id":85688543,
             "venue_id":353959237
         }
     ],
     "wof:id":353959237,
-    "wof:lastmodified":1449020547,
+    "wof:lastmodified":1454126611,
     "wof:name":"Dave Lemanczyk's Baseball Acad",
     "wof:parent_id":85829437,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "batting"
     ]
 },
-  "bbox": [-73.660293,40.657673,-73.660293,40.657673],
+  "bbox": [
+    -73.660293,
+    40.657673,
+    -73.660293,
+    40.657673
+],
   "geometry": {"coordinates":[-73.660293,40.657673],"type":"Point"}
 }

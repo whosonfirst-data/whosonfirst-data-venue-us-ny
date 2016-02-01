@@ -2,13 +2,14 @@
   "id": 286437929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993095,40.733592,-73.993095,40.733592",
     "geom:latitude":40.733592,
     "geom:longitude":-73.993095,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"90 University Pl",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529189,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"2e3f831e5131641d984b526b4ebf6a51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529189,
             "region_id":85688543,
             "venue_id":286437929
         }
     ],
     "wof:id":286437929,
-    "wof:lastmodified":1449017310,
+    "wof:lastmodified":1454125772,
     "wof:name":"10003 Hardware Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529189,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "paint"
     ]
 },
-  "bbox": [-73.993095,40.733592,-73.993095,40.733592],
+  "bbox": [
+    -73.993095,
+    40.733592,
+    -73.993095,
+    40.733592
+],
   "geometry": {"coordinates":[-73.993095,40.733592],"type":"Point"}
 }

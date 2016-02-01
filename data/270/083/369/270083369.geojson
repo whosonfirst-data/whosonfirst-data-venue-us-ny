@@ -2,13 +2,14 @@
   "id": 270083369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.876891,42.881362,-78.876891,42.881362",
     "geom:latitude":42.881362,
     "geom:longitude":-78.876891,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"93 Pearl St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867085,
+        102191575,
+        404522329,
         85633793,
         85978023,
         102082387,
-        85867085
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f44a1c463d7950575575a3e08a2f2889",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
             "neighbourhood_id":85867085,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":270083369,
-    "wof:lastmodified":1449009800,
+    "wof:lastmodified":1454124537,
     "wof:name":"Downtown Garage",
     "wof:parent_id":85867085,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "garage"
     ]
 },
-  "bbox": [-78.876891,42.881362,-78.876891,42.881362],
+  "bbox": [
+    -78.876891,
+    42.881362,
+    -78.876891,
+    42.881362
+],
   "geometry": {"coordinates":[-78.876891,42.881362],"type":"Point"}
 }

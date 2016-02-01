@@ -2,13 +2,14 @@
   "id": 370160625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.192308,40.855525,-73.192308,40.855525",
     "geom:latitude":40.855525,
     "geom:longitude":-73.192308,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"51 E Main St Ste 1",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853877,
+        102191575,
+        404522669,
         85633793,
-        85979919,
+        85978443,
         102082395,
-        85853877
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"96cbea1d7206ea7603958ce0ee848d18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
+            "localadmin_id":404522669,
+            "locality_id":85978443,
             "neighbourhood_id":85853877,
             "region_id":85688543,
             "venue_id":370160625
         }
     ],
     "wof:id":370160625,
-    "wof:lastmodified":1449031933,
+    "wof:lastmodified":1454128153,
     "wof:name":"Long Island Tax Cut",
     "wof:parent_id":85853877,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "preparation-business"
     ]
 },
-  "bbox": [-73.192308,40.855525,-73.192308,40.855525],
+  "bbox": [
+    -73.192308,
+    40.855525,
+    -73.192308,
+    40.855525
+],
   "geometry": {"coordinates":[-73.192308,40.855525],"type":"Point"}
 }

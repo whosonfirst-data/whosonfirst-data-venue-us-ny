@@ -2,13 +2,14 @@
   "id": 370352555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.388512,40.894902,-72.388512,40.894902",
     "geom:latitude":40.894902,
     "geom:longitude":-72.388512,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"280 Elm St Ste 100",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -54,11 +55,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,17 +71,18 @@
     "wof:geomhash":"91fa053f238918fab8e6ceafbbd26327",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":370352555
         }
     ],
     "wof:id":370352555,
-    "wof:lastmodified":1449031167,
+    "wof:lastmodified":1454127927,
     "wof:name":"Hhcm Design Associates, Inc",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -100,6 +104,11 @@
         "specification"
     ]
 },
-  "bbox": [-72.388512,40.894902,-72.388512,40.894902],
-  "geometry": {"coordinates":[-72.388512,40.894902],"type":"Point"}
+  "bbox": [
+    -72.388512,
+    40.894902,
+    -72.388512,
+    40.894902
+],
+  "geometry": {"coordinates":[-72.38851200000001,40.894902],"type":"Point"}
 }

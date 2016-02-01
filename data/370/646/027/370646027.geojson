@@ -2,13 +2,14 @@
   "id": 370646027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.808885,40.928765,-73.808885,40.928765",
     "geom:latitude":40.928765,
     "geom:longitude":-73.808885,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"495 New Rochelle Rd",
     "sg:city":"Bronxville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892799,
+        102191575,
+        404523383,
         85633793,
-        85978721,
+        85978711,
         102082373,
-        85892799
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"a6759ef48bdcedbb05850c5377f9fcae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978721,
+            "localadmin_id":404523383,
+            "locality_id":85978711,
             "neighbourhood_id":85892799,
             "region_id":85688543,
             "venue_id":370646027
         }
     ],
     "wof:id":370646027,
-    "wof:lastmodified":1449028981,
+    "wof:lastmodified":1454127285,
     "wof:name":"Cad Development Corp",
     "wof:parent_id":85892799,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.808885,40.928765,-73.808885,40.928765],
+  "bbox": [
+    -73.808885,
+    40.928765,
+    -73.808885,
+    40.928765
+],
   "geometry": {"coordinates":[-73.808885,40.928765],"type":"Point"}
 }

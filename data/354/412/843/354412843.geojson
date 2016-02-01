@@ -2,13 +2,14 @@
   "id": 354412843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.157591,40.880789,-73.157591,40.880789",
     "geom:latitude":40.880789,
     "geom:longitude":-73.157591,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"412 Lake Ave",
     "sg:city":"Saint James",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.longislandfenceco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893017,
+        102191575,
+        404522669,
         85633793,
-        85979773,
+        85979839,
         102082395,
-        85893017
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"c6be934b359e1826aefff8406eec7b79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522669,
+            "locality_id":85979839,
             "neighbourhood_id":85893017,
             "region_id":85688543,
             "venue_id":354412843
         }
     ],
     "wof:id":354412843,
-    "wof:lastmodified":1449066275,
+    "wof:lastmodified":1454130875,
     "wof:name":"Lighthouse Fence",
     "wof:parent_id":85893017,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.157591,40.880789,-73.157591,40.880789],
+  "bbox": [
+    -73.157591,
+    40.880789,
+    -73.157591,
+    40.880789
+],
   "geometry": {"coordinates":[-73.157591,40.880789],"type":"Point"}
 }

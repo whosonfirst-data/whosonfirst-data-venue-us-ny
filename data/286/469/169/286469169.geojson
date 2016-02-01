@@ -2,13 +2,14 @@
   "id": 286469169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.123614,40.629844,-74.123614,40.629844",
     "geom:latitude":40.629844,
     "geom:longitude":-74.123614,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"417 Clove Rd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865885,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"f2b002c5b6b400e79862be0250ced083",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85865885,
             "region_id":85688543,
             "venue_id":286469169
         }
     ],
     "wof:id":286469169,
-    "wof:lastmodified":1449018168,
+    "wof:lastmodified":1454125928,
     "wof:name":"Berton Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865885,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-74.123614,40.629844,-74.123614,40.629844],
+  "bbox": [
+    -74.123614,
+    40.629844,
+    -74.123614,
+    40.629844
+],
   "geometry": {"coordinates":[-74.123614,40.629844],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387267567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.206898,40.541292,-74.206898,40.541292",
     "geom:latitude":40.541292,
     "geom:longitude":-74.206898,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"593 Foster Rd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85858925,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85858925
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"6a719b4d4e5f83eaa01937378388ab19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85858925,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387267567,
-    "wof:lastmodified":1449059575,
+    "wof:lastmodified":1454130149,
     "wof:name":"Mechanical Maintenance & Svc",
     "wof:parent_id":85858925,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.206898,40.541292,-74.206898,40.541292],
+  "bbox": [
+    -74.206898,
+    40.541292,
+    -74.206898,
+    40.541292
+],
   "geometry": {"coordinates":[-74.206898,40.541292],"type":"Point"}
 }

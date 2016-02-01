@@ -2,13 +2,14 @@
   "id": 253604001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.959753,40.817931,-73.959753,40.817931",
     "geom:latitude":40.817931,
     "geom:longitude":-73.959753,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"625 W 130th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867075,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85867075
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"4a1ced57b253943396cd71590a531cd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85867075,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":253604001,
-    "wof:lastmodified":1449065431,
+    "wof:lastmodified":1454130683,
     "wof:name":"Skyline Windows LLC",
     "wof:parent_id":85867075,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.959753,40.817931,-73.959753,40.817931],
-  "geometry": {"coordinates":[-73.959753,40.817931],"type":"Point"}
+  "bbox": [
+    -73.959753,
+    40.817931,
+    -73.959753,
+    40.817931
+],
+  "geometry": {"coordinates":[-73.95975300000001,40.817931],"type":"Point"}
 }

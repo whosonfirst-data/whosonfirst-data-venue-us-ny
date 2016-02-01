@@ -2,13 +2,14 @@
   "id": 303660583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.749768,40.992215,-73.749768,40.992215",
     "geom:latitude":40.992215,
     "geom:longitude":-73.749768,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Saxon Woods Park Dr",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420560041,
+        102191575,
+        404523395,
         85633793,
         85978761,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"1fbc26ba448c6b4713ac6604ad6a9d69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523395,
             "locality_id":85978761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420560041,
             "region_id":85688543,
             "venue_id":303660583
         }
     ],
     "wof:id":303660583,
-    "wof:lastmodified":1449000315,
+    "wof:lastmodified":1454123655,
     "wof:name":"Bread Factory LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420560041,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.749768,40.992215,-73.749768,40.992215],
+  "bbox": [
+    -73.749768,
+    40.992215,
+    -73.749768,
+    40.992215
+],
   "geometry": {"coordinates":[-73.749768,40.992215],"type":"Point"}
 }

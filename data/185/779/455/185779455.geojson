@@ -2,13 +2,14 @@
   "id": 185779455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.999001,40.625099,-73.999001,40.625099",
     "geom:latitude":40.625099,
     "geom:longitude":-73.999001,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6406 14th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"aa12c0fe013452a9fdcce8f1e6f14290",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":185779455
         }
     ],
     "wof:id":185779455,
-    "wof:lastmodified":1449006859,
+    "wof:lastmodified":1454124175,
     "wof:name":"Lucy Deli & Grocery",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.999001,40.625099,-73.999001,40.625099],
-  "geometry": {"coordinates":[-73.999001,40.625099],"type":"Point"}
+  "bbox": [
+    -73.999001,
+    40.625099,
+    -73.999001,
+    40.625099
+],
+  "geometry": {"coordinates":[-73.99900100000001,40.625099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403767451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.367221,40.887146,-73.367221,40.887146",
     "geom:latitude":40.887146,
     "geom:longitude":-73.367221,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9 Park Cir",
     "sg:city":"Centerport",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.centerportfd.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826545,
+        102191575,
+        404522515,
         85633793,
-        85979823,
+        85978425,
         102082395,
-        85826545
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"faf47e7c09b3f2fd24c3f5569a8bc10f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979823,
+            "localadmin_id":404522515,
+            "locality_id":85978425,
             "neighbourhood_id":85826545,
             "region_id":85688543,
             "venue_id":403767451
         }
     ],
     "wof:id":403767451,
-    "wof:lastmodified":1449055028,
+    "wof:lastmodified":1454129380,
     "wof:name":"Centerport Fire Dept",
     "wof:parent_id":85826545,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "department"
     ]
 },
-  "bbox": [-73.367221,40.887146,-73.367221,40.887146],
+  "bbox": [
+    -73.367221,
+    40.887146,
+    -73.367221,
+    40.887146
+],
   "geometry": {"coordinates":[-73.367221,40.887146],"type":"Point"}
 }

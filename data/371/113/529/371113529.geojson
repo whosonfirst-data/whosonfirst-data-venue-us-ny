@@ -2,13 +2,14 @@
   "id": 371113529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.848518,42.820831,-78.848518,42.820831",
     "geom:latitude":42.820831,
     "geom:longitude":-78.848518,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2300 Hamburg Tpke",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -46,11 +47,13 @@
     "sg:website":"http://www.parkavenuewholesale.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872909,
+        102191575,
+        404522349,
         85633793,
         85978009,
         102082387,
-        85872909
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,9 +63,10 @@
     "wof:geomhash":"039ae556f5d948e90fe74a73193cb434",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522349,
             "locality_id":85978009,
             "neighbourhood_id":85872909,
             "region_id":85688543,
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":371113529,
-    "wof:lastmodified":1449050045,
+    "wof:lastmodified":1454129274,
     "wof:name":"Park Ave Wholesale",
     "wof:parent_id":85872909,
     "wof:placetype":"venue",
@@ -88,6 +92,11 @@
         "jackets-wholesale"
     ]
 },
-  "bbox": [-78.848518,42.820831,-78.848518,42.820831],
+  "bbox": [
+    -78.848518,
+    42.820831,
+    -78.848518,
+    42.820831
+],
   "geometry": {"coordinates":[-78.848518,42.820831],"type":"Point"}
 }

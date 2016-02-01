@@ -2,13 +2,14 @@
   "id": 185826283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.017256,40.641576,-74.017256,40.641576",
     "geom:latitude":40.641576,
     "geom:longitude":-74.017256,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5811 4th Avenue",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -47,11 +48,13 @@
     "sg:website":"http://www.lovemybagels.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851575,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85851575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,9 +64,10 @@
     "wof:geomhash":"bd922beed50d8d345d79b3c2a502a5d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85851575,
             "region_id":85688543,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":185826283,
-    "wof:lastmodified":1449007760,
+    "wof:lastmodified":1454124295,
     "wof:name":"Love My Bagels",
     "wof:parent_id":85851575,
     "wof:placetype":"venue",
@@ -85,6 +89,11 @@
         "caterer"
     ]
 },
-  "bbox": [-74.017256,40.641576,-74.017256,40.641576],
+  "bbox": [
+    -74.017256,
+    40.641576,
+    -74.017256,
+    40.641576
+],
   "geometry": {"coordinates":[-74.017256,40.641576],"type":"Point"}
 }

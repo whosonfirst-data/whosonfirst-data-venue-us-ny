@@ -2,13 +2,14 @@
   "id": 337298051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.938692,40.618561,-73.938692,40.618561",
     "geom:latitude":40.618561,
     "geom:longitude":-73.938692,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1519 E 38th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -45,10 +46,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558701,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,19 +62,20 @@
     "wof:geomhash":"48c5f0415d687826fb84ce3b4e293d70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558701,
             "region_id":85688543,
             "venue_id":337298051
         }
     ],
     "wof:id":337298051,
-    "wof:lastmodified":1449027156,
+    "wof:lastmodified":1454126953,
     "wof:name":"Dynasty Chimney & Boiler",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -81,6 +86,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.938692,40.618561,-73.938692,40.618561],
+  "bbox": [
+    -73.938692,
+    40.618561,
+    -73.938692,
+    40.618561
+],
   "geometry": {"coordinates":[-73.938692,40.618561],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304038551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.805775,42.852138,-78.805775,42.852138",
     "geom:latitude":42.852138,
     "geom:longitude":-78.805775,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2234 Seneca St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528553,
+        102191575,
+        404522269,
         85633793,
-        85978023,
-        102082387
+        85979415,
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"89e70fea5f4bb0b5631ecc6bbb62496e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":85978023,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522269,
+            "locality_id":85979415,
+            "neighbourhood_id":420528553,
             "region_id":85688543,
             "venue_id":304038551
         }
     ],
     "wof:id":304038551,
-    "wof:lastmodified":1449043976,
+    "wof:lastmodified":1454129018,
     "wof:name":"Hsbc Bank USA National Assn",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528553,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.805775,42.852138,-78.805775,42.852138],
+  "bbox": [
+    -78.805775,
+    42.852138,
+    -78.805775,
+    42.852138
+],
   "geometry": {"coordinates":[-78.805775,42.852138],"type":"Point"}
 }

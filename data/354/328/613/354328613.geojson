@@ -2,13 +2,14 @@
   "id": 354328613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.982087,40.757208,-73.982087,40.757208",
     "geom:latitude":40.757208,
     "geom:longitude":-73.982087,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 W 46 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869487,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85869487
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"3e8ded50934ac201bc7816e9bd02918b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869487,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":354328613,
-    "wof:lastmodified":1449066944,
+    "wof:lastmodified":1454131082,
     "wof:name":"Diam Trade Corp",
     "wof:parent_id":85869487,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.982087,40.757208,-73.982087,40.757208],
-  "geometry": {"coordinates":[-73.982087,40.757208],"type":"Point"}
+  "bbox": [
+    -73.982087,
+    40.757208,
+    -73.982087,
+    40.757208
+],
+  "geometry": {"coordinates":[-73.98208700000001,40.757208],"type":"Point"}
 }

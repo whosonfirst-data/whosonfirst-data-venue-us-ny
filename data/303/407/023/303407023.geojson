@@ -2,13 +2,14 @@
   "id": 303407023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.477158,40.802815,-73.477158,40.802815",
     "geom:latitude":40.802815,
     "geom:longitude":-73.477158,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"136 Froehlich Farm Blvd",
     "sg:city":"Woodbury",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
         85979055,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"3a2005f47dd9cd1610ab245b1be72851",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979055,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":303407023
         }
     ],
     "wof:id":303407023,
-    "wof:lastmodified":1448999479,
+    "wof:lastmodified":1454123426,
     "wof:name":"Kapson Senior Quarters Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.477158,40.802815,-73.477158,40.802815],
+  "bbox": [
+    -73.477158,
+    40.802815,
+    -73.477158,
+    40.802815
+],
   "geometry": {"coordinates":[-73.477158,40.802815],"type":"Point"}
 }

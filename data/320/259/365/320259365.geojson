@@ -2,13 +2,14 @@
   "id": 320259365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.633524,40.838922,-73.633524,40.838922",
     "geom:latitude":40.838922,
     "geom:longitude":-73.633524,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"478 Glen Cove Ave",
     "sg:city":"Sea Cliff",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85979159,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"81512360f2ccb0c55602641afa0fddfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979159,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":320259365
         }
     ],
     "wof:id":320259365,
-    "wof:lastmodified":1449012115,
+    "wof:lastmodified":1454124900,
     "wof:name":"Sea Cliff Bagel Cafe",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.633524,40.838922,-73.633524,40.838922],
-  "geometry": {"coordinates":[-73.633524,40.838922],"type":"Point"}
+  "bbox": [
+    -73.633524,
+    40.838922,
+    -73.633524,
+    40.838922
+],
+  "geometry": {"coordinates":[-73.63352399999999,40.838922],"type":"Point"}
 }

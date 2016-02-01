@@ -2,13 +2,14 @@
   "id": 370782489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.822494,40.978813,-73.822494,40.978813",
     "geom:latitude":40.978813,
     "geom:longitude":-73.822494,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"39 Deerhurst Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805227,
+        102191575,
+        404523359,
         85633793,
-        85978759,
+        85980063,
         102082373,
-        85805227
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"17d4d86b833e7461663d68ba5388d6aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978759,
+            "localadmin_id":404523359,
+            "locality_id":85980063,
             "neighbourhood_id":85805227,
             "region_id":85688543,
             "venue_id":370782489
         }
     ],
     "wof:id":370782489,
-    "wof:lastmodified":1449029052,
+    "wof:lastmodified":1454127305,
     "wof:name":"Raj Muragali DO",
     "wof:parent_id":85805227,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.822494,40.978813,-73.822494,40.978813],
-  "geometry": {"coordinates":[-73.822494,40.978813],"type":"Point"}
+  "bbox": [
+    -73.822494,
+    40.978813,
+    -73.822494,
+    40.978813
+],
+  "geometry": {"coordinates":[-73.82249400000001,40.978813],"type":"Point"}
 }

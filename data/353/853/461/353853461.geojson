@@ -2,13 +2,14 @@
   "id": 353853461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.8895,40.844775,-73.8895,40.844775",
     "geom:latitude":40.844775,
     "geom:longitude":-73.8895,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"749 E Tremont Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528057,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"16d6edba6ee5d7f4315b12ed0b2903ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528057,
             "region_id":85688543,
             "venue_id":353853461
         }
     ],
     "wof:id":353853461,
-    "wof:lastmodified":1449019286,
+    "wof:lastmodified":1454126246,
     "wof:name":"Sam's Y Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-73.8895,40.844775,-73.8895,40.844775],
+  "bbox": [
+    -73.8895,
+    40.844775,
+    -73.8895,
+    40.844775
+],
   "geometry": {"coordinates":[-73.8895,40.844775],"type":"Point"}
 }

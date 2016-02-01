@@ -2,13 +2,14 @@
   "id": 354282095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.175457,40.797013,-73.175457,40.797013",
     "geom:latitude":40.797013,
     "geom:longitude":-73.175457,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"434 E Suffolk Ave",
     "sg:city":"Islandia",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     "sg:website":"http://www.rbrsnow.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816389,
+        102191575,
+        404522517,
         85633793,
-        85979773,
+        85979693,
         102082395,
-        85816389
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +57,18 @@
     "wof:geomhash":"67347601ed230fe5dc960c072295b844",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
             "neighbourhood_id":85816389,
             "region_id":85688543,
             "venue_id":354282095
         }
     ],
     "wof:id":354282095,
-    "wof:lastmodified":1449067018,
+    "wof:lastmodified":1454131102,
     "wof:name":"R B R Snow Contractors",
     "wof:parent_id":85816389,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "removal"
     ]
 },
-  "bbox": [-73.175457,40.797013,-73.175457,40.797013],
-  "geometry": {"coordinates":[-73.175457,40.797013],"type":"Point"}
+  "bbox": [
+    -73.175457,
+    40.797013,
+    -73.175457,
+    40.797013
+],
+  "geometry": {"coordinates":[-73.17545699999999,40.797013],"type":"Point"}
 }

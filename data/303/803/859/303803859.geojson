@@ -2,13 +2,14 @@
   "id": 303803859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.088919,40.732604,-73.088919,40.732604",
     "geom:latitude":40.732604,
     "geom:longitude":-73.088919,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"207 Montauk Hwy",
     "sg:city":"Sayville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"25f3255fa0043f00ef0922b01f9bf658",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":303803859
         }
     ],
     "wof:id":303803859,
-    "wof:lastmodified":1449000593,
+    "wof:lastmodified":1454123731,
     "wof:name":"Sayville Discount Auto Prts",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.088919,40.732604,-73.088919,40.732604],
+  "bbox": [
+    -73.088919,
+    40.732604,
+    -73.088919,
+    40.732604
+],
   "geometry": {"coordinates":[-73.088919,40.732604],"type":"Point"}
 }

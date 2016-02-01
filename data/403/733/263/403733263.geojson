@@ -2,13 +2,14 @@
   "id": 403733263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.913876,41.793488,-73.913876,41.793488",
     "geom:latitude":41.793488,
     "geom:longitude":-73.913876,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1225 State Hwy 9g",
     "sg:city":"Hyde Park",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85865327,
+        102191575,
+        404522295,
         85633793,
+        85979267,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"0cda9e4211d936ff24330c35ea6e9097",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522295,
+            "locality_id":85979267,
+            "neighbourhood_id":85865327,
             "region_id":85688543,
             "venue_id":403733263
         }
     ],
     "wof:id":403733263,
-    "wof:lastmodified":1449054805,
+    "wof:lastmodified":1454129349,
     "wof:name":"New Image Hair Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865327,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.913876,41.793488,-73.913876,41.793488],
+  "bbox": [
+    -73.913876,
+    41.793488,
+    -73.913876,
+    41.793488
+],
   "geometry": {"coordinates":[-73.913876,41.793488],"type":"Point"}
 }

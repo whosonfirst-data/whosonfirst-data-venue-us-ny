@@ -2,13 +2,14 @@
   "id": 253337533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.141224,43.016617,-76.141224,43.016617",
     "geom:latitude":43.016617,
     "geom:longitude":-76.141224,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3200 S Salina St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881239,
+        102191575,
+        404522851,
         85633793,
         85977785,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"e16f02f17fc1a8392a90b076f2f465dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881239,
             "region_id":85688543,
             "venue_id":253337533
         }
     ],
     "wof:id":253337533,
-    "wof:lastmodified":1449064209,
+    "wof:lastmodified":1454130478,
     "wof:name":"Sawalha Gas Mart",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881239,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-76.141224,43.016617,-76.141224,43.016617],
-  "geometry": {"coordinates":[-76.141224,43.016617],"type":"Point"}
+  "bbox": [
+    -76.141224,
+    43.016617,
+    -76.141224,
+    43.016617
+],
+  "geometry": {"coordinates":[-76.14122399999999,43.016617],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370352393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.398306,40.896329,-72.398306,40.896329",
     "geom:latitude":40.896329,
     "geom:longitude":-72.398306,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"290 N Sea Rd",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,18 @@
     "wof:geomhash":"1d36da6b60b43834e0b72bc5a695e28e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":370352393
         }
     ],
     "wof:id":370352393,
-    "wof:lastmodified":1449031168,
+    "wof:lastmodified":1454127927,
     "wof:name":"Southampton Medical Care",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "medicine"
     ]
 },
-  "bbox": [-72.398306,40.896329,-72.398306,40.896329],
-  "geometry": {"coordinates":[-72.398306,40.896329],"type":"Point"}
+  "bbox": [
+    -72.398306,
+    40.896329,
+    -72.398306,
+    40.896329
+],
+  "geometry": {"coordinates":[-72.39830600000001,40.896329],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303358795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.079662,40.63622,-74.079662,40.63622",
     "geom:latitude":40.63622,
     "geom:longitude":-74.079662,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 Tompkins Cir",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852335,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85852335
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"64c69363ccc47757e8422675544cd525",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85852335,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303358795,
-    "wof:lastmodified":1448999149,
+    "wof:lastmodified":1454123333,
     "wof:name":"MLM Public Relations",
     "wof:parent_id":85852335,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "relations"
     ]
 },
-  "bbox": [-74.079662,40.63622,-74.079662,40.63622],
+  "bbox": [
+    -74.079662,
+    40.63622,
+    -74.079662,
+    40.63622
+],
   "geometry": {"coordinates":[-74.079662,40.63622],"type":"Point"}
 }

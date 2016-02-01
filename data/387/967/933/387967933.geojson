@@ -2,13 +2,14 @@
   "id": 387967933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.17463,43.040377,-76.17463,43.040377",
     "geom:latitude":43.040377,
     "geom:longitude":-76.17463,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"800 S Wilbur Ave",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.heritageacademies.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881269,
+        102191575,
+        404522851,
         85633793,
         85977785,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"bbf4144cd1448125403b1e32a5bb0969",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881269,
             "region_id":85688543,
             "venue_id":387967933
         }
     ],
     "wof:id":387967933,
-    "wof:lastmodified":1449059638,
+    "wof:lastmodified":1454130161,
     "wof:name":"Southside Charter Academy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881269,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.17463,43.040377,-76.17463,43.040377],
-  "geometry": {"coordinates":[-76.17463,43.040377],"type":"Point"}
+  "bbox": [
+    -76.17463,
+    43.040377,
+    -76.17463,
+    43.040377
+],
+  "geometry": {"coordinates":[-76.17462999999999,43.040377],"type":"Point"}
 }

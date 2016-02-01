@@ -2,13 +2,14 @@
   "id": 269504041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.356703,40.705432,-73.356703,40.705432",
     "geom:latitude":40.705432,
     "geom:longitude":-73.356703,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"118 Ave B",
     "sg:city":"West Babylon",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
-        85979895,
-        102082395
+        85978477,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"642a05fd7ccd0c24fd3eeb0c1823e07b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979895,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522513,
+            "locality_id":85978477,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":269504041
         }
     ],
     "wof:id":269504041,
-    "wof:lastmodified":1449036552,
+    "wof:lastmodified":1454128523,
     "wof:name":"Janitorial & Paper Supplies",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "janitor"
     ]
 },
-  "bbox": [-73.356703,40.705432,-73.356703,40.705432],
+  "bbox": [
+    -73.356703,
+    40.705432,
+    -73.356703,
+    40.705432
+],
   "geometry": {"coordinates":[-73.356703,40.705432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404102445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.077318,40.781234,-73.077318,40.781234",
     "geom:latitude":40.781234,
     "geom:longitude":-73.077318,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"321 Dante Ct",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"19b117c34efd3e92577b4f634bf67abf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":404102445
         }
     ],
     "wof:id":404102445,
-    "wof:lastmodified":1449040250,
+    "wof:lastmodified":1454128960,
     "wof:name":"Freund-Mayer Co Inc",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.077318,40.781234,-73.077318,40.781234],
-  "geometry": {"coordinates":[-73.077318,40.781234],"type":"Point"}
+  "bbox": [
+    -73.077318,
+    40.781234,
+    -73.077318,
+    40.781234
+],
+  "geometry": {"coordinates":[-73.07731800000001,40.781234],"type":"Point"}
 }

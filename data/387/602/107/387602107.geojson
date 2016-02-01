@@ -2,13 +2,14 @@
   "id": 387602107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.223283,40.756736,-73.223283,40.756736",
     "geom:latitude":40.756736,
     "geom:longitude":-73.223283,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"166 Wurz St",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530029,
+        102191575,
+        404522517,
         85633793,
-        85979867,
-        102082395
+        85979775,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"088863ff10f20a2e8f0001237f557514",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979867,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979775,
+            "neighbourhood_id":420530029,
             "region_id":85688543,
             "venue_id":387602107
         }
     ],
     "wof:id":387602107,
-    "wof:lastmodified":1449057888,
+    "wof:lastmodified":1454129845,
     "wof:name":"Ace Dental Agency",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530029,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "opportunity"
     ]
 },
-  "bbox": [-73.223283,40.756736,-73.223283,40.756736],
+  "bbox": [
+    -73.223283,
+    40.756736,
+    -73.223283,
+    40.756736
+],
   "geometry": {"coordinates":[-73.223283,40.756736],"type":"Point"}
 }

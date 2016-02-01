@@ -2,13 +2,14 @@
   "id": 387145343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.79517,42.961992,-78.79517,42.961992",
     "geom:latitude":42.961992,
     "geom:longitude":-78.79517,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"143 Ruskin Rd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823285,
+        102191575,
+        404522321,
         85633793,
+        85979407,
         102082387,
-        85823285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"abe84c52d96d9f232a98f1682e8dcb8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979407,
             "neighbourhood_id":85823285,
             "region_id":85688543,
             "venue_id":387145343
         }
     ],
     "wof:id":387145343,
-    "wof:lastmodified":1449057262,
+    "wof:lastmodified":1454129734,
     "wof:name":"Amherst Prof Investigation",
     "wof:parent_id":85823285,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "private"
     ]
 },
-  "bbox": [-78.79517,42.961992,-78.79517,42.961992],
+  "bbox": [
+    -78.79517,
+    42.961992,
+    -78.79517,
+    42.961992
+],
   "geometry": {"coordinates":[-78.79517,42.961992],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337372385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.097474,40.781498,-73.097474,40.781498",
     "geom:latitude":40.781498,
     "geom:longitude":-73.097474,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"550 Johnson Ave",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"81409c551da620e6084b7d32fa4298ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":337372385
         }
     ],
     "wof:id":337372385,
-    "wof:lastmodified":1449027437,
+    "wof:lastmodified":1454127065,
     "wof:name":"Parole Division",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "probation"
     ]
 },
-  "bbox": [-73.097474,40.781498,-73.097474,40.781498],
-  "geometry": {"coordinates":[-73.097474,40.781498],"type":"Point"}
+  "bbox": [
+    -73.097474,
+    40.781498,
+    -73.097474,
+    40.781498
+],
+  "geometry": {"coordinates":[-73.09747400000001,40.781498],"type":"Point"}
 }

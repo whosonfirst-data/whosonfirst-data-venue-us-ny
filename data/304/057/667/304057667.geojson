@@ -2,13 +2,14 @@
   "id": 304057667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.553554,40.666331,-73.553554,40.666331",
     "geom:latitude":40.666331,
     "geom:longitude":-73.553554,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12 Smith St",
     "sg:city":"Merrick",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892853,
+        102191575,
+        404521473,
         85633793,
         85977679,
         102082371,
-        85892853
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"30784cc0a631cceb7f2cc06a46d06fae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977679,
             "neighbourhood_id":85892853,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":304057667,
-    "wof:lastmodified":1449043857,
+    "wof:lastmodified":1454129004,
     "wof:name":"Aviatrade Inc",
     "wof:parent_id":85892853,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [-73.553554,40.666331,-73.553554,40.666331],
-  "geometry": {"coordinates":[-73.553554,40.666331],"type":"Point"}
+  "bbox": [
+    -73.553554,
+    40.666331,
+    -73.553554,
+    40.666331
+],
+  "geometry": {"coordinates":[-73.55355400000001,40.666331],"type":"Point"}
 }

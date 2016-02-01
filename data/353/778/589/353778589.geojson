@@ -2,13 +2,14 @@
   "id": 353778589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.341107,40.821643,-73.341107,40.821643",
     "geom:latitude":40.821643,
     "geom:longitude":-73.341107,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 2 Ave",
     "sg:city":"Huntington Sta",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892873,
+        102191575,
+        404522515,
         85633793,
-        85979779,
-        102082395
+        85979751,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"6ba4362322f32dcf8180c9374f4448df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979779,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522515,
+            "locality_id":85979751,
+            "neighbourhood_id":85892873,
             "region_id":85688543,
             "venue_id":353778589
         }
     ],
     "wof:id":353778589,
-    "wof:lastmodified":1449018301,
+    "wof:lastmodified":1454125962,
     "wof:name":"Media Industries Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892873,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "multimedia"
     ]
 },
-  "bbox": [-73.341107,40.821643,-73.341107,40.821643],
-  "geometry": {"coordinates":[-73.341107,40.821643],"type":"Point"}
+  "bbox": [
+    -73.341107,
+    40.821643,
+    -73.341107,
+    40.821643
+],
+  "geometry": {"coordinates":[-73.34110699999999,40.821643],"type":"Point"}
 }

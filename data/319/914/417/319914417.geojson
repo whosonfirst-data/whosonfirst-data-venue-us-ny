@@ -2,13 +2,14 @@
   "id": 319914417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.12857,41.130386,-74.12857,41.130386",
     "geom:latitude":41.130386,
     "geom:longitude":-74.12857,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Victory Rd",
     "sg:city":"Suffern",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529777,
+        102191575,
+        404523097,
         85633793,
         85978545,
-        102082385
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"5ae5cf7745b4ec9b7305b726c1c1d399",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523097,
             "locality_id":85978545,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529777,
             "region_id":85688543,
             "venue_id":319914417
         }
     ],
     "wof:id":319914417,
-    "wof:lastmodified":1449024375,
+    "wof:lastmodified":1454126764,
     "wof:name":"Eureka House Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529777,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "bar"
     ]
 },
-  "bbox": [-74.12857,41.130386,-74.12857,41.130386],
+  "bbox": [
+    -74.12857,
+    41.130386,
+    -74.12857,
+    41.130386
+],
   "geometry": {"coordinates":[-74.12857,41.130386],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403735613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.716521,40.719587,-73.716521,40.719587",
     "geom:latitude":40.719587,
     "geom:longitude":-73.716521,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"61 Chestnut Ave",
     "sg:city":"Floral Park",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805483,
+        102191575,
+        404521473,
         85633793,
-        85977709,
+        85977689,
         102082371,
-        85805483
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"c226326c4d69798ab7abf293affd36cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977709,
+            "localadmin_id":404521473,
+            "locality_id":85977689,
             "neighbourhood_id":85805483,
             "region_id":85688543,
             "venue_id":403735613
         }
     ],
     "wof:id":403735613,
-    "wof:lastmodified":1449055913,
+    "wof:lastmodified":1454129504,
     "wof:name":"Proficiency Press",
     "wof:parent_id":85805483,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "day"
     ]
 },
-  "bbox": [-73.716521,40.719587,-73.716521,40.719587],
+  "bbox": [
+    -73.716521,
+    40.719587,
+    -73.716521,
+    40.719587
+],
   "geometry": {"coordinates":[-73.716521,40.719587],"type":"Point"}
 }

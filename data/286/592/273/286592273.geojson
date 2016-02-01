@@ -2,13 +2,14 @@
   "id": 286592273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.689244,43.185091,-77.689244,43.185091",
     "geom:latitude":43.185091,
     "geom:longitude":-77.689244,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Pinewild Dr",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85821235,
+        102191575,
+        404522629,
         85633793,
+        85979033,
+        102081815,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"0a716d71ac918117fd04aabc5d99861f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "localadmin_id":404522629,
+            "locality_id":85979033,
+            "neighbourhood_id":85821235,
             "region_id":85688543,
             "venue_id":286592273
         }
     ],
     "wof:id":286592273,
-    "wof:lastmodified":1449016872,
+    "wof:lastmodified":1454125697,
     "wof:name":"Park Ridge Mental Health",
-    "wof:parent_id":-1,
+    "wof:parent_id":85821235,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "mental"
     ]
 },
-  "bbox": [-77.689244,43.185091,-77.689244,43.185091],
+  "bbox": [
+    -77.689244,
+    43.185091,
+    -77.689244,
+    43.185091
+],
   "geometry": {"coordinates":[-77.689244,43.185091],"type":"Point"}
 }

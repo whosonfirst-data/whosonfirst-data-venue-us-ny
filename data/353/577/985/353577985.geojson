@@ -2,13 +2,14 @@
   "id": 353577985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.089639,40.772422,-73.089639,40.772422",
     "geom:latitude":40.772422,
     "geom:longitude":-73.089639,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"236 Central Ave",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"15f1d8c67e440fd3628fa8f182360ebf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":353577985
         }
     ],
     "wof:id":353577985,
-    "wof:lastmodified":1449020891,
+    "wof:lastmodified":1454126712,
     "wof:name":"Orbitek Satellite Comms",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "television"
     ]
 },
-  "bbox": [-73.089639,40.772422,-73.089639,40.772422],
-  "geometry": {"coordinates":[-73.089639,40.772422],"type":"Point"}
+  "bbox": [
+    -73.089639,
+    40.772422,
+    -73.089639,
+    40.772422
+],
+  "geometry": {"coordinates":[-73.08963900000001,40.772422],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303187753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.888824,40.858012,-73.888824,40.858012",
     "geom:latitude":40.858012,
     "geom:longitude":-73.888824,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2465 Bathgate Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865533,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865533
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"02ac75ed8a9bf03c2542105938a46759",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865533,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303187753,
-    "wof:lastmodified":1448998481,
+    "wof:lastmodified":1454123112,
     "wof:name":"N Y League For Early Learning",
     "wof:parent_id":85865533,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "center"
     ]
 },
-  "bbox": [-73.888824,40.858012,-73.888824,40.858012],
+  "bbox": [
+    -73.888824,
+    40.858012,
+    -73.888824,
+    40.858012
+],
   "geometry": {"coordinates":[-73.888824,40.858012],"type":"Point"}
 }

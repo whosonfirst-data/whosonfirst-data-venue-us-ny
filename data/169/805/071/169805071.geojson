@@ -2,13 +2,14 @@
   "id": 169805071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.952795,40.637378,-73.952795,40.637378",
     "geom:latitude":40.637378,
     "geom:longitude":-73.952795,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"549 E 26th Street",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869833,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85869833
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"4205108c6cedf21a4f9c68883c01b40a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869833,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":169805071,
-    "wof:lastmodified":1449033788,
+    "wof:lastmodified":1454128389,
     "wof:name":"Evans Dental Pratice PC",
     "wof:parent_id":85869833,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.952795,40.637378,-73.952795,40.637378],
-  "geometry": {"coordinates":[-73.952795,40.637378],"type":"Point"}
+  "bbox": [
+    -73.952795,
+    40.637378,
+    -73.952795,
+    40.637378
+],
+  "geometry": {"coordinates":[-73.95279499999999,40.637378],"type":"Point"}
 }

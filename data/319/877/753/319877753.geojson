@@ -2,13 +2,14 @@
   "id": 319877753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.653022,40.766258,-73.653022,40.766258",
     "geom:latitude":40.766258,
     "geom:longitude":-73.653022,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"130 Sampson Ave",
     "sg:city":"Albertson",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847583,
+        102191575,
+        404522729,
         85633793,
-        85979177,
+        85977733,
         102082371,
-        85847583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"0d7d84cfd4b02613f8f6b2e6a19dda84",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979177,
+            "localadmin_id":404522729,
+            "locality_id":85977733,
             "neighbourhood_id":85847583,
             "region_id":85688543,
             "venue_id":319877753
         }
     ],
     "wof:id":319877753,
-    "wof:lastmodified":1449024626,
+    "wof:lastmodified":1454126807,
     "wof:name":"Carroll Heating Plumbing Svc",
     "wof:parent_id":85847583,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.653022,40.766258,-73.653022,40.766258],
-  "geometry": {"coordinates":[-73.653022,40.766258],"type":"Point"}
+  "bbox": [
+    -73.653022,
+    40.766258,
+    -73.653022,
+    40.766258
+],
+  "geometry": {"coordinates":[-73.65302200000001,40.766258],"type":"Point"}
 }

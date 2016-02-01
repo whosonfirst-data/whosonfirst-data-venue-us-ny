@@ -2,13 +2,14 @@
   "id": 354043353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.8134,40.587399,-73.8134,40.587399",
     "geom:latitude":40.587399,
     "geom:longitude":-73.8134,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8808 Rockaway Beach Blvd",
     "sg:city":"Rockaway Beac",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.state.ny.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865515,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865515
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"6da3c69f5b567ed0761bf0f3e32085b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865515,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":354043353,
-    "wof:lastmodified":1449067227,
+    "wof:lastmodified":1454131170,
     "wof:name":"New York State of",
     "wof:parent_id":85865515,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.8134,40.587399,-73.8134,40.587399],
+  "bbox": [
+    -73.8134,
+    40.587399,
+    -73.8134,
+    40.587399
+],
   "geometry": {"coordinates":[-73.8134,40.587399],"type":"Point"}
 }

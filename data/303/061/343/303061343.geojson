@@ -2,13 +2,14 @@
   "id": 303061343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.506664,40.733362,-73.506664,40.733362",
     "geom:latitude":40.733362,
     "geom:longitude":-73.506664,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 Meridian Rd",
     "sg:city":"Levittown",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"55d8e4d4aef28403df3a1865e906f084",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":303061343
         }
     ],
     "wof:id":303061343,
-    "wof:lastmodified":1448999884,
+    "wof:lastmodified":1454123536,
     "wof:name":"Sal's Carpentry & Remodeling",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "carpenter"
     ]
 },
-  "bbox": [-73.506664,40.733362,-73.506664,40.733362],
+  "bbox": [
+    -73.506664,
+    40.733362,
+    -73.506664,
+    40.733362
+],
   "geometry": {"coordinates":[-73.506664,40.733362],"type":"Point"}
 }

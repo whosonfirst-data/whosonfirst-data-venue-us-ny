@@ -2,13 +2,14 @@
   "id": 319844649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.973276,40.755243,-73.973276,40.755243",
     "geom:latitude":40.755243,
     "geom:longitude":-73.973276,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"501 Lexington Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852839,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"355579189ba946001f65008ba46db278",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85852839,
             "region_id":85688543,
             "venue_id":319844649
         }
     ],
     "wof:id":319844649,
-    "wof:lastmodified":1449024425,
+    "wof:lastmodified":1454126772,
     "wof:name":"24 Hour Locksmith Eastside",
-    "wof:parent_id":-1,
+    "wof:parent_id":85852839,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-73.973276,40.755243,-73.973276,40.755243],
+  "bbox": [
+    -73.973276,
+    40.755243,
+    -73.973276,
+    40.755243
+],
   "geometry": {"coordinates":[-73.973276,40.755243],"type":"Point"}
 }

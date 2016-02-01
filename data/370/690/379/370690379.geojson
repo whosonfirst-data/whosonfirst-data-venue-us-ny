@@ -2,13 +2,14 @@
   "id": 370690379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.432911,43.848313,-73.432911,43.848313",
     "geom:latitude":43.848313,
     "geom:longitude":-73.432911,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Montcalm St Ste 1",
     "sg:city":"Ticonderoga",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     "sg:website":"http://www.nchs.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820233,
+        102191575,
+        404522389,
         85633793,
+        85978885,
         102082405,
-        85820233
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"3630c941a980627eb9f2115bc0b12f56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082405,
-            "locality_id":-1,
+            "localadmin_id":404522389,
+            "locality_id":85978885,
             "neighbourhood_id":85820233,
             "region_id":85688543,
             "venue_id":370690379
         }
     ],
     "wof:id":370690379,
-    "wof:lastmodified":1449030866,
+    "wof:lastmodified":1454127836,
     "wof:name":"North Country Home Services Inc",
     "wof:parent_id":85820233,
     "wof:placetype":"venue",
@@ -68,6 +73,11 @@
         "eldercare-home"
     ]
 },
-  "bbox": [-73.432911,43.848313,-73.432911,43.848313],
+  "bbox": [
+    -73.432911,
+    43.848313,
+    -73.432911,
+    43.848313
+],
   "geometry": {"coordinates":[-73.432911,43.848313],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320099075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.919761,41.707422,-73.919761,41.707422",
     "geom:latitude":41.707422,
     "geom:longitude":-73.919761,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Cottage St",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892991,
+        102191575,
+        404522305,
         85633793,
         85977835,
         102082363,
-        85892991
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"a805f8c923cf8ebfd702f81e4b98138a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
+            "localadmin_id":404522305,
             "locality_id":85977835,
             "neighbourhood_id":85892991,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":320099075,
-    "wof:lastmodified":1449013697,
+    "wof:lastmodified":1454125156,
     "wof:name":"H & H Taxi",
     "wof:parent_id":85892991,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "taxicab"
     ]
 },
-  "bbox": [-73.919761,41.707422,-73.919761,41.707422],
-  "geometry": {"coordinates":[-73.919761,41.707422],"type":"Point"}
+  "bbox": [
+    -73.919761,
+    41.707422,
+    -73.919761,
+    41.707422
+],
+  "geometry": {"coordinates":[-73.91976099999999,41.707422],"type":"Point"}
 }

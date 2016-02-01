@@ -2,13 +2,14 @@
   "id": 253321445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.116333,43.081029,-76.116333,43.081029",
     "geom:latitude":43.081029,
     "geom:longitude":-76.116333,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3719 New Court Ave",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881259,
+        102191575,
+        404522845,
         85633793,
         85979211,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"23ad6520e230e716f5d29546ad2ce05c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522845,
             "locality_id":85979211,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881259,
             "region_id":85688543,
             "venue_id":253321445
         }
     ],
     "wof:id":253321445,
-    "wof:lastmodified":1449062887,
+    "wof:lastmodified":1454130253,
     "wof:name":"Eastwood Dance & Arts Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881259,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "dancing"
     ]
 },
-  "bbox": [-76.116333,43.081029,-76.116333,43.081029],
+  "bbox": [
+    -76.116333,
+    43.081029,
+    -76.116333,
+    43.081029
+],
   "geometry": {"coordinates":[-76.116333,43.081029],"type":"Point"}
 }

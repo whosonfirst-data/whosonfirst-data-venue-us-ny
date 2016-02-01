@@ -2,13 +2,14 @@
   "id": 253307369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.839186,40.926382,-73.839186,40.926382",
     "geom:latitude":40.926382,
     "geom:longitude":-73.839186,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"708 Locust St",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530461,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"70b9557bb5a458ca746b5798886138f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530461,
             "region_id":85688543,
             "venue_id":253307369
         }
     ],
     "wof:id":253307369,
-    "wof:lastmodified":1449063579,
+    "wof:lastmodified":1454130372,
     "wof:name":"Pizza Pizza",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530461,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.839186,40.926382,-73.839186,40.926382],
+  "bbox": [
+    -73.839186,
+    40.926382,
+    -73.839186,
+    40.926382
+],
   "geometry": {"coordinates":[-73.839186,40.926382],"type":"Point"}
 }

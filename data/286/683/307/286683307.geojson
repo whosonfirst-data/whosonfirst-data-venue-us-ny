@@ -2,13 +2,14 @@
   "id": 286683307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.922372,40.836109,-73.922372,40.836109",
     "geom:latitude":40.836109,
     "geom:longitude":-73.922372,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1155 Cromwell Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865669,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"4091a5eb771aa4d08081513b6f3aadde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85865669,
             "region_id":85688543,
             "venue_id":286683307
         }
     ],
     "wof:id":286683307,
-    "wof:lastmodified":1449016264,
+    "wof:lastmodified":1454125588,
     "wof:name":"Kel-Tech Construction Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865669,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "company"
     ]
 },
-  "bbox": [-73.922372,40.836109,-73.922372,40.836109],
+  "bbox": [
+    -73.922372,
+    40.836109,
+    -73.922372,
+    40.836109
+],
   "geometry": {"coordinates":[-73.922372,40.836109],"type":"Point"}
 }

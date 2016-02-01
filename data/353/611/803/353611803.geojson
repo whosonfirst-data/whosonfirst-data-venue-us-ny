@@ -2,13 +2,14 @@
   "id": 353611803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.540356,40.679114,-73.540356,40.679114",
     "geom:latitude":40.679114,
     "geom:longitude":-73.540356,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"210 Stephen St",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893061,
+        102191575,
+        404521473,
         85633793,
         85979059,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"70bd1deee6609f230cbf273468d9b8cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979059,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85893061,
             "region_id":85688543,
             "venue_id":353611803
         }
     ],
     "wof:id":353611803,
-    "wof:lastmodified":1449020282,
+    "wof:lastmodified":1454126534,
     "wof:name":"Riteway Pool Service Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893061,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.540356,40.679114,-73.540356,40.679114],
+  "bbox": [
+    -73.540356,
+    40.679114,
+    -73.540356,
+    40.679114
+],
   "geometry": {"coordinates":[-73.540356,40.679114],"type":"Point"}
 }

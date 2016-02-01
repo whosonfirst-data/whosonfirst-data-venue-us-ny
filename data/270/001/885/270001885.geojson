@@ -2,13 +2,14 @@
   "id": 270001885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.094867,40.927596,-73.094867,40.927596",
     "geom:latitude":40.927596,
     "geom:longitude":-73.094867,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"126 Gnarled Hollow Rd",
     "sg:city":"East Setauket",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"www.smiledreammaker.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824457,
+        102191575,
+        404521441,
         85633793,
         85979927,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"cf90b041ad10f010e162f5b99d5f064f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979927,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85824457,
             "region_id":85688543,
             "venue_id":270001885
         }
     ],
     "wof:id":270001885,
-    "wof:lastmodified":1449009180,
+    "wof:lastmodified":1454124446,
     "wof:name":"Affordable Laser Hair Removal",
-    "wof:parent_id":-1,
+    "wof:parent_id":85824457,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "removing"
     ]
 },
-  "bbox": [-73.094867,40.927596,-73.094867,40.927596],
-  "geometry": {"coordinates":[-73.094867,40.927596],"type":"Point"}
+  "bbox": [
+    -73.094867,
+    40.927596,
+    -73.094867,
+    40.927596
+],
+  "geometry": {"coordinates":[-73.09486699999999,40.927596],"type":"Point"}
 }

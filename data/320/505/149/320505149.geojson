@@ -2,13 +2,14 @@
   "id": 320505149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.814134,41.002129,-73.814134,41.002129",
     "geom:latitude":41.002129,
     "geom:longitude":-73.814134,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"590 Central Park Ave",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.oreck.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823103,
+        102191575,
+        404523359,
         85633793,
         85980063,
         102082373,
-        85823103
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"7ef5f0f5d2257322812fa7345cda1226",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523359,
             "locality_id":85980063,
             "neighbourhood_id":85823103,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":320505149,
-    "wof:lastmodified":1449014365,
+    "wof:lastmodified":1454125264,
     "wof:name":"Oreck",
     "wof:parent_id":85823103,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "vacuum"
     ]
 },
-  "bbox": [-73.814134,41.002129,-73.814134,41.002129],
+  "bbox": [
+    -73.814134,
+    41.002129,
+    -73.814134,
+    41.002129
+],
   "geometry": {"coordinates":[-73.814134,41.002129],"type":"Point"}
 }

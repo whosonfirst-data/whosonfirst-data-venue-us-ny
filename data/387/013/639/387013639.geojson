@@ -2,13 +2,14 @@
   "id": 387013639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.609096,43.131875,-77.609096,43.131875",
     "geom:latitude":43.131875,
     "geom:longitude":-77.609096,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"171 Reservoir Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"http://www.beauproduction.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880409,
+        102191575,
+        404521467,
         85633793,
-        85979039,
+        85977591,
         102081815,
-        85880409
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,18 @@
     "wof:geomhash":"a3511d715df2008dc3b15e5b58387270",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85979039,
+            "localadmin_id":404521467,
+            "locality_id":85977591,
             "neighbourhood_id":85880409,
             "region_id":85688543,
             "venue_id":387013639
         }
     ],
     "wof:id":387013639,
-    "wof:lastmodified":1449058685,
+    "wof:lastmodified":1454129993,
     "wof:name":"Beau Production",
     "wof:parent_id":85880409,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "trade"
     ]
 },
-  "bbox": [-77.609096,43.131875,-77.609096,43.131875],
-  "geometry": {"coordinates":[-77.609096,43.131875],"type":"Point"}
+  "bbox": [
+    -77.609096,
+    43.131875,
+    -77.609096,
+    43.131875
+],
+  "geometry": {"coordinates":[-77.60909599999999,43.131875],"type":"Point"}
 }

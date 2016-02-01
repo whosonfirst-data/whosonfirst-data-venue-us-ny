@@ -2,13 +2,14 @@
   "id": 320180911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.723373,40.77889,-73.723373,40.77889",
     "geom:latitude":40.77889,
     "geom:longitude":-73.723373,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"505 Northern Blvd",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85815033,
+        102191575,
+        404522729,
         85633793,
-        85977539,
-        102082377,
-        85815033
+        85977649,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"968e78dc4ef0cc476678a88c8279c2bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404522729,
+            "locality_id":85977649,
             "neighbourhood_id":85815033,
             "region_id":85688543,
             "venue_id":320180911
         }
     ],
     "wof:id":320180911,
-    "wof:lastmodified":1449011411,
+    "wof:lastmodified":1454124785,
     "wof:name":"Michael Friedman",
     "wof:parent_id":85815033,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-73.723373,40.77889,-73.723373,40.77889],
+  "bbox": [
+    -73.723373,
+    40.77889,
+    -73.723373,
+    40.77889
+],
   "geometry": {"coordinates":[-73.723373,40.77889],"type":"Point"}
 }

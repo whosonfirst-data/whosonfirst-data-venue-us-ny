@@ -2,13 +2,14 @@
   "id": 185798603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.997101,40.625093,-73.997101,40.625093",
     "geom:latitude":40.625093,
     "geom:longitude":-73.997101,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6321 New Utrecht Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.signature-bank.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"412bb4249a62da1b24ee12181d62d8e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":185798603
         }
     ],
     "wof:id":185798603,
-    "wof:lastmodified":1449006920,
+    "wof:lastmodified":1454124184,
     "wof:name":"Signature Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.997101,40.625093,-73.997101,40.625093],
+  "bbox": [
+    -73.997101,
+    40.625093,
+    -73.997101,
+    40.625093
+],
   "geometry": {"coordinates":[-73.997101,40.625093],"type":"Point"}
 }

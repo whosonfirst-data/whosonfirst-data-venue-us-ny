@@ -2,13 +2,14 @@
   "id": 270426369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.989038,41.142457,-73.989038,41.142457",
     "geom:latitude":41.142457,
     "geom:longitude":-73.989038,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"118 Maple Ave",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.edwardjones.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"24be2f891e429291f18ca1bb47d4fc28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":270426369
         }
     ],
     "wof:id":270426369,
-    "wof:lastmodified":1449009147,
+    "wof:lastmodified":1454124440,
     "wof:name":"Edward Jones",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "security"
     ]
 },
-  "bbox": [-73.989038,41.142457,-73.989038,41.142457],
-  "geometry": {"coordinates":[-73.989038,41.142457],"type":"Point"}
+  "bbox": [
+    -73.989038,
+    41.142457,
+    -73.989038,
+    41.142457
+],
+  "geometry": {"coordinates":[-73.98903799999999,41.142457],"type":"Point"}
 }

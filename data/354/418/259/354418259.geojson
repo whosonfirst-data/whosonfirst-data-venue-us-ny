@@ -2,13 +2,14 @@
   "id": 354418259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.087912,40.734119,-73.087912,40.734119",
     "geom:latitude":40.734119,
     "geom:longitude":-73.087912,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 Bohack Ct",
     "sg:city":"Sayville",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"1f291205b7ceebd4457d6523fc316387",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":354418259
         }
     ],
     "wof:id":354418259,
-    "wof:lastmodified":1449067269,
+    "wof:lastmodified":1454131184,
     "wof:name":"Neutron Inc",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "electric"
     ]
 },
-  "bbox": [-73.087912,40.734119,-73.087912,40.734119],
+  "bbox": [
+    -73.087912,
+    40.734119,
+    -73.087912,
+    40.734119
+],
   "geometry": {"coordinates":[-73.087912,40.734119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403782755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.709553,40.969433,-73.709553,40.969433",
     "geom:latitude":40.969433,
     "geom:longitude":-73.709553,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"339 Halstead Ave",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892899,
+        102191575,
+        404523361,
         85633793,
-        85978729,
+        85978735,
         102082373,
-        85892899
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"f6ca495a119e96ac6a6bbfd7956a1fc7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978729,
+            "localadmin_id":404523361,
+            "locality_id":85978735,
             "neighbourhood_id":85892899,
             "region_id":85688543,
             "venue_id":403782755
         }
     ],
     "wof:id":403782755,
-    "wof:lastmodified":1449054621,
+    "wof:lastmodified":1454129321,
     "wof:name":"Workhorse Construction Corp",
     "wof:parent_id":85892899,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "company"
     ]
 },
-  "bbox": [-73.709553,40.969433,-73.709553,40.969433],
+  "bbox": [
+    -73.709553,
+    40.969433,
+    -73.709553,
+    40.969433
+],
   "geometry": {"coordinates":[-73.709553,40.969433],"type":"Point"}
 }

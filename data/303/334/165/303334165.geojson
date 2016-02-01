@@ -2,13 +2,14 @@
   "id": 303334165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.822576,41.034972,-73.822576,41.034972",
     "geom:latitude":41.034972,
     "geom:longitude":-73.822576,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"850 Dobbs Ferry Rd",
     "sg:city":"White Plains",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85859125,
+        102191575,
+        404523359,
         85633793,
+        85978733,
         102082373,
-        85859125
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"daa27ad63f0afa7f603716383223d78d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":-1,
+            "localadmin_id":404523359,
+            "locality_id":85978733,
             "neighbourhood_id":85859125,
             "region_id":85688543,
             "venue_id":303334165
         }
     ],
     "wof:id":303334165,
-    "wof:lastmodified":1448998832,
+    "wof:lastmodified":1454123238,
     "wof:name":"Golfstyles Ltd",
     "wof:parent_id":85859125,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "agency"
     ]
 },
-  "bbox": [-73.822576,41.034972,-73.822576,41.034972],
+  "bbox": [
+    -73.822576,
+    41.034972,
+    -73.822576,
+    41.034972
+],
   "geometry": {"coordinates":[-73.822576,41.034972],"type":"Point"}
 }

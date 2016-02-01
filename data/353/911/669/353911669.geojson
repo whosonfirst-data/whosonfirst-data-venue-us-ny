@@ -2,13 +2,14 @@
   "id": 353911669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.556935,40.675304,-73.556935,40.675304",
     "geom:latitude":40.675304,
     "geom:longitude":-73.556935,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1762 Merrick Ave",
     "sg:city":"Merrick",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     "sg:website":"myspace.com/souperfry",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529153,
+        102191575,
+        404521473,
         85633793,
-        85979125,
-        102082371
+        85979047,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"645c4e35946d64fe6c0997d9b622ecea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979125,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979047,
+            "neighbourhood_id":420529153,
             "region_id":85688543,
             "venue_id":353911669
         }
     ],
     "wof:id":353911669,
-    "wof:lastmodified":1449020404,
+    "wof:lastmodified":1454126571,
     "wof:name":"Souper Fry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529153,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-73.556935,40.675304,-73.556935,40.675304],
+  "bbox": [
+    -73.556935,
+    40.675304,
+    -73.556935,
+    40.675304
+],
   "geometry": {"coordinates":[-73.556935,40.675304],"type":"Point"}
 }

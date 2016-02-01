@@ -2,13 +2,14 @@
   "id": 286538561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.183858,40.801516,-73.183858,40.801516",
     "geom:latitude":40.801516,
     "geom:longitude":-73.183858,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"240 Gibbs Rd",
     "sg:city":"Islandia",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
-        85979813,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"27250bfe4da4b195dca9de7e6fff69bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979813,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":286538561
         }
     ],
     "wof:id":286538561,
-    "wof:lastmodified":1449015542,
+    "wof:lastmodified":1454125464,
     "wof:name":"GLG Construction Co-Suffolk",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.183858,40.801516,-73.183858,40.801516],
+  "bbox": [
+    -73.183858,
+    40.801516,
+    -73.183858,
+    40.801516
+],
   "geometry": {"coordinates":[-73.183858,40.801516],"type":"Point"}
 }

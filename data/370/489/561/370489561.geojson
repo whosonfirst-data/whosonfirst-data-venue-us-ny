@@ -2,13 +2,14 @@
   "id": 370489561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.963776,42.783953,-73.963776,42.783953",
     "geom:latitude":42.783953,
     "geom:longitude":-73.963776,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1410 Curry Rd",
     "sg:city":"Schenectady",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"http://www.trustcobank.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85850057,
+        102191575,
+        404522519,
         85633793,
         85979289,
         102081765,
-        85850057
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"b722c8b027a9316b0bc005f9c239db5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081765,
+            "localadmin_id":404522519,
             "locality_id":85979289,
             "neighbourhood_id":85850057,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":370489561,
-    "wof:lastmodified":1449030920,
+    "wof:lastmodified":1454127854,
     "wof:name":"Trustco Bank Roterdam Branch",
     "wof:parent_id":85850057,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "commercial"
     ]
 },
-  "bbox": [-73.963776,42.783953,-73.963776,42.783953],
+  "bbox": [
+    -73.963776,
+    42.783953,
+    -73.963776,
+    42.783953
+],
   "geometry": {"coordinates":[-73.963776,42.783953],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370325405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.78349,40.845675,-72.78349,40.845675",
     "geom:latitude":40.845675,
     "geom:longitude":-72.78349,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14 Fairway Dr",
     "sg:city":"Manorville",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530021,
+        102191575,
+        404521441,
         85633793,
         85979761,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"768666a298037105e08643e9ef63f774",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530021,
             "region_id":85688543,
             "venue_id":370325405
         }
     ],
     "wof:id":370325405,
-    "wof:lastmodified":1449030412,
+    "wof:lastmodified":1454127704,
     "wof:name":"Variale Michael",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530021,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "dj"
     ]
 },
-  "bbox": [-72.78349,40.845675,-72.78349,40.845675],
+  "bbox": [
+    -72.78349,
+    40.845675,
+    -72.78349,
+    40.845675
+],
   "geometry": {"coordinates":[-72.78349,40.845675],"type":"Point"}
 }

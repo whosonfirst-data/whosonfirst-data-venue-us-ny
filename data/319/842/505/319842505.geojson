@@ -2,13 +2,14 @@
   "id": 319842505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.85948,40.867335,-73.85948,40.867335",
     "geom:latitude":40.867335,
     "geom:longitude":-73.85948,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2736 Colden Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528059,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"ed38eac51c8c16e750cae1d2a8326bc4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528059,
             "region_id":85688543,
             "venue_id":319842505
         }
     ],
     "wof:id":319842505,
-    "wof:lastmodified":1449024158,
+    "wof:lastmodified":1454126726,
     "wof:name":"Rpn Management Co Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528059,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "apartment"
     ]
 },
-  "bbox": [-73.85948,40.867335,-73.85948,40.867335],
+  "bbox": [
+    -73.85948,
+    40.867335,
+    -73.85948,
+    40.867335
+],
   "geometry": {"coordinates":[-73.85948,40.867335],"type":"Point"}
 }

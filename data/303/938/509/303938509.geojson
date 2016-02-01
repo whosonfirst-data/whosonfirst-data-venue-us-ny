@@ -2,13 +2,14 @@
   "id": 303938509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.012325,40.672968,-74.012325,40.672968",
     "geom:latitude":40.672968,
     "geom:longitude":-74.012325,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Beard St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844047,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85844047
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"4e9615fe42df527dd7fd3d5703f24479",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844047,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":303938509,
-    "wof:lastmodified":1448999940,
+    "wof:lastmodified":1454123551,
     "wof:name":"Smith Sales Office",
     "wof:parent_id":85844047,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "general"
     ]
 },
-  "bbox": [-74.012325,40.672968,-74.012325,40.672968],
+  "bbox": [
+    -74.012325,
+    40.672968,
+    -74.012325,
+    40.672968
+],
   "geometry": {"coordinates":[-74.012325,40.672968],"type":"Point"}
 }

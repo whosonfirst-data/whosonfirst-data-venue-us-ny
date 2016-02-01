@@ -2,13 +2,14 @@
   "id": 403955747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.838288,40.806255,-72.838288,40.806255",
     "geom:latitude":40.806255,
     "geom:longitude":-72.838288,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1650 Montauk Hwy",
     "sg:city":"Mastic",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892903,
+        102191575,
+        404521441,
         85633793,
+        85978437,
         102082395,
-        85892903
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"b6f4f3d362ffda6cf6c3e86b2f93a2fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85978437,
             "neighbourhood_id":85892903,
             "region_id":85688543,
             "venue_id":403955747
         }
     ],
     "wof:id":403955747,
-    "wof:lastmodified":1449055529,
+    "wof:lastmodified":1454129450,
     "wof:name":"Haverty Auto & Plate Glass Co",
     "wof:parent_id":85892903,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-72.838288,40.806255,-72.838288,40.806255],
-  "geometry": {"coordinates":[-72.838288,40.806255],"type":"Point"}
+  "bbox": [
+    -72.838288,
+    40.806255,
+    -72.838288,
+    40.806255
+],
+  "geometry": {"coordinates":[-72.83828800000001,40.806255],"type":"Point"}
 }

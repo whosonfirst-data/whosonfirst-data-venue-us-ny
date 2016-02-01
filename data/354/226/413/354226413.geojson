@@ -2,13 +2,14 @@
   "id": 354226413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.42601,40.871576,-73.42601,40.871576",
     "geom:latitude":40.871576,
     "geom:longitude":-73.42601,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"259 Main Street",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     "sg:website":"mundays.kpsearch.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820109,
+        102191575,
+        404522515,
         85633793,
-        85979675,
+        85979787,
         102082395,
-        85820109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,18 @@
     "wof:geomhash":"b3132b17c57268f1ee9c1cc32781d6db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979675,
+            "localadmin_id":404522515,
+            "locality_id":85979787,
             "neighbourhood_id":85820109,
             "region_id":85688543,
             "venue_id":354226413
         }
     ],
     "wof:id":354226413,
-    "wof:lastmodified":1449067192,
+    "wof:lastmodified":1454131159,
     "wof:name":"Munday's",
     "wof:parent_id":85820109,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "breakfast"
     ]
 },
-  "bbox": [-73.42601,40.871576,-73.42601,40.871576],
-  "geometry": {"coordinates":[-73.42601,40.871576],"type":"Point"}
+  "bbox": [
+    -73.42601,
+    40.871576,
+    -73.42601,
+    40.871576
+],
+  "geometry": {"coordinates":[-73.42601000000001,40.871576],"type":"Point"}
 }

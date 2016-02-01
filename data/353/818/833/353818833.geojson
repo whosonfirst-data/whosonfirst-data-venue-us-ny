@@ -2,13 +2,14 @@
   "id": 353818833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.193668,43.249102,-78.193668,43.249102",
     "geom:latitude":43.249102,
     "geom:longitude":-78.193668,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"132 N Main St",
     "sg:city":"Albion",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819435,
+        102191575,
+        404521525,
         85633793,
         85978607,
-        102082411
+        102082411,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"33aeac1f33ec16fb4912fd2164d92e02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082411,
+            "localadmin_id":404521525,
             "locality_id":85978607,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85819435,
             "region_id":85688543,
             "venue_id":353818833
         }
     ],
     "wof:id":353818833,
-    "wof:lastmodified":1449019507,
+    "wof:lastmodified":1454126311,
     "wof:name":"Morrison Realty",
-    "wof:parent_id":-1,
+    "wof:parent_id":85819435,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.193668,43.249102,-78.193668,43.249102],
+  "bbox": [
+    -78.193668,
+    43.249102,
+    -78.193668,
+    43.249102
+],
   "geometry": {"coordinates":[-78.193668,43.249102],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303899649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.650874,43.133977,-77.650874,43.133977",
     "geom:latitude":43.133977,
     "geom:longitude":-77.650874,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"542 Thurston Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880411,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85880411
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"7f1a0fb81eec6acffb1365e90285b4ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85880411,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303899649,
-    "wof:lastmodified":1449000443,
+    "wof:lastmodified":1454123689,
     "wof:name":"Thurston Garage",
     "wof:parent_id":85880411,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-77.650874,43.133977,-77.650874,43.133977],
+  "bbox": [
+    -77.650874,
+    43.133977,
+    -77.650874,
+    43.133977
+],
   "geometry": {"coordinates":[-77.650874,43.133977],"type":"Point"}
 }

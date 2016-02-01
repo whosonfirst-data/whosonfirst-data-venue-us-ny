@@ -2,13 +2,14 @@
   "id": 387014521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.600014,43.196154,-77.600014,43.196154",
     "geom:latitude":43.196154,
     "geom:longitude":-77.600014,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"702 E Ridge Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.pontillospizza.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880401,
+        102191575,
+        404522639,
         85633793,
         85979035,
         102081815,
-        85880401
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"c1933244fad82aad9eaee4bb15bf7324",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404522639,
             "locality_id":85979035,
             "neighbourhood_id":85880401,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":387014521,
-    "wof:lastmodified":1449057974,
+    "wof:lastmodified":1454129862,
     "wof:name":"Pontillos East Ridge",
     "wof:parent_id":85880401,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "pizza"
     ]
 },
-  "bbox": [-77.600014,43.196154,-77.600014,43.196154],
+  "bbox": [
+    -77.600014,
+    43.196154,
+    -77.600014,
+    43.196154
+],
   "geometry": {"coordinates":[-77.600014,43.196154],"type":"Point"}
 }

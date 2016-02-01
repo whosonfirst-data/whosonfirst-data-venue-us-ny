@@ -2,13 +2,14 @@
   "id": 320468315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.152038,40.869981,-73.152038,40.869981",
     "geom:latitude":40.869981,
     "geom:longitude":-73.152038,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Oak St",
     "sg:city":"St James",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893017,
+        102191575,
+        404522669,
         85633793,
-        85979773,
+        85979839,
         102082395,
-        85893017
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"abd8ed8cba21909c2fe618b701132afe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522669,
+            "locality_id":85979839,
             "neighbourhood_id":85893017,
             "region_id":85688543,
             "venue_id":320468315
         }
     ],
     "wof:id":320468315,
-    "wof:lastmodified":1449013943,
+    "wof:lastmodified":1454125197,
     "wof:name":"Preferred Flooring",
     "wof:parent_id":85893017,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "floor"
     ]
 },
-  "bbox": [-73.152038,40.869981,-73.152038,40.869981],
+  "bbox": [
+    -73.152038,
+    40.869981,
+    -73.152038,
+    40.869981
+],
   "geometry": {"coordinates":[-73.152038,40.869981],"type":"Point"}
 }

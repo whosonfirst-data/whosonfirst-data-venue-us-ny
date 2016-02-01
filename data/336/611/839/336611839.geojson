@@ -2,13 +2,14 @@
   "id": 336611839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.64712,43.014046,-78.64712,43.014046",
     "geom:latitude":43.014046,
     "geom:longitude":-78.64712,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9150 Clarence Center Rd",
     "sg:city":"Clarence Center",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     "sg:website":"www.munroproducts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85824085,
+        102191575,
+        404522335,
         85633793,
+        85979435,
+        102082387,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"90360e6e6be69926c873dbfacb7b7510",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082387,
+            "localadmin_id":404522335,
+            "locality_id":85979435,
+            "neighbourhood_id":85824085,
             "region_id":85688543,
             "venue_id":336611839
         }
     ],
     "wof:id":336611839,
-    "wof:lastmodified":1448997803,
+    "wof:lastmodified":1454122884,
     "wof:name":"Munro Prods",
-    "wof:parent_id":-1,
+    "wof:parent_id":85824085,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -58,6 +66,11 @@
         "coating"
     ]
 },
-  "bbox": [-78.64712,43.014046,-78.64712,43.014046],
+  "bbox": [
+    -78.64712,
+    43.014046,
+    -78.64712,
+    43.014046
+],
   "geometry": {"coordinates":[-78.64712,43.014046],"type":"Point"}
 }

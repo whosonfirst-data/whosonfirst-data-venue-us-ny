@@ -2,13 +2,14 @@
   "id": 371064711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.916097,40.819116,-72.916097,40.819116",
     "geom:latitude":40.819116,
     "geom:longitude":-72.916097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"335 Yaphank Ave",
     "sg:city":"Yaphank",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85850841,
+        102191575,
+        404521441,
         85633793,
         85979847,
         102082395,
-        85850841
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"31b7d30d857c9504333dcefb69132406",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979847,
             "neighbourhood_id":85850841,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":371064711,
-    "wof:lastmodified":1449049383,
+    "wof:lastmodified":1454129118,
     "wof:name":"Suffolk County Buildings Div",
     "wof:parent_id":85850841,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.916097,40.819116,-72.916097,40.819116],
-  "geometry": {"coordinates":[-72.916097,40.819116],"type":"Point"}
+  "bbox": [
+    -72.916097,
+    40.819116,
+    -72.916097,
+    40.819116
+],
+  "geometry": {"coordinates":[-72.91609699999999,40.819116],"type":"Point"}
 }

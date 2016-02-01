@@ -2,13 +2,14 @@
   "id": 387489101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.857283,41.074417,-73.857283,41.074417",
     "geom:latitude":41.074417,
     "geom:longitude":-73.857283,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Grove St",
     "sg:city":"Tarrytown",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893033,
+        102191575,
+        404523359,
         85633793,
         85978765,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"009c0398ddff9711b4ca54b321324c58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523359,
             "locality_id":85978765,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85893033,
             "region_id":85688543,
             "venue_id":387489101
         }
     ],
     "wof:id":387489101,
-    "wof:lastmodified":1449058191,
+    "wof:lastmodified":1454129902,
     "wof:name":"Historical Society Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893033,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.857283,41.074417,-73.857283,41.074417],
+  "bbox": [
+    -73.857283,
+    41.074417,
+    -73.857283,
+    41.074417
+],
   "geometry": {"coordinates":[-73.857283,41.074417],"type":"Point"}
 }

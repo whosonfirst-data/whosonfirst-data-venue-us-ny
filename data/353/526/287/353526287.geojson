@@ -2,13 +2,14 @@
   "id": 353526287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.911509,40.69991,-73.911509,40.69991",
     "geom:latitude":40.69991,
     "geom:longitude":-73.911509,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"325 Wyckoff Avenue",
     "sg:city":"Ridgewood",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844581,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844581
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"8c9ecc55bf6efa0a2630af5bbd9af4e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844581,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353526287,
-    "wof:lastmodified":1449019045,
+    "wof:lastmodified":1454126180,
     "wof:name":"Locksmith",
     "wof:parent_id":85844581,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "key"
     ]
 },
-  "bbox": [-73.911509,40.69991,-73.911509,40.69991],
+  "bbox": [
+    -73.911509,
+    40.69991,
+    -73.911509,
+    40.69991
+],
   "geometry": {"coordinates":[-73.911509,40.69991],"type":"Point"}
 }

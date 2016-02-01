@@ -2,13 +2,14 @@
   "id": 387808687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.111854,41.136121,-74.111854,41.136121",
     "geom:latitude":41.136121,
     "geom:longitude":-74.111854,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 Mile Rd",
     "sg:city":"Suffern",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529777,
+        102191575,
+        404523097,
         85633793,
         85978545,
-        102082385
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"5d7032a23d781583fab6df5ddeb70bd2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523097,
             "locality_id":85978545,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529777,
             "region_id":85688543,
             "venue_id":387808687
         }
     ],
     "wof:id":387808687,
-    "wof:lastmodified":1449056299,
+    "wof:lastmodified":1454129563,
     "wof:name":"Kwilecki Enterprises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529777,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "commercial"
     ]
 },
-  "bbox": [-74.111854,41.136121,-74.111854,41.136121],
-  "geometry": {"coordinates":[-74.111854,41.136121],"type":"Point"}
+  "bbox": [
+    -74.111854,
+    41.136121,
+    -74.111854,
+    41.136121
+],
+  "geometry": {"coordinates":[-74.11185399999999,41.136121],"type":"Point"}
 }

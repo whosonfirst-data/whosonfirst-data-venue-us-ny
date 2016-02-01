@@ -2,13 +2,14 @@
   "id": 303250961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.831613,40.847149,-73.831613,40.847149",
     "geom:latitude":40.847149,
     "geom:longitude":-73.831613,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3008 Buhre Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865663,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865663
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"3820f32d80fe7a3d1752413546935030",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865663,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":303250961,
-    "wof:lastmodified":1448999517,
+    "wof:lastmodified":1454123435,
     "wof:name":"Pelham Bay Variety Inc",
     "wof:parent_id":85865663,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.831613,40.847149,-73.831613,40.847149],
+  "bbox": [
+    -73.831613,
+    40.847149,
+    -73.831613,
+    40.847149
+],
   "geometry": {"coordinates":[-73.831613,40.847149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370718209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.167983,40.804394,-73.167983,40.804394",
     "geom:latitude":40.804394,
     "geom:longitude":-73.167983,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7 Sagebrush Ln",
     "sg:city":"Central Islip",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816389,
+        102191575,
+        404522517,
         85633793,
-        85979773,
+        85979693,
         102082395,
-        85816389
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"d4556407f04e69d5397061d567a699d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
             "neighbourhood_id":85816389,
             "region_id":85688543,
             "venue_id":370718209
         }
     ],
     "wof:id":370718209,
-    "wof:lastmodified":1449029825,
+    "wof:lastmodified":1454127531,
     "wof:name":"Undercover Wear",
     "wof:parent_id":85816389,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "sales"
     ]
 },
-  "bbox": [-73.167983,40.804394,-73.167983,40.804394],
-  "geometry": {"coordinates":[-73.167983,40.804394],"type":"Point"}
+  "bbox": [
+    -73.167983,
+    40.804394,
+    -73.167983,
+    40.804394
+],
+  "geometry": {"coordinates":[-73.16798300000001,40.804394],"type":"Point"}
 }

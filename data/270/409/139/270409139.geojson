@@ -2,13 +2,14 @@
   "id": 270409139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.325578,40.879514,-73.325578,40.879514",
     "geom:latitude":40.879514,
     "geom:longitude":-73.325578,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"80 Larkfield Rd",
     "sg:city":"East Northport",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.mysticantiques.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853661,
+        102191575,
+        404522515,
         85633793,
         85978469,
         102082395,
-        85853661
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"a634808dae39794c1f8c293932452c7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85978469,
             "neighbourhood_id":85853661,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":270409139,
-    "wof:lastmodified":1449009647,
+    "wof:lastmodified":1454124514,
     "wof:name":"MYSTICANTIQUES.COM",
     "wof:parent_id":85853661,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "consignment"
     ]
 },
-  "bbox": [-73.325578,40.879514,-73.325578,40.879514],
-  "geometry": {"coordinates":[-73.325578,40.879514],"type":"Point"}
+  "bbox": [
+    -73.325578,
+    40.879514,
+    -73.325578,
+    40.879514
+],
+  "geometry": {"coordinates":[-73.32557799999999,40.879514],"type":"Point"}
 }

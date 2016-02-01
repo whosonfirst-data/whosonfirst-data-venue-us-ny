@@ -2,13 +2,14 @@
   "id": 303649909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.999744,41.138921,-73.999744,41.138921",
     "geom:latitude":41.138921,
     "geom:longitude":-73.999744,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"127 S Little Tor Rd",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"93f645854474bdc14799eeafff1a342d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":303649909
         }
     ],
     "wof:id":303649909,
-    "wof:lastmodified":1448999785,
+    "wof:lastmodified":1454123508,
     "wof:name":"Morton S Tau DDS",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.999744,41.138921,-73.999744,41.138921],
-  "geometry": {"coordinates":[-73.999744,41.138921],"type":"Point"}
+  "bbox": [
+    -73.999744,
+    41.138921,
+    -73.999744,
+    41.138921
+],
+  "geometry": {"coordinates":[-73.99974400000001,41.138921],"type":"Point"}
 }

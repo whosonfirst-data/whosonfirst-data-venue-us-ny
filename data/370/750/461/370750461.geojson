@@ -2,13 +2,14 @@
   "id": 370750461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.186003,42.643545,-76.186003,42.643545",
     "geom:latitude":42.643545,
     "geom:longitude":-76.186003,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"70 Clinton St",
     "sg:city":"Homer",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528395,
+        102191575,
+        404522255,
         85633793,
         85978519,
-        102083011
+        102083011,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"ea7b993edc7c075cdb6788ff408a6d69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083011,
+            "localadmin_id":404522255,
             "locality_id":85978519,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528395,
             "region_id":85688543,
             "venue_id":370750461
         }
     ],
     "wof:id":370750461,
-    "wof:lastmodified":1449031125,
+    "wof:lastmodified":1454127914,
     "wof:name":"Evener Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528395,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.186003,42.643545,-76.186003,42.643545],
+  "bbox": [
+    -76.186003,
+    42.643545,
+    -76.186003,
+    42.643545
+],
   "geometry": {"coordinates":[-76.186003,42.643545],"type":"Point"}
 }

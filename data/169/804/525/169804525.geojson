@@ -2,13 +2,14 @@
   "id": 169804525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.940053,40.625596,-73.940053,40.625596",
     "geom:latitude":40.625596,
     "geom:longitude":-73.940053,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1816 Flatbush Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"www.idealuniform.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819585,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85819585
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"3cf2fbc471950560f11c9a3d1b913532",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819585,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":169804525,
-    "wof:lastmodified":1449034987,
+    "wof:lastmodified":1454128420,
     "wof:name":"Ideal Uniform Store",
     "wof:parent_id":85819585,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.940053,40.625596,-73.940053,40.625596],
-  "geometry": {"coordinates":[-73.940053,40.625596],"type":"Point"}
+  "bbox": [
+    -73.940053,
+    40.625596,
+    -73.940053,
+    40.625596
+],
+  "geometry": {"coordinates":[-73.94005300000001,40.625596],"type":"Point"}
 }

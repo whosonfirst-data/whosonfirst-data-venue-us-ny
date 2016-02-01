@@ -2,13 +2,14 @@
   "id": 354418175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.103524,40.752742,-73.103524,40.752742",
     "geom:latitude":40.752742,
     "geom:longitude":-73.103524,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"590 Spruce Ave",
     "sg:city":"Sayville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"5d7327d02cf6e66cada71dafc6f93aa4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":354418175
         }
     ],
     "wof:id":354418175,
-    "wof:lastmodified":1449067271,
+    "wof:lastmodified":1454131185,
     "wof:name":"Batorskys Mobile Welding",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "welder"
     ]
 },
-  "bbox": [-73.103524,40.752742,-73.103524,40.752742],
-  "geometry": {"coordinates":[-73.103524,40.752742],"type":"Point"}
+  "bbox": [
+    -73.103524,
+    40.752742,
+    -73.103524,
+    40.752742
+],
+  "geometry": {"coordinates":[-73.10352399999999,40.752742],"type":"Point"}
 }

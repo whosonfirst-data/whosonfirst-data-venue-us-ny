@@ -2,13 +2,14 @@
   "id": 253104511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.590365,40.714477,-73.590365,40.714477",
     "geom:latitude":40.714477,
     "geom:longitude":-73.590365,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"124 Manor Pkwy",
     "sg:city":"Uniondale",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893049,
+        102191575,
+        404521473,
         85633793,
         85979155,
         102082371,
-        85893049
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"0db8deacf1157745e95350c4c00f39c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979155,
             "neighbourhood_id":85893049,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":253104511,
-    "wof:lastmodified":1449064045,
+    "wof:lastmodified":1454130450,
     "wof:name":"Medscribers",
     "wof:parent_id":85893049,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "medical"
     ]
 },
-  "bbox": [-73.590365,40.714477,-73.590365,40.714477],
-  "geometry": {"coordinates":[-73.590365,40.714477],"type":"Point"}
+  "bbox": [
+    -73.590365,
+    40.714477,
+    -73.590365,
+    40.714477
+],
+  "geometry": {"coordinates":[-73.59036500000001,40.714477],"type":"Point"}
 }

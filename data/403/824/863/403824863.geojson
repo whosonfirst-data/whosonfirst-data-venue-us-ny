@@ -2,13 +2,14 @@
   "id": 403824863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.170357,43.059155,-76.170357,43.059155",
     "geom:latitude":43.059155,
     "geom:longitude":-76.170357,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1005 N Geddes St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881283,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881283
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"f7293a0de24d6109983da23a54157586",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881283,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":403824863,
-    "wof:lastmodified":1449055100,
+    "wof:lastmodified":1454129388,
     "wof:name":"Hogan's Radiator Sales & Svc",
     "wof:parent_id":85881283,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "general"
     ]
 },
-  "bbox": [-76.170357,43.059155,-76.170357,43.059155],
+  "bbox": [
+    -76.170357,
+    43.059155,
+    -76.170357,
+    43.059155
+],
   "geometry": {"coordinates":[-76.170357,43.059155],"type":"Point"}
 }

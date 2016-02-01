@@ -2,13 +2,14 @@
   "id": 354092527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.5248,40.670218,-73.5248,40.670218",
     "geom:latitude":40.670218,
     "geom:longitude":-73.5248,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2200 Bellmore Ave",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -51,11 +52,13 @@
     "sg:website":"http://longisland.citysearch.com/profile/external/7484352/bellmore_ny/executive_limousine.html?publisher=yellowpages&reference_id=15&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893065,
+        102191575,
+        404521473,
         85633793,
         85979065,
         102082371,
-        85893065
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,9 +68,10 @@
     "wof:geomhash":"a750019b729107d077708d9a5a664f06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979065,
             "neighbourhood_id":85893065,
             "region_id":85688543,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":354092527,
-    "wof:lastmodified":1449067321,
+    "wof:lastmodified":1454131200,
     "wof:name":"Executive Limousine",
     "wof:parent_id":85893065,
     "wof:placetype":"venue",
@@ -88,6 +92,11 @@
         "provider"
     ]
 },
-  "bbox": [-73.5248,40.670218,-73.5248,40.670218],
+  "bbox": [
+    -73.5248,
+    40.670218,
+    -73.5248,
+    40.670218
+],
   "geometry": {"coordinates":[-73.5248,40.670218],"type":"Point"}
 }

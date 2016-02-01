@@ -2,13 +2,14 @@
   "id": 269549741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.704579,40.724782,-73.704579,40.724782",
     "geom:latitude":40.724782,
     "geom:longitude":-73.704579,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"143 Tulip Ave",
     "sg:city":"Floral Park",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892843,
+        102191575,
+        404521473,
         85633793,
-        85977667,
+        85977689,
         102082371,
-        85892843
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"86aebd2a603d38c871872e3c5366933a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977667,
+            "localadmin_id":404521473,
+            "locality_id":85977689,
             "neighbourhood_id":85892843,
             "region_id":85688543,
             "venue_id":269549741
         }
     ],
     "wof:id":269549741,
-    "wof:lastmodified":1449036819,
+    "wof:lastmodified":1454128561,
     "wof:name":"Capital Tempfunds",
     "wof:parent_id":85892843,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "business"
     ]
 },
-  "bbox": [-73.704579,40.724782,-73.704579,40.724782],
+  "bbox": [
+    -73.704579,
+    40.724782,
+    -73.704579,
+    40.724782
+],
   "geometry": {"coordinates":[-73.704579,40.724782],"type":"Point"}
 }

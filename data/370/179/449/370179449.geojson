@@ -2,13 +2,14 @@
   "id": 370179449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.362884,40.679618,-73.362884,40.679618",
     "geom:latitude":40.679618,
     "geom:longitude":-73.362884,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"22 Dominick Ct",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
         85978477,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"f33e8a5cf17b17b1417a598443a64b1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522513,
             "locality_id":85978477,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":370179449
         }
     ],
     "wof:id":370179449,
-    "wof:lastmodified":1449032131,
+    "wof:lastmodified":1454128209,
     "wof:name":"Giannini Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.362884,40.679618,-73.362884,40.679618],
-  "geometry": {"coordinates":[-73.362884,40.679618],"type":"Point"}
+  "bbox": [
+    -73.362884,
+    40.679618,
+    -73.362884,
+    40.679618
+],
+  "geometry": {"coordinates":[-73.36288399999999,40.679618],"type":"Point"}
 }

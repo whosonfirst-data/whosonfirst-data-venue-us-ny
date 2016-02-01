@@ -2,13 +2,14 @@
   "id": 387274821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.41166,43.183001,-77.41166,43.183001",
     "geom:latitude":43.183001,
     "geom:longitude":-77.41166,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1375 Harris Rd",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85845997,
+        102081815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"58cc50b3089d1a3a0a1593ebaea1d082",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "neighbourhood_id":85845997,
             "region_id":85688543,
             "venue_id":387274821
         }
     ],
     "wof:id":387274821,
-    "wof:lastmodified":1449056574,
+    "wof:lastmodified":1454129611,
     "wof:name":"Andy Hill Crane Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85845997,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "crane"
     ]
 },
-  "bbox": [-77.41166,43.183001,-77.41166,43.183001],
+  "bbox": [
+    -77.41166,
+    43.183001,
+    -77.41166,
+    43.183001
+],
   "geometry": {"coordinates":[-77.41166,43.183001],"type":"Point"}
 }

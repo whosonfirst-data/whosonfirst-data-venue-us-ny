@@ -2,13 +2,14 @@
   "id": 353706907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.048304,40.835887,-73.048304,40.835887",
     "geom:latitude":40.835887,
     "geom:longitude":-73.048304,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"400 Horseblock Rd",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
         85979689,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"19e6c08f52b73e86ced92ddfd8805d16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979689,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":353706907
         }
     ],
     "wof:id":353706907,
-    "wof:lastmodified":1449018439,
+    "wof:lastmodified":1454126002,
     "wof:name":"Stephen Diamond DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892863,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.048304,40.835887,-73.048304,40.835887],
+  "bbox": [
+    -73.048304,
+    40.835887,
+    -73.048304,
+    40.835887
+],
   "geometry": {"coordinates":[-73.048304,40.835887],"type":"Point"}
 }

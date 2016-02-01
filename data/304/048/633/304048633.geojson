@@ -2,13 +2,14 @@
   "id": 304048633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.835923,42.72944,-78.835923,42.72944",
     "geom:latitude":42.72944,
     "geom:longitude":-78.835923,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5777 Camp Rd",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847477,
+        102191575,
+        404522347,
         85633793,
+        85978013,
         102082387,
-        85847477
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"fea9a6a132667b36837bc0181b5e5c9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522347,
+            "locality_id":85978013,
             "neighbourhood_id":85847477,
             "region_id":85688543,
             "venue_id":304048633
         }
     ],
     "wof:id":304048633,
-    "wof:lastmodified":1449043759,
+    "wof:lastmodified":1454128995,
     "wof:name":"Professional Scuba",
     "wof:parent_id":85847477,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "instruction"
     ]
 },
-  "bbox": [-78.835923,42.72944,-78.835923,42.72944],
-  "geometry": {"coordinates":[-78.835923,42.72944],"type":"Point"}
+  "bbox": [
+    -78.835923,
+    42.72944,
+    -78.835923,
+    42.72944
+],
+  "geometry": {"coordinates":[-78.83592299999999,42.72944],"type":"Point"}
 }

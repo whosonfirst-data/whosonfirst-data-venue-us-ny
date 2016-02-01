@@ -2,13 +2,14 @@
   "id": 370613321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.869003,41.179419,-73.869003,41.179419",
     "geom:latitude":41.179419,
     "geom:longitude":-73.869003,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"327 N Highland Ave",
     "sg:city":"Ossining",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832435,
+        102191575,
+        404523379,
         85633793,
-        85978745,
+        85978717,
         102082373,
-        85832435
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"6ff2b1c6e1d8c930dba5e74455812294",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978745,
+            "localadmin_id":404523379,
+            "locality_id":85978717,
             "neighbourhood_id":85832435,
             "region_id":85688543,
             "venue_id":370613321
         }
     ],
     "wof:id":370613321,
-    "wof:lastmodified":1449030667,
+    "wof:lastmodified":1454127778,
     "wof:name":"GDC Construction",
     "wof:parent_id":85832435,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "company"
     ]
 },
-  "bbox": [-73.869003,41.179419,-73.869003,41.179419],
-  "geometry": {"coordinates":[-73.869003,41.179419],"type":"Point"}
+  "bbox": [
+    -73.869003,
+    41.179419,
+    -73.869003,
+    41.179419
+],
+  "geometry": {"coordinates":[-73.86900300000001,41.179419],"type":"Point"}
 }

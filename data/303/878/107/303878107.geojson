@@ -2,13 +2,14 @@
   "id": 303878107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.87547,41.015929,-73.87547,41.015929",
     "geom:latitude":41.015929,
     "geom:longitude":-73.87547,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"129 Palisade St",
     "sg:city":"Dobbs Ferry",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85849177,
+        102191575,
+        404523359,
         85633793,
-        102082385,
-        85849177
+        85978743,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"d4e6fd98a271cb228524234210459f7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082385,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523359,
+            "locality_id":85978743,
             "neighbourhood_id":85849177,
             "region_id":85688543,
             "venue_id":303878107
         }
     ],
     "wof:id":303878107,
-    "wof:lastmodified":1448999399,
+    "wof:lastmodified":1454123404,
     "wof:name":"A Moretti Construction Inc",
     "wof:parent_id":85849177,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.87547,41.015929,-73.87547,41.015929],
-  "geometry": {"coordinates":[-73.87547,41.015929],"type":"Point"}
+  "bbox": [
+    -73.87547,
+    41.015929,
+    -73.87547,
+    41.015929
+],
+  "geometry": {"coordinates":[-73.87547000000001,41.015929],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303752753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.836088,42.729282,-78.836088,42.729282",
     "geom:latitude":42.729282,
     "geom:longitude":-78.836088,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5771 Camp Rd",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847477,
+        102191575,
+        404522347,
         85633793,
+        85978013,
         102082387,
-        85847477
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"122277315f0ffc9006dee4051e2e1e32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522347,
+            "locality_id":85978013,
             "neighbourhood_id":85847477,
             "region_id":85688543,
             "venue_id":303752753
         }
     ],
     "wof:id":303752753,
-    "wof:lastmodified":1448998527,
+    "wof:lastmodified":1454123129,
     "wof:name":"Citibank",
     "wof:parent_id":85847477,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "commercial"
     ]
 },
-  "bbox": [-78.836088,42.729282,-78.836088,42.729282],
+  "bbox": [
+    -78.836088,
+    42.729282,
+    -78.836088,
+    42.729282
+],
   "geometry": {"coordinates":[-78.836088,42.729282],"type":"Point"}
 }

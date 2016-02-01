@@ -2,13 +2,14 @@
   "id": 303823819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.88842,40.892618,-72.88842,40.892618",
     "geom:latitude":40.892618,
     "geom:longitude":-72.88842,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Pond Ln",
     "sg:city":"Ridge",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979861,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"d20c4cea25ca34d9789a34f108e16631",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979861,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":303823819
         }
     ],
     "wof:id":303823819,
-    "wof:lastmodified":1449000543,
+    "wof:lastmodified":1454123718,
     "wof:name":"Puma Machinery Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-72.88842,40.892618,-72.88842,40.892618],
+  "bbox": [
+    -72.88842,
+    40.892618,
+    -72.88842,
+    40.892618
+],
   "geometry": {"coordinates":[-72.88842,40.892618],"type":"Point"}
 }

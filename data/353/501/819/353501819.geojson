@@ -2,13 +2,14 @@
   "id": 353501819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.907201,40.726652,-73.907201,40.726652",
     "geom:latitude":40.726652,
     "geom:longitude":-73.907201,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"59-40 55th Road",
     "sg:city":"Maspeth",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     "sg:website":"www.holidayinnexpress.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832845,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85832845
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"09e0eaa14f1892da2af46ebca9f38c11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85832845,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":353501819,
-    "wof:lastmodified":1449020819,
+    "wof:lastmodified":1454126691,
     "wof:name":"Holiday Inn Express Hotel Maspeth",
     "wof:parent_id":85832845,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "venue"
     ]
 },
-  "bbox": [-73.907201,40.726652,-73.907201,40.726652],
+  "bbox": [
+    -73.907201,
+    40.726652,
+    -73.907201,
+    40.726652
+],
   "geometry": {"coordinates":[-73.907201,40.726652],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337324073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.91549,40.702159,-73.91549,40.702159",
     "geom:latitude":40.702159,
     "geom:longitude":-73.91549,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"221 Wyckoff Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85808635,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85808635
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"343782cfacd09e93a14d79e15eee2c8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85808635,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":337324073,
-    "wof:lastmodified":1449027422,
+    "wof:lastmodified":1454127057,
     "wof:name":"Adam Discount 99 Cents Inc",
     "wof:parent_id":85808635,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.91549,40.702159,-73.91549,40.702159],
-  "geometry": {"coordinates":[-73.91549,40.702159],"type":"Point"}
+  "bbox": [
+    -73.91549,
+    40.702159,
+    -73.91549,
+    40.702159
+],
+  "geometry": {"coordinates":[-73.91549000000001,40.702159],"type":"Point"}
 }

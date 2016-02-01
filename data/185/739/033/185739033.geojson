@@ -2,13 +2,14 @@
   "id": 185739033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.982255,40.640813,-73.982255,40.640813",
     "geom:latitude":40.640813,
     "geom:longitude":-73.982255,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3611 14th Ave Ste 503",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85828101,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85828101
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"1a25560c791e835a4f92446bdd774da2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85828101,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":185739033,
-    "wof:lastmodified":1449007280,
+    "wof:lastmodified":1454124230,
     "wof:name":"House of Bangles",
     "wof:parent_id":85828101,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.982255,40.640813,-73.982255,40.640813],
-  "geometry": {"coordinates":[-73.982255,40.640813],"type":"Point"}
+  "bbox": [
+    -73.982255,
+    40.640813,
+    -73.982255,
+    40.640813
+],
+  "geometry": {"coordinates":[-73.98225499999999,40.640813],"type":"Point"}
 }

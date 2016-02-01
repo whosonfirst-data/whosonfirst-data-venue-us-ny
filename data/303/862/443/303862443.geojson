@@ -2,13 +2,14 @@
   "id": 303862443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.797606,40.968226,-73.797606,40.968226",
     "geom:latitude":40.968226,
     "geom:longitude":-73.797606,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"79 Vernon Dr",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530387,
+        102191575,
+        404523375,
         85633793,
-        85980071,
-        102082373
+        85978749,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"9ccbd59d906ffed7dcf087cc13f9a0b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523375,
+            "locality_id":85978749,
+            "neighbourhood_id":420530387,
             "region_id":85688543,
             "venue_id":303862443
         }
     ],
     "wof:id":303862443,
-    "wof:lastmodified":1449000628,
+    "wof:lastmodified":1454123744,
     "wof:name":"Superior Cadillac Livery",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530387,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "passenger"
     ]
 },
-  "bbox": [-73.797606,40.968226,-73.797606,40.968226],
+  "bbox": [
+    -73.797606,
+    40.968226,
+    -73.797606,
+    40.968226
+],
   "geometry": {"coordinates":[-73.797606,40.968226],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370326101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.720147,40.719434,-73.720147,40.719434",
     "geom:latitude":40.719434,
     "geom:longitude":-73.720147,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Poppy Pl",
     "sg:city":"Floral Park",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.floralpark.k12.ny.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805483,
+        102191575,
+        404521473,
         85633793,
-        85977709,
+        85977689,
         102082371,
-        85805483
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +42,18 @@
     "wof:geomhash":"7dcb9feace169e6311ece350d39bd6d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977709,
+            "localadmin_id":404521473,
+            "locality_id":85977689,
             "neighbourhood_id":85805483,
             "region_id":85688543,
             "venue_id":370326101
         }
     ],
     "wof:id":370326101,
-    "wof:lastmodified":1449030524,
+    "wof:lastmodified":1454127735,
     "wof:name":"Floral Park-Bellrose Union",
     "wof:parent_id":85805483,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.720147,40.719434,-73.720147,40.719434],
+  "bbox": [
+    -73.720147,
+    40.719434,
+    -73.720147,
+    40.719434
+],
   "geometry": {"coordinates":[-73.720147,40.719434],"type":"Point"}
 }

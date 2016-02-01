@@ -2,13 +2,14 @@
   "id": 370273571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.855494,40.762722,-72.855494,40.762722",
     "geom:latitude":40.762722,
     "geom:longitude":-72.855494,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"346 Neighborhood Rd",
     "sg:city":"Mastic Beach",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892903,
+        102191575,
+        404521441,
         85633793,
+        85978437,
         102082395,
-        85892903
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"4033d08bc47306396a8807168804469a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85978437,
             "neighbourhood_id":85892903,
             "region_id":85688543,
             "venue_id":370273571
         }
     ],
     "wof:id":370273571,
-    "wof:lastmodified":1449030840,
+    "wof:lastmodified":1454127829,
     "wof:name":"Mastic Beach Laundromat",
     "wof:parent_id":85892903,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.855494,40.762722,-72.855494,40.762722],
-  "geometry": {"coordinates":[-72.855494,40.762722],"type":"Point"}
+  "bbox": [
+    -72.855494,
+    40.762722,
+    -72.855494,
+    40.762722
+],
+  "geometry": {"coordinates":[-72.85549399999999,40.762722],"type":"Point"}
 }

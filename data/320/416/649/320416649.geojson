@@ -2,13 +2,14 @@
   "id": 320416649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.367736,42.590312,-76.367736,42.590312",
     "geom:latitude":42.590312,
     "geom:longitude":-76.367736,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"115 Main St",
     "sg:city":"Groton",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530161,
+        102191575,
+        404523229,
         85633793,
         85978781,
-        102082355
+        102082355,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"31dc0f1534a069b1f52ae01c42ba57f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082355,
+            "localadmin_id":404523229,
             "locality_id":85978781,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530161,
             "region_id":85688543,
             "venue_id":320416649
         }
     ],
     "wof:id":320416649,
-    "wof:lastmodified":1449012933,
+    "wof:lastmodified":1454125033,
     "wof:name":"Agricultural Consulting Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530161,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-76.367736,42.590312,-76.367736,42.590312],
-  "geometry": {"coordinates":[-76.367736,42.590312],"type":"Point"}
+  "bbox": [
+    -76.367736,
+    42.590312,
+    -76.367736,
+    42.590312
+],
+  "geometry": {"coordinates":[-76.36773599999999,42.590312],"type":"Point"}
 }

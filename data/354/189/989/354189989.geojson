@@ -2,13 +2,14 @@
   "id": 354189989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.437865,40.716517,-73.437865,40.716517",
     "geom:latitude":40.716517,
     "geom:longitude":-73.437865,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 Junard Dr",
     "sg:city":"Farmingdale",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85833107,
+        102191575,
+        404521475,
         85633793,
-        85979843,
-        102082395,
-        85833107
+        85979161,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"528f7260307470139b7300834b92e6d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979843,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979161,
             "neighbourhood_id":85833107,
             "region_id":85688543,
             "venue_id":354189989
         }
     ],
     "wof:id":354189989,
-    "wof:lastmodified":1449067159,
+    "wof:lastmodified":1454131149,
     "wof:name":"David Droge Mortgag",
     "wof:parent_id":85833107,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "processing"
     ]
 },
-  "bbox": [-73.437865,40.716517,-73.437865,40.716517],
+  "bbox": [
+    -73.437865,
+    40.716517,
+    -73.437865,
+    40.716517
+],
   "geometry": {"coordinates":[-73.437865,40.716517],"type":"Point"}
 }

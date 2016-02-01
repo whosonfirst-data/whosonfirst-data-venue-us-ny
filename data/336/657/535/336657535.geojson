@@ -2,13 +2,14 @@
   "id": 336657535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.843804,40.911869,-73.843804,40.911869",
     "geom:latitude":40.911869,
     "geom:longitude":-73.843804,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"243 W Lincoln Ave",
     "sg:city":"Mount Vernon",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"be49933767abfc51b829408dc46e4dde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":336657535
         }
     ],
     "wof:id":336657535,
-    "wof:lastmodified":1448997049,
+    "wof:lastmodified":1454122382,
     "wof:name":"Avanti Building & Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-73.843804,40.911869,-73.843804,40.911869],
-  "geometry": {"coordinates":[-73.843804,40.911869],"type":"Point"}
+  "bbox": [
+    -73.843804,
+    40.911869,
+    -73.843804,
+    40.911869
+],
+  "geometry": {"coordinates":[-73.84380400000001,40.911869],"type":"Point"}
 }

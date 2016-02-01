@@ -2,13 +2,14 @@
   "id": 404068781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.732022,40.786241,-73.732022,40.786241",
     "geom:latitude":40.786241,
     "geom:longitude":-73.732022,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 Spruce Pl",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865341,
+        102191575,
+        404522729,
         85633793,
         85977683,
         102082371,
-        85865341
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"bbe08c966144531f5e08b4de6ee113b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85977683,
             "neighbourhood_id":85865341,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":404068781,
-    "wof:lastmodified":1449039700,
+    "wof:lastmodified":1454128894,
     "wof:name":"Good Dogs Inc",
     "wof:parent_id":85865341,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "dog"
     ]
 },
-  "bbox": [-73.732022,40.786241,-73.732022,40.786241],
+  "bbox": [
+    -73.732022,
+    40.786241,
+    -73.732022,
+    40.786241
+],
   "geometry": {"coordinates":[-73.732022,40.786241],"type":"Point"}
 }

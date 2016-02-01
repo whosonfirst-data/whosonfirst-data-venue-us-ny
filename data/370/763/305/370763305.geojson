@@ -2,13 +2,14 @@
   "id": 370763305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.81049,40.985963,-73.81049,40.985963",
     "geom:latitude":40.985963,
     "geom:longitude":-73.81049,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"127 Garth Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530443,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"c1e942d72a5de4a471bf5f1cf0ab069a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530443,
             "region_id":85688543,
             "venue_id":370763305
         }
     ],
     "wof:id":370763305,
-    "wof:lastmodified":1449032453,
+    "wof:lastmodified":1454128307,
     "wof:name":"Global Research Partnership",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530443,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "search"
     ]
 },
-  "bbox": [-73.81049,40.985963,-73.81049,40.985963],
+  "bbox": [
+    -73.81049,
+    40.985963,
+    -73.81049,
+    40.985963
+],
   "geometry": {"coordinates":[-73.81049,40.985963],"type":"Point"}
 }

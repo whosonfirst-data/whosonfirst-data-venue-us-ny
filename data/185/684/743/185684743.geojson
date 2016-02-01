@@ -2,13 +2,14 @@
   "id": 185684743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993806,40.664847,-73.993806,40.664847",
     "geom:latitude":40.664847,
     "geom:longitude":-73.993806,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"620 4th Avenue",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851575,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85851575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"db6179c55c7874af669110d15eed959f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85851575,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":185684743,
-    "wof:lastmodified":1449007017,
+    "wof:lastmodified":1454124194,
     "wof:name":"El Sabor Latino Restaurant",
     "wof:parent_id":85851575,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "latin"
     ]
 },
-  "bbox": [-73.993806,40.664847,-73.993806,40.664847],
-  "geometry": {"coordinates":[-73.993806,40.664847],"type":"Point"}
+  "bbox": [
+    -73.993806,
+    40.664847,
+    -73.993806,
+    40.664847
+],
+  "geometry": {"coordinates":[-73.99380600000001,40.664847],"type":"Point"}
 }

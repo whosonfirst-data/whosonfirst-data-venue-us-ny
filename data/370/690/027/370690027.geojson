@@ -2,13 +2,14 @@
   "id": 370690027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.424243,43.84879,-73.424243,43.84879",
     "geom:latitude":43.84879,
     "geom:longitude":-73.424243,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"113 Montcalm St",
     "sg:city":"Ticonderoga",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820233,
+        102191575,
+        404522389,
         85633793,
+        85978885,
         102082405,
-        85820233
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"78de8fe567c67be5a1d7cdf11edf4f9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082405,
-            "locality_id":-1,
+            "localadmin_id":404522389,
+            "locality_id":85978885,
             "neighbourhood_id":85820233,
             "region_id":85688543,
             "venue_id":370690027
         }
     ],
     "wof:id":370690027,
-    "wof:lastmodified":1449030863,
+    "wof:lastmodified":1454127836,
     "wof:name":"Adirondack Furniture By George",
     "wof:parent_id":85820233,
     "wof:placetype":"venue",
@@ -69,6 +74,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.424243,43.84879,-73.424243,43.84879],
+  "bbox": [
+    -73.424243,
+    43.84879,
+    -73.424243,
+    43.84879
+],
   "geometry": {"coordinates":[-73.424243,43.84879],"type":"Point"}
 }

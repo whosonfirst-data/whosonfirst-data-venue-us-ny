@@ -2,13 +2,14 @@
   "id": 269570717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.925401,40.826656,-73.925401,40.826656",
     "geom:latitude":40.826656,
     "geom:longitude":-73.925401,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"857 Gerard Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865669,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865669
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"b9cdb628aeb73ead16f075d431b6bd93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865669,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":269570717,
-    "wof:lastmodified":1449037565,
+    "wof:lastmodified":1454128674,
     "wof:name":"Vida",
     "wof:parent_id":85865669,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.925401,40.826656,-73.925401,40.826656],
-  "geometry": {"coordinates":[-73.925401,40.826656],"type":"Point"}
+  "bbox": [
+    -73.925401,
+    40.826656,
+    -73.925401,
+    40.826656
+],
+  "geometry": {"coordinates":[-73.92540099999999,40.826656],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 386955541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.838045,40.966609,-73.838045,40.966609",
     "geom:latitude":40.966609,
     "geom:longitude":-73.838045,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1990 Central Park Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.mdcosmetic-laser.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530405,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"b974fa62ba7605e4935dd2a94652eeb8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530405,
             "region_id":85688543,
             "venue_id":386955541
         }
     ],
     "wof:id":386955541,
-    "wof:lastmodified":1449028835,
+    "wof:lastmodified":1454127246,
     "wof:name":"MD Cosmetic & Lawer Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530405,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.838045,40.966609,-73.838045,40.966609],
-  "geometry": {"coordinates":[-73.838045,40.966609],"type":"Point"}
+  "bbox": [
+    -73.838045,
+    40.966609,
+    -73.838045,
+    40.966609
+],
+  "geometry": {"coordinates":[-73.83804499999999,40.966609],"type":"Point"}
 }

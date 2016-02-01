@@ -2,13 +2,14 @@
   "id": 354110421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.105247,40.768871,-73.105247,40.768871",
     "geom:latitude":40.768871,
     "geom:longitude":-73.105247,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Debbie Lee Ln",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"8f860e380b7deeafc8d9eaf17bdaf334",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":354110421
         }
     ],
     "wof:id":354110421,
-    "wof:lastmodified":1449066474,
+    "wof:lastmodified":1454130937,
     "wof:name":"Jfa Auto Inc",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "automobile"
     ]
 },
-  "bbox": [-73.105247,40.768871,-73.105247,40.768871],
-  "geometry": {"coordinates":[-73.105247,40.768871],"type":"Point"}
+  "bbox": [
+    -73.105247,
+    40.768871,
+    -73.105247,
+    40.768871
+],
+  "geometry": {"coordinates":[-73.10524700000001,40.768871],"type":"Point"}
 }

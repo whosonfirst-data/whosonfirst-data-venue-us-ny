@@ -2,13 +2,14 @@
   "id": 252796813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.843239,40.860576,-73.843239,40.860576",
     "geom:latitude":40.860576,
     "geom:longitude":-73.843239,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2323 Eastchester Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825625,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85825625
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"7199171ed47b97a3b9c36c4a2827731a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85825625,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":252796813,
-    "wof:lastmodified":1449005923,
+    "wof:lastmodified":1454124052,
     "wof:name":"Joseph Bachfeld",
     "wof:parent_id":85825625,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "convalescent"
     ]
 },
-  "bbox": [-73.843239,40.860576,-73.843239,40.860576],
+  "bbox": [
+    -73.843239,
+    40.860576,
+    -73.843239,
+    40.860576
+],
   "geometry": {"coordinates":[-73.843239,40.860576],"type":"Point"}
 }

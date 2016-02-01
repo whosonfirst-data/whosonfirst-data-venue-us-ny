@@ -2,13 +2,14 @@
   "id": 253200355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.96961,41.130998,-73.96961,41.130998",
     "geom:latitude":41.130998,
     "geom:longitude":-73.96961,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 Robinhood Ln",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"9fc77d66d4fa270b410af63a40bb4f32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":253200355
         }
     ],
     "wof:id":253200355,
-    "wof:lastmodified":1449064010,
+    "wof:lastmodified":1454130444,
     "wof:name":"Michael Araneo Inc",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.96961,41.130998,-73.96961,41.130998],
+  "bbox": [
+    -73.96961,
+    41.130998,
+    -73.96961,
+    41.130998
+],
   "geometry": {"coordinates":[-73.96961,41.130998],"type":"Point"}
 }

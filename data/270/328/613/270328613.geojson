@@ -2,13 +2,14 @@
   "id": 270328613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.696897,40.727395,-73.696897,40.727395",
     "geom:latitude":40.727395,
     "geom:longitude":-73.696897,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"93 Charles St",
     "sg:city":"Floral Park",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892843,
+        102191575,
+        404521473,
         85633793,
-        85977667,
+        85977689,
         102082371,
-        85892843
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"3fb3364a2c72a0b99e35178eb525676b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977667,
+            "localadmin_id":404521473,
+            "locality_id":85977689,
             "neighbourhood_id":85892843,
             "region_id":85688543,
             "venue_id":270328613
         }
     ],
     "wof:id":270328613,
-    "wof:lastmodified":1449010085,
+    "wof:lastmodified":1454124582,
     "wof:name":"Globe Vending Co Inc",
     "wof:parent_id":85892843,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "operator"
     ]
 },
-  "bbox": [-73.696897,40.727395,-73.696897,40.727395],
-  "geometry": {"coordinates":[-73.696897,40.727395],"type":"Point"}
+  "bbox": [
+    -73.696897,
+    40.727395,
+    -73.696897,
+    40.727395
+],
+  "geometry": {"coordinates":[-73.69689700000001,40.727395],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303681845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.874392,41.016804,-73.874392,41.016804",
     "geom:latitude":41.016804,
     "geom:longitude":-73.874392,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"99 Cedar St",
     "sg:city":"Dobbs Ferry",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85849177,
+        102191575,
+        404523359,
         85633793,
-        102082385,
-        85849177
+        85978743,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"dc7966fb6a6aa0be6f21fe3402219c03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082385,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523359,
+            "locality_id":85978743,
             "neighbourhood_id":85849177,
             "region_id":85688543,
             "venue_id":303681845
         }
     ],
     "wof:id":303681845,
-    "wof:lastmodified":1448999613,
+    "wof:lastmodified":1454123460,
     "wof:name":"Dobbs Ferry Public Works",
     "wof:parent_id":85849177,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "parking"
     ]
 },
-  "bbox": [-73.874392,41.016804,-73.874392,41.016804],
+  "bbox": [
+    -73.874392,
+    41.016804,
+    -73.874392,
+    41.016804
+],
   "geometry": {"coordinates":[-73.874392,41.016804],"type":"Point"}
 }

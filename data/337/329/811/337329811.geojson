@@ -2,13 +2,14 @@
   "id": 337329811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.712259,40.696112,-73.712259,40.696112",
     "geom:latitude":40.696112,
     "geom:longitude":-73.712259,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 Fallon Ct",
     "sg:city":"Elmont",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529145,
+        102191575,
+        404521473,
         85633793,
         85979137,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"ac87227d147942d7e1b81cb1038c884c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979137,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529145,
             "region_id":85688543,
             "venue_id":337329811
         }
     ],
     "wof:id":337329811,
-    "wof:lastmodified":1449027166,
+    "wof:lastmodified":1454126957,
     "wof:name":"D G Painting Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529145,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "painter"
     ]
 },
-  "bbox": [-73.712259,40.696112,-73.712259,40.696112],
+  "bbox": [
+    -73.712259,
+    40.696112,
+    -73.712259,
+    40.696112
+],
   "geometry": {"coordinates":[-73.712259,40.696112],"type":"Point"}
 }

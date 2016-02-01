@@ -2,13 +2,14 @@
   "id": 370990095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.699263,43.132485,-78.699263,43.132485",
     "geom:latitude":43.132485,
     "geom:longitude":-78.699263,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6099 Robinson Rd",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -42,7 +43,12 @@
     "sg:website":"http://www.coopertire.com/html/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529193,
+        102191575,
+        404522737,
         85633793,
+        85979541,
+        102081767,
         85688543
     ],
     "wof:breaches":[],
@@ -53,18 +59,20 @@
     "wof:geomhash":"497df278f0202874e367be36a6362d21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081767,
+            "localadmin_id":404522737,
+            "locality_id":85979541,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":370990095
         }
     ],
     "wof:id":370990095,
-    "wof:lastmodified":1449031348,
+    "wof:lastmodified":1454127980,
     "wof:name":"Niagara Performance",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -76,6 +84,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-78.699263,43.132485,-78.699263,43.132485],
+  "bbox": [
+    -78.699263,
+    43.132485,
+    -78.699263,
+    43.132485
+],
   "geometry": {"coordinates":[-78.699263,43.132485],"type":"Point"}
 }

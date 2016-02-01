@@ -2,13 +2,14 @@
   "id": 286275593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.641017,40.664688,-73.641017,40.664688",
     "geom:latitude":40.664688,
     "geom:longitude":-73.641017,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Locust Ave",
     "sg:city":"Rockville Centre",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529139,
+        102191575,
+        404521473,
         85633793,
         85977629,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"23df33606250428c1eafae6cda32f904",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977629,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529139,
             "region_id":85688543,
             "venue_id":286275593
         }
     ],
     "wof:id":286275593,
-    "wof:lastmodified":1449016134,
+    "wof:lastmodified":1454125567,
     "wof:name":"Barry Rosing Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529139,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.641017,40.664688,-73.641017,40.664688],
-  "geometry": {"coordinates":[-73.641017,40.664688],"type":"Point"}
+  "bbox": [
+    -73.641017,
+    40.664688,
+    -73.641017,
+    40.664688
+],
+  "geometry": {"coordinates":[-73.64101700000001,40.664688],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371188447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.533561,40.697085,-73.533561,40.697085",
     "geom:latitude":40.697085,
     "geom:longitude":-73.533561,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"983 Bellmore Rd",
     "sg:city":"North Bellmore",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"9d72dc062497cf99c2890a8107b9f5cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":371188447
         }
     ],
     "wof:id":371188447,
-    "wof:lastmodified":1449049551,
+    "wof:lastmodified":1454129156,
     "wof:name":"Robert Schade CPA",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "accountant"
     ]
 },
-  "bbox": [-73.533561,40.697085,-73.533561,40.697085],
-  "geometry": {"coordinates":[-73.533561,40.697085],"type":"Point"}
+  "bbox": [
+    -73.533561,
+    40.697085,
+    -73.533561,
+    40.697085
+],
+  "geometry": {"coordinates":[-73.53356100000001,40.697085],"type":"Point"}
 }

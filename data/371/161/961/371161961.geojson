@@ -2,13 +2,14 @@
   "id": 371161961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.754059,42.882431,-78.754059,42.882431",
     "geom:latitude":42.882431,
     "geom:longitude":-78.754059,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2567 Union Rd",
     "sg:city":"Cheektowaga",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     "sg:website":"http://www.mcdonalds.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810569,
+        102191575,
+        404522333,
         85633793,
         85979431,
         102082387,
-        85810569
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"be8d71324dc3ce98c09e01b99d65cf0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522333,
             "locality_id":85979431,
             "neighbourhood_id":85810569,
             "region_id":85688543,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":371161961,
-    "wof:lastmodified":1449049440,
+    "wof:lastmodified":1454129132,
     "wof:name":"McDonald's",
     "wof:parent_id":85810569,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "chicken"
     ]
 },
-  "bbox": [-78.754059,42.882431,-78.754059,42.882431],
+  "bbox": [
+    -78.754059,
+    42.882431,
+    -78.754059,
+    42.882431
+],
   "geometry": {"coordinates":[-78.754059,42.882431],"type":"Point"}
 }

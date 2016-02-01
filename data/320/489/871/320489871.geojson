@@ -2,13 +2,14 @@
   "id": 320489871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.55801,40.757369,-73.55801,40.757369",
     "geom:latitude":40.757369,
     "geom:longitude":-73.55801,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"689 Main St",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.petmal.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85856711,
+        102191575,
+        404521475,
         85633793,
-        85979063,
+        85979093,
         102082371,
-        85856711
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"7e7a6826576721a75232f82ad3c02dcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979063,
+            "localadmin_id":404521475,
+            "locality_id":85979093,
             "neighbourhood_id":85856711,
             "region_id":85688543,
             "venue_id":320489871
         }
     ],
     "wof:id":320489871,
-    "wof:lastmodified":1449013309,
+    "wof:lastmodified":1454125097,
     "wof:name":"Petmal",
     "wof:parent_id":85856711,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "marble"
     ]
 },
-  "bbox": [-73.55801,40.757369,-73.55801,40.757369],
+  "bbox": [
+    -73.55801,
+    40.757369,
+    -73.55801,
+    40.757369
+],
   "geometry": {"coordinates":[-73.55801,40.757369],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353766259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.938539,40.797341,-73.938539,40.797341",
     "geom:latitude":40.797341,
     "geom:longitude":-73.938539,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"242 E 116th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865689,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865689
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"839b241f3ecb2d8276fe370393629fcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865689,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":353766259,
-    "wof:lastmodified":1449018217,
+    "wof:lastmodified":1454125939,
     "wof:name":"Juana's Luncheonette",
     "wof:parent_id":85865689,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.938539,40.797341,-73.938539,40.797341],
-  "geometry": {"coordinates":[-73.938539,40.797341],"type":"Point"}
+  "bbox": [
+    -73.938539,
+    40.797341,
+    -73.938539,
+    40.797341
+],
+  "geometry": {"coordinates":[-73.93853900000001,40.797341],"type":"Point"}
 }

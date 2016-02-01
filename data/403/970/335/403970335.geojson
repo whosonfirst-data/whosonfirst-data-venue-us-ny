@@ -2,13 +2,14 @@
   "id": 403970335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.881358,40.88,-73.881358,40.88",
     "geom:latitude":40.88,
     "geom:longitude":-73.881358,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"90 E 210th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869557,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869557
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"90c420eef148d5a6414bfb7147542e4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869557,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":403970335,
-    "wof:lastmodified":1449055928,
+    "wof:lastmodified":1454129506,
     "wof:name":"Montefiore Medical Ctr",
     "wof:parent_id":85869557,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.881358,40.88,-73.881358,40.88],
-  "geometry": {"coordinates":[-73.881358,40.88],"type":"Point"}
+  "bbox": [
+    -73.881358,
+    40.88,
+    -73.881358,
+    40.88
+],
+  "geometry": {"coordinates":[-73.88135800000001,40.88],"type":"Point"}
 }

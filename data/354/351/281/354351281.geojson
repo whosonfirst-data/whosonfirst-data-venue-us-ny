@@ -2,13 +2,14 @@
   "id": 354351281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.000801,40.8144,-73.000801,40.8144",
     "geom:latitude":40.8144,
     "geom:longitude":-73.000801,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2265 Route 112",
     "sg:city":"Medford",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.liblinds.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"d79a9e1f87361db3edd764abd1ddb09c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354351281
         }
     ],
     "wof:id":354351281,
-    "wof:lastmodified":1449067397,
+    "wof:lastmodified":1454131222,
     "wof:name":"Barry's Window Treats",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "shade"
     ]
 },
-  "bbox": [-73.000801,40.8144,-73.000801,40.8144],
+  "bbox": [
+    -73.000801,
+    40.8144,
+    -73.000801,
+    40.8144
+],
   "geometry": {"coordinates":[-73.000801,40.8144],"type":"Point"}
 }

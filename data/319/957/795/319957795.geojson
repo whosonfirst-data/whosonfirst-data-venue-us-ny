@@ -2,13 +2,14 @@
   "id": 319957795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.89401,40.858738,-73.89401,40.858738",
     "geom:latitude":40.858738,
     "geom:longitude":-73.89401,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2323 Webster Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819763,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85819763
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"c4b1e09ad76b6d294b20e0a6034695cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819763,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":319957795,
-    "wof:lastmodified":1449024767,
+    "wof:lastmodified":1454126829,
     "wof:name":"Emergency Locksmith",
     "wof:parent_id":85819763,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-73.89401,40.858738,-73.89401,40.858738],
-  "geometry": {"coordinates":[-73.89401,40.858738],"type":"Point"}
+  "bbox": [
+    -73.89401,
+    40.858738,
+    -73.89401,
+    40.858738
+],
+  "geometry": {"coordinates":[-73.89400999999999,40.858738],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337424541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.81428,40.719695,-73.81428,40.719695",
     "geom:latitude":40.719695,
     "geom:longitude":-73.81428,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14905 79th Ave",
     "sg:city":"Flushing",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869381,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869381
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"71c86a40f700e3a843a07d380e9493ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869381,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":337424541,
-    "wof:lastmodified":1449027686,
+    "wof:lastmodified":1454127162,
     "wof:name":"149 05 Owners Corp",
     "wof:parent_id":85869381,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "finder"
     ]
 },
-  "bbox": [-73.81428,40.719695,-73.81428,40.719695],
+  "bbox": [
+    -73.81428,
+    40.719695,
+    -73.81428,
+    40.719695
+],
   "geometry": {"coordinates":[-73.81428,40.719695],"type":"Point"}
 }

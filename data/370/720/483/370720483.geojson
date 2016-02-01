@@ -2,13 +2,14 @@
   "id": 370720483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.284919,43.123045,-76.284919,43.123045",
     "geom:latitude":43.123045,
     "geom:longitude":-76.284919,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"107 Henderson Blvd",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865351,
+        102191575,
+        404522855,
         85633793,
         85979203,
         102082351,
-        85865351
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"00385285ab319c86d7e856489dd21366",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522855,
             "locality_id":85979203,
             "neighbourhood_id":85865351,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":370720483,
-    "wof:lastmodified":1449029902,
+    "wof:lastmodified":1454127555,
     "wof:name":"Custom Enviro Scapes",
     "wof:parent_id":85865351,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "ecological"
     ]
 },
-  "bbox": [-76.284919,43.123045,-76.284919,43.123045],
+  "bbox": [
+    -76.284919,
+    43.123045,
+    -76.284919,
+    43.123045
+],
   "geometry": {"coordinates":[-76.284919,43.123045],"type":"Point"}
 }

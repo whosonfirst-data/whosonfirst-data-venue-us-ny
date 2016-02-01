@@ -2,13 +2,14 @@
   "id": 387625575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.92162,40.75295,-73.92162,40.75295",
     "geom:latitude":40.75295,
     "geom:longitude":-73.92162,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"16 Queens Plz E",
     "sg:city":"Long Island City",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865631,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865631
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"930d67a39ecd09289ed3888b045b5b0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865631,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":387625575,
-    "wof:lastmodified":1449059976,
+    "wof:lastmodified":1454130223,
     "wof:name":"Kutler & Sitkoff Inc",
     "wof:parent_id":85865631,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.92162,40.75295,-73.92162,40.75295],
+  "bbox": [
+    -73.92162,
+    40.75295,
+    -73.92162,
+    40.75295
+],
   "geometry": {"coordinates":[-73.92162,40.75295],"type":"Point"}
 }

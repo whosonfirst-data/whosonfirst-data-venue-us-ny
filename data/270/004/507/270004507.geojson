@@ -2,13 +2,14 @@
   "id": 270004507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.700959,40.690183,-73.700959,40.690183",
     "geom:latitude":40.690183,
     "geom:longitude":-73.700959,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"659 Dauntless Pkwy",
     "sg:city":"Elmont",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85838141,
+        102191575,
+        404521473,
         85633793,
-        85979041,
+        85979137,
         102082371,
-        85838141
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"a450651652802d1cd2ed243e7dce625e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979041,
+            "localadmin_id":404521473,
+            "locality_id":85979137,
             "neighbourhood_id":85838141,
             "region_id":85688543,
             "venue_id":270004507
         }
     ],
     "wof:id":270004507,
-    "wof:lastmodified":1449009530,
+    "wof:lastmodified":1454124497,
     "wof:name":"Roman Fuel Corporation",
     "wof:parent_id":85838141,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-73.700959,40.690183,-73.700959,40.690183],
+  "bbox": [
+    -73.700959,
+    40.690183,
+    -73.700959,
+    40.690183
+],
   "geometry": {"coordinates":[-73.700959,40.690183],"type":"Point"}
 }

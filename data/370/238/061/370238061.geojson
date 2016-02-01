@@ -2,13 +2,14 @@
   "id": 370238061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.50602,40.825829,-73.50602,40.825829",
     "geom:latitude":40.825829,
     "geom:longitude":-73.50602,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"83 Muttontown Eastwoods Rd",
     "sg:city":"Syosset",
     "sg:classifiers":[
@@ -40,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893029,
+        102191575,
+        404521475,
         85633793,
         85979075,
         102082371,
-        85893029
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,9 +57,10 @@
     "wof:geomhash":"e01bc53e6c186310c726092631859599",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979075,
             "neighbourhood_id":85893029,
             "region_id":85688543,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":370238061,
-    "wof:lastmodified":1449030351,
+    "wof:lastmodified":1454127688,
     "wof:name":"North Shore Synagogue (Not Incorporated)",
     "wof:parent_id":85893029,
     "wof:placetype":"venue",
@@ -77,6 +81,11 @@
         "church"
     ]
 },
-  "bbox": [-73.50602,40.825829,-73.50602,40.825829],
-  "geometry": {"coordinates":[-73.50602,40.825829],"type":"Point"}
+  "bbox": [
+    -73.50602,
+    40.825829,
+    -73.50602,
+    40.825829
+],
+  "geometry": {"coordinates":[-73.50602000000001,40.825829],"type":"Point"}
 }

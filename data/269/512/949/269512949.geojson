@@ -2,13 +2,14 @@
   "id": 269512949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.610903,40.672058,-73.610903,40.672058",
     "geom:latitude":40.672058,
     "geom:longitude":-73.610903,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1550 Grand Ave",
     "sg:city":"Baldwin",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529133,
+        102191575,
+        404521473,
         85633793,
         85979173,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"3eb38490eb752a1f216f1b839c0b8c97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979173,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529133,
             "region_id":85688543,
             "venue_id":269512949
         }
     ],
     "wof:id":269512949,
-    "wof:lastmodified":1449037973,
+    "wof:lastmodified":1454128721,
     "wof:name":"Postal Connection",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529133,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contract"
     ]
 },
-  "bbox": [-73.610903,40.672058,-73.610903,40.672058],
-  "geometry": {"coordinates":[-73.610903,40.672058],"type":"Point"}
+  "bbox": [
+    -73.610903,
+    40.672058,
+    -73.610903,
+    40.672058
+],
+  "geometry": {"coordinates":[-73.61090299999999,40.672058],"type":"Point"}
 }

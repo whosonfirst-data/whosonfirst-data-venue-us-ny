@@ -2,13 +2,14 @@
   "id": 370376499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.648779,40.873389,-73.648779,40.873389",
     "geom:latitude":40.873389,
     "geom:longitude":-73.648779,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"24 Pembroke Dr",
     "sg:city":"Glen Cove",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85977671,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"ff2e65bec562a37847cb1eaa279c3fda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977671,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":370376499
         }
     ],
     "wof:id":370376499,
-    "wof:lastmodified":1449030255,
+    "wof:lastmodified":1454127659,
     "wof:name":"Sam Ziegel Agency",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.648779,40.873389,-73.648779,40.873389],
+  "bbox": [
+    -73.648779,
+    40.873389,
+    -73.648779,
+    40.873389
+],
   "geometry": {"coordinates":[-73.648779,40.873389],"type":"Point"}
 }

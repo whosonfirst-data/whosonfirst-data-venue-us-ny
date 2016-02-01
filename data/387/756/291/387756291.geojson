@@ -2,13 +2,14 @@
   "id": 387756291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.946071,42.894428,-77.946071,42.894428",
     "geom:latitude":42.894428,
     "geom:longitude":-77.946071,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1842 Linwood Rd",
     "sg:city":"Linwood",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528955,
+        102191575,
+        404522005,
         85633793,
         85979609,
-        102082381
+        102082381,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"ee99cd3ea75f9d6c577542c1b6d10215",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082381,
+            "localadmin_id":404522005,
             "locality_id":85979609,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528955,
             "region_id":85688543,
             "venue_id":387756291
         }
     ],
     "wof:id":387756291,
-    "wof:lastmodified":1449058384,
+    "wof:lastmodified":1454129937,
     "wof:name":"Ajac Trk",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528955,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-77.946071,42.894428,-77.946071,42.894428],
+  "bbox": [
+    -77.946071,
+    42.894428,
+    -77.946071,
+    42.894428
+],
   "geometry": {"coordinates":[-77.946071,42.894428],"type":"Point"}
 }

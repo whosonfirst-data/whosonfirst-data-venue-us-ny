@@ -2,13 +2,14 @@
   "id": 303875401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.909229,40.881173,-73.909229,40.881173",
     "geom:latitude":40.881173,
     "geom:longitude":-73.909229,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"306 W 231st St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.yankeebrokerage.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85828377,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85828377
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,9 +42,10 @@
     "wof:geomhash":"76a8f9431ae15e898a1569c652392d64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85828377,
             "region_id":85688543,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":303875401,
-    "wof:lastmodified":1448999937,
+    "wof:lastmodified":1454123550,
     "wof:name":"Yankee Brokerage",
     "wof:parent_id":85828377,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.909229,40.881173,-73.909229,40.881173],
+  "bbox": [
+    -73.909229,
+    40.881173,
+    -73.909229,
+    40.881173
+],
   "geometry": {"coordinates":[-73.909229,40.881173],"type":"Point"}
 }

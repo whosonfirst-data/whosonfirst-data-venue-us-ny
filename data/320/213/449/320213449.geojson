@@ -2,13 +2,14 @@
   "id": 320213449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.956116,41.393744,-73.956116,41.393744",
     "geom:latitude":41.393744,
     "geom:longitude":-73.956116,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"745 Thayer Rd",
     "sg:city":"West Point",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837559,
+        102191575,
+        404522899,
         85633793,
-        102083007,
-        85837559
+        85979507,
+        102083061,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"566a542ded9badfb641a2a4424a7053f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083007,
-            "locality_id":-1,
+            "county_id":102083061,
+            "localadmin_id":404522899,
+            "locality_id":85979507,
             "neighbourhood_id":85837559,
             "region_id":85688543,
             "venue_id":320213449
         }
     ],
     "wof:id":320213449,
-    "wof:lastmodified":1449011300,
+    "wof:lastmodified":1454124768,
     "wof:name":"West Point Chinese Club",
     "wof:parent_id":85837559,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "language"
     ]
 },
-  "bbox": [-73.956116,41.393744,-73.956116,41.393744],
-  "geometry": {"coordinates":[-73.956116,41.393744],"type":"Point"}
+  "bbox": [
+    -73.956116,
+    41.393744,
+    -73.956116,
+    41.393744
+],
+  "geometry": {"coordinates":[-73.95611599999999,41.393744],"type":"Point"}
 }

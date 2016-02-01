@@ -2,13 +2,14 @@
   "id": 336605289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.995033,40.753704,-73.995033,40.753704",
     "geom:latitude":40.753704,
     "geom:longitude":-73.995033,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"335 W 35 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85882233,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85882233
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"e52e538312473afec8655d8b3b0da798",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85882233,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":336605289,
-    "wof:lastmodified":1448997484,
+    "wof:lastmodified":1454122789,
     "wof:name":"New Spring Fashion Inc",
     "wof:parent_id":85882233,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-73.995033,40.753704,-73.995033,40.753704],
-  "geometry": {"coordinates":[-73.995033,40.753704],"type":"Point"}
+  "bbox": [
+    -73.995033,
+    40.753704,
+    -73.995033,
+    40.753704
+],
+  "geometry": {"coordinates":[-73.99503300000001,40.753704],"type":"Point"}
 }

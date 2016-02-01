@@ -2,13 +2,14 @@
   "id": 269500477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.214936,40.544454,-74.214936,40.544454",
     "geom:latitude":40.544454,
     "geom:longitude":-74.214936,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"45 Radigan Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846189,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85846189
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"d4fa5899d1149bdf5b778fe7740388d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85846189,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":269500477,
-    "wof:lastmodified":1449036754,
+    "wof:lastmodified":1454128552,
     "wof:name":"Upward Enterprises",
     "wof:parent_id":85846189,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "consultant"
     ]
 },
-  "bbox": [-74.214936,40.544454,-74.214936,40.544454],
-  "geometry": {"coordinates":[-74.214936,40.544454],"type":"Point"}
+  "bbox": [
+    -74.214936,
+    40.544454,
+    -74.214936,
+    40.544454
+],
+  "geometry": {"coordinates":[-74.21493599999999,40.544454],"type":"Point"}
 }

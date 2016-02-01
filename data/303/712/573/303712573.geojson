@@ -2,13 +2,14 @@
   "id": 303712573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.46389,40.776123,-73.46389,40.776123",
     "geom:latitude":40.776123,
     "geom:longitude":-73.46389,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1181 Old Country Rd",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"d077d2efb1efd92adc059b0ab8629b1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":303712573
         }
     ],
     "wof:id":303712573,
-    "wof:lastmodified":1448999167,
+    "wof:lastmodified":1454123338,
     "wof:name":"Henry A Sachs DDS",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.46389,40.776123,-73.46389,40.776123],
-  "geometry": {"coordinates":[-73.46389,40.776123],"type":"Point"}
+  "bbox": [
+    -73.46389,
+    40.776123,
+    -73.46389,
+    40.776123
+],
+  "geometry": {"coordinates":[-73.46389000000001,40.776123],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404146441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.086982,40.770834,-73.086982,40.770834",
     "geom:latitude":40.770834,
     "geom:longitude":-73.086982,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"70 Knickerbocker Ave",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"1b6284899a6511af7e367dd443090091",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":404146441
         }
     ],
     "wof:id":404146441,
-    "wof:lastmodified":1449039530,
+    "wof:lastmodified":1454128882,
     "wof:name":"Landin Construction",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.086982,40.770834,-73.086982,40.770834],
-  "geometry": {"coordinates":[-73.086982,40.770834],"type":"Point"}
+  "bbox": [
+    -73.086982,
+    40.770834,
+    -73.086982,
+    40.770834
+],
+  "geometry": {"coordinates":[-73.08698200000001,40.770834],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320089711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.27246,40.845222,-73.27246,40.845222",
     "geom:latitude":40.845222,
     "geom:longitude":-73.27246,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2195 Jericho Tpke",
     "sg:city":"Commack",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530035,
+        102191575,
+        404522669,
         85633793,
         85979805,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"47b9b598088adcbb8f47a929ee76aacf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979805,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530035,
             "region_id":85688543,
             "venue_id":320089711
         }
     ],
     "wof:id":320089711,
-    "wof:lastmodified":1449012017,
+    "wof:lastmodified":1454124885,
     "wof:name":"Li'l Smitty's Bagel Cafe",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530035,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-73.27246,40.845222,-73.27246,40.845222],
+  "bbox": [
+    -73.27246,
+    40.845222,
+    -73.27246,
+    40.845222
+],
   "geometry": {"coordinates":[-73.27246,40.845222],"type":"Point"}
 }

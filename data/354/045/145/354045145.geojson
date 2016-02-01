@@ -2,13 +2,14 @@
   "id": 354045145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.805437,40.58891,-73.805437,40.58891",
     "geom:latitude":40.58891,
     "geom:longitude":-73.805437,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"245 Beach 79th St",
     "sg:city":"Rockaway Beach",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865515,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865515
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"f0858f9fb04adc9de931c9b39e0af8de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865515,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":354045145,
-    "wof:lastmodified":1449067474,
+    "wof:lastmodified":1454131245,
     "wof:name":"New York City Department of Education",
     "wof:parent_id":85865515,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "elementary"
     ]
 },
-  "bbox": [-73.805437,40.58891,-73.805437,40.58891],
+  "bbox": [
+    -73.805437,
+    40.58891,
+    -73.805437,
+    40.58891
+],
   "geometry": {"coordinates":[-73.805437,40.58891],"type":"Point"}
 }

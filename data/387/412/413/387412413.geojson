@@ -2,13 +2,14 @@
   "id": 387412413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.595519,43.180755,-77.595519,43.180755",
     "geom:latitude":43.180755,
     "geom:longitude":-77.595519,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1175 North St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529057,
+        102191575,
+        404521467,
         85633793,
         85977591,
-        102081815
+        102081815,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"c90d94de02f6cfd3b40024165c07205c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529057,
             "region_id":85688543,
             "venue_id":387412413
         }
     ],
     "wof:id":387412413,
-    "wof:lastmodified":1449056875,
+    "wof:lastmodified":1454129666,
     "wof:name":"Quality Vision International",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "holding"
     ]
 },
-  "bbox": [-77.595519,43.180755,-77.595519,43.180755],
+  "bbox": [
+    -77.595519,
+    43.180755,
+    -77.595519,
+    43.180755
+],
   "geometry": {"coordinates":[-77.595519,43.180755],"type":"Point"}
 }

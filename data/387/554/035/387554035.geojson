@@ -2,13 +2,14 @@
   "id": 387554035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.878064,40.872451,-73.878064,40.872451",
     "geom:latitude":40.872451,
     "geom:longitude":-73.878064,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"301 E 204th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869557,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869557
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"dd5cb7572e16a5171062a1ad55853f3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869557,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387554035,
-    "wof:lastmodified":1449056887,
+    "wof:lastmodified":1454129668,
     "wof:name":"Mukhtar Newsstand Inc",
     "wof:parent_id":85869557,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "variety"
     ]
 },
-  "bbox": [-73.878064,40.872451,-73.878064,40.872451],
-  "geometry": {"coordinates":[-73.878064,40.872451],"type":"Point"}
+  "bbox": [
+    -73.878064,
+    40.872451,
+    -73.878064,
+    40.872451
+],
+  "geometry": {"coordinates":[-73.87806399999999,40.872451],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336837207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.978541,40.765723,-73.978541,40.765723",
     "geom:latitude":40.765723,
     "geom:longitude":-73.978541,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"145 W 58th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869487,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85869487
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"d5828b7e1bf28a392da26d48f888d805",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869487,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":336837207,
-    "wof:lastmodified":1448997112,
+    "wof:lastmodified":1454122412,
     "wof:name":"Drna",
     "wof:parent_id":85869487,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "elsewhere"
     ]
 },
-  "bbox": [-73.978541,40.765723,-73.978541,40.765723],
-  "geometry": {"coordinates":[-73.978541,40.765723],"type":"Point"}
+  "bbox": [
+    -73.978541,
+    40.765723,
+    -73.978541,
+    40.765723
+],
+  "geometry": {"coordinates":[-73.97854100000001,40.765723],"type":"Point"}
 }

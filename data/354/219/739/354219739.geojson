@@ -2,13 +2,14 @@
   "id": 354219739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.045353,40.804913,-73.045353,40.804913",
     "geom:latitude":40.804913,
     "geom:longitude":-73.045353,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"35 Storm Dr",
     "sg:city":"Holtsville",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"e77c77a3ead5dfa2e6e299427ab74341",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":354219739
         }
     ],
     "wof:id":354219739,
-    "wof:lastmodified":1449067610,
+    "wof:lastmodified":1454131290,
     "wof:name":"Business Card Designs & More",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "artist"
     ]
 },
-  "bbox": [-73.045353,40.804913,-73.045353,40.804913],
-  "geometry": {"coordinates":[-73.045353,40.804913],"type":"Point"}
+  "bbox": [
+    -73.045353,
+    40.804913,
+    -73.045353,
+    40.804913
+],
+  "geometry": {"coordinates":[-73.04535300000001,40.804913],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370832685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.659985,43.103524,-75.659985,43.103524",
     "geom:latitude":43.103524,
     "geom:longitude":-75.659985,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"449 N Main St",
     "sg:city":"Oneida",
     "sg:classifiers":[
@@ -64,10 +65,13 @@
     "sg:website":"http://www.riteaid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847377,
+        102191575,
+        404522679,
         85633793,
-        102083149,
-        85847377
+        85978049,
+        102080989,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,17 +81,18 @@
     "wof:geomhash":"485d41398ab5ec84eb5c808cd694318a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083149,
-            "locality_id":-1,
+            "county_id":102080989,
+            "localadmin_id":404522679,
+            "locality_id":85978049,
             "neighbourhood_id":85847377,
             "region_id":85688543,
             "venue_id":370832685
         }
     ],
     "wof:id":370832685,
-    "wof:lastmodified":1449029076,
+    "wof:lastmodified":1454127313,
     "wof:name":"Rite Aid",
     "wof:parent_id":85847377,
     "wof:placetype":"venue",
@@ -108,6 +113,11 @@
         "greeting"
     ]
 },
-  "bbox": [-75.659985,43.103524,-75.659985,43.103524],
-  "geometry": {"coordinates":[-75.659985,43.103524],"type":"Point"}
+  "bbox": [
+    -75.659985,
+    43.103524,
+    -75.659985,
+    43.103524
+],
+  "geometry": {"coordinates":[-75.65998500000001,43.103524],"type":"Point"}
 }

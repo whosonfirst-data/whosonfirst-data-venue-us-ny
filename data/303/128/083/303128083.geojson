@@ -2,13 +2,14 @@
   "id": 303128083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.906715,40.853526,-73.906715,40.853526",
     "geom:latitude":40.853526,
     "geom:longitude":-73.906715,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 E Burnside Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865671,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865671
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"d9e4102909c75b38fac7b797366f22d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865671,
             "region_id":85688543,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":303128083,
-    "wof:lastmodified":1448999076,
+    "wof:lastmodified":1454123314,
     "wof:name":"Lot Stores 2",
     "wof:parent_id":85865671,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "family"
     ]
 },
-  "bbox": [-73.906715,40.853526,-73.906715,40.853526],
-  "geometry": {"coordinates":[-73.906715,40.853526],"type":"Point"}
+  "bbox": [
+    -73.906715,
+    40.853526,
+    -73.906715,
+    40.853526
+],
+  "geometry": {"coordinates":[-73.90671500000001,40.853526],"type":"Point"}
 }

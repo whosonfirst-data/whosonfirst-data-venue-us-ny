@@ -2,13 +2,14 @@
   "id": 370324187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.792297,40.898602,-72.792297,40.898602",
     "geom:latitude":40.898602,
     "geom:longitude":-72.792297,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"389 River Rd",
     "sg:city":"Manorville",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530021,
+        102191575,
+        404521441,
         85633793,
-        85979845,
-        102082395
+        85979761,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"bd4df219e3065597cd21aee28b48f689",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979845,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979761,
+            "neighbourhood_id":420530021,
             "region_id":85688543,
             "venue_id":370324187
         }
     ],
     "wof:id":370324187,
-    "wof:lastmodified":1449031051,
+    "wof:lastmodified":1454127893,
     "wof:name":"Peconic River Sportsman's Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530021,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -69,6 +74,11 @@
         "team"
     ]
 },
-  "bbox": [-72.792297,40.898602,-72.792297,40.898602],
+  "bbox": [
+    -72.792297,
+    40.898602,
+    -72.792297,
+    40.898602
+],
   "geometry": {"coordinates":[-72.792297,40.898602],"type":"Point"}
 }

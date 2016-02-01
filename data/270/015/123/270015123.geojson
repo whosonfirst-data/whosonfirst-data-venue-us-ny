@@ -2,13 +2,14 @@
   "id": 270015123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.805268,40.978466,-73.805268,40.978466",
     "geom:latitude":40.978466,
     "geom:longitude":-73.805268,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"137 Montgomery Ave",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530441,
+        102191575,
+        404523391,
         85633793,
-        85980071,
-        102082373
+        85978767,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"04c96f47938534a780cc063f3d8e6b00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "localadmin_id":404523391,
+            "locality_id":85978767,
+            "neighbourhood_id":420530441,
             "region_id":85688543,
             "venue_id":270015123
         }
     ],
     "wof:id":270015123,
-    "wof:lastmodified":1449009187,
+    "wof:lastmodified":1454124446,
     "wof:name":"All County Properties Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530441,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.805268,40.978466,-73.805268,40.978466],
+  "bbox": [
+    -73.805268,
+    40.978466,
+    -73.805268,
+    40.978466
+],
   "geometry": {"coordinates":[-73.805268,40.978466],"type":"Point"}
 }

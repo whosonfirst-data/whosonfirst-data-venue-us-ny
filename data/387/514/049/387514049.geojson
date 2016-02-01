@@ -2,13 +2,14 @@
   "id": 387514049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.662826,43.072367,-77.662826,43.072367",
     "geom:latitude":43.072367,
     "geom:longitude":-77.662826,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"125 Tech Park Dr",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -30,8 +31,10 @@
     "sg:website":"www.geospatialsystems.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85819117,
+        102081815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,18 +44,17 @@
     "wof:geomhash":"4261b1f653bc1a24de8abaf8b6ac07f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "neighbourhood_id":85819117,
             "region_id":85688543,
             "venue_id":387514049
         }
     ],
     "wof:id":387514049,
-    "wof:lastmodified":1449058019,
+    "wof:lastmodified":1454129870,
     "wof:name":"Pixel Physics Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85819117,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +64,11 @@
         "engineer"
     ]
 },
-  "bbox": [-77.662826,43.072367,-77.662826,43.072367],
+  "bbox": [
+    -77.662826,
+    43.072367,
+    -77.662826,
+    43.072367
+],
   "geometry": {"coordinates":[-77.662826,43.072367],"type":"Point"}
 }

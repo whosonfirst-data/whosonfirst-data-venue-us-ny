@@ -2,13 +2,14 @@
   "id": 370985113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.826132,41.026762,-73.826132,41.026762",
     "geom:latitude":41.026762,
     "geom:longitude":-73.826132,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"365 Secor Rd",
     "sg:city":"Hartsdale",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.wfasfm.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85859125,
+        102191575,
+        404523359,
         85633793,
+        85978733,
         102082373,
-        85859125
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"008c2c73779e877e38994a2b3d6a7541",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":-1,
+            "localadmin_id":404523359,
+            "locality_id":85978733,
             "neighbourhood_id":85859125,
             "region_id":85688543,
             "venue_id":370985113
         }
     ],
     "wof:id":370985113,
-    "wof:lastmodified":1449030762,
+    "wof:lastmodified":1454127806,
     "wof:name":"WFAS",
     "wof:parent_id":85859125,
     "wof:placetype":"venue",
@@ -63,6 +68,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-73.826132,41.026762,-73.826132,41.026762],
+  "bbox": [
+    -73.826132,
+    41.026762,
+    -73.826132,
+    41.026762
+],
   "geometry": {"coordinates":[-73.826132,41.026762],"type":"Point"}
 }

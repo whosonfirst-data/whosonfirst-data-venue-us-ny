@@ -2,13 +2,14 @@
   "id": 320457227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.743861,40.634933,-73.743861,40.634933",
     "geom:latitude":40.634933,
     "geom:longitude":-73.743861,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9 Bayview Ave",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -27,12 +28,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865647,
-        85845957
+        102082361,
+        85688543,
+        85865647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,28 +46,32 @@
     "wof:geomhash":"fc70918fa8b107e050a4e2c538bf686a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85865647,
+            "neighbourhood_id":85823673,
             "region_id":85688543,
             "venue_id":320457227
         },
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85845957,
+            "neighbourhood_id":85865647,
             "region_id":85688543,
             "venue_id":320457227
         }
     ],
     "wof:id":320457227,
-    "wof:lastmodified":1449013779,
+    "wof:lastmodified":1454125171,
     "wof:name":"R & N Stationers",
-    "wof:parent_id":-1,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -71,6 +79,11 @@
         "stationer"
     ]
 },
-  "bbox": [-73.743861,40.634933,-73.743861,40.634933],
+  "bbox": [
+    -73.743861,
+    40.634933,
+    -73.743861,
+    40.634933
+],
   "geometry": {"coordinates":[-73.743861,40.634933],"type":"Point"}
 }

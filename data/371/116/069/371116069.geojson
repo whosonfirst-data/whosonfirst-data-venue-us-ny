@@ -2,13 +2,14 @@
   "id": 371116069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.827143,42.825469,-78.827143,42.825469",
     "geom:latitude":42.825469,
     "geom:longitude":-78.827143,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"659 Ridge Rd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528559,
+        102191575,
+        404522349,
         85633793,
         85978009,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"2c82fe2bd13ed9473b31f2d0af3b2f11",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522349,
             "locality_id":85978009,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528559,
             "region_id":85688543,
             "venue_id":371116069
         }
     ],
     "wof:id":371116069,
-    "wof:lastmodified":1449049178,
+    "wof:lastmodified":1454129069,
     "wof:name":"Niagara Computers USA Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528559,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "repair"
     ]
 },
-  "bbox": [-78.827143,42.825469,-78.827143,42.825469],
-  "geometry": {"coordinates":[-78.827143,42.825469],"type":"Point"}
+  "bbox": [
+    -78.827143,
+    42.825469,
+    -78.827143,
+    42.825469
+],
+  "geometry": {"coordinates":[-78.82714300000001,42.825469],"type":"Point"}
 }

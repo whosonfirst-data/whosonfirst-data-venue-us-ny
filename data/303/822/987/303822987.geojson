@@ -2,13 +2,14 @@
   "id": 303822987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.149981,41.110293,-74.149981,41.110293",
     "geom:latitude":41.110293,
     "geom:longitude":-74.149981,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"124 Washington Ave",
     "sg:city":"Suffern",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85855885,
+        102191575,
+        404523097,
         85633793,
         85978523,
-        102082385
+        102082385,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"2283722069e9e2fc328fbebcd11ed948",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523097,
             "locality_id":85978523,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85855885,
             "region_id":85688543,
             "venue_id":303822987
         }
     ],
     "wof:id":303822987,
-    "wof:lastmodified":1449000491,
+    "wof:lastmodified":1454123704,
     "wof:name":"Keegan Agency",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855885,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.149981,41.110293,-74.149981,41.110293],
+  "bbox": [
+    -74.149981,
+    41.110293,
+    -74.149981,
+    41.110293
+],
   "geometry": {"coordinates":[-74.149981,41.110293],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336773055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.565857,40.750547,-73.565857,40.750547",
     "geom:latitude":40.750547,
     "geom:longitude":-73.565857,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"653 Edgewood Dr",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846785,
+        102191575,
+        404521473,
         85633793,
-        85979093,
+        85979181,
         102082371,
-        85846785
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"9e79d2a49f3e9e087f470f01a6d9a286",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979093,
+            "localadmin_id":404521473,
+            "locality_id":85979181,
             "neighbourhood_id":85846785,
             "region_id":85688543,
             "venue_id":336773055
         }
     ],
     "wof:id":336773055,
-    "wof:lastmodified":1448997061,
+    "wof:lastmodified":1454122388,
     "wof:name":"Bestever Cleaners",
     "wof:parent_id":85846785,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "plant"
     ]
 },
-  "bbox": [-73.565857,40.750547,-73.565857,40.750547],
-  "geometry": {"coordinates":[-73.565857,40.750547],"type":"Point"}
+  "bbox": [
+    -73.565857,
+    40.750547,
+    -73.565857,
+    40.750547
+],
+  "geometry": {"coordinates":[-73.56585699999999,40.750547],"type":"Point"}
 }

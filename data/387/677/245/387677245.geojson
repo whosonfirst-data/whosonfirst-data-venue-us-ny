@@ -2,13 +2,14 @@
   "id": 387677245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.585634,40.661045,-73.585634,40.661045",
     "geom:latitude":40.661045,
     "geom:longitude":-73.585634,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"143 N Main St",
     "sg:city":"Freeport",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529155,
+        102191575,
+        404521473,
         85633793,
         85977679,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"f74744c3b27ac8e802f81d2d9eb4be3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977679,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529155,
             "region_id":85688543,
             "venue_id":387677245
         }
     ],
     "wof:id":387677245,
-    "wof:lastmodified":1449057466,
+    "wof:lastmodified":1454129771,
     "wof:name":"Super Tunes",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529155,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [-73.585634,40.661045,-73.585634,40.661045],
+  "bbox": [
+    -73.585634,
+    40.661045,
+    -73.585634,
+    40.661045
+],
   "geometry": {"coordinates":[-73.585634,40.661045],"type":"Point"}
 }

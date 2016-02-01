@@ -2,13 +2,14 @@
   "id": 354142139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.306596,40.841295,-73.306596,40.841295",
     "geom:latitude":40.841295,
     "geom:longitude":-73.306596,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5960 Jericho Tpke",
     "sg:city":"Commack",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.gamestop.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892803,
+        102191575,
+        404522669,
         85633793,
         85979805,
         102082395,
-        85892803
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"37dde47b29ea4b2d77fe166f5c1aa3d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979805,
             "neighbourhood_id":85892803,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":354142139,
-    "wof:lastmodified":1449067292,
+    "wof:lastmodified":1454131191,
     "wof:name":"GameStop",
     "wof:parent_id":85892803,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "video"
     ]
 },
-  "bbox": [-73.306596,40.841295,-73.306596,40.841295],
+  "bbox": [
+    -73.306596,
+    40.841295,
+    -73.306596,
+    40.841295
+],
   "geometry": {"coordinates":[-73.306596,40.841295],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370341415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.869904,40.800999,-72.869904,40.800999",
     "geom:latitude":40.800999,
     "geom:longitude":-72.869904,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1019 Montauk Hwy",
     "sg:city":"Shirley",
     "sg:classifiers":[
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892903,
+        102191575,
+        404521441,
         85633793,
+        85978437,
         102082395,
-        85892903
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"1e2c2d2b1e82ddb5d99641670087dcc3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85978437,
             "neighbourhood_id":85892903,
             "region_id":85688543,
             "venue_id":370341415
         }
     ],
     "wof:id":370341415,
-    "wof:lastmodified":1449032323,
+    "wof:lastmodified":1454128269,
     "wof:name":"Sears Hardware",
     "wof:parent_id":85892903,
     "wof:placetype":"venue",
@@ -69,6 +74,11 @@
         "store"
     ]
 },
-  "bbox": [-72.869904,40.800999,-72.869904,40.800999],
-  "geometry": {"coordinates":[-72.869904,40.800999],"type":"Point"}
+  "bbox": [
+    -72.869904,
+    40.800999,
+    -72.869904,
+    40.800999
+],
+  "geometry": {"coordinates":[-72.86990400000001,40.800999],"type":"Point"}
 }

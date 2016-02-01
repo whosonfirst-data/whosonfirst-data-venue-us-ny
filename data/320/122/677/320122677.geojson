@@ -2,13 +2,14 @@
   "id": 320122677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.89283,40.812674,-73.89283,40.812674",
     "geom:latitude":40.812674,
     "geom:longitude":-73.89283,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1161 E 156th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826591,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85826591
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"00dfda8b60f40b125d775fd7ec632d6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85826591,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":320122677,
-    "wof:lastmodified":1449013379,
+    "wof:lastmodified":1454125107,
     "wof:name":"Sarabeth's Office",
     "wof:parent_id":85826591,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "jelly"
     ]
 },
-  "bbox": [-73.89283,40.812674,-73.89283,40.812674],
+  "bbox": [
+    -73.89283,
+    40.812674,
+    -73.89283,
+    40.812674
+],
   "geometry": {"coordinates":[-73.89283,40.812674],"type":"Point"}
 }

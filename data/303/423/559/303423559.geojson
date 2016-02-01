@@ -2,13 +2,14 @@
   "id": 303423559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.872093,41.013453,-73.872093,41.013453",
     "geom:latitude":41.013453,
     "geom:longitude":-73.872093,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14 Clinton Ave",
     "sg:city":"Dobbs Ferry",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85849177,
+        102191575,
+        404523359,
         85633793,
-        102082385,
-        85849177
+        85978743,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +47,18 @@
     "wof:geomhash":"5b30568809f1ff67a8b8272b06d78a9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082385,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523359,
+            "locality_id":85978743,
             "neighbourhood_id":85849177,
             "region_id":85688543,
             "venue_id":303423559
         }
     ],
     "wof:id":303423559,
-    "wof:lastmodified":1448998522,
+    "wof:lastmodified":1454123128,
     "wof:name":"Post Modern Video Inc",
     "wof:parent_id":85849177,
     "wof:placetype":"venue",
@@ -66,6 +71,11 @@
         "tape"
     ]
 },
-  "bbox": [-73.872093,41.013453,-73.872093,41.013453],
-  "geometry": {"coordinates":[-73.872093,41.013453],"type":"Point"}
+  "bbox": [
+    -73.872093,
+    41.013453,
+    -73.872093,
+    41.013453
+],
+  "geometry": {"coordinates":[-73.87209300000001,41.013453],"type":"Point"}
 }

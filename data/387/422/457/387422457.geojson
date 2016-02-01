@@ -2,13 +2,14 @@
   "id": 387422457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.000109,40.731248,-74.000109,40.731248",
     "geom:latitude":40.731248,
     "geom:longitude":-74.000109,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"149 W 4 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529189,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"b7f5364df4111de599b65fd1a57a1208",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529189,
             "region_id":85688543,
             "venue_id":387422457
         }
     ],
     "wof:id":387422457,
-    "wof:lastmodified":1449056379,
+    "wof:lastmodified":1454129576,
     "wof:name":"Amp1 Productions",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529189,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-74.000109,40.731248,-74.000109,40.731248],
-  "geometry": {"coordinates":[-74.000109,40.731248],"type":"Point"}
+  "bbox": [
+    -74.000109,
+    40.731248,
+    -74.000109,
+    40.731248
+],
+  "geometry": {"coordinates":[-74.00010899999999,40.731248],"type":"Point"}
 }

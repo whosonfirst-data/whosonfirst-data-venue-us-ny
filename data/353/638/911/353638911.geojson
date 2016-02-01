@@ -2,13 +2,14 @@
   "id": 353638911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.831736,40.684337,-73.831736,40.684337",
     "geom:latitude":40.684337,
     "geom:longitude":-73.831736,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11016 Liberty Ave",
     "sg:city":"South Richmond Hill",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844441,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844441
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"7559ac8f644f917c2909f25510887ede",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844441,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353638911,
-    "wof:lastmodified":1449018390,
+    "wof:lastmodified":1454125989,
     "wof:name":"Kaietuer Construction",
     "wof:parent_id":85844441,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.831736,40.684337,-73.831736,40.684337],
-  "geometry": {"coordinates":[-73.831736,40.684337],"type":"Point"}
+  "bbox": [
+    -73.831736,
+    40.684337,
+    -73.831736,
+    40.684337
+],
+  "geometry": {"coordinates":[-73.83173600000001,40.684337],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 304046603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.885003,40.850567,-73.885003,40.850567",
     "geom:latitude":40.850567,
     "geom:longitude":-73.885003,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"735 Garden St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865533,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865533
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"ba6f11df8f4978d872f0945102486877",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865533,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":304046603,
-    "wof:lastmodified":1449043931,
+    "wof:lastmodified":1454129011,
     "wof:name":"Twin Parks",
     "wof:parent_id":85865533,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "complex"
     ]
 },
-  "bbox": [-73.885003,40.850567,-73.885003,40.850567],
+  "bbox": [
+    -73.885003,
+    40.850567,
+    -73.885003,
+    40.850567
+],
   "geometry": {"coordinates":[-73.885003,40.850567],"type":"Point"}
 }

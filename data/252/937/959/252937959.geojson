@@ -2,13 +2,14 @@
   "id": 252937959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.901683,40.861405,-73.901683,40.861405",
     "geom:latitude":40.861405,
     "geom:longitude":-73.901683,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2424 Jerome Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819763,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85819763
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"8cd32f9a3ab4956ee0791361a3aca9a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819763,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":252937959,
-    "wof:lastmodified":1449005629,
+    "wof:lastmodified":1454124013,
     "wof:name":"Youth For Real",
     "wof:parent_id":85819763,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "center"
     ]
 },
-  "bbox": [-73.901683,40.861405,-73.901683,40.861405],
-  "geometry": {"coordinates":[-73.901683,40.861405],"type":"Point"}
+  "bbox": [
+    -73.901683,
+    40.861405,
+    -73.901683,
+    40.861405
+],
+  "geometry": {"coordinates":[-73.90168300000001,40.861405],"type":"Point"}
 }

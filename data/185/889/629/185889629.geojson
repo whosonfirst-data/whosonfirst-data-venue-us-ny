@@ -2,13 +2,14 @@
   "id": 185889629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.985482,40.597892,-73.985482,40.597892",
     "geom:latitude":40.597892,
     "geom:longitude":-73.985482,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2003 Stillwell Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85822643,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85822643
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"293a5de5ff1742e01a2a7c5554fe4803",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85822643,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":185889629,
-    "wof:lastmodified":1449006575,
+    "wof:lastmodified":1454124141,
     "wof:name":"Mailzone",
     "wof:parent_id":85822643,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "shipping"
     ]
 },
-  "bbox": [-73.985482,40.597892,-73.985482,40.597892],
+  "bbox": [
+    -73.985482,
+    40.597892,
+    -73.985482,
+    40.597892
+],
   "geometry": {"coordinates":[-73.985482,40.597892],"type":"Point"}
 }

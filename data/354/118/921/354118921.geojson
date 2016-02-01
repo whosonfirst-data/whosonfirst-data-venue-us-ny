@@ -2,13 +2,14 @@
   "id": 354118921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.251404,40.7771,-73.251404,40.7771",
     "geom:latitude":40.7771,
     "geom:longitude":-73.251404,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"99 3rd Ave",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841665,
+        102191575,
+        404522517,
         85633793,
-        85979883,
+        85979867,
         102082395,
-        85841665
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"e98c09c29521b00c0e054a0f4c601d5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979883,
+            "localadmin_id":404522517,
+            "locality_id":85979867,
             "neighbourhood_id":85841665,
             "region_id":85688543,
             "venue_id":354118921
         }
     ],
     "wof:id":354118921,
-    "wof:lastmodified":1449067318,
+    "wof:lastmodified":1454131199,
     "wof:name":"Police Athletic League",
     "wof:parent_id":85841665,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "athletic"
     ]
 },
-  "bbox": [-73.251404,40.7771,-73.251404,40.7771],
-  "geometry": {"coordinates":[-73.251404,40.7771],"type":"Point"}
+  "bbox": [
+    -73.251404,
+    40.7771,
+    -73.251404,
+    40.7771
+],
+  "geometry": {"coordinates":[-73.25140399999999,40.7771],"type":"Point"}
 }

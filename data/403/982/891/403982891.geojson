@@ -2,13 +2,14 @@
   "id": 403982891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.278101,40.8681,-73.278101,40.8681",
     "geom:latitude":40.8681,
     "geom:longitude":-73.278101,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 Pine Tree Ct",
     "sg:city":"Commack",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530033,
+        102191575,
+        404522669,
         85633793,
         85979805,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"55843fba72fe804219de016293e43e0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522669,
             "locality_id":85979805,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530033,
             "region_id":85688543,
             "venue_id":403982891
         }
     ],
     "wof:id":403982891,
-    "wof:lastmodified":1449054861,
+    "wof:lastmodified":1454129356,
     "wof:name":"Kare Construction Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530033,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-73.278101,40.8681,-73.278101,40.8681],
-  "geometry": {"coordinates":[-73.278101,40.8681],"type":"Point"}
+  "bbox": [
+    -73.278101,
+    40.8681,
+    -73.278101,
+    40.8681
+],
+  "geometry": {"coordinates":[-73.27810100000001,40.8681],"type":"Point"}
 }

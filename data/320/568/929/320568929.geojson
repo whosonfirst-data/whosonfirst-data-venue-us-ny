@@ -2,13 +2,14 @@
   "id": 320568929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.58934,42.955181,-77.58934,42.955181",
     "geom:latitude":42.955181,
     "geom:longitude":-77.58934,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12 N Main St",
     "sg:city":"Honeoye Falls",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837385,
+        102191575,
+        404521463,
         85633793,
+        85977581,
         102081815,
-        85837385
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"5d7c0ffe227855c980613f0b51f2a5dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":-1,
+            "localadmin_id":404521463,
+            "locality_id":85977581,
             "neighbourhood_id":85837385,
             "region_id":85688543,
             "venue_id":320568929
         }
     ],
     "wof:id":320568929,
-    "wof:lastmodified":1449011180,
+    "wof:lastmodified":1454124747,
     "wof:name":"Oppedisano's Bootery",
     "wof:parent_id":85837385,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "footwear"
     ]
 },
-  "bbox": [-77.58934,42.955181,-77.58934,42.955181],
-  "geometry": {"coordinates":[-77.58934,42.955181],"type":"Point"}
+  "bbox": [
+    -77.58934,
+    42.955181,
+    -77.58934,
+    42.955181
+],
+  "geometry": {"coordinates":[-77.58934000000001,42.955181],"type":"Point"}
 }

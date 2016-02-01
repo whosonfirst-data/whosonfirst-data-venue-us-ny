@@ -2,13 +2,14 @@
   "id": 270495865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.01984,41.148655,-74.01984,41.148655",
     "geom:latitude":41.148655,
     "geom:longitude":-74.01984,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"366 New Hempstead Rd",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"e3af006199d3871342286c4b12bae409",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":270495865
         }
     ],
     "wof:id":270495865,
-    "wof:lastmodified":1449009720,
+    "wof:lastmodified":1454124524,
     "wof:name":"Hilltop Deli & Pizza",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-74.01984,41.148655,-74.01984,41.148655],
+  "bbox": [
+    -74.01984,
+    41.148655,
+    -74.01984,
+    41.148655
+],
   "geometry": {"coordinates":[-74.01984,41.148655],"type":"Point"}
 }

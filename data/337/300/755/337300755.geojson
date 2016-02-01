@@ -2,13 +2,14 @@
   "id": 337300755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.928669,40.614986,-73.928669,40.614986",
     "geom:latitude":40.614986,
     "geom:longitude":-73.928669,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2260 Flatbush Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558701,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"971ccf489db2c96335943b92aaa8b6f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558701,
             "region_id":85688543,
             "venue_id":337300755
         }
     ],
     "wof:id":337300755,
-    "wof:lastmodified":1449027408,
+    "wof:lastmodified":1454127053,
     "wof:name":"Rooms To Go Furniture Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "store"
     ]
 },
-  "bbox": [-73.928669,40.614986,-73.928669,40.614986],
+  "bbox": [
+    -73.928669,
+    40.614986,
+    -73.928669,
+    40.614986
+],
   "geometry": {"coordinates":[-73.928669,40.614986],"type":"Point"}
 }

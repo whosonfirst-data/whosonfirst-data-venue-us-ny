@@ -2,13 +2,14 @@
   "id": 270063161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.406502,43.108504,-77.406502,43.108504",
     "geom:latitude":43.108504,
     "geom:longitude":-77.406502,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1722 Whitney Rd E",
     "sg:city":"Fairport",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85817635,
+        102081815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"eb7bc77aec83777f9d4ee77d7b132cfb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "neighbourhood_id":85817635,
             "region_id":85688543,
             "venue_id":270063161
         }
     ],
     "wof:id":270063161,
-    "wof:lastmodified":1449008862,
+    "wof:lastmodified":1454124400,
     "wof:name":"David A Frink",
-    "wof:parent_id":-1,
+    "wof:parent_id":85817635,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "clergy"
     ]
 },
-  "bbox": [-77.406502,43.108504,-77.406502,43.108504],
+  "bbox": [
+    -77.406502,
+    43.108504,
+    -77.406502,
+    43.108504
+],
   "geometry": {"coordinates":[-77.406502,43.108504],"type":"Point"}
 }

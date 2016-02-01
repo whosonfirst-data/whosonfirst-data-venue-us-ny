@@ -2,13 +2,14 @@
   "id": 286872221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.863549,40.864551,-73.863549,40.864551",
     "geom:latitude":40.864551,
     "geom:longitude":-73.863549,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2528 Boston Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807771,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85807771
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"10591be5b7895a79b593962ce9ea6795",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85807771,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":286872221,
-    "wof:lastmodified":1449015449,
+    "wof:lastmodified":1454125446,
     "wof:name":"Boston Signs",
     "wof:parent_id":85807771,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.863549,40.864551,-73.863549,40.864551],
-  "geometry": {"coordinates":[-73.863549,40.864551],"type":"Point"}
+  "bbox": [
+    -73.863549,
+    40.864551,
+    -73.863549,
+    40.864551
+],
+  "geometry": {"coordinates":[-73.86354900000001,40.864551],"type":"Point"}
 }

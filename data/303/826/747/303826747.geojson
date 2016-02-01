@@ -2,13 +2,14 @@
   "id": 303826747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.073428,40.729552,-73.073428,40.729552",
     "geom:latitude":40.729552,
     "geom:longitude":-73.073428,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"41 River Rd",
     "sg:city":"Sayville",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.sayvilleferry.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +42,18 @@
     "wof:geomhash":"73c5930c19222848045d0cc9892e356b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":303826747
         }
     ],
     "wof:id":303826747,
-    "wof:lastmodified":1448999894,
+    "wof:lastmodified":1454123538,
     "wof:name":"Fire Island Pines Ferry Svc",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.073428,40.729552,-73.073428,40.729552],
-  "geometry": {"coordinates":[-73.073428,40.729552],"type":"Point"}
+  "bbox": [
+    -73.073428,
+    40.729552,
+    -73.073428,
+    40.729552
+],
+  "geometry": {"coordinates":[-73.07342800000001,40.729552],"type":"Point"}
 }

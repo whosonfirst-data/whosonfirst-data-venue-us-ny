@@ -2,13 +2,14 @@
   "id": 269627501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.61745,40.836413,-73.61745,40.836413",
     "geom:latitude":40.836413,
     "geom:longitude":-73.61745,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"262 Glen Head Rd",
     "sg:city":"Glen Head",
     "sg:classifiers":[
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857339,
+        102191575,
+        404521475,
         85633793,
-        85977647,
+        85977655,
         102082371,
-        85857339
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +54,18 @@
     "wof:geomhash":"29cc39a89a25f7214d91da8c20acdbb6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977647,
+            "localadmin_id":404521475,
+            "locality_id":85977655,
             "neighbourhood_id":85857339,
             "region_id":85688543,
             "venue_id":269627501
         }
     ],
     "wof:id":269627501,
-    "wof:lastmodified":1449039040,
+    "wof:lastmodified":1454128826,
     "wof:name":"Easylink Services Corporation",
     "wof:parent_id":85857339,
     "wof:placetype":"venue",
@@ -76,6 +80,11 @@
         "electronic"
     ]
 },
-  "bbox": [-73.61745,40.836413,-73.61745,40.836413],
-  "geometry": {"coordinates":[-73.61745,40.836413],"type":"Point"}
+  "bbox": [
+    -73.61745,
+    40.836413,
+    -73.61745,
+    40.836413
+],
+  "geometry": {"coordinates":[-73.61745000000001,40.836413],"type":"Point"}
 }

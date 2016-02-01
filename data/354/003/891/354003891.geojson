@@ -2,13 +2,14 @@
   "id": 354003891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.889209,40.844585,-73.889209,40.844585",
     "geom:latitude":40.844585,
     "geom:longitude":-73.889209,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"739 E Tremont Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528057,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"268f3c09939d57fcb12c40a8b162286f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528057,
             "region_id":85688543,
             "venue_id":354003891
         }
     ],
     "wof:id":354003891,
-    "wof:lastmodified":1449067539,
+    "wof:lastmodified":1454131267,
     "wof:name":"Crystal's Party Favors",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.889209,40.844585,-73.889209,40.844585],
-  "geometry": {"coordinates":[-73.889209,40.844585],"type":"Point"}
+  "bbox": [
+    -73.889209,
+    40.844585,
+    -73.889209,
+    40.844585
+],
+  "geometry": {"coordinates":[-73.88920899999999,40.844585],"type":"Point"}
 }

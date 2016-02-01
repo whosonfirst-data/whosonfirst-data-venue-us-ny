@@ -2,13 +2,14 @@
   "id": 353451665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.9076,40.745201,-73.9076,40.745201",
     "geom:latitude":40.745201,
     "geom:longitude":-73.9076,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5612 Roosevelt Ave",
     "sg:city":"Woodside",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85859007,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85859007
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"fe63f29b10497c90dc11bf72e63e47a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85859007,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":353451665,
-    "wof:lastmodified":1449019371,
+    "wof:lastmodified":1454126271,
     "wof:name":"Queens Animal Hospital",
     "wof:parent_id":85859007,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "sitting"
     ]
 },
-  "bbox": [-73.9076,40.745201,-73.9076,40.745201],
+  "bbox": [
+    -73.9076,
+    40.745201,
+    -73.9076,
+    40.745201
+],
   "geometry": {"coordinates":[-73.9076,40.745201],"type":"Point"}
 }

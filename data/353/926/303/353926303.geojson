@@ -2,13 +2,14 @@
   "id": 353926303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.425141,43.848849,-73.425141,43.848849",
     "geom:latitude":43.848849,
     "geom:longitude":-73.425141,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"116 Montcalm St",
     "sg:city":"Ticonderoga",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820233,
+        102191575,
+        404522389,
         85633793,
+        85978885,
         102082405,
-        85820233
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"8d34ea940169a3ef4c743d1044f1b2af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082405,
-            "locality_id":-1,
+            "localadmin_id":404522389,
+            "locality_id":85978885,
             "neighbourhood_id":85820233,
             "region_id":85688543,
             "venue_id":353926303
         }
     ],
     "wof:id":353926303,
-    "wof:lastmodified":1449019141,
+    "wof:lastmodified":1454126207,
     "wof:name":"Cobbler's Bench Inc",
     "wof:parent_id":85820233,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "covering"
     ]
 },
-  "bbox": [-73.425141,43.848849,-73.425141,43.848849],
+  "bbox": [
+    -73.425141,
+    43.848849,
+    -73.425141,
+    43.848849
+],
   "geometry": {"coordinates":[-73.425141,43.848849],"type":"Point"}
 }

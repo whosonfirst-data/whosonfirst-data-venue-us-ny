@@ -2,13 +2,14 @@
   "id": 353886137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.687202,40.661701,-73.687202,40.661701",
     "geom:latitude":40.661701,
     "geom:longitude":-73.687202,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"676 Merrick Rd",
     "sg:city":"Lynbrook",
     "sg:classifiers":[
@@ -36,11 +37,13 @@
     "sg:website":"http://www.wendys.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893055,
+        102191575,
+        404521473,
         85633793,
         85977737,
         102082371,
-        85893055
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,9 +53,10 @@
     "wof:geomhash":"9aa04ce6fb3045f6be335543ec8dbac7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977737,
             "neighbourhood_id":85893055,
             "region_id":85688543,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":353886137,
-    "wof:lastmodified":1449019673,
+    "wof:lastmodified":1454126358,
     "wof:name":"Wendy's",
     "wof:parent_id":85893055,
     "wof:placetype":"venue",
@@ -73,6 +77,11 @@
         "dog"
     ]
 },
-  "bbox": [-73.687202,40.661701,-73.687202,40.661701],
+  "bbox": [
+    -73.687202,
+    40.661701,
+    -73.687202,
+    40.661701
+],
   "geometry": {"coordinates":[-73.687202,40.661701],"type":"Point"}
 }

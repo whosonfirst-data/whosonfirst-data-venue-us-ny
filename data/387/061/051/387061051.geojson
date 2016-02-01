@@ -2,13 +2,14 @@
   "id": 387061051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.780907,41.479192,-73.780907,41.479192",
     "geom:latitude":41.479192,
     "geom:longitude":-73.780907,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Westwood Dr",
     "sg:city":"Carmel",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85833577,
+        102083007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"0f6ff63028cb2a2334c59714343e1645",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083007,
+            "neighbourhood_id":85833577,
             "region_id":85688543,
             "venue_id":387061051
         }
     ],
     "wof:id":387061051,
-    "wof:lastmodified":1449058858,
+    "wof:lastmodified":1454130020,
     "wof:name":"Steve Kelleher",
-    "wof:parent_id":-1,
+    "wof:parent_id":85833577,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "landscape"
     ]
 },
-  "bbox": [-73.780907,41.479192,-73.780907,41.479192],
+  "bbox": [
+    -73.780907,
+    41.479192,
+    -73.780907,
+    41.479192
+],
   "geometry": {"coordinates":[-73.780907,41.479192],"type":"Point"}
 }

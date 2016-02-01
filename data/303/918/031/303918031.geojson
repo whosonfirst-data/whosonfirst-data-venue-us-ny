@@ -2,13 +2,14 @@
   "id": 303918031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.141619,40.910582,-73.141619,40.910582",
     "geom:latitude":40.910582,
     "geom:longitude":-73.141619,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1212 N Country Rd",
     "sg:city":"Stony Brook",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824457,
+        102191575,
+        404521441,
         85633793,
-        85978487,
+        85979927,
         102082395,
-        85824457
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"8192742351a99ec8e95d838c4d054d99",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978487,
+            "localadmin_id":404521441,
+            "locality_id":85979927,
             "neighbourhood_id":85824457,
             "region_id":85688543,
             "venue_id":303918031
         }
     ],
     "wof:id":303918031,
-    "wof:lastmodified":1448999780,
+    "wof:lastmodified":1454123507,
     "wof:name":"Linda Vlay",
     "wof:parent_id":85824457,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.141619,40.910582,-73.141619,40.910582],
-  "geometry": {"coordinates":[-73.141619,40.910582],"type":"Point"}
+  "bbox": [
+    -73.141619,
+    40.910582,
+    -73.141619,
+    40.910582
+],
+  "geometry": {"coordinates":[-73.14161900000001,40.910582],"type":"Point"}
 }

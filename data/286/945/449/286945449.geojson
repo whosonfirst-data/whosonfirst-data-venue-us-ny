@@ -2,13 +2,14 @@
   "id": 286945449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.84148,40.952149,-73.84148,40.952149",
     "geom:latitude":40.952149,
     "geom:longitude":-73.84148,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"720 Tuckahoe Rd",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530419,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"44cbbd13ef41721dc7875e4536628a1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530419,
             "region_id":85688543,
             "venue_id":286945449
         }
     ],
     "wof:id":286945449,
-    "wof:lastmodified":1449015435,
+    "wof:lastmodified":1454125444,
     "wof:name":"Mark Management Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530419,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.84148,40.952149,-73.84148,40.952149],
+  "bbox": [
+    -73.84148,
+    40.952149,
+    -73.84148,
+    40.952149
+],
   "geometry": {"coordinates":[-73.84148,40.952149],"type":"Point"}
 }

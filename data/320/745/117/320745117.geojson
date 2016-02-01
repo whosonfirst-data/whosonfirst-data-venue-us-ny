@@ -2,13 +2,14 @@
   "id": 320745117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.190225,40.731325,-73.190225,40.731325",
     "geom:latitude":40.731325,
     "geom:longitude":-73.190225,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 E Main St",
     "sg:city":"East Islip",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.dunkindonuts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892813,
+        102191575,
+        404522517,
         85633793,
         85979775,
         102082395,
-        85892813
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"ff1436dff2049d96ce733df8454a2f6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979775,
             "neighbourhood_id":85892813,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":320745117,
-    "wof:lastmodified":1449014796,
+    "wof:lastmodified":1454125336,
     "wof:name":"Dunkin' Donuts",
     "wof:parent_id":85892813,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "doughnut"
     ]
 },
-  "bbox": [-73.190225,40.731325,-73.190225,40.731325],
+  "bbox": [
+    -73.190225,
+    40.731325,
+    -73.190225,
+    40.731325
+],
   "geometry": {"coordinates":[-73.190225,40.731325],"type":"Point"}
 }

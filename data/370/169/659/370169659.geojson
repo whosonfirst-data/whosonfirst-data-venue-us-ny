@@ -2,13 +2,14 @@
   "id": 370169659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.740572,40.819317,-72.740572,40.819317",
     "geom:latitude":40.819317,
     "geom:longitude":-72.740572,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"60 E Moriches Blvd",
     "sg:city":"East Moriches",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.ighl.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"c63fb352ca765a5738fea2f201007cff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":370169659
         }
     ],
     "wof:id":370169659,
-    "wof:lastmodified":1449031175,
+    "wof:lastmodified":1454127929,
     "wof:name":"Independent Group Home Living",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "home"
     ]
 },
-  "bbox": [-72.740572,40.819317,-72.740572,40.819317],
+  "bbox": [
+    -72.740572,
+    40.819317,
+    -72.740572,
+    40.819317
+],
   "geometry": {"coordinates":[-72.740572,40.819317],"type":"Point"}
 }

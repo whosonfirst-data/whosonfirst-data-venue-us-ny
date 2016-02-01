@@ -2,13 +2,14 @@
   "id": 354092257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.542198,40.6749,-73.542198,40.6749",
     "geom:latitude":40.6749,
     "geom:longitude":-73.542198,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2401 Camp Ave",
     "sg:city":"North Bellmore",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529153,
+        102191575,
+        404521473,
         85633793,
-        85979059,
-        102082371
+        85979047,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"5ee7f9def3a864425814446eb64ff88e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979059,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979047,
+            "neighbourhood_id":420529153,
             "region_id":85688543,
             "venue_id":354092257
         }
     ],
     "wof:id":354092257,
-    "wof:lastmodified":1449067319,
+    "wof:lastmodified":1454131200,
     "wof:name":"Bellmore-Merrick Central High School District",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529153,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "elementary"
     ]
 },
-  "bbox": [-73.542198,40.6749,-73.542198,40.6749],
+  "bbox": [
+    -73.542198,
+    40.6749,
+    -73.542198,
+    40.6749
+],
   "geometry": {"coordinates":[-73.542198,40.6749],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253522609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.983328,43.089084,-75.983328,43.089084",
     "geom:latitude":43.089084,
     "geom:longitude":-75.983328,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6587 N Manlius Rd",
     "sg:city":"Kirkville",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529409,
+        102191575,
+        404522837,
         85633793,
+        85977793,
+        102082351,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"47be5bc02ffb1a17a6b8d0899d439832",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "localadmin_id":404522837,
+            "locality_id":85977793,
+            "neighbourhood_id":420529409,
             "region_id":85688543,
             "venue_id":253522609
         }
     ],
     "wof:id":253522609,
-    "wof:lastmodified":1449064230,
+    "wof:lastmodified":1454130481,
     "wof:name":"JMG Heating & Air Cond",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529409,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-75.983328,43.089084,-75.983328,43.089084],
+  "bbox": [
+    -75.983328,
+    43.089084,
+    -75.983328,
+    43.089084
+],
   "geometry": {"coordinates":[-75.983328,43.089084],"type":"Point"}
 }

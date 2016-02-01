@@ -2,13 +2,14 @@
   "id": 253559977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.628263,40.809847,-73.628263,40.809847",
     "geom:latitude":40.809847,
     "geom:longitude":-73.628263,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"27 Glen Cove Rd",
     "sg:city":"Greenvale",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85857339,
+        102191575,
+        404521475,
         85633793,
-        85977647,
+        85977655,
         102082371,
-        85857339
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"3858e72c519cfc3ab9af7a112aeb2b1f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977647,
+            "localadmin_id":404521475,
+            "locality_id":85977655,
             "neighbourhood_id":85857339,
             "region_id":85688543,
             "venue_id":253559977
         }
     ],
     "wof:id":253559977,
-    "wof:lastmodified":1449065110,
+    "wof:lastmodified":1454130629,
     "wof:name":"North Shore Optics",
     "wof:parent_id":85857339,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "store"
     ]
 },
-  "bbox": [-73.628263,40.809847,-73.628263,40.809847],
+  "bbox": [
+    -73.628263,
+    40.809847,
+    -73.628263,
+    40.809847
+],
   "geometry": {"coordinates":[-73.628263,40.809847],"type":"Point"}
 }

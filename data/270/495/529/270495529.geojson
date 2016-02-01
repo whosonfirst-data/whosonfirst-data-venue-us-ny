@@ -2,13 +2,14 @@
   "id": 270495529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.904273,40.858508,-73.904273,40.858508",
     "geom:latitude":40.858508,
     "geom:longitude":-73.904273,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 W 183rd St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853135,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85853135
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"dac447913a910c8192fdf6c1e6e0fea2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853135,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":270495529,
-    "wof:lastmodified":1449009719,
+    "wof:lastmodified":1454124523,
     "wof:name":"McDonalds",
     "wof:parent_id":85853135,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.904273,40.858508,-73.904273,40.858508],
+  "bbox": [
+    -73.904273,
+    40.858508,
+    -73.904273,
+    40.858508
+],
   "geometry": {"coordinates":[-73.904273,40.858508],"type":"Point"}
 }

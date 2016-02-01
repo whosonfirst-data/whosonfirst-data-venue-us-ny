@@ -2,13 +2,14 @@
   "id": 286846163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.991498,41.206603,-73.991498,41.206603",
     "geom:latitude":41.206603,
     "geom:longitude":-73.991498,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Bridge St",
     "sg:city":"Garnerville",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819099,
+        102191575,
+        404523093,
         85633793,
+        85978525,
         102082385,
-        85846865
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"5bb3905b077e45f7741da63cd7b5b9e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":-1,
-            "neighbourhood_id":85846865,
+            "localadmin_id":404523093,
+            "locality_id":85978525,
+            "neighbourhood_id":85819099,
             "region_id":85688543,
             "venue_id":286846163
         }
     ],
     "wof:id":286846163,
-    "wof:lastmodified":1449017471,
+    "wof:lastmodified":1454125802,
     "wof:name":"AAA Cooleration Service Inc",
-    "wof:parent_id":85846865,
+    "wof:parent_id":85819099,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.991498,41.206603,-73.991498,41.206603],
-  "geometry": {"coordinates":[-73.991498,41.206603],"type":"Point"}
+  "bbox": [
+    -73.991498,
+    41.206603,
+    -73.991498,
+    41.206603
+],
+  "geometry": {"coordinates":[-73.99149800000001,41.206603],"type":"Point"}
 }

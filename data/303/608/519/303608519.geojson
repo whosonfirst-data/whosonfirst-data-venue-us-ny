@@ -2,13 +2,14 @@
   "id": 303608519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.708622,40.847005,-73.708622,40.847005",
     "geom:latitude":40.847005,
     "geom:longitude":-73.708622,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"64 Morewood Oaks",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832155,
+        102191575,
+        404522729,
         85633793,
+        85977599,
         102082371,
-        85832155
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,17 +41,18 @@
     "wof:geomhash":"ff67e92981751948086d68fd1e075a74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":-1,
+            "localadmin_id":404522729,
+            "locality_id":85977599,
             "neighbourhood_id":85832155,
             "region_id":85688543,
             "venue_id":303608519
         }
     ],
     "wof:id":303608519,
-    "wof:lastmodified":1448999167,
+    "wof:lastmodified":1454123337,
     "wof:name":"Michael Adler",
     "wof:parent_id":85832155,
     "wof:placetype":"venue",
@@ -55,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.708622,40.847005,-73.708622,40.847005],
-  "geometry": {"coordinates":[-73.708622,40.847005],"type":"Point"}
+  "bbox": [
+    -73.708622,
+    40.847005,
+    -73.708622,
+    40.847005
+],
+  "geometry": {"coordinates":[-73.70862200000001,40.847005],"type":"Point"}
 }

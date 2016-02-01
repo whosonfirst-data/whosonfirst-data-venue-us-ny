@@ -2,13 +2,14 @@
   "id": 287101225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.863225,40.845232,-73.863225,40.845232",
     "geom:latitude":40.845232,
     "geom:longitude":-73.863225,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1738 Wallace Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853499,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85853499
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"551c83393aad9f3e6d400241f6e9fc05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853499,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":287101225,
-    "wof:lastmodified":1449001134,
+    "wof:lastmodified":1454123864,
     "wof:name":"Harvard Corp",
     "wof:parent_id":85853499,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "dealer"
     ]
 },
-  "bbox": [-73.863225,40.845232,-73.863225,40.845232],
+  "bbox": [
+    -73.863225,
+    40.845232,
+    -73.863225,
+    40.845232
+],
   "geometry": {"coordinates":[-73.863225,40.845232],"type":"Point"}
 }

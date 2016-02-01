@@ -2,13 +2,14 @@
   "id": 320732027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.67795,40.82344,-73.67795,40.82344",
     "geom:latitude":40.82344,
     "geom:longitude":-73.67795,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 Andover Rd",
     "sg:city":"Port Washington",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529165,
+        102191575,
+        404522729,
         85633793,
         85979185,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"0ce737fee502d836ecd351ee25143b50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85979185,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529165,
             "region_id":85688543,
             "venue_id":320732027
         }
     ],
     "wof:id":320732027,
-    "wof:lastmodified":1449015076,
+    "wof:lastmodified":1454125382,
     "wof:name":"Anne Tarasoff Interiors",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529165,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "accessory"
     ]
 },
-  "bbox": [-73.67795,40.82344,-73.67795,40.82344],
+  "bbox": [
+    -73.67795,
+    40.82344,
+    -73.67795,
+    40.82344
+],
   "geometry": {"coordinates":[-73.67795,40.82344],"type":"Point"}
 }

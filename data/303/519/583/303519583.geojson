@@ -2,13 +2,14 @@
   "id": 303519583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.004768,40.629862,-74.004768,40.629862",
     "geom:latitude":40.629862,
     "geom:longitude":-74.004768,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6202 11th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"c1002606abd75e1734c29e497475e65c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":303519583
         }
     ],
     "wof:id":303519583,
-    "wof:lastmodified":1449000402,
+    "wof:lastmodified":1454123679,
     "wof:name":"11th Ave Convenience Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "operates"
     ]
 },
-  "bbox": [-74.004768,40.629862,-74.004768,40.629862],
+  "bbox": [
+    -74.004768,
+    40.629862,
+    -74.004768,
+    40.629862
+],
   "geometry": {"coordinates":[-74.004768,40.629862],"type":"Point"}
 }

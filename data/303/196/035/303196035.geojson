@@ -2,13 +2,14 @@
   "id": 303196035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.062851,40.594459,-74.062851,40.594459",
     "geom:latitude":40.594459,
     "geom:longitude":-74.062851,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"70 Father Capodanno Blvd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85803627,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85803627
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"5ea3ac9eafc79e2fe33aafb2d3ac005d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85803627,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303196035,
-    "wof:lastmodified":1448998667,
+    "wof:lastmodified":1454123178,
     "wof:name":"Capodanno Associates",
     "wof:parent_id":85803627,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "for"
     ]
 },
-  "bbox": [-74.062851,40.594459,-74.062851,40.594459],
-  "geometry": {"coordinates":[-74.062851,40.594459],"type":"Point"}
+  "bbox": [
+    -74.062851,
+    40.594459,
+    -74.062851,
+    40.594459
+],
+  "geometry": {"coordinates":[-74.06285099999999,40.594459],"type":"Point"}
 }

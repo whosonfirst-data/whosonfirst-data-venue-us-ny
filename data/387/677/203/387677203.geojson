@@ -2,13 +2,14 @@
   "id": 387677203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.007183,40.637904,-74.007183,40.637904",
     "geom:latitude":40.637904,
     "geom:longitude":-74.007183,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5518 8th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.abacusbank.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851575,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85851575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"d00d3de05b87ec65b9213b765785cbb1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85851575,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387677203,
-    "wof:lastmodified":1449057466,
+    "wof:lastmodified":1454129771,
     "wof:name":"Abacus Federal Savings Bank",
     "wof:parent_id":85851575,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "savings"
     ]
 },
-  "bbox": [-74.007183,40.637904,-74.007183,40.637904],
+  "bbox": [
+    -74.007183,
+    40.637904,
+    -74.007183,
+    40.637904
+],
   "geometry": {"coordinates":[-74.007183,40.637904],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387955351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.655571,40.640843,-73.655571,40.640843",
     "geom:latitude":40.640843,
     "geom:longitude":-73.655571,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"512 Atlantic Ave",
     "sg:city":"Oceanside",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865343,
+        102191575,
+        404521473,
         85633793,
         85979143,
         102082371,
-        85865343
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"e09fb8c907dc513b42e829eee26f6bf9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979143,
             "neighbourhood_id":85865343,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387955351,
-    "wof:lastmodified":1449058752,
+    "wof:lastmodified":1454130002,
     "wof:name":"Century Office Furniture",
     "wof:parent_id":85865343,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "distributes"
     ]
 },
-  "bbox": [-73.655571,40.640843,-73.655571,40.640843],
-  "geometry": {"coordinates":[-73.655571,40.640843],"type":"Point"}
+  "bbox": [
+    -73.655571,
+    40.640843,
+    -73.655571,
+    40.640843
+],
+  "geometry": {"coordinates":[-73.65557099999999,40.640843],"type":"Point"}
 }

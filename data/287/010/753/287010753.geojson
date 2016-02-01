@@ -2,13 +2,14 @@
   "id": 287010753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.465403,40.825944,-73.465403,40.825944",
     "geom:latitude":40.825944,
     "geom:longitude":-73.465403,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 2nd St",
     "sg:city":"Woodbury",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
         85979055,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,20 @@
     "wof:geomhash":"3f17e11835df4357427f70013e853310",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979055,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":287010753
         }
     ],
     "wof:id":287010753,
-    "wof:lastmodified":1449001217,
+    "wof:lastmodified":1454123883,
     "wof:name":"Candy Bouquet",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +73,11 @@
         "candy"
     ]
 },
-  "bbox": [-73.465403,40.825944,-73.465403,40.825944],
-  "geometry": {"coordinates":[-73.465403,40.825944],"type":"Point"}
+  "bbox": [
+    -73.465403,
+    40.825944,
+    -73.465403,
+    40.825944
+],
+  "geometry": {"coordinates":[-73.46540299999999,40.825944],"type":"Point"}
 }

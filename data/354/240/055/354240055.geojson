@@ -2,13 +2,14 @@
   "id": 354240055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.427884,40.871255,-73.427884,40.871255",
     "geom:latitude":40.871255,
     "geom:longitude":-73.427884,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"293 Main St",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.thelitechoice.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892871,
+        102191575,
+        404522515,
         85633793,
         85979675,
         102082395,
-        85892871
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"cbfd6444da38a96a012c3c61e75e03b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85979675,
             "neighbourhood_id":85892871,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":354240055,
-    "wof:lastmodified":1449066107,
+    "wof:lastmodified":1454130825,
     "wof:name":"The Lite Choice",
     "wof:parent_id":85892871,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-73.427884,40.871255,-73.427884,40.871255],
-  "geometry": {"coordinates":[-73.427884,40.871255],"type":"Point"}
+  "bbox": [
+    -73.427884,
+    40.871255,
+    -73.427884,
+    40.871255
+],
+  "geometry": {"coordinates":[-73.42788400000001,40.871255],"type":"Point"}
 }

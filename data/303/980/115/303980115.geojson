@@ -2,13 +2,14 @@
   "id": 303980115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.149099,40.822807,-73.149099,40.822807",
     "geom:latitude":40.822807,
     "geom:longitude":-73.149099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"58 Richmond Blvd",
     "sg:city":"Ronkonkoma",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816389,
+        102191575,
+        404522517,
         85633793,
-        85979773,
+        85979693,
         102082395,
-        85816389
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"da2ec5a15caf1df423252779d2df3fc6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
             "neighbourhood_id":85816389,
             "region_id":85688543,
             "venue_id":303980115
         }
     ],
     "wof:id":303980115,
-    "wof:lastmodified":1448998282,
+    "wof:lastmodified":1454123042,
     "wof:name":"Market Vision Appraisal Svc",
     "wof:parent_id":85816389,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "appraiser"
     ]
 },
-  "bbox": [-73.149099,40.822807,-73.149099,40.822807],
-  "geometry": {"coordinates":[-73.149099,40.822807],"type":"Point"}
+  "bbox": [
+    -73.149099,
+    40.822807,
+    -73.149099,
+    40.822807
+],
+  "geometry": {"coordinates":[-73.14909900000001,40.822807],"type":"Point"}
 }

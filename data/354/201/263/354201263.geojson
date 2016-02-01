@@ -2,13 +2,14 @@
   "id": 354201263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.040338,40.846807,-73.040338,40.846807",
     "geom:latitude":40.846807,
     "geom:longitude":-73.040338,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"50 Lidge Dr",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"abb2a07059e20389b37d5075fc926333",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354201263
         }
     ],
     "wof:id":354201263,
-    "wof:lastmodified":1449067443,
+    "wof:lastmodified":1454131235,
     "wof:name":"Tim Bodkin Carpentry Inc",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "carpenter"
     ]
 },
-  "bbox": [-73.040338,40.846807,-73.040338,40.846807],
-  "geometry": {"coordinates":[-73.040338,40.846807],"type":"Point"}
+  "bbox": [
+    -73.040338,
+    40.846807,
+    -73.040338,
+    40.846807
+],
+  "geometry": {"coordinates":[-73.04033800000001,40.846807],"type":"Point"}
 }

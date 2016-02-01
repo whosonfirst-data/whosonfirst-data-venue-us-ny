@@ -2,13 +2,14 @@
   "id": 370534691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.902516,41.558012,-73.902516,41.558012",
     "geom:latitude":41.558012,
     "geom:longitude":-73.902516,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4 New Rd",
     "sg:city":"Fishkill",
     "sg:classifiers":[
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528475,
+        102191575,
+        404522225,
         85633793,
+        85979249,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -44,18 +50,20 @@
     "wof:geomhash":"e90e27626e9c7d52fe7ebe7c797f3e4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522225,
+            "locality_id":85979249,
+            "neighbourhood_id":420528475,
             "region_id":85688543,
             "venue_id":370534691
         }
     ],
     "wof:id":370534691,
-    "wof:lastmodified":1449029977,
+    "wof:lastmodified":1454127573,
     "wof:name":"Full Sail Realty",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528475,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-73.902516,41.558012,-73.902516,41.558012],
-  "geometry": {"coordinates":[-73.902516,41.558012],"type":"Point"}
+  "bbox": [
+    -73.902516,
+    41.558012,
+    -73.902516,
+    41.558012
+],
+  "geometry": {"coordinates":[-73.90251600000001,41.558012],"type":"Point"}
 }

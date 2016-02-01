@@ -2,13 +2,14 @@
   "id": 320555665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.88926,41.206025,-73.88926,41.206025",
     "geom:latitude":41.206025,
     "geom:longitude":-73.88926,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"49 Van Wyck St",
     "sg:city":"Croton On Hudson",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.alexanderhamiltonhouse.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85813053,
+        102191575,
+        404523355,
         85633793,
         85978745,
         102082373,
-        85813053
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"2cf08e4950503b4c38085efb3e654991",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523355,
             "locality_id":85978745,
             "neighbourhood_id":85813053,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":320555665,
-    "wof:lastmodified":1449014440,
+    "wof:lastmodified":1454125278,
     "wof:name":"Alexander Hamilton House",
     "wof:parent_id":85813053,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-73.88926,41.206025,-73.88926,41.206025],
-  "geometry": {"coordinates":[-73.88926,41.206025],"type":"Point"}
+  "bbox": [
+    -73.88926,
+    41.206025,
+    -73.88926,
+    41.206025
+],
+  "geometry": {"coordinates":[-73.88925999999999,41.206025],"type":"Point"}
 }

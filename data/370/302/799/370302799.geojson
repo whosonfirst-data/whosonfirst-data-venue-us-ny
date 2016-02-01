@@ -2,13 +2,14 @@
   "id": 370302799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.631155,43.151357,-77.631155,43.151357",
     "geom:latitude":43.151357,
     "geom:longitude":-77.631155,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"675 Main St W",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867087,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85867087
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"c66f974427ce0223d905f907ffa486cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85867087,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":370302799,
-    "wof:lastmodified":1449030244,
+    "wof:lastmodified":1454127655,
     "wof:name":"Rochester Housing Authority",
     "wof:parent_id":85867087,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "government"
     ]
 },
-  "bbox": [-77.631155,43.151357,-77.631155,43.151357],
-  "geometry": {"coordinates":[-77.631155,43.151357],"type":"Point"}
+  "bbox": [
+    -77.631155,
+    43.151357,
+    -77.631155,
+    43.151357
+],
+  "geometry": {"coordinates":[-77.63115500000001,43.151357],"type":"Point"}
 }

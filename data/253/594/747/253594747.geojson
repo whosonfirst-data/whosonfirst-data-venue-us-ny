@@ -2,13 +2,14 @@
   "id": 253594747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.867848,40.852297,-73.867848,40.852297",
     "geom:latitude":40.852297,
     "geom:longitude":-73.867848,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2045 White Plains Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807771,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85807771
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"867a14b5b02a04d12ba4a1f03705af55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85807771,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":253594747,
-    "wof:lastmodified":1449063239,
+    "wof:lastmodified":1454130314,
     "wof:name":"A-1 Locksmith",
     "wof:parent_id":85807771,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-73.867848,40.852297,-73.867848,40.852297],
+  "bbox": [
+    -73.867848,
+    40.852297,
+    -73.867848,
+    40.852297
+],
   "geometry": {"coordinates":[-73.867848,40.852297],"type":"Point"}
 }

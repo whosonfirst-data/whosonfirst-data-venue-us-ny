@@ -2,13 +2,14 @@
   "id": 269855251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.150833,43.048778,-76.150833,43.048778",
     "geom:latitude":43.048778,
     "geom:longitude":-76.150833,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"212 S Warren St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881241,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881241
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"b9a6ccec282a38c5074882c86fcbb51c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881241,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":269855251,
-    "wof:lastmodified":1449038032,
+    "wof:lastmodified":1454128724,
     "wof:name":"Bradleys Jewelers",
     "wof:parent_id":85881241,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.150833,43.048778,-76.150833,43.048778],
-  "geometry": {"coordinates":[-76.150833,43.048778],"type":"Point"}
+  "bbox": [
+    -76.150833,
+    43.048778,
+    -76.150833,
+    43.048778
+],
+  "geometry": {"coordinates":[-76.15083300000001,43.048778],"type":"Point"}
 }

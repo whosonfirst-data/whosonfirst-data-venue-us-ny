@@ -2,13 +2,14 @@
   "id": 370528827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.04203,41.435966,-74.04203,41.435966",
     "geom:latitude":41.435966,
     "geom:longitude":-74.04203,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 Laurel Ave Ste 2020",
     "sg:city":"Cornwall",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819353,
+        102191575,
+        404522801,
         85633793,
         85979533,
         102083061,
-        85819353
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"cc2c7b958540083268330a5aa4a0dbe4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
+            "localadmin_id":404522801,
             "locality_id":85979533,
             "neighbourhood_id":85819353,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":370528827,
-    "wof:lastmodified":1449030013,
+    "wof:lastmodified":1454127583,
     "wof:name":"Eye Physicians And Surgeons",
     "wof:parent_id":85819353,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "surgery-general"
     ]
 },
-  "bbox": [-74.04203,41.435966,-74.04203,41.435966],
+  "bbox": [
+    -74.04203,
+    41.435966,
+    -74.04203,
+    41.435966
+],
   "geometry": {"coordinates":[-74.04203,41.435966],"type":"Point"}
 }

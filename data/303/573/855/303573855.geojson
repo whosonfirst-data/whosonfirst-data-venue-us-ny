@@ -2,13 +2,14 @@
   "id": 303573855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.919982,40.814641,-73.919982,40.814641",
     "geom:latitude":40.814641,
     "geom:longitude":-73.919982,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2780 3rd Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85835417,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85835417
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"d61c6a61f12848cd77b705ae7ab4e743",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85835417,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303573855,
-    "wof:lastmodified":1448999924,
+    "wof:lastmodified":1454123546,
     "wof:name":"Family Connection",
     "wof:parent_id":85835417,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.919982,40.814641,-73.919982,40.814641],
+  "bbox": [
+    -73.919982,
+    40.814641,
+    -73.919982,
+    40.814641
+],
   "geometry": {"coordinates":[-73.919982,40.814641],"type":"Point"}
 }

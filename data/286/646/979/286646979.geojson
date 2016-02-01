@@ -2,13 +2,14 @@
   "id": 286646979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.996182,40.632214,-73.996182,40.632214",
     "geom:latitude":40.632214,
     "geom:longitude":-73.996182,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1237 55th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558599,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"7d398f819a9d5245434e41f7aa2e6463",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558599,
             "region_id":85688543,
             "venue_id":286646979
         }
     ],
     "wof:id":286646979,
-    "wof:lastmodified":1449015085,
+    "wof:lastmodified":1454125383,
     "wof:name":"Brightest Fabric Shade & Drap",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "sewing"
     ]
 },
-  "bbox": [-73.996182,40.632214,-73.996182,40.632214],
+  "bbox": [
+    -73.996182,
+    40.632214,
+    -73.996182,
+    40.632214
+],
   "geometry": {"coordinates":[-73.996182,40.632214],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370737547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.178175,42.597779,-76.178175,42.597779",
     "geom:latitude":42.597779,
     "geom:longitude":-76.178175,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"43 Port Watson St",
     "sg:city":"Cortland",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     "sg:website":"http://www.dgsurveyors.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528395,
+        102191575,
+        404522255,
         85633793,
-        85978513,
-        102083011
+        85978519,
+        102083011,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"4be2ec25ec94c99874acc56475b3c63c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083011,
-            "locality_id":85978513,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522255,
+            "locality_id":85978519,
+            "neighbourhood_id":420528395,
             "region_id":85688543,
             "venue_id":370737547
         }
     ],
     "wof:id":370737547,
-    "wof:lastmodified":1449029853,
+    "wof:lastmodified":1454127538,
     "wof:name":"Denkenberger & Greene",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528395,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +70,11 @@
         "engineer"
     ]
 },
-  "bbox": [-76.178175,42.597779,-76.178175,42.597779],
+  "bbox": [
+    -76.178175,
+    42.597779,
+    -76.178175,
+    42.597779
+],
   "geometry": {"coordinates":[-76.178175,42.597779],"type":"Point"}
 }

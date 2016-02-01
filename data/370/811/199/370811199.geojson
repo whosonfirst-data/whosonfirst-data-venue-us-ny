@@ -2,13 +2,14 @@
   "id": 370811199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.202864,40.533432,-74.202864,40.533432",
     "geom:latitude":40.533432,
     "geom:longitude":-74.202864,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1740 Carlton Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85858925,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85858925
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"4b9deed71a211d919056bb6fb613d128",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85858925,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":370811199,
-    "wof:lastmodified":1449030717,
+    "wof:lastmodified":1454127793,
     "wof:name":"Solex Energy Supply",
     "wof:parent_id":85858925,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "system"
     ]
 },
-  "bbox": [-74.202864,40.533432,-74.202864,40.533432],
-  "geometry": {"coordinates":[-74.202864,40.533432],"type":"Point"}
+  "bbox": [
+    -74.202864,
+    40.533432,
+    -74.202864,
+    40.533432
+],
+  "geometry": {"coordinates":[-74.20286400000001,40.533432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353780857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.989238,40.751941,-73.989238,40.751941",
     "geom:latitude":40.751941,
     "geom:longitude":-73.989238,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"142 W 36 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867073,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85867073
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"b8c18264a1ddc0757452683b7e166869",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85867073,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":353780857,
-    "wof:lastmodified":1449020161,
+    "wof:lastmodified":1454126498,
     "wof:name":"Global Line Shipping Corp",
     "wof:parent_id":85867073,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "shipping"
     ]
 },
-  "bbox": [-73.989238,40.751941,-73.989238,40.751941],
+  "bbox": [
+    -73.989238,
+    40.751941,
+    -73.989238,
+    40.751941
+],
   "geometry": {"coordinates":[-73.989238,40.751941],"type":"Point"}
 }

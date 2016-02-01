@@ -2,13 +2,14 @@
   "id": 387140219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.287978,40.805355,-73.287978,40.805355",
     "geom:latitude":40.805355,
     "geom:longitude":-73.287978,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Crooked Hill Rd",
     "sg:city":"Commack",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892809,
+        102191575,
+        404522517,
         85633793,
         85979867,
         102082395,
-        85892809
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"781d3f7b2a73a5bed8a9a271de383946",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979867,
             "neighbourhood_id":85892809,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":387140219,
-    "wof:lastmodified":1449056655,
+    "wof:lastmodified":1454129626,
     "wof:name":"Commack Truck Stop",
     "wof:parent_id":85892809,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "stops"
     ]
 },
-  "bbox": [-73.287978,40.805355,-73.287978,40.805355],
+  "bbox": [
+    -73.287978,
+    40.805355,
+    -73.287978,
+    40.805355
+],
   "geometry": {"coordinates":[-73.287978,40.805355],"type":"Point"}
 }

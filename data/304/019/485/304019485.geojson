@@ -2,13 +2,14 @@
   "id": 304019485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.982177,40.74431,-73.982177,40.74431",
     "geom:latitude":40.74431,
     "geom:longitude":-73.982177,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"117 E 30 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868041,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85868041
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"bc7c90472ba70eb9141c75c567e02870",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85868041,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":304019485,
-    "wof:lastmodified":1449043932,
+    "wof:lastmodified":1454129012,
     "wof:name":"Amerisci",
     "wof:parent_id":85868041,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-73.982177,40.74431,-73.982177,40.74431],
-  "geometry": {"coordinates":[-73.982177,40.74431],"type":"Point"}
+  "bbox": [
+    -73.982177,
+    40.74431,
+    -73.982177,
+    40.74431
+],
+  "geometry": {"coordinates":[-73.98217699999999,40.74431],"type":"Point"}
 }

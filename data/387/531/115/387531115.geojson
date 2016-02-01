@@ -2,13 +2,14 @@
   "id": 387531115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.184953,40.808496,-73.184953,40.808496",
     "geom:latitude":40.808496,
     "geom:longitude":-73.184953,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1670 Veterans Hwy",
     "sg:city":"Islandia",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530053,
+        102191575,
+        404522517,
         85633793,
-        85978421,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"3382fa191e3e8e104c0a61f089632f13",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978421,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530053,
             "region_id":85688543,
             "venue_id":387531115
         }
     ],
     "wof:id":387531115,
-    "wof:lastmodified":1449057004,
+    "wof:lastmodified":1454129690,
     "wof:name":"Expressway Amoco",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "oil"
     ]
 },
-  "bbox": [-73.184953,40.808496,-73.184953,40.808496],
-  "geometry": {"coordinates":[-73.184953,40.808496],"type":"Point"}
+  "bbox": [
+    -73.184953,
+    40.808496,
+    -73.184953,
+    40.808496
+],
+  "geometry": {"coordinates":[-73.18495299999999,40.808496],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353628805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.926619,41.279404,-73.926619,41.279404",
     "geom:latitude":41.279404,
     "geom:longitude":-73.926619,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"628 Washington St",
     "sg:city":"Peekskill",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892981,
+        102191575,
+        404523381,
         85633793,
         85978715,
         102082373,
-        85892981
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"0af0d887ba12ebe90bad945654930d1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523381,
             "locality_id":85978715,
             "neighbourhood_id":85892981,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":353628805,
-    "wof:lastmodified":1449020340,
+    "wof:lastmodified":1454126553,
     "wof:name":"Hudson Valley Gym",
     "wof:parent_id":85892981,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "facility"
     ]
 },
-  "bbox": [-73.926619,41.279404,-73.926619,41.279404],
+  "bbox": [
+    -73.926619,
+    41.279404,
+    -73.926619,
+    41.279404
+],
   "geometry": {"coordinates":[-73.926619,41.279404],"type":"Point"}
 }

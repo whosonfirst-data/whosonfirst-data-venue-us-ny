@@ -2,13 +2,14 @@
   "id": 269743955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.03709,40.840611,-73.03709,40.840611",
     "geom:latitude":40.840611,
     "geom:longitude":-73.03709,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14 Hickory Ave",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"2d01b18f74c7167cd9e872cb4c7d3f47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":269743955
         }
     ],
     "wof:id":269743955,
-    "wof:lastmodified":1449038944,
+    "wof:lastmodified":1454128812,
     "wof:name":"Sam's Masonry Corp",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.03709,40.840611,-73.03709,40.840611],
-  "geometry": {"coordinates":[-73.03709,40.840611],"type":"Point"}
+  "bbox": [
+    -73.03709,
+    40.840611,
+    -73.03709,
+    40.840611
+],
+  "geometry": {"coordinates":[-73.03709000000001,40.840611],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354091965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.539803,40.679901,-73.539803,40.679901",
     "geom:latitude":40.679901,
     "geom:longitude":-73.539803,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2426 Henry St",
     "sg:city":"North Bellmore",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529153,
+        102191575,
+        404521473,
         85633793,
-        85979059,
-        102082371
+        85979047,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"27b61b613e0c3815c9831ff044539ee3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979059,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521473,
+            "locality_id":85979047,
+            "neighbourhood_id":420529153,
             "region_id":85688543,
             "venue_id":354091965
         }
     ],
     "wof:id":354091965,
-    "wof:lastmodified":1449066100,
+    "wof:lastmodified":1454130823,
     "wof:name":"Amtest Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529153,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "lighting"
     ]
 },
-  "bbox": [-73.539803,40.679901,-73.539803,40.679901],
-  "geometry": {"coordinates":[-73.539803,40.679901],"type":"Point"}
+  "bbox": [
+    -73.539803,
+    40.679901,
+    -73.539803,
+    40.679901
+],
+  "geometry": {"coordinates":[-73.53980300000001,40.679901],"type":"Point"}
 }

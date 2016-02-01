@@ -2,13 +2,14 @@
   "id": 303337751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.524915,40.798436,-73.524915,40.798436",
     "geom:latitude":40.798436,
     "geom:longitude":-73.524915,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 Sagamore Way N",
     "sg:city":"Jericho",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892879,
+        102191575,
+        404521475,
         85633793,
-        85977611,
+        85979085,
         102082371,
-        85892879
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"936ca3c62c6043623f11eace4a9cdc21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977611,
+            "localadmin_id":404521475,
+            "locality_id":85979085,
             "neighbourhood_id":85892879,
             "region_id":85688543,
             "venue_id":303337751
         }
     ],
     "wof:id":303337751,
-    "wof:lastmodified":1448999263,
+    "wof:lastmodified":1454123366,
     "wof:name":"Paper Depot",
     "wof:parent_id":85892879,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "stationery"
     ]
 },
-  "bbox": [-73.524915,40.798436,-73.524915,40.798436],
-  "geometry": {"coordinates":[-73.524915,40.798436],"type":"Point"}
+  "bbox": [
+    -73.524915,
+    40.798436,
+    -73.524915,
+    40.798436
+],
+  "geometry": {"coordinates":[-73.52491499999999,40.798436],"type":"Point"}
 }

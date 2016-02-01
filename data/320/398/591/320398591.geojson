@@ -2,13 +2,14 @@
   "id": 320398591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.671004,43.238349,-77.671004,43.238349",
     "geom:latitude":43.238349,
     "geom:longitude":-77.671004,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"709 English Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85868837,
+        102081815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"2b97b0f5cb7b096fc8de143212419c77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "neighbourhood_id":85868837,
             "region_id":85688543,
             "venue_id":320398591
         }
     ],
     "wof:id":320398591,
-    "wof:lastmodified":1449011546,
+    "wof:lastmodified":1454124808,
     "wof:name":"C H Medical",
-    "wof:parent_id":-1,
+    "wof:parent_id":85868837,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-77.671004,43.238349,-77.671004,43.238349],
+  "bbox": [
+    -77.671004,
+    43.238349,
+    -77.671004,
+    43.238349
+],
   "geometry": {"coordinates":[-77.671004,43.238349],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185817679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.025101,40.637779,-74.025101,40.637779",
     "geom:latitude":40.637779,
     "geom:longitude":-74.025101,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6700 3rd Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://www.volckening.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85804819,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85804819
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"e67b3d84ca5459e665d90f47b9d6f096",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85804819,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":185817679,
-    "wof:lastmodified":1449007906,
+    "wof:lastmodified":1454124311,
     "wof:name":"Volckening, Inc.",
     "wof:parent_id":85804819,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "brush"
     ]
 },
-  "bbox": [-74.025101,40.637779,-74.025101,40.637779],
-  "geometry": {"coordinates":[-74.025101,40.637779],"type":"Point"}
+  "bbox": [
+    -74.025101,
+    40.637779,
+    -74.025101,
+    40.637779
+],
+  "geometry": {"coordinates":[-74.02510100000001,40.637779],"type":"Point"}
 }

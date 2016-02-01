@@ -2,13 +2,14 @@
   "id": 387060909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.318166,42.335629,-77.318166,42.335629",
     "geom:latitude":42.335629,
     "geom:longitude":-77.318166,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"121 Liberty St",
     "sg:city":"Bath",
     "sg:classifiers":[
@@ -78,11 +79,13 @@
     "sg:website":"http://national.citysearch.com/profile/external/7807457/bath_ny/sherwin_williams.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824273,
+        102191575,
+        404522587,
         85633793,
         85978659,
         102083115,
-        85824273
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,9 +95,10 @@
     "wof:geomhash":"83e3ac1e7bd0fe917a56e2011a74c694",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083115,
+            "localadmin_id":404522587,
             "locality_id":85978659,
             "neighbourhood_id":85824273,
             "region_id":85688543,
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":387060909,
-    "wof:lastmodified":1449059569,
+    "wof:lastmodified":1454130148,
     "wof:name":"Sherwin-Williams",
     "wof:parent_id":85824273,
     "wof:placetype":"venue",
@@ -127,6 +131,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-77.318166,42.335629,-77.318166,42.335629],
-  "geometry": {"coordinates":[-77.318166,42.335629],"type":"Point"}
+  "bbox": [
+    -77.318166,
+    42.335629,
+    -77.318166,
+    42.335629
+],
+  "geometry": {"coordinates":[-77.31816600000001,42.335629],"type":"Point"}
 }

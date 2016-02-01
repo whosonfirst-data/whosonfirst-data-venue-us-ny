@@ -2,13 +2,14 @@
   "id": 320480391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.844605,41.753334,-73.844605,41.753334",
     "geom:latitude":41.753334,
     "geom:longitude":-73.844605,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"833 Salt Point Tpke",
     "sg:city":"Pleasant Valley",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528481,
+        102191575,
+        404522303,
         85633793,
+        85979257,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"8d162dfd7bfd24b63c66d8191dc625c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522303,
+            "locality_id":85979257,
+            "neighbourhood_id":420528481,
             "region_id":85688543,
             "venue_id":320480391
         }
     ],
     "wof:id":320480391,
-    "wof:lastmodified":1449012493,
+    "wof:lastmodified":1454124961,
     "wof:name":"Dunn Rite Electric",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528481,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.844605,41.753334,-73.844605,41.753334],
+  "bbox": [
+    -73.844605,
+    41.753334,
+    -73.844605,
+    41.753334
+],
   "geometry": {"coordinates":[-73.844605,41.753334],"type":"Point"}
 }

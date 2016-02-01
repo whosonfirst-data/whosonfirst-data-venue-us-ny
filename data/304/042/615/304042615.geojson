@@ -2,13 +2,14 @@
   "id": 304042615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.984808,40.760104,-73.984808,40.760104",
     "geom:latitude":40.760104,
     "geom:longitude":-73.984808,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 W 48 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867077,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85867077
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ad38a813e4a3afcf30cc861100488b9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85867077,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":304042615,
-    "wof:lastmodified":1449044018,
+    "wof:lastmodified":1454129022,
     "wof:name":"Manhattan Renaissance",
     "wof:parent_id":85867077,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.984808,40.760104,-73.984808,40.760104],
+  "bbox": [
+    -73.984808,
+    40.760104,
+    -73.984808,
+    40.760104
+],
   "geometry": {"coordinates":[-73.984808,40.760104],"type":"Point"}
 }

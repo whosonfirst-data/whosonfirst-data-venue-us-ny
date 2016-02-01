@@ -2,13 +2,14 @@
   "id": 370342861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.965891,40.805074,-73.965891,40.805074",
     "geom:latitude":40.805074,
     "geom:longitude":-73.965891,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2880 Broadway",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869509,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85869509
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"0260499295814e8d352c40e64309f14a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869509,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370342861,
-    "wof:lastmodified":1449032225,
+    "wof:lastmodified":1454128238,
     "wof:name":"Nasa Goddard Inst-Space Libr",
     "wof:parent_id":85869509,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "government"
     ]
 },
-  "bbox": [-73.965891,40.805074,-73.965891,40.805074],
+  "bbox": [
+    -73.965891,
+    40.805074,
+    -73.965891,
+    40.805074
+],
   "geometry": {"coordinates":[-73.965891,40.805074],"type":"Point"}
 }

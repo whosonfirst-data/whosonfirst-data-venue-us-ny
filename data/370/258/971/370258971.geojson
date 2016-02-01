@@ -2,13 +2,14 @@
   "id": 370258971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.458801,40.8297,-73.458801,40.8297",
     "geom:latitude":40.8297,
     "geom:longitude":-73.458801,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"141 Woodbury Rd",
     "sg:city":"Woodbury",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
         85979055,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"ac78707069d7f7c82c44a9a82b732823",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979055,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":370258971
         }
     ],
     "wof:id":370258971,
-    "wof:lastmodified":1449031787,
+    "wof:lastmodified":1454128109,
     "wof:name":"Frank's Gourmet Pizzeria & Catering",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "pizza"
     ]
 },
-  "bbox": [-73.458801,40.8297,-73.458801,40.8297],
-  "geometry": {"coordinates":[-73.458801,40.8297],"type":"Point"}
+  "bbox": [
+    -73.458801,
+    40.8297,
+    -73.458801,
+    40.8297
+],
+  "geometry": {"coordinates":[-73.45880099999999,40.8297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353982353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.686398,40.816236,-73.686398,40.816236",
     "geom:latitude":40.816236,
     "geom:longitude":-73.686398,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"160 Chestnut Rd",
     "sg:city":"Manhasset",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529165,
+        102191575,
+        404522729,
         85633793,
-        85977681,
-        102082371
+        85979185,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"3a851d3a05f4d4bf7aa43db401eabf6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977681,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522729,
+            "locality_id":85979185,
+            "neighbourhood_id":420529165,
             "region_id":85688543,
             "venue_id":353982353
         }
     ],
     "wof:id":353982353,
-    "wof:lastmodified":1449018677,
+    "wof:lastmodified":1454126072,
     "wof:name":"Photos By Betsy Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529165,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "hanging"
     ]
 },
-  "bbox": [-73.686398,40.816236,-73.686398,40.816236],
+  "bbox": [
+    -73.686398,
+    40.816236,
+    -73.686398,
+    40.816236
+],
   "geometry": {"coordinates":[-73.686398,40.816236],"type":"Point"}
 }

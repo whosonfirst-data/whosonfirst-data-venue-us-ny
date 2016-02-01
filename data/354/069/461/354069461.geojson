@@ -2,13 +2,14 @@
   "id": 354069461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.228401,40.735802,-73.228401,40.735802",
     "geom:latitude":40.735802,
     "geom:longitude":-73.228401,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"86 Saxon Ave",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530029,
+        102191575,
+        404522517,
         85633793,
         85979775,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"c7616fbc0efbafa8c1d3e6f08f1d78a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979775,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530029,
             "region_id":85688543,
             "venue_id":354069461
         }
     ],
     "wof:id":354069461,
-    "wof:lastmodified":1449067040,
+    "wof:lastmodified":1454131108,
     "wof:name":"Saxon Chiropractic Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530029,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.228401,40.735802,-73.228401,40.735802],
-  "geometry": {"coordinates":[-73.228401,40.735802],"type":"Point"}
+  "bbox": [
+    -73.228401,
+    40.735802,
+    -73.228401,
+    40.735802
+],
+  "geometry": {"coordinates":[-73.22840100000001,40.735802],"type":"Point"}
 }

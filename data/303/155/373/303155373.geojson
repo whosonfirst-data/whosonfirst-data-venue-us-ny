@@ -2,13 +2,14 @@
   "id": 303155373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.802734,42.763943,-73.802734,42.763943",
     "geom:latitude":42.763943,
     "geom:longitude":-73.802734,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"960 Troy Schenectady Rd",
     "sg:city":"Latham",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85834707,
+        102082353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"0c3dc304b109125c494669e7e6a425c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082353,
+            "neighbourhood_id":85834707,
             "region_id":85688543,
             "venue_id":303155373
         }
     ],
     "wof:id":303155373,
-    "wof:lastmodified":1449000135,
+    "wof:lastmodified":1454123605,
     "wof:name":"LA Torre Orthopedic Laboratory",
-    "wof:parent_id":-1,
+    "wof:parent_id":85834707,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-73.802734,42.763943,-73.802734,42.763943],
+  "bbox": [
+    -73.802734,
+    42.763943,
+    -73.802734,
+    42.763943
+],
   "geometry": {"coordinates":[-73.802734,42.763943],"type":"Point"}
 }

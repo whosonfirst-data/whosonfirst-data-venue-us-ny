@@ -2,13 +2,14 @@
   "id": 270531779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.681449,43.126488,-78.681449,43.126488",
     "geom:latitude":43.126488,
     "geom:longitude":-78.681449,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"376 Birchwood Dr",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529193,
+        102191575,
+        404522737,
         85633793,
         85979541,
-        102081767
+        102081767,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"3d97ed85faafec41d64f75afe34060ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
+            "localadmin_id":404522737,
             "locality_id":85979541,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":270531779
         }
     ],
     "wof:id":270531779,
-    "wof:lastmodified":1449009213,
+    "wof:lastmodified":1454124450,
     "wof:name":"KWW Home Improvements",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "improvement"
     ]
 },
-  "bbox": [-78.681449,43.126488,-78.681449,43.126488],
+  "bbox": [
+    -78.681449,
+    43.126488,
+    -78.681449,
+    43.126488
+],
   "geometry": {"coordinates":[-78.681449,43.126488],"type":"Point"}
 }

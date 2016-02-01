@@ -2,13 +2,14 @@
   "id": 354121967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.21887,40.849016,-73.21887,40.849016",
     "geom:latitude":40.849016,
     "geom:longitude":-73.21887,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"136 Rustic Rd",
     "sg:city":"Centereach",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
-        85979919,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"cb95ba61e5401f87828ca1d987d7cfac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":354121967
         }
     ],
     "wof:id":354121967,
-    "wof:lastmodified":1449067263,
+    "wof:lastmodified":1454131183,
     "wof:name":"Good News Appliance Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.21887,40.849016,-73.21887,40.849016],
+  "bbox": [
+    -73.21887,
+    40.849016,
+    -73.21887,
+    40.849016
+],
   "geometry": {"coordinates":[-73.21887,40.849016],"type":"Point"}
 }

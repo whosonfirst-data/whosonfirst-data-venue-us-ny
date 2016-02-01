@@ -2,13 +2,14 @@
   "id": 337422427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.809002,40.71987,-73.809002,40.71987",
     "geom:latitude":40.71987,
     "geom:longitude":-73.809002,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"158-02 Union Tpke",
     "sg:city":"Flushing",
     "sg:classifiers":[
@@ -35,11 +36,13 @@
     "sg:website":"www.riteaid.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865567,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865567
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"7745a7365164f06fb68cb7417cd37ded",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865567,
             "region_id":85688543,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":337422427,
-    "wof:lastmodified":1449026994,
+    "wof:lastmodified":1454126887,
     "wof:name":"Rite Aid Pharmacy",
     "wof:parent_id":85865567,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "store"
     ]
 },
-  "bbox": [-73.809002,40.71987,-73.809002,40.71987],
-  "geometry": {"coordinates":[-73.809002,40.71987],"type":"Point"}
+  "bbox": [
+    -73.809002,
+    40.71987,
+    -73.809002,
+    40.71987
+],
+  "geometry": {"coordinates":[-73.80900200000001,40.71987],"type":"Point"}
 }

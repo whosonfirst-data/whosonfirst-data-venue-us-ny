@@ -2,13 +2,14 @@
   "id": 169729377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.888347,40.655398,-73.888347,40.655398",
     "geom:latitude":40.655398,
     "geom:longitude":-73.888347,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"926 Pennsylvania Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869421,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85869421
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"f400a1c7eb2e85312588271d49dd213c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869421,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":169729377,
-    "wof:lastmodified":1449034348,
+    "wof:lastmodified":1454128406,
     "wof:name":"Bed & Bath Unlimited",
     "wof:parent_id":85869421,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "bedding"
     ]
 },
-  "bbox": [-73.888347,40.655398,-73.888347,40.655398],
+  "bbox": [
+    -73.888347,
+    40.655398,
+    -73.888347,
+    40.655398
+],
   "geometry": {"coordinates":[-73.888347,40.655398],"type":"Point"}
 }

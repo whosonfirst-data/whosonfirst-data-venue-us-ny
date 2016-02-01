@@ -2,13 +2,14 @@
   "id": 337285271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.003263,40.677018,-74.003263,40.677018",
     "geom:latitude":40.677018,
     "geom:longitude":-74.003263,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"75 Huntington St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -50,11 +51,13 @@
     "sg:website":"http://www.johnstonesupply.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844047,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85844047
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,9 +67,10 @@
     "wof:geomhash":"ead2e60d7287ef2a0241bdb2ee54ff2c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844047,
             "region_id":85688543,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":337285271,
-    "wof:lastmodified":1449026956,
+    "wof:lastmodified":1454126872,
     "wof:name":"B&F Johnstone Supply",
     "wof:parent_id":85844047,
     "wof:placetype":"venue",
@@ -91,6 +95,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-74.003263,40.677018,-74.003263,40.677018],
+  "bbox": [
+    -74.003263,
+    40.677018,
+    -74.003263,
+    40.677018
+],
   "geometry": {"coordinates":[-74.003263,40.677018],"type":"Point"}
 }

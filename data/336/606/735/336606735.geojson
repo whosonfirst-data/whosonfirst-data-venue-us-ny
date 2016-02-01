@@ -2,13 +2,14 @@
   "id": 336606735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.865349,40.979755,-73.865349,40.979755",
     "geom:latitude":40.979755,
     "geom:longitude":-73.865349,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1280 Saw Mill River Rd",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881889,
+        102191575,
+        404523397,
         85633793,
         85978759,
         102082373,
-        85881889
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"1f3335bb3fd1c2176e066afe9e7cd153",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
             "neighbourhood_id":85881889,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":336606735,
-    "wof:lastmodified":1448997112,
+    "wof:lastmodified":1454122411,
     "wof:name":"Riverdale Dental Lab",
     "wof:parent_id":85881889,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "dental"
     ]
 },
-  "bbox": [-73.865349,40.979755,-73.865349,40.979755],
-  "geometry": {"coordinates":[-73.865349,40.979755],"type":"Point"}
+  "bbox": [
+    -73.865349,
+    40.979755,
+    -73.865349,
+    40.979755
+],
+  "geometry": {"coordinates":[-73.86534899999999,40.979755],"type":"Point"}
 }

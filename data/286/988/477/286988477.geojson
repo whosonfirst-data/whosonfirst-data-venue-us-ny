@@ -2,13 +2,14 @@
   "id": 286988477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.116867,40.563324,-74.116867,40.563324",
     "geom:latitude":40.563324,
     "geom:longitude":-74.116867,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2840 Hylan Blvd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.championlocksmith.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85839103,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85839103
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"1111f3444ab87a04bbc191e6f20021c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85839103,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":286988477,
-    "wof:lastmodified":1449016199,
+    "wof:lastmodified":1454125578,
     "wof:name":"Champion Locksmith",
     "wof:parent_id":85839103,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-74.116867,40.563324,-74.116867,40.563324],
+  "bbox": [
+    -74.116867,
+    40.563324,
+    -74.116867,
+    40.563324
+],
   "geometry": {"coordinates":[-74.116867,40.563324],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320002779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.98898,41.151162,-73.98898,41.151162",
     "geom:latitude":41.151162,
     "geom:longitude":-73.98898,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"130 N Main St",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85808111,
+        102191575,
+        404523091,
         85633793,
         85979971,
         102082385,
-        85808111
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"c5c00ebbfde051075ed7715cffa50546",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523091,
             "locality_id":85979971,
             "neighbourhood_id":85808111,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":320002779,
-    "wof:lastmodified":1449014290,
+    "wof:lastmodified":1454125253,
     "wof:name":"Ace Taxi",
     "wof:parent_id":85808111,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "taxicab"
     ]
 },
-  "bbox": [-73.98898,41.151162,-73.98898,41.151162],
+  "bbox": [
+    -73.98898,
+    41.151162,
+    -73.98898,
+    41.151162
+],
   "geometry": {"coordinates":[-73.98898,41.151162],"type":"Point"}
 }

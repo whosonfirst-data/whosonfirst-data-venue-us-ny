@@ -2,13 +2,14 @@
   "id": 354339013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.367773,40.68763,-73.367773,40.68763",
     "geom:latitude":40.68763,
     "geom:longitude":-73.367773,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"149 Pennsylvania Ave",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -42,10 +43,13 @@
     "sg:website":"http://matthewleecorp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
         85978477,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,19 +59,20 @@
     "wof:geomhash":"26787f97b95f2bc44816b623bada12d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522513,
             "locality_id":85978477,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":354339013
         }
     ],
     "wof:id":354339013,
-    "wof:lastmodified":1449066672,
+    "wof:lastmodified":1454130998,
     "wof:name":"Matthew-Lee Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -79,6 +84,11 @@
         "pennant"
     ]
 },
-  "bbox": [-73.367773,40.68763,-73.367773,40.68763],
+  "bbox": [
+    -73.367773,
+    40.68763,
+    -73.367773,
+    40.68763
+],
   "geometry": {"coordinates":[-73.367773,40.68763],"type":"Point"}
 }

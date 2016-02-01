@@ -2,13 +2,14 @@
   "id": 353529677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.321316,40.835457,-73.321316,40.835457",
     "geom:latitude":40.835457,
     "geom:longitude":-73.321316,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 Daly Rd",
     "sg:city":"East Northport",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85892873,
+        102191575,
+        404522515,
         85633793,
+        85979751,
+        102082395,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"79776d0aa514bfa7fac279e873fa25df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082395,
+            "localadmin_id":404522515,
+            "locality_id":85979751,
+            "neighbourhood_id":85892873,
             "region_id":85688543,
             "venue_id":353529677
         }
     ],
     "wof:id":353529677,
-    "wof:lastmodified":1449019375,
+    "wof:lastmodified":1454126272,
     "wof:name":"Amj Building Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892873,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "operative"
     ]
 },
-  "bbox": [-73.321316,40.835457,-73.321316,40.835457],
+  "bbox": [
+    -73.321316,
+    40.835457,
+    -73.321316,
+    40.835457
+],
   "geometry": {"coordinates":[-73.321316,40.835457],"type":"Point"}
 }

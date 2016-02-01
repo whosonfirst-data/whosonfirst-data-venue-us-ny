@@ -2,13 +2,14 @@
   "id": 253107029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.221184,40.876075,-73.221184,40.876075",
     "geom:latitude":40.876075,
     "geom:longitude":-73.221184,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Dudley Ln",
     "sg:city":"Kings Park",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530055,
+        102191575,
+        404522669,
         85633793,
-        85979669,
-        102082395
+        85979919,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"2cd7cc75e568fcfc83042c8aed2eb0b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979669,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522669,
+            "locality_id":85979919,
+            "neighbourhood_id":420530055,
             "region_id":85688543,
             "venue_id":253107029
         }
     ],
     "wof:id":253107029,
-    "wof:lastmodified":1449062835,
+    "wof:lastmodified":1454130245,
     "wof:name":"Rizzuto & Sons",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530055,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-73.221184,40.876075,-73.221184,40.876075],
-  "geometry": {"coordinates":[-73.221184,40.876075],"type":"Point"}
+  "bbox": [
+    -73.221184,
+    40.876075,
+    -73.221184,
+    40.876075
+],
+  "geometry": {"coordinates":[-73.22118399999999,40.876075],"type":"Point"}
 }

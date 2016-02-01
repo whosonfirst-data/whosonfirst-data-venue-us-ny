@@ -2,13 +2,14 @@
   "id": 387108321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.901838,40.861101,-73.901838,40.861101",
     "geom:latitude":40.861101,
     "geom:longitude":-73.901838,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2436 Jerome Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819763,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85819763
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"d0b88affecd7ffe6f2b44ebf079abc3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819763,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387108321,
-    "wof:lastmodified":1449056181,
+    "wof:lastmodified":1454129546,
     "wof:name":"Jerome Pawn Broker Inc",
     "wof:parent_id":85819763,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "pawnbroker"
     ]
 },
-  "bbox": [-73.901838,40.861101,-73.901838,40.861101],
+  "bbox": [
+    -73.901838,
+    40.861101,
+    -73.901838,
+    40.861101
+],
   "geometry": {"coordinates":[-73.901838,40.861101],"type":"Point"}
 }

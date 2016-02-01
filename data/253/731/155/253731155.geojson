@@ -2,13 +2,14 @@
   "id": 253731155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.777555,43.088001,-73.777555,43.088001",
     "geom:latitude":43.088001,
     "geom:longitude":-73.777555,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"165 High Rock Ave",
     "sg:city":"Saratoga Springs",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"www.worldgymsaratoga.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85859279,
+        102191575,
+        404522373,
         85633793,
         85977919,
         102082413,
-        85859279
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"1a06e46e46ed20b623e3cf89f2a44369",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082413,
+            "localadmin_id":404522373,
             "locality_id":85977919,
             "neighbourhood_id":85859279,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":253731155,
-    "wof:lastmodified":1449065449,
+    "wof:lastmodified":1454130687,
     "wof:name":"World Gym Fitness Centers",
     "wof:parent_id":85859279,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "physical"
     ]
 },
-  "bbox": [-73.777555,43.088001,-73.777555,43.088001],
-  "geometry": {"coordinates":[-73.777555,43.088001],"type":"Point"}
+  "bbox": [
+    -73.777555,
+    43.088001,
+    -73.777555,
+    43.088001
+],
+  "geometry": {"coordinates":[-73.77755500000001,43.088001],"type":"Point"}
 }

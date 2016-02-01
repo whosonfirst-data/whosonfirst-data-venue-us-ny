@@ -2,13 +2,14 @@
   "id": 353843323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.996276,40.698661,-73.996276,40.698661",
     "geom:latitude":40.698661,
     "geom:longitude":-73.996276,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"144 Columbia Hts",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807925,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85807925
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"8c13987deb25498445adebdc7b3ef432",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85807925,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":353843323,
-    "wof:lastmodified":1449018476,
+    "wof:lastmodified":1454126013,
     "wof:name":"John Barnes Productions Inc",
     "wof:parent_id":85807925,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "producer"
     ]
 },
-  "bbox": [-73.996276,40.698661,-73.996276,40.698661],
-  "geometry": {"coordinates":[-73.996276,40.698661],"type":"Point"}
+  "bbox": [
+    -73.996276,
+    40.698661,
+    -73.996276,
+    40.698661
+],
+  "geometry": {"coordinates":[-73.99627599999999,40.698661],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270332849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.571936,43.199768,-78.571936,43.199768",
     "geom:latitude":43.199768,
     "geom:longitude":-78.571936,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8430 Telegraph Rd",
     "sg:city":"Gasport",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85839697,
+        102191575,
+        404522751,
         85633793,
         85979551,
-        102081767
+        102081767,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"c127d5b33c99133e0de74ddfdba2bc52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
+            "localadmin_id":404522751,
             "locality_id":85979551,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85839697,
             "region_id":85688543,
             "venue_id":270332849
         }
     ],
     "wof:id":270332849,
-    "wof:lastmodified":1449010004,
+    "wof:lastmodified":1454124568,
     "wof:name":"Gasport Welding & Fabricating",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839697,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "steel"
     ]
 },
-  "bbox": [-78.571936,43.199768,-78.571936,43.199768],
-  "geometry": {"coordinates":[-78.571936,43.199768],"type":"Point"}
+  "bbox": [
+    -78.571936,
+    43.199768,
+    -78.571936,
+    43.199768
+],
+  "geometry": {"coordinates":[-78.57193599999999,43.199768],"type":"Point"}
 }

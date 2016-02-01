@@ -2,13 +2,14 @@
   "id": 286436953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.182515,40.837137,-73.182515,40.837137",
     "geom:latitude":40.837137,
     "geom:longitude":-73.182515,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"51 W Pond Ct",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530053,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"a86e494f51ecfa1ca612e7b57b741bdd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530053,
             "region_id":85688543,
             "venue_id":286436953
         }
     ],
     "wof:id":286436953,
-    "wof:lastmodified":1449017812,
+    "wof:lastmodified":1454125863,
     "wof:name":"Direct Sales",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "direct"
     ]
 },
-  "bbox": [-73.182515,40.837137,-73.182515,40.837137],
+  "bbox": [
+    -73.182515,
+    40.837137,
+    -73.182515,
+    40.837137
+],
   "geometry": {"coordinates":[-73.182515,40.837137],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 252747973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.70656,43.279881,-78.70656,43.279881",
     "geom:latitude":43.279881,
     "geom:longitude":-78.70656,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2922 Lockport Olcott Rd",
     "sg:city":"Newfane",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529205,
+        102191575,
+        404522741,
         85633793,
         85979549,
-        102081767
+        102081767,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"57c331b24e5bfbff95473a7d766d9583",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
+            "localadmin_id":404522741,
             "locality_id":85979549,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529205,
             "region_id":85688543,
             "venue_id":252747973
         }
     ],
     "wof:id":252747973,
-    "wof:lastmodified":1449005606,
+    "wof:lastmodified":1454124009,
     "wof:name":"Box Office Video",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529205,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "tape"
     ]
 },
-  "bbox": [-78.70656,43.279881,-78.70656,43.279881],
+  "bbox": [
+    -78.70656,
+    43.279881,
+    -78.70656,
+    43.279881
+],
   "geometry": {"coordinates":[-78.70656,43.279881],"type":"Point"}
 }

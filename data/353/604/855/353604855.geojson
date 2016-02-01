@@ -2,13 +2,14 @@
   "id": 353604855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.967381,40.761029,-73.967381,40.761029",
     "geom:latitude":40.761029,
     "geom:longitude":-73.967381,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"150 E 58th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852839,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85852839
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ffd491b5bbf8d1c374d288e14c8b91e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85852839,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":353604855,
-    "wof:lastmodified":1449020508,
+    "wof:lastmodified":1454126601,
     "wof:name":"Lehr Construction",
     "wof:parent_id":85852839,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "construction"
     ]
 },
-  "bbox": [-73.967381,40.761029,-73.967381,40.761029],
+  "bbox": [
+    -73.967381,
+    40.761029,
+    -73.967381,
+    40.761029
+],
   "geometry": {"coordinates":[-73.967381,40.761029],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286923907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.176325,40.556373,-74.176325,40.556373",
     "geom:latitude":40.556373,
     "geom:longitude":-74.176325,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"280 Annadale Rd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869085,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85869085
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"e2f9a080517fca66c250c5d0b715d1bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869085,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":286923907,
-    "wof:lastmodified":1449017992,
+    "wof:lastmodified":1454125894,
     "wof:name":"Damian Smergliuolo",
     "wof:parent_id":85869085,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "clergy"
     ]
 },
-  "bbox": [-74.176325,40.556373,-74.176325,40.556373],
-  "geometry": {"coordinates":[-74.176325,40.556373],"type":"Point"}
+  "bbox": [
+    -74.176325,
+    40.556373,
+    -74.176325,
+    40.556373
+],
+  "geometry": {"coordinates":[-74.17632500000001,40.556373],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353573517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.845452,40.661557,-73.845452,40.661557",
     "geom:latitude":40.661557,
     "geom:longitude":-73.845452,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15718 88th Street",
     "sg:city":"Howard Beach",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420560117,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"60de0d8b977cf7558636ac4ee8a7b1e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420560117,
             "region_id":85688543,
             "venue_id":353573517
         }
     ],
     "wof:id":353573517,
-    "wof:lastmodified":1449020129,
+    "wof:lastmodified":1454126490,
     "wof:name":"Arc-Matic Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":420560117,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.845452,40.661557,-73.845452,40.661557],
-  "geometry": {"coordinates":[-73.845452,40.661557],"type":"Point"}
+  "bbox": [
+    -73.845452,
+    40.661557,
+    -73.845452,
+    40.661557
+],
+  "geometry": {"coordinates":[-73.84545199999999,40.661557],"type":"Point"}
 }

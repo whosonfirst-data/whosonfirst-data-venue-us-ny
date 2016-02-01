@@ -2,13 +2,14 @@
   "id": 286292171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.808441,40.973166,-73.808441,40.973166",
     "geom:latitude":40.973166,
     "geom:longitude":-73.808441,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Shady Ln",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892825,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"fe2f1fb3253b08834f5a9ca22f57ec86",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85892825,
             "region_id":85688543,
             "venue_id":286292171
         }
     ],
     "wof:id":286292171,
-    "wof:lastmodified":1449015433,
+    "wof:lastmodified":1454125443,
     "wof:name":"San Beda Alumni Assn of Easte",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892825,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.808441,40.973166,-73.808441,40.973166],
+  "bbox": [
+    -73.808441,
+    40.973166,
+    -73.808441,
+    40.973166
+],
   "geometry": {"coordinates":[-73.808441,40.973166],"type":"Point"}
 }

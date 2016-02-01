@@ -2,13 +2,14 @@
   "id": 286367479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.379768,40.885964,-72.379768,40.885964",
     "geom:latitude":40.885964,
     "geom:longitude":-72.379768,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"240 Meeting House Ln",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"368983b2980dc13b470a83783d623a15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":286367479
         }
     ],
     "wof:id":286367479,
-    "wof:lastmodified":1449016931,
+    "wof:lastmodified":1454125708,
     "wof:name":"Long Island Pathology PC",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-72.379768,40.885964,-72.379768,40.885964],
+  "bbox": [
+    -72.379768,
+    40.885964,
+    -72.379768,
+    40.885964
+],
   "geometry": {"coordinates":[-72.379768,40.885964],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353689683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.775124,40.660151,-73.775124,40.660151",
     "geom:latitude":40.660151,
     "geom:longitude":-73.775124,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17501 Rockaway Blvd # 214",
     "sg:city":"Jamaica",
     "sg:classifiers":[
@@ -40,12 +41,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85865647,
-        85823673
+        102082361,
+        85688543,
+        85865647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,28 +59,32 @@
     "wof:geomhash":"176f0937a0464890154b29ce53566fa5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85865647,
+            "neighbourhood_id":85823673,
             "region_id":85688543,
             "venue_id":353689683
         },
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85823673,
+            "neighbourhood_id":85865647,
             "region_id":85688543,
             "venue_id":353689683
         }
     ],
     "wof:id":353689683,
-    "wof:lastmodified":1449020394,
+    "wof:lastmodified":1454126568,
     "wof:name":"Beckman & Beckman International",
-    "wof:parent_id":-1,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -87,6 +95,11 @@
         "custom"
     ]
 },
-  "bbox": [-73.775124,40.660151,-73.775124,40.660151],
-  "geometry": {"coordinates":[-73.775124,40.660151],"type":"Point"}
+  "bbox": [
+    -73.775124,
+    40.660151,
+    -73.775124,
+    40.660151
+],
+  "geometry": {"coordinates":[-73.77512400000001,40.660151],"type":"Point"}
 }

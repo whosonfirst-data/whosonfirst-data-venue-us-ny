@@ -2,13 +2,14 @@
   "id": 185835845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.061407,40.633946,-74.061407,40.633946",
     "geom:latitude":40.633946,
     "geom:longitude":-74.061407,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6825 5th Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869703,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85869703
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"02b9369669487c5fd2806822dc91b351",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869703,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":185835845,
-    "wof:lastmodified":1449006838,
+    "wof:lastmodified":1454124173,
     "wof:name":"Catholic Charities Neighborhood Services",
     "wof:parent_id":85869703,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "community"
     ]
 },
-  "bbox": [-74.061407,40.633946,-74.061407,40.633946],
+  "bbox": [
+    -74.061407,
+    40.633946,
+    -74.061407,
+    40.633946
+],
   "geometry": {"coordinates":[-74.061407,40.633946],"type":"Point"}
 }

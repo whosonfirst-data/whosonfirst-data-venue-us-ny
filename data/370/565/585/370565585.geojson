@@ -2,13 +2,14 @@
   "id": 370565585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.762578,42.266419,-73.762578,42.266419",
     "geom:latitude":42.266419,
     "geom:longitude":-73.762578,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"300 FAIRVIEW AVE",
     "sg:city":"HUDSON",
     "sg:classifiers":[
@@ -48,11 +49,13 @@
     "sg:website":"http://www.rentacenter.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85838885,
+        102191575,
+        404522231,
         85633793,
         85977809,
         102082369,
-        85838885
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,9 +65,10 @@
     "wof:geomhash":"5bb2f6e2d37280763d178b455414ca4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082369,
+            "localadmin_id":404522231,
             "locality_id":85977809,
             "neighbourhood_id":85838885,
             "region_id":85688543,
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":370565585,
-    "wof:lastmodified":1449032178,
+    "wof:lastmodified":1454128224,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":85838885,
     "wof:placetype":"venue",
@@ -87,6 +91,11 @@
         "rental"
     ]
 },
-  "bbox": [-73.762578,42.266419,-73.762578,42.266419],
+  "bbox": [
+    -73.762578,
+    42.266419,
+    -73.762578,
+    42.266419
+],
   "geometry": {"coordinates":[-73.762578,42.266419],"type":"Point"}
 }

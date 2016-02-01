@@ -2,13 +2,14 @@
   "id": 303630747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.996129,40.743431,-73.996129,40.743431",
     "geom:latitude":40.743431,
     "geom:longitude":-73.996129,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"261 W 22 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810589,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810589
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"597b965e196b6cf2ba0f9d53b3da6a69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810589,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":303630747,
-    "wof:lastmodified":1448998992,
+    "wof:lastmodified":1454123291,
     "wof:name":"Tomas J Cavallaro",
     "wof:parent_id":85810589,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.996129,40.743431,-73.996129,40.743431],
+  "bbox": [
+    -73.996129,
+    40.743431,
+    -73.996129,
+    40.743431
+],
   "geometry": {"coordinates":[-73.996129,40.743431],"type":"Point"}
 }

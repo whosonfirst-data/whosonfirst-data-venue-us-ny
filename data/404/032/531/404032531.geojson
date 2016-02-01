@@ -2,13 +2,14 @@
   "id": 404032531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.180472,42.601206,-76.180472,42.601206",
     "geom:latitude":42.601206,
     "geom:longitude":-76.180472,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Main St",
     "sg:city":"Cortland",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528395,
+        102191575,
+        404522255,
         85633793,
-        85978513,
-        102083011
+        85978519,
+        102083011,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"cd7881304dfe5c6128b9240c516a7441",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083011,
-            "locality_id":85978513,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522255,
+            "locality_id":85978519,
+            "neighbourhood_id":420528395,
             "region_id":85688543,
             "venue_id":404032531
         }
     ],
     "wof:id":404032531,
-    "wof:lastmodified":1449039603,
+    "wof:lastmodified":1454128890,
     "wof:name":"Sound Video",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528395,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "rent"
     ]
 },
-  "bbox": [-76.180472,42.601206,-76.180472,42.601206],
-  "geometry": {"coordinates":[-76.180472,42.601206],"type":"Point"}
+  "bbox": [
+    -76.180472,
+    42.601206,
+    -76.180472,
+    42.601206
+],
+  "geometry": {"coordinates":[-76.18047199999999,42.601206],"type":"Point"}
 }

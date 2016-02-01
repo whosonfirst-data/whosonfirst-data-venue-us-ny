@@ -2,13 +2,14 @@
   "id": 370846157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.997663,40.679721,-73.997663,40.679721",
     "geom:latitude":40.679721,
     "geom:longitude":-73.997663,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"61 2nd Pl",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,10 +28,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892915,
+        102191575,
+        102147495,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +45,21 @@
     "wof:geomhash":"65d55f191b387f58afacf41d9861d15e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "macrohood_id":102147495,
+            "neighbourhood_id":85892915,
             "region_id":85688543,
             "venue_id":370846157
         }
     ],
     "wof:id":370846157,
-    "wof:lastmodified":1449031726,
+    "wof:lastmodified":1454128090,
     "wof:name":"Robot Films",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +67,11 @@
         "audio"
     ]
 },
-  "bbox": [-73.997663,40.679721,-73.997663,40.679721],
+  "bbox": [
+    -73.997663,
+    40.679721,
+    -73.997663,
+    40.679721
+],
   "geometry": {"coordinates":[-73.997663,40.679721],"type":"Point"}
 }

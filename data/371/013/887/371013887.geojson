@@ -2,13 +2,14 @@
   "id": 371013887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.874529,42.902243,-78.874529,42.902243",
     "geom:latitude":42.902243,
     "geom:longitude":-78.874529,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"140 North St",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -44,11 +45,13 @@
     "sg:website":"http://www.fibertechenv.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872881,
+        102191575,
+        404522329,
         85633793,
         85978023,
         102082387,
-        85872881
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,9 +61,10 @@
     "wof:geomhash":"cfa0e6ed1b09a0ff02160dbb1d59376d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522329,
             "locality_id":85978023,
             "neighbourhood_id":85872881,
             "region_id":85688543,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":371013887,
-    "wof:lastmodified":1449049769,
+    "wof:lastmodified":1454129208,
     "wof:name":"Fibertech Environmental Service",
     "wof:parent_id":85872881,
     "wof:placetype":"venue",
@@ -84,6 +88,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-78.874529,42.902243,-78.874529,42.902243],
+  "bbox": [
+    -78.874529,
+    42.902243,
+    -78.874529,
+    42.902243
+],
   "geometry": {"coordinates":[-78.874529,42.902243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354395325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.141111,40.825579,-73.141111,40.825579",
     "geom:latitude":40.825579,
     "geom:longitude":-73.141111,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"183 Mohawk St",
     "sg:city":"Ronkonkoma",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816389,
+        102191575,
+        404522517,
         85633793,
-        85979773,
+        85979693,
         102082395,
-        85816389
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"b6170fb5f9161fe4f5529826b716dba7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
             "neighbourhood_id":85816389,
             "region_id":85688543,
             "venue_id":354395325
         }
     ],
     "wof:id":354395325,
-    "wof:lastmodified":1449067403,
+    "wof:lastmodified":1454131224,
     "wof:name":"test bbusiness",
     "wof:parent_id":85816389,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "bodies-commercial"
     ]
 },
-  "bbox": [-73.141111,40.825579,-73.141111,40.825579],
+  "bbox": [
+    -73.141111,
+    40.825579,
+    -73.141111,
+    40.825579
+],
   "geometry": {"coordinates":[-73.141111,40.825579],"type":"Point"}
 }

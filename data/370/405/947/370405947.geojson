@@ -2,13 +2,14 @@
   "id": 370405947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.021487,40.830231,-73.021487,40.830231",
     "geom:latitude":40.830231,
     "geom:longitude":-73.021487,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"861 Horseblock Rd",
     "sg:city":"Farmingville",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"0a9dd0cb34f4acb4e8fd017d94c64cad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":370405947
         }
     ],
     "wof:id":370405947,
-    "wof:lastmodified":1449032197,
+    "wof:lastmodified":1454128230,
     "wof:name":"Crowning Glory",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.021487,40.830231,-73.021487,40.830231],
-  "geometry": {"coordinates":[-73.021487,40.830231],"type":"Point"}
+  "bbox": [
+    -73.021487,
+    40.830231,
+    -73.021487,
+    40.830231
+],
+  "geometry": {"coordinates":[-73.02148699999999,40.830231],"type":"Point"}
 }

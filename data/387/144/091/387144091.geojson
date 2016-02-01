@@ -2,13 +2,14 @@
   "id": 387144091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.529035,40.870273,-72.529035,40.870273",
     "geom:latitude":40.870273,
     "geom:longitude":-72.529035,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"95 Springville Rd",
     "sg:city":"Hampton Bays",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530059,
+        102191575,
+        404522671,
         85633793,
         85979703,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"fa4b35e7daf76ba38382e6caa69b5ece",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522671,
             "locality_id":85979703,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530059,
             "region_id":85688543,
             "venue_id":387144091
         }
     ],
     "wof:id":387144091,
-    "wof:lastmodified":1449058893,
+    "wof:lastmodified":1454130025,
     "wof:name":"Hampton Buns",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530059,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.529035,40.870273,-72.529035,40.870273],
-  "geometry": {"coordinates":[-72.529035,40.870273],"type":"Point"}
+  "bbox": [
+    -72.529035,
+    40.870273,
+    -72.529035,
+    40.870273
+],
+  "geometry": {"coordinates":[-72.52903499999999,40.870273],"type":"Point"}
 }

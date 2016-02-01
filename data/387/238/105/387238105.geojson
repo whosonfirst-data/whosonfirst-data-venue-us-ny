@@ -2,13 +2,14 @@
   "id": 387238105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.852723,40.825044,-72.852723,40.825044",
     "geom:latitude":40.825044,
     "geom:longitude":-72.852723,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"83 Cranford Blvd",
     "sg:city":"Mastic",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892903,
+        102191575,
+        404521441,
         85633793,
+        85978437,
         102082395,
-        85892903
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"1e0ef8ecff77c440b2b4b072e7261484",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85978437,
             "neighbourhood_id":85892903,
             "region_id":85688543,
             "venue_id":387238105
         }
     ],
     "wof:id":387238105,
-    "wof:lastmodified":1449057530,
+    "wof:lastmodified":1454129783,
     "wof:name":"Cranford Services",
     "wof:parent_id":85892903,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "removal"
     ]
 },
-  "bbox": [-72.852723,40.825044,-72.852723,40.825044],
+  "bbox": [
+    -72.852723,
+    40.825044,
+    -72.852723,
+    40.825044
+],
   "geometry": {"coordinates":[-72.852723,40.825044],"type":"Point"}
 }

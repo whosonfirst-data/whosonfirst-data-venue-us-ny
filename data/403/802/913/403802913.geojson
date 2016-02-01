@@ -2,13 +2,14 @@
   "id": 403802913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.85759,40.907946,-73.85759,40.907946",
     "geom:latitude":40.907946,
     "geom:longitude":-73.85759,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"87 Glen Rd",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85854163,
+        102191575,
+        404523397,
         85633793,
-        85978721,
+        85978759,
         102082373,
-        85854163
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"1fe4a57596d78e087f03dbc5212701de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
-            "locality_id":85978721,
+            "localadmin_id":404523397,
+            "locality_id":85978759,
             "neighbourhood_id":85854163,
             "region_id":85688543,
             "venue_id":403802913
         }
     ],
     "wof:id":403802913,
-    "wof:lastmodified":1449055717,
+    "wof:lastmodified":1454129478,
     "wof:name":"Biz-E Bee Cleaners",
     "wof:parent_id":85854163,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-73.85759,40.907946,-73.85759,40.907946],
+  "bbox": [
+    -73.85759,
+    40.907946,
+    -73.85759,
+    40.907946
+],
   "geometry": {"coordinates":[-73.85759,40.907946],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286707013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.690683,40.708185,-73.690683,40.708185",
     "geom:latitude":40.708185,
     "geom:longitude":-73.690683,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1338 Hempstead Tpke",
     "sg:city":"Elmont",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892829,
+        102191575,
+        404521473,
         85633793,
         85979127,
         102082371,
-        85892829
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"455cc04393404952ee9c11e2e0895b3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979127,
             "neighbourhood_id":85892829,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":286707013,
-    "wof:lastmodified":1449017650,
+    "wof:lastmodified":1454125833,
     "wof:name":"Liberty Petroleum",
     "wof:parent_id":85892829,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.690683,40.708185,-73.690683,40.708185],
-  "geometry": {"coordinates":[-73.690683,40.708185],"type":"Point"}
+  "bbox": [
+    -73.690683,
+    40.708185,
+    -73.690683,
+    40.708185
+],
+  "geometry": {"coordinates":[-73.69068300000001,40.708185],"type":"Point"}
 }

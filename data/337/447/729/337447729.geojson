@@ -2,13 +2,14 @@
   "id": 337447729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.870932,40.751438,-73.870932,40.751438",
     "geom:latitude":40.751438,
     "geom:longitude":-73.870932,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3700 Junction Boulevard",
     "sg:city":"Corona",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85827247,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85827247
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"5efe170597e364dc99c4586b4c205075",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85827247,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":337447729,
-    "wof:lastmodified":1449027518,
+    "wof:lastmodified":1454127095,
     "wof:name":"Rite Aid Pharmacies",
     "wof:parent_id":85827247,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "store"
     ]
 },
-  "bbox": [-73.870932,40.751438,-73.870932,40.751438],
+  "bbox": [
+    -73.870932,
+    40.751438,
+    -73.870932,
+    40.751438
+],
   "geometry": {"coordinates":[-73.870932,40.751438],"type":"Point"}
 }

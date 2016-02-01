@@ -2,13 +2,14 @@
   "id": 370328619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.845682,40.805675,-72.845682,40.805675",
     "geom:latitude":40.805675,
     "geom:longitude":-72.845682,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1490 Montauk Hwy Ste E",
     "sg:city":"Mastic",
     "sg:classifiers":[
@@ -45,10 +46,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892903,
+        102191575,
+        404521441,
         85633793,
+        85978437,
         102082395,
-        85892903
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,17 +62,18 @@
     "wof:geomhash":"a378873abeb430d2be26ef938c9f6220",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85978437,
             "neighbourhood_id":85892903,
             "region_id":85688543,
             "venue_id":370328619
         }
     ],
     "wof:id":370328619,
-    "wof:lastmodified":1449031069,
+    "wof:lastmodified":1454127898,
     "wof:name":"Connelly Insurance Ltd",
     "wof:parent_id":85892903,
     "wof:placetype":"venue",
@@ -81,6 +86,11 @@
         "homeowner"
     ]
 },
-  "bbox": [-72.845682,40.805675,-72.845682,40.805675],
+  "bbox": [
+    -72.845682,
+    40.805675,
+    -72.845682,
+    40.805675
+],
   "geometry": {"coordinates":[-72.845682,40.805675],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337302259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.932424,40.618557,-73.932424,40.618557",
     "geom:latitude":40.618557,
     "geom:longitude":-73.932424,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2101 Flatbush Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     "sg:website":"www.subway.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558701,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"29a878902da0b95ad36a3b815e9c0aab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558701,
             "region_id":85688543,
             "venue_id":337302259
         }
     ],
     "wof:id":337302259,
-    "wof:lastmodified":1449027215,
+    "wof:lastmodified":1454126976,
     "wof:name":"Subway",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "sandwich"
     ]
 },
-  "bbox": [-73.932424,40.618557,-73.932424,40.618557],
+  "bbox": [
+    -73.932424,
+    40.618557,
+    -73.932424,
+    40.618557
+],
   "geometry": {"coordinates":[-73.932424,40.618557],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387538753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.490878,43.238884,-77.490878,43.238884",
     "geom:latitude":43.238884,
     "geom:longitude":-77.490878,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"611 Vanessa Dr",
     "sg:city":"Webster",
     "sg:classifiers":[
@@ -36,8 +37,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85856601,
+        102081815
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +50,17 @@
     "wof:geomhash":"8e0705e7b3ec23a519d6c273e94bfada",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081815,
+            "neighbourhood_id":85856601,
             "region_id":85688543,
             "venue_id":387538753
         }
     ],
     "wof:id":387538753,
-    "wof:lastmodified":1449056585,
+    "wof:lastmodified":1454129613,
     "wof:name":"L A Maxon Originals",
-    "wof:parent_id":-1,
+    "wof:parent_id":85856601,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -70,6 +72,11 @@
         "gallery"
     ]
 },
-  "bbox": [-77.490878,43.238884,-77.490878,43.238884],
+  "bbox": [
+    -77.490878,
+    43.238884,
+    -77.490878,
+    43.238884
+],
   "geometry": {"coordinates":[-77.490878,43.238884],"type":"Point"}
 }

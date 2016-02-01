@@ -2,13 +2,14 @@
   "id": 320099485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.43527,40.725253,-73.43527,40.725253",
     "geom:latitude":40.725253,
     "geom:longitude":-73.43527,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"994 Fulton St",
     "sg:city":"Farmingdale",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     "sg:website":"www.rwtruck.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85833107,
+        102191575,
+        404521475,
         85633793,
-        85979843,
-        102082395,
-        85833107
+        85979161,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"06ac403dce8c81ce7d44a5a43feb702d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979843,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979161,
             "neighbourhood_id":85833107,
             "region_id":85688543,
             "venue_id":320099485
         }
     ],
     "wof:id":320099485,
-    "wof:lastmodified":1449013696,
+    "wof:lastmodified":1454125156,
     "wof:name":"R W Trucking Equipment Inc",
     "wof:parent_id":85833107,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "truck"
     ]
 },
-  "bbox": [-73.43527,40.725253,-73.43527,40.725253],
+  "bbox": [
+    -73.43527,
+    40.725253,
+    -73.43527,
+    40.725253
+],
   "geometry": {"coordinates":[-73.43527,40.725253],"type":"Point"}
 }

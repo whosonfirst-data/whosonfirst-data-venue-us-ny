@@ -2,13 +2,14 @@
   "id": 370195745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.749599,40.627231,-73.749599,40.627231",
     "geom:latitude":40.627231,
     "geom:longitude":-73.749599,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"60 Inip Dr",
     "sg:city":"Inwood",
     "sg:classifiers":[
@@ -29,11 +30,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
-        85977631,
-        102082371,
-        85818909
+        85977539,
+        102082361,
+        85688543,
+        85865647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +48,32 @@
     "wof:geomhash":"b2e858bba7cfd4db04ac64dc66ea9101",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082371,
-            "locality_id":85977631,
-            "neighbourhood_id":85818909,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":85823673,
+            "region_id":85688543,
+            "venue_id":370195745
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":85865647,
             "region_id":85688543,
             "venue_id":370195745
         }
     ],
     "wof:id":370195745,
-    "wof:lastmodified":1449031303,
+    "wof:lastmodified":1454127967,
     "wof:name":"Gravert Wm Firebrks",
-    "wof:parent_id":85818909,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +83,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.749599,40.627231,-73.749599,40.627231],
+  "bbox": [
+    -73.749599,
+    40.627231,
+    -73.749599,
+    40.627231
+],
   "geometry": {"coordinates":[-73.749599,40.627231],"type":"Point"}
 }

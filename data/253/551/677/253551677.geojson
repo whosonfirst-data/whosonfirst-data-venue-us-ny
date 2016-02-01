@@ -2,13 +2,14 @@
   "id": 253551677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.795629,40.923287,-73.795629,40.923287",
     "geom:latitude":40.923287,
     "geom:longitude":-73.795629,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"47 Faneuil Pl",
     "sg:city":"New Rochelle",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805259,
+        102191575,
+        404523375,
         85633793,
         85978749,
         102082373,
-        85805259
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"6e8777687c344d23c3a800999d3180d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523375,
             "locality_id":85978749,
             "neighbourhood_id":85805259,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":253551677,
-    "wof:lastmodified":1449063411,
+    "wof:lastmodified":1454130343,
     "wof:name":"Caterina Pizzeria",
     "wof:parent_id":85805259,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.795629,40.923287,-73.795629,40.923287],
-  "geometry": {"coordinates":[-73.795629,40.923287],"type":"Point"}
+  "bbox": [
+    -73.795629,
+    40.923287,
+    -73.795629,
+    40.923287
+],
+  "geometry": {"coordinates":[-73.79562900000001,40.923287],"type":"Point"}
 }

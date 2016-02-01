@@ -2,13 +2,14 @@
   "id": 303192105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.777659,41.467268,-74.777659,41.467268",
     "geom:latitude":41.467268,
     "geom:longitude":-74.777659,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4775 Co Rte 31",
     "sg:city":"Glen Spey",
     "sg:classifiers":[
@@ -24,8 +25,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85828651,
+        102082407
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +38,27 @@
     "wof:geomhash":"b648db2f49a4d16cca319560f5e1f741",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082407,
+            "neighbourhood_id":85828651,
             "region_id":85688543,
             "venue_id":303192105
         }
     ],
     "wof:id":303192105,
-    "wof:lastmodified":1448999847,
+    "wof:lastmodified":1454123527,
     "wof:name":"Pete's Country Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":85828651,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.777659,41.467268,-74.777659,41.467268],
+  "bbox": [
+    -74.777659,
+    41.467268,
+    -74.777659,
+    41.467268
+],
   "geometry": {"coordinates":[-74.777659,41.467268],"type":"Point"}
 }

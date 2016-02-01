@@ -2,13 +2,14 @@
   "id": 354327107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.527141,40.727879,-73.527141,40.727879",
     "geom:latitude":40.727879,
     "geom:longitude":-73.527141,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"112 Division Ave Apt 1B",
     "sg:city":"Levittown",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"b7dc611b091fc01bbb52105c8b96be02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":354327107
         }
     ],
     "wof:id":354327107,
-    "wof:lastmodified":1449066056,
+    "wof:lastmodified":1454130807,
     "wof:name":"N Y Distributing",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.527141,40.727879,-73.527141,40.727879],
+  "bbox": [
+    -73.527141,
+    40.727879,
+    -73.527141,
+    40.727879
+],
   "geometry": {"coordinates":[-73.527141,40.727879],"type":"Point"}
 }

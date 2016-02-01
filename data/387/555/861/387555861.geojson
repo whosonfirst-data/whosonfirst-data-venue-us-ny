@@ -2,13 +2,14 @@
   "id": 387555861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.570751,40.738509,-73.570751,40.738509",
     "geom:latitude":40.738509,
     "geom:longitude":-73.570751,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1515 Stewart Ave",
     "sg:city":"Westbury",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846785,
+        102191575,
+        404521473,
         85633793,
-        85979093,
+        85979181,
         102082371,
-        85846785
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"3cdc6983348b9c99601bc514c6303028",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979093,
+            "localadmin_id":404521473,
+            "locality_id":85979181,
             "neighbourhood_id":85846785,
             "region_id":85688543,
             "venue_id":387555861
         }
     ],
     "wof:id":387555861,
-    "wof:lastmodified":1449059384,
+    "wof:lastmodified":1454130113,
     "wof:name":"Air Space",
     "wof:parent_id":85846785,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "transportation"
     ]
 },
-  "bbox": [-73.570751,40.738509,-73.570751,40.738509],
+  "bbox": [
+    -73.570751,
+    40.738509,
+    -73.570751,
+    40.738509
+],
   "geometry": {"coordinates":[-73.570751,40.738509],"type":"Point"}
 }

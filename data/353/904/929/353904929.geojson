@@ -2,13 +2,14 @@
   "id": 353904929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.592341,43.251555,-77.592341,43.251555",
     "geom:latitude":43.251555,
     "geom:longitude":-77.592341,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"19 Harrison Ter",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529049,
+        102191575,
+        404522639,
         85633793,
         85979035,
-        102081815
+        102081815,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"b53eef98916980bd7f1c1cb4ecb8fb18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404522639,
             "locality_id":85979035,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529049,
             "region_id":85688543,
             "venue_id":353904929
         }
     ],
     "wof:id":353904929,
-    "wof:lastmodified":1449020868,
+    "wof:lastmodified":1454126707,
     "wof:name":"Church Of God & Saints",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529049,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "synagogue"
     ]
 },
-  "bbox": [-77.592341,43.251555,-77.592341,43.251555],
+  "bbox": [
+    -77.592341,
+    43.251555,
+    -77.592341,
+    43.251555
+],
   "geometry": {"coordinates":[-77.592341,43.251555],"type":"Point"}
 }

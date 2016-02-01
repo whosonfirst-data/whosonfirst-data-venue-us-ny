@@ -2,13 +2,14 @@
   "id": 269719055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.506075,40.720248,-73.506075,40.720248",
     "geom:latitude":40.720248,
     "geom:longitude":-73.506075,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23 Tanners Ln",
     "sg:city":"Levittown",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"6b896a2491d11106686dbb26208e500a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":269719055
         }
     ],
     "wof:id":269719055,
-    "wof:lastmodified":1449036446,
+    "wof:lastmodified":1454128508,
     "wof:name":"Aspect Software",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.506075,40.720248,-73.506075,40.720248],
+  "bbox": [
+    -73.506075,
+    40.720248,
+    -73.506075,
+    40.720248
+],
   "geometry": {"coordinates":[-73.506075,40.720248],"type":"Point"}
 }

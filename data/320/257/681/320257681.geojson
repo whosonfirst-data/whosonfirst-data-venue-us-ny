@@ -2,13 +2,14 @@
   "id": 320257681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.85097,40.868963,-73.85097,40.868963",
     "geom:latitude":40.868963,
     "geom:longitude":-73.85097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2925 Throop Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528059,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"a3172dbb764f5efb6b76840226365e4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528059,
             "region_id":85688543,
             "venue_id":320257681
         }
     ],
     "wof:id":320257681,
-    "wof:lastmodified":1449012364,
+    "wof:lastmodified":1454124942,
     "wof:name":"ABC Home & Business Alarms",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528059,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "tape"
     ]
 },
-  "bbox": [-73.85097,40.868963,-73.85097,40.868963],
+  "bbox": [
+    -73.85097,
+    40.868963,
+    -73.85097,
+    40.868963
+],
   "geometry": {"coordinates":[-73.85097,40.868963],"type":"Point"}
 }

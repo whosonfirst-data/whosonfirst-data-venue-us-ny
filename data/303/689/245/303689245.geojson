@@ -2,13 +2,14 @@
   "id": 303689245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.213849,41.554256,-74.213849,41.554256",
     "geom:latitude":41.554256,
     "geom:longitude":-74.213849,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 Mills Rd",
     "sg:city":"Walden",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529529,
+        102191575,
+        404522909,
         85633793,
+        85978183,
+        102083061,
         85688543
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"843b6d2f2dc6c8008d7ac90981f2187b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083061,
+            "localadmin_id":404522909,
+            "locality_id":85978183,
+            "neighbourhood_id":420529529,
             "region_id":85688543,
             "venue_id":303689245
         }
     ],
     "wof:id":303689245,
-    "wof:lastmodified":1449000152,
+    "wof:lastmodified":1454123609,
     "wof:name":"Sepulveda Jr  Sal - Mfrs Rep",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529529,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-74.213849,41.554256,-74.213849,41.554256],
+  "bbox": [
+    -74.213849,
+    41.554256,
+    -74.213849,
+    41.554256
+],
   "geometry": {"coordinates":[-74.213849,41.554256],"type":"Point"}
 }

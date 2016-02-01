@@ -2,13 +2,14 @@
   "id": 252776273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.813724,40.956183,-73.813724,40.956183",
     "geom:latitude":40.956183,
     "geom:longitude":-73.813724,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"433 White Plains Rd",
     "sg:city":"Eastchester",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     "sg:website":"www.vfw.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530381,
+        102191575,
+        404523357,
         85633793,
         85980071,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"63acb891de2c9397ab1197c8d6c51ee9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523357,
             "locality_id":85980071,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530381,
             "region_id":85688543,
             "venue_id":252776273
         }
     ],
     "wof:id":252776273,
-    "wof:lastmodified":1449005663,
+    "wof:lastmodified":1454124016,
     "wof:name":"Veterans Of Foreign Wars",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530381,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +66,11 @@
         "military"
     ]
 },
-  "bbox": [-73.813724,40.956183,-73.813724,40.956183],
-  "geometry": {"coordinates":[-73.813724,40.956183],"type":"Point"}
+  "bbox": [
+    -73.813724,
+    40.956183,
+    -73.813724,
+    40.956183
+],
+  "geometry": {"coordinates":[-73.81372399999999,40.956183],"type":"Point"}
 }

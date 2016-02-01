@@ -2,13 +2,14 @@
   "id": 354296683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.174727,40.845688,-73.174727,40.845688",
     "geom:latitude":40.845688,
     "geom:longitude":-73.174727,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"41 South Ave",
     "sg:city":"Smithtown",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530053,
+        102191575,
+        404522517,
         85633793,
-        85979919,
-        102082395
+        85979693,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"a167017199ece445dad1c496bddc7fba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979919,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
+            "neighbourhood_id":420530053,
             "region_id":85688543,
             "venue_id":354296683
         }
     ],
     "wof:id":354296683,
-    "wof:lastmodified":1449067324,
+    "wof:lastmodified":1454131201,
     "wof:name":"Mr Landscaper Of Suffolk",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.174727,40.845688,-73.174727,40.845688],
+  "bbox": [
+    -73.174727,
+    40.845688,
+    -73.174727,
+    40.845688
+],
   "geometry": {"coordinates":[-73.174727,40.845688],"type":"Point"}
 }

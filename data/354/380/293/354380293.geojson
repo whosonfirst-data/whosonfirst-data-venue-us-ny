@@ -2,13 +2,14 @@
   "id": 354380293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.471206,40.793343,-73.471206,40.793343",
     "geom:latitude":40.793343,
     "geom:longitude":-73.471206,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110 Terminal Dr",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.psakids.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831583,
+        102191575,
+        404521475,
         85633793,
-        85979725,
-        102082395,
-        85831583
+        85979191,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"32fbb5d26abae2f47d180f9fc0086eff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082395,
-            "locality_id":85979725,
+            "county_id":102082371,
+            "localadmin_id":404521475,
+            "locality_id":85979191,
             "neighbourhood_id":85831583,
             "region_id":85688543,
             "venue_id":354380293
         }
     ],
     "wof:id":354380293,
-    "wof:lastmodified":1449066708,
+    "wof:lastmodified":1454131009,
     "wof:name":"Psa Health Care",
     "wof:parent_id":85831583,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "oxygen"
     ]
 },
-  "bbox": [-73.471206,40.793343,-73.471206,40.793343],
+  "bbox": [
+    -73.471206,
+    40.793343,
+    -73.471206,
+    40.793343
+],
   "geometry": {"coordinates":[-73.471206,40.793343],"type":"Point"}
 }

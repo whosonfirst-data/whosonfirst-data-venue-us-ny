@@ -2,13 +2,14 @@
   "id": 353613443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.83313,40.678666,-73.83313,40.678666",
     "geom:latitude":40.678666,
     "geom:longitude":-73.83313,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10609 Rockaway Blvd",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -37,10 +38,13 @@
     "sg:website":"www.glamourmestudio.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529701,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +54,20 @@
     "wof:geomhash":"05d2feb064efc10361f17afce4caf0c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529701,
             "region_id":85688543,
             "venue_id":353613443
         }
     ],
     "wof:id":353613443,
-    "wof:lastmodified":1449019450,
+    "wof:lastmodified":1454126295,
     "wof:name":"Glamour Me Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -74,6 +79,11 @@
         "wedding"
     ]
 },
-  "bbox": [-73.83313,40.678666,-73.83313,40.678666],
+  "bbox": [
+    -73.83313,
+    40.678666,
+    -73.83313,
+    40.678666
+],
   "geometry": {"coordinates":[-73.83313,40.678666],"type":"Point"}
 }

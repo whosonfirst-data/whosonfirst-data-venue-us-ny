@@ -2,13 +2,14 @@
   "id": 303858421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.714345,43.074818,-73.714345,43.074818",
     "geom:latitude":43.074818,
     "geom:longitude":-73.714345,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 Rolling Brook Dr",
     "sg:city":"Saratoga Springs",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847159,
+        102191575,
+        404522373,
         85633793,
         85977919,
-        102082413
+        102082413,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"8aee28626b505a7f7303f2786da06771",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082413,
+            "localadmin_id":404522373,
             "locality_id":85977919,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85847159,
             "region_id":85688543,
             "venue_id":303858421
         }
     ],
     "wof:id":303858421,
-    "wof:lastmodified":1448998362,
+    "wof:lastmodified":1454123070,
     "wof:name":"John P Markham",
-    "wof:parent_id":-1,
+    "wof:parent_id":85847159,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "financial"
     ]
 },
-  "bbox": [-73.714345,43.074818,-73.714345,43.074818],
-  "geometry": {"coordinates":[-73.714345,43.074818],"type":"Point"}
+  "bbox": [
+    -73.714345,
+    43.074818,
+    -73.714345,
+    43.074818
+],
+  "geometry": {"coordinates":[-73.71434499999999,43.074818],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 287158399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.879773,40.876582,-73.879773,40.876582",
     "geom:latitude":40.876582,
     "geom:longitude":-73.879773,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3215 Bainbridge Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869557,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869557
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"4cc0ca0b7cfb1b355595b5620dfcc04c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869557,
             "region_id":85688543,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":287158399,
-    "wof:lastmodified":1449001273,
+    "wof:lastmodified":1454123895,
     "wof:name":"Chavez Deli Grocery",
     "wof:parent_id":85869557,
     "wof:placetype":"venue",
@@ -66,6 +70,11 @@
         "grocer"
     ]
 },
-  "bbox": [-73.879773,40.876582,-73.879773,40.876582],
+  "bbox": [
+    -73.879773,
+    40.876582,
+    -73.879773,
+    40.876582
+],
   "geometry": {"coordinates":[-73.879773,40.876582],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337372229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.836058,40.754884,-73.836058,40.754884",
     "geom:latitude":40.754884,
     "geom:longitude":-73.836058,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4106 Delong St Ste 3",
     "sg:city":"Flushing",
     "sg:classifiers":[
@@ -46,11 +47,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819703,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85819703
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,9 +63,10 @@
     "wof:geomhash":"defa5b299a0e1b7e151dbdf945c810b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85819703,
             "region_id":85688543,
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":337372229,
-    "wof:lastmodified":1449027437,
+    "wof:lastmodified":1454127065,
     "wof:name":"Bloom Plumbing",
     "wof:parent_id":85819703,
     "wof:placetype":"venue",
@@ -89,6 +93,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.836058,40.754884,-73.836058,40.754884],
-  "geometry": {"coordinates":[-73.836058,40.754884],"type":"Point"}
+  "bbox": [
+    -73.836058,
+    40.754884,
+    -73.836058,
+    40.754884
+],
+  "geometry": {"coordinates":[-73.83605799999999,40.754884],"type":"Point"}
 }

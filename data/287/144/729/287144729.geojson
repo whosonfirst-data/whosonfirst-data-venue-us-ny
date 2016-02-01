@@ -2,13 +2,14 @@
   "id": 287144729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.767719,40.929925,-73.767719,40.929925",
     "geom:latitude":40.929925,
     "geom:longitude":-73.767719,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"51 Plain Ave",
     "sg:city":"New Rochelle",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851407,
+        102191575,
+        404523375,
         85633793,
         85978749,
         102082373,
-        85851407
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"6c9006ac21b7453206334b90813be119",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523375,
             "locality_id":85978749,
             "neighbourhood_id":85851407,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":287144729,
-    "wof:lastmodified":1449001330,
+    "wof:lastmodified":1454123909,
     "wof:name":"Nrl Fire Protection",
     "wof:parent_id":85851407,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "protection"
     ]
 },
-  "bbox": [-73.767719,40.929925,-73.767719,40.929925],
+  "bbox": [
+    -73.767719,
+    40.929925,
+    -73.767719,
+    40.929925
+],
   "geometry": {"coordinates":[-73.767719,40.929925],"type":"Point"}
 }

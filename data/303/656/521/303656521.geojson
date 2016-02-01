@@ -2,13 +2,14 @@
   "id": 303656521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.796239,42.775692,-78.796239,42.775692",
     "geom:latitude":42.775692,
     "geom:longitude":-78.796239,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3900 Southwestern Blvd",
     "sg:city":"Orchard Park",
     "sg:classifiers":[
@@ -24,8 +25,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85806085,
+        102082387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +38,27 @@
     "wof:geomhash":"aac74b5a9eb948b37c609c242f15f139",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082387,
+            "neighbourhood_id":85806085,
             "region_id":85688543,
             "venue_id":303656521
         }
     ],
     "wof:id":303656521,
-    "wof:lastmodified":1448999713,
+    "wof:lastmodified":1454123489,
     "wof:name":"Ricci's Barber Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":85806085,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.796239,42.775692,-78.796239,42.775692],
+  "bbox": [
+    -78.796239,
+    42.775692,
+    -78.796239,
+    42.775692
+],
   "geometry": {"coordinates":[-78.796239,42.775692],"type":"Point"}
 }

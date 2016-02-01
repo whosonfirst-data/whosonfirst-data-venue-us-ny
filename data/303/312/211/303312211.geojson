@@ -2,13 +2,14 @@
   "id": 303312211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.464174,40.796017,-73.464174,40.796017",
     "geom:latitude":40.796017,
     "geom:longitude":-73.464174,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"35 Fairchild Ave",
     "sg:city":"Plainview",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.handb.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
-        85979191,
-        102082371
+        85979055,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"1eb402af3fd778da1fac0678bd96d262",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979191,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85979055,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":303312211
         }
     ],
     "wof:id":303312211,
-    "wof:lastmodified":1448999352,
+    "wof:lastmodified":1454123393,
     "wof:name":"Henderson & Bodwell LLP",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "engineer"
     ]
 },
-  "bbox": [-73.464174,40.796017,-73.464174,40.796017],
+  "bbox": [
+    -73.464174,
+    40.796017,
+    -73.464174,
+    40.796017
+],
   "geometry": {"coordinates":[-73.464174,40.796017],"type":"Point"}
 }

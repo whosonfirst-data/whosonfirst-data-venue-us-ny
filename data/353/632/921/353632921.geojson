@@ -2,13 +2,14 @@
   "id": 353632921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.833334,40.68759,-73.833334,40.68759",
     "geom:latitude":40.68759,
     "geom:longitude":-73.833334,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"110-02 101 Avenue",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     "sg:website":"www.simplyblessedsalon.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844441,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844441
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,9 +55,10 @@
     "wof:geomhash":"6edc8e4b9e3ebd9a1ee3f802b13372ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844441,
             "region_id":85688543,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":353632921,
-    "wof:lastmodified":1449019876,
+    "wof:lastmodified":1454126419,
     "wof:name":"Simply Blessed Beauty Salon",
     "wof:parent_id":85844441,
     "wof:placetype":"venue",
@@ -72,6 +76,11 @@
         "hair"
     ]
 },
-  "bbox": [-73.833334,40.68759,-73.833334,40.68759],
-  "geometry": {"coordinates":[-73.833334,40.68759],"type":"Point"}
+  "bbox": [
+    -73.833334,
+    40.68759,
+    -73.833334,
+    40.68759
+],
+  "geometry": {"coordinates":[-73.83333399999999,40.68759],"type":"Point"}
 }

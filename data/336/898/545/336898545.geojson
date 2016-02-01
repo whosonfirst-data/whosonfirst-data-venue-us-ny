@@ -2,13 +2,14 @@
   "id": 336898545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.937802,40.793686,-73.937802,40.793686",
     "geom:latitude":40.793686,
     "geom:longitude":-73.937802,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"358 E 112th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865689,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865689
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"647c02ca1ed247e0f61121634699511d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865689,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":336898545,
-    "wof:lastmodified":1448996901,
+    "wof:lastmodified":1454122326,
     "wof:name":"Details",
     "wof:parent_id":85865689,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.937802,40.793686,-73.937802,40.793686],
+  "bbox": [
+    -73.937802,
+    40.793686,
+    -73.937802,
+    40.793686
+],
   "geometry": {"coordinates":[-73.937802,40.793686],"type":"Point"}
 }

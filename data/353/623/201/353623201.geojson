@@ -2,13 +2,14 @@
   "id": 353623201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.606082,42.837486,-78.606082,42.837486",
     "geom:latitude":42.837486,
     "geom:longitude":-78.606082,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2331 Girdle Rd",
     "sg:city":"Elma",
     "sg:classifiers":[
@@ -29,7 +30,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528593,
+        102191575,
+        404521341,
         85633793,
+        85979437,
+        102082387,
         85688543
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"b98b1fa0c6e5efc4e24777745021255b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082387,
+            "localadmin_id":404521341,
+            "locality_id":85979437,
+            "neighbourhood_id":420528593,
             "region_id":85688543,
             "venue_id":353623201
         }
     ],
     "wof:id":353623201,
-    "wof:lastmodified":1449020039,
+    "wof:lastmodified":1454126465,
     "wof:name":"Swartz's Auto Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528593,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +69,11 @@
         "general"
     ]
 },
-  "bbox": [-78.606082,42.837486,-78.606082,42.837486],
+  "bbox": [
+    -78.606082,
+    42.837486,
+    -78.606082,
+    42.837486
+],
   "geometry": {"coordinates":[-78.606082,42.837486],"type":"Point"}
 }

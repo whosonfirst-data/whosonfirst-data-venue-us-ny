@@ -2,13 +2,14 @@
   "id": 354230939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.912478,40.886068,-73.912478,40.886068",
     "geom:latitude":40.886068,
     "geom:longitude":-73.912478,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3240 Henry Hudson Pkwy E",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85850825,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85850825
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"05b59eafc6af96ab722a649def742482",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85850825,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":354230939,
-    "wof:lastmodified":1449067219,
+    "wof:lastmodified":1454131168,
     "wof:name":"Bwd Studio",
     "wof:parent_id":85850825,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "design"
     ]
 },
-  "bbox": [-73.912478,40.886068,-73.912478,40.886068],
-  "geometry": {"coordinates":[-73.912478,40.886068],"type":"Point"}
+  "bbox": [
+    -73.912478,
+    40.886068,
+    -73.912478,
+    40.886068
+],
+  "geometry": {"coordinates":[-73.91247799999999,40.886068],"type":"Point"}
 }

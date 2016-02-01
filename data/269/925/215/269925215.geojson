@@ -2,13 +2,14 @@
   "id": 269925215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.964658,41.616613,-73.964658,41.616613",
     "geom:latitude":41.616613,
     "geom:longitude":-73.964658,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"50 Riverview Dr",
     "sg:city":"Marlboro",
     "sg:classifiers":[
@@ -24,7 +25,12 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85809885,
+        102191575,
+        404521653,
         85633793,
+        85978955,
+        102081775,
         85688543
     ],
     "wof:breaches":[],
@@ -35,23 +41,30 @@
     "wof:geomhash":"b661233c69383950f59c445172849363",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081775,
+            "localadmin_id":404521653,
+            "locality_id":85978955,
+            "neighbourhood_id":85809885,
             "region_id":85688543,
             "venue_id":269925215
         }
     ],
     "wof:id":269925215,
-    "wof:lastmodified":1449036174,
+    "wof:lastmodified":1454128468,
     "wof:name":"William Woodward Ent",
-    "wof:parent_id":-1,
+    "wof:parent_id":85809885,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.964658,41.616613,-73.964658,41.616613],
+  "bbox": [
+    -73.964658,
+    41.616613,
+    -73.964658,
+    41.616613
+],
   "geometry": {"coordinates":[-73.964658,41.616613],"type":"Point"}
 }

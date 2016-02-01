@@ -2,13 +2,14 @@
   "id": 320167451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.847478,40.914412,-73.847478,40.914412",
     "geom:latitude":40.914412,
     "geom:longitude":-73.847478,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 N Mac Questen Pkwy",
     "sg:city":"Mt Vernon",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     "sg:website":"www.grason.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530397,
+        102191575,
+        404523371,
         85633793,
         85978721,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"32c2a99c6bbf48ca4da5f02859a0a716",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523371,
             "locality_id":85978721,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530397,
             "region_id":85688543,
             "venue_id":320167451
         }
     ],
     "wof:id":320167451,
-    "wof:lastmodified":1449013199,
+    "wof:lastmodified":1454125079,
     "wof:name":"Grason Software & Systems Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530397,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +68,11 @@
         "disaster"
     ]
 },
-  "bbox": [-73.847478,40.914412,-73.847478,40.914412],
+  "bbox": [
+    -73.847478,
+    40.914412,
+    -73.847478,
+    40.914412
+],
   "geometry": {"coordinates":[-73.847478,40.914412],"type":"Point"}
 }

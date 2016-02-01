@@ -2,13 +2,14 @@
   "id": 253458101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.985929,40.697326,-73.985929,40.697326",
     "geom:latitude":40.697326,
     "geom:longitude":-73.985929,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 Chapel St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869191,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85869191
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"d14239e826c3ba13c52f2f78be76c9f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869191,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":253458101,
-    "wof:lastmodified":1449064937,
+    "wof:lastmodified":1454130601,
     "wof:name":"New York City Dept Of Health",
     "wof:parent_id":85869191,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "clinic"
     ]
 },
-  "bbox": [-73.985929,40.697326,-73.985929,40.697326],
+  "bbox": [
+    -73.985929,
+    40.697326,
+    -73.985929,
+    40.697326
+],
   "geometry": {"coordinates":[-73.985929,40.697326],"type":"Point"}
 }

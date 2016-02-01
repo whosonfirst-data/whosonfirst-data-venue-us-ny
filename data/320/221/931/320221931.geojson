@@ -2,13 +2,14 @@
   "id": 320221931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.732802,40.780418,-73.732802,40.780418",
     "geom:latitude":40.780418,
     "geom:longitude":-73.732802,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"375 Great Neck Rd",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85830971,
+        102191575,
+        404522729,
         85633793,
-        85977539,
-        102082377,
-        85830971
+        85977727,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"40cce0ec4d51d5246e767b23e8c415f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
-            "locality_id":85977539,
+            "county_id":102082371,
+            "localadmin_id":404522729,
+            "locality_id":85977727,
             "neighbourhood_id":85830971,
             "region_id":85688543,
             "venue_id":320221931
         }
     ],
     "wof:id":320221931,
-    "wof:lastmodified":1449012900,
+    "wof:lastmodified":1454125028,
     "wof:name":"Jam Dance & Fittness Ctr",
     "wof:parent_id":85830971,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "dancing"
     ]
 },
-  "bbox": [-73.732802,40.780418,-73.732802,40.780418],
-  "geometry": {"coordinates":[-73.732802,40.780418],"type":"Point"}
+  "bbox": [
+    -73.732802,
+    40.780418,
+    -73.732802,
+    40.780418
+],
+  "geometry": {"coordinates":[-73.73280200000001,40.780418],"type":"Point"}
 }

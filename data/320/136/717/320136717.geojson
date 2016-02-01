@@ -2,13 +2,14 @@
   "id": 320136717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.363331,40.679266,-73.363331,40.679266",
     "geom:latitude":40.679266,
     "geom:longitude":-73.363331,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"567 Washington Ave",
     "sg:city":"Lindenhurst",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530025,
+        102191575,
+        404522513,
         85633793,
         85978477,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"5b6b84b635708ab3fdd46b9bbfd2ee91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522513,
             "locality_id":85978477,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530025,
             "region_id":85688543,
             "venue_id":320136717
         }
     ],
     "wof:id":320136717,
-    "wof:lastmodified":1449014904,
+    "wof:lastmodified":1454125356,
     "wof:name":"Spencer Ketcham & Sons Bldg",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530025,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "co"
     ]
 },
-  "bbox": [-73.363331,40.679266,-73.363331,40.679266],
+  "bbox": [
+    -73.363331,
+    40.679266,
+    -73.363331,
+    40.679266
+],
   "geometry": {"coordinates":[-73.363331,40.679266],"type":"Point"}
 }

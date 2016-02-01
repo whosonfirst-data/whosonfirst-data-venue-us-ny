@@ -2,13 +2,14 @@
   "id": 354166901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.003241,40.888413,-73.003241,40.888413",
     "geom:latitude":40.888413,
     "geom:longitude":-73.003241,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 Avalon Pines Dr",
     "sg:city":"Coram",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"3ce0b03c68cad8fc0e75ec92f6c0f262",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":354166901
         }
     ],
     "wof:id":354166901,
-    "wof:lastmodified":1449066901,
+    "wof:lastmodified":1454131065,
     "wof:name":"Pine Ridge Golf Maintenance",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "course"
     ]
 },
-  "bbox": [-73.003241,40.888413,-73.003241,40.888413],
+  "bbox": [
+    -73.003241,
+    40.888413,
+    -73.003241,
+    40.888413
+],
   "geometry": {"coordinates":[-73.003241,40.888413],"type":"Point"}
 }

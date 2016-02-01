@@ -2,13 +2,14 @@
   "id": 252874191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.877371,40.87081,-73.877371,40.87081",
     "geom:latitude":40.87081,
     "geom:longitude":-73.877371,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3103 Webster Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869557,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869557
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"82d25f8a0519702dbc189fec494d12cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869557,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":252874191,
-    "wof:lastmodified":1449006441,
+    "wof:lastmodified":1454124124,
     "wof:name":"Bernaldo Morel",
     "wof:parent_id":85869557,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.877371,40.87081,-73.877371,40.87081],
+  "bbox": [
+    -73.877371,
+    40.87081,
+    -73.877371,
+    40.87081
+],
   "geometry": {"coordinates":[-73.877371,40.87081],"type":"Point"}
 }

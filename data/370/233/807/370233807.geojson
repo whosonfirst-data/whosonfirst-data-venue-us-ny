@@ -2,13 +2,14 @@
   "id": 370233807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.493619,40.815446,-73.493619,40.815446",
     "geom:latitude":40.815446,
     "geom:longitude":-73.493619,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"17 Wendy Rd",
     "sg:city":"Syosset",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
-        85979075,
-        102082371
+        85979055,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"4dd729ab8b008f0239dba81bfcb2e37c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979075,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85979055,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":370233807
         }
     ],
     "wof:id":370233807,
-    "wof:lastmodified":1449032535,
+    "wof:lastmodified":1454128332,
     "wof:name":"Zsn Realty",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "broker"
     ]
 },
-  "bbox": [-73.493619,40.815446,-73.493619,40.815446],
+  "bbox": [
+    -73.493619,
+    40.815446,
+    -73.493619,
+    40.815446
+],
   "geometry": {"coordinates":[-73.493619,40.815446],"type":"Point"}
 }

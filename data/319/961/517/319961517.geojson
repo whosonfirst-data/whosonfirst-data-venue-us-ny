@@ -2,13 +2,14 @@
   "id": 319961517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.805961,42.969777,-78.805961,42.969777",
     "geom:latitude":42.969777,
     "geom:longitude":-78.805961,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12 Fairchild Dr",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -31,10 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823285,
+        102191575,
+        404522321,
         85633793,
+        85979407,
         102082387,
-        85823285
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +48,18 @@
     "wof:geomhash":"9496a80b50207cc16209bb57e1106bec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979407,
             "neighbourhood_id":85823285,
             "region_id":85688543,
             "venue_id":319961517
         }
     ],
     "wof:id":319961517,
-    "wof:lastmodified":1449024862,
+    "wof:lastmodified":1454126846,
     "wof:name":"Maryvale Court Inc",
     "wof:parent_id":85823285,
     "wof:placetype":"venue",
@@ -68,6 +73,11 @@
         "land"
     ]
 },
-  "bbox": [-78.805961,42.969777,-78.805961,42.969777],
+  "bbox": [
+    -78.805961,
+    42.969777,
+    -78.805961,
+    42.969777
+],
   "geometry": {"coordinates":[-78.805961,42.969777],"type":"Point"}
 }

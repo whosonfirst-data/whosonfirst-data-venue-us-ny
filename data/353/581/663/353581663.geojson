@@ -2,13 +2,14 @@
   "id": 353581663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.386828,41.713311,-74.386828,41.713311",
     "geom:latitude":41.713311,
     "geom:longitude":-74.386828,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"216 Canal St",
     "sg:city":"Ellenville",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816913,
+        102191575,
+        404523275,
         85633793,
-        85978959,
+        85977503,
         102081775,
-        85816913
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"92155fcdd197d50637e1604f18f64164",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
-            "locality_id":85978959,
+            "localadmin_id":404523275,
+            "locality_id":85977503,
             "neighbourhood_id":85816913,
             "region_id":85688543,
             "venue_id":353581663
         }
     ],
     "wof:id":353581663,
-    "wof:lastmodified":1449018799,
+    "wof:lastmodified":1454126107,
     "wof:name":"Thornton Plumbing & Heating",
     "wof:parent_id":85816913,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.386828,41.713311,-74.386828,41.713311],
-  "geometry": {"coordinates":[-74.386828,41.713311],"type":"Point"}
+  "bbox": [
+    -74.386828,
+    41.713311,
+    -74.386828,
+    41.713311
+],
+  "geometry": {"coordinates":[-74.38682799999999,41.713311],"type":"Point"}
 }

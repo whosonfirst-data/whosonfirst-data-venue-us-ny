@@ -2,13 +2,14 @@
   "id": 286842135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.002615,40.619344,-74.002615,40.619344",
     "geom:latitude":40.619344,
     "geom:longitude":-74.002615,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1444 73rd St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805771,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85805771
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"de9d20f29c280e5b2124aa27ed6d8789",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85805771,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":286842135,
-    "wof:lastmodified":1449015390,
+    "wof:lastmodified":1454125437,
     "wof:name":"11th Ave Laundromat",
     "wof:parent_id":85805771,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.002615,40.619344,-74.002615,40.619344],
-  "geometry": {"coordinates":[-74.002615,40.619344],"type":"Point"}
+  "bbox": [
+    -74.002615,
+    40.619344,
+    -74.002615,
+    40.619344
+],
+  "geometry": {"coordinates":[-74.00261500000001,40.619344],"type":"Point"}
 }

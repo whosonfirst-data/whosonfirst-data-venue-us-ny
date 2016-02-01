@@ -2,13 +2,14 @@
   "id": 337463747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.851763,40.744123,-73.851763,40.744123",
     "geom:latitude":40.744123,
     "geom:longitude":-73.851763,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5211 111th St",
     "sg:city":"Corona",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.terraceonthepark.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812357,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85812357
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"1d1a581e3992c9f90f88f3b9b8423d2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85812357,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":337463747,
-    "wof:lastmodified":1449027514,
+    "wof:lastmodified":1454127094,
     "wof:name":"Terrace On the Park",
     "wof:parent_id":85812357,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "caterer"
     ]
 },
-  "bbox": [-73.851763,40.744123,-73.851763,40.744123],
-  "geometry": {"coordinates":[-73.851763,40.744123],"type":"Point"}
+  "bbox": [
+    -73.851763,
+    40.744123,
+    -73.851763,
+    40.744123
+],
+  "geometry": {"coordinates":[-73.85176300000001,40.744123],"type":"Point"}
 }

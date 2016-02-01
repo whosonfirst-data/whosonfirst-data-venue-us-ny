@@ -2,13 +2,14 @@
   "id": 370547255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.8942,41.52814,-73.8942,41.52814",
     "geom:latitude":41.52814,
     "geom:longitude":-73.8942,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Westage Dr Ste 12",
     "sg:city":"Fishkill",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     "sg:website":"www.pizzahut.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528475,
+        102191575,
+        404522225,
         85633793,
+        85979249,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"3bc66f20a67d370cacfb9bf22b395247",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522225,
+            "locality_id":85979249,
+            "neighbourhood_id":420528475,
             "region_id":85688543,
             "venue_id":370547255
         }
     ],
     "wof:id":370547255,
-    "wof:lastmodified":1449029431,
+    "wof:lastmodified":1454127417,
     "wof:name":"Pizza Hut",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528475,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -58,6 +66,11 @@
         "pizza"
     ]
 },
-  "bbox": [-73.8942,41.52814,-73.8942,41.52814],
+  "bbox": [
+    -73.8942,
+    41.52814,
+    -73.8942,
+    41.52814
+],
   "geometry": {"coordinates":[-73.8942,41.52814],"type":"Point"}
 }

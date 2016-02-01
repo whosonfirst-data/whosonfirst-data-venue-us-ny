@@ -2,13 +2,14 @@
   "id": 353493127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.895335,40.727403,-73.895335,40.727403",
     "geom:latitude":40.727403,
     "geom:longitude":-73.895335,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5513 69th Street",
     "sg:city":"Maspeth",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85832845,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85832845
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"97494e1a0388f8a9ef948bc09cd1ce22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85832845,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":353493127,
-    "wof:lastmodified":1449019070,
+    "wof:lastmodified":1454126186,
     "wof:name":"Sixty-Ninth St Beer Distributor's",
     "wof:parent_id":85832845,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "wine"
     ]
 },
-  "bbox": [-73.895335,40.727403,-73.895335,40.727403],
+  "bbox": [
+    -73.895335,
+    40.727403,
+    -73.895335,
+    40.727403
+],
   "geometry": {"coordinates":[-73.895335,40.727403],"type":"Point"}
 }

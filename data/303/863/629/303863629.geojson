@@ -2,13 +2,14 @@
   "id": 303863629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.887241,40.809709,-73.887241,40.809709",
     "geom:latitude":40.809709,
     "geom:longitude":-73.887241,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"421 Manida St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826591,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85826591
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,10 @@
     "wof:geomhash":"99f6baadd0aee738e857702d6f1a58dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85826591,
             "region_id":85688543,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":303863629,
-    "wof:lastmodified":1448999806,
+    "wof:lastmodified":1454123515,
     "wof:name":"Sanitation Salvage Corp",
     "wof:parent_id":85826591,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "collection"
     ]
 },
-  "bbox": [-73.887241,40.809709,-73.887241,40.809709],
+  "bbox": [
+    -73.887241,
+    40.809709,
+    -73.887241,
+    40.809709
+],
   "geometry": {"coordinates":[-73.887241,40.809709],"type":"Point"}
 }

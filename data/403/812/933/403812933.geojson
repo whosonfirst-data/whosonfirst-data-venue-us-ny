@@ -2,13 +2,14 @@
   "id": 403812933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.817293,42.989499,-78.817293,42.989499",
     "geom:latitude":42.989499,
     "geom:longitude":-78.817293,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"608 Alberta Dr",
     "sg:city":"Amherst",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837253,
+        102191575,
+        404522321,
         85633793,
+        85979411,
         102082387,
-        85837253
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"3c992672ed3e2ebc06b0463979c6fc09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979411,
             "neighbourhood_id":85837253,
             "region_id":85688543,
             "venue_id":403812933
         }
     ],
     "wof:id":403812933,
-    "wof:lastmodified":1449054658,
+    "wof:lastmodified":1454129326,
     "wof:name":"Verizon Wireless",
     "wof:parent_id":85837253,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "cellular"
     ]
 },
-  "bbox": [-78.817293,42.989499,-78.817293,42.989499],
-  "geometry": {"coordinates":[-78.817293,42.989499],"type":"Point"}
+  "bbox": [
+    -78.817293,
+    42.989499,
+    -78.817293,
+    42.989499
+],
+  "geometry": {"coordinates":[-78.81729300000001,42.989499],"type":"Point"}
 }

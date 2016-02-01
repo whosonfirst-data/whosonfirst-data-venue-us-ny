@@ -2,13 +2,14 @@
   "id": 319979035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.953635,40.954223,-72.953635,40.954223",
     "geom:latitude":40.954223,
     "geom:longitude":-72.953635,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"23 Water Rd",
     "sg:city":"Rocky Point",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530057,
+        102191575,
+        404521441,
         85633793,
-        85979947,
-        102082395
+        85979677,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"e7d52f9193097970b41d1cd94c61c72f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979947,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85979677,
+            "neighbourhood_id":420530057,
             "region_id":85688543,
             "venue_id":319979035
         }
     ],
     "wof:id":319979035,
-    "wof:lastmodified":1449024632,
+    "wof:lastmodified":1454126808,
     "wof:name":"Salvatore Spatarella",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530057,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "sales"
     ]
 },
-  "bbox": [-72.953635,40.954223,-72.953635,40.954223],
-  "geometry": {"coordinates":[-72.953635,40.954223],"type":"Point"}
+  "bbox": [
+    -72.953635,
+    40.954223,
+    -72.953635,
+    40.954223
+],
+  "geometry": {"coordinates":[-72.95363500000001,40.954223],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387523601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.499595,42.439452,-76.499595,42.439452",
     "geom:latitude":42.439452,
     "geom:longitude":-76.499595,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"139 W State St",
     "sg:city":"Ithaca",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85878347,
+        102191575,
+        404523231,
         85633793,
         85978779,
         102082355,
-        85878347
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"bbe66e5a852efdfc709fe01582aef4c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082355,
+            "localadmin_id":404523231,
             "locality_id":85978779,
             "neighbourhood_id":85878347,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387523601,
-    "wof:lastmodified":1449058298,
+    "wof:lastmodified":1454129923,
     "wof:name":"Elks Lodge",
     "wof:parent_id":85878347,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "fraternal"
     ]
 },
-  "bbox": [-76.499595,42.439452,-76.499595,42.439452],
+  "bbox": [
+    -76.499595,
+    42.439452,
+    -76.499595,
+    42.439452
+],
   "geometry": {"coordinates":[-76.499595,42.439452],"type":"Point"}
 }

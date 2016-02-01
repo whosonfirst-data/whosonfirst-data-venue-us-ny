@@ -2,13 +2,14 @@
   "id": 387053373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.666467,40.989085,-73.666467,40.989085",
     "geom:latitude":40.989085,
     "geom:longitude":-73.666467,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"222 Grace Church St",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530421,
+        102191575,
+        404523389,
         85633793,
         85978705,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"6146bc2bf0d9cc1b5067d6eae8161f83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523389,
             "locality_id":85978705,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530421,
             "region_id":85688543,
             "venue_id":387053373
         }
     ],
     "wof:id":387053373,
-    "wof:lastmodified":1449056818,
+    "wof:lastmodified":1454129656,
     "wof:name":"Vegherb",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530421,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.666467,40.989085,-73.666467,40.989085],
+  "bbox": [
+    -73.666467,
+    40.989085,
+    -73.666467,
+    40.989085
+],
   "geometry": {"coordinates":[-73.666467,40.989085],"type":"Point"}
 }

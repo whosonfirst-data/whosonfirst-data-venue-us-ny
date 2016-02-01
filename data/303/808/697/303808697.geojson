@@ -2,13 +2,14 @@
   "id": 303808697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.05927,40.829766,-73.05927,40.829766",
     "geom:latitude":40.829766,
     "geom:longitude":-73.05927,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"41 Bayou Ct",
     "sg:city":"Holtsville",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"b1ba9274d66e63090cf06b1327dc804c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":303808697
         }
     ],
     "wof:id":303808697,
-    "wof:lastmodified":1448998233,
+    "wof:lastmodified":1454123026,
     "wof:name":"Fox Appraisals",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "appraisal"
     ]
 },
-  "bbox": [-73.05927,40.829766,-73.05927,40.829766],
+  "bbox": [
+    -73.05927,
+    40.829766,
+    -73.05927,
+    40.829766
+],
   "geometry": {"coordinates":[-73.05927,40.829766],"type":"Point"}
 }

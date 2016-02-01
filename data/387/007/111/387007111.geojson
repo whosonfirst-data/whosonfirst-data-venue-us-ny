@@ -2,13 +2,14 @@
   "id": 387007111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.601356,43.210574,-77.601356,43.210574",
     "geom:latitude":43.210574,
     "geom:longitude":-77.601356,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"572 Titus Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -47,11 +48,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880401,
+        102191575,
+        404522639,
         85633793,
         85979035,
         102081815,
-        85880401
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,9 +64,10 @@
     "wof:geomhash":"a9ef84033c0d32bcfa8041224bbfc632",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404522639,
             "locality_id":85979035,
             "neighbourhood_id":85880401,
             "region_id":85688543,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":387007111,
-    "wof:lastmodified":1449059271,
+    "wof:lastmodified":1454130094,
     "wof:name":"Allstate Insurance Company - Joseph Schroeder",
     "wof:parent_id":85880401,
     "wof:placetype":"venue",
@@ -86,6 +90,11 @@
         "renter"
     ]
 },
-  "bbox": [-77.601356,43.210574,-77.601356,43.210574],
+  "bbox": [
+    -77.601356,
+    43.210574,
+    -77.601356,
+    43.210574
+],
   "geometry": {"coordinates":[-77.601356,43.210574],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 269804467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.634628,40.859388,-73.634628,40.859388",
     "geom:latitude":40.859388,
     "geom:longitude":-73.634628,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"83 Glen Cove Ave",
     "sg:city":"Glen Cove",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529163,
+        102191575,
+        404521475,
         85633793,
-        85977671,
-        102082371
+        85977597,
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"ac2aca0a9406502f54b054a7849ce4d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977671,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521475,
+            "locality_id":85977597,
+            "neighbourhood_id":420529163,
             "region_id":85688543,
             "venue_id":269804467
         }
     ],
     "wof:id":269804467,
-    "wof:lastmodified":1449037785,
+    "wof:lastmodified":1454128708,
     "wof:name":"Harold's Auto & Truck Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529163,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "automobile"
     ]
 },
-  "bbox": [-73.634628,40.859388,-73.634628,40.859388],
-  "geometry": {"coordinates":[-73.634628,40.859388],"type":"Point"}
+  "bbox": [
+    -73.634628,
+    40.859388,
+    -73.634628,
+    40.859388
+],
+  "geometry": {"coordinates":[-73.63462800000001,40.859388],"type":"Point"}
 }

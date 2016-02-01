@@ -2,13 +2,14 @@
   "id": 303379431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.050311,43.254487,-79.050311,43.254487",
     "geom:latitude":43.254487,
     "geom:longitude":-79.050311,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Main St",
     "sg:city":"Youngstown",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820171,
+        102191575,
+        404522749,
         85633793,
+        85978265,
         102081767,
-        85820171
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"2f615174e4d2e182ea830eedc1e63550",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
-            "locality_id":-1,
+            "localadmin_id":404522749,
+            "locality_id":85978265,
             "neighbourhood_id":85820171,
             "region_id":85688543,
             "venue_id":303379431
         }
     ],
     "wof:id":303379431,
-    "wof:lastmodified":1448999541,
+    "wof:lastmodified":1454123441,
     "wof:name":"Villa Condominiums Assn",
     "wof:parent_id":85820171,
     "wof:placetype":"venue",
@@ -65,6 +70,11 @@
         "apartment"
     ]
 },
-  "bbox": [-79.050311,43.254487,-79.050311,43.254487],
-  "geometry": {"coordinates":[-79.050311,43.254487],"type":"Point"}
+  "bbox": [
+    -79.050311,
+    43.254487,
+    -79.050311,
+    43.254487
+],
+  "geometry": {"coordinates":[-79.05031099999999,43.254487],"type":"Point"}
 }

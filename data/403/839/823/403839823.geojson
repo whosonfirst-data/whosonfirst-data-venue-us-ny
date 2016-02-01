@@ -2,13 +2,14 @@
   "id": 403839823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.541254,40.688044,-73.541254,40.688044",
     "geom:latitude":40.688044,
     "geom:longitude":-73.541254,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2485 Charles St",
     "sg:city":"North Bellmore",
     "sg:classifiers":[
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +55,18 @@
     "wof:geomhash":"00255bc56135a69d8f0f4fc6f3d9723e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":403839823
         }
     ],
     "wof:id":403839823,
-    "wof:lastmodified":1449055457,
+    "wof:lastmodified":1454129440,
     "wof:name":"Factory 77 Inc",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -78,6 +82,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.541254,40.688044,-73.541254,40.688044],
+  "bbox": [
+    -73.541254,
+    40.688044,
+    -73.541254,
+    40.688044
+],
   "geometry": {"coordinates":[-73.541254,40.688044],"type":"Point"}
 }

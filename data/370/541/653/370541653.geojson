@@ -2,13 +2,14 @@
   "id": 370541653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.94571,40.678277,-73.94571,40.678277",
     "geom:latitude":40.678277,
     "geom:longitude":-73.94571,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1424 Atlantic Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892907,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85892907
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"9b0927c00efb4a6282f34618bf0236f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892907,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":370541653,
-    "wof:lastmodified":1449029462,
+    "wof:lastmodified":1454127425,
     "wof:name":"Wilco Sheet Metal",
     "wof:parent_id":85892907,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.94571,40.678277,-73.94571,40.678277],
-  "geometry": {"coordinates":[-73.94571,40.678277],"type":"Point"}
+  "bbox": [
+    -73.94571,
+    40.678277,
+    -73.94571,
+    40.678277
+],
+  "geometry": {"coordinates":[-73.94571000000001,40.678277],"type":"Point"}
 }

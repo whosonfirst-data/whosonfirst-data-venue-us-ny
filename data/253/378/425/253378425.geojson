@@ -2,13 +2,14 @@
   "id": 253378425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.928867,43.272974,-74.928867,43.272974",
     "geom:latitude":43.272974,
     "geom:longitude":-74.928867,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"622 Tea Cup St",
     "sg:city":"Cold Brook",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85837029,
+        102081877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"789ef01f5169a31a9be7c01a03f4a489",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081877,
+            "neighbourhood_id":85837029,
             "region_id":85688543,
             "venue_id":253378425
         }
     ],
     "wof:id":253378425,
-    "wof:lastmodified":1449064836,
+    "wof:lastmodified":1454130583,
     "wof:name":"Wood Song Farm",
-    "wof:parent_id":-1,
+    "wof:parent_id":85837029,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "general"
     ]
 },
-  "bbox": [-74.928867,43.272974,-74.928867,43.272974],
+  "bbox": [
+    -74.928867,
+    43.272974,
+    -74.928867,
+    43.272974
+],
   "geometry": {"coordinates":[-74.928867,43.272974],"type":"Point"}
 }

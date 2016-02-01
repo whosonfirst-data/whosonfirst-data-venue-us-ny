@@ -2,13 +2,14 @@
   "id": 403936437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.717028,43.166667,-78.717028,43.166667",
     "geom:latitude":43.166667,
     "geom:longitude":-78.717028,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"435 Park Ave",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529193,
+        102191575,
+        404522737,
         85633793,
-        85978249,
-        102081767
+        85979541,
+        102081767,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"6042f268ca319a7238f49cbae7cff0a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081767,
-            "locality_id":85978249,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522737,
+            "locality_id":85979541,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":403936437
         }
     ],
     "wof:id":403936437,
-    "wof:lastmodified":1449055078,
+    "wof:lastmodified":1454129386,
     "wof:name":"Doug's Unique Auto",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "general"
     ]
 },
-  "bbox": [-78.717028,43.166667,-78.717028,43.166667],
+  "bbox": [
+    -78.717028,
+    43.166667,
+    -78.717028,
+    43.166667
+],
   "geometry": {"coordinates":[-78.717028,43.166667],"type":"Point"}
 }

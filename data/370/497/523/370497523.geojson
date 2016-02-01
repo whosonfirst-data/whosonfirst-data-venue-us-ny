@@ -2,13 +2,14 @@
   "id": 370497523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.979449,41.934213,-73.979449,41.934213",
     "geom:latitude":41.934213,
     "geom:longitude":-73.979449,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"241 3rd Ave",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85842633,
+        102191575,
+        404523249,
         85633793,
-        102082363,
-        85842633
+        85977505,
+        102081775,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"5db8ec16e3eb228f6c6c0b285f73442c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082363,
-            "locality_id":-1,
+            "county_id":102081775,
+            "localadmin_id":404523249,
+            "locality_id":85977505,
             "neighbourhood_id":85842633,
             "region_id":85688543,
             "venue_id":370497523
         }
     ],
     "wof:id":370497523,
-    "wof:lastmodified":1449032416,
+    "wof:lastmodified":1454128298,
     "wof:name":"Red Rock Studio Design",
     "wof:parent_id":85842633,
     "wof:placetype":"venue",
@@ -64,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-73.979449,41.934213,-73.979449,41.934213],
+  "bbox": [
+    -73.979449,
+    41.934213,
+    -73.979449,
+    41.934213
+],
   "geometry": {"coordinates":[-73.979449,41.934213],"type":"Point"}
 }

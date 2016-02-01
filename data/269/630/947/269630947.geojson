@@ -2,13 +2,14 @@
   "id": 269630947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.996835,43.079726,-75.996835,43.079726",
     "geom:latitude":43.079726,
     "geom:longitude":-75.996835,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"217 East Ave",
     "sg:city":"Minoa",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529409,
+        102191575,
+        404522837,
         85633793,
         85977793,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"dfa16ea471916d5456530ae0cd364c74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522837,
             "locality_id":85977793,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529409,
             "region_id":85688543,
             "venue_id":269630947
         }
     ],
     "wof:id":269630947,
-    "wof:lastmodified":1449036992,
+    "wof:lastmodified":1454128587,
     "wof:name":"Crossings Nursing & Rehab Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529409,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "skilled"
     ]
 },
-  "bbox": [-75.996835,43.079726,-75.996835,43.079726],
+  "bbox": [
+    -75.996835,
+    43.079726,
+    -75.996835,
+    43.079726
+],
   "geometry": {"coordinates":[-75.996835,43.079726],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286554713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.086947,40.902633,-73.086947,40.902633",
     "geom:latitude":40.902633,
     "geom:longitude":-73.086947,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"37 Research Way",
     "sg:city":"East Setauket",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824457,
+        102191575,
+        404521441,
         85633793,
-        85978487,
+        85979927,
         102082395,
-        85824457
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"6d07d90ce44995e78f533818767d3ed3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978487,
+            "localadmin_id":404521441,
+            "locality_id":85979927,
             "neighbourhood_id":85824457,
             "region_id":85688543,
             "venue_id":286554713
         }
     ],
     "wof:id":286554713,
-    "wof:lastmodified":1449015774,
+    "wof:lastmodified":1454125503,
     "wof:name":"Stony Brook Surgical Assoc PC",
     "wof:parent_id":85824457,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.086947,40.902633,-73.086947,40.902633],
+  "bbox": [
+    -73.086947,
+    40.902633,
+    -73.086947,
+    40.902633
+],
   "geometry": {"coordinates":[-73.086947,40.902633],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370616035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.192088,43.247945,-78.192088,43.247945",
     "geom:latitude":43.247945,
     "geom:longitude":-78.192088,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"115 E Bank St",
     "sg:city":"Albion",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819435,
+        102191575,
+        404521525,
         85633793,
+        85978607,
         102082411,
-        85819435
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"145a77769429ffa82b4d6e533e9ed495",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082411,
-            "locality_id":-1,
+            "localadmin_id":404521525,
+            "locality_id":85978607,
             "neighbourhood_id":85819435,
             "region_id":85688543,
             "venue_id":370616035
         }
     ],
     "wof:id":370616035,
-    "wof:lastmodified":1449031581,
+    "wof:lastmodified":1454128048,
     "wof:name":"Classic Motorcycles",
     "wof:parent_id":85819435,
     "wof:placetype":"venue",
@@ -65,6 +70,11 @@
         "scooter"
     ]
 },
-  "bbox": [-78.192088,43.247945,-78.192088,43.247945],
+  "bbox": [
+    -78.192088,
+    43.247945,
+    -78.192088,
+    43.247945
+],
   "geometry": {"coordinates":[-78.192088,43.247945],"type":"Point"}
 }

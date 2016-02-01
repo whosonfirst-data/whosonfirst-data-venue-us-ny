@@ -2,13 +2,14 @@
   "id": 253199287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.254675,40.729605,-73.254675,40.729605",
     "geom:latitude":40.729605,
     "geom:longitude":-73.254675,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11 Winifred St",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530027,
+        102191575,
+        404522517,
         85633793,
         85979719,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"db7ad1c294d73e6998780f1b07511e2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530027,
             "region_id":85688543,
             "venue_id":253199287
         }
     ],
     "wof:id":253199287,
-    "wof:lastmodified":1449063112,
+    "wof:lastmodified":1454130292,
     "wof:name":"Evolution Trucking Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530027,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "trucking"
     ]
 },
-  "bbox": [-73.254675,40.729605,-73.254675,40.729605],
-  "geometry": {"coordinates":[-73.254675,40.729605],"type":"Point"}
+  "bbox": [
+    -73.254675,
+    40.729605,
+    -73.254675,
+    40.729605
+],
+  "geometry": {"coordinates":[-73.25467500000001,40.729605],"type":"Point"}
 }

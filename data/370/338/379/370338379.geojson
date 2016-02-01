@@ -2,13 +2,14 @@
   "id": 370338379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.166758,40.875137,-73.166758,40.875137",
     "geom:latitude":40.875137,
     "geom:longitude":-73.166758,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"232 Jackson Ave N",
     "sg:city":"Saint James",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893017,
+        102191575,
+        404522669,
         85633793,
-        85979773,
+        85979839,
         102082395,
-        85893017
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"de2fa0c3485b161d687fc60833fc9e44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522669,
+            "locality_id":85979839,
             "neighbourhood_id":85893017,
             "region_id":85688543,
             "venue_id":370338379
         }
     ],
     "wof:id":370338379,
-    "wof:lastmodified":1449030270,
+    "wof:lastmodified":1454127664,
     "wof:name":"Wt Electric Inc",
     "wof:parent_id":85893017,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.166758,40.875137,-73.166758,40.875137],
+  "bbox": [
+    -73.166758,
+    40.875137,
+    -73.166758,
+    40.875137
+],
   "geometry": {"coordinates":[-73.166758,40.875137],"type":"Point"}
 }

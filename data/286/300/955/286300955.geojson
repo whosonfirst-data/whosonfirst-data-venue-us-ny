@@ -2,13 +2,14 @@
   "id": 286300955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.972578,40.788249,-73.972578,40.788249",
     "geom:latitude":40.788249,
     "geom:longitude":-73.972578,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"167 W 88 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853285,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85853285
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"9e01f32b9121343b5e99567e08e3e286",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853285,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":286300955,
-    "wof:lastmodified":1449016838,
+    "wof:lastmodified":1454125691,
     "wof:name":"167 West 88th St Owners Corp",
     "wof:parent_id":85853285,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.972578,40.788249,-73.972578,40.788249],
+  "bbox": [
+    -73.972578,
+    40.788249,
+    -73.972578,
+    40.788249
+],
   "geometry": {"coordinates":[-73.972578,40.788249],"type":"Point"}
 }

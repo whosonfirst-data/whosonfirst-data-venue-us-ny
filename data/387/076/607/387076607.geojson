@@ -2,13 +2,14 @@
   "id": 387076607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.46254,42.489281,-76.46254,42.489281",
     "geom:latitude":42.489281,
     "geom:longitude":-76.46254,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 Culligan Dr Ste 2",
     "sg:city":"Ithaca",
     "sg:classifiers":[
@@ -32,11 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102526841,
         85688543,
         85633793,
-        85978777,
         102082355,
-        85833289
+        85853515
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +47,18 @@
     "wof:geomhash":"f2da7cced00e45e9f7ff7964b0915e91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102526841,
             "country_id":85633793,
             "county_id":102082355,
-            "locality_id":85978777,
-            "neighbourhood_id":85833289,
+            "neighbourhood_id":85853515,
             "region_id":85688543,
             "venue_id":387076607
         }
     ],
     "wof:id":387076607,
-    "wof:lastmodified":1449059090,
+    "wof:lastmodified":1454130060,
     "wof:name":"Second Landing",
-    "wof:parent_id":85833289,
+    "wof:parent_id":102526841,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +66,11 @@
         "espresso"
     ]
 },
-  "bbox": [-76.46254,42.489281,-76.46254,42.489281],
+  "bbox": [
+    -76.46254,
+    42.489281,
+    -76.46254,
+    42.489281
+],
   "geometry": {"coordinates":[-76.46254,42.489281],"type":"Point"}
 }

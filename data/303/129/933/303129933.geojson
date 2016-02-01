@@ -2,13 +2,14 @@
   "id": 303129933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.960718,40.577678,-73.960718,40.577678",
     "geom:latitude":40.577678,
     "geom:longitude":-73.960718,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"624 Brighton Beach Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85807547,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85807547
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"7779bf3f75d04958e32a7fe7fa10db28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85807547,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303129933,
-    "wof:lastmodified":1449000094,
+    "wof:lastmodified":1454123595,
     "wof:name":"B & G Housewares",
     "wof:parent_id":85807547,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "housewares"
     ]
 },
-  "bbox": [-73.960718,40.577678,-73.960718,40.577678],
+  "bbox": [
+    -73.960718,
+    40.577678,
+    -73.960718,
+    40.577678
+],
   "geometry": {"coordinates":[-73.960718,40.577678],"type":"Point"}
 }

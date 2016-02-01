@@ -2,13 +2,14 @@
   "id": 387751439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.538449,43.323823,-76.538449,43.323823",
     "geom:latitude":43.323823,
     "geom:longitude":-76.538449,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1181 Co Rte 3",
     "sg:city":"Hannibal",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85839915,
+        102081783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"321ae3baf0055372ced191a9e7e9effd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081783,
+            "neighbourhood_id":85839915,
             "region_id":85688543,
             "venue_id":387751439
         }
     ],
     "wof:id":387751439,
-    "wof:lastmodified":1449056327,
+    "wof:lastmodified":1454129567,
     "wof:name":"E B Contracting",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.538449,43.323823,-76.538449,43.323823],
+  "bbox": [
+    -76.538449,
+    43.323823,
+    -76.538449,
+    43.323823
+],
   "geometry": {"coordinates":[-76.538449,43.323823],"type":"Point"}
 }

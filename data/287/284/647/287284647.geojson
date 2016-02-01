@@ -2,13 +2,14 @@
   "id": 287284647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.855465,40.8758,-73.855465,40.8758",
     "geom:latitude":40.8758,
     "geom:longitude":-73.855465,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1037 E 212th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869805,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869805
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"baf219927e72fbf09616720c4ebf01bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869805,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":287284647,
-    "wof:lastmodified":1449001214,
+    "wof:lastmodified":1454123883,
     "wof:name":"Edco Realty & Management",
     "wof:parent_id":85869805,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.855465,40.8758,-73.855465,40.8758],
+  "bbox": [
+    -73.855465,
+    40.8758,
+    -73.855465,
+    40.8758
+],
   "geometry": {"coordinates":[-73.855465,40.8758],"type":"Point"}
 }

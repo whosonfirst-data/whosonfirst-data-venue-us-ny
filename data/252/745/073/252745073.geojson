@@ -2,13 +2,14 @@
   "id": 252745073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.513804,40.808931,-73.513804,40.808931",
     "geom:latitude":40.808931,
     "geom:longitude":-73.513804,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"75 Haskett Dr",
     "sg:city":"Syosset",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892879,
+        102191575,
+        404521475,
         85633793,
-        85977611,
+        85979085,
         102082371,
-        85892879
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"b2267125ae77331d33692e61cfa68c5b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977611,
+            "localadmin_id":404521475,
+            "locality_id":85979085,
             "neighbourhood_id":85892879,
             "region_id":85688543,
             "venue_id":252745073
         }
     ],
     "wof:id":252745073,
-    "wof:lastmodified":1449006452,
+    "wof:lastmodified":1454124125,
     "wof:name":"Topspin Pro Shop",
     "wof:parent_id":85892879,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "apparel"
     ]
 },
-  "bbox": [-73.513804,40.808931,-73.513804,40.808931],
-  "geometry": {"coordinates":[-73.513804,40.808931],"type":"Point"}
+  "bbox": [
+    -73.513804,
+    40.808931,
+    -73.513804,
+    40.808931
+],
+  "geometry": {"coordinates":[-73.51380399999999,40.808931],"type":"Point"}
 }

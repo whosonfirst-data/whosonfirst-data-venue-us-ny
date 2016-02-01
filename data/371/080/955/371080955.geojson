@@ -2,13 +2,14 @@
   "id": 371080955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.906618,40.883453,-73.906618,40.883453",
     "geom:latitude":40.883453,
     "geom:longitude":-73.906618,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3234 Irwin Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85828377,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85828377
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"bca8448214ea45ed9035b2c4e7f9d80f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85828377,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":371080955,
-    "wof:lastmodified":1449050109,
+    "wof:lastmodified":1454129289,
     "wof:name":"Eugene Shelly",
     "wof:parent_id":85828377,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "clergy"
     ]
 },
-  "bbox": [-73.906618,40.883453,-73.906618,40.883453],
-  "geometry": {"coordinates":[-73.906618,40.883453],"type":"Point"}
+  "bbox": [
+    -73.906618,
+    40.883453,
+    -73.906618,
+    40.883453
+],
+  "geometry": {"coordinates":[-73.90661799999999,40.883453],"type":"Point"}
 }

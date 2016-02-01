@@ -2,13 +2,14 @@
   "id": 185926805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.980969,40.573889,-73.980969,40.573889",
     "geom:latitude":40.573889,
     "geom:longitude":-73.980969,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3070 Stillwell Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     "sg:website":"beerislandconeyisland.com/food.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85822643,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85822643
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"ba7adec2361efddd0b5356182334fe9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85822643,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":185926805,
-    "wof:lastmodified":1449007150,
+    "wof:lastmodified":1454124212,
     "wof:name":"Bar-B-Que Island",
     "wof:parent_id":85822643,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "barbeque"
     ]
 },
-  "bbox": [-73.980969,40.573889,-73.980969,40.573889],
+  "bbox": [
+    -73.980969,
+    40.573889,
+    -73.980969,
+    40.573889
+],
   "geometry": {"coordinates":[-73.980969,40.573889],"type":"Point"}
 }

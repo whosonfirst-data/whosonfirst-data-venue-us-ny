@@ -2,13 +2,14 @@
   "id": 253472307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.460425,43.254805,-75.460425,43.254805",
     "geom:latitude":43.254805,
     "geom:longitude":-75.460425,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"108 Glen Rd",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529303,
+        102191575,
+        404522697,
         85633793,
         85978369,
-        102083149
+        102083149,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"376b2d10864ca64fbadf30c4792b69e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083149,
+            "localadmin_id":404522697,
             "locality_id":85978369,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529303,
             "region_id":85688543,
             "venue_id":253472307
         }
     ],
     "wof:id":253472307,
-    "wof:lastmodified":1449063051,
+    "wof:lastmodified":1454130281,
     "wof:name":"Blane P Berry Svces",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529303,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "tree"
     ]
 },
-  "bbox": [-75.460425,43.254805,-75.460425,43.254805],
+  "bbox": [
+    -75.460425,
+    43.254805,
+    -75.460425,
+    43.254805
+],
   "geometry": {"coordinates":[-75.460425,43.254805],"type":"Point"}
 }

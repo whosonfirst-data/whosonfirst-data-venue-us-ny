@@ -2,13 +2,14 @@
   "id": 403837307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.870919,42.970527,-78.870919,42.970527",
     "geom:latitude":42.970527,
     "geom:longitude":-78.870919,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3165 Delaware Ave",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872841,
+        102191575,
+        404522265,
         85633793,
         85978011,
         102082387,
-        85872841
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"72f47d6cb2f949fc5c6d021a052f967d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522265,
             "locality_id":85978011,
             "neighbourhood_id":85872841,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":403837307,
-    "wof:lastmodified":1449054836,
+    "wof:lastmodified":1454129353,
     "wof:name":"Model Shoe Shop",
     "wof:parent_id":85872841,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "boot"
     ]
 },
-  "bbox": [-78.870919,42.970527,-78.870919,42.970527],
+  "bbox": [
+    -78.870919,
+    42.970527,
+    -78.870919,
+    42.970527
+],
   "geometry": {"coordinates":[-78.870919,42.970527],"type":"Point"}
 }

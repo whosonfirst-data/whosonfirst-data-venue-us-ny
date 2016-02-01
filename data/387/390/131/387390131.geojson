@@ -2,13 +2,14 @@
   "id": 387390131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.114388,40.957265,-73.114388,40.957265",
     "geom:latitude":40.957265,
     "geom:longitude":-73.114388,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"31 Gaul Rd S",
     "sg:city":"East Setauket",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824457,
+        102191575,
+        404521441,
         85633793,
-        85978487,
+        85979927,
         102082395,
-        85824457
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"d840769a1f77acb694432100526c28e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978487,
+            "localadmin_id":404521441,
+            "locality_id":85979927,
             "neighbourhood_id":85824457,
             "region_id":85688543,
             "venue_id":387390131
         }
     ],
     "wof:id":387390131,
-    "wof:lastmodified":1449059958,
+    "wof:lastmodified":1454130217,
     "wof:name":"Tschudinparts",
     "wof:parent_id":85824457,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.114388,40.957265,-73.114388,40.957265],
-  "geometry": {"coordinates":[-73.114388,40.957265],"type":"Point"}
+  "bbox": [
+    -73.114388,
+    40.957265,
+    -73.114388,
+    40.957265
+],
+  "geometry": {"coordinates":[-73.11438800000001,40.957265],"type":"Point"}
 }

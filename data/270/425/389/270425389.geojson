@@ -2,13 +2,14 @@
   "id": 270425389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.675984,43.136964,-77.675984,43.136964",
     "geom:latitude":43.136964,
     "geom:longitude":-77.675984,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1490 Chili Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,11 +29,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102528361,
+        85880411,
+        102191575,
+        404521467,
         85633793,
-        85979033,
+        85977591,
         102081815,
-        85821235
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,21 @@
     "wof:geomhash":"6ffbfba43097f2cf392b7dabf0dfd37f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102528361,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
-            "locality_id":85979033,
-            "neighbourhood_id":85821235,
+            "localadmin_id":404521467,
+            "locality_id":85977591,
+            "neighbourhood_id":85880411,
             "region_id":85688543,
             "venue_id":270425389
         }
     ],
     "wof:id":270425389,
-    "wof:lastmodified":1449009509,
+    "wof:lastmodified":1454124494,
     "wof:name":"Harmon & Sullivan Assoc Inc",
-    "wof:parent_id":85821235,
+    "wof:parent_id":102528361,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +69,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-77.675984,43.136964,-77.675984,43.136964],
+  "bbox": [
+    -77.675984,
+    43.136964,
+    -77.675984,
+    43.136964
+],
   "geometry": {"coordinates":[-77.675984,43.136964],"type":"Point"}
 }

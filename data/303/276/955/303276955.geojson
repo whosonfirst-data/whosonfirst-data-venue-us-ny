@@ -2,13 +2,14 @@
   "id": 303276955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.892352,41.538562,-73.892352,41.538562",
     "geom:latitude":41.538562,
     "geom:longitude":-73.892352,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12 Virginia Ave",
     "sg:city":"Fishkill",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528475,
+        102191575,
+        404522225,
         85633793,
-        85977831,
-        102082363
+        85979249,
+        102082363,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"fd45fac0e46268c8e3e9e6d00c3a746a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
-            "locality_id":85977831,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522225,
+            "locality_id":85979249,
+            "neighbourhood_id":420528475,
             "region_id":85688543,
             "venue_id":303276955
         }
     ],
     "wof:id":303276955,
-    "wof:lastmodified":1448998207,
+    "wof:lastmodified":1454123015,
     "wof:name":"Standard Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528475,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.892352,41.538562,-73.892352,41.538562],
+  "bbox": [
+    -73.892352,
+    41.538562,
+    -73.892352,
+    41.538562
+],
   "geometry": {"coordinates":[-73.892352,41.538562],"type":"Point"}
 }

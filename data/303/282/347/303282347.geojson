@@ -2,13 +2,14 @@
   "id": 303282347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.159984,43.126552,-76.159984,43.126552",
     "geom:latitude":43.126552,
     "geom:longitude":-76.159984,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7310 Buckley Rd",
     "sg:city":"North Syracuse",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85842079,
+        102082351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"b5c6d5dae3c8105626c03055ca819793",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082351,
+            "neighbourhood_id":85842079,
             "region_id":85688543,
             "venue_id":303282347
         }
     ],
     "wof:id":303282347,
-    "wof:lastmodified":1448999649,
+    "wof:lastmodified":1454123470,
     "wof:name":"Richard W Werfelmann DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842079,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "dentist"
     ]
 },
-  "bbox": [-76.159984,43.126552,-76.159984,43.126552],
-  "geometry": {"coordinates":[-76.159984,43.126552],"type":"Point"}
+  "bbox": [
+    -76.159984,
+    43.126552,
+    -76.159984,
+    43.126552
+],
+  "geometry": {"coordinates":[-76.15998399999999,43.126552],"type":"Point"}
 }

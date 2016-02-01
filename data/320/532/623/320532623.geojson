@@ -2,13 +2,14 @@
   "id": 320532623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.466286,40.816438,-73.466286,40.816438",
     "geom:latitude":40.816438,
     "geom:longitude":-73.466286,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"8225 Jericho Tpke",
     "sg:city":"Woodbury",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
         85979055,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"0d4cde86b809fbfbfb8b59873b04d26f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979055,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":320532623
         }
     ],
     "wof:id":320532623,
-    "wof:lastmodified":1449012529,
+    "wof:lastmodified":1454124967,
     "wof:name":"Woodbury Automotive Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "repair"
     ]
 },
-  "bbox": [-73.466286,40.816438,-73.466286,40.816438],
+  "bbox": [
+    -73.466286,
+    40.816438,
+    -73.466286,
+    40.816438
+],
   "geometry": {"coordinates":[-73.466286,40.816438],"type":"Point"}
 }

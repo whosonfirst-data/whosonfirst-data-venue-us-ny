@@ -2,13 +2,14 @@
   "id": 404207069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.01941,42.116127,-76.01941,42.116127",
     "geom:latitude":42.116127,
     "geom:longitude":-76.01941,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3502 Country Club Rd",
     "sg:city":"Endicott",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528089,
+        102191575,
+        404521829,
         85633793,
         85979375,
-        102081755
+        102081755,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"28a3e1853d0e5d2ea4de41763d94ba34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
+            "localadmin_id":404521829,
             "locality_id":85979375,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528089,
             "region_id":85688543,
             "venue_id":404207069
         }
     ],
     "wof:id":404207069,
-    "wof:lastmodified":1449039968,
+    "wof:lastmodified":1454128921,
     "wof:name":"Mirarchi's Pizzeria",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528089,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.01941,42.116127,-76.01941,42.116127],
-  "geometry": {"coordinates":[-76.01941,42.116127],"type":"Point"}
+  "bbox": [
+    -76.01941,
+    42.116127,
+    -76.01941,
+    42.116127
+],
+  "geometry": {"coordinates":[-76.01940999999999,42.116127],"type":"Point"}
 }

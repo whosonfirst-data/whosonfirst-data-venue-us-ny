@@ -2,13 +2,14 @@
   "id": 303753419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.526162,40.649233,-73.526162,40.649233",
     "geom:latitude":40.649233,
     "geom:longitude":-73.526162,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2971 Lee Pl",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529141,
+        102191575,
+        404521473,
         85633793,
         85979167,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"df300c7473e1f6a81d4ebd140f16a5b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979167,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529141,
             "region_id":85688543,
             "venue_id":303753419
         }
     ],
     "wof:id":303753419,
-    "wof:lastmodified":1448998409,
+    "wof:lastmodified":1454123088,
     "wof:name":"Paltrowitz Productions",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529141,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "book"
     ]
 },
-  "bbox": [-73.526162,40.649233,-73.526162,40.649233],
+  "bbox": [
+    -73.526162,
+    40.649233,
+    -73.526162,
+    40.649233
+],
   "geometry": {"coordinates":[-73.526162,40.649233],"type":"Point"}
 }

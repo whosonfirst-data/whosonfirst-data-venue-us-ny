@@ -2,13 +2,14 @@
   "id": 287111391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.845368,40.974292,-73.845368,40.974292",
     "geom:latitude":40.974292,
     "geom:longitude":-73.845368,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"600 E Grassy Sprain Rd",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530405,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"35b5e257f364080b9e5c04ffb4ed25ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530405,
             "region_id":85688543,
             "venue_id":287111391
         }
     ],
     "wof:id":287111391,
-    "wof:lastmodified":1449001614,
+    "wof:lastmodified":1454123979,
     "wof:name":"Windchester Recreation Room",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530405,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "swimming"
     ]
 },
-  "bbox": [-73.845368,40.974292,-73.845368,40.974292],
-  "geometry": {"coordinates":[-73.845368,40.974292],"type":"Point"}
+  "bbox": [
+    -73.845368,
+    40.974292,
+    -73.845368,
+    40.974292
+],
+  "geometry": {"coordinates":[-73.84536799999999,40.974292],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286511289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.743585,40.816765,-72.743585,40.816765",
     "geom:latitude":40.816765,
     "geom:longitude":-72.743585,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"41 E Moriches Blvd",
     "sg:city":"East Moriches",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"a6c40d978a5836c095dc97a0ac59511a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":286511289
         }
     ],
     "wof:id":286511289,
-    "wof:lastmodified":1449016546,
+    "wof:lastmodified":1454125639,
     "wof:name":"L Bengel Sandblasting",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "sandblasting"
     ]
 },
-  "bbox": [-72.743585,40.816765,-72.743585,40.816765],
+  "bbox": [
+    -72.743585,
+    40.816765,
+    -72.743585,
+    40.816765
+],
   "geometry": {"coordinates":[-72.743585,40.816765],"type":"Point"}
 }

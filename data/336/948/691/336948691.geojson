@@ -2,13 +2,14 @@
   "id": 336948691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.930617,40.819355,-73.930617,40.819355",
     "geom:latitude":40.819355,
     "geom:longitude":-73.930617,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"99 E 149th St",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85868027,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85868027
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"a957fcc40937761951bca9a635c02da5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85868027,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":336948691,
-    "wof:lastmodified":1448997808,
+    "wof:lastmodified":1454122886,
     "wof:name":"River Gas & Wash Corp",
     "wof:parent_id":85868027,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "wash"
     ]
 },
-  "bbox": [-73.930617,40.819355,-73.930617,40.819355],
+  "bbox": [
+    -73.930617,
+    40.819355,
+    -73.930617,
+    40.819355
+],
   "geometry": {"coordinates":[-73.930617,40.819355],"type":"Point"}
 }

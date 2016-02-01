@@ -2,13 +2,14 @@
   "id": 403996333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.953995,40.705839,-73.953995,40.705839",
     "geom:latitude":40.705839,
     "geom:longitude":-73.953995,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"244 Hewes St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892973,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85892973
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"18908febaf22f51ae79c755970bad19c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892973,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":403996333,
-    "wof:lastmodified":1449055007,
+    "wof:lastmodified":1454129377,
     "wof:name":"J Pollak",
     "wof:parent_id":85892973,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "clergy"
     ]
 },
-  "bbox": [-73.953995,40.705839,-73.953995,40.705839],
-  "geometry": {"coordinates":[-73.953995,40.705839],"type":"Point"}
+  "bbox": [
+    -73.953995,
+    40.705839,
+    -73.953995,
+    40.705839
+],
+  "geometry": {"coordinates":[-73.95399500000001,40.705839],"type":"Point"}
 }

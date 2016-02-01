@@ -2,13 +2,14 @@
   "id": 354327891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.515683,40.722013,-73.515683,40.722013",
     "geom:latitude":40.722013,
     "geom:longitude":-73.515683,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"138 Gardiners Ave",
     "sg:city":"Levittown",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"d0d09cb4199428ab48e184e41ed9f08d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":354327891
         }
     ],
     "wof:id":354327891,
-    "wof:lastmodified":1449066057,
+    "wof:lastmodified":1454130808,
     "wof:name":"Griffin Mortgage",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-73.515683,40.722013,-73.515683,40.722013],
+  "bbox": [
+    -73.515683,
+    40.722013,
+    -73.515683,
+    40.722013
+],
   "geometry": {"coordinates":[-73.515683,40.722013],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320148715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.858287,43.043742,-74.858287,43.043742",
     "geom:latitude":43.043742,
     "geom:longitude":-74.858287,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"600 E Main St",
     "sg:city":"Little Falls",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528839,
+        102191575,
+        404521885,
         85633793,
         85977757,
-        102081877
+        102081877,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"cd50b55d49dd071612b550378319c9e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081877,
+            "localadmin_id":404521885,
             "locality_id":85977757,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528839,
             "region_id":85688543,
             "venue_id":320148715
         }
     ],
     "wof:id":320148715,
-    "wof:lastmodified":1449014388,
+    "wof:lastmodified":1454125268,
     "wof:name":"Sun House",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528839,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "salon"
     ]
 },
-  "bbox": [-74.858287,43.043742,-74.858287,43.043742],
+  "bbox": [
+    -74.858287,
+    43.043742,
+    -74.858287,
+    43.043742
+],
   "geometry": {"coordinates":[-74.858287,43.043742],"type":"Point"}
 }

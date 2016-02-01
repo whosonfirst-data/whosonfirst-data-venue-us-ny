@@ -2,13 +2,14 @@
   "id": 185843679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.930185,40.694126,-73.930185,40.694126",
     "geom:latitude":40.694126,
     "geom:longitude":-73.930185,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1103 Broadway",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -43,11 +44,13 @@
     "sg:website":"http://www.theolivebranch-broadway.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892907,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85892907
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,9 +60,10 @@
     "wof:geomhash":"3260b839d33f3726b987a5b4b8f7d076",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892907,
             "region_id":85688543,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":185843679,
-    "wof:lastmodified":1449006748,
+    "wof:lastmodified":1454124162,
     "wof:name":"Broadway & Dekalb Refrigeration",
     "wof:parent_id":85892907,
     "wof:placetype":"venue",
@@ -82,6 +86,11 @@
         "engineer"
     ]
 },
-  "bbox": [-73.930185,40.694126,-73.930185,40.694126],
-  "geometry": {"coordinates":[-73.930185,40.694126],"type":"Point"}
+  "bbox": [
+    -73.930185,
+    40.694126,
+    -73.930185,
+    40.694126
+],
+  "geometry": {"coordinates":[-73.93018499999999,40.694126],"type":"Point"}
 }

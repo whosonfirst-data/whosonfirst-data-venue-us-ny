@@ -2,13 +2,14 @@
   "id": 304029755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.798592,41.078153,-73.798592,41.078153",
     "geom:latitude":41.078153,
     "geom:longitude":-73.798592,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13 Bradhurst Ave",
     "sg:city":"Hawthorne",
     "sg:classifiers":[
@@ -31,8 +32,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85843425,
+        102082373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +45,17 @@
     "wof:geomhash":"7a5573ac2a64bff1072b4dbbabb0dd44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082373,
+            "neighbourhood_id":85843425,
             "region_id":85688543,
             "venue_id":304029755
         }
     ],
     "wof:id":304029755,
-    "wof:lastmodified":1449043795,
+    "wof:lastmodified":1454128998,
     "wof:name":"Burra Enterprises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85843425,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -65,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.798592,41.078153,-73.798592,41.078153],
+  "bbox": [
+    -73.798592,
+    41.078153,
+    -73.798592,
+    41.078153
+],
   "geometry": {"coordinates":[-73.798592,41.078153],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353371249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.526797,44.524218,-73.526797,44.524218",
     "geom:latitude":44.524218,
     "geom:longitude":-73.526797,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"267 Hallock Hill Rd",
     "sg:city":"Keeseville",
     "sg:classifiers":[
@@ -29,8 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85842311,
+        102081797
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,17 @@
     "wof:geomhash":"34068410a4858fedf9bdc18cd895d9fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081797,
+            "neighbourhood_id":85842311,
             "region_id":85688543,
             "venue_id":353371249
         }
     ],
     "wof:id":353371249,
-    "wof:lastmodified":1449020259,
+    "wof:lastmodified":1454126529,
     "wof:name":"Little Scholars Pre K",
-    "wof:parent_id":-1,
+    "wof:parent_id":85842311,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +63,11 @@
         "school"
     ]
 },
-  "bbox": [-73.526797,44.524218,-73.526797,44.524218],
+  "bbox": [
+    -73.526797,
+    44.524218,
+    -73.526797,
+    44.524218
+],
   "geometry": {"coordinates":[-73.526797,44.524218],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286543333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.695489,43.411597,-73.695489,43.411597",
     "geom:latitude":43.411597,
     "geom:longitude":-73.695489,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1 McGowan Way",
     "sg:city":"Lake George",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85813003,
+        102081791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"969f2cfad6833907890a42f3e2cf2703",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081791,
+            "neighbourhood_id":85813003,
             "region_id":85688543,
             "venue_id":286543333
         }
     ],
     "wof:id":286543333,
-    "wof:lastmodified":1449015740,
+    "wof:lastmodified":1454125498,
     "wof:name":"Connelly's Topnotch Cabinetry",
-    "wof:parent_id":-1,
+    "wof:parent_id":85813003,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "counter"
     ]
 },
-  "bbox": [-73.695489,43.411597,-73.695489,43.411597],
-  "geometry": {"coordinates":[-73.695489,43.411597],"type":"Point"}
+  "bbox": [
+    -73.695489,
+    43.411597,
+    -73.695489,
+    43.411597
+],
+  "geometry": {"coordinates":[-73.69548899999999,43.411597],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370662367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.905849,41.696894,-73.905849,41.696894",
     "geom:latitude":41.696894,
     "geom:longitude":-73.905849,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"737 Main St",
     "sg:city":"Poughkeepsie",
     "sg:classifiers":[
@@ -58,10 +59,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892989,
+        102191575,
+        404522305,
         85633793,
+        85977835,
         102082363,
-        85892989
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,17 +75,18 @@
     "wof:geomhash":"d4a5992e6138a0bb3b83186d4e6b624a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
-            "locality_id":-1,
+            "localadmin_id":404522305,
+            "locality_id":85977835,
             "neighbourhood_id":85892989,
             "region_id":85688543,
             "venue_id":370662367
         }
     ],
     "wof:id":370662367,
-    "wof:lastmodified":1449031368,
+    "wof:lastmodified":1454127987,
     "wof:name":"Jade's Bakery",
     "wof:parent_id":85892989,
     "wof:placetype":"venue",
@@ -97,6 +102,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-73.905849,41.696894,-73.905849,41.696894],
+  "bbox": [
+    -73.905849,
+    41.696894,
+    -73.905849,
+    41.696894
+],
   "geometry": {"coordinates":[-73.905849,41.696894],"type":"Point"}
 }

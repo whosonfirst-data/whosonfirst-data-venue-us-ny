@@ -2,13 +2,14 @@
   "id": 319992083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.66921,40.798669,-73.66921,40.798669",
     "geom:latitude":40.798669,
     "geom:longitude":-73.66921,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Port Washington Blvd",
     "sg:city":"Roslyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819663,
+        102191575,
+        404522729,
         85633793,
-        85977681,
+        85977685,
         102082371,
-        85819663
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"0328aa1e3ded93f51a641d71715f7782",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977681,
+            "localadmin_id":404522729,
+            "locality_id":85977685,
             "neighbourhood_id":85819663,
             "region_id":85688543,
             "venue_id":319992083
         }
     ],
     "wof:id":319992083,
-    "wof:lastmodified":1449024451,
+    "wof:lastmodified":1454126776,
     "wof:name":"Port Motors Lincoln Merc Sales",
     "wof:parent_id":85819663,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "automobile"
     ]
 },
-  "bbox": [-73.66921,40.798669,-73.66921,40.798669],
-  "geometry": {"coordinates":[-73.66921,40.798669],"type":"Point"}
+  "bbox": [
+    -73.66921,
+    40.798669,
+    -73.66921,
+    40.798669
+],
+  "geometry": {"coordinates":[-73.66921000000001,40.798669],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371122715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.815097,42.838347,-78.815097,42.838347",
     "geom:latitude":42.838347,
     "geom:longitude":-78.815097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"231 Mckinley Pkwy",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85872913,
+        102191575,
+        404522269,
         85633793,
-        85978009,
+        85979415,
         102082387,
-        85872913
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"a96c21acd0e67feff2c448887159ed76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":85978009,
+            "localadmin_id":404522269,
+            "locality_id":85979415,
             "neighbourhood_id":85872913,
             "region_id":85688543,
             "venue_id":371122715
         }
     ],
     "wof:id":371122715,
-    "wof:lastmodified":1449049647,
+    "wof:lastmodified":1454129180,
     "wof:name":"Our Lady Of The Rosary Church",
     "wof:parent_id":85872913,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "churches-catholic"
     ]
 },
-  "bbox": [-78.815097,42.838347,-78.815097,42.838347],
-  "geometry": {"coordinates":[-78.815097,42.838347],"type":"Point"}
+  "bbox": [
+    -78.815097,
+    42.838347,
+    -78.815097,
+    42.838347
+],
+  "geometry": {"coordinates":[-78.81509699999999,42.838347],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 337284633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993469,40.682505,-73.993469,40.682505",
     "geom:latitude":40.682505,
     "geom:longitude":-73.993469,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"276 Smith St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,10 +29,14 @@
     "sg:website":"www.binobrooklyn.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892915,
+        102191575,
+        102147495,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +46,21 @@
     "wof:geomhash":"88088d8d91611002437ce49fba644b38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "macrohood_id":102147495,
+            "neighbourhood_id":85892915,
             "region_id":85688543,
             "venue_id":337284633
         }
     ],
     "wof:id":337284633,
-    "wof:lastmodified":1449027460,
+    "wof:lastmodified":1454127073,
     "wof:name":"BINO Brooklyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +68,11 @@
         "italian"
     ]
 },
-  "bbox": [-73.993469,40.682505,-73.993469,40.682505],
+  "bbox": [
+    -73.993469,
+    40.682505,
+    -73.993469,
+    40.682505
+],
   "geometry": {"coordinates":[-73.993469,40.682505],"type":"Point"}
 }

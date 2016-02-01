@@ -2,13 +2,14 @@
   "id": 354114421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.232441,40.758525,-73.232441,40.758525",
     "geom:latitude":40.758525,
     "geom:longitude":-73.232441,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"747 Commack Rd",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530029,
+        102191575,
+        404522517,
         85633793,
-        85979867,
-        102082395
+        85979775,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"14573ab18159dee86dd2a06fc7256f48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979867,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979775,
+            "neighbourhood_id":420530029,
             "region_id":85688543,
             "venue_id":354114421
         }
     ],
     "wof:id":354114421,
-    "wof:lastmodified":1449066632,
+    "wof:lastmodified":1454130986,
     "wof:name":"Alfarero Express",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530029,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-73.232441,40.758525,-73.232441,40.758525],
-  "geometry": {"coordinates":[-73.232441,40.758525],"type":"Point"}
+  "bbox": [
+    -73.232441,
+    40.758525,
+    -73.232441,
+    40.758525
+],
+  "geometry": {"coordinates":[-73.23244099999999,40.758525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270377795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.008232,40.721965,-74.008232,40.721965",
     "geom:latitude":40.721965,
     "geom:longitude":-74.008232,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"40 Laight St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865713,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865713
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"500e518729707316da20b4beabdfb868",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865713,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":270377795,
-    "wof:lastmodified":1449009558,
+    "wof:lastmodified":1454124503,
     "wof:name":"Eagle Express Courier LTD",
     "wof:parent_id":85865713,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "trucking"
     ]
 },
-  "bbox": [-74.008232,40.721965,-74.008232,40.721965],
-  "geometry": {"coordinates":[-74.008232,40.721965],"type":"Point"}
+  "bbox": [
+    -74.008232,
+    40.721965,
+    -74.008232,
+    40.721965
+],
+  "geometry": {"coordinates":[-74.00823200000001,40.721965],"type":"Point"}
 }

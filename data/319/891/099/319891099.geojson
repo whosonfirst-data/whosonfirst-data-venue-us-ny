@@ -2,13 +2,14 @@
   "id": 319891099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.118591,40.564309,-74.118591,40.564309",
     "geom:latitude":40.564309,
     "geom:longitude":-74.118591,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"200 Penn Ave",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85839103,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85839103
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"6f15d35a77c341d304d15db741c1114d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85839103,
             "region_id":85688543,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":319891099,
-    "wof:lastmodified":1449024571,
+    "wof:lastmodified":1454126799,
     "wof:name":"St Charles School",
     "wof:parent_id":85839103,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.118591,40.564309,-74.118591,40.564309],
+  "bbox": [
+    -74.118591,
+    40.564309,
+    -74.118591,
+    40.564309
+],
   "geometry": {"coordinates":[-74.118591,40.564309],"type":"Point"}
 }

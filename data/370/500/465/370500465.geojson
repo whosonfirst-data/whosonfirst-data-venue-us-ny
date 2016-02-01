@@ -2,13 +2,14 @@
   "id": 370500465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.034001,41.938245,-74.034001,41.938245",
     "geom:latitude":41.938245,
     "geom:longitude":-74.034001,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"211 Hurley Ave Ste 2",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865367,
+        102191575,
+        404523249,
         85633793,
         85977505,
         102081775,
-        85865367
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"3f7505c167b56aceb3f0a77fefb108f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
+            "localadmin_id":404523249,
             "locality_id":85977505,
             "neighbourhood_id":85865367,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":370500465,
-    "wof:lastmodified":1449029943,
+    "wof:lastmodified":1454127565,
     "wof:name":"Hurley Avenue Family Medicine,",
     "wof:parent_id":85865367,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "osteopathic"
     ]
 },
-  "bbox": [-74.034001,41.938245,-74.034001,41.938245],
+  "bbox": [
+    -74.034001,
+    41.938245,
+    -74.034001,
+    41.938245
+],
   "geometry": {"coordinates":[-74.034001,41.938245],"type":"Point"}
 }

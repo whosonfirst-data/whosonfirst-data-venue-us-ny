@@ -2,13 +2,14 @@
   "id": 303387899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.936537,40.617897,-73.936537,40.617897",
     "geom:latitude":40.617897,
     "geom:longitude":-73.936537,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1511 Ryder St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558701,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"f483f153cc9849004439c9fa0eabfc83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558701,
             "region_id":85688543,
             "venue_id":303387899
         }
     ],
     "wof:id":303387899,
-    "wof:lastmodified":1449000235,
+    "wof:lastmodified":1454123635,
     "wof:name":"Young & Zoboroski Plbg & Htg",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.936537,40.617897,-73.936537,40.617897],
+  "bbox": [
+    -73.936537,
+    40.617897,
+    -73.936537,
+    40.617897
+],
   "geometry": {"coordinates":[-73.936537,40.617897],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387293377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.738872,40.717535,-73.738872,40.717535",
     "geom:latitude":40.717535,
     "geom:longitude":-73.738872,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"10 Jamaica Ave",
     "sg:city":"Queens Village",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529697,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"6a66982569eba8644e1087e22753849e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529697,
             "region_id":85688543,
             "venue_id":387293377
         }
     ],
     "wof:id":387293377,
-    "wof:lastmodified":1449056846,
+    "wof:lastmodified":1454129661,
     "wof:name":"Local Union 1100",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529697,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "union"
     ]
 },
-  "bbox": [-73.738872,40.717535,-73.738872,40.717535],
+  "bbox": [
+    -73.738872,
+    40.717535,
+    -73.738872,
+    40.717535
+],
   "geometry": {"coordinates":[-73.738872,40.717535],"type":"Point"}
 }

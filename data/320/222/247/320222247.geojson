@@ -2,13 +2,14 @@
   "id": 320222247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.393265,40.889325,-72.393265,40.889325",
     "geom:latitude":40.889325,
     "geom:longitude":-72.393265,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"205 Windmill Ln",
     "sg:city":"Southampton",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85852757,
+        102191575,
+        404522671,
         85633793,
-        85979807,
+        85978445,
         102082395,
-        85852757
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"5cb82cc96cb43760db92b328ad9f49bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979807,
+            "localadmin_id":404522671,
+            "locality_id":85978445,
             "neighbourhood_id":85852757,
             "region_id":85688543,
             "venue_id":320222247
         }
     ],
     "wof:id":320222247,
-    "wof:lastmodified":1449013772,
+    "wof:lastmodified":1454125170,
     "wof:name":"Roger Mason",
     "wof:parent_id":85852757,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-72.393265,40.889325,-72.393265,40.889325],
+  "bbox": [
+    -72.393265,
+    40.889325,
+    -72.393265,
+    40.889325
+],
   "geometry": {"coordinates":[-72.393265,40.889325],"type":"Point"}
 }

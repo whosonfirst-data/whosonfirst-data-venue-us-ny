@@ -2,13 +2,14 @@
   "id": 370720505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.936139,40.615151,-73.936139,40.615151",
     "geom:latitude":40.615151,
     "geom:longitude":-73.936139,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3607 Quentin Rd",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420558701,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"2a98fe386ebdcea486a949e2c29e5009",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420558701,
             "region_id":85688543,
             "venue_id":370720505
         }
     ],
     "wof:id":370720505,
-    "wof:lastmodified":1449029903,
+    "wof:lastmodified":1454127555,
     "wof:name":"Smart Money LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558701,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-73.936139,40.615151,-73.936139,40.615151],
+  "bbox": [
+    -73.936139,
+    40.615151,
+    -73.936139,
+    40.615151
+],
   "geometry": {"coordinates":[-73.936139,40.615151],"type":"Point"}
 }

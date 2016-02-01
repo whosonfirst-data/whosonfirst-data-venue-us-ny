@@ -2,13 +2,14 @@
   "id": 370214149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.233856,40.815883,-73.233856,40.815883",
     "geom:latitude":40.815883,
     "geom:longitude":-73.233856,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 Oser Ave Ste 400",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"46348e36a4e9c59c3d62e537d8b216b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":370214149
         }
     ],
     "wof:id":370214149,
-    "wof:lastmodified":1449032360,
+    "wof:lastmodified":1454128281,
     "wof:name":"Breaktime",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "grocers-wholesale"
     ]
 },
-  "bbox": [-73.233856,40.815883,-73.233856,40.815883],
+  "bbox": [
+    -73.233856,
+    40.815883,
+    -73.233856,
+    40.815883
+],
   "geometry": {"coordinates":[-73.233856,40.815883],"type":"Point"}
 }

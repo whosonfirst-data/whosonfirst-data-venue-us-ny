@@ -2,13 +2,14 @@
   "id": 387017267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.561668,43.203579,-77.561668,43.203579",
     "geom:latitude":43.203579,
     "geom:longitude":-77.561668,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2100 E Ridge Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -89,11 +90,13 @@
     "sg:website":"http://www.walgreens.com/default.jsp?ec=iyp_yellowpages_trademark",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85836849,
+        102191575,
+        404522639,
         85633793,
         85979035,
         102081815,
-        85836849
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -103,9 +106,10 @@
     "wof:geomhash":"06e0e1108cd85bdc1c912b3446c34147",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404522639,
             "locality_id":85979035,
             "neighbourhood_id":85836849,
             "region_id":85688543,
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":387017267,
-    "wof:lastmodified":1449058134,
+    "wof:lastmodified":1454129892,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85836849,
     "wof:placetype":"venue",
@@ -134,6 +138,11 @@
         "consumer"
     ]
 },
-  "bbox": [-77.561668,43.203579,-77.561668,43.203579],
+  "bbox": [
+    -77.561668,
+    43.203579,
+    -77.561668,
+    43.203579
+],
   "geometry": {"coordinates":[-77.561668,43.203579],"type":"Point"}
 }

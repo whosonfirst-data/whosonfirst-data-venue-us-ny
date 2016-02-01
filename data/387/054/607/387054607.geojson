@@ -2,13 +2,14 @@
   "id": 387054607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.43978,42.101675,-78.43978,42.101675",
     "geom:latitude":42.101675,
     "geom:longitude":-78.43978,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"225 Homer St Olean",
     "sg:city":"Olean",
     "sg:classifiers":[
@@ -40,10 +41,13 @@
     "sg:website":"http://www.casella.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528133,
+        102191575,
+        404521783,
         85633793,
         85977543,
-        102081853
+        102081853,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +57,20 @@
     "wof:geomhash":"f75029b35e174a35861092a03adff53e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081853,
+            "localadmin_id":404521783,
             "locality_id":85977543,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528133,
             "region_id":85688543,
             "venue_id":387054607
         }
     ],
     "wof:id":387054607,
-    "wof:lastmodified":1449057894,
+    "wof:lastmodified":1454129845,
     "wof:name":"SDS Olean",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528133,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -80,6 +85,11 @@
         "waste"
     ]
 },
-  "bbox": [-78.43978,42.101675,-78.43978,42.101675],
+  "bbox": [
+    -78.43978,
+    42.101675,
+    -78.43978,
+    42.101675
+],
   "geometry": {"coordinates":[-78.43978,42.101675],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370255853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.474742,40.812761,-73.474742,40.812761",
     "geom:latitude":40.812761,
     "geom:longitude":-73.474742,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"112 Holiday Dr",
     "sg:city":"Woodbury",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529169,
+        102191575,
+        404521475,
         85633793,
         85979055,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"43119a1b383744020eca33b224ec32d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979055,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529169,
             "region_id":85688543,
             "venue_id":370255853
         }
     ],
     "wof:id":370255853,
-    "wof:lastmodified":1449030636,
+    "wof:lastmodified":1454127769,
     "wof:name":"Diane Peritz Ot P",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529169,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.474742,40.812761,-73.474742,40.812761],
-  "geometry": {"coordinates":[-73.474742,40.812761],"type":"Point"}
+  "bbox": [
+    -73.474742,
+    40.812761,
+    -73.474742,
+    40.812761
+],
+  "geometry": {"coordinates":[-73.47474200000001,40.812761],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303417769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.12977,43.048399,-76.12977,43.048399",
     "geom:latitude":43.048399,
     "geom:longitude":-76.12977,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1201 E Fayette St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881253,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881253
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"51a147980d78d1f1fc3741c67ac29a3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881253,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":303417769,
-    "wof:lastmodified":1448999119,
+    "wof:lastmodified":1454123324,
     "wof:name":"Greater Syracuse Business Ctr",
     "wof:parent_id":85881253,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-76.12977,43.048399,-76.12977,43.048399],
-  "geometry": {"coordinates":[-76.12977,43.048399],"type":"Point"}
+  "bbox": [
+    -76.12977,
+    43.048399,
+    -76.12977,
+    43.048399
+],
+  "geometry": {"coordinates":[-76.12976999999999,43.048399],"type":"Point"}
 }

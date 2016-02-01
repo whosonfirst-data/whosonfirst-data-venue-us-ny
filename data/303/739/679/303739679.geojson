@@ -2,13 +2,14 @@
   "id": 303739679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.110391,40.587105,-74.110391,40.587105",
     "geom:latitude":40.587105,
     "geom:longitude":-74.110391,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"971 Todt Hill Rd",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529767,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"5cf1a43e5cd9c3d15719a4a382ea2755",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529767,
             "region_id":85688543,
             "venue_id":303739679
         }
     ],
     "wof:id":303739679,
-    "wof:lastmodified":1448999152,
+    "wof:lastmodified":1454123334,
     "wof:name":"Lucinda Ripoll Dr MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529767,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-74.110391,40.587105,-74.110391,40.587105],
-  "geometry": {"coordinates":[-74.110391,40.587105],"type":"Point"}
+  "bbox": [
+    -74.110391,
+    40.587105,
+    -74.110391,
+    40.587105
+],
+  "geometry": {"coordinates":[-74.11039100000001,40.587105],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353510315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.887109,40.721339,-73.887109,40.721339",
     "geom:latitude":40.721339,
     "geom:longitude":-73.887109,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"71-19 Eliot Avenue",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529699,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"d7ae5a43ee5455a6980b9d5525c7f5ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529699,
             "region_id":85688543,
             "venue_id":353510315
         }
     ],
     "wof:id":353510315,
-    "wof:lastmodified":1449019821,
+    "wof:lastmodified":1454126404,
     "wof:name":"Panardo Pasticceria & Salumeria",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529699,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.887109,40.721339,-73.887109,40.721339],
+  "bbox": [
+    -73.887109,
+    40.721339,
+    -73.887109,
+    40.721339
+],
   "geometry": {"coordinates":[-73.887109,40.721339],"type":"Point"}
 }

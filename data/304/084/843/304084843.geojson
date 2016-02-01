@@ -2,13 +2,14 @@
   "id": 304084843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.979498,41.147683,-73.979498,41.147683",
     "geom:latitude":41.147683,
     "geom:longitude":-73.979498,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"12 Sunrise Ave",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"4da97f6ab59e8f2df9e8cad29d43c327",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":304084843
         }
     ],
     "wof:id":304084843,
-    "wof:lastmodified":1449043616,
+    "wof:lastmodified":1454128975,
     "wof:name":"Bilco Electrical Cont Inc",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.979498,41.147683,-73.979498,41.147683],
-  "geometry": {"coordinates":[-73.979498,41.147683],"type":"Point"}
+  "bbox": [
+    -73.979498,
+    41.147683,
+    -73.979498,
+    41.147683
+],
+  "geometry": {"coordinates":[-73.97949800000001,41.147683],"type":"Point"}
 }

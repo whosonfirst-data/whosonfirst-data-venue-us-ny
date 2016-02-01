@@ -2,13 +2,14 @@
   "id": 353522049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.888978,41.980485,-73.888978,41.980485",
     "geom:latitude":41.980485,
     "geom:longitude":-73.888978,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"49 Rokeby Rd",
     "sg:city":"Red Hook",
     "sg:classifiers":[
@@ -24,8 +25,11 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85977825,
+        102082363,
+        85844049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +39,28 @@
     "wof:geomhash":"89c84fc9985cdb2b7178c6a9c8e7c628",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "locality_id":85977825,
+            "neighbourhood_id":85844049,
             "region_id":85688543,
             "venue_id":353522049
         }
     ],
     "wof:id":353522049,
-    "wof:lastmodified":1449019478,
+    "wof:lastmodified":1454126302,
     "wof:name":"Don Storr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844049,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.888978,41.980485,-73.888978,41.980485],
-  "geometry": {"coordinates":[-73.888978,41.980485],"type":"Point"}
+  "bbox": [
+    -73.888978,
+    41.980485,
+    -73.888978,
+    41.980485
+],
+  "geometry": {"coordinates":[-73.88897799999999,41.980485],"type":"Point"}
 }

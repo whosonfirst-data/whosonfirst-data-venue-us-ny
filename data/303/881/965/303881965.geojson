@@ -2,13 +2,14 @@
   "id": 303881965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.789001,40.968551,-73.789001,40.968551",
     "geom:latitude":40.968551,
     "geom:longitude":-73.789001,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"21 Darling Ave",
     "sg:city":"New Rochelle",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530387,
+        102191575,
+        404523375,
         85633793,
         85978749,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"6eb0196a6a76847d3662f235da84891c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523375,
             "locality_id":85978749,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530387,
             "region_id":85688543,
             "venue_id":303881965
         }
     ],
     "wof:id":303881965,
-    "wof:lastmodified":1448999541,
+    "wof:lastmodified":1454123440,
     "wof:name":"Mike Piccininni Roofg & Siding",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530387,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.789001,40.968551,-73.789001,40.968551],
+  "bbox": [
+    -73.789001,
+    40.968551,
+    -73.789001,
+    40.968551
+],
   "geometry": {"coordinates":[-73.789001,40.968551],"type":"Point"}
 }

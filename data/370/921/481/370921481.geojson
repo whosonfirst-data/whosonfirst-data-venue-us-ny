@@ -2,13 +2,14 @@
   "id": 370921481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.44473,40.735652,-73.44473,40.735652",
     "geom:latitude":40.735652,
     "geom:longitude":-73.44473,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"25 Elizabeth St",
     "sg:city":"Farmingdale",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892759,
+        102191575,
+        404521475,
         85633793,
         85979165,
         102082371,
-        85892759
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"718bb2f3a0be8e248ea91a713f33dbb6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979165,
             "neighbourhood_id":85892759,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370921481,
-    "wof:lastmodified":1449031249,
+    "wof:lastmodified":1454127951,
     "wof:name":"Elizabeth Gardens Corp",
     "wof:parent_id":85892759,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "apartment"
     ]
 },
-  "bbox": [-73.44473,40.735652,-73.44473,40.735652],
-  "geometry": {"coordinates":[-73.44473,40.735652],"type":"Point"}
+  "bbox": [
+    -73.44473,
+    40.735652,
+    -73.44473,
+    40.735652
+],
+  "geometry": {"coordinates":[-73.44473000000001,40.735652],"type":"Point"}
 }

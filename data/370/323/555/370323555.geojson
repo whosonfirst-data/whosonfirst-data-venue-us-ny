@@ -2,13 +2,14 @@
   "id": 370323555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.830583,40.840173,-72.830583,40.840173",
     "geom:latitude":40.840173,
     "geom:longitude":-72.830583,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"120 Dayton Ave",
     "sg:city":"Manorville",
     "sg:classifiers":[
@@ -46,10 +47,13 @@
     "sg:website":"http://www.greenrosefarm.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530021,
+        102191575,
+        404521441,
         85633793,
         85979761,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,19 +63,20 @@
     "wof:geomhash":"94b012f1f213b2efd74b166089748fd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85979761,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530021,
             "region_id":85688543,
             "venue_id":370323555
         }
     ],
     "wof:id":370323555,
-    "wof:lastmodified":1449029380,
+    "wof:lastmodified":1454127406,
     "wof:name":"Greenrose Farm",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530021,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -82,6 +87,11 @@
         "riding"
     ]
 },
-  "bbox": [-72.830583,40.840173,-72.830583,40.840173],
+  "bbox": [
+    -72.830583,
+    40.840173,
+    -72.830583,
+    40.840173
+],
   "geometry": {"coordinates":[-72.830583,40.840173],"type":"Point"}
 }

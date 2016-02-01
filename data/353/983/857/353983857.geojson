@@ -2,13 +2,14 @@
   "id": 353983857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.712492,40.682181,-73.712492,40.682181",
     "geom:latitude":40.682181,
     "geom:longitude":-73.712492,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 Seaton Gate",
     "sg:city":"Valley Stream",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529147,
+        102191575,
+        404521473,
         85633793,
         85979041,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"412dcb405f536f31c07e07803a702c82",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979041,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529147,
             "region_id":85688543,
             "venue_id":353983857
         }
     ],
     "wof:id":353983857,
-    "wof:lastmodified":1449020599,
+    "wof:lastmodified":1454126626,
     "wof:name":"Dr. Errol Gindi",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529147,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-73.712492,40.682181,-73.712492,40.682181],
+  "bbox": [
+    -73.712492,
+    40.682181,
+    -73.712492,
+    40.682181
+],
   "geometry": {"coordinates":[-73.712492,40.682181],"type":"Point"}
 }

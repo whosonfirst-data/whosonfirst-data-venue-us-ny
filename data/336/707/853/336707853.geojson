@@ -2,13 +2,14 @@
   "id": 336707853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.720385,40.725474,-73.720385,40.725474",
     "geom:latitude":40.725474,
     "geom:longitude":-73.720385,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"24713 Jericho Tpke",
     "sg:city":"Floral Park",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805483,
+        102191575,
+        404521473,
         85633793,
-        85977709,
+        85977689,
         102082371,
-        85805483
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"be56499225972db1fe27cfbd27dc0260",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977709,
+            "localadmin_id":404521473,
+            "locality_id":85977689,
             "neighbourhood_id":85805483,
             "region_id":85688543,
             "venue_id":336707853
         }
     ],
     "wof:id":336707853,
-    "wof:lastmodified":1448997867,
+    "wof:lastmodified":1454122905,
     "wof:name":"Mani's Driving School",
     "wof:parent_id":85805483,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "driving"
     ]
 },
-  "bbox": [-73.720385,40.725474,-73.720385,40.725474],
-  "geometry": {"coordinates":[-73.720385,40.725474],"type":"Point"}
+  "bbox": [
+    -73.720385,
+    40.725474,
+    -73.720385,
+    40.725474
+],
+  "geometry": {"coordinates":[-73.72038499999999,40.725474],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286481505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.784287,42.909985,-78.784287,42.909985",
     "geom:latitude":42.909985,
     "geom:longitude":-78.784287,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2437 Harlem Rd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528623,
+        102191575,
+        404522333,
         85633793,
         85979431,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"2b4d27dabc5f9db35479516aad7e33e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522333,
             "locality_id":85979431,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528623,
             "region_id":85688543,
             "venue_id":286481505
         }
     ],
     "wof:id":286481505,
-    "wof:lastmodified":1449017729,
+    "wof:lastmodified":1454125849,
     "wof:name":"Sunoco",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528623,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-78.784287,42.909985,-78.784287,42.909985],
-  "geometry": {"coordinates":[-78.784287,42.909985],"type":"Point"}
+  "bbox": [
+    -78.784287,
+    42.909985,
+    -78.784287,
+    42.909985
+],
+  "geometry": {"coordinates":[-78.78428700000001,42.909985],"type":"Point"}
 }

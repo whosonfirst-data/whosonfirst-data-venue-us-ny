@@ -2,13 +2,14 @@
   "id": 370449557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.373731,40.891075,-73.373731,40.891075",
     "geom:latitude":40.891075,
     "geom:longitude":-73.373731,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"100 Centershore Rd",
     "sg:city":"Centerport",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85826545,
+        102191575,
+        404522515,
         85633793,
-        85979823,
+        85978425,
         102082395,
-        85826545
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"a11871b18e2195ad47c81bbd2a9cca62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979823,
+            "localadmin_id":404522515,
+            "locality_id":85978425,
             "neighbourhood_id":85826545,
             "region_id":85688543,
             "venue_id":370449557
         }
     ],
     "wof:id":370449557,
-    "wof:lastmodified":1449032217,
+    "wof:lastmodified":1454128237,
     "wof:name":"Columbia Title & Abstract Corp",
     "wof:parent_id":85826545,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "title"
     ]
 },
-  "bbox": [-73.373731,40.891075,-73.373731,40.891075],
-  "geometry": {"coordinates":[-73.373731,40.891075],"type":"Point"}
+  "bbox": [
+    -73.373731,
+    40.891075,
+    -73.373731,
+    40.891075
+],
+  "geometry": {"coordinates":[-73.37373100000001,40.891075],"type":"Point"}
 }

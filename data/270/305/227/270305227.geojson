@@ -2,13 +2,14 @@
   "id": 270305227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.864738,40.92921,-73.864738,40.92921",
     "geom:latitude":40.92921,
     "geom:longitude":-73.864738,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"30 Valentine St",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881899,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"03f782ea410f7508c61d76d35f39de28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881899,
             "region_id":85688543,
             "venue_id":270305227
         }
     ],
     "wof:id":270305227,
-    "wof:lastmodified":1449009006,
+    "wof:lastmodified":1454124418,
     "wof:name":"A-1 Amusement Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881899,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "devices"
     ]
 },
-  "bbox": [-73.864738,40.92921,-73.864738,40.92921],
+  "bbox": [
+    -73.864738,
+    40.92921,
+    -73.864738,
+    40.92921
+],
   "geometry": {"coordinates":[-73.864738,40.92921],"type":"Point"}
 }

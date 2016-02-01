@@ -2,13 +2,14 @@
   "id": 319820791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.621485,42.799072,-78.621485,42.799072",
     "geom:latitude":42.799072,
     "geom:longitude":-78.621485,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1150 Maple Rd",
     "sg:city":"Elma",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528579,
+        102191575,
+        404521341,
         85633793,
         85979437,
-        102082387
+        102082387,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"9dd876a9ade55b993926107b69d3e40d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404521341,
             "locality_id":85979437,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528579,
             "region_id":85688543,
             "venue_id":319820791
         }
     ],
     "wof:id":319820791,
-    "wof:lastmodified":1449024492,
+    "wof:lastmodified":1454126783,
     "wof:name":"Steuben Foods Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528579,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "fluid"
     ]
 },
-  "bbox": [-78.621485,42.799072,-78.621485,42.799072],
-  "geometry": {"coordinates":[-78.621485,42.799072],"type":"Point"}
+  "bbox": [
+    -78.621485,
+    42.799072,
+    -78.621485,
+    42.799072
+],
+  "geometry": {"coordinates":[-78.62148500000001,42.799072],"type":"Point"}
 }

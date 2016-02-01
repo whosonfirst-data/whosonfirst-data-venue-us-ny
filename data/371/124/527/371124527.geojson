@@ -2,13 +2,14 @@
   "id": 371124527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.782983,42.981287,-78.782983,42.981287",
     "geom:latitude":42.981287,
     "geom:longitude":-78.782983,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"184 Park Forest Dr",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837253,
+        102191575,
+        404522321,
         85633793,
+        85979411,
         102082387,
-        85837253
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +53,18 @@
     "wof:geomhash":"83016e9e79e5a7d0c75f08766cf148bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522321,
+            "locality_id":85979411,
             "neighbourhood_id":85837253,
             "region_id":85688543,
             "venue_id":371124527
         }
     ],
     "wof:id":371124527,
-    "wof:lastmodified":1449050072,
+    "wof:lastmodified":1454129279,
     "wof:name":"Health Care Consulting",
     "wof:parent_id":85837253,
     "wof:placetype":"venue",
@@ -73,6 +78,11 @@
         "home"
     ]
 },
-  "bbox": [-78.782983,42.981287,-78.782983,42.981287],
+  "bbox": [
+    -78.782983,
+    42.981287,
+    -78.782983,
+    42.981287
+],
   "geometry": {"coordinates":[-78.782983,42.981287],"type":"Point"}
 }

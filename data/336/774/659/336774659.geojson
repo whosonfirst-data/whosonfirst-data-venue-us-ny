@@ -2,13 +2,14 @@
   "id": 336774659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.902936,40.877344,-73.902936,40.877344",
     "geom:latitude":40.877344,
     "geom:longitude":-73.902936,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"3073 Bailey Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85828377,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85828377
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"0fb3f66544ebe431f732588813b4117d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85828377,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":336774659,
-    "wof:lastmodified":1448997372,
+    "wof:lastmodified":1454122673,
     "wof:name":"USA Locksmiths",
     "wof:parent_id":85828377,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-73.902936,40.877344,-73.902936,40.877344],
+  "bbox": [
+    -73.902936,
+    40.877344,
+    -73.902936,
+    40.877344
+],
   "geometry": {"coordinates":[-73.902936,40.877344],"type":"Point"}
 }

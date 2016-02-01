@@ -2,13 +2,14 @@
   "id": 354226871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.4235,40.865898,-73.4235,40.865898",
     "geom:latitude":40.865898,
     "geom:longitude":-73.4235,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"495 New York Ave",
     "sg:city":"Huntington",
     "sg:classifiers":[
@@ -25,11 +26,13 @@
     "sg:website":"www.reinwaldsbakery.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85820109,
+        102191575,
+        404522515,
         85633793,
-        85979675,
+        85979787,
         102082395,
-        85820109
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +42,18 @@
     "wof:geomhash":"a82d3cf700e09fbc0ffbfb3e29515a5f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979675,
+            "localadmin_id":404522515,
+            "locality_id":85979787,
             "neighbourhood_id":85820109,
             "region_id":85688543,
             "venue_id":354226871
         }
     ],
     "wof:id":354226871,
-    "wof:lastmodified":1449067195,
+    "wof:lastmodified":1454131159,
     "wof:name":"Reinwald's Bakery",
     "wof:parent_id":85820109,
     "wof:placetype":"venue",
@@ -57,6 +61,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.4235,40.865898,-73.4235,40.865898],
+  "bbox": [
+    -73.4235,
+    40.865898,
+    -73.4235,
+    40.865898
+],
   "geometry": {"coordinates":[-73.4235,40.865898],"type":"Point"}
 }

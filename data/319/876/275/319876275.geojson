@@ -2,13 +2,14 @@
   "id": 319876275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.996936,40.750134,-73.996936,40.750134",
     "geom:latitude":40.750134,
     "geom:longitude":-73.996936,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"356 W 30 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810589,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810589
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"9fecb4d2d3f239aa682c73b46846f07e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810589,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":319876275,
-    "wof:lastmodified":1449024248,
+    "wof:lastmodified":1454126740,
     "wof:name":"Samuel Pompa",
     "wof:parent_id":85810589,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "apartment"
     ]
 },
-  "bbox": [-73.996936,40.750134,-73.996936,40.750134],
-  "geometry": {"coordinates":[-73.996936,40.750134],"type":"Point"}
+  "bbox": [
+    -73.996936,
+    40.750134,
+    -73.996936,
+    40.750134
+],
+  "geometry": {"coordinates":[-73.99693600000001,40.750134],"type":"Point"}
 }

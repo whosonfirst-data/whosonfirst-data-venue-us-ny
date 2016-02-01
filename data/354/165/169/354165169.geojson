@@ -2,13 +2,14 @@
   "id": 354165169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.952793,43.099687,-78.952793,43.099687",
     "geom:latitude":43.099687,
     "geom:longitude":-78.952793,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9400 Porter Rd",
     "sg:city":"Niagara Falls",
     "sg:classifiers":[
@@ -24,8 +25,12 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102529975,
+        85688543,
+        102191575,
+        404522743,
         85633793,
-        85688543
+        102081767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,23 +40,29 @@
     "wof:geomhash":"594364868f96bb59cc12e33b30e2a2bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102529975,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081767,
+            "localadmin_id":404522743,
             "region_id":85688543,
             "venue_id":354165169
         }
     ],
     "wof:id":354165169,
-    "wof:lastmodified":1449067667,
+    "wof:lastmodified":1454131307,
     "wof:name":"US Area Maintenance Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":102529975,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.952793,43.099687,-78.952793,43.099687],
+  "bbox": [
+    -78.952793,
+    43.099687,
+    -78.952793,
+    43.099687
+],
   "geometry": {"coordinates":[-78.952793,43.099687],"type":"Point"}
 }

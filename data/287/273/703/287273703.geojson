@@ -2,13 +2,14 @@
   "id": 287273703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.472278,43.386178,-76.472278,43.386178",
     "geom:latitude":43.386178,
     "geom:longitude":-76.472278,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2094 Co Rte 8",
     "sg:city":"Oswego",
     "sg:classifiers":[
@@ -27,8 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85978589,
+        102081783,
+        85820183
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +42,18 @@
     "wof:geomhash":"dc13c91794433630a1e04842948aeda3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081783,
+            "locality_id":85978589,
+            "neighbourhood_id":85820183,
             "region_id":85688543,
             "venue_id":287273703
         }
     ],
     "wof:id":287273703,
-    "wof:lastmodified":1449001118,
+    "wof:lastmodified":1454123860,
     "wof:name":"Jones Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":85820183,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +61,11 @@
         "residential"
     ]
 },
-  "bbox": [-76.472278,43.386178,-76.472278,43.386178],
+  "bbox": [
+    -76.472278,
+    43.386178,
+    -76.472278,
+    43.386178
+],
   "geometry": {"coordinates":[-76.472278,43.386178],"type":"Point"}
 }

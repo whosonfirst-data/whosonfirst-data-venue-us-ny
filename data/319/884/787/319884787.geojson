@@ -2,13 +2,14 @@
   "id": 319884787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.194622,43.229333,-74.194622,43.229333",
     "geom:latitude":43.229333,
     "geom:longitude":-74.194622,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"122 High Rock Rd",
     "sg:city":"Northville",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528689,
+        102191575,
+        404522443,
         85633793,
+        85978037,
+        102081813,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"cc4eebe81c59f9538a224ee44ce1cd7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081813,
+            "localadmin_id":404522443,
+            "locality_id":85978037,
+            "neighbourhood_id":420528689,
             "region_id":85688543,
             "venue_id":319884787
         }
     ],
     "wof:id":319884787,
-    "wof:lastmodified":1449024738,
+    "wof:lastmodified":1454126825,
     "wof:name":"H&I Home Improvements",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528689,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "house"
     ]
 },
-  "bbox": [-74.194622,43.229333,-74.194622,43.229333],
+  "bbox": [
+    -74.194622,
+    43.229333,
+    -74.194622,
+    43.229333
+],
   "geometry": {"coordinates":[-74.194622,43.229333],"type":"Point"}
 }

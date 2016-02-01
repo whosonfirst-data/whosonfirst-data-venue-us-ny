@@ -2,13 +2,14 @@
   "id": 303546325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.144104,43.03145,-76.144104,43.03145",
     "geom:latitude":43.03145,
     "geom:longitude":-76.144104,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"500 Oakwood Ave",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529343,
+        102191575,
+        404522851,
         85633793,
         85977785,
-        102082351
+        102082351,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"dfc312a83d5328a999a9fc1fb4b46e7d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529343,
             "region_id":85688543,
             "venue_id":303546325
         }
     ],
     "wof:id":303546325,
-    "wof:lastmodified":1448998110,
+    "wof:lastmodified":1454122984,
     "wof:name":"Food King",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529343,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.144104,43.03145,-76.144104,43.03145],
+  "bbox": [
+    -76.144104,
+    43.03145,
+    -76.144104,
+    43.03145
+],
   "geometry": {"coordinates":[-76.144104,43.03145],"type":"Point"}
 }

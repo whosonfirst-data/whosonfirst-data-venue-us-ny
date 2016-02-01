@@ -2,13 +2,14 @@
   "id": 354074817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.609276,40.669107,-73.609276,40.669107",
     "geom:latitude":40.669107,
     "geom:longitude":-73.609276,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1779 Grand Ave",
     "sg:city":"Baldwin",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529133,
+        102191575,
+        404521473,
         85633793,
         85979173,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"0620d0f4e2ac88c5c209070315cd8d3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979173,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529133,
             "region_id":85688543,
             "venue_id":354074817
         }
     ],
     "wof:id":354074817,
-    "wof:lastmodified":1449066859,
+    "wof:lastmodified":1454131055,
     "wof:name":"Radio Shack",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529133,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.609276,40.669107,-73.609276,40.669107],
-  "geometry": {"coordinates":[-73.609276,40.669107],"type":"Point"}
+  "bbox": [
+    -73.609276,
+    40.669107,
+    -73.609276,
+    40.669107
+],
+  "geometry": {"coordinates":[-73.60927599999999,40.669107],"type":"Point"}
 }

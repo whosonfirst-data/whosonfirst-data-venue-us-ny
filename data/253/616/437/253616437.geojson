@@ -2,13 +2,14 @@
   "id": 253616437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.04982,40.778996,-73.04982,40.778996",
     "geom:latitude":40.778996,
     "geom:longitude":-73.04982,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Colin Dr",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
-        102082395
+        85979945,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"a0990e269abec94bb86275d229e2f92f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
+            "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":253616437
         }
     ],
     "wof:id":253616437,
-    "wof:lastmodified":1449065004,
+    "wof:lastmodified":1454130613,
     "wof:name":"Bob Vinero Childrens Fndtn",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892861,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.04982,40.778996,-73.04982,40.778996],
+  "bbox": [
+    -73.04982,
+    40.778996,
+    -73.04982,
+    40.778996
+],
   "geometry": {"coordinates":[-73.04982,40.778996],"type":"Point"}
 }

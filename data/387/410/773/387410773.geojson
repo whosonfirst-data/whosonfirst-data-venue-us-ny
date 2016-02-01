@@ -2,13 +2,14 @@
   "id": 387410773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.707054,43.102846,-78.707054,43.102846",
     "geom:latitude":43.102846,
     "geom:longitude":-78.707054,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5949 Dunnigan Rd",
     "sg:city":"Lockport",
     "sg:classifiers":[
@@ -30,7 +31,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529193,
+        102191575,
+        404522737,
         85633793,
+        85979541,
+        102081767,
         85688543
     ],
     "wof:breaches":[],
@@ -41,18 +47,20 @@
     "wof:geomhash":"327f06e2a9ebb5ae00cf63692d728693",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081767,
+            "localadmin_id":404522737,
+            "locality_id":85979541,
+            "neighbourhood_id":420529193,
             "region_id":85688543,
             "venue_id":387410773
         }
     ],
     "wof:id":387410773,
-    "wof:lastmodified":1449056169,
+    "wof:lastmodified":1454129544,
     "wof:name":"Krafft Trucking Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529193,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -63,6 +71,11 @@
         "trucking"
     ]
 },
-  "bbox": [-78.707054,43.102846,-78.707054,43.102846],
+  "bbox": [
+    -78.707054,
+    43.102846,
+    -78.707054,
+    43.102846
+],
   "geometry": {"coordinates":[-78.707054,43.102846],"type":"Point"}
 }

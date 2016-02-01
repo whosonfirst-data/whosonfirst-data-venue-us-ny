@@ -2,13 +2,14 @@
   "id": 403707491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.127795,40.637042,-74.127795,40.637042",
     "geom:latitude":40.637042,
     "geom:longitude":-74.127795,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"59 Rector St",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865885,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85865885
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"45c9ed1833863d7bbf6514c244f5f44e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865885,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":403707491,
-    "wof:lastmodified":1449055766,
+    "wof:lastmodified":1454129485,
     "wof:name":"May Kam Auto Center",
     "wof:parent_id":85865885,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "dealer"
     ]
 },
-  "bbox": [-74.127795,40.637042,-74.127795,40.637042],
-  "geometry": {"coordinates":[-74.127795,40.637042],"type":"Point"}
+  "bbox": [
+    -74.127795,
+    40.637042,
+    -74.127795,
+    40.637042
+],
+  "geometry": {"coordinates":[-74.12779500000001,40.637042],"type":"Point"}
 }

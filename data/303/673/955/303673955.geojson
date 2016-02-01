@@ -2,13 +2,14 @@
   "id": 303673955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.120547,41.355848,-74.120547,41.355848",
     "geom:latitude":41.355848,
     "geom:longitude":-74.120547,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13 Ridge Rd",
     "sg:city":"Highland Mills",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529451,
+        102191575,
+        404522927,
         85633793,
         85978219,
-        102083061
+        102083061,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"2114d47c148b10df1135cb8031da36d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
+            "localadmin_id":404522927,
             "locality_id":85978219,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529451,
             "region_id":85688543,
             "venue_id":303673955
         }
     ],
     "wof:id":303673955,
-    "wof:lastmodified":1448999066,
+    "wof:lastmodified":1454123312,
     "wof:name":"Hauser Eric A Carpentry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529451,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.120547,41.355848,-74.120547,41.355848],
+  "bbox": [
+    -74.120547,
+    41.355848,
+    -74.120547,
+    41.355848
+],
   "geometry": {"coordinates":[-74.120547,41.355848],"type":"Point"}
 }

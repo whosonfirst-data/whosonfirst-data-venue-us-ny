@@ -2,13 +2,14 @@
   "id": 303362385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.658048,40.635207,-73.658048,40.635207",
     "geom:latitude":40.635207,
     "geom:longitude":-73.658048,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 James St",
     "sg:city":"East Rockaway",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865343,
+        102191575,
+        404521473,
         85633793,
         85979143,
         102082371,
-        85865343
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"811c8f4ff7d77becc02c65e83d5fa810",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979143,
             "neighbourhood_id":85865343,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303362385,
-    "wof:lastmodified":1448999699,
+    "wof:lastmodified":1454123485,
     "wof:name":"East Rockaway Police Dept",
     "wof:parent_id":85865343,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "department"
     ]
 },
-  "bbox": [-73.658048,40.635207,-73.658048,40.635207],
-  "geometry": {"coordinates":[-73.658048,40.635207],"type":"Point"}
+  "bbox": [
+    -73.658048,
+    40.635207,
+    -73.658048,
+    40.635207
+],
+  "geometry": {"coordinates":[-73.65804799999999,40.635207],"type":"Point"}
 }

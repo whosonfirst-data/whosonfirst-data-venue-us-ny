@@ -2,13 +2,14 @@
   "id": 353841349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.229464,40.734369,-73.229464,40.734369",
     "geom:latitude":40.734369,
     "geom:longitude":-73.229464,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"55 Greene St",
     "sg:city":"Bay Shore",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530029,
+        102191575,
+        404522517,
         85633793,
-        85979719,
-        102082395
+        85979775,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"68d402a0b7efa7cb7a38b098168cb496",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979719,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522517,
+            "locality_id":85979775,
+            "neighbourhood_id":420530029,
             "region_id":85688543,
             "venue_id":353841349
         }
     ],
     "wof:id":353841349,
-    "wof:lastmodified":1449018795,
+    "wof:lastmodified":1454126106,
     "wof:name":"CMS Heat Transfer",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530029,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "fabricated"
     ]
 },
-  "bbox": [-73.229464,40.734369,-73.229464,40.734369],
-  "geometry": {"coordinates":[-73.229464,40.734369],"type":"Point"}
+  "bbox": [
+    -73.229464,
+    40.734369,
+    -73.229464,
+    40.734369
+],
+  "geometry": {"coordinates":[-73.22946399999999,40.734369],"type":"Point"}
 }

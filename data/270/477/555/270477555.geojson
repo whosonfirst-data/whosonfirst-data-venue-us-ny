@@ -2,13 +2,14 @@
   "id": 270477555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.19143,40.831769,-73.19143,40.831769",
     "geom:latitude":40.831769,
     "geom:longitude":-73.19143,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14 Sarah Dr",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530053,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"dfc0016304bf840de85b39f214c84f17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530053,
             "region_id":85688543,
             "venue_id":270477555
         }
     ],
     "wof:id":270477555,
-    "wof:lastmodified":1449009058,
+    "wof:lastmodified":1454124426,
     "wof:name":"Long Island Indicator Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530053,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "industrial"
     ]
 },
-  "bbox": [-73.19143,40.831769,-73.19143,40.831769],
+  "bbox": [
+    -73.19143,
+    40.831769,
+    -73.19143,
+    40.831769
+],
   "geometry": {"coordinates":[-73.19143,40.831769],"type":"Point"}
 }

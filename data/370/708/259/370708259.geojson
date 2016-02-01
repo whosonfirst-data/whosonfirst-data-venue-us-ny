@@ -2,13 +2,14 @@
   "id": 370708259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.417309,44.724067,-73.417309,44.724067",
     "geom:latitude":44.724067,
     "geom:longitude":-73.417309,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1539 Cumberland Head Rd",
     "sg:city":"Plattsburgh",
     "sg:classifiers":[
@@ -28,8 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85979399,
+        102081797,
+        85865323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +43,18 @@
     "wof:geomhash":"b4e8a2f5bd248f3727f1f1ef9ebeadea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081797,
+            "locality_id":85979399,
+            "neighbourhood_id":85865323,
             "region_id":85688543,
             "venue_id":370708259
         }
     ],
     "wof:id":370708259,
-    "wof:lastmodified":1449029620,
+    "wof:lastmodified":1454127469,
     "wof:name":"Roger Brothers Construction Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865323,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +63,11 @@
         "residential"
     ]
 },
-  "bbox": [-73.417309,44.724067,-73.417309,44.724067],
+  "bbox": [
+    -73.417309,
+    44.724067,
+    -73.417309,
+    44.724067
+],
   "geometry": {"coordinates":[-73.417309,44.724067],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286358629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.014053,41.443116,-74.014053,41.443116",
     "geom:latitude":41.443116,
     "geom:longitude":-74.014053,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Clark Ave",
     "sg:city":"Cornwall On Hdsn",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85812353,
+        102191575,
+        404522801,
         85633793,
+        85978241,
         102083061,
-        85812353
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +45,18 @@
     "wof:geomhash":"9ece18050b197862922e5681815209aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083061,
-            "locality_id":-1,
+            "localadmin_id":404522801,
+            "locality_id":85978241,
             "neighbourhood_id":85812353,
             "region_id":85688543,
             "venue_id":286358629
         }
     ],
     "wof:id":286358629,
-    "wof:lastmodified":1449016415,
+    "wof:lastmodified":1454125615,
     "wof:name":"Collector Firearms",
     "wof:parent_id":85812353,
     "wof:placetype":"venue",
@@ -62,6 +67,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [-74.014053,41.443116,-74.014053,41.443116],
+  "bbox": [
+    -74.014053,
+    41.443116,
+    -74.014053,
+    41.443116
+],
   "geometry": {"coordinates":[-74.014053,41.443116],"type":"Point"}
 }

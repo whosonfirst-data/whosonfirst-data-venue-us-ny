@@ -2,13 +2,14 @@
   "id": 304042655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.965978,40.693348,-73.965978,40.693348",
     "geom:latitude":40.693348,
     "geom:longitude":-73.965978,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"466 Myrtle Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865613,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865613
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"1ebbe6d93ee9b0e706509ba1b27f65c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865613,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":304042655,
-    "wof:lastmodified":1449044020,
+    "wof:lastmodified":1454129022,
     "wof:name":"Sprinkles",
     "wof:parent_id":85865613,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.965978,40.693348,-73.965978,40.693348],
-  "geometry": {"coordinates":[-73.965978,40.693348],"type":"Point"}
+  "bbox": [
+    -73.965978,
+    40.693348,
+    -73.965978,
+    40.693348
+],
+  "geometry": {"coordinates":[-73.96597800000001,40.693348],"type":"Point"}
 }

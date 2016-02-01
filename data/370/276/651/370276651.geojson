@@ -2,13 +2,14 @@
   "id": 370276651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.534422,40.744624,-73.534422,40.744624",
     "geom:latitude":40.744624,
     "geom:longitude":-73.534422,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"28 E Old Country Rd # 2",
     "sg:city":"Hicksville",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85856711,
+        102191575,
+        404521475,
         85633793,
-        85979063,
+        85979093,
         102082371,
-        85856711
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"0129b0595b8f51654d372e2d88044e40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979063,
+            "localadmin_id":404521475,
+            "locality_id":85979093,
             "neighbourhood_id":85856711,
             "region_id":85688543,
             "venue_id":370276651
         }
     ],
     "wof:id":370276651,
-    "wof:lastmodified":1449029190,
+    "wof:lastmodified":1454127346,
     "wof:name":"All Care Inc",
     "wof:parent_id":85856711,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "traffic"
     ]
 },
-  "bbox": [-73.534422,40.744624,-73.534422,40.744624],
-  "geometry": {"coordinates":[-73.534422,40.744624],"type":"Point"}
+  "bbox": [
+    -73.534422,
+    40.744624,
+    -73.534422,
+    40.744624
+],
+  "geometry": {"coordinates":[-73.53442200000001,40.744624],"type":"Point"}
 }

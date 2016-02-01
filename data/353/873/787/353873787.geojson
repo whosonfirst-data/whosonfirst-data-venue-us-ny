@@ -2,13 +2,14 @@
   "id": 353873787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.737801,40.6297,-73.737801,40.6297",
     "geom:latitude":40.6297,
     "geom:longitude":-73.737801,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"480 Rockaway Tpke",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -24,11 +25,15 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
-        85979053,
-        102082371,
-        85893091
+        85977539,
+        102082361,
+        85688543,
+        85865647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +43,42 @@
     "wof:geomhash":"df93356f1a0f413df11335282b48507f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082371,
-            "locality_id":85979053,
-            "neighbourhood_id":85893091,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":85823673,
+            "region_id":85688543,
+            "venue_id":353873787
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":85865647,
             "region_id":85688543,
             "venue_id":353873787
         }
     ],
     "wof:id":353873787,
-    "wof:lastmodified":1449018788,
+    "wof:lastmodified":1454126105,
     "wof:name":"7 Eleven",
-    "wof:parent_id":85893091,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.737801,40.6297,-73.737801,40.6297],
+  "bbox": [
+    -73.737801,
+    40.6297,
+    -73.737801,
+    40.6297
+],
   "geometry": {"coordinates":[-73.737801,40.6297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370976095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.825697,42.72747,-78.825697,42.72747",
     "geom:latitude":42.72747,
     "geom:longitude":-78.825697,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6161 S Park Ave",
     "sg:city":"Hamburg",
     "sg:classifiers":[
@@ -32,10 +33,13 @@
     "sg:website":"http://www.dcglaw.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847477,
+        102191575,
+        404522347,
         85633793,
+        85978013,
         102082387,
-        85847477
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"fb64d498dbd99826e8878aae8e5d18fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
-            "locality_id":-1,
+            "localadmin_id":404522347,
+            "locality_id":85978013,
             "neighbourhood_id":85847477,
             "region_id":85688543,
             "venue_id":370976095
         }
     ],
     "wof:id":370976095,
-    "wof:lastmodified":1449030486,
+    "wof:lastmodified":1454127726,
     "wof:name":"Gaughan Dennis",
     "wof:parent_id":85847477,
     "wof:placetype":"venue",
@@ -69,6 +74,11 @@
         "bankruptcy"
     ]
 },
-  "bbox": [-78.825697,42.72747,-78.825697,42.72747],
-  "geometry": {"coordinates":[-78.825697,42.72747],"type":"Point"}
+  "bbox": [
+    -78.825697,
+    42.72747,
+    -78.825697,
+    42.72747
+],
+  "geometry": {"coordinates":[-78.82569700000001,42.72747],"type":"Point"}
 }

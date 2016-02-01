@@ -2,13 +2,14 @@
   "id": 387867783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.985673,40.755314,-73.985673,40.755314",
     "geom:latitude":40.755314,
     "geom:longitude":-73.985673,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"130 W 42nd St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867077,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85867077
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"b0c82d977a700c2207632f29d6654c23",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85867077,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387867783,
-    "wof:lastmodified":1449057749,
+    "wof:lastmodified":1454129821,
     "wof:name":"Innovative Drug Delivery",
     "wof:parent_id":85867077,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "delivery"
     ]
 },
-  "bbox": [-73.985673,40.755314,-73.985673,40.755314],
-  "geometry": {"coordinates":[-73.985673,40.755314],"type":"Point"}
+  "bbox": [
+    -73.985673,
+    40.755314,
+    -73.985673,
+    40.755314
+],
+  "geometry": {"coordinates":[-73.98567300000001,40.755314],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 371161483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.014194,40.783851,-73.014194,40.783851",
     "geom:latitude":40.783851,
     "geom:longitude":-73.014194,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"96 Harris St",
     "sg:city":"Patchogue",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840885,
+        102191575,
+        404521441,
         85633793,
         85978461,
         102082395,
-        85840885
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"ab093f496f2b3aae7573bcbffac27d2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521441,
             "locality_id":85978461,
             "neighbourhood_id":85840885,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":371161483,
-    "wof:lastmodified":1449049438,
+    "wof:lastmodified":1454129131,
     "wof:name":"Burke's Hearing Aid Sales",
     "wof:parent_id":85840885,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "impaired"
     ]
 },
-  "bbox": [-73.014194,40.783851,-73.014194,40.783851],
+  "bbox": [
+    -73.014194,
+    40.783851,
+    -73.014194,
+    40.783851
+],
   "geometry": {"coordinates":[-73.014194,40.783851],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303522421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.125693,43.032493,-76.125693,43.032493",
     "geom:latitude":43.032493,
     "geom:longitude":-76.125693,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"107 Terrace Rd",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881277,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881277
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"a8a3b86e7f87dab53bdcf54cdbf3a20b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881277,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":303522421,
-    "wof:lastmodified":1448999285,
+    "wof:lastmodified":1454123372,
     "wof:name":"Haggerty Engineers",
     "wof:parent_id":85881277,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "engineer"
     ]
 },
-  "bbox": [-76.125693,43.032493,-76.125693,43.032493],
+  "bbox": [
+    -76.125693,
+    43.032493,
+    -76.125693,
+    43.032493
+],
   "geometry": {"coordinates":[-76.125693,43.032493],"type":"Point"}
 }

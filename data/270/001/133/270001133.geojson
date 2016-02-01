@@ -2,13 +2,14 @@
   "id": 270001133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.955475,40.712266,-73.955475,40.712266",
     "geom:latitude":40.712266,
     "geom:longitude":-73.955475,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"318 Grand St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865603,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85892951
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +44,20 @@
     "wof:geomhash":"26f39938dd0fe13f4d603d99aa27c515",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":85892951,
+            "neighbourhood_id":85865603,
             "region_id":85688543,
             "venue_id":270001133
         }
     ],
     "wof:id":270001133,
-    "wof:lastmodified":1449009182,
+    "wof:lastmodified":1454124446,
     "wof:name":"Jabz LLC",
-    "wof:parent_id":85892951,
+    "wof:parent_id":85865603,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.955475,40.712266,-73.955475,40.712266],
-  "geometry": {"coordinates":[-73.955475,40.712266],"type":"Point"}
+  "bbox": [
+    -73.955475,
+    40.712266,
+    -73.955475,
+    40.712266
+],
+  "geometry": {"coordinates":[-73.95547500000001,40.712266],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 353871529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.738373,40.628059,-73.738373,40.628059",
     "geom:latitude":40.628059,
     "geom:longitude":-73.738373,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Bay Blvd Unit 2",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -35,11 +36,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        102534365,
+        85823673,
+        102191575,
+        404521211,
         85633793,
-        85979053,
-        102082371,
-        85893091
+        85977539,
+        102082361,
+        85688543,
+        85865647
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +54,32 @@
     "wof:geomhash":"0ecc8acef479688700a28eeb198159dd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102534365,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082371,
-            "locality_id":85979053,
-            "neighbourhood_id":85893091,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":85823673,
+            "region_id":85688543,
+            "venue_id":353871529
+        },
+        {
+            "campus_id":102534365,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":85865647,
             "region_id":85688543,
             "venue_id":353871529
         }
     ],
     "wof:id":353871529,
-    "wof:lastmodified":1449019089,
+    "wof:lastmodified":1454126194,
     "wof:name":"Sanitary Department Of Garbage",
-    "wof:parent_id":85893091,
+    "wof:parent_id":102534365,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -72,6 +90,11 @@
         "removal"
     ]
 },
-  "bbox": [-73.738373,40.628059,-73.738373,40.628059],
+  "bbox": [
+    -73.738373,
+    40.628059,
+    -73.738373,
+    40.628059
+],
   "geometry": {"coordinates":[-73.738373,40.628059],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185914879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.977634,40.596379,-73.977634,40.596379",
     "geom:latitude":40.596379,
     "geom:longitude":-73.977634,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2106 W 6th Street",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85822643,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85822643
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"50bfbfbcc9d4c2babbd4d7b86f9e03c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85822643,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":185914879,
-    "wof:lastmodified":1449007220,
+    "wof:lastmodified":1454124223,
     "wof:name":"The Brooklyn Dance Center",
     "wof:parent_id":85822643,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "performing"
     ]
 },
-  "bbox": [-73.977634,40.596379,-73.977634,40.596379],
-  "geometry": {"coordinates":[-73.977634,40.596379],"type":"Point"}
+  "bbox": [
+    -73.977634,
+    40.596379,
+    -73.977634,
+    40.596379
+],
+  "geometry": {"coordinates":[-73.97763399999999,40.596379],"type":"Point"}
 }

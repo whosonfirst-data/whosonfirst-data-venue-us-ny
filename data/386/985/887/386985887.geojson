@@ -2,13 +2,14 @@
   "id": 386985887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.610306,43.160979,-77.610306,43.160979",
     "geom:latitude":43.160979,
     "geom:longitude":-77.610306,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"181 Saint Paul St Apt 6B",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867107,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85867107
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"7d6008d99f24a95ebc4fe71cd818c6a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85867107,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":386985887,
-    "wof:lastmodified":1449028778,
+    "wof:lastmodified":1454127229,
     "wof:name":"Sign Guy",
     "wof:parent_id":85867107,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "customizing"
     ]
 },
-  "bbox": [-77.610306,43.160979,-77.610306,43.160979],
-  "geometry": {"coordinates":[-77.610306,43.160979],"type":"Point"}
+  "bbox": [
+    -77.610306,
+    43.160979,
+    -77.610306,
+    43.160979
+],
+  "geometry": {"coordinates":[-77.61030599999999,43.160979],"type":"Point"}
 }

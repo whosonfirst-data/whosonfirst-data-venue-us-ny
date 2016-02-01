@@ -2,13 +2,14 @@
   "id": 387751829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.194062,41.220116,-74.194062,41.220116",
     "geom:latitude":41.220116,
     "geom:longitude":-74.194062,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Wee Wah Rd",
     "sg:city":"Tuxedo Park",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85826821,
+        102083061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"f21f455ddb3428df558418ad9c076521",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083061,
+            "neighbourhood_id":85826821,
             "region_id":85688543,
             "venue_id":387751829
         }
     ],
     "wof:id":387751829,
-    "wof:lastmodified":1449056329,
+    "wof:lastmodified":1454129568,
     "wof:name":"Tuxedo Park Sewer Plant",
-    "wof:parent_id":-1,
+    "wof:parent_id":85826821,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "village"
     ]
 },
-  "bbox": [-74.194062,41.220116,-74.194062,41.220116],
+  "bbox": [
+    -74.194062,
+    41.220116,
+    -74.194062,
+    41.220116
+],
   "geometry": {"coordinates":[-74.194062,41.220116],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 319968039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.115282,40.754415,-73.115282,40.754415",
     "geom:latitude":40.754415,
     "geom:longitude":-73.115282,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4630 Sunrise Hwy",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"05d56c0d4eeb5d0e9dcadc5e560fcea5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":319968039
         }
     ],
     "wof:id":319968039,
-    "wof:lastmodified":1449024151,
+    "wof:lastmodified":1454126724,
     "wof:name":"Speedway Locksmith",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-73.115282,40.754415,-73.115282,40.754415],
-  "geometry": {"coordinates":[-73.115282,40.754415],"type":"Point"}
+  "bbox": [
+    -73.115282,
+    40.754415,
+    -73.115282,
+    40.754415
+],
+  "geometry": {"coordinates":[-73.11528199999999,40.754415],"type":"Point"}
 }

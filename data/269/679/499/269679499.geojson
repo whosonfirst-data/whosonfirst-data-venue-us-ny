@@ -2,13 +2,14 @@
   "id": 269679499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.720824,40.689071,-73.720824,40.689071",
     "geom:latitude":40.689071,
     "geom:longitude":-73.720824,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2016 Linden Blvd",
     "sg:city":"Elmont",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529143,
+        102191575,
+        404521473,
         85633793,
         85979041,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"8b9448473426477727382e1dfa029e4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979041,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529143,
             "region_id":85688543,
             "venue_id":269679499
         }
     ],
     "wof:id":269679499,
-    "wof:lastmodified":1449037671,
+    "wof:lastmodified":1454128692,
     "wof:name":"Perruzo Ent",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529143,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "clothing"
     ]
 },
-  "bbox": [-73.720824,40.689071,-73.720824,40.689071],
-  "geometry": {"coordinates":[-73.720824,40.689071],"type":"Point"}
+  "bbox": [
+    -73.720824,
+    40.689071,
+    -73.720824,
+    40.689071
+],
+  "geometry": {"coordinates":[-73.72082399999999,40.689071],"type":"Point"}
 }

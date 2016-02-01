@@ -2,13 +2,14 @@
   "id": 354104925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.118468,40.75404,-73.118468,40.75404",
     "geom:latitude":40.75404,
     "geom:longitude":-73.118468,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4525 Sunrise Hwy",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"www.northforkbank.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85837663,
+        102191575,
+        404522517,
         85633793,
-        85979697,
+        85979705,
         102082395,
-        85837663
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"664cc46ef0935e337c30ace18361596d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979697,
+            "localadmin_id":404522517,
+            "locality_id":85979705,
             "neighbourhood_id":85837663,
             "region_id":85688543,
             "venue_id":354104925
         }
     ],
     "wof:id":354104925,
-    "wof:lastmodified":1449066621,
+    "wof:lastmodified":1454130983,
     "wof:name":"CapitalOne",
     "wof:parent_id":85837663,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-73.118468,40.75404,-73.118468,40.75404],
-  "geometry": {"coordinates":[-73.118468,40.75404],"type":"Point"}
+  "bbox": [
+    -73.118468,
+    40.75404,
+    -73.118468,
+    40.75404
+],
+  "geometry": {"coordinates":[-73.11846799999999,40.75404],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185661503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.985598,40.657805,-73.985598,40.657805",
     "geom:latitude":40.657805,
     "geom:longitude":-73.985598,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"439 20th St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.stanleysteemer.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85851575,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85851575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"157b1dacb620e13c23c3dbc23d7d1c0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85851575,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":185661503,
-    "wof:lastmodified":1449008051,
+    "wof:lastmodified":1454124332,
     "wof:name":"Stanley Steemer",
     "wof:parent_id":85851575,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "carpet"
     ]
 },
-  "bbox": [-73.985598,40.657805,-73.985598,40.657805],
+  "bbox": [
+    -73.985598,
+    40.657805,
+    -73.985598,
+    40.657805
+],
   "geometry": {"coordinates":[-73.985598,40.657805],"type":"Point"}
 }

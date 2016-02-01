@@ -2,13 +2,14 @@
   "id": 353780801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.452027,41.043334,-72.452027,41.043334",
     "geom:latitude":41.043334,
     "geom:longitude":-72.452027,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"43385 State Hwy 25",
     "sg:city":"Peconic",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85816217,
+        102191575,
+        404523179,
         85633793,
+        85979685,
+        102082395,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"b39bf3a3c96ff6e04e76cf4a2ac24cd6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082395,
+            "localadmin_id":404523179,
+            "locality_id":85979685,
+            "neighbourhood_id":85816217,
             "region_id":85688543,
             "venue_id":353780801
         }
     ],
     "wof:id":353780801,
-    "wof:lastmodified":1449020161,
+    "wof:lastmodified":1454126498,
     "wof:name":"Vineyards Hair Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816217,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-72.452027,41.043334,-72.452027,41.043334],
+  "bbox": [
+    -72.452027,
+    41.043334,
+    -72.452027,
+    41.043334
+],
   "geometry": {"coordinates":[-72.452027,41.043334],"type":"Point"}
 }

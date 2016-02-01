@@ -2,13 +2,14 @@
   "id": 286551631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.882833,41.540169,-73.882833,41.540169",
     "geom:latitude":41.540169,
     "geom:longitude":-73.882833,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1123 State Hwy 52",
     "sg:city":"Fishkill",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528475,
+        102191575,
+        404522225,
         85633793,
+        85979249,
+        102082363,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"b83a9d8758ff27ac436741fad4a3015e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082363,
+            "localadmin_id":404522225,
+            "locality_id":85979249,
+            "neighbourhood_id":420528475,
             "region_id":85688543,
             "venue_id":286551631
         }
     ],
     "wof:id":286551631,
-    "wof:lastmodified":1449015754,
+    "wof:lastmodified":1454125500,
     "wof:name":"Asml US Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528475,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "electronic"
     ]
 },
-  "bbox": [-73.882833,41.540169,-73.882833,41.540169],
-  "geometry": {"coordinates":[-73.882833,41.540169],"type":"Point"}
+  "bbox": [
+    -73.882833,
+    41.540169,
+    -73.882833,
+    41.540169
+],
+  "geometry": {"coordinates":[-73.88283300000001,41.540169],"type":"Point"}
 }

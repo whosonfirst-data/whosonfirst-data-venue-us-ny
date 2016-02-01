@@ -2,13 +2,14 @@
   "id": 353622641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.833099,40.699402,-73.833099,40.699402",
     "geom:latitude":40.699402,
     "geom:longitude":-73.833099,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"11605 Jamaica Ave",
     "sg:city":"Richmond Hill",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844441,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082377,
-        85844441
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"e6d3bdace0be898c328c8c70534b8e4a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85844441,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":353622641,
-    "wof:lastmodified":1449020361,
+    "wof:lastmodified":1454126558,
     "wof:name":"Kim Hyon Mo DDS Dentist",
     "wof:parent_id":85844441,
     "wof:placetype":"venue",
@@ -70,6 +74,11 @@
         "family"
     ]
 },
-  "bbox": [-73.833099,40.699402,-73.833099,40.699402],
+  "bbox": [
+    -73.833099,
+    40.699402,
+    -73.833099,
+    40.699402
+],
   "geometry": {"coordinates":[-73.833099,40.699402],"type":"Point"}
 }

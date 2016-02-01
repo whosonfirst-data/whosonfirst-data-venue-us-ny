@@ -2,13 +2,14 @@
   "id": 354213159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.067101,40.8083,-73.067101,40.8083",
     "geom:latitude":40.8083,
     "geom:longitude":-73.067101,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"481 Furrows Rd",
     "sg:city":"Holbrook",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892863,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979689,
         102082395,
-        85892863
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"3f1996b25591db63f8ecac7f8785931f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979689,
             "neighbourhood_id":85892863,
             "region_id":85688543,
             "venue_id":354213159
         }
     ],
     "wof:id":354213159,
-    "wof:lastmodified":1449065946,
+    "wof:lastmodified":1454130773,
     "wof:name":"Ice Cream Depot",
     "wof:parent_id":85892863,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "yogurt"
     ]
 },
-  "bbox": [-73.067101,40.8083,-73.067101,40.8083],
-  "geometry": {"coordinates":[-73.067101,40.8083],"type":"Point"}
+  "bbox": [
+    -73.067101,
+    40.8083,
+    -73.067101,
+    40.8083
+],
+  "geometry": {"coordinates":[-73.06710099999999,40.8083],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403954337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.394285,41.717031,-74.394285,41.717031",
     "geom:latitude":41.717031,
     "geom:longitude":-74.394285,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Canal St",
     "sg:city":"Ellenville",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"www.matthewspharmacy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816913,
+        102191575,
+        404523275,
         85633793,
-        85978959,
+        85977503,
         102081775,
-        85816913
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"8613f5eae779ee1d96c33a2825033387",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
-            "locality_id":85978959,
+            "localadmin_id":404523275,
+            "locality_id":85977503,
             "neighbourhood_id":85816913,
             "region_id":85688543,
             "venue_id":403954337
         }
     ],
     "wof:id":403954337,
-    "wof:lastmodified":1449055799,
+    "wof:lastmodified":1454129488,
     "wof:name":"Matthews Pharmacy",
     "wof:parent_id":85816913,
     "wof:placetype":"venue",
@@ -74,6 +78,11 @@
         "store"
     ]
 },
-  "bbox": [-74.394285,41.717031,-74.394285,41.717031],
+  "bbox": [
+    -74.394285,
+    41.717031,
+    -74.394285,
+    41.717031
+],
   "geometry": {"coordinates":[-74.394285,41.717031],"type":"Point"}
 }

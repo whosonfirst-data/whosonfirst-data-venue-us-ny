@@ -2,13 +2,14 @@
   "id": 386985489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.603627,43.157782,-77.603627,43.157782",
     "geom:latitude":43.157782,
     "geom:longitude":-77.603627,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"328 E Main St",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a10338975%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867099,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85867099
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"2deb5f77e0b42f028e6ec4d53354eace",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85867099,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":386985489,
-    "wof:lastmodified":1449028775,
+    "wof:lastmodified":1454127229,
     "wof:name":"University Place Apartments",
     "wof:parent_id":85867099,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "apartment"
     ]
 },
-  "bbox": [-77.603627,43.157782,-77.603627,43.157782],
+  "bbox": [
+    -77.603627,
+    43.157782,
+    -77.603627,
+    43.157782
+],
   "geometry": {"coordinates":[-77.603627,43.157782],"type":"Point"}
 }

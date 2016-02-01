@@ -2,13 +2,14 @@
   "id": 320752223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.981859,42.281881,-73.981859,42.281881",
     "geom:latitude":42.281881,
     "geom:longitude":-73.981859,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"80 Silver Spur Rd W",
     "sg:city":"Cairo",
     "sg:classifiers":[
@@ -28,7 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420528781,
+        102191575,
+        404522479,
         85633793,
+        85979321,
+        102082393,
         85688543
     ],
     "wof:breaches":[],
@@ -39,18 +45,20 @@
     "wof:geomhash":"7e8203b800e348da5db093d51875c2e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102082393,
+            "localadmin_id":404522479,
+            "locality_id":85979321,
+            "neighbourhood_id":420528781,
             "region_id":85688543,
             "venue_id":320752223
         }
     ],
     "wof:id":320752223,
-    "wof:lastmodified":1449011884,
+    "wof:lastmodified":1454124863,
     "wof:name":"Everlasting Precast",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528781,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +67,11 @@
         "product"
     ]
 },
-  "bbox": [-73.981859,42.281881,-73.981859,42.281881],
+  "bbox": [
+    -73.981859,
+    42.281881,
+    -73.981859,
+    42.281881
+],
   "geometry": {"coordinates":[-73.981859,42.281881],"type":"Point"}
 }

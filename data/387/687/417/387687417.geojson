@@ -2,13 +2,14 @@
   "id": 387687417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.310011,40.806795,-73.310011,40.806795",
     "geom:latitude":40.806795,
     "geom:longitude":-73.310011,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"18 Campbell Dr",
     "sg:city":"Dix Hills",
     "sg:classifiers":[
@@ -30,10 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530047,
+        102191575,
+        404522515,
         85633793,
         85979779,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"1b4e5f9d2b9bd01ce8dd369f8b481704",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85979779,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530047,
             "region_id":85688543,
             "venue_id":387687417
         }
     ],
     "wof:id":387687417,
-    "wof:lastmodified":1449057165,
+    "wof:lastmodified":1454129719,
     "wof:name":"Tel Star Industries Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530047,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -66,6 +71,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.310011,40.806795,-73.310011,40.806795],
+  "bbox": [
+    -73.310011,
+    40.806795,
+    -73.310011,
+    40.806795
+],
   "geometry": {"coordinates":[-73.310011,40.806795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 370756601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.143611,40.923991,-73.143611,40.923991",
     "geom:latitude":40.923991,
     "geom:longitude":-73.143611,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"216 Christian Ave",
     "sg:city":"Stony Brook",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85824457,
+        102191575,
+        404521441,
         85633793,
-        85978487,
+        85979927,
         102082395,
-        85824457
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"727e9ce13cfbe7f3f8776c909ec71c34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85978487,
+            "localadmin_id":404521441,
+            "locality_id":85979927,
             "neighbourhood_id":85824457,
             "region_id":85688543,
             "venue_id":370756601
         }
     ],
     "wof:id":370756601,
-    "wof:lastmodified":1449031101,
+    "wof:lastmodified":1454127908,
     "wof:name":"Stony Brook Cmmnty Mthdst Chr",
     "wof:parent_id":85824457,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-73.143611,40.923991,-73.143611,40.923991],
-  "geometry": {"coordinates":[-73.143611,40.923991],"type":"Point"}
+  "bbox": [
+    -73.143611,
+    40.923991,
+    -73.143611,
+    40.923991
+],
+  "geometry": {"coordinates":[-73.14361100000001,40.923991],"type":"Point"}
 }

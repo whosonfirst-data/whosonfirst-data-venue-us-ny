@@ -2,13 +2,14 @@
   "id": 253096891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.30672,40.815386,-73.30672,40.815386",
     "geom:latitude":40.815386,
     "geom:longitude":-73.30672,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"52 Mc Lane Ct",
     "sg:city":"Dix Hills",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530047,
+        102191575,
+        404522515,
         85633793,
         85979779,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"92fd58767e4640482e6ca78954d55e70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85979779,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530047,
             "region_id":85688543,
             "venue_id":253096891
         }
     ],
     "wof:id":253096891,
-    "wof:lastmodified":1449063784,
+    "wof:lastmodified":1454130406,
     "wof:name":"Storage Networks",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530047,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "storage"
     ]
 },
-  "bbox": [-73.30672,40.815386,-73.30672,40.815386],
+  "bbox": [
+    -73.30672,
+    40.815386,
+    -73.30672,
+    40.815386
+],
   "geometry": {"coordinates":[-73.30672,40.815386],"type":"Point"}
 }

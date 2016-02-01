@@ -2,13 +2,14 @@
   "id": 370175233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.991579,41.148136,-73.991579,41.148136",
     "geom:latitude":41.148136,
     "geom:longitude":-73.991579,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"27 New Hempstead Rd",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -31,11 +32,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,18 @@
     "wof:geomhash":"322f7e6cc47d6cec8b87ab152a3b4cee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":370175233
         }
     ],
     "wof:id":370175233,
-    "wof:lastmodified":1449031427,
+    "wof:lastmodified":1454128005,
     "wof:name":"Rockland County Clerk",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "for"
     ]
 },
-  "bbox": [-73.991579,41.148136,-73.991579,41.148136],
+  "bbox": [
+    -73.991579,
+    41.148136,
+    -73.991579,
+    41.148136
+],
   "geometry": {"coordinates":[-73.991579,41.148136],"type":"Point"}
 }

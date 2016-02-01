@@ -2,13 +2,14 @@
   "id": 354054905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.010966,40.706938,-74.010966,40.706938",
     "geom:latitude":40.706938,
     "geom:longitude":-74.010966,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"20 Broad St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865711,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85865711
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"fc36c53b7f2c49f4b494bbded6c74cfc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865711,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":354054905,
-    "wof:lastmodified":1449066724,
+    "wof:lastmodified":1454131014,
     "wof:name":"Farins & Assoc Inc",
     "wof:parent_id":85865711,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-74.010966,40.706938,-74.010966,40.706938],
+  "bbox": [
+    -74.010966,
+    40.706938,
+    -74.010966,
+    40.706938
+],
   "geometry": {"coordinates":[-74.010966,40.706938],"type":"Point"}
 }

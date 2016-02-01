@@ -2,13 +2,14 @@
   "id": 403875015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.656419,40.91866,-72.656419,40.91866",
     "geom:latitude":40.91866,
     "geom:longitude":-72.656419,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"415 E Main St",
     "sg:city":"Riverhead",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85841881,
+        102191575,
+        404522671,
         85633793,
-        85979841,
+        85979909,
         102082395,
-        85841881
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +47,18 @@
     "wof:geomhash":"3ce9fdc0d395fc46bcefe7a7fa578428",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979841,
+            "localadmin_id":404522671,
+            "locality_id":85979909,
             "neighbourhood_id":85841881,
             "region_id":85688543,
             "venue_id":403875015
         }
     ],
     "wof:id":403875015,
-    "wof:lastmodified":1449055604,
+    "wof:lastmodified":1454129460,
     "wof:name":"Mobil",
     "wof:parent_id":85841881,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "gas"
     ]
 },
-  "bbox": [-72.656419,40.91866,-72.656419,40.91866],
+  "bbox": [
+    -72.656419,
+    40.91866,
+    -72.656419,
+    40.91866
+],
   "geometry": {"coordinates":[-72.656419,40.91866],"type":"Point"}
 }

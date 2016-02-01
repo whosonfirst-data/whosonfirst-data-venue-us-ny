@@ -2,13 +2,14 @@
   "id": 253671241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.831926,40.884659,-73.831926,40.884659",
     "geom:latitude":40.884659,
     "geom:longitude":-73.831926,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4015 Boston Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865657,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85865657
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"b751d157b7cba4aee1d32922193a8aaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865657,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":253671241,
-    "wof:lastmodified":1449063498,
+    "wof:lastmodified":1454130357,
     "wof:name":"USA Locksmiths",
     "wof:parent_id":85865657,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-73.831926,40.884659,-73.831926,40.884659],
+  "bbox": [
+    -73.831926,
+    40.884659,
+    -73.831926,
+    40.884659
+],
   "geometry": {"coordinates":[-73.831926,40.884659],"type":"Point"}
 }

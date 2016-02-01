@@ -2,13 +2,14 @@
   "id": 353978449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.144639,40.825595,-73.144639,40.825595",
     "geom:latitude":40.825595,
     "geom:longitude":-73.144639,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Mohawk St",
     "sg:city":"Ronkonkoma",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85816389,
+        102191575,
+        404522517,
         85633793,
-        85979773,
+        85979693,
         102082395,
-        85816389
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"ac98a9501979cdb541fa95f9a520fd09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979773,
+            "localadmin_id":404522517,
+            "locality_id":85979693,
             "neighbourhood_id":85816389,
             "region_id":85688543,
             "venue_id":353978449
         }
     ],
     "wof:id":353978449,
-    "wof:lastmodified":1449019737,
+    "wof:lastmodified":1454126377,
     "wof:name":"Dl Machine Works",
     "wof:parent_id":85816389,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.144639,40.825595,-73.144639,40.825595],
+  "bbox": [
+    -73.144639,
+    40.825595,
+    -73.144639,
+    40.825595
+],
   "geometry": {"coordinates":[-73.144639,40.825595],"type":"Point"}
 }

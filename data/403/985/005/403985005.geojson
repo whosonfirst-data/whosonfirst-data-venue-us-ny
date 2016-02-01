@@ -2,13 +2,14 @@
   "id": 403985005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.17875,43.052251,-76.17875,43.052251",
     "geom:latitude":43.052251,
     "geom:longitude":-76.17875,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"927 Park Ave",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.sacredheartsyr.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881245,
+        102191575,
+        404522831,
         85633793,
         85977787,
         102082351,
-        85881245
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"6757f0b43641e2f721958c0b61cd9f97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522831,
             "locality_id":85977787,
             "neighbourhood_id":85881245,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":403985005,
-    "wof:lastmodified":1449055296,
+    "wof:lastmodified":1454129417,
     "wof:name":"Basilica Sacred Heart Of Jesus",
     "wof:parent_id":85881245,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "church"
     ]
 },
-  "bbox": [-76.17875,43.052251,-76.17875,43.052251],
-  "geometry": {"coordinates":[-76.17875,43.052251],"type":"Point"}
+  "bbox": [
+    -76.17875,
+    43.052251,
+    -76.17875,
+    43.052251
+],
+  "geometry": {"coordinates":[-76.17874999999999,43.052251],"type":"Point"}
 }

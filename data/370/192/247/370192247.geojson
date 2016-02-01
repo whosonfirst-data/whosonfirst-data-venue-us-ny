@@ -2,13 +2,14 @@
   "id": 370192247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.210747,40.822079,-73.210747,40.822079",
     "geom:latitude":40.822079,
     "geom:longitude":-73.210747,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Barnaby Ct",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -38,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +55,20 @@
     "wof:geomhash":"44dafd15014c26336b654925e82300f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":370192247
         }
     ],
     "wof:id":370192247,
-    "wof:lastmodified":1449031486,
+    "wof:lastmodified":1454128021,
     "wof:name":"Double M Contracting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -77,6 +82,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.210747,40.822079,-73.210747,40.822079],
+  "bbox": [
+    -73.210747,
+    40.822079,
+    -73.210747,
+    40.822079
+],
   "geometry": {"coordinates":[-73.210747,40.822079],"type":"Point"}
 }

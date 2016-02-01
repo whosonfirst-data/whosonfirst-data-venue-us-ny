@@ -2,13 +2,14 @@
   "id": 286450437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.999275,40.757926,-73.999275,40.757926",
     "geom:latitude":40.757926,
     "geom:longitude":-73.999275,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"581 W 38th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85882233,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85882233
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"cc981d468ef6ffe76ad5e8cfc2d4afa0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85882233,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":286450437,
-    "wof:lastmodified":1449017659,
+    "wof:lastmodified":1454125835,
     "wof:name":"Subway",
     "wof:parent_id":85882233,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.999275,40.757926,-73.999275,40.757926],
+  "bbox": [
+    -73.999275,
+    40.757926,
+    -73.999275,
+    40.757926
+],
   "geometry": {"coordinates":[-73.999275,40.757926],"type":"Point"}
 }

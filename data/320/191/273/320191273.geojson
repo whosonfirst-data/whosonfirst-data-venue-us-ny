@@ -2,13 +2,14 @@
   "id": 320191273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.533839,40.699618,-73.533839,40.699618",
     "geom:latitude":40.699618,
     "geom:longitude":-73.533839,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2705 Columbus Ave",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"cf10b2cd6e37a72e35cc30473a062d8b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":320191273
         }
     ],
     "wof:id":320191273,
-    "wof:lastmodified":1449013512,
+    "wof:lastmodified":1454125129,
     "wof:name":"Levitt Plaza Diner",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "diner"
     ]
 },
-  "bbox": [-73.533839,40.699618,-73.533839,40.699618],
+  "bbox": [
+    -73.533839,
+    40.699618,
+    -73.533839,
+    40.699618
+],
   "geometry": {"coordinates":[-73.533839,40.699618],"type":"Point"}
 }

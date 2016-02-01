@@ -2,13 +2,14 @@
   "id": 370489873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.294286,40.828501,-73.294286,40.828501",
     "geom:latitude":40.828501,
     "geom:longitude":-73.294286,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"80 Hauppauge Rd",
     "sg:city":"Commack",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530047,
+        102191575,
+        404522515,
         85633793,
-        85979805,
-        102082395
+        85979779,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"c9b9adfed115dce82c31ac21c2211256",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979805,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522515,
+            "locality_id":85979779,
+            "neighbourhood_id":420530047,
             "region_id":85688543,
             "venue_id":370489873
         }
     ],
     "wof:id":370489873,
-    "wof:lastmodified":1449030919,
+    "wof:lastmodified":1454127854,
     "wof:name":"LIA Staffing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530047,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "consultant"
     ]
 },
-  "bbox": [-73.294286,40.828501,-73.294286,40.828501],
+  "bbox": [
+    -73.294286,
+    40.828501,
+    -73.294286,
+    40.828501
+],
   "geometry": {"coordinates":[-73.294286,40.828501],"type":"Point"}
 }

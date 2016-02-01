@@ -2,13 +2,14 @@
   "id": 269777897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.511873,40.803274,-73.511873,40.803274",
     "geom:latitude":40.803274,
     "geom:longitude":-73.511873,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"70 Gordon Dr",
     "sg:city":"Syosset",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529175,
+        102191575,
+        404521475,
         85633793,
         85979075,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"cd0cdea48a3394c4f9ce45f6f72051d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979075,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529175,
             "region_id":85688543,
             "venue_id":269777897
         }
     ],
     "wof:id":269777897,
-    "wof:lastmodified":1449037394,
+    "wof:lastmodified":1454128650,
     "wof:name":"Perfume Network Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529175,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "perfume"
     ]
 },
-  "bbox": [-73.511873,40.803274,-73.511873,40.803274],
-  "geometry": {"coordinates":[-73.511873,40.803274],"type":"Point"}
+  "bbox": [
+    -73.511873,
+    40.803274,
+    -73.511873,
+    40.803274
+],
+  "geometry": {"coordinates":[-73.51187299999999,40.803274],"type":"Point"}
 }

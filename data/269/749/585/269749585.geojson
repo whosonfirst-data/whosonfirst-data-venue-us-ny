@@ -2,13 +2,14 @@
   "id": 269749585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.585444,43.061819,-76.585444,43.061819",
     "geom:latitude":43.061819,
     "geom:longitude":-76.585444,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"9622 Oakland Rd",
     "sg:city":"Weedsport",
     "sg:classifiers":[
@@ -27,8 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85810153,
+        102083071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +41,17 @@
     "wof:geomhash":"10f929008e733e02eb9faeebd5f66dc8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083071,
+            "neighbourhood_id":85810153,
             "region_id":85688543,
             "venue_id":269749585
         }
     ],
     "wof:id":269749585,
-    "wof:lastmodified":1449036853,
+    "wof:lastmodified":1454128566,
     "wof:name":"Craig's Critters",
-    "wof:parent_id":-1,
+    "wof:parent_id":85810153,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +59,11 @@
         "taxidermist"
     ]
 },
-  "bbox": [-76.585444,43.061819,-76.585444,43.061819],
+  "bbox": [
+    -76.585444,
+    43.061819,
+    -76.585444,
+    43.061819
+],
   "geometry": {"coordinates":[-76.585444,43.061819],"type":"Point"}
 }

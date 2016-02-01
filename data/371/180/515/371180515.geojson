@@ -2,13 +2,14 @@
   "id": 371180515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.727957,40.788298,-73.727957,40.788298",
     "geom:latitude":40.788298,
     "geom:longitude":-73.727957,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6 Grace Ave",
     "sg:city":"Great Neck",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865341,
+        102191575,
+        404522729,
         85633793,
         85977683,
         102082371,
-        85865341
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"abc23e485e46e1aeea9cbba3cfec13d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404522729,
             "locality_id":85977683,
             "neighbourhood_id":85865341,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":371180515,
-    "wof:lastmodified":1449049103,
+    "wof:lastmodified":1454129051,
     "wof:name":"Sam Cohen",
     "wof:parent_id":85865341,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "health"
     ]
 },
-  "bbox": [-73.727957,40.788298,-73.727957,40.788298],
+  "bbox": [
+    -73.727957,
+    40.788298,
+    -73.727957,
+    40.788298
+],
   "geometry": {"coordinates":[-73.727957,40.788298],"type":"Point"}
 }

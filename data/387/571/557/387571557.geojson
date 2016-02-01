@@ -2,13 +2,14 @@
   "id": 387571557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.649227,40.660935,-73.649227,40.660935",
     "geom:latitude":40.660935,
     "geom:longitude":-73.649227,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"70 Randall Ave",
     "sg:city":"Rockville Centre",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85829437,
+        102191575,
+        404521473,
         85633793,
-        85979129,
+        85979057,
         102082371,
-        85829437
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"234e9e6f0abdb8130b07d099e912d455",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979129,
+            "localadmin_id":404521473,
+            "locality_id":85979057,
             "neighbourhood_id":85829437,
             "region_id":85688543,
             "venue_id":387571557
         }
     ],
     "wof:id":387571557,
-    "wof:lastmodified":1449058710,
+    "wof:lastmodified":1454129996,
     "wof:name":"Klein & Co",
     "wof:parent_id":85829437,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.649227,40.660935,-73.649227,40.660935],
+  "bbox": [
+    -73.649227,
+    40.660935,
+    -73.649227,
+    40.660935
+],
   "geometry": {"coordinates":[-73.649227,40.660935],"type":"Point"}
 }

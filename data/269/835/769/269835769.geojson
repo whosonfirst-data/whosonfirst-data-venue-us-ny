@@ -2,13 +2,14 @@
   "id": 269835769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.100912,40.740221,-73.100912,40.740221",
     "geom:latitude":40.740221,
     "geom:longitude":-73.100912,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"123 Joni Dr",
     "sg:city":"West Sayville",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"441b42a1fe6e2692976c549805403ea4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":269835769
         }
     ],
     "wof:id":269835769,
-    "wof:lastmodified":1449036482,
+    "wof:lastmodified":1454128513,
     "wof:name":"J F Shiels Masonry Inc",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.100912,40.740221,-73.100912,40.740221],
-  "geometry": {"coordinates":[-73.100912,40.740221],"type":"Point"}
+  "bbox": [
+    -73.100912,
+    40.740221,
+    -73.100912,
+    40.740221
+],
+  "geometry": {"coordinates":[-73.10091199999999,40.740221],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 354014619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.328415,40.88135,-73.328415,40.88135",
     "geom:latitude":40.88135,
     "geom:longitude":-73.328415,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"104 Bellerose Ave",
     "sg:city":"East Northport",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.phoenixgp.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853661,
+        102191575,
+        404522515,
         85633793,
         85978469,
         102082395,
-        85853661
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"d363c6c7ee8428180639b4c0c4ead6b0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85978469,
             "neighbourhood_id":85853661,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":354014619,
-    "wof:lastmodified":1449066753,
+    "wof:lastmodified":1454131022,
     "wof:name":"Phoenix Group",
     "wof:parent_id":85853661,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "multimedia"
     ]
 },
-  "bbox": [-73.328415,40.88135,-73.328415,40.88135],
-  "geometry": {"coordinates":[-73.328415,40.88135],"type":"Point"}
+  "bbox": [
+    -73.328415,
+    40.88135,
+    -73.328415,
+    40.88135
+],
+  "geometry": {"coordinates":[-73.32841500000001,40.88135],"type":"Point"}
 }

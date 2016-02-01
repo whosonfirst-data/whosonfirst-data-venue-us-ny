@@ -2,13 +2,14 @@
   "id": 354108689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.108764,40.769738,-73.108764,40.769738",
     "geom:latitude":40.769738,
     "geom:longitude":-73.108764,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1089 Smithtown Ave",
     "sg:city":"Bohemia",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892861,
+        102191575,
+        404522517,
         85633793,
-        85979795,
+        85979945,
         102082395,
-        85892861
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"71d34c2f6cb331416c22ef46af2b36f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979795,
+            "localadmin_id":404522517,
+            "locality_id":85979945,
             "neighbourhood_id":85892861,
             "region_id":85688543,
             "venue_id":354108689
         }
     ],
     "wof:id":354108689,
-    "wof:lastmodified":1449065969,
+    "wof:lastmodified":1454130780,
     "wof:name":"Neighborhood Pizzeria Of Bohem",
     "wof:parent_id":85892861,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "pizza"
     ]
 },
-  "bbox": [-73.108764,40.769738,-73.108764,40.769738],
-  "geometry": {"coordinates":[-73.108764,40.769738],"type":"Point"}
+  "bbox": [
+    -73.108764,
+    40.769738,
+    -73.108764,
+    40.769738
+],
+  "geometry": {"coordinates":[-73.10876399999999,40.769738],"type":"Point"}
 }

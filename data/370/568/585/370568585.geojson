@@ -2,13 +2,14 @@
   "id": 370568585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.954572,40.616569,-73.954572,40.616569",
     "geom:latitude":40.616569,
     "geom:longitude":-73.954572,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1865 Ocean Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865583,
+        102191575,
+        404521211,
         85633793,
         85977539,
         102082361,
-        85865583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"21bbb9bd53ee7a186df672d4b1e2ae24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85865583,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":370568585,
-    "wof:lastmodified":1449028991,
+    "wof:lastmodified":1454127287,
     "wof:name":"Music Productions Intl",
     "wof:parent_id":85865583,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "studio"
     ]
 },
-  "bbox": [-73.954572,40.616569,-73.954572,40.616569],
+  "bbox": [
+    -73.954572,
+    40.616569,
+    -73.954572,
+    40.616569
+],
   "geometry": {"coordinates":[-73.954572,40.616569],"type":"Point"}
 }

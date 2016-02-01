@@ -2,13 +2,14 @@
   "id": 354101495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.487682,40.725159,-73.487682,40.725159",
     "geom:latitude":40.725159,
     "geom:longitude":-73.487682,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4020 Hempstead Tpke",
     "sg:city":"Bethpage",
     "sg:classifiers":[
@@ -49,11 +50,13 @@
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000308049899",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892759,
+        102191575,
+        404521475,
         85633793,
         85979165,
         102082371,
-        85892759
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,9 +66,10 @@
     "wof:geomhash":"caee591a2f6a2c41c6ca4f6b10105b5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979165,
             "neighbourhood_id":85892759,
             "region_id":85688543,
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":354101495,
-    "wof:lastmodified":1449066836,
+    "wof:lastmodified":1454131049,
     "wof:name":"T-Mobile",
     "wof:parent_id":85892759,
     "wof:placetype":"venue",
@@ -89,6 +93,11 @@
         "cellular"
     ]
 },
-  "bbox": [-73.487682,40.725159,-73.487682,40.725159],
-  "geometry": {"coordinates":[-73.487682,40.725159],"type":"Point"}
+  "bbox": [
+    -73.487682,
+    40.725159,
+    -73.487682,
+    40.725159
+],
+  "geometry": {"coordinates":[-73.48768200000001,40.725159],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387802693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.710647,43.378727,-73.710647,43.378727",
     "geom:latitude":43.378727,
     "geom:longitude":-73.710647,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"42 Gurney Ln",
     "sg:city":"Queensbury",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     "sg:website":"www.co.warren.ny.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85820685,
+        102081791
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"a77c827b7313c15550125cb3eec8d5f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081791,
+            "neighbourhood_id":85820685,
             "region_id":85688543,
             "venue_id":387802693
         }
     ],
     "wof:id":387802693,
-    "wof:lastmodified":1449059208,
+    "wof:lastmodified":1454130083,
     "wof:name":"Westmount Health Facility",
-    "wof:parent_id":-1,
+    "wof:parent_id":85820685,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -58,6 +60,11 @@
         "skilled"
     ]
 },
-  "bbox": [-73.710647,43.378727,-73.710647,43.378727],
-  "geometry": {"coordinates":[-73.710647,43.378727],"type":"Point"}
+  "bbox": [
+    -73.710647,
+    43.378727,
+    -73.710647,
+    43.378727
+],
+  "geometry": {"coordinates":[-73.71064699999999,43.378727],"type":"Point"}
 }

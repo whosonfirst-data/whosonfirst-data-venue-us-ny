@@ -2,13 +2,14 @@
   "id": 370325297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.786904,40.842816,-72.786904,40.842816",
     "geom:latitude":40.842816,
     "geom:longitude":-72.786904,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 Lilly Ct",
     "sg:city":"Manorville",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     "sg:website":"http://www.pcideasintl.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85805575,
+        102191575,
+        404521441,
         85633793,
-        85979939,
+        85979771,
         102082395,
-        85805575
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"0cb0477404b8a2f1d9685fd37d694d36",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979939,
+            "localadmin_id":404521441,
+            "locality_id":85979771,
             "neighbourhood_id":85805575,
             "region_id":85688543,
             "venue_id":370325297
         }
     ],
     "wof:id":370325297,
-    "wof:lastmodified":1449030412,
+    "wof:lastmodified":1454127704,
     "wof:name":"Pc Ideas International Corp",
     "wof:parent_id":85805575,
     "wof:placetype":"venue",
@@ -69,6 +73,11 @@
         "software"
     ]
 },
-  "bbox": [-72.786904,40.842816,-72.786904,40.842816],
-  "geometry": {"coordinates":[-72.786904,40.842816],"type":"Point"}
+  "bbox": [
+    -72.786904,
+    40.842816,
+    -72.786904,
+    40.842816
+],
+  "geometry": {"coordinates":[-72.78690400000001,40.842816],"type":"Point"}
 }

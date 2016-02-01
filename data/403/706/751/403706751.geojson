@@ -2,13 +2,14 @@
   "id": 403706751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.764465,42.813542,-78.764465,42.813542",
     "geom:latitude":42.813542,
     "geom:longitude":-78.764465,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1340 Orchard Park Rd",
     "sg:city":"Buffalo",
     "sg:classifiers":[
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85817191,
+        102191575,
+        404522269,
         85633793,
         85979415,
         102082387,
-        85817191
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"7815c55b438e337959aac0f27e1582d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082387,
+            "localadmin_id":404522269,
             "locality_id":85979415,
             "neighbourhood_id":85817191,
             "region_id":85688543,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":403706751,
-    "wof:lastmodified":1449054728,
+    "wof:lastmodified":1454129336,
     "wof:name":"Country Peddlers",
     "wof:parent_id":85817191,
     "wof:placetype":"venue",
@@ -75,6 +79,11 @@
         "stock"
     ]
 },
-  "bbox": [-78.764465,42.813542,-78.764465,42.813542],
+  "bbox": [
+    -78.764465,
+    42.813542,
+    -78.764465,
+    42.813542
+],
   "geometry": {"coordinates":[-78.764465,42.813542],"type":"Point"}
 }

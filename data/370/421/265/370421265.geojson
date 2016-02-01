@@ -2,13 +2,14 @@
   "id": 370421265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.702667,41.385871,-73.702667,41.385871",
     "geom:latitude":41.385871,
     "geom:longitude":-73.702667,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"14 Richard Rd",
     "sg:city":"Mahopac",
     "sg:classifiers":[
@@ -27,7 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420529685,
+        102191575,
+        404523047,
         85633793,
+        85979559,
+        102083007,
         85688543
     ],
     "wof:breaches":[],
@@ -38,18 +44,20 @@
     "wof:geomhash":"ba41c1be3d4b2138ffb743716310c3e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102083007,
+            "localadmin_id":404523047,
+            "locality_id":85979559,
+            "neighbourhood_id":420529685,
             "region_id":85688543,
             "venue_id":370421265
         }
     ],
     "wof:id":370421265,
-    "wof:lastmodified":1449031223,
+    "wof:lastmodified":1454127943,
     "wof:name":"Model Shop Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529685,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -57,6 +65,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-73.702667,41.385871,-73.702667,41.385871],
-  "geometry": {"coordinates":[-73.702667,41.385871],"type":"Point"}
+  "bbox": [
+    -73.702667,
+    41.385871,
+    -73.702667,
+    41.385871
+],
+  "geometry": {"coordinates":[-73.70266700000001,41.385871],"type":"Point"}
 }

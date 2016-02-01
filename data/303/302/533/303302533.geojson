@@ -2,13 +2,14 @@
   "id": 303302533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.002073,41.132224,-74.002073,41.132224",
     "geom:latitude":41.132224,
     "geom:longitude":-74.002073,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"257 S Little Tor Rd",
     "sg:city":"New City",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85979999,
+        85979971,
         102082385,
-        85825421
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"c1c1c980a7f702eacddbd056b8bc8740",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
-            "locality_id":85979999,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
             "neighbourhood_id":85825421,
             "region_id":85688543,
             "venue_id":303302533
         }
     ],
     "wof:id":303302533,
-    "wof:lastmodified":1448998940,
+    "wof:lastmodified":1454123278,
     "wof:name":"Jillchef Inc",
     "wof:parent_id":85825421,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "caterer"
     ]
 },
-  "bbox": [-74.002073,41.132224,-74.002073,41.132224],
+  "bbox": [
+    -74.002073,
+    41.132224,
+    -74.002073,
+    41.132224
+],
   "geometry": {"coordinates":[-74.002073,41.132224],"type":"Point"}
 }

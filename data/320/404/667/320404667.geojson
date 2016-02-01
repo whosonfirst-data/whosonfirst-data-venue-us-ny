@@ -2,13 +2,14 @@
   "id": 320404667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.995344,40.73199,-73.995344,40.73199",
     "geom:latitude":40.73199,
     "geom:longitude":-73.995344,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13 E 8 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -25,10 +26,13 @@
     "sg:website":"www.metrodrugs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529189,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +42,30 @@
     "wof:geomhash":"d69cb767b54b23182ff9a228af91dda5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529189,
             "region_id":85688543,
             "venue_id":320404667
         }
     ],
     "wof:id":320404667,
-    "wof:lastmodified":1449013751,
+    "wof:lastmodified":1454125167,
     "wof:name":"Metro Drugs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529189,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.995344,40.73199,-73.995344,40.73199],
+  "bbox": [
+    -73.995344,
+    40.73199,
+    -73.995344,
+    40.73199
+],
   "geometry": {"coordinates":[-73.995344,40.73199],"type":"Point"}
 }

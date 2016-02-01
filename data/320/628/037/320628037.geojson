@@ -2,13 +2,14 @@
   "id": 320628037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.902591,40.912076,-73.902591,40.912076",
     "geom:latitude":40.912076,
     "geom:longitude":-73.902591,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"6132 Riverdale Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892779,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85892779
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"ff3c179444d6dd02f400c9148dd916d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85892779,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":320628037,
-    "wof:lastmodified":1449014260,
+    "wof:lastmodified":1454125249,
     "wof:name":"A-1 Capital Corp",
     "wof:parent_id":85892779,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "commercial"
     ]
 },
-  "bbox": [-73.902591,40.912076,-73.902591,40.912076],
+  "bbox": [
+    -73.902591,
+    40.912076,
+    -73.902591,
+    40.912076
+],
   "geometry": {"coordinates":[-73.902591,40.912076],"type":"Point"}
 }

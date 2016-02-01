@@ -2,13 +2,14 @@
   "id": 320548965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.642541,43.130953,-77.642541,43.130953",
     "geom:latitude":43.130953,
     "geom:longitude":-77.642541,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"259 Brooks Ave",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880411,
+        102191575,
+        404521467,
         85633793,
         85977591,
         102081815,
-        85880411
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"c5a9671e96061c4f1c06608b5bcbcbd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404521467,
             "locality_id":85977591,
             "neighbourhood_id":85880411,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":320548965,
-    "wof:lastmodified":1449013854,
+    "wof:lastmodified":1454125182,
     "wof:name":"ARC Community",
     "wof:parent_id":85880411,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "residential"
     ]
 },
-  "bbox": [-77.642541,43.130953,-77.642541,43.130953],
-  "geometry": {"coordinates":[-77.642541,43.130953],"type":"Point"}
+  "bbox": [
+    -77.642541,
+    43.130953,
+    -77.642541,
+    43.130953
+],
+  "geometry": {"coordinates":[-77.64254099999999,43.130953],"type":"Point"}
 }

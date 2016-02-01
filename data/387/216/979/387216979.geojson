@@ -2,13 +2,14 @@
   "id": 387216979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.997261,40.716129,-73.997261,40.716129",
     "geom:latitude":40.716129,
     "geom:longitude":-73.997261,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"13 Elizabeth St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85810885,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85810885
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"a5c2b5a6326cd57d8e8beb92bc0025bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85810885,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":387216979,
-    "wof:lastmodified":1449059485,
+    "wof:lastmodified":1454130131,
     "wof:name":"Cutie",
     "wof:parent_id":85810885,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.997261,40.716129,-73.997261,40.716129],
-  "geometry": {"coordinates":[-73.997261,40.716129],"type":"Point"}
+  "bbox": [
+    -73.997261,
+    40.716129,
+    -73.997261,
+    40.716129
+],
+  "geometry": {"coordinates":[-73.99726099999999,40.716129],"type":"Point"}
 }

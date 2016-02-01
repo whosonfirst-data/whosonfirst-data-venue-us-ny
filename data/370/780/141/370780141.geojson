@@ -2,13 +2,14 @@
   "id": 370780141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.599415,40.900586,-72.599415,40.900586",
     "geom:latitude":40.900586,
     "geom:longitude":-72.599415,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2055 Flanders Rd",
     "sg:city":"Riverhead",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85839071,
+        102191575,
+        404522671,
         85633793,
-        85979681,
-        102082395
+        85979791,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"4f08aa1cb65e1042859d5afe9262d794",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979681,
-            "neighbourhood_id":-1,
+            "localadmin_id":404522671,
+            "locality_id":85979791,
+            "neighbourhood_id":85839071,
             "region_id":85688543,
             "venue_id":370780141
         }
     ],
     "wof:id":370780141,
-    "wof:lastmodified":1449031627,
+    "wof:lastmodified":1454128061,
     "wof:name":"We Got It Auto Parts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85839071,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-72.599415,40.900586,-72.599415,40.900586],
-  "geometry": {"coordinates":[-72.599415,40.900586],"type":"Point"}
+  "bbox": [
+    -72.599415,
+    40.900586,
+    -72.599415,
+    40.900586
+],
+  "geometry": {"coordinates":[-72.59941499999999,40.900586],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320681311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.534832,40.701127,-73.534832,40.701127",
     "geom:latitude":40.701127,
     "geom:longitude":-73.534832,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"860 Beckman Dr",
     "sg:city":"Bellmore",
     "sg:classifiers":[
@@ -24,11 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893059,
+        102191575,
+        404521473,
         85633793,
-        85979141,
+        85979123,
         102082371,
-        85893059
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,17 +41,18 @@
     "wof:geomhash":"05b9dbfdb68989a8a11bc3646b207c80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979141,
+            "localadmin_id":404521473,
+            "locality_id":85979123,
             "neighbourhood_id":85893059,
             "region_id":85688543,
             "venue_id":320681311
         }
     ],
     "wof:id":320681311,
-    "wof:lastmodified":1449013535,
+    "wof:lastmodified":1454125132,
     "wof:name":"Port Plaza Card and Gift Corp",
     "wof:parent_id":85893059,
     "wof:placetype":"venue",
@@ -56,6 +60,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.534832,40.701127,-73.534832,40.701127],
-  "geometry": {"coordinates":[-73.534832,40.701127],"type":"Point"}
+  "bbox": [
+    -73.534832,
+    40.701127,
+    -73.534832,
+    40.701127
+],
+  "geometry": {"coordinates":[-73.53483199999999,40.701127],"type":"Point"}
 }

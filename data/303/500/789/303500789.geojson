@@ -2,13 +2,14 @@
   "id": 303500789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.931947,42.834193,-73.931947,42.834193",
     "geom:latitude":42.834193,
     "geom:longitude":-73.931947,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"22 Freemans Bridge Rd",
     "sg:city":"Scotia",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85835631,
+        102191575,
+        404522521,
         85633793,
         85977841,
         102081765,
-        85835631
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"95923c576f8b44dbd663dc88d81b676d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081765,
+            "localadmin_id":404522521,
             "locality_id":85977841,
             "neighbourhood_id":85835631,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":303500789,
-    "wof:lastmodified":1448998722,
+    "wof:lastmodified":1454123198,
     "wof:name":"D & D Automotive",
     "wof:parent_id":85835631,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "general"
     ]
 },
-  "bbox": [-73.931947,42.834193,-73.931947,42.834193],
-  "geometry": {"coordinates":[-73.931947,42.834193],"type":"Point"}
+  "bbox": [
+    -73.931947,
+    42.834193,
+    -73.931947,
+    42.834193
+],
+  "geometry": {"coordinates":[-73.93194699999999,42.834193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387015143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.597616,43.196509,-77.597616,43.196509",
     "geom:latitude":43.196509,
     "geom:longitude":-77.597616,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"809 E Ridge Rd",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -42,11 +43,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85880401,
+        102191575,
+        404522639,
         85633793,
         85979035,
         102081815,
-        85880401
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,9 +59,10 @@
     "wof:geomhash":"53530543a4b5bfb3006aebc319dc4342",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081815,
+            "localadmin_id":404522639,
             "locality_id":85979035,
             "neighbourhood_id":85880401,
             "region_id":85688543,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":387015143,
-    "wof:lastmodified":1449056974,
+    "wof:lastmodified":1454129684,
     "wof:name":"Highland Family Planning",
     "wof:parent_id":85880401,
     "wof:placetype":"venue",
@@ -81,6 +85,11 @@
         "counseling"
     ]
 },
-  "bbox": [-77.597616,43.196509,-77.597616,43.196509],
+  "bbox": [
+    -77.597616,
+    43.196509,
+    -77.597616,
+    43.196509
+],
   "geometry": {"coordinates":[-77.597616,43.196509],"type":"Point"}
 }

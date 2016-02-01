@@ -2,13 +2,14 @@
   "id": 253309447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.909866,40.86231,-73.909866,40.86231",
     "geom:latitude":40.86231,
     "geom:longitude":-73.909866,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"254 W Fordham Rd",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853135,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85853135
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"75f61c8b416e1dc05e97b0d279deaa5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853135,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":253309447,
-    "wof:lastmodified":1449063459,
+    "wof:lastmodified":1454130351,
     "wof:name":"USA Locksmiths",
     "wof:parent_id":85853135,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-73.909866,40.86231,-73.909866,40.86231],
-  "geometry": {"coordinates":[-73.909866,40.86231],"type":"Point"}
+  "bbox": [
+    -73.909866,
+    40.86231,
+    -73.909866,
+    40.86231
+],
+  "geometry": {"coordinates":[-73.90986599999999,40.86231],"type":"Point"}
 }

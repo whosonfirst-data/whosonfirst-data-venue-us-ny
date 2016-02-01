@@ -2,13 +2,14 @@
   "id": 303751171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.186709,40.962109,-72.186709,40.962109",
     "geom:latitude":40.962109,
     "geom:longitude":-72.186709,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"79 Main St",
     "sg:city":"East Hampton",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     "sg:website":"www.easthamptonchamber.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840403,
+        102191575,
+        404521445,
         85633793,
         85979829,
         102082395,
-        85840403
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"5b800768e6964ec76c9d4f36221509b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404521445,
             "locality_id":85979829,
             "neighbourhood_id":85840403,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303751171,
-    "wof:lastmodified":1448998258,
+    "wof:lastmodified":1454123034,
     "wof:name":"Chamber Of Commerce",
     "wof:parent_id":85840403,
     "wof:placetype":"venue",
@@ -64,6 +68,11 @@
         "commerce"
     ]
 },
-  "bbox": [-72.186709,40.962109,-72.186709,40.962109],
-  "geometry": {"coordinates":[-72.186709,40.962109],"type":"Point"}
+  "bbox": [
+    -72.186709,
+    40.962109,
+    -72.186709,
+    40.962109
+],
+  "geometry": {"coordinates":[-72.18670899999999,40.962109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 320609859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.897208,40.821796,-73.897208,40.821796",
     "geom:latitude":40.821796,
     "geom:longitude":-73.897208,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"930 Westchester Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869443,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85869443
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"bf16ff7ee68c6ef74732a69583e48a19",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869443,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":320609859,
-    "wof:lastmodified":1449012674,
+    "wof:lastmodified":1454124991,
     "wof:name":"My Super Pet Inc",
     "wof:parent_id":85869443,
     "wof:placetype":"venue",
@@ -63,6 +67,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.897208,40.821796,-73.897208,40.821796],
-  "geometry": {"coordinates":[-73.897208,40.821796],"type":"Point"}
+  "bbox": [
+    -73.897208,
+    40.821796,
+    -73.897208,
+    40.821796
+],
+  "geometry": {"coordinates":[-73.89720800000001,40.821796],"type":"Point"}
 }

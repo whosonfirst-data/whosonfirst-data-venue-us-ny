@@ -2,13 +2,14 @@
   "id": 303127401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.084197,40.63693,-74.084197,40.63693",
     "geom:latitude":40.63693,
     "geom:longitude":-74.084197,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"101 Brook St",
     "sg:city":"Staten Island",
     "sg:classifiers":[
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85846655,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081779,
-        85846655
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"c016ee5f3130b8a964a11466f23af311",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081779,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85846655,
             "region_id":85688543,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":303127401,
-    "wof:lastmodified":1449000369,
+    "wof:lastmodified":1454123671,
     "wof:name":"Mims Bob Roofg & Shtmtl Works",
     "wof:parent_id":85846655,
     "wof:placetype":"venue",
@@ -71,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-74.084197,40.63693,-74.084197,40.63693],
+  "bbox": [
+    -74.084197,
+    40.63693,
+    -74.084197,
+    40.63693
+],
   "geometry": {"coordinates":[-74.084197,40.63693],"type":"Point"}
 }

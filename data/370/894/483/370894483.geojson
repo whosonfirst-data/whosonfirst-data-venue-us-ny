@@ -2,13 +2,14 @@
   "id": 370894483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.043228,42.10273,-76.043228,42.10273",
     "geom:latitude":42.10273,
     "geom:longitude":-76.043228,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1700 Monroe St",
     "sg:city":"Endicott",
     "sg:classifiers":[
@@ -38,10 +39,13 @@
     "sg:website":"http://www.umc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420528067,
+        102191575,
+        404521829,
         85633793,
         85977985,
-        102081755
+        102081755,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +55,20 @@
     "wof:geomhash":"ad373876fe4a24838a0b25d0a3f82129",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081755,
+            "localadmin_id":404521829,
             "locality_id":85977985,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420528067,
             "region_id":85688543,
             "venue_id":370894483
         }
     ],
     "wof:id":370894483,
-    "wof:lastmodified":1449030484,
+    "wof:lastmodified":1454127725,
     "wof:name":"Wyoming Annual Conference Of The United Methodist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420528067,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -71,6 +76,11 @@
         "churches-methodist"
     ]
 },
-  "bbox": [-76.043228,42.10273,-76.043228,42.10273],
+  "bbox": [
+    -76.043228,
+    42.10273,
+    -76.043228,
+    42.10273
+],
   "geometry": {"coordinates":[-76.043228,42.10273],"type":"Point"}
 }

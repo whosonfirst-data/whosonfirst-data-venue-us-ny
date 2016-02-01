@@ -2,13 +2,14 @@
   "id": 370681805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.137879,43.072406,-76.137879,43.072406",
     "geom:latitude":43.072406,
     "geom:longitude":-76.137879,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1504 Grant Blvd",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881259,
+        102191575,
+        404522845,
         85633793,
-        85977785,
+        85979211,
         102082351,
-        85881259
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"eb03a71ec49384c1a49e46f18222102d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
-            "locality_id":85977785,
+            "localadmin_id":404522845,
+            "locality_id":85979211,
             "neighbourhood_id":85881259,
             "region_id":85688543,
             "venue_id":370681805
         }
     ],
     "wof:id":370681805,
-    "wof:lastmodified":1449031155,
+    "wof:lastmodified":1454127923,
     "wof:name":"Da Spot",
     "wof:parent_id":85881259,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-76.137879,43.072406,-76.137879,43.072406],
+  "bbox": [
+    -76.137879,
+    43.072406,
+    -76.137879,
+    43.072406
+],
   "geometry": {"coordinates":[-76.137879,43.072406],"type":"Point"}
 }

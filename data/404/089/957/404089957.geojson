@@ -2,13 +2,14 @@
   "id": 404089957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.190344,43.248648,-78.190344,43.248648",
     "geom:latitude":43.248648,
     "geom:longitude":-78.190344,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"139 Ingersoll St",
     "sg:city":"Albion",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85819435,
+        102191575,
+        404521525,
         85633793,
+        85978607,
         102082411,
-        85819435
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,17 +44,18 @@
     "wof:geomhash":"c9833767e04e5a22bc4aba9f09e69c44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082411,
-            "locality_id":-1,
+            "localadmin_id":404521525,
+            "locality_id":85978607,
             "neighbourhood_id":85819435,
             "region_id":85688543,
             "venue_id":404089957
         }
     ],
     "wof:id":404089957,
-    "wof:lastmodified":1449039302,
+    "wof:lastmodified":1454128855,
     "wof:name":"St Paul Baptist Church",
     "wof:parent_id":85819435,
     "wof:placetype":"venue",
@@ -60,6 +65,11 @@
         "church"
     ]
 },
-  "bbox": [-78.190344,43.248648,-78.190344,43.248648],
+  "bbox": [
+    -78.190344,
+    43.248648,
+    -78.190344,
+    43.248648
+],
   "geometry": {"coordinates":[-78.190344,43.248648],"type":"Point"}
 }

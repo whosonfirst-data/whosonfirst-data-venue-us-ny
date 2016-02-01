@@ -2,13 +2,14 @@
   "id": 337287603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.997887,40.678278,-73.997887,40.678278",
     "geom:latitude":40.678278,
     "geom:longitude":-73.997887,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"437 Court St",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -25,10 +26,14 @@
     "sg:website":"www.gourmetfreshnyc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892915,
+        102191575,
+        102147495,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,24 +43,31 @@
     "wof:geomhash":"f8d5b748a11b066473a9a82924f6b677",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "macrohood_id":102147495,
+            "neighbourhood_id":85892915,
             "region_id":85688543,
             "venue_id":337287603
         }
     ],
     "wof:id":337287603,
-    "wof:lastmodified":1449026990,
+    "wof:lastmodified":1454126886,
     "wof:name":"Gourmet Fresh",
-    "wof:parent_id":-1,
+    "wof:parent_id":85892915,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.997887,40.678278,-73.997887,40.678278],
-  "geometry": {"coordinates":[-73.997887,40.678278],"type":"Point"}
+  "bbox": [
+    -73.997887,
+    40.678278,
+    -73.997887,
+    40.678278
+],
+  "geometry": {"coordinates":[-73.99788700000001,40.678278],"type":"Point"}
 }

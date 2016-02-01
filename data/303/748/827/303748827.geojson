@@ -2,13 +2,14 @@
   "id": 303748827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.561964,40.678865,-73.561964,40.678865",
     "geom:latitude":40.678865,
     "geom:longitude":-73.561964,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"66 Lewis Rd",
     "sg:city":"Merrick",
     "sg:classifiers":[
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529153,
+        102191575,
+        404521473,
         85633793,
         85979047,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"90a02d6d5edd2982e706343fcc976a3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979047,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529153,
             "region_id":85688543,
             "venue_id":303748827
         }
     ],
     "wof:id":303748827,
-    "wof:lastmodified":1448999954,
+    "wof:lastmodified":1454123556,
     "wof:name":"Authentic Electronics",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529153,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -64,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.561964,40.678865,-73.561964,40.678865],
+  "bbox": [
+    -73.561964,
+    40.678865,
+    -73.561964,
+    40.678865
+],
   "geometry": {"coordinates":[-73.561964,40.678865],"type":"Point"}
 }

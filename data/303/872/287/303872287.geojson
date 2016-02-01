@@ -2,13 +2,14 @@
   "id": 303872287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.768412,40.976709,-73.768412,40.976709",
     "geom:latitude":40.976709,
     "geom:longitude":-73.768412,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"57 Franklin Rd",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530429,
+        102191575,
+        404523391,
         85633793,
         85978767,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"01829418ef258351cdbd443896207e77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523391,
             "locality_id":85978767,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530429,
             "region_id":85688543,
             "venue_id":303872287
         }
     ],
     "wof:id":303872287,
-    "wof:lastmodified":1448998337,
+    "wof:lastmodified":1454123061,
     "wof:name":"Holocaust Survivors Memoirs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530429,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.768412,40.976709,-73.768412,40.976709],
+  "bbox": [
+    -73.768412,
+    40.976709,
+    -73.768412,
+    40.976709
+],
   "geometry": {"coordinates":[-73.768412,40.976709],"type":"Point"}
 }

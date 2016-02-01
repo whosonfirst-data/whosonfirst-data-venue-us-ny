@@ -2,13 +2,14 @@
   "id": 370520545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.112334,42.0179,-74.112334,42.0179",
     "geom:latitude":42.0179,
     "geom:longitude":-74.112334,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"52 Maverick Rd",
     "sg:city":"Woodstock",
     "sg:classifiers":[
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530267,
+        102191575,
+        404523247,
         85633793,
         85978913,
-        102081775
+        102081775,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"f2aaca21b7112998619f2246f85d4df9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081775,
+            "localadmin_id":404523247,
             "locality_id":85978913,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530267,
             "region_id":85688543,
             "venue_id":370520545
         }
     ],
     "wof:id":370520545,
-    "wof:lastmodified":1449030210,
+    "wof:lastmodified":1454127645,
     "wof:name":"B Randall Mcclellan",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530267,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -67,6 +72,11 @@
         "analyst"
     ]
 },
-  "bbox": [-74.112334,42.0179,-74.112334,42.0179],
+  "bbox": [
+    -74.112334,
+    42.0179,
+    -74.112334,
+    42.0179
+],
   "geometry": {"coordinates":[-74.112334,42.0179],"type":"Point"}
 }

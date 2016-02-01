@@ -2,13 +2,14 @@
   "id": 253686353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.77559,40.995573,-73.77559,40.995573",
     "geom:latitude":40.995573,
     "geom:longitude":-73.77559,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2 Mohican Trl",
     "sg:city":"Scarsdale",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530429,
+        102191575,
+        404523391,
         85633793,
         85978767,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"feece60f68dae96f1f4f77e6abcc0c84",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523391,
             "locality_id":85978767,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530429,
             "region_id":85688543,
             "venue_id":253686353
         }
     ],
     "wof:id":253686353,
-    "wof:lastmodified":1449065042,
+    "wof:lastmodified":1454130619,
     "wof:name":"Kaye Wilma",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530429,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.77559,40.995573,-73.77559,40.995573],
-  "geometry": {"coordinates":[-73.77559,40.995573],"type":"Point"}
+  "bbox": [
+    -73.77559,
+    40.995573,
+    -73.77559,
+    40.995573
+],
+  "geometry": {"coordinates":[-73.77558999999999,40.995573],"type":"Point"}
 }

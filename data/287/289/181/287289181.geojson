@@ -2,13 +2,14 @@
   "id": 287289181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.302276,40.821316,-73.302276,40.821316",
     "geom:latitude":40.821316,
     "geom:longitude":-73.302276,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"15 Blacksmith Ln",
     "sg:city":"East Northport",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530047,
+        102191575,
+        404522515,
         85633793,
         85979779,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"cf3db174fd2ac512610b8a9ff2a9fab8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85979779,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530047,
             "region_id":85688543,
             "venue_id":287289181
         }
     ],
     "wof:id":287289181,
-    "wof:lastmodified":1449001421,
+    "wof:lastmodified":1454123931,
     "wof:name":"Global Shipping Solutions Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530047,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "packaging"
     ]
 },
-  "bbox": [-73.302276,40.821316,-73.302276,40.821316],
-  "geometry": {"coordinates":[-73.302276,40.821316],"type":"Point"}
+  "bbox": [
+    -73.302276,
+    40.821316,
+    -73.302276,
+    40.821316
+],
+  "geometry": {"coordinates":[-73.30227600000001,40.821316],"type":"Point"}
 }

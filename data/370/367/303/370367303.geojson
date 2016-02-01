@@ -2,13 +2,14 @@
   "id": 370367303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.889009,40.909746,-73.889009,40.909746",
     "geom:latitude":40.909746,
     "geom:longitude":-73.889009,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"251 McLean Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -24,10 +25,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85831599,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,24 +41,30 @@
     "wof:geomhash":"5930c048bb1261fca567c9d542a66b02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85831599,
             "region_id":85688543,
             "venue_id":370367303
         }
     ],
     "wof:id":370367303,
-    "wof:lastmodified":1449031072,
+    "wof:lastmodified":1454127900,
     "wof:name":"Malek Mini Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831599,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.889009,40.909746,-73.889009,40.909746],
+  "bbox": [
+    -73.889009,
+    40.909746,
+    -73.889009,
+    40.909746
+],
   "geometry": {"coordinates":[-73.889009,40.909746],"type":"Point"}
 }

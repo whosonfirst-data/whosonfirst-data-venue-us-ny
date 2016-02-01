@@ -2,13 +2,14 @@
   "id": 387067981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.455459,43.240816,-75.455459,43.240816",
     "geom:latitude":43.240816,
     "geom:longitude":-75.455459,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"7812 Turin Rd",
     "sg:city":"Rome",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529303,
+        102191575,
+        404522697,
         85633793,
         85978369,
-        102083149
+        102083149,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"b2f7a1b46d2b0629d81b55c1d61f0272",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083149,
+            "localadmin_id":404522697,
             "locality_id":85978369,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529303,
             "region_id":85688543,
             "venue_id":387067981
         }
     ],
     "wof:id":387067981,
-    "wof:lastmodified":1449056365,
+    "wof:lastmodified":1454129574,
     "wof:name":"Gillette Food Market Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529303,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "supermarket"
     ]
 },
-  "bbox": [-75.455459,43.240816,-75.455459,43.240816],
+  "bbox": [
+    -75.455459,
+    43.240816,
+    -75.455459,
+    43.240816
+],
   "geometry": {"coordinates":[-75.455459,43.240816],"type":"Point"}
 }

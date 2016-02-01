@@ -2,13 +2,14 @@
   "id": 387086767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.95123,42.124402,-77.95123,42.124402",
     "geom:latitude":42.124402,
     "geom:longitude":-77.95123,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"36 Central Pl",
     "sg:city":"Wellsville",
     "sg:classifiers":[
@@ -60,11 +61,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85850913,
+        102191575,
+        404521157,
         85633793,
         85979357,
         102082403,
-        85850913
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,9 +77,10 @@
     "wof:geomhash":"960c5005700bb52b36259c342e1926fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082403,
+            "localadmin_id":404521157,
             "locality_id":85979357,
             "neighbourhood_id":85850913,
             "region_id":85688543,
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":387086767,
-    "wof:lastmodified":1449058657,
+    "wof:lastmodified":1454129988,
     "wof:name":"ID Booth Inc",
     "wof:parent_id":85850913,
     "wof:placetype":"venue",
@@ -107,6 +111,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-77.95123,42.124402,-77.95123,42.124402],
+  "bbox": [
+    -77.95123,
+    42.124402,
+    -77.95123,
+    42.124402
+],
   "geometry": {"coordinates":[-77.95123,42.124402],"type":"Point"}
 }

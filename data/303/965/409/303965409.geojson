@@ -2,13 +2,14 @@
   "id": 303965409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.920097,40.837734,-73.920097,40.837734",
     "geom:latitude":40.837734,
     "geom:longitude":-73.920097,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"1271 Jerome Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85865669,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102082361
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"da58911f15a91833d68879ccb9f9310d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85865669,
             "region_id":85688543,
             "venue_id":303965409
         }
     ],
     "wof:id":303965409,
-    "wof:lastmodified":1448999824,
+    "wof:lastmodified":1454123521,
     "wof:name":"Continential Bus Line Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865669,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "line"
     ]
 },
-  "bbox": [-73.920097,40.837734,-73.920097,40.837734],
+  "bbox": [
+    -73.920097,
+    40.837734,
+    -73.920097,
+    40.837734
+],
   "geometry": {"coordinates":[-73.920097,40.837734],"type":"Point"}
 }

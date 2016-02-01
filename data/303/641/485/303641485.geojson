@@ -2,13 +2,14 @@
   "id": 303641485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.620235,40.73741,-73.620235,40.73741",
     "geom:latitude":40.73741,
     "geom:longitude":-73.620235,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"38 Pell Ter",
     "sg:city":"Garden City",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893069,
+        102191575,
+        404522729,
         85633793,
-        85977735,
+        85979163,
         102082371,
-        85893069
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,17 +44,18 @@
     "wof:geomhash":"f44c4a1031fcf34329c6921baf13c9d3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85977735,
+            "localadmin_id":404522729,
+            "locality_id":85979163,
             "neighbourhood_id":85893069,
             "region_id":85688543,
             "venue_id":303641485
         }
     ],
     "wof:id":303641485,
-    "wof:lastmodified":1448999977,
+    "wof:lastmodified":1454123562,
     "wof:name":"Jet Communications LLC",
     "wof:parent_id":85893069,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "communication"
     ]
 },
-  "bbox": [-73.620235,40.73741,-73.620235,40.73741],
-  "geometry": {"coordinates":[-73.620235,40.73741],"type":"Point"}
+  "bbox": [
+    -73.620235,
+    40.73741,
+    -73.620235,
+    40.73741
+],
+  "geometry": {"coordinates":[-73.62023499999999,40.73741],"type":"Point"}
 }

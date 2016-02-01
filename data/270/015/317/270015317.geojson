@@ -2,13 +2,14 @@
   "id": 270015317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.894683,40.929091,-73.894683,40.929091",
     "geom:latitude":40.929091,
     "geom:longitude":-73.894683,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"49 Park Hill Ave",
     "sg:city":"Yonkers",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881901,
+        102191575,
+        404523397,
         85633793,
         85978759,
-        102082373
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"3d93e5b7b563ce5502a1474ffec67c4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523397,
             "locality_id":85978759,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881901,
             "region_id":85688543,
             "venue_id":270015317
         }
     ],
     "wof:id":270015317,
-    "wof:lastmodified":1449009187,
+    "wof:lastmodified":1454124446,
     "wof:name":"Western Union",
-    "wof:parent_id":-1,
+    "wof:parent_id":85881901,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "transfer"
     ]
 },
-  "bbox": [-73.894683,40.929091,-73.894683,40.929091],
+  "bbox": [
+    -73.894683,
+    40.929091,
+    -73.894683,
+    40.929091
+],
   "geometry": {"coordinates":[-73.894683,40.929091],"type":"Point"}
 }

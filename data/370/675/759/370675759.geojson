@@ -2,13 +2,14 @@
   "id": 370675759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.663201,43.331932,-73.663201,43.331932",
     "geom:latitude":43.331932,
     "geom:longitude":-73.663201,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"118 Quaker Rd Ste 9",
     "sg:city":"Queensbury",
     "sg:classifiers":[
@@ -41,11 +42,13 @@
     "sg:website":"http://www.trustcobank.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840433,
+        102191575,
+        404523293,
         85633793,
         85980107,
         102081791,
-        85840433
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,9 +58,10 @@
     "wof:geomhash":"afe35c3c000061488a14e2fcafec39e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081791,
+            "localadmin_id":404523293,
             "locality_id":85980107,
             "neighbourhood_id":85840433,
             "region_id":85688543,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":370675759,
-    "wof:lastmodified":1449030805,
+    "wof:lastmodified":1454127820,
     "wof:name":"Trustco Bank",
     "wof:parent_id":85840433,
     "wof:placetype":"venue",
@@ -78,6 +82,11 @@
         "mortgage"
     ]
 },
-  "bbox": [-73.663201,43.331932,-73.663201,43.331932],
+  "bbox": [
+    -73.663201,
+    43.331932,
+    -73.663201,
+    43.331932
+],
   "geometry": {"coordinates":[-73.663201,43.331932],"type":"Point"}
 }

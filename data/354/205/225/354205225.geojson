@@ -2,13 +2,14 @@
   "id": 354205225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.307606,40.798939,-73.307606,40.798939",
     "geom:latitude":40.798939,
     "geom:longitude":-73.307606,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"50 Pine Hill Ln",
     "sg:city":"Huntington Station",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85823533,
+        102191575,
+        404522515,
         85633793,
-        85979867,
+        85979779,
         102082395,
-        85892809
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"8361a5465ca7d0e36c735380705d8b75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979867,
-            "neighbourhood_id":85892809,
+            "localadmin_id":404522515,
+            "locality_id":85979779,
+            "neighbourhood_id":85823533,
             "region_id":85688543,
             "venue_id":354205225
         }
     ],
     "wof:id":354205225,
-    "wof:lastmodified":1449066962,
+    "wof:lastmodified":1454131087,
     "wof:name":"AAA Eye Spy Associates Inc",
-    "wof:parent_id":85892809,
+    "wof:parent_id":85823533,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -68,6 +72,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.307606,40.798939,-73.307606,40.798939],
-  "geometry": {"coordinates":[-73.307606,40.798939],"type":"Point"}
+  "bbox": [
+    -73.307606,
+    40.798939,
+    -73.307606,
+    40.798939
+],
+  "geometry": {"coordinates":[-73.30760600000001,40.798939],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 303968643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.479475,40.666874,-73.479475,40.666874",
     "geom:latitude":40.666874,
     "geom:longitude":-73.479475,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"4127 Merrick Rd",
     "sg:city":"Massapequa",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85806127,
+        102191575,
+        404521475,
         85633793,
         85979069,
         102082371,
-        85806127
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"5655251720678e40d37455d0506fb5a0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521475,
             "locality_id":85979069,
             "neighbourhood_id":85806127,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303968643,
-    "wof:lastmodified":1448998273,
+    "wof:lastmodified":1454123039,
     "wof:name":"Steve's Valet Cleaners",
     "wof:parent_id":85806127,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "cleaners"
     ]
 },
-  "bbox": [-73.479475,40.666874,-73.479475,40.666874],
-  "geometry": {"coordinates":[-73.479475,40.666874],"type":"Point"}
+  "bbox": [
+    -73.479475,
+    40.666874,
+    -73.479475,
+    40.666874
+],
+  "geometry": {"coordinates":[-73.47947499999999,40.666874],"type":"Point"}
 }

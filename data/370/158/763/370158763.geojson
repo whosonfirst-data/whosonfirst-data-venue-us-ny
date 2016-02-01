@@ -2,13 +2,14 @@
   "id": 370158763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.02227,40.867818,-73.02227,40.867818",
     "geom:latitude":40.867818,
     "geom:longitude":-73.02227,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"248-260 Middle Country Rd",
     "sg:city":"Selden",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.rgbrenner.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892869,
+        102191575,
+        404521441,
         85633793,
-        85979729,
+        85979801,
         102082395,
-        85892869
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,18 @@
     "wof:geomhash":"d3ce73bbaf188414b5eae9dfa880d546",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979729,
+            "localadmin_id":404521441,
+            "locality_id":85979801,
             "neighbourhood_id":85892869,
             "region_id":85688543,
             "venue_id":370158763
         }
     ],
     "wof:id":370158763,
-    "wof:lastmodified":1449031336,
+    "wof:lastmodified":1454127977,
     "wof:name":"R&G Brenner",
     "wof:parent_id":85892869,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "accountant"
     ]
 },
-  "bbox": [-73.02227,40.867818,-73.02227,40.867818],
-  "geometry": {"coordinates":[-73.02227,40.867818],"type":"Point"}
+  "bbox": [
+    -73.02227,
+    40.867818,
+    -73.02227,
+    40.867818
+],
+  "geometry": {"coordinates":[-73.02227000000001,40.867818],"type":"Point"}
 }

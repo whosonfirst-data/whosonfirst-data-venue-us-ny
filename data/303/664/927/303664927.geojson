@@ -2,13 +2,14 @@
   "id": 303664927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.639478,40.669515,-73.639478,40.669515",
     "geom:latitude":40.669515,
     "geom:longitude":-73.639478,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"315 Hempstead Ave",
     "sg:city":"Rockville Centre",
     "sg:classifiers":[
@@ -28,10 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420529139,
+        102191575,
+        404521473,
         85633793,
         85977629,
-        102082371
+        102082371,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +45,20 @@
     "wof:geomhash":"8e3b00875394a8aa28e3f1bd6d145f14",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85977629,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420529139,
             "region_id":85688543,
             "venue_id":303664927
         }
     ],
     "wof:id":303664927,
-    "wof:lastmodified":1448999023,
+    "wof:lastmodified":1454123298,
     "wof:name":"Masters Touch Floor Covering",
-    "wof:parent_id":-1,
+    "wof:parent_id":420529139,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -62,6 +67,11 @@
         "covering"
     ]
 },
-  "bbox": [-73.639478,40.669515,-73.639478,40.669515],
+  "bbox": [
+    -73.639478,
+    40.669515,
+    -73.639478,
+    40.669515
+],
   "geometry": {"coordinates":[-73.639478,40.669515],"type":"Point"}
 }

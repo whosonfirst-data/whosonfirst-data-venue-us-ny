@@ -2,13 +2,14 @@
   "id": 303414839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.144697,43.054097,-76.144697,43.054097",
     "geom:latitude":43.054097,
     "geom:longitude":-76.144697,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"518 James St",
     "sg:city":"Syracuse",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85881255,
+        102191575,
+        404522851,
         85633793,
         85977785,
         102082351,
-        85881255
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"13ec80e162c86ba5bc6ceb0365e32ad3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082351,
+            "localadmin_id":404522851,
             "locality_id":85977785,
             "neighbourhood_id":85881255,
             "region_id":85688543,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":303414839,
-    "wof:lastmodified":1448999260,
+    "wof:lastmodified":1454123366,
     "wof:name":"Aurora of Central New York",
     "wof:parent_id":85881255,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "for"
     ]
 },
-  "bbox": [-76.144697,43.054097,-76.144697,43.054097],
-  "geometry": {"coordinates":[-76.144697,43.054097],"type":"Point"}
+  "bbox": [
+    -76.144697,
+    43.054097,
+    -76.144697,
+    43.054097
+],
+  "geometry": {"coordinates":[-76.14469699999999,43.054097],"type":"Point"}
 }

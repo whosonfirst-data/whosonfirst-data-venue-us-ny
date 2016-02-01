@@ -2,13 +2,14 @@
   "id": 286691403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.023409,40.801356,-73.023409,40.801356",
     "geom:latitude":40.801356,
     "geom:longitude":-73.023409,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"64 Masonic Ave",
     "sg:city":"Holtsville",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85840885,
+        102191575,
+        404521441,
         85633793,
-        85979689,
-        102082395
+        85978461,
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"f58bb3ddb4d7bf3d7774c255fb01cf84",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
-            "locality_id":85979689,
-            "neighbourhood_id":-1,
+            "localadmin_id":404521441,
+            "locality_id":85978461,
+            "neighbourhood_id":85840885,
             "region_id":85688543,
             "venue_id":286691403
         }
     ],
     "wof:id":286691403,
-    "wof:lastmodified":1449015428,
+    "wof:lastmodified":1454125443,
     "wof:name":"Shamus Coach Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85840885,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "tour"
     ]
 },
-  "bbox": [-73.023409,40.801356,-73.023409,40.801356],
+  "bbox": [
+    -73.023409,
+    40.801356,
+    -73.023409,
+    40.801356
+],
   "geometry": {"coordinates":[-73.023409,40.801356],"type":"Point"}
 }

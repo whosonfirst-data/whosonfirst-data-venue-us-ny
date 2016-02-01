@@ -2,13 +2,14 @@
   "id": 354365683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.336856,40.92578,-73.336856,40.92578",
     "geom:latitude":40.92578,
     "geom:longitude":-73.336856,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"54 West St",
     "sg:city":"Northport",
     "sg:classifiers":[
@@ -28,11 +29,13 @@
     "sg:website":"www.certapro.com/dominickrocco",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853661,
+        102191575,
+        404522515,
         85633793,
         85978469,
         102082395,
-        85853661
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,9 +45,10 @@
     "wof:geomhash":"e727ef6098dd2c87aa335e19cdab3058",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522515,
             "locality_id":85978469,
             "neighbourhood_id":85853661,
             "region_id":85688543,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":354365683,
-    "wof:lastmodified":1449066207,
+    "wof:lastmodified":1454130855,
     "wof:name":"CertaPro Painters",
     "wof:parent_id":85853661,
     "wof:placetype":"venue",
@@ -62,6 +66,11 @@
         "painter"
     ]
 },
-  "bbox": [-73.336856,40.92578,-73.336856,40.92578],
+  "bbox": [
+    -73.336856,
+    40.92578,
+    -73.336856,
+    40.92578
+],
   "geometry": {"coordinates":[-73.336856,40.92578],"type":"Point"}
 }

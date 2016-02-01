@@ -2,13 +2,14 @@
   "id": 253430455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.993918,40.754818,-73.993918,40.754818",
     "geom:latitude":40.754818,
     "geom:longitude":-73.993918,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"345 W 37th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -30,11 +31,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85882233,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85882233
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,9 +47,10 @@
     "wof:geomhash":"463a873780fc0831cd023a6d72a43576",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85882233,
             "region_id":85688543,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":253430455,
-    "wof:lastmodified":1449064715,
+    "wof:lastmodified":1454130562,
     "wof:name":"Manhattan Paper Corp",
     "wof:parent_id":85882233,
     "wof:placetype":"venue",
@@ -67,6 +71,11 @@
         "janitorial"
     ]
 },
-  "bbox": [-73.993918,40.754818,-73.993918,40.754818],
-  "geometry": {"coordinates":[-73.993918,40.754818],"type":"Point"}
+  "bbox": [
+    -73.993918,
+    40.754818,
+    -73.993918,
+    40.754818
+],
+  "geometry": {"coordinates":[-73.99391799999999,40.754818],"type":"Point"}
 }

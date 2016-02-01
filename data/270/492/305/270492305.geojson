@@ -2,13 +2,14 @@
   "id": 270492305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.969929,40.760507,-73.969929,40.760507",
     "geom:latitude":40.760507,
     "geom:longitude":-73.969929,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"111 E 56 St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -29,11 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85869487,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85869487
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"cfcc30ba116ef3983908e39b6fd6262f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85869487,
             "region_id":85688543,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":270492305,
-    "wof:lastmodified":1449008657,
+    "wof:lastmodified":1454124370,
     "wof:name":"Anthony M Scotto",
     "wof:parent_id":85869487,
     "wof:placetype":"venue",
@@ -65,6 +69,11 @@
         "eating"
     ]
 },
-  "bbox": [-73.969929,40.760507,-73.969929,40.760507],
-  "geometry": {"coordinates":[-73.969929,40.760507],"type":"Point"}
+  "bbox": [
+    -73.969929,
+    40.760507,
+    -73.969929,
+    40.760507
+],
+  "geometry": {"coordinates":[-73.96992899999999,40.760507],"type":"Point"}
 }

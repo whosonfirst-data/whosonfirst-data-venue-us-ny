@@ -2,13 +2,14 @@
   "id": 253117803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.908345,42.097245,-76.908345,42.097245",
     "geom:latitude":42.097245,
     "geom:longitude":-76.908345,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"26 Curren Rd",
     "sg:city":"Elmira",
     "sg:classifiers":[
@@ -28,8 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
         85633793,
-        85688543
+        85824087,
+        102081819
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,18 +42,17 @@
     "wof:geomhash":"c8dd8d07536a791e5a4b316f702726f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081819,
+            "neighbourhood_id":85824087,
             "region_id":85688543,
             "venue_id":253117803
         }
     ],
     "wof:id":253117803,
-    "wof:lastmodified":1449064855,
+    "wof:lastmodified":1454130586,
     "wof:name":"Stermer Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":85824087,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-76.908345,42.097245,-76.908345,42.097245],
+  "bbox": [
+    -76.908345,
+    42.097245,
+    -76.908345,
+    42.097245
+],
   "geometry": {"coordinates":[-76.908345,42.097245],"type":"Point"}
 }

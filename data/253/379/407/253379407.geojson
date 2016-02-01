@@ -2,13 +2,14 @@
   "id": 253379407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.904237,40.857803,-73.904237,40.857803",
     "geom:latitude":40.857803,
     "geom:longitude":-73.904237,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"2269 Jerome Ave",
     "sg:city":"Bronx",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85853135,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102083063,
-        85853135
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"b0a987e80ced46925bea0238e8eed882",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102083063,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85853135,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":253379407,
-    "wof:lastmodified":1449064538,
+    "wof:lastmodified":1454130532,
     "wof:name":"Federico Deli Pizzaria Fried",
     "wof:parent_id":85853135,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "delicatessen"
     ]
 },
-  "bbox": [-73.904237,40.857803,-73.904237,40.857803],
-  "geometry": {"coordinates":[-73.904237,40.857803],"type":"Point"}
+  "bbox": [
+    -73.904237,
+    40.857803,
+    -73.904237,
+    40.857803
+],
+  "geometry": {"coordinates":[-73.90423699999999,40.857803],"type":"Point"}
 }

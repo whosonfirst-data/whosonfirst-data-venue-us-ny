@@ -2,13 +2,14 @@
   "id": 354020203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.646004,40.761299,-73.646004,40.761299",
     "geom:latitude":40.761299,
     "geom:longitude":-73.646004,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"634 Willis Ave",
     "sg:city":"Williston Park",
     "sg:classifiers":[
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85847583,
+        102191575,
+        404522729,
         85633793,
-        85979177,
+        85977733,
         102082371,
-        85847583
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"11af81810f536e4592c9aec6def74335",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082371,
-            "locality_id":85979177,
+            "localadmin_id":404522729,
+            "locality_id":85977733,
             "neighbourhood_id":85847583,
             "region_id":85688543,
             "venue_id":354020203
         }
     ],
     "wof:id":354020203,
-    "wof:lastmodified":1449066712,
+    "wof:lastmodified":1454131011,
     "wof:name":"Video King",
     "wof:parent_id":85847583,
     "wof:placetype":"venue",
@@ -68,6 +72,11 @@
         "video"
     ]
 },
-  "bbox": [-73.646004,40.761299,-73.646004,40.761299],
+  "bbox": [
+    -73.646004,
+    40.761299,
+    -73.646004,
+    40.761299
+],
   "geometry": {"coordinates":[-73.646004,40.761299],"type":"Point"}
 }

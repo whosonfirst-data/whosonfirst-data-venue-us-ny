@@ -2,13 +2,14 @@
   "id": 286376019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.939773,40.815414,-73.939773,40.815414",
     "geom:latitude":40.815414,
     "geom:longitude":-73.939773,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"5 W 137th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85867075,
+        102191575,
+        404521211,
         85633793,
         85977539,
-        102081863,
-        85867075
+        102082361,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,9 +44,10 @@
     "wof:geomhash":"f1ad30673b517aad5d1f1cf61d44f007",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102081863,
+            "county_id":102082361,
+            "localadmin_id":404521211,
             "locality_id":85977539,
             "neighbourhood_id":85867075,
             "region_id":85688543,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":286376019,
-    "wof:lastmodified":1449016192,
+    "wof:lastmodified":1454125577,
     "wof:name":"CLM Equities III",
     "wof:parent_id":85867075,
     "wof:placetype":"venue",
@@ -61,6 +65,11 @@
         "establishment"
     ]
 },
-  "bbox": [-73.939773,40.815414,-73.939773,40.815414],
+  "bbox": [
+    -73.939773,
+    40.815414,
+    -73.939773,
+    40.815414
+],
   "geometry": {"coordinates":[-73.939773,40.815414],"type":"Point"}
 }

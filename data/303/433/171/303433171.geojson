@@ -2,13 +2,14 @@
   "id": 303433171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.239982,40.825993,-73.239982,40.825993",
     "geom:latitude":40.825993,
     "geom:longitude":-73.239982,
     "iso:country":"US",
+    "mz:is_current":-1,
     "sg:address":"644 Veterans Hwy",
     "sg:city":"Hauppauge",
     "sg:classifiers":[
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        420530007,
+        102191575,
+        404522517,
         85633793,
         85979693,
-        102082395
+        102082395,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +44,20 @@
     "wof:geomhash":"ede23cdef79adb38b5749a04fa3b9933",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
             "locality_id":85979693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420530007,
             "region_id":85688543,
             "venue_id":303433171
         }
     ],
     "wof:id":303433171,
-    "wof:lastmodified":1448998404,
+    "wof:lastmodified":1454123086,
     "wof:name":"Andrew Andreou DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530007,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
@@ -60,6 +65,11 @@
         "dentist"
     ]
 },
-  "bbox": [-73.239982,40.825993,-73.239982,40.825993],
+  "bbox": [
+    -73.239982,
+    40.825993,
+    -73.239982,
+    40.825993
+],
   "geometry": {"coordinates":[-73.239982,40.825993],"type":"Point"}
 }
