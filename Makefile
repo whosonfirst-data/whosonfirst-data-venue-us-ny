@@ -6,8 +6,7 @@ WHOAMI = $(shell basename `pwd`)
 YMD = $(shell date "+%Y%m%d")
 
 archive:
-	echo "archive to $(dest)"
-	tar --exclude='.git' -cvjf $(dest)/$(WHOAMI)-$(YMD).bz2 ./
+	tar --exclude='.git*' --exclude='Makefile*' -cvjf $(dest)/$(WHOAMI)-$(YMD).tar.bz2 ./data ./meta ./LICENSE.md ./CONTRIBUTING.md ./README.md
 
 bundles:
 	echo "please write me"
@@ -29,6 +28,17 @@ count:
 gitignore:
 	mv .gitignore .gitignore.$(YMD)
 	curl -s -o .gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/.gitignore
+
+# https://internetarchive.readthedocs.org/en/latest/cli.html#upload
+# https://internetarchive.readthedocs.org/en/latest/quickstart.html#configuring
+
+ia:
+	ia upload $(WHOAMI)-$(YMD) $(src)/$(WHOAMI)-$(YMD).tar.bz2 --metadata="title:$(WHOAMI)-$(YMD)" --metadata="licenseurl:http://creativecommons.org/licenses/by/4.0/" --metadata="date:$(YMD)" --metadata="subject:geo;mapzen;whosonfirst" --metadata="creator:Who's On First (Mapzen)"
+
+internetarchive:
+	$(MAKE) dest=$(src) archive
+	$(MAKE) src=$(src) ia
+	rm $(src)/$(WHOAMI)-$(YMD).tar.bz2
 
 makefile:
 	mv Makefile Makefile.$(YMD)
@@ -55,3 +65,19 @@ setup:
 	git config --add oh-my-zsh.hide-status 1
 	# --------
 	# Okay, all done with setup!
+
+# https://github.com/whosonfirst/py-mapzen-whosonfirst-search
+# Note that this does not try to be at all intelligent. It is a 
+# straight clone in to ES for every record.
+# (20160421/thisisaaronland)
+
+sync-es:
+	wof-es-index --source data --bulk --host $(host)
+
+# https://github.com/whosonfirst/go-whosonfirst-s3
+# Note that this does not try to be especially intelligent. It is a 
+# straight clone with only minimal HEAD/lastmodified checks
+# (20160421/thisisaaronland)
+
+sync-s3:
+	wof-sync-dirs -root data -bucket whosonfirst.mapzen.com -prefix data -processes 64
