@@ -2,8 +2,12 @@
 
 Who's On First venue data for New York (US)
 
+## Important
+
+This work is still in the early stages and some important ancillary artifacts normally found in Who's On First data repositories (like `meta` files) have not been created yet.
+
 ## See also
 
 * https://whosonfirst.mapzen.com/
-* https://whosonfirst.mapzen.com/spelunker/id/85688543
+* https://github.com/whosonfirst-data/whosonfirst-data-venue-us/
 
