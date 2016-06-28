@@ -20,6 +20,8 @@ bundles:
 # `wof-concordances-latest.csv` file. It should but it doesn't.
 # (20160420/thisisaaronland)
 
+# https://github.com/whosonfirst/whosonfirst-data-utils/issues/2
+
 concordances:
 	wof-concordances-write -processes 100 -source ./data > meta/wof-concordances-tmp.csv
 	mv meta/wof-concordances-tmp.csv meta/wof-concordances-$(YMD).csv
@@ -72,7 +74,7 @@ postbuffer:
 post-pull:
 	./.git/hooks/pre-commit --start-commit $(commit)
 	./.git/hooks/post-commit --start-commit $(commit)
-	./.git/hooks/post-push-async --start-commit $(commit)
+	./.git/hooks/post-push --start-commit $(commit)
 
 prune:
 	git gc --aggressive --prune
@@ -98,13 +100,23 @@ setup:
 sync-es:
 	wof-es-index --source data --bulk --host $(host)
 
+# https://github.com/whosonfirst/py-mapzen-whosonfirst-spatial
+
+sync-pg:
+	wof-spatial-index --source data --config $(config)
+
 # https://github.com/whosonfirst/go-whosonfirst-s3
 # Note that this does not try to be especially intelligent. It is a 
 # straight clone with only minimal HEAD/lastmodified checks
 # (20160421/thisisaaronland)
 
+# Also see the way we're passing data as a prefix? That's because we're
+# using the data directory as the root so we need to make sure we prepend
+# it to stuff before sending it to S3 because... well, let's just forget
+# that ever happened okay (20160517/thisisaaronland)
+
 sync-s3:
-	wof-sync-dirs -root data -bucket whosonfirst.mapzen.com -prefix data -processes 64
+	wof-sync-dirs -root data -bucket whosonfirst.mapzen.com -prefix "data" -processes 64
 
 wof-less:
 	less `$(WOF_EXPAND) -prefix data $(id)`
