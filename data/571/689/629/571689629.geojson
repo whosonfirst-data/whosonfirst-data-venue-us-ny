@@ -4,12 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-73.967994,40.680074,-73.967994,40.680074",
-    "geom:latitude":40.680074,
-    "geom:longitude":-73.967994,
+    "geom:area":0,
+    "geom:bbox":"-73.968362,40.679564,-73.968362,40.679564",
+    "geom:latitude":40.679564,
+    "geom:longitude":-73.968362,
     "iso:country":"US",
+    "mz:categories":[
+        "eat_and_drink:eat=restaurant",
+        "eat:restaurant=american"
+    ],
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"552 Vanderbilt Ave",
     "sg:city":"Brooklyn",
     "sg:classifiers":[
@@ -35,15 +40,14 @@
         85977539,
         421205765,
         102082361,
-        85688543,
-        85868665
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60QOfa8kTP4WX77W02PR0U_40.680074_-73.967994@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"953dd08172252f5ca17e12f81c5b78f0",
+    "wof:geomhash":"3292b16141189723ce0ee9fe54f50535",
     "wof:hierarchy":[
         {
             "borough_id":421205765,
@@ -54,22 +58,12 @@
             "neighbourhood_id":85869601,
             "region_id":85688543,
             "venue_id":571689629
-        },
-        {
-            "borough_id":421205765,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082361,
-            "locality_id":85977539,
-            "neighbourhood_id":85868665,
-            "region_id":85688543,
-            "venue_id":571689629
         }
     ],
     "wof:id":571689629,
-    "wof:lastmodified":1466734409,
-    "wof:name":"Vanderbilt",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1472141023,
+    "wof:name":"The Vanderbilt",
+    "wof:parent_id":85869601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],
@@ -84,5 +78,5 @@
     -73.967994,
     40.680074
 ],
-  "geometry": {"coordinates":[-73.967994,40.680074],"type":"Point"}
+  "geometry": {"coordinates":[-73.968362,40.679564],"type":"Point"}
 }
