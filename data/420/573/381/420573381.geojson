@@ -2,18 +2,51 @@
   "id": 420573381,
   "type": "Feature",
   "properties": {
-    "addr:full":"",
-    "addr:housenumber":"",
-    "addr:postcode":"",
-    "addr:street":"",
+    "addr:full":"209 East 5th St, New York, NY 10003",
+    "addr:housenumber":"209",
+    "addr:postcode":"10003",
+    "addr:street":"East 5th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0,
     "geom:bbox":"-73.990345,40.727535,-73.990345,40.727535",
     "geom:latitude":40.727535,
     "geom:longitude":-73.990345,
     "iso:country":"",
+    "mz:categories":[
+        "eat_and_drink:drink=pub"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":{
+        "Friday":{
+            "close":"03:00",
+            "open":"16:00"
+        },
+        "Monday":{
+            "close":"02:00",
+            "open":"16:00"
+        },
+        "Saturday":{
+            "close":"03:00",
+            "open":"16:00"
+        },
+        "Sunday":{
+            "close":"02:00",
+            "open":"16:00"
+        },
+        "Thursday":{
+            "close":"03:00",
+            "open":"16:00"
+        },
+        "Tueday":{
+            "close":"03:00",
+            "open":"16:00"
+        },
+        "Wednesday":{
+            "close":"03:00",
+            "open":"16:00"
+        }
+    },
     "mz:is_current":1,
     "src:geom":"mapzen",
     "wof:belongsto":[
@@ -30,7 +63,6 @@
         "4sq:id":"3fd66200f964a520c9e41ee3"
     },
     "wof:country":"",
-    "wof:created":null,
     "wof:geomhash":"c5115201ae331f082153f486ead7c490",
     "wof:hierarchy":[
         {
@@ -45,7 +77,7 @@
         }
     ],
     "wof:id":420573381,
-    "wof:lastmodified":1472330988,
+    "wof:lastmodified":1473883538,
     "wof:name":"The Scratcher",
     "wof:parent_id":85816887,
     "wof:placetype":"venue",
