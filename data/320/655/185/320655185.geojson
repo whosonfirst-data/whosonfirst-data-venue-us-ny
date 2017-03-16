@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.987715,40.671557,-73.987715,40.671557",
     "geom:latitude":40.671557,
     "geom:longitude":-73.987715,
@@ -33,7 +34,17 @@
         "us"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85892961,
+        102191575,
+        85633793,
+        85977539,
+        421205765,
+        102082361,
+        85688543,
+        85865587,
+        85840609
+    ],
     "wof:brand_id":420573749,
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +52,42 @@
     },
     "wof:country":"US",
     "wof:geomhash":"0df4723f6b12133077a3a69fcc958600",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85892961,
+            "region_id":85688543,
+            "venue_id":320655185
+        },
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85865587,
+            "region_id":85688543,
+            "venue_id":320655185
+        },
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85840609,
+            "region_id":85688543,
+            "venue_id":320655185
+        }
+    ],
     "wof:id":320655185,
-    "wof:lastmodified":1472334902,
+    "wof:lastmodified":1489173444,
     "wof:name":"US Post Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

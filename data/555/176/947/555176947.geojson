@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.906309,40.696833,-73.906309,40.696833",
     "geom:latitude":40.696833,
     "geom:longitude":-73.906309,
@@ -33,13 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808635,
+        85844581,
         102191575,
         85633793,
         85977539,
-        421205765,
+        421205767,
         102082361,
-        85688543
+        85688543,
+        85808635,
+        421205765
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,6 +51,16 @@
     "wof:country":"US",
     "wof:geomhash":"3870df50ac929b93a2a658db8d3b16ef",
     "wof:hierarchy":[
+        {
+            "borough_id":421205767,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85844581,
+            "region_id":85688543,
+            "venue_id":555176947
+        },
         {
             "borough_id":421205765,
             "continent_id":102191575,
@@ -60,9 +73,9 @@
         }
     ],
     "wof:id":555176947,
-    "wof:lastmodified":1472335243,
+    "wof:lastmodified":1489169885,
     "wof:name":"Affordable Used Auto Parts",
-    "wof:parent_id":85808635,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],
