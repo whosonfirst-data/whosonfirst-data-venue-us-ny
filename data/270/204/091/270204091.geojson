@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.999321,40.624656,-73.999321,40.624656",
     "geom:latitude":40.624656,
     "geom:longitude":-73.999321,
@@ -34,7 +35,16 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85805771,
+        102191575,
+        85633793,
+        85977539,
+        421205765,
+        102082361,
+        85688543,
+        85815703
+    ],
     "wof:brand_id":420574273,
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,11 +52,32 @@
     },
     "wof:country":"US",
     "wof:geomhash":"374555dc11add62c2d2c403b7f2ebc7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85805771,
+            "region_id":85688543,
+            "venue_id":270204091
+        },
+        {
+            "borough_id":421205765,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "locality_id":85977539,
+            "neighbourhood_id":85815703,
+            "region_id":85688543,
+            "venue_id":270204091
+        }
+    ],
     "wof:id":270204091,
-    "wof:lastmodified":1472332696,
+    "wof:lastmodified":1489110260,
     "wof:name":"Amoco",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

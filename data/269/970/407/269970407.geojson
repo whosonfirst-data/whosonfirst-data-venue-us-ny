@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.913785,40.885448,-73.913785,40.885448",
     "geom:latitude":40.885448,
     "geom:longitude":-73.913785,
@@ -30,16 +31,15 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85844897,
         102191575,
+        907157029,
         85633793,
         85977539,
+        421205773,
         102082361,
-        85850825,
-        102082377,
-        102081863,
-        102083063,
-        102081779
+        85688543,
+        85850825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,55 +49,32 @@
     "wof:geomhash":"bb0cf84deed48863324041bdd47822da",
     "wof:hierarchy":[
         {
+            "borough_id":421205773,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082361,
             "locality_id":85977539,
-            "neighbourhood_id":85850825,
+            "macrohood_id":907157029,
+            "neighbourhood_id":85844897,
             "region_id":85688543,
             "venue_id":269970407
         },
         {
+            "borough_id":421205773,
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082377,
+            "county_id":102082361,
             "locality_id":85977539,
-            "neighbourhood_id":85850825,
-            "region_id":85688543,
-            "venue_id":269970407
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081863,
-            "locality_id":85977539,
-            "neighbourhood_id":85850825,
-            "region_id":85688543,
-            "venue_id":269970407
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083063,
-            "locality_id":85977539,
-            "neighbourhood_id":85850825,
-            "region_id":85688543,
-            "venue_id":269970407
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081779,
-            "locality_id":85977539,
+            "macrohood_id":907157029,
             "neighbourhood_id":85850825,
             "region_id":85688543,
             "venue_id":269970407
         }
     ],
     "wof:id":269970407,
-    "wof:lastmodified":1472334296,
+    "wof:lastmodified":1489173777,
     "wof:name":"Berson",
-    "wof:parent_id":85850825,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],
