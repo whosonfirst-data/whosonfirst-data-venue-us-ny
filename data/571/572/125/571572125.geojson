@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.969101,41.146918,-73.969101,41.146918",
     "geom:latitude":41.146918,
     "geom:longitude":-73.969101,
@@ -33,11 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85980001,
+        85979971,
         102082385,
-        85845499
+        85688543,
+        85845499,
+        85980001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,8 +52,20 @@
     "wof:geomhash":"f6f02acb5b6a73512811f73f98201b85",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
+            "neighbourhood_id":85825421,
+            "region_id":85688543,
+            "venue_id":571572125
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082385,
+            "localadmin_id":404523091,
             "locality_id":85980001,
             "neighbourhood_id":85845499,
             "region_id":85688543,
@@ -56,9 +73,9 @@
         }
     ],
     "wof:id":571572125,
-    "wof:lastmodified":1472339874,
+    "wof:lastmodified":1492021715,
     "wof:name":"A & S Waterproofing & Restorat",
-    "wof:parent_id":85845499,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.253346,40.709188,-73.253346,40.709188",
     "geom:latitude":40.709188,
     "geom:longitude":-73.253346,
@@ -34,10 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85892749,
+        102191575,
+        404522517,
         85633793,
-        85892753,
-        102082395
+        85978409,
+        102082395,
+        85688543,
+        85892753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,6 +52,16 @@
     "wof:geomhash":"bd76fba991eb931734e2615fc3b94859",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082395,
+            "localadmin_id":404522517,
+            "locality_id":85978409,
+            "neighbourhood_id":85892749,
+            "region_id":85688543,
+            "venue_id":353846839
+        },
+        {
             "country_id":85633793,
             "county_id":102082395,
             "neighbourhood_id":85892753,
@@ -55,9 +70,9 @@
         }
     ],
     "wof:id":353846839,
-    "wof:lastmodified":1472335342,
+    "wof:lastmodified":1492044610,
     "wof:name":"Mail Sentry",
-    "wof:parent_id":85892753,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.58202,41.461121,-73.58202,41.461121",
     "geom:latitude":41.461121,
     "geom:longitude":-73.58202,
@@ -32,18 +33,37 @@
         "engraver"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420529667,
+        85688543,
+        85824277,
+        102083007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04fT071VpiD33UUKzbmsoj_41.461121_-73.582020@1294177022"
     },
     "wof:country":"US",
     "wof:geomhash":"ddd74896b33e6384e76eae63babe0e94",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420529667,
+            "venue_id":303343205
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083007,
+            "neighbourhood_id":85824277,
+            "region_id":85688543,
+            "venue_id":303343205
+        }
+    ],
     "wof:id":303343205,
-    "wof:lastmodified":1472333206,
+    "wof:lastmodified":1492047173,
     "wof:name":"Global Engraving LTD",
-    "wof:parent_id":420529667,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

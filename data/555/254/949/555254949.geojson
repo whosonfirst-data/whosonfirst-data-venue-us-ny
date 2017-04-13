@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.01084,41.716184,-74.01084,41.716184",
     "geom:latitude":41.716184,
     "geom:longitude":-74.01084,
@@ -29,13 +30,14 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
+        85633793,
+        85804215,
+        102081775,
         85825183,
         102191575,
         404523253,
-        85633793,
-        85978939,
-        102081775,
-        85688543
+        85978939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +46,13 @@
     "wof:country":"US",
     "wof:geomhash":"1dc0da9d4e396aea4f2f5d4695b55255",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081775,
+            "neighbourhood_id":85804215,
+            "region_id":85688543,
+            "venue_id":555254949
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -56,9 +65,9 @@
         }
     ],
     "wof:id":555254949,
-    "wof:lastmodified":1472336523,
+    "wof:lastmodified":1492029885,
     "wof:name":"Archer's Great Outdoors",
-    "wof:parent_id":85825183,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

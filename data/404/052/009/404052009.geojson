@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.685924,41.447187,-73.685924,41.447187",
     "geom:latitude":41.447187,
     "geom:longitude":-73.685924,
@@ -34,13 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
+        85633793,
+        85979557,
+        102083007,
+        85819241,
         85809543,
         102191575,
         404523047,
-        85633793,
-        85979559,
-        102083007,
-        85688543
+        85979559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +52,14 @@
     "wof:country":"US",
     "wof:geomhash":"80fb0b6b9e231b09ee8f25dada876a21",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083007,
+            "locality_id":85979557,
+            "neighbourhood_id":85819241,
+            "region_id":85688543,
+            "venue_id":404052009
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -61,9 +72,9 @@
         }
     ],
     "wof:id":404052009,
-    "wof:lastmodified":1472331175,
+    "wof:lastmodified":1492049196,
     "wof:name":"Brown Ink",
-    "wof:parent_id":85809543,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.863162,41.399967,-73.863162,41.399967",
     "geom:latitude":41.399967,
     "geom:longitude":-73.863162,
@@ -28,18 +29,45 @@
     "sg:postcode":"10579",
     "sg:province":"NY",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85814339,
+        102083007,
+        85839895,
+        420529691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3T91Mj3uYphXEvpba6J2KN_41.399967_-73.863162@1294177022"
     },
     "wof:country":"US",
     "wof:geomhash":"c041541ce1ef6a02486ed7ecf1738264",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083007,
+            "neighbourhood_id":85814339,
+            "region_id":85688543,
+            "venue_id":555432131
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083007,
+            "neighbourhood_id":85839895,
+            "region_id":85688543,
+            "venue_id":555432131
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420529691,
+            "venue_id":555432131
+        }
+    ],
     "wof:id":555432131,
-    "wof:lastmodified":1472337402,
+    "wof:lastmodified":1492075190,
     "wof:name":"Caribbeans German Shepherds",
-    "wof:parent_id":420529691,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

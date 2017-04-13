@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.854987,41.672215,-73.854987,41.672215",
     "geom:latitude":41.672215,
     "geom:longitude":-73.854987,
@@ -33,18 +34,37 @@
         "dancing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420528437,
+        85688543,
+        85832059,
+        102082363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UwoHk3GWLt0QJdO63nZoi_41.672215_-73.854987@1294177022"
     },
     "wof:country":"US",
     "wof:geomhash":"17323a913420dcef9b9a34d7dd59a520",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420528437,
+            "venue_id":320363291
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082363,
+            "neighbourhood_id":85832059,
+            "region_id":85688543,
+            "venue_id":320363291
+        }
+    ],
     "wof:id":320363291,
-    "wof:lastmodified":1472333586,
+    "wof:lastmodified":1492054741,
     "wof:name":"Kerry's Dance Academy",
-    "wof:parent_id":420528437,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

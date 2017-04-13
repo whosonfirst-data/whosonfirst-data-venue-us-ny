@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.858716,41.676116,-73.858716,41.676116",
     "geom:latitude":41.676116,
     "geom:longitude":-73.858716,
@@ -29,18 +30,37 @@
     "sg:postcode":"12603",
     "sg:province":"NY",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85832059,
+        102082363,
+        420528437
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76vzInOXEsyCb7csI48TT5_41.676116_-73.858716@1294177022"
     },
     "wof:country":"US",
     "wof:geomhash":"184f662ae62aa48faffa05980098e6d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082363,
+            "neighbourhood_id":85832059,
+            "region_id":85688543,
+            "venue_id":387627653
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420528437,
+            "venue_id":387627653
+        }
+    ],
     "wof:id":387627653,
-    "wof:lastmodified":1472335263,
+    "wof:lastmodified":1492040039,
     "wof:name":"Priority Eyewear Inc",
-    "wof:parent_id":420528437,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

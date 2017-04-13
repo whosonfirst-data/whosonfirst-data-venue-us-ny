@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.77293,41.034329,-73.77293,41.034329",
     "geom:latitude":41.034329,
     "geom:longitude":-73.77293,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85893079,
+        102191575,
+        404523395,
         85633793,
-        85893081,
-        102082373
+        85978761,
+        102082373,
+        85688543,
+        85893081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,6 +50,16 @@
     "wof:geomhash":"4e17ddc99d465373b58ff81d68d8fff1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523395,
+            "locality_id":85978761,
+            "neighbourhood_id":85893079,
+            "region_id":85688543,
+            "venue_id":555682899
+        },
+        {
             "country_id":85633793,
             "county_id":102082373,
             "neighbourhood_id":85893081,
@@ -53,9 +68,9 @@
         }
     ],
     "wof:id":555682899,
-    "wof:lastmodified":1472338722,
+    "wof:lastmodified":1492062154,
     "wof:name":"Underweiser and Underweiser",
-    "wof:parent_id":85893081,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

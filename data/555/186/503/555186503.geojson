@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.644243,41.465554,-73.644243,41.465554",
     "geom:latitude":41.465554,
     "geom:longitude":-73.644243,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85828125,
+        102191575,
+        404523049,
         85633793,
         85979557,
         102083007,
+        85688543,
         85819241
     ],
     "wof:breaches":[],
@@ -47,6 +51,16 @@
     "wof:geomhash":"ee6deea27d82cab570965eef02eb5614",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083007,
+            "localadmin_id":404523049,
+            "locality_id":85979557,
+            "neighbourhood_id":85828125,
+            "region_id":85688543,
+            "venue_id":555186503
+        },
+        {
             "country_id":85633793,
             "county_id":102083007,
             "locality_id":85979557,
@@ -56,9 +70,9 @@
         }
     ],
     "wof:id":555186503,
-    "wof:lastmodified":1472335229,
+    "wof:lastmodified":1492040859,
     "wof:name":"Putnam County Highway Dept",
-    "wof:parent_id":85819241,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

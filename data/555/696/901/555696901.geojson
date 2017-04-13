@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.809174,41.664014,-73.809174,41.664014",
     "geom:latitude":41.664014,
     "geom:longitude":-73.809174,
@@ -38,8 +39,10 @@
     "wof:belongsto":[
         85688543,
         85633793,
-        85838575,
-        102082363
+        85979243,
+        102082363,
+        85820645,
+        85838575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +54,23 @@
         {
             "country_id":85633793,
             "county_id":102082363,
+            "locality_id":85979243,
+            "neighbourhood_id":85820645,
+            "region_id":85688543,
+            "venue_id":555696901
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082363,
             "neighbourhood_id":85838575,
             "region_id":85688543,
             "venue_id":555696901
         }
     ],
     "wof:id":555696901,
-    "wof:lastmodified":1472338750,
+    "wof:lastmodified":1492046220,
     "wof:name":"Country Grove Childrens Center",
-    "wof:parent_id":85838575,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

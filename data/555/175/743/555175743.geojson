@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.757615,41.620698,-73.757615,41.620698",
     "geom:latitude":41.620698,
     "geom:longitude":-73.757615,
@@ -33,18 +34,33 @@
         "site"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420528461,
+        420528469
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_655NkouqrN6n05FJ4DzaQT_41.620698_-73.757615@1294177022"
     },
     "wof:country":"US",
     "wof:geomhash":"ad726aa8b12c9611a561bf3da6d21afd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420528461,
+            "venue_id":555175743
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420528469,
+            "venue_id":555175743
+        }
+    ],
     "wof:id":555175743,
-    "wof:lastmodified":1472335225,
+    "wof:lastmodified":1492022579,
     "wof:name":"Lake View Terrace Mobile HM Pk",
-    "wof:parent_id":420528461,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

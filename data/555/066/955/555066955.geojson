@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.966711,41.134353,-73.966711,41.134353",
     "geom:latitude":41.134353,
     "geom:longitude":-73.966711,
@@ -32,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85825421,
+        102191575,
+        404523091,
         85633793,
-        85980001,
+        85979971,
         102082385,
-        85845499
+        85688543,
+        85845499,
+        85980001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +51,20 @@
     "wof:geomhash":"41c231c30ff7c798f7d83694d2e6c8a3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082385,
+            "localadmin_id":404523091,
+            "locality_id":85979971,
+            "neighbourhood_id":85825421,
+            "region_id":85688543,
+            "venue_id":555066955
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082385,
+            "localadmin_id":404523091,
             "locality_id":85980001,
             "neighbourhood_id":85845499,
             "region_id":85688543,
@@ -55,9 +72,9 @@
         }
     ],
     "wof:id":555066955,
-    "wof:lastmodified":1472333490,
+    "wof:lastmodified":1492023919,
     "wof:name":"Thomas R Parisi PE",
-    "wof:parent_id":85845499,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

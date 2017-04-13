@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.061325,41.83474,-74.061325,41.83474",
     "geom:latitude":41.83474,
     "geom:longitude":-74.061325,
@@ -32,18 +33,45 @@
         "taxation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420530239,
+        102191575,
+        404523267,
+        85633793,
+        85978973,
+        102081775,
+        85688543,
+        85813611
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VU5pQDQ9sPWlcB8beFp5n_41.834740_-74.061325@1294177022"
     },
     "wof:country":"US",
     "wof:geomhash":"3e4ff48e8afbf4056fc0aeae47137bb8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081775,
+            "localadmin_id":404523267,
+            "locality_id":85978973,
+            "neighbourhood_id":420530239,
+            "region_id":85688543,
+            "venue_id":555561571
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081775,
+            "neighbourhood_id":85813611,
+            "region_id":85688543,
+            "venue_id":555561571
+        }
+    ],
     "wof:id":555561571,
-    "wof:lastmodified":1472338086,
+    "wof:lastmodified":1492046242,
     "wof:name":"Tax Collector",
-    "wof:parent_id":420530239,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

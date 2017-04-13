@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.311754,40.756867,-73.311754,40.756867",
     "geom:latitude":40.756867,
     "geom:longitude":-73.311754,
@@ -29,13 +30,16 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85892811,
+        85804871,
         102191575,
-        404522513,
+        404522517,
         85633793,
-        85979783,
+        85979891,
         102082395,
-        85688543
+        85688543,
+        85892811,
+        404522513,
+        85979783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,6 +52,16 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082395,
+            "localadmin_id":404522517,
+            "locality_id":85979891,
+            "neighbourhood_id":85804871,
+            "region_id":85688543,
+            "venue_id":555563107
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082395,
             "localadmin_id":404522513,
             "locality_id":85979783,
             "neighbourhood_id":85892811,
@@ -56,9 +70,9 @@
         }
     ],
     "wof:id":555563107,
-    "wof:lastmodified":1472338053,
+    "wof:lastmodified":1492044687,
     "wof:name":"Spellman High Voltage Elec",
-    "wof:parent_id":85892811,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

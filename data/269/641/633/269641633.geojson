@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.591533,41.644037,-73.591533,41.644037",
     "geom:latitude":41.644037,
     "geom:longitude":-73.591533,
@@ -33,18 +34,33 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420528467,
+        420528435
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1R9fhvohmHAsUgyrDCD6T2_41.644037_-73.591533@1294177022"
     },
     "wof:country":"US",
     "wof:geomhash":"ea736977f682af3fbbebbccc724746bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420528467,
+            "venue_id":269641633
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420528435,
+            "venue_id":269641633
+        }
+    ],
     "wof:id":269641633,
-    "wof:lastmodified":1472332215,
+    "wof:lastmodified":1492085993,
     "wof:name":"Hamel's Automotive Inc",
-    "wof:parent_id":420528467,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

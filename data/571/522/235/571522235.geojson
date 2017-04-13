@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.526989,40.668061,-73.526989,40.668061",
     "geom:latitude":40.668061,
     "geom:longitude":-73.526989,
@@ -34,13 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85892757,
+        85893065,
         102191575,
         404521473,
         85633793,
-        85979125,
+        85979065,
         102082371,
-        85688543
+        85688543,
+        85892757,
+        85979125
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,6 +57,16 @@
             "country_id":85633793,
             "county_id":102082371,
             "localadmin_id":404521473,
+            "locality_id":85979065,
+            "neighbourhood_id":85893065,
+            "region_id":85688543,
+            "venue_id":571522235
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082371,
+            "localadmin_id":404521473,
             "locality_id":85979125,
             "neighbourhood_id":85892757,
             "region_id":85688543,
@@ -61,9 +74,9 @@
         }
     ],
     "wof:id":571522235,
-    "wof:lastmodified":1472339385,
+    "wof:lastmodified":1492071423,
     "wof:name":"Managed Health Care Svc",
-    "wof:parent_id":85892757,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

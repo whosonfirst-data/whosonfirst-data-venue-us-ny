@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.843609,41.391135,-73.843609,41.391135",
     "geom:latitude":41.391135,
     "geom:longitude":-73.843609,
@@ -31,18 +32,37 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85839895,
+        102083007,
+        420529691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GKq7GijQb3ApK6eyqJZp3_41.391135_-73.843609@1294177022"
     },
     "wof:country":"US",
     "wof:geomhash":"fa245b319f77d1c7e280e393334fac55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083007,
+            "neighbourhood_id":85839895,
+            "region_id":85688543,
+            "venue_id":555075797
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420529691,
+            "venue_id":555075797
+        }
+    ],
     "wof:id":555075797,
-    "wof:lastmodified":1472333883,
+    "wof:lastmodified":1492076540,
     "wof:name":"D J Booth Contracting Inc",
-    "wof:parent_id":420529691,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

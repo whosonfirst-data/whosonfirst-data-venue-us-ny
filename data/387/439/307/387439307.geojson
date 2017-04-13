@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.059522,41.716505,-74.059522,41.716505",
     "geom:latitude":41.716505,
     "geom:longitude":-74.059522,
@@ -34,18 +35,37 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420530269,
+        85688543,
+        85839257,
+        102081775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AgdGWpXd7oG9ZvizO79nq_41.716505_-74.059522@1294177022"
     },
     "wof:country":"US",
     "wof:geomhash":"a7785ff826b711c057d6b1bbcb5d50cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420530269,
+            "venue_id":387439307
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081775,
+            "neighbourhood_id":85839257,
+            "region_id":85688543,
+            "venue_id":387439307
+        }
+    ],
     "wof:id":387439307,
-    "wof:lastmodified":1472334604,
+    "wof:lastmodified":1492039160,
     "wof:name":"Peppino's Food Inc",
-    "wof:parent_id":420530269,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],
