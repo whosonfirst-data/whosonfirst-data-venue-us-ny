@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.922488,41.400949,-73.922488,41.400949",
     "geom:latitude":41.400949,
     "geom:longitude":-73.922488,
@@ -32,18 +33,37 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85836471,
+        102083007,
+        420529669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5d2lHYQeJ0o5cFypS2rxNE_41.400949_-73.922488@1294177022"
     },
     "wof:country":"US",
     "wof:geomhash":"efd7de7b5280fe8b9b414064a9846df8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083007,
+            "neighbourhood_id":85836471,
+            "region_id":85688543,
+            "venue_id":270383473
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420529669,
+            "venue_id":270383473
+        }
+    ],
     "wof:id":270383473,
-    "wof:lastmodified":1472333883,
+    "wof:lastmodified":1492054614,
     "wof:name":"Skillman Production Inc",
-    "wof:parent_id":420529669,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

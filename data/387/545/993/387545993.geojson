@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.906311,41.717856,-73.906311,41.717856",
     "geom:latitude":41.717856,
     "geom:longitude":-73.906311,
@@ -33,13 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688543,
+        85633793,
+        85979287,
+        102082363,
+        85865329,
         85892989,
         102191575,
         404522305,
-        85633793,
-        85977835,
-        102082363,
-        85688543
+        85977835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,6 +51,14 @@
     "wof:country":"US",
     "wof:geomhash":"b3aab87a4eaa8a08df2ddf0fa66d3753",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082363,
+            "locality_id":85979287,
+            "neighbourhood_id":85865329,
+            "region_id":85688543,
+            "venue_id":387545993
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +71,9 @@
         }
     ],
     "wof:id":387545993,
-    "wof:lastmodified":1472335022,
+    "wof:lastmodified":1492066314,
     "wof:name":"Finnegan's Warehouse Corp",
-    "wof:parent_id":85892989,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

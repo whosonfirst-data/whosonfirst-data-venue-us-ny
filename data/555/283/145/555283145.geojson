@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.768194,41.650031,-73.768194,41.650031",
     "geom:latitude":41.650031,
     "geom:longitude":-73.768194,
@@ -32,18 +33,39 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420528461,
+        85688543,
+        85979243,
+        102082363,
+        85820645
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dWNkKk1AXXRi10EqwNZQm_41.650031_-73.768194@1294177022"
     },
     "wof:country":"US",
     "wof:geomhash":"7efb14886761cfb80efbb5d1c1d85341",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420528461,
+            "venue_id":555283145
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082363,
+            "locality_id":85979243,
+            "neighbourhood_id":85820645,
+            "region_id":85688543,
+            "venue_id":555283145
+        }
+    ],
     "wof:id":555283145,
-    "wof:lastmodified":1472336407,
+    "wof:lastmodified":1492066484,
     "wof:name":"Reilly Contracting Inc",
-    "wof:parent_id":420528461,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.889168,41.656279,-73.889168,41.656279",
     "geom:latitude":41.656279,
     "geom:longitude":-73.889168,
@@ -33,13 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420528515,
         85865331,
         102191575,
         404522309,
-        85633793,
         85979261,
         102082363,
-        85688543
+        85688543,
+        85844073,
+        85979255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +53,11 @@
     "wof:geomhash":"40b7266c3ea667d34093777c0e418fd9",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "neighbourhood_id":420528515,
+            "venue_id":253217211
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082363,
@@ -57,12 +66,22 @@
             "neighbourhood_id":85865331,
             "region_id":85688543,
             "venue_id":253217211
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082363,
+            "localadmin_id":404522309,
+            "locality_id":85979255,
+            "neighbourhood_id":85844073,
+            "region_id":85688543,
+            "venue_id":253217211
         }
     ],
     "wof:id":253217211,
-    "wof:lastmodified":1472332505,
+    "wof:lastmodified":1492064975,
     "wof:name":"James Liberati Const Inc",
-    "wof:parent_id":85865331,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

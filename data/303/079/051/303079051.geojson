@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.990008,41.694606,-73.990008,41.694606",
     "geom:latitude":41.694606,
     "geom:longitude":-73.990008,
@@ -35,8 +36,13 @@
     "wof:belongsto":[
         85688543,
         85633793,
+        85804215,
+        102081775,
         85838919,
-        102081775
+        85825183,
+        102191575,
+        404523253,
+        85978939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +54,32 @@
         {
             "country_id":85633793,
             "county_id":102081775,
+            "neighbourhood_id":85804215,
+            "region_id":85688543,
+            "venue_id":303079051
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081775,
             "neighbourhood_id":85838919,
+            "region_id":85688543,
+            "venue_id":303079051
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081775,
+            "localadmin_id":404523253,
+            "locality_id":85978939,
+            "neighbourhood_id":85825183,
             "region_id":85688543,
             "venue_id":303079051
         }
     ],
     "wof:id":303079051,
-    "wof:lastmodified":1472331130,
+    "wof:lastmodified":1492067934,
     "wof:name":"Fax-Link",
-    "wof:parent_id":85838919,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.069257,41.829167,-74.069257,41.829167",
     "geom:latitude":41.829167,
     "geom:longitude":-74.069257,
@@ -36,8 +37,10 @@
     "wof:belongsto":[
         85688543,
         85633793,
-        85813611,
-        102081775
+        85978973,
+        102081775,
+        85806151,
+        85813611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +52,23 @@
         {
             "country_id":85633793,
             "county_id":102081775,
+            "locality_id":85978973,
+            "neighbourhood_id":85806151,
+            "region_id":85688543,
+            "venue_id":386924579
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081775,
             "neighbourhood_id":85813611,
             "region_id":85688543,
             "venue_id":386924579
         }
     ],
     "wof:id":386924579,
-    "wof:lastmodified":1472330993,
+    "wof:lastmodified":1492025008,
     "wof:name":"Joe's Garage",
-    "wof:parent_id":85813611,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

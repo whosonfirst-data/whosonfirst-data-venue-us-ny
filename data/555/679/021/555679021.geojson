@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.88971,41.638661,-73.88971,41.638661",
     "geom:latitude":41.638661,
     "geom:longitude":-73.88971,
@@ -31,18 +32,43 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420528477,
+        85865331,
+        102191575,
+        404522309,
+        85979261,
+        102082363,
+        85688543
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6twdRzUc20tZiXUh8HvTD2_41.638661_-73.889710@1294177022"
     },
     "wof:country":"US",
     "wof:geomhash":"d343d1397d6cbd45d4639c50822b38b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420528477,
+            "venue_id":555679021
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082363,
+            "localadmin_id":404522309,
+            "locality_id":85979261,
+            "neighbourhood_id":85865331,
+            "region_id":85688543,
+            "venue_id":555679021
+        }
+    ],
     "wof:id":555679021,
-    "wof:lastmodified":1472338651,
+    "wof:lastmodified":1492040344,
     "wof:name":"Jeff Marcus Construction",
-    "wof:parent_id":420528477,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

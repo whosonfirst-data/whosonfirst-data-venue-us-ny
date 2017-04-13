@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.960521,41.668609,-73.960521,41.668609",
     "geom:latitude":41.668609,
     "geom:longitude":-73.960521,
@@ -32,18 +33,37 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420528485,
+        85688543,
+        85838919,
+        102081775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FlZrfmQSnAj5Pbk4n2Svb_41.668609_-73.960521@1294177022"
     },
     "wof:country":"US",
     "wof:geomhash":"25f21bfe0f7e45ffe91508015c195333",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420528485,
+            "venue_id":320689555
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081775,
+            "neighbourhood_id":85838919,
+            "region_id":85688543,
+            "venue_id":320689555
+        }
+    ],
     "wof:id":320689555,
-    "wof:lastmodified":1472335057,
+    "wof:lastmodified":1492054601,
     "wof:name":"Mens Room",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

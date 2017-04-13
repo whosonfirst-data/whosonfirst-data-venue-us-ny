@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.622182,41.484331,-73.622182,41.484331",
     "geom:latitude":41.484331,
     "geom:longitude":-73.622182,
@@ -31,18 +32,41 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85852459,
+        102083007,
+        85979557,
+        85819241
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Lx3GnOuQSAjNpJwb0mTxT_41.484331_-73.622182@1294177022"
     },
     "wof:country":"US",
     "wof:geomhash":"74dff0d909577ff3b59b178a1f43fcaf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083007,
+            "neighbourhood_id":85852459,
+            "region_id":85688543,
+            "venue_id":554976643
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083007,
+            "locality_id":85979557,
+            "neighbourhood_id":85819241,
+            "region_id":85688543,
+            "venue_id":554976643
+        }
+    ],
     "wof:id":554976643,
-    "wof:lastmodified":1472333203,
+    "wof:lastmodified":1492046589,
     "wof:name":"Hudson Valley Trust Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

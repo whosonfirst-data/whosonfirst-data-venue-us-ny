@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.774782,41.062794,-73.774782,41.062794",
     "geom:latitude":41.062794,
     "geom:longitude":-73.774782,
@@ -32,18 +33,37 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420530477,
+        85688543,
+        85843425,
+        102082373
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BAQug8ZpIa1iiFOZhqi6X_41.062794_-73.774782@1294177022"
     },
     "wof:country":"US",
     "wof:geomhash":"f0a2949735ff45ab501bbc435b940e1d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420530477,
+            "venue_id":555240859
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082373,
+            "neighbourhood_id":85843425,
+            "region_id":85688543,
+            "venue_id":555240859
+        }
+    ],
     "wof:id":555240859,
-    "wof:lastmodified":1472336655,
+    "wof:lastmodified":1492022367,
     "wof:name":"Mojimprovement Maintenance",
-    "wof:parent_id":420530477,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

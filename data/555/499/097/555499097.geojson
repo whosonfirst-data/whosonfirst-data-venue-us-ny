@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.892884,41.206676,-73.892884,41.206676",
     "geom:latitude":41.206676,
     "geom:longitude":-73.892884,
@@ -29,11 +30,15 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        85839891,
+        102191575,
+        404523355,
         85633793,
         85980073,
         102082373,
-        85839891
+        85688543,
+        85813053,
+        85978745
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +48,30 @@
     "wof:geomhash":"eccce06775316699f95b5c51e647a99d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082373,
+            "localadmin_id":404523355,
             "locality_id":85980073,
             "neighbourhood_id":85839891,
+            "region_id":85688543,
+            "venue_id":555499097
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523355,
+            "locality_id":85978745,
+            "neighbourhood_id":85813053,
             "region_id":85688543,
             "venue_id":555499097
         }
     ],
     "wof:id":555499097,
-    "wof:lastmodified":1472337600,
+    "wof:lastmodified":1492076542,
     "wof:name":"Ocean House",
-    "wof:parent_id":85839891,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.487833,41.3366,-74.487833,41.3366",
     "geom:latitude":41.3366,
     "geom:longitude":-74.487833,
@@ -31,18 +32,33 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420529467,
+        420529479
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56fh0PPvh9HDk6aU8fZweL_41.336600_-74.487833@1294177022"
     },
     "wof:country":"US",
     "wof:geomhash":"6777e4b91c6f8ed3952dc2c57c0c58b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420529467,
+            "venue_id":555666333
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420529479,
+            "venue_id":555666333
+        }
+    ],
     "wof:id":555666333,
-    "wof:lastmodified":1472338643,
+    "wof:lastmodified":1492060836,
     "wof:name":"Green Valley Onion Co Inc",
-    "wof:parent_id":420529479,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

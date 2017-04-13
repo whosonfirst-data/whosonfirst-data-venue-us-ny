@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.398127,41.49724,-74.398127,41.49724",
     "geom:latitude":41.49724,
     "geom:longitude":-74.398127,
@@ -34,18 +35,37 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420529497,
+        85688543,
+        85818439,
+        102083061
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YQuiNqageKDU1e0M9IsTb_41.497240_-74.398127@1294177022"
     },
     "wof:country":"US",
     "wof:geomhash":"a9e8d0a283271f62957abc72c35fc450",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420529497,
+            "venue_id":269630465
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083061,
+            "neighbourhood_id":85818439,
+            "region_id":85688543,
+            "venue_id":269630465
+        }
+    ],
     "wof:id":269630465,
-    "wof:lastmodified":1472332128,
+    "wof:lastmodified":1492043224,
     "wof:name":"Collectible COINS/Pdc",
-    "wof:parent_id":420529497,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

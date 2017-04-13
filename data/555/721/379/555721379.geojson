@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.909485,41.57919,-73.909485,41.57919",
     "geom:latitude":41.57919,
     "geom:longitude":-73.909485,
@@ -32,18 +33,31 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85828631,
+        102082363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pXDS03u7D9uBH5pJOn816_41.579190_-73.909485@1294177022"
     },
     "wof:country":"US",
     "wof:geomhash":"3ccb3736bdbd9232fb99153d27c14c3a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082363,
+            "neighbourhood_id":85828631,
+            "region_id":85688543,
+            "venue_id":555721379
+        }
+    ],
     "wof:id":555721379,
-    "wof:lastmodified":1472338819,
+    "wof:lastmodified":1492040044,
     "wof:name":"Old Route 9 Automobile",
-    "wof:parent_id":-1,
+    "wof:parent_id":85828631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

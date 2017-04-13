@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.304621,41.320924,-74.304621,41.320924",
     "geom:latitude":41.320924,
     "geom:longitude":-74.304621,
@@ -34,8 +35,10 @@
     "wof:belongsto":[
         85688543,
         85633793,
-        85815629,
-        102083061
+        85978169,
+        102083061,
+        85816113,
+        85815629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +50,23 @@
         {
             "country_id":85633793,
             "county_id":102083061,
+            "locality_id":85978169,
+            "neighbourhood_id":85816113,
+            "region_id":85688543,
+            "venue_id":555445555
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083061,
             "neighbourhood_id":85815629,
             "region_id":85688543,
             "venue_id":555445555
         }
     ],
     "wof:id":555445555,
-    "wof:lastmodified":1472337672,
+    "wof:lastmodified":1492024582,
     "wof:name":"Honey Bea Day Care",
-    "wof:parent_id":85815629,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.554411,41.66356,-73.554411,41.66356",
     "geom:latitude":41.66356,
     "geom:longitude":-73.554411,
@@ -32,18 +33,37 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420528467,
+        85688543,
+        85815051,
+        102082363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WcLvm7QDosbMY2o9SWcRB_41.663560_-73.554411@1294177022"
     },
     "wof:country":"US",
     "wof:geomhash":"257e4b15862be258a3f046e5448aad75",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420528467,
+            "venue_id":387001939
+        },
+        {
+            "country_id":85633793,
+            "county_id":102082363,
+            "neighbourhood_id":85815051,
+            "region_id":85688543,
+            "venue_id":387001939
+        }
+    ],
     "wof:id":387001939,
-    "wof:lastmodified":1472331013,
+    "wof:lastmodified":1492045599,
     "wof:name":"Amber Limousine",
-    "wof:parent_id":420528467,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],
