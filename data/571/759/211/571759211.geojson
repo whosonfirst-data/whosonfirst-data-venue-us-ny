@@ -3,18 +3,41 @@
   "type": "Feature",
   "properties": {
     "addr:full":"1 Union Sq W New York NY 10003",
-    "addr:housenumber":"1",
+    "addr:housenumber":1,
     "addr:postcode":"10003",
     "addr:street":"Union Sq W",
+    "addr:website":"https://www.grownyc.org/greenmarket/manhattan-union-square-m",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-73.991896,40.73551,-73.991896,40.73551",
-    "geom:latitude":40.73551,
-    "geom:longitude":-73.991896,
+    "geom:area":0,
+    "geom:area_square_m":0,
+    "geom:bbox":"-73.99057,40.736267,-73.99057,40.736267",
+    "geom:latitude":40.736267,
+    "geom:longitude":-73.99057,
     "iso:country":"US",
+    "mz:categories":[
+        "shop_and_service:shop=farmers_market"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":{
+        "fri":{
+            "close":"18:00",
+            "open":"08:00"
+        },
+        "mon":{
+            "close":"18:00",
+            "open":"08:00"
+        },
+        "sat":{
+            "close":"18:00",
+            "open":"08:00"
+        },
+        "wed":{
+            "close":"18:00",
+            "open":"08:00"
+        }
+    },
+    "mz:is_current":1,
     "sg:address":"1 Union Sq W",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -39,7 +62,9 @@
     "sg:website":"www.cenyc.org/greenmarket",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85810589,
+        907215761,
+        "571759211",
+        85865705,
         102191575,
         907215781,
         85633793,
@@ -53,7 +78,7 @@
         "sg:id":"SG_5TmECB4MIMsnq2hbCAtmE3_40.735510_-73.991896@1303262287"
     },
     "wof:country":"US",
-    "wof:geomhash":"79f40809819cf53dadf3aa867b74b780",
+    "wof:geomhash":"dfc45b8ad274bcb6b631a0c908b651fe",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -62,15 +87,16 @@
             "county_id":102081863,
             "locality_id":85977539,
             "macrohood_id":907215781,
-            "neighbourhood_id":85810589,
+            "microhood_id":907215761,
+            "neighbourhood_id":85865705,
             "region_id":85688543,
-            "venue_id":571759211
+            "venue_id":"571759211"
         }
     ],
     "wof:id":571759211,
-    "wof:lastmodified":1491276247,
+    "wof:lastmodified":1492116245,
     "wof:name":"Union Square Greenmarket",
-    "wof:parent_id":85810589,
+    "wof:parent_id":907215761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],
@@ -85,5 +111,5 @@
     -73.991896,
     40.73551
 ],
-  "geometry": {"coordinates":[-73.991896,40.73551],"type":"Point"}
+  "geometry": {"coordinates":[-73.99057000000001,40.736267],"type":"Point"}
 }
