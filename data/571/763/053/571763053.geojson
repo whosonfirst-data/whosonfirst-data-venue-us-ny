@@ -3,18 +3,55 @@
   "type": "Feature",
   "properties": {
     "addr:full":"21 E 7th St New York NY 10003",
-    "addr:housenumber":"21",
+    "addr:housenumber":21,
+    "addr:phone":"212-228-4923",
     "addr:postcode":"10003",
     "addr:street":"E 7Th St",
+    "addr:website":"http://www.porsena.com/",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area":0,
+    "geom:area_square_m":0,
     "geom:bbox":"-73.989559,40.728606,-73.989559,40.728606",
     "geom:latitude":40.728606,
     "geom:longitude":-73.989559,
     "iso:country":"US",
+    "mz:categories":[
+        "eat_and_drink:eat=restaurant",
+        "eat:restaurant=italian"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":{
+        "fri":{
+            "close":"23:00",
+            "open":"17:30"
+        },
+        "mon":{
+            "close":"22:00",
+            "open":"17:30"
+        },
+        "sat":{
+            "close":"23:00",
+            "open":"17:30"
+        },
+        "sun":{
+            "close":"22:00",
+            "open":"17:30"
+        },
+        "thu":{
+            "close":"23:00",
+            "open":"17:30"
+        },
+        "tue":{
+            "close":"23:00",
+            "open":"17:30"
+        },
+        "wed":{
+            "close":"23:00",
+            "open":"17:30"
+        }
+    },
+    "mz:is_current":1,
     "sg:address":"21 E 7th St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -47,7 +84,7 @@
         "sg:id":"SG_5pKBj9hUOfxbODgHfyb21C_40.728606_-73.989559@1303262288"
     },
     "wof:country":"US",
-    "wof:geomhash":"35486d1bc57fee37eeae678e74a2caf5",
+    "wof:geomhash":"4ae8dc2228776a2eafc6a860e430abcb",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -62,7 +99,7 @@
         }
     ],
     "wof:id":571763053,
-    "wof:lastmodified":1491267154,
+    "wof:lastmodified":1496250949,
     "wof:name":"Porsena",
     "wof:parent_id":85816887,
     "wof:placetype":"venue",
@@ -70,7 +107,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
-        "italian"
+        "italian",
+        "restaurant"
     ]
 },
   "bbox": [
