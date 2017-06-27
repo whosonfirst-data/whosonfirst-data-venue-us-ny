@@ -3,18 +3,22 @@
   "type": "Feature",
   "properties": {
     "addr:full":"187 Columbia St Brooklyn NY 11231",
-    "addr:housenumber":"187",
+    "addr:housenumber":187,
     "addr:postcode":"11231",
     "addr:street":"Columbia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-74.002379,40.685703,-74.002379,40.685703",
-    "geom:latitude":40.685703,
-    "geom:longitude":-74.002379,
+    "geom:area":0,
+    "geom:area_square_m":0,
+    "geom:bbox":"-74.002265,40.685597,-74.002265,40.685597",
+    "geom:latitude":40.685597,
+    "geom:longitude":-74.002265,
     "iso:country":"US",
+    "mz:categories":[
+        "eat_and_drink:drink=bar"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
     "mz:is_current":-1,
     "sg:address":"187 Columbia St",
     "sg:city":"Brooklyn",
@@ -31,6 +35,7 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "337285815",
         85892923,
         102191575,
         85633793,
@@ -44,7 +49,7 @@
         "sg:id":"SG_2LCTuRfMCOCLmf7tsKwi0D_40.685703_-74.002379@1303262348"
     },
     "wof:country":"US",
-    "wof:geomhash":"dad3a0fe439e9449e28ca2a5f6136b99",
+    "wof:geomhash":"01c464134404162652f5a77765195ce4",
     "wof:hierarchy":[
         {
             "borough_id":421205765,
@@ -54,18 +59,21 @@
             "locality_id":85977539,
             "neighbourhood_id":85892923,
             "region_id":85688543,
-            "venue_id":337285815
+            "venue_id":"337285815"
         }
     ],
     "wof:id":337285815,
-    "wof:lastmodified":1490404784,
+    "wof:lastmodified":1498541206,
     "wof:name":"B61",
     "wof:parent_id":85892923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
     "wof:superseded_by":[],
     "wof:supersedes":[],
-    "wof:tags":[]
+    "wof:tags":[
+        "beer",
+        "bar"
+    ]
 },
   "bbox": [
     -74.002379,
@@ -73,5 +81,5 @@
     -74.002379,
     40.685703
 ],
-  "geometry": {"coordinates":[-74.002379,40.685703],"type":"Point"}
+  "geometry": {"coordinates":[-74.00226499999999,40.685597],"type":"Point"}
 }
