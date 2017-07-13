@@ -3,18 +3,24 @@
   "type": "Feature",
   "properties": {
     "addr:full":"171 1st Ave New York NY 10003",
-    "addr:housenumber":"171",
+    "addr:housenumber":171,
     "addr:postcode":"10003",
     "addr:street":"1St Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-73.984188,40.729106,-73.984188,40.729106",
-    "geom:latitude":40.729106,
-    "geom:longitude":-73.984188,
+    "geom:area":0,
+    "geom:area_square_m":0,
+    "geom:bbox":"-73.984235,40.729365,-73.984235,40.729365",
+    "geom:latitude":40.729365,
+    "geom:longitude":-73.984235,
     "iso:country":"US",
+    "mz:categories":[
+        "eat_and_drink:eat=restaurant",
+        "eat:restaurant=asian"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":1,
     "sg:address":"171 1st Ave",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -35,6 +41,7 @@
     "sg:website":"www.momofuku.com/noodle/default.asp",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "571754157",
         85816887,
         102191575,
         907196817,
@@ -49,7 +56,7 @@
         "sg:id":"SG_1RygyHA5oIkS85ekFPGVwZ_40.729106_-73.984188@1303262287"
     },
     "wof:country":"US",
-    "wof:geomhash":"2973566a74ece066a37b0b9e289d7cec",
+    "wof:geomhash":"58ba43f2fcb8f809969018732330a456",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -60,11 +67,11 @@
             "macrohood_id":907196817,
             "neighbourhood_id":85816887,
             "region_id":85688543,
-            "venue_id":571754157
+            "venue_id":"571754157"
         }
     ],
     "wof:id":571754157,
-    "wof:lastmodified":1491272761,
+    "wof:lastmodified":1499974764,
     "wof:name":"Momofuku Noodle Bar",
     "wof:parent_id":85816887,
     "wof:placetype":"venue",
@@ -72,8 +79,9 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
-        "fusion",
-        "asian"
+        "restauarant",
+        "asian",
+        "momofuko"
     ]
 },
   "bbox": [
@@ -82,5 +90,5 @@
     -73.984188,
     40.729106
 ],
-  "geometry": {"coordinates":[-73.984188,40.729106],"type":"Point"}
+  "geometry": {"coordinates":[-73.984235,40.729365],"type":"Point"}
 }
