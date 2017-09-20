@@ -4,17 +4,25 @@
   "properties": {
     "addr:full":"54 E 1st St New York NY 10003",
     "addr:housenumber":"54",
+    "addr:phone":"212-677-6221",
     "addr:postcode":"10003",
     "addr:street":"E 1St St",
+    "addr:website":"http://www.prunerestaurant.com/",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-73.989459,40.723692,-73.989459,40.723692",
-    "geom:latitude":40.723692,
-    "geom:longitude":-73.989459,
+    "geom:area":0,
+    "geom:area_square_m":0,
+    "geom:bbox":"-73.989433,40.723803,-73.989433,40.723803",
+    "geom:latitude":40.723803,
+    "geom:longitude":-73.989433,
     "iso:country":"US",
+    "mz:categories":[
+        "eat_and_drink:eat=restaurant",
+        "eat:restaurant=bistro"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":1,
     "sg:address":"54 E 1st St",
     "sg:city":"New York",
     "sg:classifiers":[
@@ -44,14 +52,17 @@
         85977539,
         421205771,
         102081863,
-        85688543
+        85688543,
+        85869699,
+        404521211,
+        102082361
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23sEJAbQLKgYeHfJO9g1f8_40.723692_-73.989459@1303262288"
     },
     "wof:country":"US",
-    "wof:geomhash":"dc1d4525915a0766355c5438251efe3d",
+    "wof:geomhash":"9110d2c8859b1e6a9210841748718d2c",
     "wof:hierarchy":[
         {
             "borough_id":421205771,
@@ -63,10 +74,21 @@
             "neighbourhood_id":85816887,
             "region_id":85688543,
             "venue_id":571763625
+        },
+        {
+            "borough_id":421205771,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082361,
+            "localadmin_id":404521211,
+            "locality_id":85977539,
+            "neighbourhood_id":85869699,
+            "region_id":85688543,
+            "venue_id":571763625
         }
     ],
     "wof:id":571763625,
-    "wof:lastmodified":1491276001,
+    "wof:lastmodified":1505932845,
     "wof:name":"Prune",
     "wof:parent_id":85816887,
     "wof:placetype":"venue",
@@ -86,5 +108,5 @@
     -73.989459,
     40.723692
 ],
-  "geometry": {"coordinates":[-73.989459,40.723692],"type":"Point"}
+  "geometry": {"coordinates":[-73.98943300000001,40.723803],"type":"Point"}
 }
