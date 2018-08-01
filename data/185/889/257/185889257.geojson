@@ -2,17 +2,22 @@
   "id": 185889257,
   "type": "Feature",
   "properties": {
-    "addr:full":"28 Village Rd N Brooklyn NY 11223",
+    "addr:city_district":"Brooklyn",
+    "addr:full":"28 Village Rd N Brooklyn, Ny 11223",
+    "addr:house_number":"28",
     "addr:housenumber":"28",
+    "addr:phone":"+1 718-676-0822",
     "addr:postcode":"11223",
+    "addr:road":"Village Rd N",
+    "addr:state":"NY",
     "addr:street":"Village Rd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-73.974119,40.596483,-73.974119,40.596483",
-    "geom:latitude":40.596483,
-    "geom:longitude":-73.974119,
+    "geom:bbox":"-73.97414,40.5965,-73.97414,40.5965",
+    "geom:latitude":40.5965,
+    "geom:longitude":-73.97414,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,7 +34,14 @@
     "sg:phone":"+1 718 676 0822",
     "sg:postcode":"11223",
     "sg:province":"NY",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526561,
+        102526593,
+        102530049,
+        102534365,
+        102526001
+    ],
     "wof:belongsto":[
         85822643,
         102191575,
@@ -45,7 +57,7 @@
         "sg:id":"SG_7a2mEjOeTe7aAqam2kGGsJ_40.596483_-73.974119@1303262345"
     },
     "wof:country":"US",
-    "wof:geomhash":"121839ef6a30df84aabd21dca82d44e0",
+    "wof:geomhash":"d6ecf762db7067f8248f1fddca372297",
     "wof:hierarchy":[
         {
             "borough_id":421205765,
@@ -59,8 +71,8 @@
         }
     ],
     "wof:id":185889257,
-    "wof:lastmodified":1525106563,
-    "wof:name":"Liberty Health Sciences Llc",
+    "wof:lastmodified":1533158856,
+    "wof:name":"Liberty Health Sciences",
     "wof:parent_id":85822643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ny",
@@ -69,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.974119,
-    40.596483,
-    -73.974119,
-    40.596483
+    -73.97414,
+    40.5965,
+    -73.97414,
+    40.5965
 ],
-  "geometry": {"coordinates":[-73.974119,40.596483],"type":"Point"}
+  "geometry": {"coordinates":[-73.97414000000001,40.5965],"type":"Point"}
 }
